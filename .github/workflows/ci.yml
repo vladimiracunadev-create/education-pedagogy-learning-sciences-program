@@ -38,6 +38,12 @@ jobs:
       - name: Sincronía manifiestos → currículo publicado
         run: python scripts/generar_clases.py --check
 
+      # Offline a propósito: el registro se comprueba contra los manifiestos, no
+      # contra la red. Resolver ISBN y DOI es tarea de scripts/refrescar_fuentes.py,
+      # que se ejecuta a mano y no bloquea.
+      - name: Registro de fuentes con localizador
+        run: python scripts/verificar_fuentes.py --check
+
       - name: Documentos generados al día
         run: python scripts/generar_indice.py --check
 

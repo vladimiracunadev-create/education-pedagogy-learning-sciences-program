@@ -1,0 +1,769 @@
+{
+  "schema_version": 1,
+  "proposito": "URLs candidatas para las fuentes normativas e institucionales del registro. Un candidato NO es un localizador: es una propuesta que scripts/refrescar_fuentes.py comprueba antes de escribir nada. Solo se acepta si la URL responde y el documento devuelto contiene todas las marcas declaradas. La que no supera la comprobacion no entra al registro y la obra queda pendiente.",
+  "criterio": "Cuando la cita dice «edicion vigente», el localizador correcto es la seccion viva del organismo que publica la norma, no una copia fechada: es la version en vigor lo que la clase manda comprobar. Cuando la cita fecha un documento concreto, se exige la URL de ese documento.",
+  "candidatos": {
+    "biblioteca-del-congreso-nacional-de-chile-leychile": {
+      "url": "https://www.bcn.cl/leychile/",
+      "marcas": [
+        "leychile"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "biblioteca-del-congreso-nacional-de-chile-ley-general-de-educacion": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1006043",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1006043",
+      "marcas": [
+        "20.370"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "ley-19-253-1993-ley-indigena-chile": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=30620",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=30620",
+      "marcas": [
+        "19.253",
+        "indigenas"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "ley-20-248-2008-subvencion-escolar-preferencial-chile": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=269001",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=269001",
+      "marcas": [
+        "20.248",
+        "subvencion escolar preferencial"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "ley-20-418-2010-informacion-orientacion-y-prestaciones-en-materia": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1010482",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1010482",
+      "marcas": [
+        "20.418",
+        "regulacion de la fertilidad"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "ley-20-422-2010-igualdad-de-oportunidades-e-inclusion-social": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1010903",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1010903",
+      "marcas": [
+        "20.422",
+        "igualdad de oportunidades e inclusion social"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "ley-20-422-chile-sobre-igualdad": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1010903",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1010903",
+      "marcas": [
+        "20.422",
+        "igualdad de oportunidades e inclusion social"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "ley-20-536-sobre-violencia-escolar": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1030087",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1030087",
+      "marcas": [
+        "20.536",
+        "violencia escolar"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "ley-20-845-de-inclusion-escolar": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1078172",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1078172",
+      "marcas": [
+        "20.845",
+        "inclusion escolar"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "ley-21-545-2023-ley-de-autismo-chile": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1190123",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1190123",
+      "marcas": [
+        "21.545",
+        "espectro autista"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "ley-21-545-chile-2023-sobre": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1190123",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1190123",
+      "marcas": [
+        "21.545",
+        "espectro autista"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "decreto-170-2009-ministerio-de-educacion": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1012570",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1012570",
+      "marcas": [
+        "necesidades educativas especiales"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Biblioteca del Congreso Nacional"
+    },
+    "mineduc-decreto-170-2009": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1012570",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1012570",
+      "marcas": [
+        "necesidades educativas especiales"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Biblioteca del Congreso Nacional"
+    },
+    "decreto-83-2015-ministerio-de-educacion": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1074511",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1074511",
+      "marcas": [
+        "adecuacion curricular"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Biblioteca del Congreso Nacional"
+    },
+    "mineduc-decreto-83-2015": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1074511",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1074511",
+      "marcas": [
+        "adecuacion curricular"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Biblioteca del Congreso Nacional"
+    },
+    "mineduc-decreto-83-2015-2": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1074511",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=1074511",
+      "marcas": [
+        "adecuacion curricular"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Biblioteca del Congreso Nacional"
+    },
+    "normativa-chilena-de-proteccion-de-datos": {
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=141599",
+      "comprobar": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=141599",
+      "marcas": [
+        "19.628",
+        "vida privada"
+      ],
+      "autoridad": "Biblioteca del Congreso Nacional de Chile"
+    },
+    "agencia-de-calidad-de-la-educacion-chile-informes-tecnicos-de-las-evaluaciones-n": {
+      "url": "https://www.agenciaeducacion.cl/",
+      "marcas": [
+        "Agencia de Calidad de la Educación"
+      ],
+      "autoridad": "Agencia de Calidad de la Educación (Chile)"
+    },
+    "agencia-de-calidad-de-la-educacion-chile-informes-tecnicos-y-otros-indicadores-d": {
+      "url": "https://www.agenciaeducacion.cl/",
+      "marcas": [
+        "Agencia de Calidad de la Educación"
+      ],
+      "autoridad": "Agencia de Calidad de la Educación (Chile)"
+    },
+    "agencia-de-calidad-de-la-educacion-chile-otros-indicadores-de-calidad-e-informes": {
+      "url": "https://www.agenciaeducacion.cl/",
+      "marcas": [
+        "Agencia de Calidad de la Educación"
+      ],
+      "autoridad": "Agencia de Calidad de la Educación (Chile)"
+    },
+    "superintendencia-de-educacion-chile-orientaciones-sobre-comunicacion-con-las-fam": {
+      "url": "https://www.supereduc.cl/",
+      "marcas": [
+        "Superintendencia de Educación"
+      ],
+      "autoridad": "Superintendencia de Educación (Chile)"
+    },
+    "superintendencia-de-educacion-chile-orientaciones-sobre-convivencia-digital-y-pr": {
+      "url": "https://www.supereduc.cl/",
+      "marcas": [
+        "Superintendencia de Educación"
+      ],
+      "autoridad": "Superintendencia de Educación (Chile)"
+    },
+    "superintendencia-de-educacion-de-chile-circulares-sobre-convivencia-escolar": {
+      "url": "https://www.supereduc.cl/",
+      "marcas": [
+        "Superintendencia de Educación"
+      ],
+      "autoridad": "Superintendencia de Educación (Chile)"
+    },
+    "superintendencia-de-educacion-de-chile-normativa-sobre-convivencia-escolar-y-deb": {
+      "url": "https://www.supereduc.cl/",
+      "marcas": [
+        "Superintendencia de Educación"
+      ],
+      "autoridad": "Superintendencia de Educación (Chile)"
+    },
+    "superintendencia-de-educacion-de-chile-orientaciones-sobre-convivencia-digital": {
+      "url": "https://www.supereduc.cl/",
+      "marcas": [
+        "Superintendencia de Educación"
+      ],
+      "autoridad": "Superintendencia de Educación (Chile)"
+    },
+    "mineduc-superintendencia-de-educacion-normativa-sobre-convivencia-escolar-y-regl": {
+      "url": "https://www.supereduc.cl/",
+      "marcas": [
+        "Superintendencia de Educación"
+      ],
+      "autoridad": "Superintendencia de Educación (Chile)"
+    },
+    "mineduc-superintendencia-de-educacion-orientaciones-y-protocolos-de-convivencia": {
+      "url": "https://www.supereduc.cl/",
+      "marcas": [
+        "Superintendencia de Educación"
+      ],
+      "autoridad": "Superintendencia de Educación (Chile)"
+    },
+    "mineduc-superintendencia-de-educacion-protocolos-de-actuacion-ante-situaciones-d": {
+      "url": "https://www.supereduc.cl/",
+      "marcas": [
+        "Superintendencia de Educación"
+      ],
+      "autoridad": "Superintendencia de Educación (Chile)"
+    },
+    "mineduc-superintendencia-de-educacion-sitios-institucionales": {
+      "url": "https://www.mineduc.cl/",
+      "marcas": [
+        "Ministerio de Educación"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "mineduc-superintendencia-de-educacion-politica-nacional-de-convivencia-educativa": {
+      "urls": [
+        "https://convivenciaparaciudadania.mineduc.cl/",
+        "https://www.mineduc.cl/"
+      ],
+      "marcas": [
+        "convivencia"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "mineduc-politica-nacional-de-convivencia-educativa": {
+      "urls": [
+        "https://convivenciaparaciudadania.mineduc.cl/",
+        "https://www.mineduc.cl/"
+      ],
+      "marcas": [
+        "convivencia"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "mineduc-bases-curriculares": {
+      "url": "https://www.curriculumnacional.cl/",
+      "marcas": [
+        "Currículum Nacional"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Unidad de Currículum y Evaluación"
+    },
+    "mineduc-bases-curriculares-de-educacion-basica": {
+      "url": "https://www.curriculumnacional.cl/",
+      "marcas": [
+        "Currículum Nacional"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Unidad de Currículum y Evaluación"
+    },
+    "mineduc-programas-de-estudio": {
+      "url": "https://www.curriculumnacional.cl/",
+      "marcas": [
+        "Currículum Nacional"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Unidad de Currículum y Evaluación"
+    },
+    "mineduc-priorizacion-curricular-y-orientaciones-de-planificacion": {
+      "url": "https://www.curriculumnacional.cl/",
+      "marcas": [
+        "Currículum Nacional"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Unidad de Currículum y Evaluación"
+    },
+    "mineduc-bases-curriculares-de-la-formacion-diferenciada": {
+      "urls": [
+        "https://www.curriculumnacional.cl/"
+      ],
+      "marcas": [
+        "Currículum Nacional"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Unidad de Currículum y Evaluación"
+    },
+    "mineduc-bases-curriculares-de-la-formacion-diferenciada-2": {
+      "urls": [
+        "https://www.curriculumnacional.cl/"
+      ],
+      "marcas": [
+        "Currículum Nacional"
+      ],
+      "autoridad": "Ministerio de Educación de Chile · Unidad de Currículum y Evaluación"
+    },
+    "mineduc-2018-bases-curriculares-de-la-educacion-parvularia": {
+      "url": "https://parvularia.mineduc.cl/descarga-las-bases-curriculares-la-educacion-parvularia-2018/",
+      "marcas": [
+        "Bases Curriculares",
+        "Educación Parvularia"
+      ],
+      "autoridad": "Subsecretaría de Educación Parvularia · Ministerio de Educación de Chile"
+    },
+    "mineduc-2018-bases-curriculares-de-la-educacion-parvularia-2": {
+      "url": "https://parvularia.mineduc.cl/descarga-las-bases-curriculares-la-educacion-parvularia-2018/",
+      "marcas": [
+        "Bases Curriculares",
+        "Educación Parvularia"
+      ],
+      "autoridad": "Subsecretaría de Educación Parvularia · Ministerio de Educación de Chile"
+    },
+    "mineduc-2018-bases-curriculares-de-la-educacion-parvularia-3": {
+      "url": "https://parvularia.mineduc.cl/descarga-las-bases-curriculares-la-educacion-parvularia-2018/",
+      "marcas": [
+        "Bases Curriculares",
+        "Educación Parvularia"
+      ],
+      "autoridad": "Subsecretaría de Educación Parvularia · Ministerio de Educación de Chile"
+    },
+    "mineduc-orientaciones-para-la-evaluacion-en-educacion": {
+      "url": "https://parvularia.mineduc.cl/",
+      "marcas": [
+        "Educación Parvularia"
+      ],
+      "autoridad": "Subsecretaría de Educación Parvularia · Ministerio de Educación de Chile"
+    },
+    "mineduc-marco-para-la-buena-ensenanza": {
+      "urls": [
+        "https://www.cpeip.cl/marco-de-buena-ensenanza/",
+        "https://www.cpeip.cl/"
+      ],
+      "marcas": [
+        "Marco para la Buena Enseñanza"
+      ],
+      "autoridad": "CPEIP · Ministerio de Educación de Chile"
+    },
+    "mineduc-marco-para-la-buena-direccion-y": {
+      "urls": [
+        "https://www.cpeip.cl/marco-para-la-buena-direccion-y-liderazgo-escolar/",
+        "https://www.cpeip.cl/"
+      ],
+      "marcas": [
+        "Marco para la Buena Dirección"
+      ],
+      "autoridad": "CPEIP · Ministerio de Educación de Chile"
+    },
+    "mineduc-orientaciones-para-el-plan-de-mejoramiento": {
+      "urls": [
+        "https://liderazgoeducativo.mineduc.cl/orientaciones-pme-2026-2/",
+        "https://liderazgoeducativo.mineduc.cl/"
+      ],
+      "marcas": [
+        "Plan de Mejoramiento Educativo"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "mineduc-orientaciones-para-el-trabajo-colaborativo-y": {
+      "urls": [
+        "https://educacionespecial.mineduc.cl/",
+        "https://www.mineduc.cl/"
+      ],
+      "marcas": [
+        "educación especial"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "ministerio-de-educacion-de-chile-orientaciones-para-la-inclusion-de-estudiantes": {
+      "urls": [
+        "https://migrantes.mineduc.cl/",
+        "https://www.mineduc.cl/"
+      ],
+      "marcas": [
+        "migrante"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "ministerio-de-educacion-de-chile-orientaciones-para-la-actuacion-ante-situacione": {
+      "urls": [
+        "https://convivenciaparaciudadania.mineduc.cl/",
+        "https://www.mineduc.cl/"
+      ],
+      "marcas": [
+        "convivencia"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "ministerio-de-educacion-de-chile-orientaciones-para-la-elaboracion-de-protocolos": {
+      "urls": [
+        "https://convivenciaparaciudadania.mineduc.cl/",
+        "https://www.mineduc.cl/"
+      ],
+      "marcas": [
+        "convivencia"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "ministerio-de-educacion-de-chile-orientaciones-sobre-salud-mental-en-la": {
+      "urls": [
+        "https://convivenciaparaciudadania.mineduc.cl/",
+        "https://www.mineduc.cl/"
+      ],
+      "marcas": [
+        "convivencia"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "ministerio-de-salud-de-chile-recomendaciones-de-postvencion-en-comunidades-educa": {
+      "url": "https://www.minsal.cl/",
+      "marcas": [
+        "Ministerio de Salud"
+      ],
+      "autoridad": "Ministerio de Salud de Chile"
+    },
+    "ministerio-de-salud-ministerio-de-educacion-de-chile-recomendaciones-para-la-pre": {
+      "url": "https://www.minsal.cl/",
+      "marcas": [
+        "Ministerio de Salud"
+      ],
+      "autoridad": "Ministerio de Salud de Chile"
+    },
+    "programa-de-educacion-intercultural-bilingue-ministerio": {
+      "urls": [
+        "https://peib.mineduc.cl/",
+        "https://www.mineduc.cl/"
+      ],
+      "marcas": [
+        "intercultural"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "superintendencia-de-seguridad-social-y-normativa": {
+      "url": "https://www.suseso.cl/",
+      "marcas": [
+        "Superintendencia de Seguridad Social"
+      ],
+      "autoridad": "Superintendencia de Seguridad Social (Chile)"
+    },
+    "mineduc-subsecretaria-de-educacion-superior-sistemas-publicos-de-informacion-sob": {
+      "urls": [
+        "https://www.mifuturo.cl/",
+        "https://educacionsuperior.mineduc.cl/"
+      ],
+      "marcas": [
+        "futuro"
+      ],
+      "autoridad": "Subsecretaría de Educación Superior · Ministerio de Educación de Chile"
+    },
+    "mineduc-marco-de-cualificaciones-tecnico-profesional": {
+      "urls": [
+        "https://tp.mineduc.cl/",
+        "https://www.curriculumnacional.cl/"
+      ],
+      "marcas": [
+        "técnico"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "mineduc-normativa-y-orientaciones-sobre-formacion-dual": {
+      "urls": [
+        "https://tp.mineduc.cl/",
+        "https://www.curriculumnacional.cl/"
+      ],
+      "marcas": [
+        "técnico"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "mineduc-orientaciones-para-la-evaluacion-en-la": {
+      "urls": [
+        "https://tp.mineduc.cl/",
+        "https://www.curriculumnacional.cl/"
+      ],
+      "marcas": [
+        "técnico"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "mineduc-orientaciones-para-la-vinculacion-con-el": {
+      "urls": [
+        "https://tp.mineduc.cl/",
+        "https://www.curriculumnacional.cl/"
+      ],
+      "marcas": [
+        "técnico"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "mineduc-reglamento-y-orientaciones-sobre-practica-profesional": {
+      "urls": [
+        "https://tp.mineduc.cl/",
+        "https://www.curriculumnacional.cl/"
+      ],
+      "marcas": [
+        "técnico"
+      ],
+      "autoridad": "Ministerio de Educación de Chile"
+    },
+    "aera-ncme-2014-standards": {
+      "url": "https://www.testingstandards.net/",
+      "marcas": [
+        "Standards for Educational and Psychological Testing"
+      ],
+      "autoridad": "AERA · APA · NCME"
+    },
+    "aera-ncme-2014-standards-for-educational-and-psychological-testing": {
+      "url": "https://www.testingstandards.net/",
+      "marcas": [
+        "Standards for Educational and Psychological Testing"
+      ],
+      "autoridad": "AERA · APA · NCME"
+    },
+    "cast-2024-udl-guidelines": {
+      "url": "https://udlguidelines.cast.org/",
+      "marcas": [
+        "UDL Guidelines"
+      ],
+      "autoridad": "CAST"
+    },
+    "cast-2024-udl-guidelines-2": {
+      "url": "https://udlguidelines.cast.org/",
+      "marcas": [
+        "UDL Guidelines"
+      ],
+      "autoridad": "CAST"
+    },
+    "cast-universal-design-for-learning-guidelines": {
+      "url": "https://udlguidelines.cast.org/",
+      "marcas": [
+        "UDL Guidelines"
+      ],
+      "autoridad": "CAST"
+    },
+    "comision-europea-digcompedu-marco-europeo-para-la-competencia": {
+      "urls": [
+        "https://joint-research-centre.ec.europa.eu/digcompedu_en"
+      ],
+      "marcas": [
+        "DigCompEdu"
+      ],
+      "autoridad": "Comisión Europea · Joint Research Centre"
+    },
+    "declaration-on-research-assessment-dora": {
+      "url": "https://sfdora.org/",
+      "marcas": [
+        "Declaration on Research Assessment"
+      ],
+      "autoridad": "DORA"
+    },
+    "education-endowment-foundation-2018-metacognition-and-self-regulated-learning": {
+      "url": "https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition",
+      "marcas": [
+        "Metacognition and Self-regulated Learning"
+      ],
+      "autoridad": "Education Endowment Foundation"
+    },
+    "education-endowment-foundation-2018-metacognition-and-self-regulated-learning-gu": {
+      "url": "https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition",
+      "marcas": [
+        "Metacognition and Self-regulated Learning"
+      ],
+      "autoridad": "Education Endowment Foundation"
+    },
+    "education-endowment-foundation-teaching-and-learning-toolkit": {
+      "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit",
+      "marcas": [
+        "Teaching and Learning Toolkit"
+      ],
+      "autoridad": "Education Endowment Foundation"
+    },
+    "foro-economico-mundial-future-of-jobs-report": {
+      "urls": [
+        "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
+        "https://www.weforum.org/publications/series/the-future-of-jobs/"
+      ],
+      "marcas": [
+        "Future of Jobs"
+      ],
+      "autoridad": "World Economic Forum"
+    },
+    "informe-belmont-y-declaraciones-internacionales-sobre": {
+      "urls": [
+        "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html"
+      ],
+      "marcas": [
+        "Belmont Report"
+      ],
+      "autoridad": "Office for Human Research Protections (HHS)"
+    },
+    "national-autism-center-national-clearinghouse-reportes-sobre-practicas-basadas-e": {
+      "urls": [
+        "https://nationalautismcenter.org/national-standards/",
+        "https://nationalautismcenter.org/"
+      ],
+      "marcas": [
+        "autism"
+      ],
+      "autoridad": "National Autism Center"
+    },
+    "ocde-principios-sobre-inteligencia-artificial": {
+      "url": "https://oecd.ai/en/ai-principles",
+      "marcas": [
+        "AI Principles"
+      ],
+      "autoridad": "OCDE"
+    },
+    "ocde-pisa-marco-tecnico-y-de-evaluacion": {
+      "urls": [
+        "https://www.oecd.org/en/about/programmes/pisa.html",
+        "https://www.oecd.org/pisa/"
+      ],
+      "marcas": [
+        "PISA"
+      ],
+      "autoridad": "OCDE"
+    },
+    "ocde-talis-estudio-internacional-sobre-la-ensenanza": {
+      "urls": [
+        "https://www.oecd.org/en/about/programmes/talis.html",
+        "https://www.oecd.org/education/talis/"
+      ],
+      "marcas": [
+        "TALIS"
+      ],
+      "autoridad": "OCDE"
+    },
+    "ocde-education-at-a-glance": {
+      "urls": [
+        "https://www.oecd.org/en/publications/education-at-a-glance_19991487.html",
+        "https://www.oecd.org/education/education-at-a-glance/"
+      ],
+      "marcas": [
+        "Education at a Glance"
+      ],
+      "autoridad": "OCDE"
+    },
+    "organizacion-internacional-del-trabajo-directrices-sobre-sistemas-de-gestion-de": {
+      "urls": [
+        "https://www.ilo.org/publications/guidelines-occupational-safety-and-health-management-systems-ilo-osh-2001",
+        "https://www.ilo.org/topics/safety-and-health-work"
+      ],
+      "marcas": [
+        "occupational safety and health"
+      ],
+      "autoridad": "Organización Internacional del Trabajo"
+    },
+    "organizacion-mundial-de-la-salud-2001-cif": {
+      "url": "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health",
+      "marcas": [
+        "International Classification of Functioning"
+      ],
+      "autoridad": "Organización Mundial de la Salud"
+    },
+    "organizacion-mundial-de-la-salud-2001-clasificacion-internacional-del-funcionami": {
+      "url": "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health",
+      "marcas": [
+        "International Classification of Functioning"
+      ],
+      "autoridad": "Organización Mundial de la Salud"
+    },
+    "organizacion-mundial-de-la-salud-clasificacion-internacional-del-funcionamiento": {
+      "url": "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health",
+      "marcas": [
+        "International Classification of Functioning"
+      ],
+      "autoridad": "Organización Mundial de la Salud"
+    },
+    "organizacion-mundial-de-la-salud-2019-directrices-sobre-actividad-fisica-comport": {
+      "url": "https://www.who.int/publications/i/item/9789241550536",
+      "marcas": [
+        "physical activity",
+        "under 5 years"
+      ],
+      "autoridad": "Organización Mundial de la Salud"
+    },
+    "organizacion-mundial-de-la-salud-2019-directrices-sobre-actividad-fisica-en-meno": {
+      "url": "https://www.who.int/publications/i/item/9789241550536",
+      "marcas": [
+        "physical activity",
+        "under 5 years"
+      ],
+      "autoridad": "Organización Mundial de la Salud"
+    },
+    "organizacion-mundial-de-la-salud-2020-directrices-sobre-actividad-fisica-y-compo": {
+      "url": "https://www.who.int/publications/i/item/9789240015128",
+      "marcas": [
+        "physical activity and sedentary behaviour"
+      ],
+      "autoridad": "Organización Mundial de la Salud"
+    },
+    "tuning-marco-de-cualificaciones-descriptores-de-competencias-transversales": {
+      "urls": [
+        "https://www.tuningacademy.org/"
+      ],
+      "marcas": [
+        "Tuning"
+      ],
+      "autoridad": "Tuning Academy"
+    },
+    "unesco-2023-guidance-for-generative-ai-in-education": {
+      "url": "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research",
+      "marcas": [
+        "Guidance for generative AI in education and research"
+      ],
+      "autoridad": "UNESCO"
+    },
+    "unesco-2021-recomendacion-sobre-la-etica-de-la": {
+      "urls": [
+        "https://www.unesco.org/es/artificial-intelligence/recommendation-ethics",
+        "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics"
+      ],
+      "marcas": [
+        "ethics of artificial intelligence"
+      ],
+      "autoridad": "UNESCO"
+    },
+    "unesco-2023-informe-de-seguimiento-de-la-educacion": {
+      "urls": [
+        "https://www.unesco.org/gem-report/en/technology"
+      ],
+      "marcas": [
+        "technology in education"
+      ],
+      "autoridad": "UNESCO · Informe GEM"
+    },
+    "unesco-marco-de-competencias-en-tic-para": {
+      "urls": [
+        "https://www.unesco.org/en/digital-competencies-skills/ict-cft"
+      ],
+      "marcas": [
+        "ICT Competency Framework for Teachers"
+      ],
+      "autoridad": "UNESCO"
+    },
+    "unesco-marco-de-competencias-digitales-para-docentes": {
+      "urls": [
+        "https://www.unesco.org/en/digital-competencies-skills/ict-cft"
+      ],
+      "marcas": [
+        "ICT Competency Framework for Teachers"
+      ],
+      "autoridad": "UNESCO"
+    },
+    "unesco-unevoc-informes-sobre-educacion-y-formacion-tecnica": {
+      "urls": [
+        "https://unevoc.unesco.org/home/",
+        "https://unevoc.unesco.org/"
+      ],
+      "marcas": [
+        "UNEVOC"
+      ],
+      "autoridad": "UNESCO-UNEVOC"
+    },
+    "unesco-unevoc-ocde-estudios-comparados-sobre-aprendizaje-dual-y": {
+      "urls": [
+        "https://unevoc.unesco.org/home/",
+        "https://unevoc.unesco.org/"
+      ],
+      "marcas": [
+        "UNEVOC"
+      ],
+      "autoridad": "UNESCO-UNEVOC"
+    }
+  }
+}

@@ -1,4 +1,4 @@
-.PHONY: help generar indice actividades validar test sitio capacitacion lint todo limpiar
+.PHONY: help generar fuentes verify-sources refresh-sources indice actividades validar test sitio capacitacion lint todo limpiar
 
 PYTHON ?= python
 
@@ -8,6 +8,15 @@ help:  ## Muestra esta ayuda
 generar:  ## Regenera curriculum/ desde los manifiestos
 	$(PYTHON) scripts/generar_clases.py
 
+fuentes:  ## Regenera el registro de fuentes, su documento y las cifras del README
+	$(PYTHON) scripts/verificar_fuentes.py
+
+verify-sources:  ## Verifica el registro de fuentes sin tocar la red (lo que corre en CI)
+	$(PYTHON) scripts/verificar_fuentes.py --check
+
+refresh-sources:  ## Resuelve localizadores contra OpenLibrary, Crossref y los sitios oficiales (red)
+	$(PYTHON) scripts/refrescar_fuentes.py
+
 indice:  ## Regenera STATUS, SYLLABUS, FILE_INDEX, GLOSARIO y catalog.json
 	$(PYTHON) scripts/generar_indice.py
 
@@ -16,6 +25,7 @@ actividades:  ## Regenera el banco de actividades prácticas
 
 validar:  ## Validación estricta: la misma que corre en CI
 	$(PYTHON) scripts/generar_clases.py --check
+	$(PYTHON) scripts/verificar_fuentes.py --check
 	$(PYTHON) scripts/generar_indice.py --check
 	$(PYTHON) scripts/generar_actividades.py --check
 	$(PYTHON) scripts/validar_estructura.py --resumen
@@ -33,7 +43,7 @@ capacitacion:  ## Genera el paquete para LMS en capacitacion/
 lint:  ## Comprueba el Markdown con markdownlint-cli2
 	npx --yes markdownlint-cli2@0.18.1 "**/*.md"
 
-todo: generar indice actividades validar test sitio capacitacion  ## Todo lo que exige CI
+todo: fuentes generar indice actividades validar test sitio capacitacion  ## Todo lo que exige CI
 
 limpiar:  ## Borra artefactos generados y cachés
 	rm -rf site capacitacion .pytest_cache .ruff_cache
