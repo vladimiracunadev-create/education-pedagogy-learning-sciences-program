@@ -15,7 +15,7 @@ específicas, desafíos del aula, diversidad, bienestar docente y evidencia comp
 [![Seguridad](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/security.yml)
 [![CodeQL](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/codeql.yml)
 
-[![Versión](https://img.shields.io/badge/versión-2.0.0-e67e22?style=for-the-badge)](CHANGELOG.md)
+[![Versión](https://img.shields.io/badge/versión-2.1.0-e67e22?style=for-the-badge)](CHANGELOG.md)
 [![Clases](https://img.shields.io/badge/clases-300%20·%2025%20partes-7c5cff?style=for-the-badge)](CURRICULUM.md)
 [![Contenido](https://img.shields.io/badge/contenido-1.189.170%20palabras-2e8b57?style=for-the-badge)](MANIFEST.md)
 [![Rutas](https://img.shields.io/badge/rutas%20por%20rol-14-007c83?style=for-the-badge)](rutas/README.md)
@@ -36,7 +36,7 @@ específicas, desafíos del aula, diversidad, bienestar docente y evidencia comp
 [🧑‍🏫 Guía del formador](docs/GUIA_DEL_FORMADOR.md) ·
 [🧰 Banco de actividades](actividades/README.md) ·
 [📖 Glosario](docs/GLOSARIO.md) ·
-[📚 Bibliografía (489 obras)](docs/BIBLIOGRAFIA.md) ·
+[📚 Bibliografía (489 obras · 376 con localizador)](docs/BIBLIOGRAFIA.md) ·
 [📊 Estado verificable](STATUS.md) ·
 [📦 Manifiesto](MANIFEST.md) ·
 [🗺️ Roadmap](ROADMAP.md) ·
@@ -431,13 +431,29 @@ preguntas de comprobación como cuestionario de cierre.
 ## 📚 Sobre qué está construido
 
 El programa no cita para adornar: **cada clase declara de dos a tres obras y explica qué aporta
-cada una**. En total, **489 obras** sostienen las 300 clases y sus 25 partes con **622 citas** —**382 libros y
-artículos** de investigación y **107 fuentes institucionales o normativas**—. Todas están en un
+cada una**. En total, **489 obras** sostienen las 300 clases y sus 25 partes con **622 citas** —**373 libros
+y artículos** de investigación y **116 fuentes institucionales o normativas**—. Todas están en un
 índice generado desde la misma fuente que las clases, de modo que **ninguna obra citada puede
 quedar fuera del registro**, y el CI falla si alguna lo hace.
 
 ➡️ **[Obras citadas, clase por clase](docs/OBRAS_CITADAS.md)** — cada obra con el lente que aporta
 y el enlace a las clases que la usan.
+
+<!-- registro-de-fuentes:inicio -->
+
+➡️ **[Registro de fuentes con localizador](docs/REGISTRO_DE_FUENTES.md)** — cada obra con su ISBN-13, su DOI o la URL oficial que la resuelve.
+
+| Registro de fuentes | Cifra |
+|---|---:|
+| Obras en el registro | **489** |
+| Con localizador verificado | **376** (76.9 %) |
+| Pendientes, declaradas y no borradas | **113** |
+| Libros con ISBN-13 · artículos con DOI · normas con URL oficial | 127 · 165 · 84 |
+| Obras usadas por una clase o parte, todas en el registro | 489/489 |
+
+Las cifras de esta tabla las escribe `python scripts/verificar_fuentes.py`, que corre en CI: si alguien las edita a mano, el CI se pone rojo.
+
+<!-- registro-de-fuentes:fin -->
 
 **Las obras que más sostienen el programa:**
 

@@ -35,7 +35,7 @@
 | `chile-education-system/` | 9 | marco institucional y normativo chileno |
 | `curriculum/` | 325 | las 25 partes y sus 300 clases, generadas desde `manifests/` |
 | `datasets/` | 2 | datos sintéticos para practicar análisis |
-| `docs/` | 18 | documentos transversales: metodología, guías, bibliografía, marcos y protocolos |
+| `docs/` | 19 | documentos transversales: metodología, guías, bibliografía, marcos y protocolos |
 | `international-education/` | 1 | comparación internacional de sistemas educativos |
 | `labs/` | 13 | laboratorios y simuladores de práctica |
 | `manifests/` | 35 | fuente única de verdad del currículo: nada se edita a mano en `curriculum/` |
@@ -43,9 +43,10 @@
 | `papers/` | 1 | plantilla de revisión crítica de artículos |
 | `projects/` | 6 | proyectos integradores mayores del programa |
 | `rutas/` | 15 | guías de carrera por rol: qué es, día a día, ruta en el programa y credenciales |
-| `scripts/` | 7 | generadores y validadores; todo lo publicado se reconstruye con ellos |
+| `scripts/` | 10 | generadores y validadores; todo lo publicado se reconstruye con ellos |
+| `sources/` | 2 | registro de fuentes: cada obra citada con su ISBN-13, su DOI o su URL oficial |
 | `templates/` | 5 | plantillas de trabajo reutilizables |
-| `tests/` | 1 | pruebas estructurales del repositorio |
+| `tests/` | 2 | pruebas estructurales del repositorio |
 | `virtual-school-lab/` | 1 | escuela y universidad simuladas para practicar decisiones |
 
 ## Currículo
@@ -495,5 +496,6 @@
 | [`docs/MIGRACION_A_CAPACITACION.md`](docs/MIGRACION_A_CAPACITACION.md) | Migración a capacitación |
 | [`docs/OBRAS_CITADAS.md`](docs/OBRAS_CITADAS.md) | Obras citadas, clase por clase |
 | [`docs/PREGUNTAS_FRECUENTES.md`](docs/PREGUNTAS_FRECUENTES.md) | Preguntas frecuentes |
+| [`docs/REGISTRO_DE_FUENTES.md`](docs/REGISTRO_DE_FUENTES.md) | Registro de fuentes con localizador |
 | [`docs/RUTAS_DE_APRENDIZAJE.md`](docs/RUTAS_DE_APRENDIZAJE.md) | Rutas de aprendizaje |
 | [`docs/SISTEMA_DE_EVALUACION.md`](docs/SISTEMA_DE_EVALUACION.md) | Sistema de evaluación del programa |

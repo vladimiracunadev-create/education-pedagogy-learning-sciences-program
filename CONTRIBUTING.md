@@ -42,6 +42,11 @@ la fuente.
 3. **Declara los límites.** Toda clase tiene una sección para lo que la evidencia **no** sostiene:
    completarla no es opcional.
 4. **Cita con precisión:** autor, año, obra. Y verifica que la obra existe y dice lo que afirmas.
+   Cada obra citada necesita ficha en [`sources/bibliography.json`](sources/bibliography.json):
+   `python scripts/verificar_fuentes.py` la crea como `pendiente` y
+   `python scripts/refrescar_fuentes.py` intenta resolverla contra OpenLibrary, Crossref o el
+   sitio del organismo. **Un localizador que no resolvió se deja pendiente; no se escribe a
+   mano.** Un ISBN inventado pasa desapercibido para siempre; un hueco declarado, no.
 5. **Considera diversidad y accesibilidad** en el campo `inclusion`.
 6. **Escribe en español claro.** Frases cortas, sin jerga innecesaria, con ejemplos concretos.
 
@@ -55,6 +60,7 @@ git checkout -b correccion/clase-042-fuente
 #    manifests/classes/part-NN.json  ·  manifests/parts/parts-NN-NN.json
 
 # 3. Regenera y valida
+python scripts/verificar_fuentes.py      # registro de fuentes y cifras del README
 python scripts/generar_clases.py
 python scripts/generar_indice.py
 python scripts/validar_estructura.py

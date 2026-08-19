@@ -1,6 +1,6 @@
 # Obras citadas, clase por clase
 
-Las **489 obras** que el programa cita en sus clases y en sus partes: **382 libros y artículos** y **107 fuentes institucionales o normativas**, con **622 citas** en total.
+Las **489 obras** que el programa cita en sus clases y en sus partes: **373 libros y artículos** y **116 fuentes institucionales o normativas**, con **622 citas** en total.
 
 Se genera con `python scripts/generar_indice.py` a partir de los manifiestos, de modo que **ninguna obra citada puede quedar fuera de este índice**. Cada entrada declara el lente que aporta la obra y enlaza a las clases que la usan. La [bibliografía comentada](BIBLIOGRAFIA.md) organiza las mismas obras por área y explica el criterio de selección; las [fuentes oficiales](FUENTES.md) explican cómo leer las normativas.
 
@@ -11,11 +11,6 @@ Se genera con `python scripts/generar_indice.py` a partir de los manifiestos, de
 ## Libros y artículos
 
 Obras de autor: libros, síntesis de evidencia y artículos de investigación.
-
-### AAIDD. *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports* (edición vigente)
-
-- *Aporta:* define la discapacidad intelectual desde los apoyos necesarios y no desde el déficit.
-- *Citada en:* [106](../curriculum/part-08-inclusion-y-educacion-especial/class-10-discapacidad-intelectual/README.md)
 
 ### Abeysekera, L. & Dawson, P. (2015). *Motivation and Cognitive Load in the Flipped Classroom*
 
@@ -438,10 +433,21 @@ Obras de autor: libros, síntesis de evidencia y artículos de investigación.
 - *Aporta:* revisa la evidencia disponible y sus limitaciones metodológicas.
 - *Citada en:* [099](../curriculum/part-08-inclusion-y-educacion-especial/class-03-diseno-universal-para-el-aprendizaje/README.md)
 
-### Center on the Developing Child, Harvard. *Working Papers* sobre estrés tóxico y funciones ejecutivas (edición vigente)
+### Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*
 
-- *Aporta:* material técnico riguroso y accesible; útil para comunicar a equipos y familias sin exagerar.
-- *Citada en:* [025](../curriculum/part-02-desarrollo-humano/class-01-desarrollo-prenatal-y-primera-infancia/README.md)
+- *Aporta:* conecta los precursores con la enseñanza posterior y aclara qué está resuelto en el debate.
+- *Aporta:* la síntesis más completa y equilibrada sobre qué está resuelto en la enseñanza de la lectura.
+- *Aporta:* la síntesis que ordena qué está resuelto, qué sigue abierto y por qué la discusión pública va atrasada.
+- *Aporta:* sitúa el entrenamiento fonológico en su lugar: necesario, insuficiente y con techo.
+- *Aporta:* ubica la fluidez dentro del sistema completo y advierte contra tratarla como meta aislada.
+- *Aporta:* trata el efecto de saturación de las estrategias con el detalle que la práctica escolar suele ignorar.
+- *Aporta:* la síntesis más equilibrada de lo que el campo tiene resuelto y de lo que sigue abierto.
+- *Citada en:* [040](../curriculum/part-03-educacion-parvularia/class-04-lenguaje-y-alfabetizacion-emergente/README.md), [049](../curriculum/part-04-educacion-basica/class-01-didactica-de-la-lectura/README.md), [217](../curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-01-que-resolvio-la-ciencia-de-la-lectura/README.md), [218](../curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-02-conciencia-fonologica-y-principio-alfabetico/README.md), [220](../curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-04-fluidez-lectora-medirla-y-desarrollarla/README.md), [222](../curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-06-comprension-lectora-y-sus-estrategias/README.md)
+
+### Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. Psychological Science in the Public Interest, 19(1)
+
+- *Aporta:* la síntesis más citada sobre adquisición de la lectura: qué está resuelto y qué sigue abierto.
+- *Citada en:* lectura de parte, no de clase individual
 
 ### Century, J. & Cassata, A. (2016). *Implementation Research: Finding Common Ground*
 
@@ -499,32 +505,6 @@ Obras de autor: libros, síntesis de evidencia y artículos de investigación.
 
 - *Aporta:* la descripción operativa del ciclo de escalada y de la intervención por fase.
 - *Citada en:* [259](../curriculum/part-21-desafios-actuales-del-aula/class-07-conductas-agresivas-y-desregulacion-emocional/README.md)
-
-### Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio* (edición vigente)
-
-- *Aporta:* referencia sobre coherencia interna esperada en programas formales.
-- *Citada en:* [115](../curriculum/part-09-diseno-curricular/class-07-mapas-curriculares/README.md)
-
-### Comisión Nacional de Acreditación (Chile). *Criterios sobre procesos de titulación* (edición vigente)
-
-- *Aporta:* requisitos institucionales sobre la etapa final de los programas.
-- *Citada en:* [178](../curriculum/part-14-docencia-universitaria/class-10-proyectos-de-titulo/README.md)
-
-### Comisión Nacional de Acreditación (Chile). *Criterios sobre programas de asignatura* (edición vigente)
-
-- *Aporta:* requisitos formales esperados en el sistema chileno.
-- *Citada en:* [171](../curriculum/part-14-docencia-universitaria/class-03-syllabus-universitario/README.md)
-
-### Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación* (edición vigente)
-
-- *Aporta:* define qué se espera del perfil de egreso y de su verificación en el sistema chileno.
-- *Citada en:* [110](../curriculum/part-09-diseno-curricular/class-02-perfil-de-egreso/README.md)
-
-### Committee on Publication Ethics (COPE). *Guidelines* (edición vigente)
-
-- *Aporta:* estándares sobre autoría, conflictos y mala conducta en publicación científica.
-- *Aporta:* criterios sobre autoría y contribución aplicables también a la relación de dirección.
-- *Citada en:* [213](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-09-publicacion-y-peer-review/README.md), [214](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-10-direccion-y-evaluacion-de-tesis/README.md)
 
 ### Condliffe, B. et al. (2017). *Project-Based Learning: A Literature Review*. MDRC
 
@@ -1069,11 +1049,6 @@ Obras de autor: libros, síntesis de evidencia y artículos de investigación.
 
 - *Aporta:* revisión de la evidencia sobre inducción y su efecto en retención.
 - *Citada en:* [287](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-11-cuidado-del-equipo-y-liderazgo-del-bienestar/README.md)
-
-### International Center for Academic Integrity. *Fundamental Values of Academic Integrity* (edición vigente)
-
-- *Aporta:* marco de referencia sobre valores y políticas institucionales.
-- *Citada en:* [152](../curriculum/part-12-gestion-del-aula-y-convivencia/class-08-copias-plagio-e-integridad/README.md)
 
 ### Ioannidis, J. (2005). *Why Most Published Research Findings Are False*
 
@@ -1852,11 +1827,6 @@ Obras de autor: libros, síntesis de evidencia y artículos de investigación.
 - *Aporta:* el talento como trayectoria específica de dominio y no como atributo fijo.
 - *Citada en:* [250](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-10-altas-capacidades-enriquecimiento-y-aceleracion/README.md)
 
-### Subsecretaría de Educación Superior (Chile). *Sistemas de información sobre empleabilidad e ingresos* (edición vigente)
-
-- *Aporta:* fuente verificable para contrastar expectativas con datos reales de trayectorias.
-- *Citada en:* [083](../curriculum/part-06-educacion-tecnico-profesional/class-11-empleabilidad-y-transicion-al-trabajo/README.md)
-
 ### Sugai, G. & Horner, R. *School-Wide Positive Behavior Support* (edición vigente)
 
 - *Aporta:* modelo de sistemas graduados de apoyo conductual con evidencia de implementación.
@@ -1961,11 +1931,6 @@ Obras de autor: libros, síntesis de evidencia y artículos de investigación.
 - *Aporta:* origen de la zona de desarrollo próximo y de la idea de mediación; léelo antes de usar la expresión en una planificación.
 - *Citada en:* [016](../curriculum/part-01-ciencias-del-aprendizaje/class-04-socioconstructivismo-y-aprendizaje-mediado/README.md)
 
-### W3C. *Web Content Accessibility Guidelines (WCAG)* (edición vigente)
-
-- *Aporta:* criterios técnicos de accesibilidad aplicables a todo material digital educativo.
-- *Citada en:* [105](../curriculum/part-08-inclusion-y-educacion-especial/class-09-discapacidad-sensorial-y-motora/README.md)
-
 ### Walton, G. & Cohen, G. (2011). *A Brief Social-Belonging Intervention Improves Academic and Health Outcomes*. Science, 331
 
 - *Aporta:* el estudio de referencia sobre pertenencia; léelo junto con las replicaciones posteriores.
@@ -2002,11 +1967,6 @@ Obras de autor: libros, síntesis de evidencia y artículos de investigación.
 
 - *Aporta:* define el juego guiado y sintetiza la evidencia que lo distingue del juego libre y de la instrucción.
 - *Citada en:* [038](../curriculum/part-03-educacion-parvularia/class-02-juego-y-aprendizaje/README.md)
-
-### What Works Clearinghouse. *Standards Handbook* (edición vigente)
-
-- *Aporta:* criterios operativos para juzgar si un estudio sostiene una afirmación causal.
-- *Citada en:* [197](../curriculum/part-16-investigacion-educativa/class-05-disenos-cuantitativos/README.md)
 
 ### Whetten, D. (1989). *What Constitutes a Theoretical Contribution?* Academy of Management Review, 14(4)
 
@@ -2132,6 +2092,11 @@ Obras de autor: libros, síntesis de evidencia y artículos de investigación.
 
 Marcos, leyes y orientaciones oficiales. Cambian con el tiempo: la versión vigente en su sitio oficial siempre manda sobre lo que diga este programa.
 
+### AAIDD. *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports* (edición vigente)
+
+- *Aporta:* define la discapacidad intelectual desde los apoyos necesarios y no desde el déficit.
+- *Citada en:* [106](../curriculum/part-08-inclusion-y-educacion-especial/class-10-discapacidad-intelectual/README.md)
+
 ### AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*
 
 - *Aporta:* fija el estándar técnico según la consecuencia de la decisión.
@@ -2187,26 +2152,41 @@ Marcos, leyes y orientaciones oficiales. Cambian con el tiempo: la versión vige
 - *Aporta:* el marco operativo del DUA con sus tres principios y sus pautas; usa la versión vigente, no resúmenes de segunda mano.
 - *Citada en:* lectura de parte, no de clase individual
 
-### Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*
+### Center on the Developing Child, Harvard. *Working Papers* sobre estrés tóxico y funciones ejecutivas (edición vigente)
 
-- *Aporta:* conecta los precursores con la enseñanza posterior y aclara qué está resuelto en el debate.
-- *Aporta:* la síntesis más completa y equilibrada sobre qué está resuelto en la enseñanza de la lectura.
-- *Aporta:* la síntesis que ordena qué está resuelto, qué sigue abierto y por qué la discusión pública va atrasada.
-- *Aporta:* sitúa el entrenamiento fonológico en su lugar: necesario, insuficiente y con techo.
-- *Aporta:* ubica la fluidez dentro del sistema completo y advierte contra tratarla como meta aislada.
-- *Aporta:* trata el efecto de saturación de las estrategias con el detalle que la práctica escolar suele ignorar.
-- *Aporta:* la síntesis más equilibrada de lo que el campo tiene resuelto y de lo que sigue abierto.
-- *Citada en:* [040](../curriculum/part-03-educacion-parvularia/class-04-lenguaje-y-alfabetizacion-emergente/README.md), [049](../curriculum/part-04-educacion-basica/class-01-didactica-de-la-lectura/README.md), [217](../curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-01-que-resolvio-la-ciencia-de-la-lectura/README.md), [218](../curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-02-conciencia-fonologica-y-principio-alfabetico/README.md), [220](../curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-04-fluidez-lectora-medirla-y-desarrollarla/README.md), [222](../curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-06-comprension-lectora-y-sus-estrategias/README.md)
-
-### Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. Psychological Science in the Public Interest, 19(1)
-
-- *Aporta:* la síntesis más citada sobre adquisición de la lectura: qué está resuelto y qué sigue abierto.
-- *Citada en:* lectura de parte, no de clase individual
+- *Aporta:* material técnico riguroso y accesible; útil para comunicar a equipos y familias sin exagerar.
+- *Citada en:* [025](../curriculum/part-02-desarrollo-humano/class-01-desarrollo-prenatal-y-primera-infancia/README.md)
 
 ### Comisión Europea. *DigCompEdu: Marco Europeo para la Competencia Digital de los Educadores* (edición vigente)
 
 - *Aporta:* el marco más usado para estructurar áreas y niveles de competencia digital docente.
 - *Citada en:* [157](../curriculum/part-13-tecnologia-e-ia-educativa/class-01-competencia-digital-docente/README.md)
+
+### Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio* (edición vigente)
+
+- *Aporta:* referencia sobre coherencia interna esperada en programas formales.
+- *Citada en:* [115](../curriculum/part-09-diseno-curricular/class-07-mapas-curriculares/README.md)
+
+### Comisión Nacional de Acreditación (Chile). *Criterios sobre procesos de titulación* (edición vigente)
+
+- *Aporta:* requisitos institucionales sobre la etapa final de los programas.
+- *Citada en:* [178](../curriculum/part-14-docencia-universitaria/class-10-proyectos-de-titulo/README.md)
+
+### Comisión Nacional de Acreditación (Chile). *Criterios sobre programas de asignatura* (edición vigente)
+
+- *Aporta:* requisitos formales esperados en el sistema chileno.
+- *Citada en:* [171](../curriculum/part-14-docencia-universitaria/class-03-syllabus-universitario/README.md)
+
+### Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación* (edición vigente)
+
+- *Aporta:* define qué se espera del perfil de egreso y de su verificación en el sistema chileno.
+- *Citada en:* [110](../curriculum/part-09-diseno-curricular/class-02-perfil-de-egreso/README.md)
+
+### Committee on Publication Ethics (COPE). *Guidelines* (edición vigente)
+
+- *Aporta:* estándares sobre autoría, conflictos y mala conducta en publicación científica.
+- *Aporta:* criterios sobre autoría y contribución aplicables también a la relación de dirección.
+- *Citada en:* [213](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-09-publicacion-y-peer-review/README.md), [214](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-10-direccion-y-evaluacion-de-tesis/README.md)
 
 ### Declaration on Research Assessment (DORA) (edición vigente)
 
@@ -2249,6 +2229,11 @@ Marcos, leyes y orientaciones oficiales. Cambian con el tiempo: la versión vige
 
 - *Aporta:* principios de respeto, beneficencia y justicia que fundan los comités de ética.
 - *Citada en:* [203](../curriculum/part-16-investigacion-educativa/class-11-etica-y-reproducibilidad/README.md)
+
+### International Center for Academic Integrity. *Fundamental Values of Academic Integrity* (edición vigente)
+
+- *Aporta:* marco de referencia sobre valores y políticas institucionales.
+- *Citada en:* [152](../curriculum/part-12-gestion-del-aula-y-convivencia/class-08-copias-plagio-e-integridad/README.md)
 
 ### Ley 19.253 (1993). *Ley Indígena, Chile*
 
@@ -2595,6 +2580,11 @@ Marcos, leyes y orientaciones oficiales. Cambian con el tiempo: la versión vige
 - *Aporta:* base para estimar carga de trabajo del estudiante en horas reales.
 - *Citada en:* [118](../curriculum/part-09-diseno-curricular/class-10-diseno-de-syllabus/README.md)
 
+### Subsecretaría de Educación Superior (Chile). *Sistemas de información sobre empleabilidad e ingresos* (edición vigente)
+
+- *Aporta:* fuente verificable para contrastar expectativas con datos reales de trayectorias.
+- *Citada en:* [083](../curriculum/part-06-educacion-tecnico-profesional/class-11-empleabilidad-y-transicion-al-trabajo/README.md)
+
 ### Superintendencia de Educación (Chile). *Orientaciones sobre comunicación con las familias y resguardo de información* (edición vigente)
 
 - *Aporta:* define obligaciones y buenas prácticas aplicables en el sistema chileno.
@@ -2692,6 +2682,16 @@ Marcos, leyes y orientaciones oficiales. Cambian con el tiempo: la versión vige
 
 - *Aporta:* marco internacional con recomendaciones y evidencia disponible.
 - *Citada en:* [070](../curriculum/part-05-educacion-media-y-adolescencia/class-10-ciudadania-digital/README.md)
+
+### W3C. *Web Content Accessibility Guidelines (WCAG)* (edición vigente)
+
+- *Aporta:* criterios técnicos de accesibilidad aplicables a todo material digital educativo.
+- *Citada en:* [105](../curriculum/part-08-inclusion-y-educacion-especial/class-09-discapacidad-sensorial-y-motora/README.md)
+
+### What Works Clearinghouse. *Standards Handbook* (edición vigente)
+
+- *Aporta:* criterios operativos para juzgar si un estudio sostiene una afirmación causal.
+- *Citada en:* [197](../curriculum/part-16-investigacion-educativa/class-05-disenos-cuantitativos/README.md)
 
 ---
 

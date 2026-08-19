@@ -13,6 +13,12 @@ investigación posterior, se indica.
 > Ninguna referencia sustituye la verificación. Antes de citar una obra en un trabajo propio,
 > consúltala directamente: este listado orienta la lectura, no la reemplaza.
 
+**Dónde encontrar cada obra.** Este listado da el criterio y el orden por área; el localizador
+—ISBN-13, DOI o URL oficial— está en el
+[registro de fuentes](REGISTRO_DE_FUENTES.md), generado desde
+[`sources/bibliography.json`](../sources/bibliography.json) y verificado en CI. Lo que no resuelve
+aparece ahí marcado como **pendiente**: el hueco se declara, no se rellena a ojo.
+
 ## Ciencias del aprendizaje y cognición
 
 - **National Research Council (2000).** *How People Learn: Brain, Mind, Experience, and School.*

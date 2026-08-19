@@ -156,6 +156,12 @@ Antes de usar una fuente en un trabajo de este programa, comprueba cuatro cosas:
 
 Una cita que no supera estas cuatro comprobaciones no sostiene una decisión profesional.
 
+La cuarta comprobación —la trazabilidad— es la que este repositorio automatiza en parte: cada
+obra citada tiene ficha en el [registro de fuentes](REGISTRO_DE_FUENTES.md) con su ISBN-13, su
+DOI o la URL oficial que la resuelve. `python scripts/verificar_fuentes.py` comprueba el registro
+sin tocar la red y corre en CI; `python scripts/refrescar_fuentes.py` sale a OpenLibrary, a
+Crossref y al sitio del organismo, y no bloquea nada.
+
 ---
 
 | Anterior | Índice | Siguiente |

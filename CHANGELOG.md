@@ -7,6 +7,45 @@ Versionado semántico: `MAYOR.MENOR.PARCHE`.
 - **MENOR:** se agrega contenido o material de apoyo sin romper la estructura.
 - **PARCHE:** correcciones de contenido, fuentes, enlaces o generadores.
 
+## [2.1.0] — 2026-08-19
+
+Cierra el hueco de trazabilidad de las fuentes. El programa citaba obras reales y declaraba qué
+aporta cada una a cada clase, pero ninguna cita traía un localizador: llegar a la obra dependía
+de buscarla a mano. Ahora cada obra tiene ficha con ISBN-13, DOI o URL oficial, y lo que no
+resuelve se declara pendiente en vez de rellenarse a ojo.
+
+### Añadido
+
+- **`sources/bibliography.json`** — registro de las **489 obras** que citan las clases y las
+  portadas de parte. Cada entrada declara tipo, autores, título, año, localizador, quién responde
+  por la fuente, en qué clases se usa y su estado (`verificada` o `pendiente`).
+- **`docs/REGISTRO_DE_FUENTES.md`** — vista legible del registro, generada, con un ancla por obra
+  para que la cita de clase enlace a su ficha.
+- **`scripts/verificar_fuentes.py`** — verificador **offline** que corre en CI y bloquea:
+  comprueba el esquema, el dígito de control de cada ISBN-13, la forma de cada DOI, la forma
+  canónica del localizador, que toda obra citada esté en el registro, que ninguna entrada sobre,
+  que ningún bloque de fuentes se repita entre clases y que las cifras del README coincidan con
+  el recuento. Las cifras del README las escribe él: dejaron de escribirse a mano.
+- **`scripts/refrescar_fuentes.py`** — resolutor **en red**, manual y que no bloquea: pregunta a
+  OpenLibrary por los libros, a Crossref por los artículos y al sitio del organismo por las
+  normas, con coincidencia estricta de título, autor y año. Lo que deja de resolver se reporta
+  como regresión y **no se borra**.
+- **`sources/candidatos-normativos.json`** — URLs propuestas para las normas. Una propuesta no es
+  un localizador: solo entra al registro si la URL responde y el documento contiene las marcas
+  declaradas.
+- **`tests/test_fuentes.py`** — pruebas del registro: identificadores únicos, localizadores
+  canónicos, pendientes sin localizador a medias y cobertura contra los manifiestos.
+
+### Cambiado
+
+- Cada fuente de cada clase y de cada portada de parte enlaza ahora a su **ficha en el registro**
+  y, cuando resolvió, a su **ISBN, DOI o URL oficial**.
+- `es_institucional` vive en un solo sitio (`scripts/fuentes.py`) y la usan el índice de obras
+  citadas, la validación de estructura y el registro. Antes había dos copias divergentes, y una
+  de ellas contaba a *Castles, A.* como si fuera el organismo CAST.
+- `STATUS.md` publica la cobertura del registro; el README enlaza el registro y muestra sus
+  cifras, producidas por el verificador.
+
 ## [2.0.0] — 2026-08-19
 
 Amplía el programa con una sexta etapa de especialización. El currículo pasa de 216 a **300

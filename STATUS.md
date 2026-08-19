@@ -8,20 +8,23 @@ coincidiendo con lo publicado.
 
 | Métrica | Valor |
 |---|---:|
-| Versión | 2.0.0 |
+| Versión | 2.1.0 |
 | Etapas | 6 |
 | Partes | 25 |
 | Clases | 300 |
 | Clases por parte | 12 |
-| Palabras en las 300 clases | 1.189.170 |
-| Palabras por clase | 3826–4178 (mediana 3959) |
+| Palabras en las 300 clases | 1.194.368 |
+| Palabras por clase | 3842–4194 (mediana 3976) |
 | Diagramas mermaid | 325 (uno por clase y uno por parte) |
 | Conceptos con definición operacional | 1.200 |
 | Decisiones profesionales habilitadas | 300 (una por clase) |
 | Evidencias de aprendizaje definidas | 300 |
 | Preguntas de comprobación | 900 |
 | Referencias bibliográficas citadas en clases | 622 |
-| Documentos transversales (`docs/`) | 18 |
+| Obras en el registro de fuentes | 489 |
+| Obras con localizador verificado (ISBN-13, DOI o URL oficial) | 376 (76%) |
+| Obras pendientes de localizador, declaradas y no borradas | 113 |
+| Documentos transversales (`docs/`) | 19 |
 | Casos profesionales (`cases/`) | 9 |
 | Proyectos integradores mayores (`projects/`) | 6 |
 | Laboratorios (`labs/`) | 10 |
@@ -56,6 +59,7 @@ robusta y cuánto es marco normativo o práctica profesional.
 
 ```bash
 python scripts/generar_clases.py --check
+python scripts/verificar_fuentes.py --check
 python scripts/validar_estructura.py --resumen
 python scripts/validar_encoding.py
 python -m unittest discover -s tests -v
