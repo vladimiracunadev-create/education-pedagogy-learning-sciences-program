@@ -243,7 +243,13 @@ def construir_indice(curriculo, packs) -> str:
         carpeta = RAIZ / nombre
         if not carpeta.exists():
             continue
-        cantidad = sum(1 for p in carpeta.rglob("*") if p.is_file())
+        # Se cuentan solo los archivos versionables: las cachés locales harían que
+        # el índice difiera entre una máquina de trabajo y el runner de CI.
+        cantidad = sum(
+            1 for p in carpeta.rglob("*")
+            if p.is_file() and not any(parte in IGNORADOS or parte.startswith(".")
+                                       for parte in p.relative_to(RAIZ).parts)
+        )
         lineas.append(f"| `{nombre}/` | {cantidad} | {DESCRIPCIONES[nombre]} |")
 
     lineas += ["", "## Currículo", ""]

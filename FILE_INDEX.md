@@ -41,9 +41,9 @@
 | `notebooks/` | 1 | actividades analíticas reproducibles |
 | `papers/` | 1 | plantilla de revisión crítica de artículos |
 | `projects/` | 6 | proyectos integradores mayores del programa |
-| `scripts/` | 7 | generadores y validadores; todo lo publicado se reconstruye con ellos |
+| `scripts/` | 6 | generadores y validadores; todo lo publicado se reconstruye con ellos |
 | `templates/` | 5 | plantillas de trabajo reutilizables |
-| `tests/` | 2 | pruebas estructurales del repositorio |
+| `tests/` | 1 | pruebas estructurales del repositorio |
 | `virtual-school-lab/` | 1 | escuela y universidad simuladas para practicar decisiones |
 
 ## Currículo

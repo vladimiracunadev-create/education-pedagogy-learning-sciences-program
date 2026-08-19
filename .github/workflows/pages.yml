@@ -18,10 +18,9 @@ on:
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+# Los permisos se declaran por job: el que construye solo lee, y solo el que
+# publica recibe permiso sobre Pages.
+permissions: {}
 
 # Una sola publicación a la vez; los pushes seguidos cancelan el anterior.
 concurrency:
@@ -32,9 +31,13 @@ jobs:
   build:
     name: Generar sitio
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: Checkout
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
 
       - name: Setup Python
         uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
@@ -51,11 +54,8 @@ jobs:
           cp -r capacitacion site/descargas/capacitacion
           cp catalog.json site/descargas/catalog.json
 
-      - name: Configurar GitHub Pages
-        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
-        with:
-          enablement: true
-
+      # Pages queda habilitado en la configuración del repositorio con origen
+      # «GitHub Actions»; el job de construcción no necesita permiso sobre Pages.
       - name: Subir artefacto de Pages
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
         with:
@@ -65,6 +65,9 @@ jobs:
     name: Publicar
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
