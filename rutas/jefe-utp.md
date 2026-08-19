@@ -79,6 +79,9 @@ administrativo con título docente, que es exactamente lo que el sistema no nece
 135 (evaluación sumativa defendible), 138 (calibración de rúbricas), 183 (observación de clases),
 184 (retroalimentación a docentes), 189 (ciclos de mejora).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **18** Alfabetización inicial y ciencia de la lectura · **19** Metodologías y enfoques pedagógicos · **24** Modelos educativos internacionales y evidencia comparada · **21** Desafíos actuales del aula.
+Decides sobre método y sobre plan lector para todo el establecimiento: necesitas la 19 y la 18 completas.
+
 ## 🏛️ Credenciales y habilitación en Chile
 
 - **Título docente** y experiencia de aula; el cargo se define en la estructura del

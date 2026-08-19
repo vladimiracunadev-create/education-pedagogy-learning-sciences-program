@@ -1,0 +1,446 @@
+[
+  {
+    "n": 241,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué dos estudiantes con el mismo diagnóstico pueden necesitar apoyos opuestos",
+    "proposito": "Traducir un antecedente diagnóstico en barreras observables y elegir el apoyo mínimo suficiente para removerlas, sin deducir la estrategia de la etiqueta.",
+    "decision": "determinar qué barrera concreta enfrenta este estudiante en esta clase y qué apoyo la remueve",
+    "entregable": "una ficha de barrera y apoyo con evidencia de observación, apoyo elegido y criterio de retirada",
+    "conceptos": [
+      ["Barrera observable", "obstáculo concreto y verificable que impide participar o aprender en una situación determinada"],
+      ["Apoyo mínimo suficiente", "ayuda más pequeña que remueve la barrera; más apoyo del necesario genera dependencia"],
+      ["Criterio de retirada", "condición declarada de antemano que indica cuándo el apoyo deja de ser necesario"],
+      ["Sobregeneralización diagnóstica", "error de inferir necesidades a partir de la categoría en vez de la observación del caso"]
+    ],
+    "desarrollo": "Un diagnóstico informa sobre probabilidades, no sobre una persona. Dos estudiantes con el mismo diagnóstico pueden diferir en lenguaje, en autorregulación, en conocimiento previo y en contexto familiar más de lo que se parecen. La categoría es útil para anticipar qué observar y qué apoyos considerar; es inútil como fuente directa de decisiones. La secuencia profesional invierte el orden habitual: se observa la situación concreta, se nombra la barrera, se elige el apoyo y recién entonces el diagnóstico ayuda a interpretar por qué esa barrera aparece.",
+    "practica": "La ficha de barrera y apoyo obliga a ese orden. Registra qué ocurre exactamente —en qué momento de la clase, con qué tarea, con qué consecuencia—, formula la barrera en términos verificables, elige el apoyo más pequeño que podría removerla y declara cómo se sabrá si funcionó y cuándo se retirará. Es un documento breve que cambia la conversación de equipo: se discute sobre observaciones, no sobre impresiones.",
+    "limites": "La observación tiene sus propios sesgos: se observa más a quien molesta y menos a quien se retrae, y se interpreta según lo que ya se espera. La ficha reduce ese riesgo pero no lo elimina. Además, hay condiciones donde el conocimiento acumulado sobre el perfil sí orienta decisiones específicas y prescindir de él por principio sería un error opuesto y también costoso.",
+    "errores": [
+      "Elegir el apoyo por la etiqueta diagnóstica antes de haber observado una sola clase.",
+      "Instalar apoyos permanentes sin criterio de retirada y producir dependencia evitable."
+    ],
+    "criterios": [
+      "la barrera está formulada en términos observables, con evidencia de al menos dos observaciones;",
+      "el apoyo declara su criterio de éxito y su condición de retirada;"
+    ],
+    "preguntas": [
+      "¿En qué momento exacto de la clase aparece la dificultad y qué la precede?",
+      "¿Cuál es el apoyo más pequeño que podría remover esta barrera?",
+      "¿Qué tendría que ocurrir para que retires este apoyo?"
+    ],
+    "lecturas": [
+      ["Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.", "convierte la inclusión en indicadores revisables y desplaza el foco de la categoría al contexto."],
+      ["Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)*.", "el marco que sitúa la discapacidad en la interacción entre persona y entorno."]
+    ],
+    "inclusion": "Esta clase es el fundamento operativo de toda la parte: el riesgo permanente de la educación especial es tratar categorías en vez de personas, y ese riesgo se materializa en decisiones que rebajan expectativas sin evidencia que las justifique.",
+    "reto": "Observa a un estudiante en dos clases distintas y completa la ficha de barrera y apoyo. Contrasta tu conclusión con la del educador diferencial y registra las diferencias.",
+    "conexion": "Abre la parte 20 y ordena las once clases siguientes. Se apoya en las clases 098 y 099 y prepara la 251."
+  },
+  {
+    "n": 242,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué el TDAH es un problema de regulación y no de voluntad, y qué cambia eso en el aula",
+    "proposito": "Aplicar estrategias de atención, organización y autorregulación con estudiantes con TDAH, ajustando el entorno antes que exigiendo esfuerzo.",
+    "decision": "determinar qué ajustes de entorno, tarea y retroalimentación necesita este estudiante para sostener la actividad",
+    "entregable": "un plan de aula con ajustes de entorno, formato de tarea y sistema de retroalimentación frecuente",
+    "conceptos": [
+      ["Funciones ejecutivas", "conjunto de procesos de control —inhibición, memoria de trabajo, flexibilidad— que permiten dirigir la conducta a una meta"],
+      ["Demora de la gratificación", "dificultad para sostener conducta cuya recompensa es lejana; explica buena parte del comportamiento observado"],
+      ["Fragmentación de la tarea", "división del trabajo en unidades con cierre visible, que reduce la demanda de sostenimiento"],
+      ["Retroalimentación frecuente", "señal de progreso entregada en intervalos cortos, que sustituye a la motivación diferida"]
+    ],
+    "desarrollo": "El TDAH se entiende hoy mejor como una dificultad de autorregulación que como un déficit de atención en sentido estricto: el estudiante puede sostener la atención en actividades de recompensa inmediata y no en aquellas cuya recompensa es lejana. Esa asimetría es la que se malinterpreta como falta de voluntad, porque un observador ve que sí puede concentrarse cuando quiere. La consecuencia práctica es que exigir más esfuerzo no funciona: lo que funciona es reducir la distancia entre acción y consecuencia.",
+    "practica": "Los ajustes con mejor respaldo son de entorno y de tarea: ubicación con menos distractores y cerca del docente, instrucciones cortas y verificadas, tareas fragmentadas con cierres visibles, apoyos externos de organización —agenda, listas, recordatorios—, y retroalimentación en intervalos cortos. La retroalimentación positiva específica y frecuente rinde más que el sistema de sanciones, que en estos estudiantes se acumula sin cambiar la conducta. Los movimientos permitidos y las pausas planificadas evitan la escalada.",
+    "limites": "Los apoyos escolares mejoran el funcionamiento en el aula y no modifican el cuadro subyacente. La decisión sobre tratamiento farmacológico es médica y está fuera del rol docente, aunque el docente aporte observación estructurada. Además, el diagnóstico presenta tasas de sobreidentificación y de subidentificación según género y contexto socioeconómico: las niñas con presentación inatenta suelen pasar años sin ser detectadas.",
+    "errores": [
+      "Interpretar la variabilidad del rendimiento como prueba de que el estudiante podría si quisiera.",
+      "Acumular anotaciones y sanciones que documentan el problema sin modificar ninguna condición."
+    ],
+    "criterios": [
+      "el plan declara ajustes de entorno, de tarea y de retroalimentación, no solo normas de conducta;",
+      "existe registro de la respuesta del estudiante a cada ajuste durante al menos tres semanas;"
+    ],
+    "preguntas": [
+      "¿En qué actividades sí sostiene la atención, y qué tienen esas actividades que las otras no?",
+      "¿Cada cuántos minutos recibe una señal de progreso este estudiante?",
+      "¿Cuántas de tus anotaciones cambiaron algo, y cuántas solo registraron?"
+    ],
+    "lecturas": [
+      ["Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*.", "el modelo de autorregulación y sus implicancias directas para el diseño del aula."],
+      ["DuPaul, G. & Stoner, G. *ADHD in the Schools*.", "el manual de intervenciones escolares con evidencia, organizado por tipo de apoyo."]
+    ],
+    "inclusion": "El estudiante con TDAH acumula más retroalimentación negativa que sus pares antes de terminar la enseñanza básica, con efectos documentados sobre su autoconcepto. Invertir deliberadamente esa proporción es una decisión pedagógica y no un gesto de amabilidad.",
+    "reto": "Diseña un plan con tres ajustes y aplícalo tres semanas registrando conducta y trabajo completado. Compara con el registro previo y ajusta lo que no movió nada.",
+    "conexion": "Profundiza la clase 103 y aplica el método de la 241. Enlaza con la parte 12 y la clase 247."
+  },
+  {
+    "n": 243,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué perfil de aprendizaje específico tiene el síndrome de Down y cómo se enseña con él a favor",
+    "proposito": "Enseñar a estudiantes con síndrome de Down aprovechando su perfil —fortaleza visual, memoria verbal a corto plazo más frágil— con expectativas altas y apoyos precisos.",
+    "decision": "determinar qué apoyos de presentación, ritmo y comunicación necesita este estudiante para acceder al currículum",
+    "entregable": "una adecuación de unidad con apoyo visual, ritmo ajustado y evaluación coherente con el objetivo mantenido",
+    "conceptos": [
+      ["Perfil de aprendizaje", "patrón relativamente característico de fortalezas y dificultades asociado a una condición, con variación individual amplia"],
+      ["Apoyo visual", "presentación de información en soporte visual permanente, que compensa la fragilidad de la memoria verbal a corto plazo"],
+      ["Adecuación de acceso", "cambio en cómo se presenta o se responde una tarea, sin modificar el objetivo de aprendizaje"],
+      ["Expectativa ajustada", "nivel de exigencia basado en el desempeño observado y no en la expectativa asociada al diagnóstico"]
+    ],
+    "desarrollo": "El síndrome de Down presenta un perfil relativamente consistente: fortaleza relativa en procesamiento visual y en aprendizaje social, y mayor fragilidad en memoria verbal a corto plazo, en articulación y en lenguaje expresivo. Ese perfil tiene consecuencias directas: una instrucción larga y oral se pierde, mientras que la misma instrucción con apoyo visual permanente se sostiene. La evidencia acumulada muestra además que muchos estudiantes alcanzan niveles de lectura funcional que las expectativas tradicionales daban por imposibles.",
+    "practica": "Las decisiones que más rinden son de presentación y de tiempo: apoyo visual permanente, instrucciones cortas con verificación, lectura enseñada de forma sistemática y temprana —el perfil visual la favorece—, más tiempo de respuesta y oportunidades de participación que no dependan solo del lenguaje oral. El lenguaje expresivo suele ir por detrás de la comprensión: interpretar la dificultad para responder como falta de comprensión es el error más frecuente y el más costoso.",
+    "limites": "El perfil describe tendencias de grupo con variación individual muy amplia: hay estudiantes cuyo desempeño se aparta por completo de lo esperado en cualquier dominio. La investigación educativa específica es relativamente escasa y buena parte proviene de estudios pequeños. Y las condiciones asociadas —auditivas, visuales, cardíacas— varían mucho y cambian las prioridades del apoyo en cada caso.",
+    "errores": [
+      "Interpretar la dificultad de expresión oral como límite de comprensión y bajar el contenido.",
+      "Postergar la enseñanza sistemática de la lectura por suponer que no es alcanzable."
+    ],
+    "criterios": [
+      "la adecuación mantiene el objetivo de aprendizaje y modifica solo la vía de acceso;",
+      "el apoyo visual está presente de forma permanente y no solo en la instrucción inicial;"
+    ],
+    "preguntas": [
+      "¿Qué evidencia tienes de lo que este estudiante comprende, independiente de lo que puede decir?",
+      "¿Cuánta información entregas solo por vía oral en una clase típica?",
+      "¿Qué expectativa tienes sobre su lectura y en qué la basas?"
+    ],
+    "lecturas": [
+      ["Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down*.", "el perfil de aprendizaje descrito con implicancias operativas de aula."],
+      ["Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo*.", "el marco de apoyos que sustituye a la clasificación por nivel de déficit."]
+    ],
+    "inclusion": "La barrera más persistente no es cognitiva sino de expectativa: el techo que la escuela asume termina cumpliéndose. Documentar desempeño real y contrastarlo con la expectativa declarada del equipo es una intervención en sí misma.",
+    "reto": "Adecua una unidad completa manteniendo el objetivo. Documenta con evidencia qué comprendió el estudiante por vías distintas de la respuesta oral.",
+    "conexion": "Aplica el método de la clase 241 y complementa la 106. Enlaza con la parte 18 sobre enseñanza sistemática de la lectura."
+  },
+  {
+    "n": 244,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué la estructura y la anticipación importan más que cualquier técnica específica",
+    "proposito": "Diseñar un aula predecible y comunicativamente accesible para estudiantes autistas, ajustando el entorno sensorial y social antes de intervenir la conducta.",
+    "decision": "determinar qué elementos de estructura, anticipación y regulación sensorial requiere este estudiante",
+    "entregable": "un diseño de aula con rutina visible, anticipación de cambios y ajustes sensoriales declarados",
+    "conceptos": [
+      ["Estructura y previsibilidad", "organización del tiempo y del espacio que permite anticipar lo que ocurrirá y reduce la demanda de adaptación"],
+      ["Anticipación", "aviso planificado de cambios de actividad, de espacio o de persona, con tiempo suficiente para procesarlo"],
+      ["Regulación sensorial", "ajuste de estímulos —ruido, luz, contacto— cuyo exceso o defecto desorganiza la conducta"],
+      ["Comunicación aumentativa", "sistema complementario o alternativo al habla que permite expresar necesidades y participar"]
+    ],
+    "desarrollo": "El autismo es un espectro amplio y los apoyos que rinden dependen del perfil individual, pero hay un principio que atraviesa la mayoría de los casos: la previsibilidad reduce la carga. Un entorno donde el estudiante sabe qué viene, cuánto durará y qué se espera de él libera recursos que de otro modo se consumen en gestionar la incertidumbre. Buena parte de las conductas que la escuela interpreta como oposición son respuestas a cambios no anunciados o a sobrecarga sensorial.",
+    "practica": "Las decisiones de base son cuatro: rutina visible con secuencia de la clase a la vista, anticipación explícita de cualquier cambio, ajustes sensoriales concretos —ubicación, control de ruido, espacio de regulación disponible— y una vía de comunicación garantizada, que puede requerir apoyos aumentativos. Sobre esa base se trabaja la participación social con apoyos explícitos: los intercambios que otros aprenden por observación aquí se enseñan de forma directa.",
+    "limites": "La heterogeneidad del espectro hace que casi cualquier afirmación general tenga excepciones importantes. Varias intervenciones populares carecen de respaldo o tienen respaldo débil, y algunas plantean objeciones éticas serias desde las propias personas autistas, especialmente aquellas centradas en suprimir conductas que no dañan a nadie. La distinción entre enseñar habilidades útiles y exigir apariencia de normalidad es un debate abierto que el equipo debe sostener.",
+    "errores": [
+      "Interpretar como desafío una reacción a un cambio no anunciado o a sobrecarga sensorial.",
+      "Adoptar programas de moda sin verificar su evidencia ni su aceptación por la comunidad autista."
+    ],
+    "criterios": [
+      "el diseño declara rutina visible, protocolo de anticipación y ajustes sensoriales concretos;",
+      "existe una vía de comunicación garantizada, verificada en situaciones de estrés;"
+    ],
+    "preguntas": [
+      "¿Qué cambios ocurrieron hoy sin aviso en la jornada de este estudiante?",
+      "¿Cómo comunica una necesidad cuando está desregulado y esa vía está disponible?",
+      "¿Qué conducta estás intentando modificar y a quién perjudica realmente?"
+    ],
+    "lecturas": [
+      ["Kasari, C. et al. *Intervenciones sociales tempranas en autismo*.", "distingue qué intervenciones tienen respaldo empírico y con qué tamaño de efecto."],
+      ["Ley 21.545 (2023). *Ley de Autismo, Chile*.", "el marco de derechos y obligaciones institucionales que enmarca cualquier decisión escolar."]
+    ],
+    "inclusion": "El criterio ético central es distinguir apoyos que amplían la participación de intervenciones que buscan que el estudiante parezca no autista. La comunidad autista adulta ha sido explícita en esa distinción y su voz es una fuente legítima para el equipo.",
+    "reto": "Registra durante una semana los cambios no anunciados en la jornada de un estudiante. Implementa un protocolo de anticipación y compara los episodios de desregulación.",
+    "conexion": "Profundiza la clase 102 y aplica el método de la 241. Enlaza con la clase 248 y con la parte 12."
+  },
+  {
+    "n": 245,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se sostiene el acceso al currículum sin convertir la adecuación en un currículum paralelo",
+    "proposito": "Diseñar acceso al currículum común para estudiantes con discapacidad intelectual, con adecuaciones que preserven el aprendizaje significativo y proyección de vida independiente.",
+    "decision": "determinar qué objetivos se mantienen, cuáles se priorizan y cuáles se adecúan para este estudiante",
+    "entregable": "una priorización curricular justificada con evidencia de aprendizaje y proyección funcional",
+    "conceptos": [
+      ["Priorización curricular", "selección fundamentada de objetivos esenciales cuando no es posible abordar todos con profundidad"],
+      ["Adecuación significativa", "modificación del objetivo de aprendizaje, no solo del acceso; exige justificación y revisión periódica"],
+      ["Habilidad funcional", "aprendizaje con uso directo en la vida cotidiana y en la autonomía futura del estudiante"],
+      ["Sistema de apoyos", "conjunto de recursos y estrategias graduadas que sostienen el funcionamiento en contextos concretos"]
+    ],
+    "desarrollo": "El campo se desplazó desde clasificar por nivel de déficit hacia describir el sistema de apoyos que la persona requiere para funcionar en contextos determinados. Ese giro tiene consecuencias escolares directas: la pregunta deja de ser cuánto puede aprender este estudiante y pasa a ser qué apoyos necesita para aprender esto. En la práctica escolar, la tensión permanente es entre currículum común con adecuaciones y aprendizajes funcionales, y resolverla exige decisiones explícitas, no una respuesta general.",
+    "practica": "La priorización se hace con criterio declarado: se mantienen los objetivos con mayor proyección funcional y mayor valor de participación social, y se adecúan aquellos cuya versión completa no es alcanzable en el tiempo disponible. Cada adecuación significativa se documenta con su justificación y se revisa al menos una vez al año, porque las decisiones tomadas en tercero básico tienden a arrastrarse sin revisión hasta cuarto medio.",
+    "limites": "La priorización siempre implica pérdida y no hay algoritmo que la resuelva. Existe además evidencia de que las expectativas del equipo predicen el desempeño más de lo que el diagnóstico justifica, lo que convierte la adecuación temprana en una profecía. Y la investigación sobre resultados de largo plazo en inclusión escolar es más débil de lo que el consenso normativo sugiere.",
+    "errores": [
+      "Adecuar significativamente en los primeros años y no volver a revisar esa decisión nunca.",
+      "Sustituir el currículum por actividades ocupacionales sin objetivo de aprendizaje declarado."
+    ],
+    "criterios": [
+      "cada adecuación significativa tiene justificación escrita y fecha de revisión;",
+      "la priorización declara el criterio funcional y de participación que la ordena;"
+    ],
+    "preguntas": [
+      "¿Cuándo se revisó por última vez la adecuación de este estudiante y qué cambió?",
+      "¿Qué de lo que enseñas hoy le servirá a los veinticinco años?",
+      "¿Qué expectativa tiene tu equipo sobre este estudiante y en qué evidencia se apoya?"
+    ],
+    "lecturas": [
+      ["Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo*.", "el desplazamiento desde el déficit hacia el sistema de apoyos, con criterios operativos."],
+      ["Decreto 83/2015, Ministerio de Educación de Chile.", "el marco normativo de adecuaciones curriculares de acceso y significativas."]
+    ],
+    "inclusion": "La adecuación significativa es la decisión más irreversible que toma un equipo escolar: define lo que el estudiante no aprenderá. Tomarla sin justificación escrita ni revisión programada es una de las formas más silenciosas de exclusión.",
+    "reto": "Revisa la adecuación vigente de un estudiante. Documenta qué se decidió, cuándo y con qué evidencia, y propone la actualización que corresponda.",
+    "conexion": "Profundiza la clase 106 y se apoya en las clases 241 y 099. Enlaza con la parte 06 y la clase 251."
+  },
+  {
+    "n": 246,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué hace un docente de asignatura con una dificultad específica que no le corresponde tratar",
+    "proposito": "Sostener el aprendizaje de la asignatura en estudiantes con dislexia, disgrafía o discalculia mediante apoyos de acceso, sin asumir el rol de especialista.",
+    "decision": "determinar qué apoyos de acceso permiten que este estudiante aprenda tu asignatura mientras trabaja su dificultad",
+    "entregable": "un conjunto de apoyos de acceso por asignatura con su justificación y su efecto registrado",
+    "conceptos": [
+      ["Dificultad específica del aprendizaje", "dificultad persistente en un dominio —lectura, escritura o cálculo— no explicada por enseñanza insuficiente ni por capacidad general"],
+      ["Apoyo de acceso", "ajuste que permite recibir o expresar el contenido sin modificar el objetivo evaluado"],
+      ["Doble tarea", "situación en que el estudiante debe resolver el contenido y sortear su dificultad simultáneamente, con sobrecarga garantizada"],
+      ["Evaluación no contaminada", "instrumento que mide el objetivo declarado y no la dificultad específica del estudiante"]
+    ],
+    "desarrollo": "El docente de historia no trata la dislexia y el de matemática no trata la discalculia, pero ambos deciden todos los días si ese estudiante puede aprender su asignatura. Ahí está el punto: sin apoyos de acceso, la dificultad específica contamina toda la escolaridad y el estudiante termina con bajo rendimiento generalizado que nada tiene que ver con su capacidad. El principio ordenador es separar el objetivo de la vía: si la clase evalúa comprensión histórica, la ortografía no debe decidir la nota.",
+    "practica": "Los apoyos con mejor relación entre costo y efecto son conocidos: texto leído en voz alta o en audio, más tiempo, calculadora cuando el objetivo no es el cálculo, respuesta oral o por teclado, textos con formato accesible, y evaluación de la ortografía solo cuando ese sea el objetivo declarado. Cada apoyo se declara en el instrumento y se aplica siempre, no solo en la prueba: un apoyo que aparece únicamente en la evaluación no fue enseñado ni entrenado.",
+    "limites": "Los apoyos de acceso permiten aprender el contenido y no remedian la dificultad, que requiere intervención específica y sostenida. Existe además un debate real sobre cuándo un apoyo deja de ser acceso y pasa a alterar lo evaluado —la lectura en voz alta en una prueba de comprensión lectora es el caso clásico— y ese límite exige juicio profesional caso a caso.",
+    "errores": [
+      "Aplicar el apoyo solo el día de la prueba, sin haberlo usado nunca durante las clases.",
+      "Descontar puntaje por ortografía en una evaluación cuyo objetivo declarado era otro."
+    ],
+    "criterios": [
+      "cada apoyo declara qué objetivo protege y por qué no altera lo evaluado;",
+      "los apoyos se usan durante la enseñanza y no solo en la evaluación;"
+    ],
+    "preguntas": [
+      "¿Qué mide realmente tu evaluación en el caso de este estudiante?",
+      "¿Cuántos de tus apoyos existen solo el día de la prueba?",
+      "¿Dónde está el límite entre acceso y alteración del objetivo en tu asignatura?"
+    ],
+    "lecturas": [
+      ["Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*.", "separa intervención específica de apoyo de acceso, que la escuela suele confundir."],
+      ["Decreto 83/2015, Ministerio de Educación de Chile.", "define adecuaciones de acceso y su alcance en la evaluación."]
+    ],
+    "inclusion": "Sin apoyos de acceso, una dificultad acotada se convierte en fracaso escolar generalizado y termina leyéndose como falta de capacidad. Es uno de los mecanismos mejor documentados por los que la escuela produce trayectorias que no correspondían.",
+    "reto": "Revisa tu última evaluación e identifica qué habilidad no declarada estaba midiendo. Rediséñala con apoyos de acceso y compara los resultados del estudiante.",
+    "conexion": "Aplica lo trabajado en la parte 18 y en la clase 104. Se articula con la 241 y con la parte 11."
+  },
+  {
+    "n": 247,
+    "evidencia": "MARCO-NORMATIVO",
+    "foco": "qué decisiones cambian cuando la información no llega por el canal habitual",
+    "proposito": "Garantizar el acceso a la información y a la participación de estudiantes con discapacidad visual o auditiva, con ajustes verificados y no supuestos.",
+    "decision": "determinar qué ajustes de acceso requiere este estudiante y quién verifica que funcionan",
+    "entregable": "un protocolo de accesibilidad de aula verificado con el propio estudiante y con el especialista",
+    "conceptos": [
+      ["Accesibilidad de la información", "condición de que todo contenido esté disponible en un canal que el estudiante pueda usar"],
+      ["Descripción de imágenes", "traducción verbal del contenido informativo de un recurso visual, no de su apariencia"],
+      ["Lengua de señas chilena", "lengua natural de la comunidad sorda del país, reconocida legalmente y distinta del castellano"],
+      ["Verificación con el usuario", "comprobación del ajuste con el propio estudiante, que es quien sabe si funciona"]
+    ],
+    "desarrollo": "En discapacidad sensorial la mayor parte de las barreras son de diseño y no de capacidad: el contenido existe pero circula por un canal inaccesible. Un video sin subtítulos, un gráfico sin descripción, una explicación dada de espaldas mientras se escribe en la pizarra. La normativa chilena establece obligaciones y el marco de derechos es claro; el desafío es que la accesibilidad ocurra en cada clase y no solo en los documentos institucionales.",
+    "practica": "El protocolo se construye por canal. Para discapacidad visual: material digital accesible con anticipación, descripción del contenido visual, verbalización de lo que se escribe, y acceso al mismo contenido sin depender de la vista. Para discapacidad auditiva: ubicación con visión del rostro, hablar de frente, subtítulos, apoyo de intérprete cuando corresponde, y entrega escrita de instrucciones clave. Todo ajuste se verifica con el estudiante: lo que el docente cree accesible con frecuencia no lo es.",
+    "limites": "El acceso a la información no equivale a participación plena: quedan las barreras sociales y el ritmo de la interacción grupal, que ningún ajuste técnico resuelve. Para estudiantes sordos usuarios de lengua de señas, además, se trata de una situación bilingüe con implicancias que exceden la accesibilidad y que la escuela suele tratar como problema de audición y no de lengua.",
+    "errores": [
+      "Entregar el material accesible el mismo día, cuando el estudiante necesitaba prepararlo antes.",
+      "Verificar la accesibilidad solo con el equipo docente y no con quien la usa."
+    ],
+    "criterios": [
+      "el protocolo cubre todos los canales de información usados en la clase;",
+      "cada ajuste está verificado con el estudiante y registrado como efectivo o no;"
+    ],
+    "preguntas": [
+      "¿Qué información entregaste hoy que este estudiante no pudo recibir?",
+      "¿Con cuánta anticipación recibe el material que necesita preparar?",
+      "¿Cuándo fue la última vez que le preguntaste si el ajuste le sirve?"
+    ],
+    "lecturas": [
+      ["Ley 20.422 (2010). *Igualdad de oportunidades e inclusión social de personas con discapacidad, Chile*.", "el marco de derechos y las obligaciones de accesibilidad exigibles."],
+      ["Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.", "convierte la accesibilidad en indicadores revisables por la comunidad escolar."]
+    ],
+    "inclusion": "La verificación con el propio estudiante es un principio de autodeterminación: decidir por él qué necesita, aunque sea con buena intención, reproduce exactamente la relación que la inclusión busca modificar.",
+    "reto": "Audita una de tus clases por canal de información y lista lo inaccesible. Corrige y verifica con el estudiante si el ajuste resolvió el problema.",
+    "conexion": "Profundiza la clase 105 y se apoya en la 241. Enlaza con la parte 13 y con docs/ACCESIBILIDAD."
+  },
+  {
+    "n": 248,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué garantizar una vía de comunicación es la decisión que precede a todas las demás",
+    "proposito": "Asegurar acceso físico y comunicativo mediante ajustes de entorno, tecnología de apoyo y sistemas aumentativos, con la participación como criterio.",
+    "decision": "determinar qué vía de comunicación y qué acceso físico están garantizados para este estudiante en cada actividad",
+    "entregable": "un plan de acceso físico y comunicativo con responsable, verificación y plan de contingencia",
+    "conceptos": [
+      ["Comunicación aumentativa y alternativa", "conjunto de sistemas que complementan o sustituyen el habla para permitir la expresión"],
+      ["Tecnología de apoyo", "dispositivo o recurso que permite ejecutar una tarea que de otro modo sería inaccesible"],
+      ["Acceso físico", "condición del espacio, mobiliario y materiales que permite participar sin depender de terceros"],
+      ["Presunción de competencia", "supuesto de trabajo según el cual el estudiante comprende hasta que se demuestre lo contrario"]
+    ],
+    "desarrollo": "En discapacidad motora y en trastornos severos de la comunicación, la barrera más grave no es el movimiento sino la presunción de que quien no habla no comprende. La evidencia acumulada con sistemas aumentativos ha desmentido esa presunción en numerosos casos, a veces después de años de escolarización empobrecida. De ahí que la presunción de competencia sea el punto de partida profesional: se enseña contenido de nivel y se busca la vía por la que el estudiante pueda mostrar lo que sabe.",
+    "practica": "El plan cubre tres capas. Acceso físico: mobiliario, desplazamiento, materiales manipulables y ubicación que permita participar. Acceso comunicativo: sistema aumentativo disponible siempre —no guardado— y conocido por todos los docentes, no solo por la educadora diferencial. Contingencia: qué ocurre si el dispositivo falla o el asistente no asiste. La verificación es simple y dura: ¿puede este estudiante hacer una pregunta espontánea en tu clase?",
+    "limites": "La implementación depende de recursos que muchos establecimientos no tienen y de formación específica que el sistema entrega de manera desigual. Los sistemas aumentativos exigen entrenamiento sostenido de todo el entorno para funcionar, y su abandono es frecuente cuando esa condición no se cumple. Además, la investigación educativa específica es escasa y muy heterogénea en calidad.",
+    "errores": [
+      "Mantener el sistema de comunicación guardado y usarlo solo en las sesiones con la especialista.",
+      "Asumir que la ausencia de habla indica ausencia de comprensión y reducir el contenido en consecuencia."
+    ],
+    "criterios": [
+      "el sistema de comunicación está disponible en todas las clases y todos los docentes saben usarlo;",
+      "el plan declara la contingencia ante falla del dispositivo o ausencia del asistente;"
+    ],
+    "preguntas": [
+      "¿Puede este estudiante hacer una pregunta espontánea en tu clase, hoy?",
+      "¿Cuántos docentes del curso saben usar su sistema de comunicación?",
+      "¿Qué pasa mañana si el dispositivo no funciona?"
+    ],
+    "lecturas": [
+      ["Beukelman, D. & Mirenda, P. *Augmentative and Alternative Communication*.", "el manual de referencia sobre sistemas aumentativos y sus condiciones de implementación."],
+      ["Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)*.", "el marco que sitúa la participación como resultado de la interacción con el entorno."]
+    ],
+    "inclusion": "La presunción de competencia no es optimismo: es la única postura que no produce daño irreversible cuando se equivoca. Presumir incapacidad y errar cuesta la escolaridad completa de una persona.",
+    "reto": "Verifica si un estudiante con comunicación aumentativa puede iniciar una interacción en tu clase. Ajusta lo que lo impide y vuelve a verificar en dos semanas.",
+    "conexion": "Continúa la clase 247 y aplica el método de la 241. Se articula con la parte 13 y con la clase 251."
+  },
+  {
+    "n": 249,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se enseña a un estudiante cuyo problema es entender o producir el lenguaje mismo",
+    "proposito": "Ajustar la enseñanza para estudiantes con trastornos del lenguaje, reduciendo la demanda lingüística de la tarea sin reducir su demanda cognitiva.",
+    "decision": "determinar qué demanda lingüística de tu clase está bloqueando el aprendizaje de este estudiante",
+    "entregable": "una adecuación de la carga lingüística de una unidad, con evidencia del aprendizaje conservado",
+    "conceptos": [
+      ["Trastorno del desarrollo del lenguaje", "dificultad persistente en la adquisición y uso del lenguaje, no explicada por otra condición"],
+      ["Demanda lingüística", "cantidad y complejidad del lenguaje que una tarea exige para poder ejecutarla"],
+      ["Demanda cognitiva", "complejidad del pensamiento que la tarea requiere, independiente de su envoltura verbal"],
+      ["Apoyo no verbal", "vía de acceso o de respuesta que no depende del lenguaje oral o escrito"]
+    ],
+    "desarrollo": "Los trastornos del lenguaje son frecuentes y sistemáticamente subdetectados, en parte porque se confunden con timidez, con desinterés o con dificultades conductuales. Su efecto escolar es amplio: casi toda instrucción escolar es verbal, de modo que un estudiante con dificultad de comprensión del lenguaje enfrenta barreras en todas las asignaturas al mismo tiempo. La distinción operativa clave es entre demanda lingüística y demanda cognitiva: reducir la primera manteniendo la segunda es el objetivo del ajuste.",
+    "practica": "Las decisiones concretas son de formulación y de apoyo: instrucciones cortas y en el orden en que deben ejecutarse, una idea por oración, verificación de comprensión con demostración y no con «¿entendiste?», apoyo visual permanente, tiempo de procesamiento antes de exigir respuesta y vías de respuesta que no dependan solo del lenguaje oral. Enseñar explícitamente el vocabulario de la asignatura pertenece al mismo conjunto de decisiones.",
+    "limites": "Los ajustes de aula complementan y no sustituyen la intervención fonoaudiológica, que requiere especialista. La distinción entre trastorno del lenguaje y menor exposición lingüística previa es difícil de establecer sin evaluación especializada, y es una fuente conocida de diagnóstico erróneo en estudiantes de contextos vulnerables y en quienes aprenden el castellano como segunda lengua.",
+    "errores": [
+      "Verificar comprensión preguntando si entendieron, cuando la dificultad es precisamente comprender la pregunta.",
+      "Confundir menor exposición lingüística previa con trastorno y derivar sin considerar la trayectoria."
+    ],
+    "criterios": [
+      "la adecuación reduce demanda lingüística y conserva la demanda cognitiva declarada;",
+      "existe evidencia de que el estudiante aprendió el contenido por una vía distinta de la verbal;"
+    ],
+    "preguntas": [
+      "¿Cuántas ideas contiene la instrucción más larga que diste hoy?",
+      "¿Cómo verificas comprensión sin preguntar si entendieron?",
+      "¿Estás observando un trastorno o una trayectoria de menor exposición al lenguaje?"
+    ],
+    "lecturas": [
+      ["Bishop, D. et al. (2017). *Phase 2 of CATALISE*.", "el consenso internacional sobre criterios y terminología del trastorno del desarrollo del lenguaje."],
+      ["Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.", "distingue dominio conversacional de dominio académico, clave para no confundir L2 con trastorno."]
+    ],
+    "inclusion": "La confusión entre dificultad de lenguaje, segunda lengua y capacidad general es una de las principales fuentes de derivación errónea del sistema, y afecta desproporcionadamente a estudiantes migrantes y de contextos vulnerables.",
+    "reto": "Graba cinco minutos de tus instrucciones y cuenta ideas por oración. Reescríbelas reduciendo demanda lingüística y verifica si cambia la ejecución del estudiante.",
+    "conexion": "Se apoya en la clase 241 y se articula con la parte 18 y con la clase 269 de la parte 22."
+  },
+  {
+    "n": 250,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué la respuesta habitual a un estudiante que ya sabe es darle más trabajo del mismo",
+    "proposito": "Diseñar respuestas de enriquecimiento, compactación y aceleración para estudiantes con altas capacidades, con criterios y no con improvisación.",
+    "decision": "determinar qué combinación de compactación, profundización y aceleración corresponde a este estudiante",
+    "entregable": "un plan de respuesta con evidencia de dominio previo y la modalidad elegida justificada",
+    "conceptos": [
+      ["Compactación curricular", "eliminación del contenido ya dominado, comprobada con evaluación previa, para liberar tiempo"],
+      ["Enriquecimiento", "profundización o ampliación del contenido, en vez de aumento de la cantidad de ejercicios"],
+      ["Aceleración", "avance a un nivel superior en una asignatura o en el curso completo, con evidencia de respaldo favorable"],
+      ["Subrendimiento", "desempeño muy por debajo de la capacidad demostrada, frecuente y asociado a desenganche"]
+    ],
+    "desarrollo": "Las altas capacidades son la necesidad educativa peor atendida del sistema, en parte porque se asume que estos estudiantes se las arreglan solos. La evidencia sobre aceleración es de las más consistentes del campo y contradice la intuición escolar dominante: en sus diversas formas produce beneficios académicos sin los efectos sociales negativos que se le atribuyen. La respuesta más común —más ejercicios del mismo tipo— es también la que más contribuye al desenganche.",
+    "practica": "La secuencia profesional parte por comprobar el dominio: se evalúa antes de enseñar y se elimina lo ya dominado. El tiempo liberado se destina a profundización real —problemas más complejos, proyectos de investigación, contenido de nivel superior— y no a tareas adicionales del mismo nivel. La aceleración, total o por asignatura, se evalúa con criterios establecidos y considerando madurez y contexto, no como excepción heroica.",
+    "limites": "La identificación arrastra sesgos socioeconómicos y de género bien documentados: los instrumentos y los mecanismos de derivación favorecen a estudiantes de familias que conocen el sistema. El talento es además específico de dominio y su expresión varía en el tiempo, de modo que las clasificaciones tempranas y permanentes son problemáticas. Y la evidencia sobre programas de enriquecimiento extraescolar es más débil que la de aceleración.",
+    "errores": [
+      "Asignar más ejercicios del mismo nivel como respuesta al estudiante que ya terminó.",
+      "Rechazar la aceleración por preocupación social sin examinar la evidencia disponible."
+    ],
+    "criterios": [
+      "existe evidencia de dominio previo que justifica la compactación;",
+      "la modalidad elegida está justificada con criterios y no por disponibilidad de material;"
+    ],
+    "preguntas": [
+      "¿Qué proporción del contenido de la unidad ya domina este estudiante, comprobado?",
+      "¿Qué haces con el tiempo que se libera si compactas?",
+      "¿A quién no estás identificando en tu curso y por qué?"
+    ],
+    "lecturas": [
+      ["Assouline, S. et al. (2015). *A Nation Empowered*.", "la síntesis de evidencia sobre aceleración que contradice la práctica escolar habitual."],
+      ["Subotnik, R., Olszewski-Kubilius, P. & Worrell, F. (2011). *Rethinking Giftedness and Gifted Education*.", "el talento como trayectoria específica de dominio y no como atributo fijo."]
+    ],
+    "inclusion": "El subdiagnóstico se concentra en estudiantes de contextos vulnerables, en niñas y en quienes tienen doble excepcionalidad —altas capacidades junto a una dificultad específica—, cuyo perfil se cancela mutuamente en los instrumentos habituales.",
+    "reto": "Aplica una evaluación previa a tu próxima unidad. Compacta el contenido dominado de un estudiante y diseña qué hará con el tiempo liberado.",
+    "conexion": "Profundiza la clase 107 y aplica el método de la 241. Enlaza con la parte 09 y con la clase 151."
+  },
+  {
+    "n": 251,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "por qué el apoyo se cae por logística y no por falta de conocimiento",
+    "proposito": "Organizar la coordinación entre docente de aula y educador diferencial con roles, tiempos y registro, para que el apoyo ocurra dentro de la clase.",
+    "decision": "determinar qué modelo de codocencia usa tu curso, con qué tiempo real de coordinación y con qué reparto de responsabilidad",
+    "entregable": "un acuerdo de codocencia con roles por momento de la clase, horario de coordinación y responsable de registro",
+    "conceptos": [
+      ["Codocencia", "trabajo conjunto de dos profesionales en la misma aula con responsabilidad compartida sobre todo el curso"],
+      ["Modelos de codocencia", "formas de repartir la clase: apoyo, estaciones, enseñanza paralela, alternativa o en equipo"],
+      ["Tiempo de coordinación", "horario protegido para planificar juntos; sin él, la codocencia se degrada a asistencia"],
+      ["Acompañamiento diferenciado", "apoyo ajustado a necesidades distintas dentro de la misma clase y no fuera de ella"]
+    ],
+    "desarrollo": "La mayoría de los planes de apoyo bien diseñados fracasan por razones organizacionales: no hay horario común para planificar, los roles no están definidos, y el segundo profesional termina como ayudante que circula entre los mismos tres estudiantes. La investigación disponible sobre codocencia es moderada en calidad, pero converge en una condición: sin tiempo protegido de coordinación, ninguno de los modelos funciona, y el más frecuente en la práctica —uno enseña y otro apoya— es también el de menor rendimiento.",
+    "practica": "El acuerdo escrito resuelve lo que las buenas intenciones no resuelven: qué modelo se usa en cada momento de la clase, quién conduce, quién observa y registra, cómo se reparte la evaluación y en qué horario concreto se planifica. Definir que ambos profesionales son responsables de todo el curso —y no uno de los treinta y otro de los tres— es el cambio que más modifica la práctica observada.",
+    "limites": "El tiempo de coordinación depende de decisiones de dirección que exceden a los docentes involucrados. La evidencia sobre efectos de la codocencia en aprendizaje es limitada y heterogénea, con muchos estudios de diseño débil. Y el modelo exige compatibilidad profesional real: dos personas competentes pueden coordinar mal y la estructura sola no lo compensa.",
+    "errores": [
+      "Sostener la codocencia sin horario de planificación y esperar coordinación en los recreos.",
+      "Asignar el segundo profesional a un grupo fijo de estudiantes, que es segregación dentro del aula."
+    ],
+    "criterios": [
+      "el acuerdo declara modelo, roles y responsable de registro por momento de la clase;",
+      "existe horario de coordinación protegido, con día y hora concretos;"
+    ],
+    "preguntas": [
+      "¿Cuánto tiempo real de planificación conjunta tienen esta semana, en el horario?",
+      "¿Quién es responsable de los estudiantes con apoyo cuando el otro profesional falta?",
+      "¿Tu segundo profesional trabaja con todo el curso o solo con los mismos tres?"
+    ],
+    "lecturas": [
+      ["Friend, M. & Cook, L. *Interactions: Collaboration Skills for School Professionals*.", "los modelos de codocencia con sus condiciones de funcionamiento y sus fallas típicas."],
+      ["Decreto 170/2009, Ministerio de Educación de Chile.", "el marco de los programas de integración escolar y las horas de coordinación exigidas."]
+    ],
+    "inclusion": "El diseño de la coordinación decide si el apoyo incluye o segrega: el mismo profesional puede sostener la participación del estudiante en la clase o instalar un aula paralela dentro de la sala.",
+    "reto": "Escribe el acuerdo de codocencia de un curso con roles por momento. Aplícalo dos semanas y registra cuánto tiempo de coordinación ocurrió realmente.",
+    "conexion": "Integra las clases 242 a 250 y prepara el proyecto integrador. Se articula con la parte 08 y con la clase 186."
+  },
+  {
+    "n": 252,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "cómo se escribe un plan de apoyo que cambie algo en el aula y no solo en la carpeta",
+    "proposito": "Integrar barreras, estrategias, responsables y evidencia en un plan de apoyo verificable, revisable y ejecutable por quien no lo escribió.",
+    "decision": "determinar el plan de apoyo completo de un estudiante y cómo se verificará que se ejecutó",
+    "entregable": "un plan de apoyo con barreras, estrategias, responsables, evidencia comprometida y fecha de revisión",
+    "conceptos": [
+      ["Plan de apoyo", "documento que traduce las necesidades de un estudiante en decisiones de aula con responsables y plazos"],
+      ["Evidencia comprometida", "producto o registro concreto que permitirá saber si el apoyo se ejecutó y si sirvió"],
+      ["Ejecutabilidad", "propiedad de un plan que puede aplicar un docente que no participó en su elaboración"],
+      ["Revisión con datos", "instancia programada donde se decide mantener, ajustar o retirar cada apoyo según lo observado"]
+    ],
+    "desarrollo": "En el caso del programa, tres de catorce planes de apoyo cambian algo en el aula; el resto se completa, se firma y se archiva. Esa proporción es la norma del sistema y su causa es identificable: los planes describen al estudiante en detalle y prescriben la práctica en generalidades. Un plan que cambia algo se reconoce porque cualquier docente del curso puede leerlo el lunes y saber exactamente qué hace distinto en su clase.",
+    "practica": "El proyecto integra las once clases anteriores. Cada barrera se formula en términos observables, con la evidencia que la sustenta. Cada estrategia declara quién la ejecuta, en qué momento y con qué material. Cada apoyo compromete una evidencia y una fecha de revisión. Se agrega la prueba decisiva: entregar el plan a un docente del curso que no participó y verificar si puede ejecutarlo sin explicaciones adicionales.",
+    "limites": "Un plan bien escrito no garantiza ejecución: depende de tiempo, de coordinación y de decisiones institucionales que lo exceden. Tampoco predice resultados, porque los apoyos que funcionan con un estudiante pueden no funcionar con otro de perfil similar. Y existe el riesgo de que el documento se vuelva un fin en sí mismo, consumiendo el tiempo que debía destinarse a la enseñanza.",
+    "errores": [
+      "Escribir el plan en términos generales que no permiten saber qué se hace distinto el lunes.",
+      "Fijar revisión anual y descubrir en diciembre que un apoyo no se aplicó nunca."
+    ],
+    "criterios": [
+      "cada estrategia declara responsable, momento y material concreto;",
+      "un docente que no participó puede ejecutar el plan leyéndolo una vez;"
+    ],
+    "preguntas": [
+      "¿Qué hace distinto mañana el profesor de matemática por efecto de este plan?",
+      "¿Qué evidencia tendrás en un mes de que el apoyo se ejecutó?",
+      "¿Quién convoca la revisión y en qué fecha exacta?"
+    ],
+    "lecturas": [
+      ["Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.", "el modelo de indicadores revisables aplicado a la planificación de apoyos."],
+      ["Decreto 83/2015, Ministerio de Educación de Chile.", "el marco normativo del plan de adecuaciones y su exigencia de revisión."]
+    ],
+    "inclusion": "Un plan que no se ejecuta produce un daño específico: deja constancia formal de que la necesidad fue atendida y cierra la posibilidad de reclamarla. La verificación de ejecución es, por eso, una garantía de derechos.",
+    "reto": "Escribe el plan completo de un estudiante y entrégalo a un colega del curso. Pídele que ejecute una semana solo con el documento y registra qué le faltó.",
+    "conexion": "Cierra la parte 20 integrando las clases 241 a 251, y se articula con las partes 08, 11 y 12."
+  }
+]

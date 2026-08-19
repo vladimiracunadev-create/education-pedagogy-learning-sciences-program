@@ -40,7 +40,7 @@ la primera objeción, y con razón.
 
 ### Conocimiento profesional
 
-- **Todo lo que vas a formar.** No hay atajo: las 18 partes del programa son el temario mínimo.
+- **Todo lo que vas a formar.** No hay atajo: las 25 partes del programa son el temario mínimo.
 - **Desarrollo profesional efectivo:** las características asociadas a cambio de práctica y por
   qué los efectos caen al escalar los programas.
 - **Coaching instruccional:** observar, describir sin juicio, preguntar antes de explicar y
@@ -65,7 +65,7 @@ la primera objeción, y con razón.
 
 ## 📚 Tu ruta en el programa
 
-**Las 18 partes, en orden.** No hay recorte defendible: cada parte que saltes es un contenido
+**Las 25 partes, en orden.** No hay recorte defendible: cada parte que saltes es un contenido
 que no podrás formar y una objeción que no podrás responder.
 
 Con dos énfasis finales:
@@ -78,6 +78,9 @@ Con dos énfasis finales:
 **Clases que no deberías saltarte:** 093 (coaching y sus límites), 183 y 184 (observación y
 retroalimentación), 185 (comunidades profesionales), 215 (desarrollo profesional efectivo),
 216 (propuesta doctoral defendible).
+
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **18** Alfabetización inicial y ciencia de la lectura · **19** Metodologías y enfoques pedagógicos · **20** Estrategias pedagógicas para necesidades educativas específicas · **21** Desafíos actuales del aula · **22** Diversidad cultural, lingüística y territorial · **23** Bienestar, salud mental y sostenibilidad del oficio · **24** Modelos educativos internacionales y evidencia comparada.
+Las siete partes de la etapa F: es lo que los docentes que formas te van a preguntar.
 
 ## 🏛️ Credenciales y marco en Chile
 

@@ -1,6 +1,6 @@
 # Licencia del contenido educativo
 
-Todo el contenido educativo de este repositorio —las 216 clases de `curriculum/`, los documentos
+Todo el contenido educativo de este repositorio —las 300 clases de `curriculum/`, los documentos
 de `docs/`, los casos, proyectos, rúbricas y plantillas— se publica bajo:
 
 ## Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)

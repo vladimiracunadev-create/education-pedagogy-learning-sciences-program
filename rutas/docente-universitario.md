@@ -85,6 +85,9 @@ produjo el diseño.
 asignatura y carga), 172 (cátedra con procesamiento activo), 176 (evaluación sostenible),
 177 (integridad académica), 179 (supervisión de investigación).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **19** Metodologías y enfoques pedagógicos · **24** Modelos educativos internacionales y evidencia comparada · **23** Bienestar, salud mental y sostenibilidad del oficio · **20** Estrategias pedagógicas para necesidades educativas específicas.
+La 19 fundamenta tu decisión metodológica y la 24 te da el marco comparado para la docencia superior.
+
 ## 🏛️ Credenciales y marco en Chile
 
 - **Grado académico** del área: magíster o doctorado según la institución y el nivel del programa.

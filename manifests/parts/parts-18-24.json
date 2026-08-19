@@ -1,0 +1,464 @@
+[
+  {
+    "part": 18,
+    "titulo": "Alfabetización inicial y ciencia de la lectura",
+    "lema": "Aprender a leer no ocurre solo: se enseña, y se enseña de maneras que no rinden igual",
+    "etapa": "F",
+    "poblacion": "parvularia y primer ciclo básico, con proyección a todo el sistema",
+    "contenido_central": "Modelo simple de la lectura, conciencia fonológica, correspondencias en español, fluidez, vocabulario, comprensión, escritura inicial, dislexia, evaluación por componentes, intervención por niveles y alfabetización disciplinar",
+    "resumen": [
+      "Ninguna decisión pedagógica tiene consecuencias tan largas como la de cómo se enseña a leer. Un estudiante que termina el primer ciclo sin leer con fluidez arrastra esa deuda por toda la escolaridad, porque a partir de tercero o cuarto básico el sistema deja de enseñar a leer y empieza a exigir leer para aprender. La brecha se ensancha sola: quien lee bien lee más, y quien lee más aprende más vocabulario y más mundo.",
+      "El campo llegó a acuerdos que no siempre llegan al aula. La enseñanza sistemática y explícita de las correspondencias entre letras y sonidos produce mejores resultados que confiar en el reconocimiento global o en la adivinación por contexto, y el efecto es mayor justamente en los estudiantes con más riesgo. Al mismo tiempo, decodificar no es comprender: la comprensión depende del vocabulario y del conocimiento del mundo, que se construyen desde mucho antes y por otras vías.",
+      "Esta parte trata la lectura como un sistema de componentes que se enseñan en paralelo y se evalúan por separado. Esa distinción es lo que permite intervenir con precisión: quien no decodifica y quien decodifica sin comprender tienen problemas distintos y necesitan respuestas distintas. Todo se trabaja sobre el problema del caso, que es el más común del sistema chileno."
+    ],
+    "resultados": [
+      "Diseñar la progresión de enseñanza lectora de un curso, con criterio de dominio por componente",
+      "Medir fluidez lectora con un instrumento comparable y leer el resultado sin sobreinterpretarlo",
+      "Distinguir un problema de decodificación de uno de vocabulario, comprensión o motivación",
+      "Organizar intervención por niveles con criterios de entrada, salida y derivación",
+      "Construir un plan lector de establecimiento que sobreviva al cambio de docentes"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    OR[\"Lenguaje oral<br/>vocabulario y conocimiento\"] --> COMP[\"Comprension lectora\"]\n    CF[\"Conciencia fonologica\"] --> DEC[\"Decodificacion\"]\n    DEC --> FLU[\"Fluidez\"]\n    FLU --> COMP\n    COMP --> DISC[\"Alfabetizacion disciplinar\"]\n    EV[\"Evaluacion por componentes\"] --> INT[\"Intervencion por niveles\"]\n    INT --> DEC\n    INT --> FLU\n    INT --> COMP\n```",
+    "marco": [
+      "modelo simple de la lectura y sus dos componentes necesarios",
+      "enseñanza sistemática y explícita frente a enfoques basados en el contexto",
+      "evaluación por componentes como condición para intervenir con precisión",
+      "respuesta a la intervención y organización de apoyos por niveles"
+    ],
+    "autores": "Anne Castles, Kate Nation y Kathleen Rastle, Mark Seidenberg, Catherine Snow, Steve Graham, Douglas Fuchs y Lynn Fuchs, Margaret Snowling y Charles Hulme, National Early Literacy Panel y Plan Nacional de Lectura",
+    "riesgos": [
+      "Comprar un programa de comprensión sin haber medido decodificación ni fluidez.",
+      "Trasladar sin ajuste los plazos de la investigación anglosajona al español, que es ortográficamente transparente.",
+      "Confundir lentitud lectora con desinterés y responder con exigencia en vez de con enseñanza.",
+      "Dar por cerrada la alfabetización al terminar el primer ciclo y dejar de enseñar a leer en las asignaturas."
+    ],
+    "lecturas": [
+      [
+        "Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.",
+        "la síntesis más equilibrada de lo que el campo tiene resuelto y de lo que sigue abierto."
+      ],
+      [
+        "Seidenberg, M. (2017). *Language at the Speed of Sight*.",
+        "explica el mecanismo cognitivo de la lectura y por qué ciertos métodos populares fallan."
+      ],
+      [
+        "Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*.",
+        "el informe que ordenó la prevención temprana como política, no como remedio tardío."
+      ],
+      [
+        "Graham, S. & Perin, D. (2007). *Writing Next*.",
+        "qué prácticas de enseñanza de la escritura tienen respaldo y cuáles se sostienen solo por tradición."
+      ]
+    ],
+    "evidencias": [
+      "la progresión de correspondencias del curso con su criterio de dominio;",
+      "el registro de fluidez del curso, con instrumento, fecha y condiciones de aplicación;",
+      "el plan de intervención del tercio más bajo, con criterio de salida;",
+      "el plan lector del establecimiento, ejecutable por un docente que llega nuevo."
+    ],
+    "contextos": [
+      ["Nivel de transición en jardín", "el trabajo es oral y fonológico, no de lápiz y papel"],
+      ["Primero y segundo básico", "es la ventana donde la enseñanza sistemática rinde más"],
+      ["Tercero y cuarto básico", "hay que enseñar a leer y avanzar en contenido al mismo tiempo"],
+      ["Curso con lectores muy dispares", "la respuesta es agrupamiento flexible, no una sola clase para todos"],
+      ["Escuela rural multigrado", "la práctica de fluidez se organiza en parejas y turnos"],
+      ["Educación media con deuda lectora", "se interviene por componentes, sin infantilizar el material"]
+    ]
+  },
+  {
+    "part": 19,
+    "titulo": "Metodologías y enfoques pedagógicos",
+    "lema": "Ningún enfoque es bueno en abstracto: lo es para un objetivo, un contenido y unos estudiantes",
+    "etapa": "F",
+    "poblacion": "transversal, de parvularia a educación superior",
+    "contenido_central": "Criterios para comparar enfoques, instrucción explícita, indagación guiada, tradiciones conductista, cognitivista y constructivista, Montessori, Waldorf, Reggio Emilia, Freinet, Escuela Nueva, pedagogía crítica, aprendizaje basado en proyectos y problemas, aprendizaje-servicio, gamificación y enfoque por competencias",
+    "resumen": [
+      "La conversación sobre métodos suele plantearse como una guerra de bandos: enseñanza directa contra descubrimiento, tradicional contra innovador. Esa forma de discutir impide decidir. Lo que la evidencia muestra es más incómodo y más útil: la eficacia de un enfoque depende del objetivo perseguido, del conocimiento previo del estudiante y de la naturaleza del contenido. El mismo método que funciona con expertos perjudica a novatos.",
+      "Esta parte entrega criterios de comparación antes que catálogos. Cada enfoque se examina por lo que asume sobre el aprendizaje, por lo que exige para funcionar, por la evidencia que lo respalda y por lo que se pierde al adoptarlo. Las tradiciones históricas —Montessori, Waldorf, Reggio, Freinet, Escuela Nueva— se tratan con la misma seriedad: qué elemento transfiere a un aula chilena con 35 estudiantes y qué elemento solo funciona en el sistema que lo creó.",
+      "El resultado esperado no es adherir a una escuela de pensamiento sino poder defender una decisión metodológica ante un consejo de profesores: por qué este enfoque, para qué objetivo, con qué condiciones y cómo sabremos si funcionó."
+    ],
+    "resultados": [
+      "Comparar dos enfoques pedagógicos con criterios explícitos y no por afinidad",
+      "Elegir método según objetivo, conocimiento previo y tipo de contenido",
+      "Reconocer qué exige cada enfoque para funcionar y qué pasa cuando esa condición falta",
+      "Distinguir el núcleo transferible de una tradición pedagógica de su envoltorio cultural",
+      "Defender una decisión metodológica con un plan de verificación asociado"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    OBJ[\"Objetivo de aprendizaje\"] --> CRIT[\"Criterios de eleccion\"]\n    PREV[\"Conocimiento previo\"] --> CRIT\n    CONT[\"Tipo de contenido\"] --> CRIT\n    CRIT --> EXPL[\"Instruccion explicita\"]\n    CRIT --> IND[\"Indagacion guiada\"]\n    CRIT --> TRAD[\"Tradiciones activas<br/>Montessori · Freinet · Reggio\"]\n    CRIT --> ABX[\"Aprendizaje basado en<br/>proyectos · problemas · servicio\"]\n    EXPL --> VER[\"Plan de verificacion\"]\n    IND --> VER\n    TRAD --> VER\n    ABX --> VER\n```",
+    "marco": [
+      "efecto de reversión por conocimiento previo: lo que ayuda al novato estorba al experto",
+      "carga cognitiva y guía durante la instrucción como variable central del debate",
+      "tradiciones pedagógicas históricas y su núcleo transferible",
+      "condiciones de implementación: sin ellas, el método declarado no es el método ejecutado"
+    ],
+    "autores": "Richard Mayer, John Sweller, Paul Kirschner, Jerome Bruner, María Montessori, Célestin Freinet, Loris Malaguzzi, Paulo Freire, Barbara Means y equipos de revisión sistemática",
+    "riesgos": [
+      "Adoptar un enfoque por moda institucional y evaluarlo con criterios de otro.",
+      "Confundir actividad visible con aprendizaje: estudiantes ocupados no son estudiantes aprendiendo.",
+      "Aplicar métodos de guía mínima con estudiantes que aún no tienen la base para orientarse.",
+      "Importar una tradición completa sin las condiciones materiales y de formación que la sostienen."
+    ],
+    "lecturas": [
+      [
+        "Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*.",
+        "el argumento más fuerte contra la guía mínima; hay que leerlo junto a sus réplicas, no en lugar de ellas."
+      ],
+      [
+        "Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*",
+        "distingue descubrimiento puro de descubrimiento guiado, que es la distinción que decide el resultado."
+      ],
+      [
+        "Freire, P. (1970). *Pedagogía del oprimido*.",
+        "obliga a preguntar para qué y para quién se enseña, algo que ningún método técnico responde."
+      ],
+      [
+        "Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.",
+        "muestra una tradición viva por dentro, con sus condiciones institucionales a la vista."
+      ]
+    ],
+    "evidencias": [
+      "una comparación escrita de dos enfoques para un mismo objetivo, con criterios declarados;",
+      "el registro de una clase ejecutada con el enfoque elegido y su análisis posterior;",
+      "la lista de condiciones de implementación verificadas antes de decidir;",
+      "la decisión metodológica final con su plan de verificación."
+    ],
+    "contextos": [
+      ["Curso con base débil en el contenido", "la guía alta no es conservadurismo: es lo que la evidencia indica"],
+      ["Curso avanzado o electivo", "aquí la guía excesiva estorba y conviene abrir"],
+      ["Asignatura procedimental o taller", "modelamiento y práctica deliberada antes que proyecto abierto"],
+      ["Establecimiento que adopta un enfoque institucional", "hay que negociar condiciones, no solo aceptar la decisión"],
+      ["Formación de adultos", "la experiencia previa cambia el punto de partida de cualquier método"],
+      ["Aula con recursos limitados", "el costo de implementación es parte del criterio, no un detalle"]
+    ]
+  },
+  {
+    "part": 20,
+    "titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+    "lema": "El diagnóstico no dice qué hacer el lunes: la estrategia sí, y se elige por barrera, no por etiqueta",
+    "etapa": "F",
+    "poblacion": "transversal, con foco en aula común",
+    "contenido_central": "Del diagnóstico a la estrategia, TDAH, síndrome de Down, autismo, discapacidad intelectual, dificultades específicas del aprendizaje, discapacidad sensorial y motora, comunicación aumentativa, trastornos del lenguaje, altas capacidades, acompañamiento diferenciado y codocencia",
+    "resumen": [
+      "La parte 08 establece el marco: barreras, diseño universal y diversificación. Esta parte responde la pregunta siguiente, que es la que se hace un docente el domingo en la noche: qué hago concretamente el lunes con este estudiante, en esta clase, con estos recursos. La respuesta no se deduce de la categoría diagnóstica. Dos estudiantes con el mismo diagnóstico pueden necesitar apoyos opuestos.",
+      "Cada clase recorre una condición o grupo de condiciones y traduce lo que se sabe sobre ella en decisiones de aula: cómo se presenta la información, cómo se organiza el tiempo, cómo se evalúa sin bajar la exigencia, qué se anticipa y qué se registra. El criterio ordenador es siempre el mismo: identificar la barrera concreta que impide participar o aprender, y elegir el apoyo mínimo suficiente para removerla.",
+      "El cierre es organizativo, porque los apoyos fracasan por logística más que por diseño: quién hace qué, cuándo se coordinan el docente de aula y el educador diferencial, y cómo se registra lo que ocurre para que el apoyo se ajuste en vez de repetirse todo el año."
+    ],
+    "resultados": [
+      "Traducir un diagnóstico en barreras concretas y en apoyos verificables",
+      "Aplicar estrategias específicas para TDAH, síndrome de Down, autismo y dificultades del aprendizaje",
+      "Ajustar acceso, presentación y evaluación sin reducir la exigencia de aprendizaje",
+      "Organizar codocencia y acompañamiento diferenciado con roles y tiempos reales",
+      "Registrar el efecto de un apoyo y decidir si se mantiene, se ajusta o se retira"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    DX[\"Diagnostico o antecedente\"] --> BAR[\"Barrera concreta<br/>que impide participar\"]\n    BAR --> ACC[\"Acceso<br/>como llega la informacion\"]\n    BAR --> ORG[\"Organizacion<br/>tiempo y tarea\"]\n    BAR --> EVA[\"Evaluacion<br/>sin bajar exigencia\"]\n    ACC --> REG[\"Registro del efecto\"]\n    ORG --> REG\n    EVA --> REG\n    REG --> AJU[\"Mantener · ajustar · retirar\"]\n    COD[\"Codocencia y coordinacion\"] --> REG\n```",
+    "marco": [
+      "modelo social y biopsicosocial: la barrera está en la interacción, no solo en la persona",
+      "apoyo mínimo suficiente y retirada planificada del andamio",
+      "adecuaciones de acceso frente a adecuaciones de objetivo, y cuándo corresponde cada una",
+      "normativa chilena de decretos 83/2015 y 170/2009 y Ley 21.545 como marco de las decisiones"
+    ],
+    "autores": "Russell Barkley, Sue Buckley y equipos de investigación en síndrome de Down, Connie Kasari, Robert Schalock, Margaret Snowling, David y Lynn Fuchs, Susan Assouline, CAST y Ministerio de Educación de Chile",
+    "riesgos": [
+      "Elegir la estrategia por la etiqueta diagnóstica en vez de por la barrera observada.",
+      "Confundir adecuación de acceso con rebaja de objetivo y anular el aprendizaje que se dice proteger.",
+      "Delegar todo el apoyo en el educador diferencial y mantener la clase igual.",
+      "Aplicar apoyos sin registro, de modo que nadie puede saber si sirvieron."
+    ],
+    "lecturas": [
+      [
+        "Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*.",
+        "el TDAH como problema de autorregulación y no de voluntad, con implicancias directas de aula."
+      ],
+      [
+        "Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down*.",
+        "perfil de aprendizaje específico —fortaleza visual, memoria verbal a corto plazo más frágil— y qué hacer con él."
+      ],
+      [
+        "Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.",
+        "convierte la inclusión en un conjunto de indicadores revisables, no en una declaración."
+      ],
+      [
+        "Assouline, S. et al. (2015). *A Nation Empowered*.",
+        "la evidencia sobre aceleración, que contradice buena parte de la intuición escolar."
+      ]
+    ],
+    "evidencias": [
+      "el mapa de barreras de un estudiante, con la fuente de cada afirmación;",
+      "la estrategia elegida con su fundamento y su alternativa si no resulta;",
+      "el acuerdo de codocencia con roles, tiempos y responsable de registro;",
+      "el plan de apoyo completo con evidencia de seguimiento y decisión de ajuste."
+    ],
+    "contextos": [
+      ["Aula común con un solo docente", "hay que priorizar apoyos que no exijan un adulto extra"],
+      ["Aula con programa de integración", "el problema suele ser de coordinación, no de conocimiento"],
+      ["Educación parvularia", "el apoyo se juega en la rutina y el ambiente, no en la ficha"],
+      ["Educación media", "la autonomía y la identidad del estudiante entran en la decisión"],
+      ["Educación técnico-profesional", "el taller exige resolver acceso y seguridad al mismo tiempo"],
+      ["Educación superior", "los apoyos se negocian con el estudiante adulto, que decide qué declara"]
+    ]
+  },
+  {
+    "part": 21,
+    "titulo": "Desafíos actuales del aula",
+    "lema": "Los problemas que agotan a un docente no son fallas de vocación: son problemas con estructura y con respuesta",
+    "etapa": "F",
+    "poblacion": "escolar, con énfasis en segundo ciclo y media",
+    "contenido_central": "Desenganche y ausentismo, pérdida de sentido, atención y pantallas, violencia escolar, acoso, ciberacoso, conductas agresivas, agresiones al docente, mediación y prácticas restaurativas, aulas numerosas y riesgo psicosocial",
+    "resumen": [
+      "La parte 12 construye el sistema de gestión de aula que previene. Esta parte enfrenta lo que ocurre igual: el curso que se desengancha, el estudiante que deja de venir, la agresión que escala, el video que circula, la profesora que termina con licencia. Son los problemas que hoy definen la conversación en las salas de profesores y que la formación inicial suele tratar de pasada.",
+      "El enfoque es doble. Primero, entender el fenómeno con la evidencia disponible y sin moralizar: el ausentismo crónico tiene predictores conocidos, el acoso tiene una estructura de roles que va más allá de agresor y víctima, y la desregulación emocional responde a mecanismos que se pueden anticipar. Segundo, decidir la respuesta correcta en el nivel correcto, distinguiendo lo que resuelve un docente, lo que exige protocolo institucional y lo que obliga a derivar.",
+      "La parte insiste en algo que se olvida: la respuesta a estos problemas es institucional o no es. Un docente sosteniendo solo una situación de violencia es una falla de diseño del establecimiento, no una prueba de compromiso."
+    ],
+    "resultados": [
+      "Distinguir desenganche, ausentismo crónico y deserción, y responder a cada uno con su instrumento",
+      "Intervenir una situación de acoso con un procedimiento que no dependa del carisma del docente",
+      "Manejar una conducta agresiva sin escalada y con registro utilizable después",
+      "Conducir una mediación entre estudiantes y una práctica restaurativa con reparación real",
+      "Construir un plan de convivencia con indicadores que alguien revise cada mes"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    SEN[\"Perdida de sentido<br/>y desenganche\"] --> AUS[\"Ausentismo cronico\"]\n    CONF[\"Conflicto entre pares\"] --> ACO[\"Acoso sostenido\"]\n    ACO --> CIB[\"Ciberacoso\"]\n    DES[\"Desregulacion emocional\"] --> AGR[\"Conducta agresiva\"]\n    AGR --> PROT[\"Protocolo institucional\"]\n    ACO --> PROT\n    AUS --> PROT\n    PROT --> MED[\"Mediacion y reparacion\"]\n    PROT --> DER[\"Derivacion a red externa\"]\n    MED --> IND[\"Indicadores de convivencia\"]\n```",
+    "marco": [
+      "ausentismo crónico como predictor temprano de deserción, no como falta administrativa",
+      "estructura de roles del acoso escolar y programas con efecto comprobado",
+      "escalada conductual y respuesta graduada sin confrontación pública",
+      "justicia restaurativa, debido proceso y normativa chilena de convivencia escolar"
+    ],
+    "autores": "Dan Olweus, Christina Salmivalli, Robert Balfanz, Ross Greene, equipos de justicia restaurativa escolar, Superintendencia de Educación y Política Nacional de Convivencia Educativa",
+    "riesgos": [
+      "Tratar el ausentismo como problema del hogar y no como señal temprana que el establecimiento debe accionar.",
+      "Responder al acoso con una conversación entre las partes, que en acoso sostenido agrava el daño.",
+      "Confundir sanción con reparación y cerrar el caso sin que nada cambie para la víctima.",
+      "Dejar a un docente sosteniendo solo una situación de violencia por falta de protocolo activable."
+    ],
+    "lecturas": [
+      [
+        "Olweus, D. (1993). *Bullying at School*.",
+        "define el fenómeno con criterios operacionales —intención, repetición y asimetría de poder— que siguen ordenando la práctica."
+      ],
+      [
+        "Salmivalli, C. (2010). *Bullying and the Peer Group*.",
+        "muestra que el grupo sostiene el acoso y que intervenir solo sobre agresor y víctima suele fracasar."
+      ],
+      [
+        "Balfanz, R. & Byrnes, V. (2012). *The Importance of Being in School*.",
+        "convierte la asistencia en un indicador temprano accionable y no en una estadística de fin de año."
+      ],
+      [
+        "Greene, R. (2014). *Lost at School*.",
+        "reencuadra la conducta como habilidad ausente y propone una respuesta colaborativa verificable."
+      ]
+    ],
+    "evidencias": [
+      "el análisis de asistencia del curso con estudiantes en riesgo identificados;",
+      "el registro de una intervención de acoso con procedimiento y seguimiento;",
+      "el acta de una mediación con acuerdo de reparación y fecha de revisión;",
+      "el plan de convivencia con tres indicadores y su responsable de medición."
+    ],
+    "contextos": [
+      ["Curso de segundo ciclo básico", "la intervención temprana todavía cambia la trayectoria"],
+      ["Curso de educación media", "la legitimidad del procedimiento decide si funciona"],
+      ["Establecimiento sin equipo psicosocial", "hay que resolver con red externa y protocolo claro"],
+      ["Aula numerosa", "las respuestas individuales no escalan: se diseña para el grupo"],
+      ["Educación técnico-profesional", "el taller agrega riesgo físico a cualquier escalada"],
+      ["Contexto de alta vulnerabilidad", "la derivación es parte del trabajo, no una excepción"]
+    ]
+  },
+  {
+    "part": 22,
+    "titulo": "Diversidad cultural, lingüística y territorial",
+    "lema": "La escuela da por supuesto un estudiante: nombrar ese supuesto es el primer acto pedagógico",
+    "etapa": "F",
+    "poblacion": "transversal, con foco en contextos interculturales, migrantes y rurales",
+    "contenido_central": "Supuestos culturales de la escuela, educación intercultural, educación intercultural bilingüe, estudiantes migrantes, castellano como segunda lengua, lenguas extranjeras, variedades lingüísticas, educación rural, aula multigrado, segregación y financiamiento",
+    "resumen": [
+      "Toda escuela enseña a un estudiante imaginario: uno que habla la lengua de instrucción en casa, que reconoce los ejemplos del texto, que puede estudiar en un espacio propio y cuya familia entiende cómo funciona el sistema. Cuando el estudiante real no coincide con ese supuesto, la diferencia se interpreta como déficit. Esta parte trata de hacer visible el supuesto para poder decidir sobre él.",
+      "El recorrido cubre tres diversidades que en Chile suelen tratarse por separado y se cruzan todo el tiempo: la cultural —pueblos originarios y educación intercultural bilingüe—, la lingüística —estudiantes migrantes que deben aprender la lengua de instrucción mientras aprenden en ella, y la enseñanza de lenguas extranjeras— y la territorial —la escuela rural, el aula multigrado y las decisiones que impone la distancia.",
+      "Cierra con lo que casi nunca se enseña a los docentes y decide buena parte de lo posible: cómo se financia el establecimiento, qué permite y qué prohíbe la subvención escolar preferencial, y cómo la segregación del sistema convierte una decisión pedagógica en una decisión política."
+    ],
+    "resultados": [
+      "Identificar los supuestos culturales de un material o una evaluación y corregirlos",
+      "Diseñar acogida y trayectoria para un estudiante migrante sin dominio del castellano académico",
+      "Distinguir enseñar en una lengua de enseñar la lengua, y planificar ambas cosas",
+      "Planificar una clase multigrado con tarea común y exigencia diferenciada",
+      "Fundamentar el uso de recursos SEP en una decisión pedagógica documentada"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    SUP[\"Supuestos de la escuela\"] --> CUL[\"Diversidad cultural<br/>pueblos originarios · EIB\"]\n    SUP --> LIN[\"Diversidad linguistica<br/>migracion · L2 · variedades\"]\n    SUP --> TER[\"Diversidad territorial<br/>rural · multigrado\"]\n    CUL --> PERT[\"Pertinencia curricular\"]\n    LIN --> PERT\n    TER --> PERT\n    SEG[\"Segregacion y efecto par\"] --> REC[\"Recursos y financiamiento\"]\n    REC --> PERT\n    PERT --> PLAN[\"Plan de pertinencia\"]\n```",
+    "marco": [
+      "diferencia cultural como recurso y no como déficit a compensar",
+      "adquisición de segunda lengua y distinción entre lengua conversacional y lengua académica",
+      "educación rural y multigrado como diseño propio, no como escuela pequeña incompleta",
+      "marco chileno de educación intercultural bilingüe, derechos de estudiantes migrantes y subvención escolar preferencial"
+    ],
+    "autores": "Jim Cummins, Luis Moll y el trabajo sobre fondos de conocimiento, Gloria Ladson-Billings, Pierre Bourdieu, Cristián Bellei, Programa de Educación Intercultural Bilingüe y experiencias de Escuela Nueva en América Latina",
+    "riesgos": [
+      "Reducir la interculturalidad a efemérides, comida y vestimenta sin tocar el currículum.",
+      "Interpretar el silencio de un estudiante migrante como falta de capacidad y no como barrera lingüística.",
+      "Planificar el aula multigrado como tres clases simultáneas, que es insostenible para un solo docente.",
+      "Usar recursos SEP en compras sin decisión pedagógica documentada detrás."
+    ],
+    "lecturas": [
+      [
+        "Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.",
+        "la distinción entre lengua de conversación y lengua académica explica años de diagnóstico equivocado."
+      ],
+      [
+        "Moll, L. et al. (1992). *Funds of Knowledge for Teaching*.",
+        "convierte el saber de la familia en material de enseñanza en vez de en obstáculo."
+      ],
+      [
+        "Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*.",
+        "define qué significa enseñar con pertinencia cultural sin bajar la exigencia académica."
+      ],
+      [
+        "Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.",
+        "cuantifica el contexto en que se toman todas las decisiones pedagógicas del sistema chileno."
+      ]
+    ],
+    "evidencias": [
+      "la revisión de un material o instrumento con sus supuestos culturales corregidos;",
+      "el plan de acogida lingüística de un estudiante migrante, con hitos y responsables;",
+      "una planificación multigrado con tarea común y tres niveles de exigencia;",
+      "el plan de pertinencia cultural y territorial con uso declarado de recursos."
+    ],
+    "contextos": [
+      ["Escuela urbana con alta matrícula migrante", "la acogida lingüística no puede depender de un docente voluntario"],
+      ["Escuela con población mapuche o aymara", "la lengua y el territorio son contenido, no decoración"],
+      ["Escuela rural multigrado", "la planificación por tarea común es la única sostenible"],
+      ["Liceo técnico-profesional", "la pertinencia se juega también en el vínculo con el territorio productivo"],
+      ["Establecimiento particular subvencionado", "el financiamiento condiciona lo que se puede sostener en el tiempo"],
+      ["Educación de adultos", "la trayectoria interrumpida es la norma y no la excepción"]
+    ]
+  },
+  {
+    "part": 23,
+    "titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+    "lema": "Una escuela no puede sostener el bienestar de sus estudiantes si destruye el de quienes enseñan",
+    "etapa": "F",
+    "poblacion": "transversal, estudiantes y equipos docentes",
+    "contenido_central": "Alcance de la escuela en salud mental, ansiedad, depresión y riesgo suicida, aprendizaje socioemocional, trauma y adversidad, duelo y crisis, afectividad y educación sexual integral, convivencia digital, carga docente, desgaste profesional y cuidado del equipo",
+    "resumen": [
+      "La salud mental entró a la escuela sin que la escuela decidiera cómo recibirla. El resultado es un docente que atiende situaciones para las que no fue formado, sin protocolo claro, y una institución que responde caso a caso. Esta parte pone límites explícitos: qué le corresponde a la escuela, qué exige derivación, y qué ocurre cuando esa frontera se borra en ambas direcciones.",
+      "El recorrido cubre lo que efectivamente aparece: ansiedad y estrés académico, cuadros depresivos, autolesión y riesgo suicida con su protocolo, historias de adversidad y trauma, duelos y crisis comunitarias. Se incluye la afectividad y la educación sexual integral, que es contenido obligatorio y una de las áreas donde los docentes reportan menos preparación y más miedo a equivocarse.",
+      "La segunda mitad se ocupa de quienes enseñan. La carga docente, el desgaste profesional y la rotación no son temas de recursos humanos: determinan la calidad de lo que ocurre en la sala. Un plan de bienestar que solo mira a los estudiantes es, en la práctica, un plan incompleto."
+    ],
+    "resultados": [
+      "Distinguir malestar esperable, señal de alerta y situación que exige derivación inmediata",
+      "Activar un protocolo de riesgo suicida sin improvisar y sin exceder el rol docente",
+      "Implementar aprendizaje socioemocional con expectativas proporcionales a la evidencia",
+      "Abordar afectividad y educación sexual con marco normativo y acuerdo con las familias",
+      "Medir carga docente real y proponer decisiones institucionales que la hagan sostenible"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    OBS[\"Observacion docente\"] --> SEN[\"Senal de alerta\"]\n    SEN --> LIM[\"Frontera del rol\"]\n    LIM --> ESC[\"Respuesta escolar\"]\n    LIM --> DER[\"Derivacion a salud\"]\n    ESC --> SEL[\"Aprendizaje socioemocional\"]\n    ESC --> PROT[\"Protocolos de crisis\"]\n    CAR[\"Carga docente real\"] --> DESG[\"Desgaste profesional\"]\n    DESG --> INST[\"Decision institucional\"]\n    INST --> BIEN[\"Plan de bienestar\"]\n    ESC --> BIEN\n```",
+    "marco": [
+      "alcance y límite del rol docente frente a la salud mental",
+      "protocolos de riesgo suicida y postvención en comunidades educativas",
+      "aprendizaje socioemocional: efectos comprobados y efectos exagerados",
+      "carga laboral docente, desgaste profesional y responsabilidad institucional"
+    ],
+    "autores": "Roger Weissberg y el consorcio CASEL, Bruce Perry y equipos de práctica sensible al trauma, Christina Maslach, Michael Marmot en determinantes sociales, UNESCO en educación sexual integral y Superintendencia de Educación",
+    "riesgos": [
+      "Diagnosticar desde el aula y etiquetar a un estudiante sin competencia profesional para hacerlo.",
+      "Guardar una señal de riesgo por miedo a equivocarse o por sobrecarga del equipo.",
+      "Vender el aprendizaje socioemocional como solución de resultados académicos que no promete.",
+      "Tratar el desgaste docente como problema individual de autocuidado y no como decisión de organización del trabajo."
+    ],
+    "lecturas": [
+      [
+        "Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*.",
+        "el metaanálisis que fija qué se puede esperar del aprendizaje socioemocional y qué no."
+      ],
+      [
+        "Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.",
+        "sitúa el desgaste en las condiciones del trabajo y no en la fragilidad de quien lo sufre."
+      ],
+      [
+        "UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*.",
+        "el marco que permite abordar afectividad con criterio profesional y no con improvisación."
+      ],
+      [
+        "Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*.",
+        "explica el efecto de la adversidad temprana sobre la conducta escolar sin convertirlo en excusa."
+      ]
+    ],
+    "evidencias": [
+      "el mapa de señales de alerta del curso, con su umbral de acción declarado;",
+      "el protocolo de riesgo escrito, con actores, plazos y registro;",
+      "la medición de carga real de un equipo docente durante un mes;",
+      "el plan de bienestar escolar con compromisos institucionales verificables."
+    ],
+    "contextos": [
+      ["Curso de educación media", "es donde aparecen la mayoría de los cuadros de mayor riesgo"],
+      ["Educación básica", "la señal suele ser conductual antes que verbal"],
+      ["Establecimiento sin dupla psicosocial", "el protocolo debe apoyarse en red externa desde el diseño"],
+      ["Equipo con alta rotación", "el bienestar se pierde primero en la transmisión de lo acordado"],
+      ["Educación superior", "el estudiante es adulto y decide qué declara y qué apoyo acepta"],
+      ["Comunidad tras una crisis", "la postvención tiene reglas propias y plazos que no se improvisan"]
+    ]
+  },
+  {
+    "part": 24,
+    "titulo": "Modelos educativos internacionales y evidencia comparada",
+    "lema": "Ningún sistema se exporta entero: se estudia para entender el mecanismo, no para copiar la fachada",
+    "etapa": "F",
+    "poblacion": "directivos, formadores, investigadores y docentes con mirada de sistema",
+    "contenido_central": "Lectura crítica de sistemas educativos, pruebas internacionales, Finlandia, Singapur, Estonia, Japón, Shanghái, Ontario, Portugal, Polonia, Escuela Nueva de Colombia y Chile en perspectiva comparada",
+    "resumen": [
+      "Cada cierto tiempo un sistema educativo se vuelve modelo y su nombre empieza a usarse como argumento. Finlandia primero, Singapur y Estonia después. El problema no es mirar afuera: es mirar la fachada. Se importa lo visible —la ausencia de pruebas, la jornada corta, la tecnología— y se deja fuera lo que sostiene el resultado, que suele ser la selección y formación docente, la estabilidad de la política y las condiciones sociales del país.",
+      "Esta parte enseña a leer un sistema como se lee un estudio: qué se afirma, con qué evidencia, en qué contexto y qué condición haría que el resultado no se repita. Se trabajan casos concretos y también sus contraejemplos, porque los sistemas que mejoraron y los que retrocedieron enseñan cosas distintas y ambas hacen falta.",
+      "El cierre es local: qué de lo que Chile hace es propio, qué fue importado, qué se importó bien y qué se importó a medias. La evidencia comparada sirve cuando permite decidir sobre el sistema propio, no cuando produce admiración."
+    ],
+    "resultados": [
+      "Leer un sistema educativo distinguiendo mecanismo, contexto y condición de transferencia",
+      "Interpretar resultados de PISA, TIMSS y PIRLS sin exceder lo que esas pruebas permiten afirmar",
+      "Reconstruir la trayectoria de una reforma y separar lo que la explica de lo que la acompañó",
+      "Evaluar la viabilidad local de una práctica extranjera con criterios explícitos",
+      "Redactar una propuesta de adaptación que declare lo que se descarta y por qué"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    SIS[\"Sistema observado\"] --> MEC[\"Mecanismo declarado\"]\n    SIS --> CTX[\"Contexto que lo sostiene\"]\n    MEC --> TRANS[\"Condicion de transferencia\"]\n    CTX --> TRANS\n    PRU[\"Pruebas internacionales\"] --> LIM[\"Que permiten afirmar\"]\n    LIM --> TRANS\n    TRANS --> ADAP[\"Propuesta de adaptacion\"]\n    ADAP --> DESC[\"Lo que se descarta<br/>y por que\"]\n```",
+    "marco": [
+      "educación comparada: equivalencia funcional antes que semejanza aparente",
+      "qué mide y qué no mide una prueba internacional de rendimiento",
+      "mejora sistémica sostenida frente a reforma anunciada",
+      "transferencia de política educativa y condiciones locales de fracaso"
+    ],
+    "autores": "Andreas Schleicher y los equipos OCDE, Pasi Sahlberg, Michael Fullan, Yong Zhao, Lucy Crehan, Catherine Lewis en lesson study y los equipos de Escuela Nueva en Colombia",
+    "riesgos": [
+      "Citar un país como argumento sin haber leído qué hizo realmente y en qué orden.",
+      "Confundir correlación de un ranking con causa de un resultado.",
+      "Importar la práctica visible y omitir la condición institucional que la sostiene.",
+      "Descartar la evidencia comparada por completo y decidir solo por intuición local."
+    ],
+    "lecturas": [
+      [
+        "Sahlberg, P. (2011). *Finnish Lessons*.",
+        "la fuente que originó buena parte del mito; leerla completa muestra lo que el mito omitió."
+      ],
+      [
+        "Crehan, L. (2016). *Cleverlands*.",
+        "recorre los sistemas de mejor resultado buscando el mecanismo y no la anécdota."
+      ],
+      [
+        "Lewis, C. (2002). *Lesson Study: A Handbook of Teacher-Led Instructional Change*.",
+        "la práctica japonesa descrita con suficiente detalle para juzgar si es transferible."
+      ],
+      [
+        "Zhao, Y. (2014). *Who's Afraid of the Big Bad Dragon?*",
+        "el costo de los sistemas de alto rendimiento, que los rankings no muestran."
+      ]
+    ],
+    "evidencias": [
+      "la ficha de un sistema educativo con mecanismo, contexto y condición de transferencia;",
+      "la lectura crítica de un resultado de prueba internacional con sus límites declarados;",
+      "la comparación de dos reformas con lo que cada una permite concluir;",
+      "la propuesta de adaptación fundamentada, con lo descartado explicitado."
+    ],
+    "contextos": [
+      ["Equipo directivo evaluando una reforma interna", "la pregunta es qué condición local haría fracasar el traslado"],
+      ["Docente de aula", "el interés está en la práctica concreta, no en la política del país"],
+      ["Formación inicial docente", "los sistemas de referencia se estudian por su modelo de formación"],
+      ["Investigación educativa", "la comparación exige equivalencia funcional antes que semejanza"],
+      ["Sostenedor o municipio", "la escala local decide qué es realmente adoptable"],
+      ["Discusión pública", "la exigencia es no usar un país como eslogan"]
+    ]
+  }
+]

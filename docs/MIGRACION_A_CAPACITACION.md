@@ -40,7 +40,7 @@ El paquete no se versiona: se regenera. La fuente sigue siendo `manifests/` y `c
 | En este programa | En la plataforma |
 |---|---|
 | Parte (18) | Módulo o unidad |
-| Clase (216) | Lección |
+| Clase (300) | Lección |
 | Decisión que habilita | Objetivo de la lección |
 | Evidencia de aprendizaje | Tarea entregable |
 | Criterios de logro | Rúbrica de aprobación |
@@ -64,7 +64,7 @@ regenera: el manifiesto y el CSV recalculan solos.
 
 ## 5. Recomendaciones de implementación
 
-1. **No cargues las 216 lecciones de una vez.** Empieza por una parte completa, mide y ajusta.
+1. **No cargues las 300 lecciones de una vez.** Empieza por una parte completa, mide y ajusta.
 2. **Configura la tarea entregable desde el inicio.** Sin entrega, el programa se convierte en
    lectura y su efecto se pierde.
 3. **Publica la rúbrica antes del trabajo**, no después: la clase 113 explica por qué.
@@ -72,7 +72,7 @@ regenera: el manifiesto y el CSV recalculan solos.
    que la deserción se decide temprano.
 5. **Contempla acompañamiento humano.** La clase 215 es explícita: sin acompañamiento en el
    puesto, el cambio de práctica no se sostiene.
-6. **Conserva la trazabilidad.** Cada lección conserva su número de clase: `PED-001` a `PED-216`.
+6. **Conserva la trazabilidad.** Cada lección conserva su número de clase: `PED-001` a `PED-300`.
    Eso permite volver a la fuente cuando algo deba corregirse.
 
 ## 6. Qué revisar después de cargar

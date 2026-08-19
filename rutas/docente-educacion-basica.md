@@ -94,6 +94,9 @@ prioriza bien sobrevive; quien improvisa cada día se agota antes de noviembre.
 049 (didáctica de la lectura), 051 (didáctica de la matemática), 058 (evaluación formativa),
 059 (gestión de aula en niñez media).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **18** Alfabetización inicial y ciencia de la lectura · **19** Metodologías y enfoques pedagógicos · **20** Estrategias pedagógicas para necesidades educativas específicas · **21** Desafíos actuales del aula.
+Alfabetización inicial es tu deuda más urgente si enseñas primer ciclo; la 20 y la 21 resuelven lo que aparece todos los días en tu sala.
+
 ## 🏛️ Credenciales y habilitación en Chile
 
 - **Título profesional de Pedagogía en Educación Básica**, otorgado por una institución

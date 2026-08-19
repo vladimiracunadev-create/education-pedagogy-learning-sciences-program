@@ -1,6 +1,6 @@
 # Proyectos integradores mayores
 
-Cada una de las 18 partes cierra con su propio proyecto integrador —la clase 12 de la parte—.
+Cada una de las 25 partes cierra con su propio proyecto integrador —la clase 12 de la parte—.
 Estos cinco proyectos son distintos: **atraviesan varias partes** y funcionan como evidencia de
 etapa. Son los que muestran, ante un tercero, que el programa se recorrió de verdad.
 

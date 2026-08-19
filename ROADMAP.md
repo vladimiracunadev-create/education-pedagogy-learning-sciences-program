@@ -67,7 +67,16 @@ doctoral que resistió las tres objeciones más fuertes de un especialista.
 - 18 casos persistentes, uno por parte, con su artefacto declarado.
 - CodeQL, manifiesto generado, validación de profundidad y carpeta de evidencia.
 
-### v1.3 — próximo
+### v2.0.0 — publicado
+
+- Etapa F con siete partes nuevas: alfabetización inicial, metodologías, necesidades educativas
+  específicas, desafíos del aula, diversidad cultural y territorial, bienestar y evidencia
+  comparada. 300 clases en 25 partes, 1.207.284 palabras.
+- Banco de 60 actividades prácticas, filtrable por ciclo, asignatura, modalidad y contexto.
+- Especialización de etapa F declarada en las 14 guías de carrera.
+
+### v2.1 — próximo
+
 
 - [ ] Ampliar `cases/` a 18 casos, uno por parte, con pauta de resolución y solución comentada.
 - [ ] Plantillas de trabajo en `templates/`: planificación, rúbrica, plan de apoyo, protocolo de

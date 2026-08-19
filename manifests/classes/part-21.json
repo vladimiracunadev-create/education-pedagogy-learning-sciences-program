@@ -1,0 +1,446 @@
+[
+  {
+    "n": 253,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué la asistencia es el indicador temprano más barato y el más ignorado",
+    "proposito": "Detectar el desenganche antes de que se convierta en deserción, usando la asistencia como señal accionable y no como registro administrativo.",
+    "decision": "determinar qué estudiantes de tu curso están en riesgo por asistencia y qué se activa con cada uno esta semana",
+    "entregable": "un análisis de asistencia del curso con estudiantes en riesgo identificados y acción asignada",
+    "conceptos": [
+      ["Ausentismo crónico", "pérdida del diez por ciento o más de las jornadas del año, por cualquier causa, justificada o no"],
+      ["Desenganche", "retiro progresivo de la participación —conductual, emocional y cognitiva— que precede a la inasistencia"],
+      ["Señal temprana", "indicador que aparece con anticipación suficiente para que la intervención todavía cambie la trayectoria"],
+      ["Respuesta escalonada", "conjunto de acciones de intensidad creciente según el nivel de riesgo detectado"]
+    ],
+    "desarrollo": "El ausentismo crónico es uno de los predictores más robustos de deserción y de bajo rendimiento, y tiene una virtud que ningún otro indicador tiene: la escuela ya lo registra todos los días. El problema es que se registra sin usarse. Contar faltas justificadas e injustificadas por separado oculta el fenómeno, porque para el aprendizaje da lo mismo la razón: el estudiante no estuvo. Y el desenganche empieza antes, con retiro de la participación dentro de la sala.",
+    "practica": "El uso profesional del dato es simple y exige constancia: se calcula el porcentaje acumulado de inasistencia por estudiante, se revisa mensualmente y se activa una respuesta escalonada. Bajo el umbral de riesgo, contacto y seguimiento del docente jefe; sobre él, entrevista con la familia y plan concreto; en el nivel más alto, articulación con la red externa. Lo que convierte el sistema en algo real es que cada nivel tenga responsable nombrado y plazo.",
+    "limites": "La asistencia detecta el problema pero no informa su causa: trabajo infantil, cuidado de hermanos, salud mental, acoso o desmotivación exigen respuestas distintas y la cifra no las distingue. Además, buena parte de la evidencia proviene de sistemas escolares con estructuras de apoyo distintas de las chilenas. Y la respuesta punitiva a la inasistencia es la que peor funciona, aunque siga siendo la más frecuente.",
+    "errores": [
+      "Separar faltas justificadas de injustificadas y perder de vista el total, que es lo que afecta al aprendizaje.",
+      "Responder a la inasistencia con sanciones que aumentan la distancia con la escuela."
+    ],
+    "criterios": [
+      "el análisis identifica estudiantes por porcentaje acumulado y no por faltas del mes;",
+      "cada estudiante en riesgo tiene acción asignada con responsable y plazo;"
+    ],
+    "preguntas": [
+      "¿Cuántos estudiantes de tu curso perdieron ya el diez por ciento del año?",
+      "¿Qué se activó la última vez que alguien cruzó el umbral, y quién lo activó?",
+      "¿Qué señales de desenganche aparecieron antes de la primera inasistencia?"
+    ],
+    "lecturas": [
+      ["Balfanz, R. & Byrnes, V. (2012). *The Importance of Being in School*.", "convierte la asistencia en indicador temprano accionable, con umbrales y evidencia."],
+      ["Fredricks, J., Blumenfeld, P. & Paris, A. (2004). *School Engagement*.", "distingue las tres dimensiones del compromiso escolar, que se pierden en orden."]
+    ],
+    "inclusion": "El ausentismo se concentra en estudiantes con responsabilidades de cuidado, con problemas de salud crónicos y en contextos de mayor vulnerabilidad. Responder con sanción convierte una dificultad estructural en una falta personal.",
+    "reto": "Calcula el porcentaje acumulado de inasistencia de tu curso. Identifica a los que cruzaron el umbral y activa una acción concreta con cada uno esta semana.",
+    "conexion": "Abre la parte 21 y prepara la 254. Se articula con las clases 145 y 156 y con la parte 15."
+  },
+  {
+    "n": 254,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué responde un docente cuando la pregunta es «¿para qué me sirve esto?» y es sincera",
+    "proposito": "Reconstruir el sentido de la tarea escolar apelando a utilidad, pertenencia y competencia, en vez de a la obligación o a la promesa lejana.",
+    "decision": "determinar qué fuente de sentido está ausente en tu clase y cuál puedes reponer esta semana",
+    "entregable": "un rediseño de unidad que declara la fuente de sentido y su verificación con los estudiantes",
+    "conceptos": [
+      ["Valor de utilidad", "percepción de que la tarea sirve para algo que el estudiante reconoce como propio"],
+      ["Pertenencia", "sensación de ser parte legítima del grupo y del espacio escolar; condición previa de cualquier esfuerzo sostenido"],
+      ["Expectativa de logro", "creencia de que el esfuerzo puede producir éxito; sin ella, el estudiante protege su autoestima retirándose"],
+      ["Retiro protector", "estrategia de dejar de intentar para que el fracaso no informe sobre la propia capacidad"]
+    ],
+    "desarrollo": "La pregunta por el sentido no siempre es una provocación: muchas veces es una descripción exacta de la experiencia del estudiante. La investigación sobre motivación converge en tres fuentes que sostienen el esfuerzo escolar: percibir utilidad en la tarea, sentirse parte del grupo y creer que el esfuerzo puede producir resultado. Cuando falta la tercera, aparece el retiro protector, que la escuela lee como flojera y que es en realidad una defensa del autoconcepto.",
+    "practica": "Reponer sentido es trabajo de diseño y no de discurso. La utilidad se construye conectando el contenido con problemas que el estudiante reconoce, no con el mercado laboral en diez años. La pertenencia se juega en detalles observables: quién es nombrado, quién es consultado, quién tiene un rol. La expectativa de logro se reconstruye con tareas graduadas donde el éxito es posible y con retroalimentación que atribuye el resultado al método y al esfuerzo, no a la capacidad.",
+    "limites": "Las intervenciones motivacionales breves —intervenciones de utilidad o de pertenencia— muestran efectos que en replicaciones a gran escala resultan más pequeños y más condicionados de lo que sugerían los estudios iniciales. Funcionan mejor en estudiantes en riesgo y en contextos donde el entorno respalda el mensaje: un mensaje de pertenencia en una escuela que excluye no produce efecto y puede resultar cínico.",
+    "errores": [
+      "Responder a la pregunta por el sentido con la utilidad laboral futura, que para un adolescente es abstracta.",
+      "Interpretar el retiro protector como desinterés y aumentar la exigencia sin restaurar la expectativa de logro."
+    ],
+    "criterios": [
+      "el rediseño declara qué fuente de sentido repone y cómo la hace visible al estudiante;",
+      "existe verificación con los propios estudiantes y no solo la impresión del docente;"
+    ],
+    "preguntas": [
+      "¿Qué estudiante dejó de intentar y desde cuándo?",
+      "¿Qué problema reconocible para ellos resuelve el contenido de esta semana?",
+      "¿Quién de tu curso no tiene ningún rol dentro de la sala?"
+    ],
+    "lecturas": [
+      ["Deci, E. & Ryan, R. (2000). *Self-Determination Theory*.", "las tres necesidades psicológicas que sostienen la motivación autónoma."],
+      ["Yeager, D. et al. (2019). *A National Experiment Reveals Where a Growth Mindset Improves Achievement*.", "el ejemplo mejor documentado de efecto real, pequeño y dependiente del contexto."]
+    ],
+    "inclusion": "La pertenencia es la fuente más desigual: los estudiantes que ya se sienten ajenos por origen, lengua o condición son quienes menos la reciben y más la necesitan. Es también la que más depende de decisiones observables del docente.",
+    "reto": "Identifica tres estudiantes que dejaron de intentar. Rediseña una clase reponiendo una fuente de sentido y verifica con ellos si algo cambió.",
+    "conexion": "Continúa la clase 253 y profundiza la 151. Se apoya en las clases 022 y 062."
+  },
+  {
+    "n": 255,
+    "evidencia": "EN-DEBATE",
+    "foco": "qué se puede afirmar con evidencia sobre pantallas y atención, y qué es pánico moral",
+    "proposito": "Tomar decisiones sobre dispositivos y atención distinguiendo lo que la evidencia sostiene de lo que circula como certeza cultural.",
+    "decision": "determinar la política de dispositivos de tu aula con fundamento y con un criterio de revisión",
+    "entregable": "una política de uso de dispositivos con fundamento declarado, excepciones y criterio de revisión",
+    "conceptos": [
+      ["Atención sostenida", "capacidad de mantener el foco en una tarea a lo largo del tiempo, entrenable y sensible al contexto"],
+      ["Costo de cambio de tarea", "pérdida de rendimiento al alternar entre actividades, documentada de forma consistente"],
+      ["Pánico moral", "alarma social desproporcionada respecto de la evidencia disponible sobre un fenómeno nuevo"],
+      ["Desplazamiento de actividad", "efecto por el cual el tiempo de pantalla sustituye a otras actividades, más que dañar directamente"]
+    ],
+    "desarrollo": "Hay dos afirmaciones que conviene separar. La primera está bien establecida: alternar entre tareas tiene un costo de rendimiento, y un dispositivo disponible durante una clase reduce lo que se aprende, incluso sin usarlo. La segunda —que las pantallas dañan estructuralmente la capacidad de atención de una generación— tiene evidencia mucho más débil, con estudios correlacionales, tamaños de efecto pequeños y problemas metodológicos serios. Sostener la primera sin adherir a la segunda es la posición defendible.",
+    "practica": "Una política de aula fundamentada distingue por función: el dispositivo como herramienta declarada de una tarea concreta, con inicio y término, es distinto del dispositivo disponible durante toda la clase. Las reglas funcionan cuando son explícitas, aplicadas de manera consistente y explicadas por su razón, no por autoridad. La revisión periódica evita que la política quede fijada en el pánico del año en que se escribió.",
+    "limites": "La investigación disponible es mayoritariamente correlacional y no permite establecer dirección causal: es igualmente plausible que las dificultades de atención aumenten el uso de pantallas. El campo cambia más rápido que los estudios y buena parte de lo publicado ya describe tecnologías distintas de las actuales. Y las medidas de uso son casi siempre autorreportadas, con error conocido y grande.",
+    "errores": [
+      "Prohibir sin explicar la razón y perder la posibilidad de que la norma se sostenga sin vigilancia.",
+      "Afirmar como establecido el daño estructural a la atención, que la evidencia disponible no respalda."
+    ],
+    "criterios": [
+      "la política declara su fundamento y distingue uso como herramienta de disponibilidad permanente;",
+      "existe fecha de revisión y criterio para modificarla;"
+    ],
+    "preguntas": [
+      "¿Tu norma sobre celulares está fundamentada o heredada?",
+      "¿Qué evidencia tienes de que el dispositivo afecta el trabajo en tu clase específicamente?",
+      "¿Qué actividad desplaza el tiempo de pantalla en tus estudiantes?"
+    ],
+    "lecturas": [
+      ["Orben, A. & Przybylski, A. (2019). *The Association Between Adolescent Well-Being and Digital Technology Use*.", "el análisis que redimensionó los tamaños de efecto reportados en la literatura previa."],
+      ["Ward, A. et al. (2017). *Brain Drain*.", "documenta el costo cognitivo de la mera presencia del dispositivo, sin uso."]
+    ],
+    "inclusion": "Las políticas restrictivas afectan de manera desigual a estudiantes que dependen del teléfono como único acceso a internet, a quienes lo usan como apoyo de accesibilidad y a quienes tienen responsabilidades de cuidado familiar durante la jornada.",
+    "reto": "Redacta la política de dispositivos de tu aula con fundamento explícito y excepciones. Aplícala un mes y registra los conflictos que generó.",
+    "conexion": "Profundiza la clase 153 y se apoya en la parte 13. Enlaza con la clase 284."
+  },
+  {
+    "n": 256,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se distingue un conflicto, una falta y una situación de vulneración cuando todo ocurre a la vez",
+    "proposito": "Clasificar correctamente una situación de violencia escolar y activar la respuesta institucional que corresponde, sin sobrerreaccionar ni minimizar.",
+    "decision": "determinar de qué tipo de situación se trata y qué respuesta institucional corresponde activar",
+    "entregable": "un árbol de decisión de violencia escolar con tipos, respuestas, plazos y responsables",
+    "conceptos": [
+      ["Violencia escolar", "conjunto amplio de conductas que dañan a miembros de la comunidad educativa, con formas y gravedades muy distintas"],
+      ["Conflicto", "desacuerdo entre partes con poder comparable, susceptible de mediación"],
+      ["Vulneración de derechos", "situación que afecta la integridad de un estudiante y obliga a activar protocolo y, en su caso, denuncia"],
+      ["Proporcionalidad", "correspondencia entre la gravedad del hecho y la intensidad de la respuesta institucional"]
+    ],
+    "desarrollo": "El error más costoso en violencia escolar es de clasificación. Tratar como conflicto una situación de acoso sostenido expone a la víctima; tratar como acoso un conflicto puntual escala innecesariamente y desgasta el sistema; tratar como falta disciplinaria una vulneración de derechos incumple la obligación legal de denunciar. La primera tarea profesional es clasificar con criterios y no con la impresión del momento, que casi siempre está influida por quién reclamó primero.",
+    "practica": "El árbol de decisión funciona con tres preguntas: hay o no asimetría de poder, la conducta es puntual o sostenida, y existe o no vulneración de derechos que obligue a denunciar. Cada rama tiene una respuesta declarada, con plazo y responsable. El registro de los hechos —fecha, lugar, personas, descripción sin interpretación— se hace antes de decidir, porque es lo que permite sostener la decisión frente a la familia y frente a la autoridad.",
+    "limites": "La normativa establece plazos y obligaciones que varían según la naturaleza del hecho y que cambian con el tiempo: la fuente oficial vigente siempre manda sobre cualquier material formativo. Además, la clasificación en la práctica rara vez es limpia, porque las situaciones evolucionan y lo que empezó como conflicto puede transformarse en acoso mientras el equipo delibera.",
+    "errores": [
+      "Clasificar según quién reclamó primero o según qué familia presiona más.",
+      "Registrar interpretaciones en vez de hechos, lo que invalida el respaldo cuando se necesita."
+    ],
+    "criterios": [
+      "el árbol declara criterios de clasificación, respuesta, plazo y responsable por rama;",
+      "el registro separa hechos observados de interpretaciones;"
+    ],
+    "preguntas": [
+      "¿Existe asimetría de poder entre las partes y cómo lo sabes?",
+      "¿Es un hecho puntual o hay antecedentes que nadie reunió todavía?",
+      "¿Qué plazo legal corre desde el momento en que tomaste conocimiento?"
+    ],
+    "lecturas": [
+      ["Olweus, D. (1993). *Bullying at School*.", "los criterios operacionales que permiten distinguir acoso de conflicto."],
+      ["Superintendencia de Educación de Chile. *Circulares sobre convivencia escolar*.", "las obligaciones institucionales, plazos y protocolos vigentes."]
+    ],
+    "inclusion": "Los estudiantes con discapacidad, migrantes y de la diversidad sexual presentan tasas de victimización más altas, y sus denuncias son menos creídas. El criterio de clasificación debe protegerlos precisamente de ese sesgo.",
+    "reto": "Construye el árbol de decisión de tu establecimiento y contrástalo con tres casos reales del año pasado. Registra en cuántos la clasificación fue correcta.",
+    "conexion": "Se apoya en las clases 150 y 155, y prepara las clases 257 y 261."
+  },
+  {
+    "n": 257,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué intervenir solo sobre agresor y víctima suele fracasar",
+    "proposito": "Detectar e intervenir situaciones de acoso escolar con procedimientos que consideran al grupo, y no solo a los dos protagonistas visibles.",
+    "decision": "determinar qué intervención corresponde a este caso de acoso y qué rol tiene el grupo curso",
+    "entregable": "un plan de intervención de acoso con acciones sobre víctima, agresor, testigos y contexto",
+    "conceptos": [
+      ["Acoso escolar", "conducta agresiva intencional, repetida en el tiempo y con asimetría de poder entre las partes"],
+      ["Roles participantes", "posiciones del grupo —agresor, asistente, reforzador, defensor, espectador— que sostienen o frenan el acoso"],
+      ["Intervención sobre el grupo", "acción dirigida a modificar la respuesta de los testigos, que es lo que retira el refuerzo social"],
+      ["Seguimiento verificado", "comprobación posterior con la víctima de que la conducta cesó efectivamente"]
+    ],
+    "desarrollo": "El hallazgo que más cambió la práctica es que el acoso es un fenómeno grupal: se sostiene por la respuesta de quienes miran. Los agresores obtienen estatus del refuerzo social, y por eso las intervenciones centradas exclusivamente en la díada tienden a fracasar o a producir represalias. Los programas con mejor evidencia trabajan sobre los testigos: cambian lo que hace el grupo cuando ocurre, y con eso retiran el beneficio social de la agresión.",
+    "practica": "Un plan completo actúa en cuatro frentes: protección efectiva y verificada de la víctima, intervención con el agresor que incluya consecuencia proporcional y trabajo formativo, acción explícita sobre los testigos —que son la palanca— y modificación del contexto donde ocurre, que suele ser un lugar y un momento específicos sin supervisión. El seguimiento con la víctima a dos y a seis semanas es lo que distingue una intervención real de un acta cerrada.",
+    "limites": "Los programas evaluados muestran reducciones consistentes pero modestas, y su efecto depende fuertemente de la fidelidad de implementación y del compromiso institucional. La mediación entre las partes, que funciona en conflictos simétricos, está contraindicada en acoso sostenido porque expone a la víctima. Y el ciberacoso responde peor a las intervenciones escolares clásicas.",
+    "errores": [
+      "Sentar a víctima y agresor a conversar como si fueran partes de un conflicto simétrico.",
+      "Cerrar el caso con la sanción aplicada y sin verificar semanas después si la conducta cesó."
+    ],
+    "criterios": [
+      "el plan incluye acción explícita sobre testigos y sobre el contexto físico donde ocurre;",
+      "existe seguimiento verificado con la víctima en al menos dos momentos posteriores;"
+    ],
+    "preguntas": [
+      "¿Qué hacen los testigos cuando esto ocurre, y qué les has enseñado a hacer?",
+      "¿Dónde y en qué momento de la jornada sucede, y quién supervisa ahí?",
+      "¿Verificaste con la víctima, semanas después, que efectivamente cesó?"
+    ],
+    "lecturas": [
+      ["Salmivalli, C. (2010). *Bullying and the Peer Group*.", "el modelo de roles participantes y por qué el grupo es la palanca de intervención."],
+      ["Ttofi, M. & Farrington, D. (2011). *Effectiveness of School-Based Programs to Reduce Bullying*.", "el metaanálisis que identifica qué componentes de programa producen el efecto."]
+    ],
+    "inclusion": "La victimización se concentra en estudiantes percibidos como distintos: con discapacidad, migrantes, de la diversidad sexual o con dificultades de comunicación. Un plan que no nombra ese patrón no protege a quienes más lo necesitan.",
+    "reto": "Toma un caso real y diseña el plan en los cuatro frentes. Ejecuta la acción sobre testigos y verifica con la víctima a las dos y a las seis semanas.",
+    "conexion": "Continúa la clase 256 y prepara la 258. Se articula con la clase 150 y con la parte 12."
+  },
+  {
+    "n": 258,
+    "evidencia": "EMERGENTE",
+    "foco": "qué puede hacer la escuela con algo que ocurre fuera de ella y llega igual a la sala",
+    "proposito": "Responder al ciberacoso con criterios de competencia institucional, preservación de evidencia y trabajo formativo, sin exceder el rol ni desentenderse.",
+    "decision": "determinar qué le corresponde a la escuela en este caso y qué corresponde derivar a otra instancia",
+    "entregable": "un protocolo de ciberacoso con criterio de competencia, preservación de evidencia y acciones formativas",
+    "conceptos": [
+      ["Ciberacoso", "agresión sostenida mediante medios digitales, con posibilidad de anonimato, difusión amplia y permanencia del contenido"],
+      ["Permanencia y difusión", "características que agravan el daño: el contenido persiste y la audiencia es indeterminada"],
+      ["Preservación de evidencia", "resguardo del registro digital antes de que se elimine, condición para cualquier acción posterior"],
+      ["Competencia institucional", "límite de lo que la escuela puede y debe abordar frente a hechos ocurridos fuera de ella"]
+    ],
+    "desarrollo": "El ciberacoso desborda las categorías escolares clásicas: ocurre fuera del horario, en plataformas que la escuela no controla, con audiencia indeterminada y con contenido que persiste. Aun así, sus efectos entran completos a la sala. La posición defendible es intermedia: la escuela no tiene competencia sobre lo que ocurre en redes privadas, y sí tiene responsabilidad sobre el clima que ese hecho produce entre sus estudiantes y sobre el deber de orientar y derivar.",
+    "practica": "El protocolo ordena tres decisiones. Primero, preservar evidencia: capturas con fecha y contexto, antes de que el contenido se elimine. Segundo, determinar competencia: qué corresponde a la escuela, qué a la familia y qué a la autoridad, especialmente cuando hay contenido de carácter sexual o amenazas, donde existen obligaciones legales específicas. Tercero, actuar sobre lo que sí es escolar: el clima del curso, la protección de la víctima y el trabajo formativo con el grupo.",
+    "limites": "La evidencia sobre intervenciones eficaces contra el ciberacoso es considerablemente más débil que en acoso presencial, y varios programas escolares muestran efectos pequeños o nulos. El terreno legal es complejo y cambia con frecuencia. Y existe un riesgo real de exceso: intervenir sobre la vida digital privada de los estudiantes sin competencia para hacerlo genera conflictos con familias y expone al establecimiento.",
+    "errores": [
+      "Pedir que borren el contenido antes de preservarlo, con lo que se pierde toda posibilidad de acción.",
+      "Asumir competencia sobre hechos privados o desentenderse del efecto que producen en la sala."
+    ],
+    "criterios": [
+      "el protocolo declara el criterio de competencia institucional con ejemplos;",
+      "la preservación de evidencia está descrita como primer paso operativo;"
+    ],
+    "preguntas": [
+      "¿Se preservó la evidencia antes de pedir que se eliminara el contenido?",
+      "¿Qué parte de este caso es competencia de la escuela y cuál no?",
+      "¿Qué está ocurriendo en la sala como efecto de esto?"
+    ],
+    "lecturas": [
+      ["Kowalski, R. et al. (2014). *Bullying in the Digital Age*.", "síntesis de lo que se sabe sobre ciberacoso y de la debilidad de las intervenciones disponibles."],
+      ["Superintendencia de Educación de Chile. *Orientaciones sobre convivencia digital*.", "el marco de competencia institucional y de obligaciones aplicables."]
+    ],
+    "inclusion": "La exposición digital afecta de forma desproporcionada a adolescentes mujeres y a estudiantes de la diversidad sexual, y el contenido de carácter sexual no consentido tiene consecuencias que exceden por completo el ámbito escolar.",
+    "reto": "Escribe el protocolo de ciberacoso de tu establecimiento con los tres pasos. Contrástalo con un caso real y verifica si habría permitido actuar a tiempo.",
+    "conexion": "Continúa la clase 257 y se articula con la 284 y con la parte 13."
+  },
+  {
+    "n": 259,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué hacer en los treinta segundos en que una situación puede escalar o detenerse",
+    "proposito": "Intervenir conductas agresivas y episodios de desregulación con una secuencia que baja la activación en vez de aumentarla.",
+    "decision": "determinar la secuencia de intervención de tu curso ante un episodio de desregulación o agresión",
+    "entregable": "un protocolo de intervención graduada con secuencia, roles y análisis posterior",
+    "conceptos": [
+      ["Ciclo de escalada", "secuencia predecible —disparador, agitación, crisis, recuperación— que permite intervenir antes del punto crítico"],
+      ["Desregulación emocional", "pérdida temporal de la capacidad de modular la respuesta emocional, en que el razonamiento no está disponible"],
+      ["Intervención graduada", "respuesta cuya intensidad aumenta por pasos, priorizando siempre la reducción de la activación"],
+      ["Análisis posterior", "revisión del episodio, una vez pasado, para identificar el disparador y prevenir la repetición"]
+    ],
+    "desarrollo": "Los episodios de agresión rara vez son súbitos: siguen un ciclo con fases identificables, y la intervención rinde mucho más en la fase de agitación que en la de crisis. Durante la crisis el razonamiento no está disponible —hablar de consecuencias es inútil— y el objetivo único es la seguridad y la reducción de la activación. Buena parte de los episodios graves que ocurren en las escuelas escalaron por una intervención adulta que aumentó la exposición pública del estudiante.",
+    "practica": "El protocolo declara qué se hace en cada fase: en agitación, reducir demandas, bajar la voz, ofrecer opciones y espacio; en crisis, asegurar la seguridad y no confrontar; en recuperación, no exigir explicaciones inmediatas. Después, y solo después, viene el análisis del disparador y la consecuencia proporcional. Los roles se definen antes: quién interviene, quién saca al resto del curso, quién busca apoyo. Improvisarlo en el momento es lo que produce los peores resultados.",
+    "limites": "El enfoque exige formación y práctica que muchos equipos no reciben, y su aplicación individual sin respaldo institucional expone al docente. La evidencia sobre programas de manejo de crisis es de calidad variable. Y hay episodios que exceden por completo lo escolar y requieren respuesta de salud, sin que aplazar esa derivación se justifique por querer resolverlo internamente.",
+    "errores": [
+      "Confrontar públicamente durante la fase de crisis y convertir un episodio en una situación con audiencia.",
+      "Exigir explicaciones y disculpas inmediatamente después, cuando la recuperación aún no ocurrió."
+    ],
+    "criterios": [
+      "el protocolo declara acciones diferenciadas por fase del ciclo;",
+      "los roles adultos están asignados de antemano y son conocidos por el equipo;"
+    ],
+    "preguntas": [
+      "¿Qué precede habitualmente a los episodios de este estudiante?",
+      "¿Quién hace qué mañana si ocurre en tu clase, y lo saben?",
+      "¿En qué momento intentas razonar, y está disponible el razonamiento entonces?"
+    ],
+    "lecturas": [
+      ["Greene, R. (2014). *Lost at School*.", "el modelo de resolución colaborativa que reencuadra la conducta como habilidad ausente."],
+      ["Colvin, G. & Sugai, G. *Managing the Cycle of Acting-Out Behavior in the Classroom*.", "la descripción operativa del ciclo de escalada y de la intervención por fase."]
+    ],
+    "inclusion": "Los estudiantes con dificultades de autorregulación, con trastornos del lenguaje o con historia de adversidad tienen más probabilidad de escalar y de recibir sanciones acumuladas. El protocolo debe evitar que la condición se convierta en historial disciplinario.",
+    "reto": "Escribe el protocolo por fase con roles asignados. Preséntalo al equipo del curso y simula un episodio para verificar que todos saben qué les toca.",
+    "conexion": "Profundiza las clases 147 y 148 y se apoya en la 242. Prepara la clase 260."
+  },
+  {
+    "n": 260,
+    "evidencia": "MARCO-NORMATIVO",
+    "foco": "qué hace una institución cuando la persona agredida es quien enseña",
+    "proposito": "Responder a agresiones dirigidas al personal docente con protocolo, respaldo institucional y resguardo, sin dejar el caso en manos de la persona afectada.",
+    "decision": "determinar qué activa tu establecimiento cuando un docente es agredido y quién lo acompaña",
+    "entregable": "un protocolo de agresión al personal con activación institucional, acompañamiento y registro",
+    "conceptos": [
+      ["Agresión al personal", "conducta que daña a un trabajador de la comunidad educativa, provenga de estudiantes, apoderados o terceros"],
+      ["Respaldo institucional", "conjunto de acciones por las que la institución asume la conducción del caso y no la deja a la persona afectada"],
+      ["Registro y denuncia", "documentación de los hechos y activación de las vías legales cuando corresponde"],
+      ["Continuidad laboral", "condiciones que permiten a la persona afectada retomar el trabajo con seguridad y sin costo adicional"]
+    ],
+    "desarrollo": "Las agresiones al personal docente son frecuentes y sistemáticamente subregistradas, en parte porque denunciarlas se percibe como reconocer una incapacidad para manejar el curso. Esa percepción es un problema institucional: cuando la respuesta depende de que la persona afectada tome la iniciativa, la mayoría de los casos no se registra y el patrón permanece invisible hasta que alguien termina con licencia médica.",
+    "practica": "El protocolo debe fijar tres cosas. Qué se activa automáticamente al tomar conocimiento —sin que la persona deba solicitarlo—, quién conduce el caso y acompaña a la persona afectada, y qué condiciones se aseguran para el retorno. Se agrega el registro, que es lo que permite ver el patrón: hechos, fechas y contexto documentados aunque la persona decida no denunciar formalmente.",
+    "limites": "La normativa laboral y educativa establece obligaciones que varían según la naturaleza del hecho y el tipo de dependencia del establecimiento, y la fuente oficial vigente manda. La tensión entre el derecho del estudiante a la educación y el resguardo del trabajador es real y no se resuelve con una regla general: requiere decisión caso a caso con criterios declarados.",
+    "errores": [
+      "Dejar que la activación del protocolo dependa de que la persona afectada la solicite.",
+      "Cerrar el caso con una conversación y sin registro, con lo que el patrón nunca se hace visible."
+    ],
+    "criterios": [
+      "el protocolo se activa de oficio al tomar conocimiento, sin requerir solicitud;",
+      "existe registro de todos los hechos, independiente de si hubo denuncia formal;"
+    ],
+    "preguntas": [
+      "¿Cuántas agresiones al personal se registraron el año pasado y cuántas ocurrieron?",
+      "¿Quién acompaña a la persona afectada y con qué tiempo asignado?",
+      "¿Qué condiciones se aseguran para el retorno al aula?"
+    ],
+    "lecturas": [
+      ["Superintendencia de Educación de Chile. *Normativa sobre convivencia escolar y deberes del sostenedor*.", "las obligaciones institucionales frente a hechos que afectan a trabajadores."],
+      ["Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.", "conecta el desamparo institucional con el desgaste profesional posterior."]
+    ],
+    "inclusion": "Los docentes en situación más precaria —reemplazos, contratos breves, primer año— son los que menos denuncian y los más expuestos. Un protocolo que dependa de la iniciativa individual los deja sistemáticamente fuera.",
+    "reto": "Revisa si tu establecimiento tiene protocolo de agresión al personal. Si no lo tiene, escríbelo con activación de oficio y preséntalo a dirección.",
+    "conexion": "Se articula con las clases 256 y 259, y prepara la parte 23, en particular las clases 285 y 287."
+  },
+  {
+    "n": 261,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué diferencia una reparación real de una disculpa dictada por el reglamento",
+    "proposito": "Conducir mediaciones y prácticas restaurativas que produzcan reparación verificable, y reconocer cuándo no corresponde aplicarlas.",
+    "decision": "determinar si este caso admite mediación restaurativa y qué reparación concreta corresponde",
+    "entregable": "un acta de mediación con acuerdo de reparación, plazo y fecha de verificación",
+    "conceptos": [
+      ["Justicia restaurativa", "enfoque centrado en reparar el daño y restaurar la relación, complementario y no sustitutivo del debido proceso"],
+      ["Mediación escolar", "proceso voluntario en que un tercero facilita el acuerdo entre partes con poder comparable"],
+      ["Acuerdo de reparación", "compromiso concreto, verificable y con plazo, que responde al daño efectivamente causado"],
+      ["Contraindicación", "condición —asimetría de poder, riesgo, no voluntariedad— que hace inapropiada la mediación"]
+    ],
+    "desarrollo": "Las prácticas restaurativas se difundieron rápido en las escuelas y con frecuencia se aplican mal. Su lógica es exigente: no reemplazan la consecuencia, sino que agregan la reparación del daño y la restauración del vínculo. Su evidencia muestra efectos favorables sobre clima y sobre reincidencia, con calidad de estudios variable. Y tienen contraindicaciones claras: no corresponden cuando hay asimetría de poder sostenida, cuando la participación no es voluntaria o cuando exponen a la persona dañada.",
+    "practica": "Una mediación conducida profesionalmente verifica primero las condiciones —voluntariedad, simetría, seguridad—, prepara a las partes por separado, y conduce el encuentro con reglas explícitas. El acuerdo debe ser concreto: qué hará cada parte, en qué plazo y quién verifica. Una disculpa dictada por el reglamento y firmada no es reparación; es un trámite que enseña que basta con decir la fórmula correcta.",
+    "limites": "La calidad de la evidencia es desigual y los efectos dependen fuertemente de la formación de quien facilita. Aplicadas sin condiciones, estas prácticas pueden revictimizar. Y su instalación institucional exige tiempo docente y formación que rara vez se financian, con lo que suelen degradarse a una conversación apurada en la sala de profesores.",
+    "errores": [
+      "Aplicar mediación en casos de acoso sostenido, donde la asimetría de poder la contraindica.",
+      "Cerrar con una disculpa firmada y sin acuerdo verificable de reparación."
+    ],
+    "criterios": [
+      "el acta verifica voluntariedad, simetría y seguridad antes de la mediación;",
+      "el acuerdo declara acción concreta, plazo y responsable de verificación;"
+    ],
+    "preguntas": [
+      "¿Existe asimetría de poder que contraindique la mediación en este caso?",
+      "¿Qué reparación concreta pide la persona dañada, y es realizable?",
+      "¿Quién verificará el cumplimiento y en qué fecha?"
+    ],
+    "lecturas": [
+      ["Zehr, H. *The Little Book of Restorative Justice*.", "los principios del enfoque con sus condiciones y sus límites explícitos."],
+      ["Salmivalli, C. (2010). *Bullying and the Peer Group*.", "fundamenta por qué el enfoque restaurativo no aplica a situaciones de acoso sostenido."]
+    ],
+    "inclusion": "La mediación exige competencias comunicativas que no todos los estudiantes tienen por igual: quien maneja mejor el lenguaje domina el proceso. La facilitación debe compensar esa asimetría o el acuerdo reproducirá la desigualdad de origen.",
+    "reto": "Conduce una mediación con verificación previa de condiciones. Redacta el acuerdo con plazo y verifica el cumplimiento en la fecha comprometida.",
+    "conexion": "Se apoya en las clases 256 y 257, y complementa la 150. Prepara la clase 264."
+  },
+  {
+    "n": 262,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "qué decisiones cambian cuando hay cuarenta estudiantes y no hay recursos adicionales",
+    "proposito": "Diseñar estrategias de gestión y diferenciación viables en aulas numerosas y heterogéneas, sin depender de recursos que no existen.",
+    "decision": "determinar qué estrategias de diferenciación son sostenibles con el tamaño y los recursos reales de tu curso",
+    "entregable": "un diseño de clase con diferenciación sostenible y su verificación de carga de trabajo docente",
+    "conceptos": [
+      ["Diferenciación sostenible", "ajuste a la diversidad que un docente puede mantener durante todo el año sin colapsar"],
+      ["Tarea común con niveles", "actividad única con distintos grados de exigencia o de apoyo, en vez de tres actividades distintas"],
+      ["Rutinas de autonomía", "procedimientos enseñados que permiten al estudiante continuar sin intervención adulta constante"],
+      ["Costo docente", "tiempo real de preparación y corrección que una estrategia exige por semana"]
+    ],
+    "desarrollo": "Buena parte de la literatura sobre diferenciación asume condiciones que el sistema escolar chileno no ofrece: grupos pequeños, apoyo adicional y tiempo de preparación. Aplicada literalmente en un curso de cuarenta estudiantes, produce agotamiento y abandono en pocas semanas. La pregunta profesional no es cómo diferenciar idealmente, sino qué diferenciación puede sostenerse durante todo el año con el tiempo que realmente existe.",
+    "practica": "Las estrategias que sobreviven comparten un rasgo: no multiplican la preparación. Tarea común con tres niveles de exigencia en vez de tres tareas distintas; material de extensión disponible de forma permanente; rutinas de autonomía enseñadas al inicio del año; agrupamiento flexible que cambia con el contenido; y retroalimentación grupal sobre errores frecuentes en lugar de comentarios individuales en cada trabajo. Cada estrategia se evalúa por su costo semanal en horas.",
+    "limites": "La diferenciación sostenible es un compromiso y hay que decirlo: atiende menos que la diferenciación ideal. Su evidencia específica es limitada y proviene sobre todo de descripciones de práctica. Además, el problema de fondo —tamaño de curso y horas no lectivas— es estructural y ninguna estrategia docente lo resuelve; presentarlas como solución completa desplaza la responsabilidad hacia quien menos puede modificarlo.",
+    "errores": [
+      "Diseñar tres actividades distintas por clase y abandonar la diferenciación en tres semanas.",
+      "Presentar la diferenciación como solución de un problema que es de tamaño de curso y de horas."
+    ],
+    "criterios": [
+      "cada estrategia declara su costo semanal en horas de preparación y corrección;",
+      "el diseño usa tarea común con niveles en vez de actividades paralelas;"
+    ],
+    "preguntas": [
+      "¿Cuántas horas semanales te exige realmente tu esquema de diferenciación?",
+      "¿Qué rutinas de autonomía enseñaste y cuáles diste por supuestas?",
+      "¿Qué parte de este problema no se resuelve con estrategias docentes?"
+    ],
+    "lecturas": [
+      ["Tomlinson, C. *The Differentiated Classroom*.", "el marco de referencia, que conviene leer junto a la pregunta por su viabilidad real."],
+      ["Rosenshine, B. (2012). *Principles of Instruction*.", "prácticas de alto rendimiento y bajo costo de preparación, viables en cursos numerosos."]
+    ],
+    "inclusion": "En un aula numerosa, los estudiantes que no interrumpen son los que menos atención reciben, independientemente de su necesidad. Una estrategia de diferenciación debe declarar cómo alcanza a quienes no reclaman.",
+    "reto": "Calcula las horas semanales que exige tu esquema actual de diferenciación. Rediséñalo con tarea común por niveles y compara la carga y la cobertura.",
+    "conexion": "Se articula con la clase 251 y con la 246 de la parte 22. Complementa las partes 08 y 10."
+  },
+  {
+    "n": 263,
+    "evidencia": "MARCO-NORMATIVO",
+    "foco": "cómo se deriva bien: ni tarde, ni sin fundamento, ni para sacarse el problema de encima",
+    "proposito": "Detectar situaciones de riesgo psicosocial y derivar con criterio, fundamento y seguimiento, distinguiendo lo escolar de lo que exige otra competencia.",
+    "decision": "determinar si esta situación exige derivación, a qué instancia y con qué antecedentes",
+    "entregable": "un protocolo de derivación con criterios, instancias, antecedentes exigidos y seguimiento",
+    "conceptos": [
+      ["Riesgo psicosocial", "conjunto de condiciones —consumo, violencia intrafamiliar, explotación, abandono— que amenazan el desarrollo del estudiante"],
+      ["Derivación responsable", "traspaso a otra instancia con antecedentes suficientes, seguimiento y sin abandono del vínculo escolar"],
+      ["Deber de denuncia", "obligación legal de informar a la autoridad determinados hechos de los que se toma conocimiento"],
+      ["Red intersectorial", "conjunto de instituciones —salud, protección, justicia, municipio— con las que la escuela articula"]
+    ],
+    "desarrollo": "La escuela es, para muchos estudiantes, la institución que más los ve. Eso le da una posición privilegiada de detección y una responsabilidad correlativa: derivar cuando corresponde, con fundamento y a la instancia correcta. Los dos errores opuestos son igualmente costosos. Derivar tarde deja al estudiante sin protección; derivar sin antecedentes ni criterio satura una red que ya está saturada y produce respuestas que no llegan.",
+    "practica": "El protocolo declara qué señales activan qué respuesta, qué antecedentes debe reunir la escuela antes de derivar —observaciones fechadas, no interpretaciones—, a qué instancia corresponde cada situación y quién hace el seguimiento. Se distingue con claridad lo que es derivación de lo que es denuncia obligatoria, donde los plazos legales corren desde el momento en que se toma conocimiento y no admiten deliberación institucional prolongada.",
+    "limites": "La capacidad de respuesta de la red externa es limitada y desigual según territorio: una derivación correcta puede no producir atención durante meses, y la escuela debe sostener al estudiante mientras tanto. Además, la normativa sobre deber de denuncia, plazos y protección de datos es específica y cambiante: la fuente oficial vigente manda sobre cualquier material formativo.",
+    "errores": [
+      "Derivar para transferir el problema y desentenderse del vínculo escolar mientras tanto.",
+      "Deliberar internamente durante semanas en un caso donde corre un plazo legal de denuncia."
+    ],
+    "criterios": [
+      "el protocolo distingue derivación de denuncia obligatoria con sus plazos;",
+      "declara qué antecedentes debe reunir la escuela y quién realiza el seguimiento;"
+    ],
+    "preguntas": [
+      "¿Qué antecedentes tienes documentados, con fecha, para fundar esta derivación?",
+      "¿Corre algún plazo legal desde que tomaste conocimiento?",
+      "¿Quién sostiene al estudiante mientras la red responde?"
+    ],
+    "lecturas": [
+      ["Ministerio de Educación de Chile. *Orientaciones para la elaboración de protocolos de actuación*.", "el marco de actuación institucional y sus obligaciones."],
+      ["Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*.", "el efecto de la adversidad sostenida sobre el funcionamiento escolar, sin convertirlo en excusa."]
+    ],
+    "inclusion": "La derivación puede convertirse en un mecanismo de exclusión encubierta cuando se usa para sacar del aula a estudiantes que incomodan. El criterio escrito y el seguimiento son las garantías contra ese uso.",
+    "reto": "Revisa las derivaciones del año pasado en tu establecimiento y verifica cuántas tuvieron seguimiento. Propón el ajuste al protocolo con lo que encuentres.",
+    "conexion": "Profundiza la clase 155 y prepara la parte 23, en especial las clases 277 y 279."
+  },
+  {
+    "n": 264,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "cómo se sabe si la convivencia de una escuela mejoró o solo se dejó de hablar del tema",
+    "proposito": "Integrar la parte en un plan de convivencia con protocolos activables, escala de intervención e indicadores medidos con periodicidad declarada.",
+    "decision": "determinar el plan de convivencia del establecimiento y los tres indicadores que se medirán todos los meses",
+    "entregable": "un plan de convivencia con protocolos, escala de intervención, tres indicadores y responsable de medición",
+    "conceptos": [
+      ["Plan de convivencia", "documento que articula prevención, protocolos y seguimiento en un sistema coherente y verificable"],
+      ["Protocolo activable", "procedimiento que un docente puede ejecutar sin consultar, porque sabe qué hacer y a quién acudir"],
+      ["Indicador de convivencia", "medida periódica y comparable que permite saber si algo cambió: asistencia, incidentes, percepción de seguridad"],
+      ["Periodicidad declarada", "frecuencia fijada de antemano con la que se mide y se revisa, con responsable nombrado"]
+    ],
+    "desarrollo": "Los planes de convivencia suelen existir y no operar. La razón es identificable: describen valores y no procedimientos, no fijan indicadores y no asignan responsables de medición. El resultado es que nadie puede afirmar si la convivencia mejoró; se afirma que se trabajó en ella. Un plan que funciona se reconoce porque un docente nuevo sabe qué hacer ante una situación concreta y porque existen tres cifras que alguien revisa cada mes.",
+    "practica": "El plan integra las once clases anteriores: análisis de asistencia y desenganche, árbol de clasificación de situaciones, plan de acoso con acción sobre testigos, protocolo de escalada conductual, protocolo de agresión al personal, mediación restaurativa y criterios de derivación. A eso se agrega lo que lo hace verificable: tres indicadores con línea base, periodicidad mensual y responsable nombrado, y una instancia fija donde esos datos se revisan y producen decisiones.",
+    "limites": "Un plan no cambia por sí solo un clima escolar deteriorado: requiere sostenerse en el tiempo, con estabilidad de equipo y respaldo de dirección. Los indicadores de convivencia son sensibles al registro: una mejora aparente puede reflejar simplemente que se dejó de registrar. Y la percepción de seguridad, que es el indicador más importante, es también el más caro de medir bien.",
+    "errores": [
+      "Escribir un plan con valores y sin procedimientos ejecutables por quien no lo redactó.",
+      "Elegir indicadores que mejoran cuando se registra menos, sin controlar ese efecto."
+    ],
+    "criterios": [
+      "cada protocolo del plan es ejecutable por un docente nuevo sin consultar;",
+      "los tres indicadores tienen línea base, periodicidad y responsable nombrado;"
+    ],
+    "preguntas": [
+      "¿Qué tres cifras de convivencia revisó tu equipo el mes pasado?",
+      "¿Un docente que llegó en marzo sabría qué hacer ante un caso de acoso?",
+      "¿Cómo distingues una mejora real de una caída del registro?"
+    ],
+    "lecturas": [
+      ["Bryk, A. & Schneider, B. (2002). *Trust in Schools*.", "muestra que la confianza relacional es la condición que sostiene cualquier mejora de convivencia."],
+      ["Ttofi, M. & Farrington, D. (2011). *Effectiveness of School-Based Programs to Reduce Bullying*.", "qué componentes deben estar presentes para que un programa produzca efecto."]
+    ],
+    "inclusion": "Los indicadores deben desagregarse: un clima que mejora en promedio puede empeorar para los estudiantes migrantes, con discapacidad o de la diversidad sexual. El promedio oculta exactamente lo que el plan debía atender.",
+    "reto": "Escribe el plan completo con tres indicadores y línea base. Preséntalo al equipo y consigue el compromiso de la instancia mensual de revisión.",
+    "conexion": "Cierra la parte 21 integrando las clases 253 a 263, y se articula con las partes 12 y 15."
+  }
+]

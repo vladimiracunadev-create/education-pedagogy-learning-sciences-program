@@ -2,7 +2,7 @@
 """Genera el sitio estático que se publica en GitHub Pages.
 
 Convierte todo el Markdown del repositorio a HTML autocontenido en `site/`, con
-navegación lateral, buscador de las 216 clases en cliente, tema claro/oscuro y
+navegación lateral, buscador de las 300 clases en cliente, tema claro/oscuro y
 diagramas mermaid. No requiere dependencias externas: incluye un conversor de
 Markdown acotado al subconjunto que este repositorio usa.
 
@@ -25,12 +25,13 @@ RAIZ = Path(__file__).resolve().parents[1]
 SALIDA = RAIZ / "site"
 
 TITULO = "Programa de Pedagogía, Docencia y Ciencias del Aprendizaje"
-SUBTITULO = "18 partes · 216 clases · de los fundamentos del aprendizaje a la formación de formadores"
+SUBTITULO = "25 partes · 300 clases · de los fundamentos del aprendizaje a la formación de formadores"
 REPO = "https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program"
 
 SECCIONES = [
     ("docs", "Documentos transversales"),
     ("rutas", "Rutas por rol"),
+    ("actividades", "Banco de actividades"),
     ("curriculum", "Currículo"),
     ("cases", "Casos profesionales"),
     ("projects", "Proyectos integradores"),
@@ -443,7 +444,7 @@ def pagina(titulo: str, cuerpo: str, base: str, menu: str) -> str:
 </header>
 <div class="envoltura">
 <aside>
-  <input class="buscador" id="buscador" type="search" placeholder="Buscar entre las 216 clases…" aria-label="Buscar clases">
+  <input class="buscador" id="buscador" type="search" placeholder="Buscar entre las 300 clases…" aria-label="Buscar clases">
   <div class="resultados" id="resultados" data-base="{base}"></div>
   {menu}
 </aside>
@@ -511,7 +512,7 @@ def construir_menu(curriculo: list[dict], base: str) -> str:
 </ul>
 <h2>Documentos</h2>
 <ul>{docs}</ul>
-<h2>Las 18 partes</h2>
+<h2>Las 25 partes</h2>
 <ul>{partes}</ul>
 <h2>Rutas por rol</h2>
 <ul>

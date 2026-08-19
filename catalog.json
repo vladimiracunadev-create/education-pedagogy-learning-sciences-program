@@ -1,9 +1,9 @@
 {
  "programa": "Programa Integral de Pedagogía, Docencia y Ciencias del Aprendizaje",
- "version": "1.2.0",
+ "version": "2.0.0",
  "idioma": "es",
- "partes": 18,
- "clases": 216,
+ "partes": 25,
+ "clases": 300,
  "etapas": [
   {
    "id": "A",
@@ -51,6 +51,19 @@
    "partes": [
     16,
     17
+   ]
+  },
+  {
+   "id": "F",
+   "nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "partes": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
    ]
   }
  ],
@@ -5021,6 +5034,1938 @@
    "lecturas": [
     "Dunleavy, P. (2003). *Authoring a PhD*.",
     "Booth, W., Colomb, G. & Williams, J. *The Craft of Research*."
+   ]
+  },
+  {
+   "n": 217,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 1,
+   "titulo": "Qué resolvió la ciencia de la lectura",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-01-que-resolvio-la-ciencia-de-la-lectura/README.md",
+   "estado_evidencia": "ROBUSTA",
+   "decision": "determinar qué componente de la lectura está fallando en tu curso antes de elegir cualquier programa o material",
+   "entregable": "un diagnóstico de curso que separa decodificación, fluidez, vocabulario y comprensión con evidencia para cada uno",
+   "conceptos": [
+    "Modelo simple de la lectura",
+    "Reconocimiento de palabras",
+    "Comprensión del lenguaje",
+    "Cuerdas de la lectura"
+   ],
+   "lecturas": [
+    "Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.",
+    "Seidenberg, M. (2017). *Language at the Speed of Sight*."
+   ]
+  },
+  {
+   "n": 218,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 2,
+   "titulo": "Conciencia fonológica y principio alfabético",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-02-conciencia-fonologica-y-principio-alfabetico/README.md",
+   "estado_evidencia": "ROBUSTA",
+   "decision": "determinar qué nivel de conciencia fonológica tiene tu grupo y qué se enseña en los próximos dos meses",
+   "entregable": "una secuencia de doce sesiones breves de conciencia fonológica con criterio de dominio y registro por estudiante",
+   "conceptos": [
+    "Conciencia fonológica",
+    "Conciencia fonémica",
+    "Principio alfabético",
+    "Criterio de dominio"
+   ],
+   "lecturas": [
+    "National Early Literacy Panel (2008). *Developing Early Literacy*.",
+    "Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*."
+   ]
+  },
+  {
+   "n": 219,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 3,
+   "titulo": "Enseñanza explícita de correspondencias en español",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-03-ensenanza-explicita-de-correspondencias-en-espanol/README.md",
+   "estado_evidencia": "ROBUSTA",
+   "decision": "determinar el orden de enseñanza de las correspondencias y qué texto usa el estudiante mientras las aprende",
+   "entregable": "una progresión de correspondencias con su justificación, textos asociados y criterio de avance",
+   "conceptos": [
+    "Correspondencia grafema-fonema",
+    "Transparencia ortográfica",
+    "Texto decodificable",
+    "Enseñanza sistemática"
+   ],
+   "lecturas": [
+    "Seidenberg, M. (2017). *Language at the Speed of Sight*.",
+    "Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*."
+   ]
+  },
+  {
+   "n": 220,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 4,
+   "titulo": "Fluidez lectora: medirla y desarrollarla",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-04-fluidez-lectora-medirla-y-desarrollarla/README.md",
+   "estado_evidencia": "ROBUSTA",
+   "decision": "determinar el nivel de fluidez de cada estudiante y qué práctica recibe el tercio más bajo",
+   "entregable": "un registro de fluidez del curso con instrumento declarado y un plan de práctica de ocho semanas",
+   "conceptos": [
+    "Fluidez lectora",
+    "Automatización",
+    "Lectura repetida",
+    "Prosodia"
+   ],
+   "lecturas": [
+    "Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.",
+    "Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*."
+   ]
+  },
+  {
+   "n": 221,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 5,
+   "titulo": "Vocabulario y conocimiento del mundo",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-05-vocabulario-y-conocimiento-del-mundo/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué palabras se enseñan explícitamente en tu unidad y cómo se verifica que quedaron disponibles",
+   "entregable": "una selección justificada de palabras de alto rendimiento con su plan de enseñanza y verificación",
+   "conceptos": [
+    "Vocabulario receptivo y productivo",
+    "Palabras de alto rendimiento",
+    "Conocimiento del mundo",
+    "Efecto acumulativo"
+   ],
+   "lecturas": [
+    "Romeo, R. et al. (2018). *Beyond the 30-Million-Word Gap*.",
+    "Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*."
+   ]
+  },
+  {
+   "n": 222,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 6,
+   "titulo": "Comprensión lectora y sus estrategias",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-06-comprension-lectora-y-sus-estrategias/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar si la dificultad de comprensión de tu curso pide estrategia, vocabulario o conocimiento del tema",
+   "entregable": "una secuencia de comprensión que declara la estrategia enseñada, su dosis y el conocimiento previo que exige el texto",
+   "conceptos": [
+    "Estrategia de comprensión",
+    "Enseñanza recíproca",
+    "Modelo situacional",
+    "Efecto de saturación"
+   ],
+   "lecturas": [
+    "Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.",
+    "Seidenberg, M. (2017). *Language at the Speed of Sight*."
+   ]
+  },
+  {
+   "n": 223,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 7,
+   "titulo": "Enseñanza de la escritura inicial",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-07-ensenanza-de-la-escritura-inicial/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué componente de la escritura enseñas en cada tramo y qué se corrige en cada entrega",
+   "entregable": "una secuencia de escritura con transcripción, composición y revisión declaradas por separado",
+   "conceptos": [
+    "Transcripción",
+    "Composición",
+    "Estrategias autorreguladas",
+    "Retroalimentación focalizada"
+   ],
+   "lecturas": [
+    "Graham, S. & Perin, D. (2007). *Writing Next*.",
+    "Graham, S. & Harris, K. *Self-Regulated Strategy Development*."
+   ]
+  },
+  {
+   "n": 224,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 8,
+   "titulo": "Dislexia y dificultades específicas de lectura",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-08-dislexia-y-dificultades-especificas-de-lectura/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar si el bajo rendimiento lector de un estudiante exige intensificar la enseñanza o iniciar evaluación especializada",
+   "entregable": "un informe de decisión con evidencia de respuesta a la enseñanza y criterio de derivación",
+   "conceptos": [
+    "Dislexia",
+    "Doble déficit",
+    "Respuesta a la enseñanza",
+    "Intervención intensiva"
+   ],
+   "lecturas": [
+    "Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*.",
+    "Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*."
+   ]
+  },
+  {
+   "n": 225,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 9,
+   "titulo": "Evaluación de la lectura por componentes",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-09-evaluacion-de-la-lectura-por-componentes/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué se mide, cuándo y con qué instrumento en el sistema de evaluación lectora de tu establecimiento",
+   "entregable": "un calendario de evaluación lectora con instrumento, frecuencia, responsable y uso previsto de cada medida",
+   "conceptos": [
+    "Evaluación por componentes",
+    "Medida breve repetible",
+    "Punto de corte",
+    "Uso previsto"
+   ],
+   "lecturas": [
+    "Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*.",
+    "AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*."
+   ]
+  },
+  {
+   "n": 226,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 10,
+   "titulo": "Intervención por niveles y grupos de refuerzo",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-10-intervencion-por-niveles-y-grupos-de-refuerzo/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar quién entra a intervención intensiva, con qué dosis y bajo qué criterio de salida",
+   "entregable": "un esquema de intervención por niveles con criterios de entrada y salida, dosis y responsables",
+   "conceptos": [
+    "Intervención por niveles",
+    "Enseñanza de calidad universal",
+    "Criterio de entrada y salida",
+    "Dosis"
+   ],
+   "lecturas": [
+    "Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*.",
+    "Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*."
+   ]
+  },
+  {
+   "n": 227,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 11,
+   "titulo": "Alfabetización disciplinar en las asignaturas",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-11-alfabetizacion-disciplinar-en-las-asignaturas/README.md",
+   "estado_evidencia": "EMERGENTE",
+   "decision": "determinar qué práctica lectora propia de tu asignatura vas a enseñar explícitamente este semestre",
+   "entregable": "una secuencia de alfabetización disciplinar con el tipo de texto, la forma de leerlo y la producción asociada",
+   "conceptos": [
+    "Alfabetización disciplinar",
+    "Lectura de fuentes",
+    "Texto multimodal",
+    "Transferencia limitada"
+   ],
+   "lecturas": [
+    "Seidenberg, M. (2017). *Language at the Speed of Sight*.",
+    "Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*."
+   ]
+  },
+  {
+   "n": 228,
+   "parte": 18,
+   "parte_titulo": "Alfabetización inicial y ciencia de la lectura",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 12,
+   "titulo": "Proyecto integrador: plan lector de establecimiento",
+   "ruta": "curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-12-proyecto-integrador/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar el plan lector completo del establecimiento y quién responde por cada componente",
+   "entregable": "un plan lector de establecimiento con progresión por nivel, calendario de medición, esquema de intervención y responsables nombrados",
+   "conceptos": [
+    "Plan lector de establecimiento",
+    "Continuidad entre niveles",
+    "Responsable nombrado",
+    "Revisión programada"
+   ],
+   "lecturas": [
+    "Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*.",
+    "Bryk, A. et al. (2010). *Organizing Schools for Improvement*."
+   ]
+  },
+  {
+   "n": 229,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 1,
+   "titulo": "Cómo se compara un enfoque pedagógico",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-01-como-se-compara-un-enfoque-pedagogico/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar con qué criterios vas a comparar dos enfoques antes de elegir uno para tu curso",
+   "entregable": "una matriz de comparación con criterios declarados, aplicada a dos enfoques para un mismo objetivo",
+   "conceptos": [
+    "Criterio de comparación",
+    "Efecto de reversión por experticia",
+    "Condición de implementación",
+    "Fidelidad de implementación"
+   ],
+   "lecturas": [
+    "Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*.",
+    "Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*"
+   ]
+  },
+  {
+   "n": 230,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 2,
+   "titulo": "Instrucción explícita y enseñanza directa",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-02-instruccion-explicita-y-ensenanza-directa/README.md",
+   "estado_evidencia": "ROBUSTA",
+   "decision": "determinar cuándo tu contenido exige instrucción explícita y qué parte de su estructura estás omitiendo",
+   "entregable": "una clase diseñada con la estructura completa de la instrucción explícita y su registro de verificación",
+   "conceptos": [
+    "Instrucción explícita",
+    "Modelamiento",
+    "Práctica guiada",
+    "Verificación frecuente"
+   ],
+   "lecturas": [
+    "Rosenshine, B. (2012). *Principles of Instruction*.",
+    "Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*."
+   ]
+  },
+  {
+   "n": 231,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 3,
+   "titulo": "Indagación y descubrimiento guiado",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-03-indagacion-y-descubrimiento-guiado/README.md",
+   "estado_evidencia": "EN-DEBATE",
+   "decision": "determinar cuánta guía necesita tu actividad de indagación y en qué momento se retira",
+   "entregable": "una secuencia de indagación con el nivel de guía declarado en cada fase y su criterio de retirada",
+   "conceptos": [
+    "Indagación guiada",
+    "Descubrimiento puro",
+    "Andamiaje",
+    "Carga cognitiva"
+   ],
+   "lecturas": [
+    "Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*",
+    "Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*."
+   ]
+  },
+  {
+   "n": 232,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 4,
+   "titulo": "Conductismo, cognitivismo y constructivismo",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-04-conductismo-cognitivismo-y-constructivismo/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué supuesto sobre el aprendizaje está detrás de la práctica que usas todos los días",
+   "entregable": "un análisis de tres prácticas propias que identifica el supuesto teórico de cada una y sus consecuencias",
+   "conceptos": [
+    "Conductismo",
+    "Cognitivismo",
+    "Constructivismo",
+    "Supuesto operante"
+   ],
+   "lecturas": [
+    "Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*",
+    "Sweller, J., van Merriënboer, J. & Paas, F. (1998). *Cognitive Architecture and Instructional Design*."
+   ]
+  },
+  {
+   "n": 233,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 5,
+   "titulo": "Montessori, Waldorf y Reggio Emilia",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-05-montessori-waldorf-y-reggio-emilia/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar qué elemento de estas tradiciones puedes adoptar con las condiciones que efectivamente tienes",
+   "entregable": "una ficha de análisis de una tradición con mecanismo, condiciones, evidencia disponible y decisión de adopción",
+   "conceptos": [
+    "Ambiente preparado",
+    "Documentación pedagógica",
+    "Ritmo evolutivo",
+    "Núcleo transferible"
+   ],
+   "lecturas": [
+    "Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.",
+    "Lillard, A. (2017). *Montessori: The Science Behind the Genius*."
+   ]
+  },
+  {
+   "n": 234,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 6,
+   "titulo": "Freinet, Escuela Nueva y pedagogías activas",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-06-freinet-escuela-nueva-y-pedagogias-activas/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar qué dispositivo de las pedagogías activas resuelve un problema real de tu aula",
+   "entregable": "la implementación de un dispositivo de pedagogía activa con su registro de funcionamiento durante un mes",
+   "conceptos": [
+    "Técnicas Freinet",
+    "Escuela Nueva",
+    "Plan de trabajo",
+    "Producción con destinatario"
+   ],
+   "lecturas": [
+    "Freinet, C. *Técnicas Freinet de la Escuela Moderna*.",
+    "Dewey, J. (1916). *Democracy and Education*."
+   ]
+  },
+  {
+   "n": 235,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 7,
+   "titulo": "Pedagogía crítica y educación popular",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-07-pedagogia-critica-y-educacion-popular/README.md",
+   "estado_evidencia": "EN-DEBATE",
+   "decision": "determinar qué contenido de tu asignatura cambia cuando se pregunta a quién sirve el conocimiento que enseñas",
+   "entregable": "el rediseño de una unidad que incorpora una pregunta crítica sin renunciar al rigor disciplinar",
+   "conceptos": [
+    "Educación bancaria",
+    "Diálogo problematizador",
+    "Currículum oculto",
+    "Concientización"
+   ],
+   "lecturas": [
+    "Freire, P. (1970). *Pedagogía del oprimido*.",
+    "Biesta, G. (2010). *Good Education in an Age of Measurement*."
+   ]
+  },
+  {
+   "n": 236,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 8,
+   "titulo": "Familias del aprendizaje basado en algo",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-08-familias-del-aprendizaje-basado-en-algo/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar cuál de estas familias corresponde a tu objetivo y qué exige para funcionar",
+   "entregable": "un diseño que declara la familia elegida, su estructura, su producto y su criterio de evaluación",
+   "conceptos": [
+    "Aprendizaje basado en proyectos",
+    "Aprendizaje basado en problemas",
+    "Método de casos",
+    "Producto público"
+   ],
+   "lecturas": [
+    "Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*.",
+    "Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?*"
+   ]
+  },
+  {
+   "n": 237,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 9,
+   "titulo": "Aprendizaje-servicio y vínculo comunitario",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-09-aprendizaje-servicio-y-vinculo-comunitario/README.md",
+   "estado_evidencia": "EMERGENTE",
+   "decision": "determinar si tu actividad comunitaria tiene aprendizaje declarado, servicio real y reciprocidad, o solo una de las tres",
+   "entregable": "un diseño de aprendizaje-servicio con objetivo curricular, necesidad validada con la comunidad y evaluación de ambos lados",
+   "conceptos": [
+    "Aprendizaje-servicio",
+    "Reciprocidad",
+    "Reflexión estructurada",
+    "Asistencialismo escolar"
+   ],
+   "lecturas": [
+    "Tapia, M. N. *Aprendizaje y servicio solidario*.",
+    "Dewey, J. (1916). *Democracy and Education*."
+   ]
+  },
+  {
+   "n": 238,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 10,
+   "titulo": "Gamificación y juego serio",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-10-gamificacion-y-juego-serio/README.md",
+   "estado_evidencia": "EN-DEBATE",
+   "decision": "determinar si tu actividad necesita mecánicas de juego o si el problema real es de sentido de la tarea",
+   "entregable": "un diseño lúdico que declara qué mecánica usa, qué aprendizaje persigue y cómo evita el desplazamiento de la motivación",
+   "conceptos": [
+    "Gamificación",
+    "Juego serio",
+    "Desplazamiento de la motivación",
+    "Mecánica alineada"
+   ],
+   "lecturas": [
+    "Deci, E. & Ryan, R. (2000). *Self-Determination Theory*.",
+    "Hamari, J., Koivisto, J. & Sarsa, H. (2014). *Does Gamification Work?*"
+   ]
+  },
+  {
+   "n": 239,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 11,
+   "titulo": "Enfoque por competencias y su coherencia",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-11-enfoque-por-competencias-y-su-coherencia/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar si tu programa por competencias tiene evaluación de desempeño o solo contenidos renombrados",
+   "entregable": "una matriz que conecta cada competencia declarada con su evidencia de desempeño y su instrumento",
+   "conceptos": [
+    "Competencia",
+    "Evaluación de desempeño",
+    "Alineamiento constructivo",
+    "Estándar de desempeño"
+   ],
+   "lecturas": [
+    "Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.",
+    "Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*."
+   ]
+  },
+  {
+   "n": 240,
+   "parte": 19,
+   "parte_titulo": "Metodologías y enfoques pedagógicos",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 12,
+   "titulo": "Proyecto integrador: decisión metodológica fundamentada",
+   "ruta": "curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-12-proyecto-integrador/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar el enfoque que adoptarás, con qué condiciones y cómo sabrás si funcionó",
+   "entregable": "una decisión metodológica escrita con criterios, condiciones, alternativa descartada y plan de verificación",
+   "conceptos": [
+    "Decisión fundamentada",
+    "Alternativa descartada",
+    "Plan de verificación",
+    "Condición de revisión"
+   ],
+   "lecturas": [
+    "Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.",
+    "Bryk, A. et al. (2015). *Learning to Improve*."
+   ]
+  },
+  {
+   "n": 241,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 1,
+   "titulo": "De la categoría diagnóstica a la estrategia de aula",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-01-de-la-categoria-diagnostica-a-la-estrategia-de-aula/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué barrera concreta enfrenta este estudiante en esta clase y qué apoyo la remueve",
+   "entregable": "una ficha de barrera y apoyo con evidencia de observación, apoyo elegido y criterio de retirada",
+   "conceptos": [
+    "Barrera observable",
+    "Apoyo mínimo suficiente",
+    "Criterio de retirada",
+    "Sobregeneralización diagnóstica"
+   ],
+   "lecturas": [
+    "Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.",
+    "Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)*."
+   ]
+  },
+  {
+   "n": 242,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 2,
+   "titulo": "TDAH: atención, autorregulación y organización",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-02-tdah-atencion-autorregulacion-y-organizacion/README.md",
+   "estado_evidencia": "ROBUSTA",
+   "decision": "determinar qué ajustes de entorno, tarea y retroalimentación necesita este estudiante para sostener la actividad",
+   "entregable": "un plan de aula con ajustes de entorno, formato de tarea y sistema de retroalimentación frecuente",
+   "conceptos": [
+    "Funciones ejecutivas",
+    "Demora de la gratificación",
+    "Fragmentación de la tarea",
+    "Retroalimentación frecuente"
+   ],
+   "lecturas": [
+    "Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*.",
+    "DuPaul, G. & Stoner, G. *ADHD in the Schools*."
+   ]
+  },
+  {
+   "n": 243,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 3,
+   "titulo": "Síndrome de Down: aprendizaje, lenguaje y participación",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-03-sindrome-de-down-aprendizaje-lenguaje-y-participacion/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué apoyos de presentación, ritmo y comunicación necesita este estudiante para acceder al currículum",
+   "entregable": "una adecuación de unidad con apoyo visual, ritmo ajustado y evaluación coherente con el objetivo mantenido",
+   "conceptos": [
+    "Perfil de aprendizaje",
+    "Apoyo visual",
+    "Adecuación de acceso",
+    "Expectativa ajustada"
+   ],
+   "lecturas": [
+    "Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down*.",
+    "Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo*."
+   ]
+  },
+  {
+   "n": 244,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 4,
+   "titulo": "Autismo: estructura, anticipación y comunicación",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-04-autismo-estructura-anticipacion-y-comunicacion/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué elementos de estructura, anticipación y regulación sensorial requiere este estudiante",
+   "entregable": "un diseño de aula con rutina visible, anticipación de cambios y ajustes sensoriales declarados",
+   "conceptos": [
+    "Estructura y previsibilidad",
+    "Anticipación",
+    "Regulación sensorial",
+    "Comunicación aumentativa"
+   ],
+   "lecturas": [
+    "Kasari, C. et al. *Intervenciones sociales tempranas en autismo*.",
+    "Ley 21.545 (2023). *Ley de Autismo, Chile*."
+   ]
+  },
+  {
+   "n": 245,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 5,
+   "titulo": "Discapacidad intelectual y acceso al currículum",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-05-discapacidad-intelectual-y-acceso-al-curriculum/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué objetivos se mantienen, cuáles se priorizan y cuáles se adecúan para este estudiante",
+   "entregable": "una priorización curricular justificada con evidencia de aprendizaje y proyección funcional",
+   "conceptos": [
+    "Priorización curricular",
+    "Adecuación significativa",
+    "Habilidad funcional",
+    "Sistema de apoyos"
+   ],
+   "lecturas": [
+    "Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo*.",
+    "Decreto 83/2015, Ministerio de Educación de Chile."
+   ]
+  },
+  {
+   "n": 246,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 6,
+   "titulo": "Dislexia, disgrafía y discalculia en el aula común",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-06-dislexia-disgrafia-y-discalculia-en-el-aula-comun/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué apoyos de acceso permiten que este estudiante aprenda tu asignatura mientras trabaja su dificultad",
+   "entregable": "un conjunto de apoyos de acceso por asignatura con su justificación y su efecto registrado",
+   "conceptos": [
+    "Dificultad específica del aprendizaje",
+    "Apoyo de acceso",
+    "Doble tarea",
+    "Evaluación no contaminada"
+   ],
+   "lecturas": [
+    "Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*.",
+    "Decreto 83/2015, Ministerio de Educación de Chile."
+   ]
+  },
+  {
+   "n": 247,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 7,
+   "titulo": "Discapacidad visual y auditiva: estrategias de acceso",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-07-discapacidad-visual-y-auditiva-estrategias-de-acceso/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar qué ajustes de acceso requiere este estudiante y quién verifica que funcionan",
+   "entregable": "un protocolo de accesibilidad de aula verificado con el propio estudiante y con el especialista",
+   "conceptos": [
+    "Accesibilidad de la información",
+    "Descripción de imágenes",
+    "Lengua de señas chilena",
+    "Verificación con el usuario"
+   ],
+   "lecturas": [
+    "Ley 20.422 (2010). *Igualdad de oportunidades e inclusión social de personas con discapacidad, Chile*.",
+    "Booth, T. & Ainscow, M. (2011). *Index for Inclusion*."
+   ]
+  },
+  {
+   "n": 248,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 8,
+   "titulo": "Discapacidad motora y comunicación aumentativa",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-08-discapacidad-motora-y-comunicacion-aumentativa/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué vía de comunicación y qué acceso físico están garantizados para este estudiante en cada actividad",
+   "entregable": "un plan de acceso físico y comunicativo con responsable, verificación y plan de contingencia",
+   "conceptos": [
+    "Comunicación aumentativa y alternativa",
+    "Tecnología de apoyo",
+    "Acceso físico",
+    "Presunción de competencia"
+   ],
+   "lecturas": [
+    "Beukelman, D. & Mirenda, P. *Augmentative and Alternative Communication*.",
+    "Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)*."
+   ]
+  },
+  {
+   "n": 249,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 9,
+   "titulo": "Trastornos del lenguaje y de la comunicación",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-09-trastornos-del-lenguaje-y-de-la-comunicacion/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué demanda lingüística de tu clase está bloqueando el aprendizaje de este estudiante",
+   "entregable": "una adecuación de la carga lingüística de una unidad, con evidencia del aprendizaje conservado",
+   "conceptos": [
+    "Trastorno del desarrollo del lenguaje",
+    "Demanda lingüística",
+    "Demanda cognitiva",
+    "Apoyo no verbal"
+   ],
+   "lecturas": [
+    "Bishop, D. et al. (2017). *Phase 2 of CATALISE*.",
+    "Cummins, J. (1979). *Cognitive/Academic Language Proficiency*."
+   ]
+  },
+  {
+   "n": 250,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 10,
+   "titulo": "Altas capacidades: enriquecimiento y aceleración",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-10-altas-capacidades-enriquecimiento-y-aceleracion/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué combinación de compactación, profundización y aceleración corresponde a este estudiante",
+   "entregable": "un plan de respuesta con evidencia de dominio previo y la modalidad elegida justificada",
+   "conceptos": [
+    "Compactación curricular",
+    "Enriquecimiento",
+    "Aceleración",
+    "Subrendimiento"
+   ],
+   "lecturas": [
+    "Assouline, S. et al. (2015). *A Nation Empowered*.",
+    "Subotnik, R., Olszewski-Kubilius, P. & Worrell, F. (2011). *Rethinking Giftedness and Gifted Education*."
+   ]
+  },
+  {
+   "n": 251,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 11,
+   "titulo": "Acompañamiento diferenciado y codocencia",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-11-acompanamiento-diferenciado-y-codocencia/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar qué modelo de codocencia usa tu curso, con qué tiempo real de coordinación y con qué reparto de responsabilidad",
+   "entregable": "un acuerdo de codocencia con roles por momento de la clase, horario de coordinación y responsable de registro",
+   "conceptos": [
+    "Codocencia",
+    "Modelos de codocencia",
+    "Tiempo de coordinación",
+    "Acompañamiento diferenciado"
+   ],
+   "lecturas": [
+    "Friend, M. & Cook, L. *Interactions: Collaboration Skills for School Professionals*.",
+    "Decreto 170/2009, Ministerio de Educación de Chile."
+   ]
+  },
+  {
+   "n": 252,
+   "parte": 20,
+   "parte_titulo": "Estrategias pedagógicas para necesidades educativas específicas",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 12,
+   "titulo": "Proyecto integrador: plan de apoyo con estrategias verificables",
+   "ruta": "curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-12-proyecto-integrador/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar el plan de apoyo completo de un estudiante y cómo se verificará que se ejecutó",
+   "entregable": "un plan de apoyo con barreras, estrategias, responsables, evidencia comprometida y fecha de revisión",
+   "conceptos": [
+    "Plan de apoyo",
+    "Evidencia comprometida",
+    "Ejecutabilidad",
+    "Revisión con datos"
+   ],
+   "lecturas": [
+    "Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.",
+    "Decreto 83/2015, Ministerio de Educación de Chile."
+   ]
+  },
+  {
+   "n": 253,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 1,
+   "titulo": "Desenganche escolar y ausentismo crónico",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-01-desenganche-escolar-y-ausentismo-cronico/README.md",
+   "estado_evidencia": "ROBUSTA",
+   "decision": "determinar qué estudiantes de tu curso están en riesgo por asistencia y qué se activa con cada uno esta semana",
+   "entregable": "un análisis de asistencia del curso con estudiantes en riesgo identificados y acción asignada",
+   "conceptos": [
+    "Ausentismo crónico",
+    "Desenganche",
+    "Señal temprana",
+    "Respuesta escalonada"
+   ],
+   "lecturas": [
+    "Balfanz, R. & Byrnes, V. (2012). *The Importance of Being in School*.",
+    "Fredricks, J., Blumenfeld, P. & Paris, A. (2004). *School Engagement*."
+   ]
+  },
+  {
+   "n": 254,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 2,
+   "titulo": "Falta de sentido: por qué estudiar dejó de ser evidente",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-02-falta-de-sentido-por-que-estudiar-dejo-de-ser-evidente/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué fuente de sentido está ausente en tu clase y cuál puedes reponer esta semana",
+   "entregable": "un rediseño de unidad que declara la fuente de sentido y su verificación con los estudiantes",
+   "conceptos": [
+    "Valor de utilidad",
+    "Pertenencia",
+    "Expectativa de logro",
+    "Retiro protector"
+   ],
+   "lecturas": [
+    "Deci, E. & Ryan, R. (2000). *Self-Determination Theory*.",
+    "Yeager, D. et al. (2019). *A National Experiment Reveals Where a Growth Mindset Improves Achievement*."
+   ]
+  },
+  {
+   "n": 255,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 3,
+   "titulo": "Atención, pantallas y fragmentación cognitiva",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-03-atencion-pantallas-y-fragmentacion-cognitiva/README.md",
+   "estado_evidencia": "EN-DEBATE",
+   "decision": "determinar la política de dispositivos de tu aula con fundamento y con un criterio de revisión",
+   "entregable": "una política de uso de dispositivos con fundamento declarado, excepciones y criterio de revisión",
+   "conceptos": [
+    "Atención sostenida",
+    "Costo de cambio de tarea",
+    "Pánico moral",
+    "Desplazamiento de actividad"
+   ],
+   "lecturas": [
+    "Orben, A. & Przybylski, A. (2019). *The Association Between Adolescent Well-Being and Digital Technology Use*.",
+    "Ward, A. et al. (2017). *Brain Drain*."
+   ]
+  },
+  {
+   "n": 256,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 4,
+   "titulo": "Violencia escolar: tipos, factores y respuesta",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-04-violencia-escolar-tipos-factores-y-respuesta/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar de qué tipo de situación se trata y qué respuesta institucional corresponde activar",
+   "entregable": "un árbol de decisión de violencia escolar con tipos, respuestas, plazos y responsables",
+   "conceptos": [
+    "Violencia escolar",
+    "Conflicto",
+    "Vulneración de derechos",
+    "Proporcionalidad"
+   ],
+   "lecturas": [
+    "Olweus, D. (1993). *Bullying at School*.",
+    "Superintendencia de Educación de Chile. *Circulares sobre convivencia escolar*."
+   ]
+  },
+  {
+   "n": 257,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 5,
+   "titulo": "Acoso escolar: detección e intervención con evidencia",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-05-acoso-escolar-deteccion-e-intervencion-con-evidencia/README.md",
+   "estado_evidencia": "ROBUSTA",
+   "decision": "determinar qué intervención corresponde a este caso de acoso y qué rol tiene el grupo curso",
+   "entregable": "un plan de intervención de acoso con acciones sobre víctima, agresor, testigos y contexto",
+   "conceptos": [
+    "Acoso escolar",
+    "Roles participantes",
+    "Intervención sobre el grupo",
+    "Seguimiento verificado"
+   ],
+   "lecturas": [
+    "Salmivalli, C. (2010). *Bullying and the Peer Group*.",
+    "Ttofi, M. & Farrington, D. (2011). *Effectiveness of School-Based Programs to Reduce Bullying*."
+   ]
+  },
+  {
+   "n": 258,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 6,
+   "titulo": "Ciberacoso y conflictos que entran desde fuera",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-06-ciberacoso-y-conflictos-que-entran-desde-fuera/README.md",
+   "estado_evidencia": "EMERGENTE",
+   "decision": "determinar qué le corresponde a la escuela en este caso y qué corresponde derivar a otra instancia",
+   "entregable": "un protocolo de ciberacoso con criterio de competencia, preservación de evidencia y acciones formativas",
+   "conceptos": [
+    "Ciberacoso",
+    "Permanencia y difusión",
+    "Preservación de evidencia",
+    "Competencia institucional"
+   ],
+   "lecturas": [
+    "Kowalski, R. et al. (2014). *Bullying in the Digital Age*.",
+    "Superintendencia de Educación de Chile. *Orientaciones sobre convivencia digital*."
+   ]
+  },
+  {
+   "n": 259,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 7,
+   "titulo": "Conductas agresivas y desregulación emocional",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-07-conductas-agresivas-y-desregulacion-emocional/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar la secuencia de intervención de tu curso ante un episodio de desregulación o agresión",
+   "entregable": "un protocolo de intervención graduada con secuencia, roles y análisis posterior",
+   "conceptos": [
+    "Ciclo de escalada",
+    "Desregulación emocional",
+    "Intervención graduada",
+    "Análisis posterior"
+   ],
+   "lecturas": [
+    "Greene, R. (2014). *Lost at School*.",
+    "Colvin, G. & Sugai, G. *Managing the Cycle of Acting-Out Behavior in the Classroom*."
+   ]
+  },
+  {
+   "n": 260,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 8,
+   "titulo": "Agresiones al docente y protección del equipo",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-08-agresiones-al-docente-y-proteccion-del-equipo/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar qué activa tu establecimiento cuando un docente es agredido y quién lo acompaña",
+   "entregable": "un protocolo de agresión al personal con activación institucional, acompañamiento y registro",
+   "conceptos": [
+    "Agresión al personal",
+    "Respaldo institucional",
+    "Registro y denuncia",
+    "Continuidad laboral"
+   ],
+   "lecturas": [
+    "Superintendencia de Educación de Chile. *Normativa sobre convivencia escolar y deberes del sostenedor*.",
+    "Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*."
+   ]
+  },
+  {
+   "n": 261,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 9,
+   "titulo": "Mediación escolar y prácticas restaurativas",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-09-mediacion-escolar-y-practicas-restaurativas/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar si este caso admite mediación restaurativa y qué reparación concreta corresponde",
+   "entregable": "un acta de mediación con acuerdo de reparación, plazo y fecha de verificación",
+   "conceptos": [
+    "Justicia restaurativa",
+    "Mediación escolar",
+    "Acuerdo de reparación",
+    "Contraindicación"
+   ],
+   "lecturas": [
+    "Zehr, H. *The Little Book of Restorative Justice*.",
+    "Salmivalli, C. (2010). *Bullying and the Peer Group*."
+   ]
+  },
+  {
+   "n": 262,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 10,
+   "titulo": "Aulas numerosas y heterogéneas con recursos limitados",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-10-aulas-numerosas-y-heterogeneas-con-recursos-limitados/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar qué estrategias de diferenciación son sostenibles con el tamaño y los recursos reales de tu curso",
+   "entregable": "un diseño de clase con diferenciación sostenible y su verificación de carga de trabajo docente",
+   "conceptos": [
+    "Diferenciación sostenible",
+    "Tarea común con niveles",
+    "Rutinas de autonomía",
+    "Costo docente"
+   ],
+   "lecturas": [
+    "Tomlinson, C. *The Differentiated Classroom*.",
+    "Rosenshine, B. (2012). *Principles of Instruction*."
+   ]
+  },
+  {
+   "n": 263,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 11,
+   "titulo": "Consumo, riesgo psicosocial y derivación",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-11-consumo-riesgo-psicosocial-y-derivacion/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar si esta situación exige derivación, a qué instancia y con qué antecedentes",
+   "entregable": "un protocolo de derivación con criterios, instancias, antecedentes exigidos y seguimiento",
+   "conceptos": [
+    "Riesgo psicosocial",
+    "Derivación responsable",
+    "Deber de denuncia",
+    "Red intersectorial"
+   ],
+   "lecturas": [
+    "Ministerio de Educación de Chile. *Orientaciones para la elaboración de protocolos de actuación*.",
+    "Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*."
+   ]
+  },
+  {
+   "n": 264,
+   "parte": 21,
+   "parte_titulo": "Desafíos actuales del aula",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 12,
+   "titulo": "Proyecto integrador: plan de convivencia con indicadores",
+   "ruta": "curriculum/part-21-desafios-actuales-del-aula/class-12-proyecto-integrador/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar el plan de convivencia del establecimiento y los tres indicadores que se medirán todos los meses",
+   "entregable": "un plan de convivencia con protocolos, escala de intervención, tres indicadores y responsable de medición",
+   "conceptos": [
+    "Plan de convivencia",
+    "Protocolo activable",
+    "Indicador de convivencia",
+    "Periodicidad declarada"
+   ],
+   "lecturas": [
+    "Bryk, A. & Schneider, B. (2002). *Trust in Schools*.",
+    "Ttofi, M. & Farrington, D. (2011). *Effectiveness of School-Based Programs to Reduce Bullying*."
+   ]
+  },
+  {
+   "n": 265,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 1,
+   "titulo": "Lo que la escuela da por supuesto",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-01-lo-que-la-escuela-da-por-supuesto/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué supone tu material sobre la vida de tus estudiantes y qué cambia si ese supuesto no se cumple",
+   "entregable": "una revisión de un material o instrumento con sus supuestos identificados y corregidos",
+   "conceptos": [
+    "Supuesto implícito",
+    "Capital cultural",
+    "Interpretación deficitaria",
+    "Fondos de conocimiento"
+   ],
+   "lecturas": [
+    "Moll, L. et al. (1992). *Funds of Knowledge for Teaching*.",
+    "Bourdieu, P. & Passeron, J.-C. (1970). *La reproducción*."
+   ]
+  },
+  {
+   "n": 266,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 2,
+   "titulo": "Educación intercultural: del folclor al diálogo de saberes",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-02-educacion-intercultural-del-folclor-al-dialogo-de-saberes/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar si tu propuesta intercultural toca el currículum o solo lo decora",
+   "entregable": "una unidad que integra un saber cultural en el contenido disciplinar, con criterios de evaluación coherentes",
+   "conceptos": [
+    "Educación intercultural",
+    "Folclorización",
+    "Diálogo de saberes",
+    "Pertinencia curricular"
+   ],
+   "lecturas": [
+    "Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*.",
+    "Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile."
+   ]
+  },
+  {
+   "n": 267,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 3,
+   "titulo": "Educación intercultural bilingüe y lenguas originarias",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-03-educacion-intercultural-bilingue-y-lenguas-originarias/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar qué modalidad de educación intercultural bilingüe corresponde a tu establecimiento y con qué condiciones",
+   "entregable": "una propuesta de implementación con modalidad, condiciones, personas y evaluación de pertinencia",
+   "conceptos": [
+    "Educación intercultural bilingüe",
+    "Educador tradicional",
+    "Revitalización lingüística",
+    "Asignatura de lengua indígena"
+   ],
+   "lecturas": [
+    "Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.",
+    "Ley 19.253 (1993). *Ley Indígena, Chile*."
+   ]
+  },
+  {
+   "n": 268,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 4,
+   "titulo": "Estudiantes migrantes: acogida, trayectoria y derechos",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-04-estudiantes-migrantes-acogida-trayectoria-y-derechos/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué necesita este estudiante en sus primeras ocho semanas y quién responde por cada cosa",
+   "entregable": "un plan de acogida con hitos, responsables y evaluación de necesidades lingüísticas y de trayectoria",
+   "conceptos": [
+    "Acogida escolar",
+    "Trayectoria interrumpida",
+    "Reconocimiento de estudios",
+    "Duelo migratorio"
+   ],
+   "lecturas": [
+    "Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.",
+    "Ministerio de Educación de Chile. *Orientaciones para la inclusión de estudiantes migrantes*."
+   ]
+  },
+  {
+   "n": 269,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 5,
+   "titulo": "Castellano como segunda lengua",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-05-castellano-como-segunda-lengua/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué demanda lingüística tiene tu asignatura y cómo la enseñas explícitamente",
+   "entregable": "una planificación con andamiaje lingüístico declarado por tipo de texto y de tarea",
+   "conceptos": [
+    "Lengua conversacional",
+    "Lengua académica",
+    "Andamiaje lingüístico",
+    "Doble carga"
+   ],
+   "lecturas": [
+    "Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.",
+    "Gibbons, P. *Scaffolding Language, Scaffolding Learning*."
+   ]
+  },
+  {
+   "n": 270,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 6,
+   "titulo": "Enseñanza de lenguas extranjeras",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-06-ensenanza-de-lenguas-extranjeras/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué proporción de tu clase de lengua extranjera ocurre efectivamente en esa lengua y con qué propósito",
+   "entregable": "un rediseño de clase con exposición comprensible, uso comunicativo y evaluación coherente",
+   "conceptos": [
+    "Insumo comprensible",
+    "Uso comunicativo",
+    "Atención a la forma",
+    "Tiempo de exposición"
+   ],
+   "lecturas": [
+    "Lightbown, P. & Spada, N. *How Languages Are Learned*.",
+    "Ellis, R. *Task-Based Language Teaching*."
+   ]
+  },
+  {
+   "n": 271,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 7,
+   "titulo": "Variedades lingüísticas y prejuicio",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-07-variedades-linguisticas-y-prejuicio/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué corriges como error y qué corresponde a una variedad legítima del castellano",
+   "entregable": "un criterio de corrección lingüística explícito, aplicado a producciones reales de tus estudiantes",
+   "conceptos": [
+    "Variedad lingüística",
+    "Registro formal",
+    "Prejuicio lingüístico",
+    "Repertorio ampliado"
+   ],
+   "lecturas": [
+    "Labov, W. (1972). *The Logic of Nonstandard English*.",
+    "Delpit, L. (1988). *The Silenced Dialogue*."
+   ]
+  },
+  {
+   "n": 272,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 8,
+   "titulo": "Educación rural: territorio y pertinencia",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-08-educacion-rural-territorio-y-pertinencia/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar qué del territorio entra en tu enseñanza y qué restricción de contexto debes resolver primero",
+   "entregable": "un diseño de unidad con pertinencia territorial declarada y restricciones de contexto resueltas",
+   "conceptos": [
+    "Educación rural",
+    "Pertinencia territorial",
+    "Restricción de contexto",
+    "Escuela como centro comunitario"
+   ],
+   "lecturas": [
+    "Moll, L. et al. (1992). *Funds of Knowledge for Teaching*.",
+    "Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*."
+   ]
+  },
+  {
+   "n": 273,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 9,
+   "titulo": "Aula multigrado: varios niveles a la vez",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-09-aula-multigrado-varios-niveles-a-la-vez/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar la estructura de tu clase multigrado: qué es común, qué se diferencia y quién trabaja con quién",
+   "entregable": "una planificación multigrado con tarea común, tres niveles de exigencia y organización de la autonomía",
+   "conceptos": [
+    "Aula multigrado",
+    "Tarea común con niveles",
+    "Tutoría entre pares",
+    "Rotación de atención"
+   ],
+   "lecturas": [
+    "Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*.",
+    "Slavin, R. (2014). *Cooperative Learning and Academic Achievement*."
+   ]
+  },
+  {
+   "n": 274,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 10,
+   "titulo": "Segregación escolar y efecto par",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-10-segregacion-escolar-y-efecto-par/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué parte del resultado de tu establecimiento es efecto de composición y qué parte es efecto de su enseñanza",
+   "entregable": "un análisis de resultados que distingue composición de valor agregado, con sus límites declarados",
+   "conceptos": [
+    "Segregación escolar",
+    "Efecto par",
+    "Valor agregado",
+    "Composición de matrícula"
+   ],
+   "lecturas": [
+    "Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.",
+    "Angrist, J. & Pischke, J.-S. (2009). *Mostly Harmless Econometrics*."
+   ]
+  },
+  {
+   "n": 275,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 11,
+   "titulo": "Financiamiento, recursos y decisiones pedagógicas",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-11-financiamiento-recursos-y-decisiones-pedagogicas/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar qué decisión pedagógica de tu establecimiento depende de un recurso y cómo se justifica su uso",
+   "entregable": "una propuesta de uso de recursos con fundamento pedagógico, evidencia esperada y verificación",
+   "conceptos": [
+    "Subvención escolar",
+    "Subvención escolar preferencial",
+    "Plan de mejoramiento educativo",
+    "Justificación pedagógica"
+   ],
+   "lecturas": [
+    "Ley 20.248 (2008). *Subvención Escolar Preferencial, Chile*.",
+    "Bryk, A. et al. (2015). *Learning to Improve*."
+   ]
+  },
+  {
+   "n": 276,
+   "parte": 22,
+   "parte_titulo": "Diversidad cultural, lingüística y territorial",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 12,
+   "titulo": "Proyecto integrador: plan de pertinencia cultural y territorial",
+   "ruta": "curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-12-proyecto-integrador/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar el plan de pertinencia del establecimiento y qué evidencia mostrará que cambió algo",
+   "entregable": "un plan de pertinencia con acogida lingüística, adecuación territorial, uso de recursos y evidencia comprometida",
+   "conceptos": [
+    "Plan de pertinencia",
+    "Acción verificable",
+    "Consulta a la comunidad",
+    "Indicador desagregado"
+   ],
+   "lecturas": [
+    "Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.",
+    "Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*."
+   ]
+  },
+  {
+   "n": 277,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 1,
+   "titulo": "Salud mental escolar: alcance y límites de la escuela",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-01-salud-mental-escolar-alcance-y-limites-de-la-escuela/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar qué le corresponde a tu establecimiento en esta situación y qué exige otra competencia profesional",
+   "entregable": "un mapa de competencias y umbrales de acción, con la frontera del rol docente declarada",
+   "conceptos": [
+    "Frontera del rol",
+    "Detección",
+    "Umbral de acción",
+    "Corresponsabilidad"
+   ],
+   "lecturas": [
+    "Ministerio de Educación de Chile. *Orientaciones sobre salud mental en la comunidad educativa*.",
+    "Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*."
+   ]
+  },
+  {
+   "n": 278,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 2,
+   "titulo": "Ansiedad y estrés académico",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-02-ansiedad-y-estres-academico/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué condiciones de tu evaluación o de tu clase están amplificando la ansiedad de tus estudiantes",
+   "entregable": "un ajuste de condiciones de evaluación y de aula con su fundamento y su efecto registrado",
+   "conceptos": [
+    "Ansiedad ante la evaluación",
+    "Interferencia funcional",
+    "Evitación",
+    "Condición amplificadora"
+   ],
+   "lecturas": [
+    "von der Embse, N. et al. (2018). *Test Anxiety Effects, Predictors and Correlates*.",
+    "Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*."
+   ]
+  },
+  {
+   "n": 279,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 3,
+   "titulo": "Depresión, autolesión y riesgo suicida",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-03-depresion-autolesion-y-riesgo-suicida/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar qué activa tu establecimiento ante una señal de riesgo y quién hace cada cosa",
+   "entregable": "un protocolo de riesgo con señales, activación inmediata, actores, registro y seguimiento",
+   "conceptos": [
+    "Señal de riesgo",
+    "Activación inmediata",
+    "Acompañamiento continuo",
+    "Postvención"
+   ],
+   "lecturas": [
+    "Ministerio de Salud y Ministerio de Educación de Chile. *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales*.",
+    "Zalsman, G. et al. (2016). *Suicide Prevention Strategies Revisited*."
+   ]
+  },
+  {
+   "n": 280,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 4,
+   "titulo": "Aprendizaje socioemocional: qué funciona",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-04-aprendizaje-socioemocional-que-funciona/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué esperas de tu programa socioemocional y si esa expectativa está respaldada",
+   "entregable": "un diseño de implementación con objetivos declarados, condiciones aseguradas y medición proporcional",
+   "conceptos": [
+    "Aprendizaje socioemocional",
+    "Implementación con fidelidad",
+    "Efecto proporcional",
+    "Clima como condición"
+   ],
+   "lecturas": [
+    "Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*.",
+    "Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*."
+   ]
+  },
+  {
+   "n": 281,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 5,
+   "titulo": "Adversidad, trauma y prácticas sensibles",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-05-adversidad-trauma-y-practicas-sensibles/README.md",
+   "estado_evidencia": "EMERGENTE",
+   "decision": "determinar qué condiciones de previsibilidad y seguridad requiere este estudiante para poder aprender",
+   "entregable": "un diseño de aula con previsibilidad, regulación y relación estable, con su fundamento declarado",
+   "conceptos": [
+    "Experiencias adversas en la infancia",
+    "Respuesta de alerta",
+    "Práctica sensible a la adversidad",
+    "Relación estable"
+   ],
+   "lecturas": [
+    "Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*.",
+    "Masten, A. (2014). *Ordinary Magic: Resilience in Development*."
+   ]
+  },
+  {
+   "n": 282,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 6,
+   "titulo": "Duelo, crisis y emergencias en la comunidad",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-06-duelo-crisis-y-emergencias-en-la-comunidad/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar qué hace tu establecimiento en las primeras cuarenta y ocho horas de una crisis",
+   "entregable": "un protocolo de crisis con las primeras cuarenta y ocho horas, vocería, comunicación y cuidado del equipo",
+   "conceptos": [
+    "Crisis comunitaria",
+    "Primeras cuarenta y ocho horas",
+    "Vocería única",
+    "Cuidado de los cuidadores"
+   ],
+   "lecturas": [
+    "Ministerio de Educación de Chile. *Orientaciones para la actuación ante situaciones de crisis*.",
+    "Ministerio de Salud de Chile. *Recomendaciones de postvención en comunidades educativas*."
+   ]
+  },
+  {
+   "n": 283,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 7,
+   "titulo": "Afectividad y educación sexual integral",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-07-afectividad-y-educacion-sexual-integral/README.md",
+   "estado_evidencia": "MARCO-NORMATIVO",
+   "decision": "determinar qué contenidos de afectividad y sexualidad corresponden a tu nivel y cómo se acuerdan con las familias",
+   "entregable": "un programa de afectividad y sexualidad con marco declarado, contenidos por nivel y acuerdo con familias",
+   "conceptos": [
+    "Educación sexual integral",
+    "Progresión por edad",
+    "Consentimiento",
+    "Acuerdo con familias"
+   ],
+   "lecturas": [
+    "UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*.",
+    "Ley 20.418 (2010). *Información, orientación y prestaciones en materia de regulación de la fertilidad, Chile*."
+   ]
+  },
+  {
+   "n": 284,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 8,
+   "titulo": "Convivencia digital, imagen y exposición",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-08-convivencia-digital-imagen-y-exposicion/README.md",
+   "estado_evidencia": "EMERGENTE",
+   "decision": "determinar qué contenidos de convivencia digital enseña tu establecimiento y en qué momento del año",
+   "entregable": "un programa de convivencia digital con contenidos por nivel, criterios y articulación con el protocolo de ciberacoso",
+   "conceptos": [
+    "Convivencia digital",
+    "Huella digital",
+    "Exposición de imagen",
+    "Consentimiento digital"
+   ],
+   "lecturas": [
+    "Livingstone, S. & Third, A. (2017). *Children and Young People's Rights in the Digital Age*.",
+    "Kowalski, R. et al. (2014). *Bullying in the Digital Age*."
+   ]
+  },
+  {
+   "n": 285,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 9,
+   "titulo": "Carga docente, tiempo y sostenibilidad",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-09-carga-docente-tiempo-y-sostenibilidad/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar cuánto tiempo real exige el trabajo docente en tu establecimiento y qué tarea se elimina",
+   "entregable": "una medición de carga docente de un mes con clasificación de tareas y propuesta de eliminación",
+   "conceptos": [
+    "Carga real",
+    "Trabajo invisible",
+    "Acumulación por adición",
+    "Tarea de bajo valor"
+   ],
+   "lecturas": [
+    "Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.",
+    "OCDE. *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje*."
+   ]
+  },
+  {
+   "n": 286,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 10,
+   "titulo": "Desgaste profesional y su prevención institucional",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-10-desgaste-profesional-y-su-prevencion-institucional/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué condición organizacional de tu establecimiento está produciendo desgaste y qué se modifica",
+   "entregable": "un diagnóstico de condiciones organizacionales con dos modificaciones concretas comprometidas",
+   "conceptos": [
+    "Desgaste profesional",
+    "Determinante organizacional",
+    "Autonomía profesional",
+    "Traslado de responsabilidad"
+   ],
+   "lecturas": [
+    "Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.",
+    "Bryk, A. & Schneider, B. (2002). *Trust in Schools*."
+   ]
+  },
+  {
+   "n": 287,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 11,
+   "titulo": "Cuidado del equipo y liderazgo del bienestar",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-11-cuidado-del-equipo-y-liderazgo-del-bienestar/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar qué hace tu establecimiento por el bienestar del equipo y qué es solo actividad de camaradería",
+   "entregable": "un plan de cuidado del equipo con inducción, acompañamiento, reconocimiento y medición de rotación",
+   "conceptos": [
+    "Liderazgo del bienestar",
+    "Inducción",
+    "Acompañamiento entre pares",
+    "Rotación docente"
+   ],
+   "lecturas": [
+    "Ingersoll, R. & Strong, M. (2011). *The Impact of Induction and Mentoring Programs for Beginning Teachers*.",
+    "Bryk, A. & Schneider, B. (2002). *Trust in Schools*."
+   ]
+  },
+  {
+   "n": 288,
+   "parte": 23,
+   "parte_titulo": "Bienestar, salud mental y sostenibilidad del oficio",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 12,
+   "titulo": "Proyecto integrador: plan de bienestar escolar",
+   "ruta": "curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-12-proyecto-integrador/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar el plan de bienestar del establecimiento y qué compromisos institucionales lo sostienen",
+   "entregable": "un plan de bienestar con protocolos, compromisos institucionales, indicadores y responsables",
+   "conceptos": [
+    "Plan de bienestar",
+    "Compromiso institucional",
+    "Indicador de bienestar",
+    "Coherencia interna"
+   ],
+   "lecturas": [
+    "Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*.",
+    "Bryk, A. & Schneider, B. (2002). *Trust in Schools*."
+   ]
+  },
+  {
+   "n": 289,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 1,
+   "titulo": "Cómo se lee un sistema educativo sin copiarlo",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-01-como-se-lee-un-sistema-educativo-sin-copiarlo/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué mecanismo explica el resultado del sistema que te interesa y qué condición lo sostiene",
+   "entregable": "una ficha de sistema con mecanismo, contexto, evidencia disponible y condición de transferencia",
+   "conceptos": [
+    "Mecanismo",
+    "Equivalencia funcional",
+    "Condición de transferencia",
+    "Efecto de fachada"
+   ],
+   "lecturas": [
+    "Crehan, L. (2016). *Cleverlands*.",
+    "Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*."
+   ]
+  },
+  {
+   "n": 290,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 2,
+   "titulo": "Pruebas internacionales: qué miden y qué no",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-02-pruebas-internacionales-que-miden-y-que-no/README.md",
+   "estado_evidencia": "ROBUSTA",
+   "decision": "determinar qué afirmación sobre tu sistema está respaldada por el resultado y cuál lo excede",
+   "entregable": "una lectura crítica de un resultado internacional con sus límites y sus inferencias válidas declaradas",
+   "conceptos": [
+    "Prueba internacional de rendimiento",
+    "Comparabilidad",
+    "Margen de error",
+    "Inferencia excedida"
+   ],
+   "lecturas": [
+    "OCDE. *PISA: marco técnico y de evaluación*.",
+    "AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*."
+   ]
+  },
+  {
+   "n": 291,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 3,
+   "titulo": "Finlandia: qué se malinterpretó",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-03-finlandia-que-se-malinterpreto/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué elemento del caso finlandés es transferible a tu contexto y bajo qué condición",
+   "entregable": "una ficha del caso finlandés con mecanismo, condición y decisión de transferencia fundamentada",
+   "conceptos": [
+    "Selección docente",
+    "Estabilidad de política",
+    "Confianza profesional",
+    "Contexto social"
+   ],
+   "lecturas": [
+    "Sahlberg, P. (2011). *Finnish Lessons*.",
+    "Crehan, L. (2016). *Cleverlands*."
+   ]
+  },
+  {
+   "n": 292,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 4,
+   "titulo": "Singapur: currículum, formación docente y matemática",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-04-singapur-curriculum-formacion-docente-y-matematica/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué elemento de la cadena singapurense podría adoptarse sin los demás y con qué riesgo",
+   "entregable": "una ficha del caso con la cadena completa y la evaluación de transferencia por elemento",
+   "conceptos": [
+    "Cadena de coherencia",
+    "Enfoque concreto-pictórico-abstracto",
+    "Desarrollo profesional estructurado",
+    "Adopción parcial"
+   ],
+   "lecturas": [
+    "Crehan, L. (2016). *Cleverlands*.",
+    "Ball, D., Thames, M. & Phelps, G. (2008). *Content Knowledge for Teaching*."
+   ]
+  },
+  {
+   "n": 293,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 5,
+   "titulo": "Estonia: equidad y digitalización",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-05-estonia-equidad-y-digitalizacion/README.md",
+   "estado_evidencia": "EMERGENTE",
+   "decision": "determinar qué del caso estonio se explica por su política educativa y qué por su contexto",
+   "entregable": "una ficha del caso con hipótesis explicativas y evaluación de la evidencia de cada una",
+   "conceptos": [
+    "Equidad de resultados",
+    "Digitalización educativa",
+    "Escuela común",
+    "Hipótesis explicativa"
+   ],
+   "lecturas": [
+    "OCDE. *Informes país sobre sistemas educativos*.",
+    "Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*."
+   ]
+  },
+  {
+   "n": 294,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 6,
+   "titulo": "Japón y el lesson study",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-06-japon-y-el-lesson-study/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar si tu establecimiento puede sostener un ciclo de lesson study y con qué condiciones",
+   "entregable": "el diseño de un ciclo completo de lesson study con roles, tiempos y producto documentado",
+   "conceptos": [
+    "Lesson study",
+    "Clase de investigación",
+    "Foco en el aprendizaje",
+    "Producto documentado"
+   ],
+   "lecturas": [
+    "Lewis, C. (2002). *Lesson Study: A Handbook of Teacher-Led Instructional Change*.",
+    "Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*."
+   ]
+  },
+  {
+   "n": 295,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 7,
+   "titulo": "Shanghái: práctica deliberada entre docentes",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-07-shanghai-practica-deliberada-entre-docentes/README.md",
+   "estado_evidencia": "EMERGENTE",
+   "decision": "determinar qué estructura de trabajo entre pares es sostenible en tu establecimiento",
+   "entregable": "un diseño de estructura de trabajo entre pares con tiempo, foco y producto declarados",
+   "conceptos": [
+    "Grupo de enseñanza e investigación",
+    "Práctica deliberada",
+    "Mentoría estructurada",
+    "Tiempo lectivo reducido"
+   ],
+   "lecturas": [
+    "Zhao, Y. (2014). *Who's Afraid of the Big Bad Dragon?*",
+    "Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*."
+   ]
+  },
+  {
+   "n": 296,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 8,
+   "titulo": "Ontario: mejora sistémica sostenida",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-08-ontario-mejora-sistemica-sostenida/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué condición de sostenibilidad falta en las iniciativas de mejora de tu contexto",
+   "entregable": "un análisis de una iniciativa local con las condiciones de sostenibilidad evaluadas",
+   "conceptos": [
+    "Mejora sistémica",
+    "Construcción de capacidad",
+    "Foco estratégico",
+    "Presión y apoyo"
+   ],
+   "lecturas": [
+    "Fullan, M. (2010). *All Systems Go*.",
+    "Bryk, A. et al. (2015). *Learning to Improve*."
+   ]
+  },
+  {
+   "n": 297,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 9,
+   "titulo": "Portugal y Polonia: reformas que movieron resultados",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-09-portugal-y-polonia-reformas-que-movieron-resultados/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué de estas dos trayectorias es común y podría ser el mecanismo relevante",
+   "entregable": "una comparación de dos reformas con elementos comunes, diferencias y conclusiones fundamentadas",
+   "conceptos": [
+    "Trayectoria de reforma",
+    "Postergación de la selección",
+    "Autonomía con rendición de cuentas",
+    "Elemento común"
+   ],
+   "lecturas": [
+    "OCDE. *Informes país y estudios temáticos sobre reformas educativas*.",
+    "Hanushek, E. & Woessmann, L. (2006). *Does Educational Tracking Affect Performance and Inequality?*"
+   ]
+  },
+  {
+   "n": 298,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 10,
+   "titulo": "Escuela Nueva de Colombia y modelos de bajo costo",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-10-escuela-nueva-de-colombia-y-modelos-de-bajo-costo/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué elemento de estos modelos resuelve un problema real de tu contexto",
+   "entregable": "una ficha de modelo regional con mecanismo, evidencia y decisión de adopción fundamentada",
+   "conceptos": [
+    "Modelo de bajo costo",
+    "Guía de aprendizaje",
+    "Promoción flexible",
+    "Gobierno estudiantil"
+   ],
+   "lecturas": [
+    "Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*.",
+    "Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*."
+   ]
+  },
+  {
+   "n": 299,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 11,
+   "titulo": "Chile en perspectiva comparada",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-11-chile-en-perspectiva-comparada/README.md",
+   "estado_evidencia": "CONSISTENTE",
+   "decision": "determinar qué rasgo del sistema chileno explica el problema que te preocupa y de dónde proviene",
+   "entregable": "un análisis del sistema chileno con rasgos comparados, origen y efecto documentado",
+   "conceptos": [
+    "Financiamiento por estudiante",
+    "Mixtura público-privada",
+    "Aseguramiento de la calidad",
+    "Importación parcial"
+   ],
+   "lecturas": [
+    "Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.",
+    "Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*."
+   ]
+  },
+  {
+   "n": 300,
+   "parte": 24,
+   "parte_titulo": "Modelos educativos internacionales y evidencia comparada",
+   "etapa": "F",
+   "etapa_nombre": "Etapa F — Especialización y desafíos contemporáneos",
+   "clase": 12,
+   "titulo": "Proyecto integrador: propuesta de adaptación fundamentada",
+   "ruta": "curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-12-proyecto-integrador/README.md",
+   "estado_evidencia": "PRACTICA-PROFESIONAL",
+   "decision": "determinar qué propones adoptar, con qué condiciones y qué descartas explícitamente",
+   "entregable": "una propuesta de adaptación con mecanismo, condiciones locales, descartes justificados y plan de verificación",
+   "conceptos": [
+    "Propuesta de adaptación",
+    "Descarte justificado",
+    "Condición de fracaso",
+    "Prueba en pequeño"
+   ],
+   "lecturas": [
+    "Bryk, A. et al. (2015). *Learning to Improve*.",
+    "Crehan, L. (2016). *Cleverlands*."
    ]
   }
  ]

@@ -81,6 +81,9 @@ eficaces.
 112 (resultados de aprendizaje), 116 (diseño inverso), 117 (auditoría de alineamiento),
 137 (construcción de ítems), 159 (principios multimedia).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **19** Metodologías y enfoques pedagógicos · **18** Alfabetización inicial y ciencia de la lectura · **20** Estrategias pedagógicas para necesidades educativas específicas · **22** Diversidad cultural, lingüística y territorial.
+Sin criterios de comparación de enfoques, el diseño instruccional se vuelve moda; la 20 y la 22 fijan la accesibilidad real.
+
 ## 🏛️ Credenciales y marco
 
 - **No hay credencial obligatoria.** Lo que se evalúa en una contratación es el portafolio: un

@@ -105,4 +105,4 @@ flowchart TB
 
 | Anterior | Índice | Siguiente |
 |---|---|---|
-| [← Parte 16 · Investigación educativa](../part-16-investigacion-educativa/README.md) | [Programa](../../README.md) · [Currículo](../../CURRICULUM.md) | [Proyectos integradores →](../../projects/README.md) |
+| [← Parte 16 · Investigación educativa](../part-16-investigacion-educativa/README.md) | [Programa](../../README.md) · [Currículo](../../CURRICULUM.md) | [Parte 18 · Alfabetización inicial y ciencia de la lectura →](../part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/README.md) |

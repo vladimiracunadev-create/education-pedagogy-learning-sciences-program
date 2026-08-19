@@ -83,6 +83,9 @@ una crisis o en un logro.
 142 (análisis de ítems), 143 (teoría clásica e IRT), 139 (retroalimentación), 136 (amenazas a la
 validez en evaluación auténtica).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **18** Alfabetización inicial y ciencia de la lectura · **24** Modelos educativos internacionales y evidencia comparada · **20** Estrategias pedagógicas para necesidades educativas específicas · **21** Desafíos actuales del aula.
+La evaluación por componentes de la 18 y la lectura crítica de pruebas internacionales de la 24 son parte de tu oficio.
+
 ## 🏛️ Credenciales y marco
 
 - **No hay credencial obligatoria**, pero el estándar técnico de referencia internacional son los

@@ -7,7 +7,7 @@ capacitación, en una universidad o en un equipo docente.
 
 | El programa entrega | Tú aportas |
 |---|---|
-| 216 clases con decisión, evidencia y criterios | el contexto real de tus participantes |
+| 300 clases con decisión, evidencia y criterios | el contexto real de tus participantes |
 | estados de evidencia declarados | el juicio sobre qué aplica en tu institución |
 | talleres con contextos alternativos | acompañamiento y retroalimentación |
 | rúbricas y criterios de logro | la calibración entre evaluadores |

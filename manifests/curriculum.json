@@ -1,1946 +1,2702 @@
 [
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 1,
-  "global_class": 1,
-  "title": "Educación, pedagogía, enseñanza y aprendizaje",
-  "slug": "class-01-educacion-pedagogia-ensenanza-y-aprendizaje"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 2,
-  "global_class": 2,
-  "title": "Historia de la educación",
-  "slug": "class-02-historia-de-la-educacion"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 3,
-  "global_class": 3,
-  "title": "Filosofía de la educación",
-  "slug": "class-03-filosofia-de-la-educacion"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 4,
-  "global_class": 4,
-  "title": "Ética profesional docente",
-  "slug": "class-04-etica-profesional-docente"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 5,
-  "global_class": 5,
-  "title": "Sistemas educativos comparados",
-  "slug": "class-05-sistemas-educativos-comparados"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 6,
-  "global_class": 6,
-  "title": "Educación formal, no formal e informal",
-  "slug": "class-06-educacion-formal-no-formal-e-informal"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 7,
-  "global_class": 7,
-  "title": "Derecho a la educación",
-  "slug": "class-07-derecho-a-la-educacion"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 8,
-  "global_class": 8,
-  "title": "Rol social de la escuela",
-  "slug": "class-08-rol-social-de-la-escuela"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 9,
-  "global_class": 9,
-  "title": "Profesiones y roles educativos",
-  "slug": "class-09-profesiones-y-roles-educativos"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 10,
-  "global_class": 10,
-  "title": "Cultura escolar y comunidad",
-  "slug": "class-10-cultura-escolar-y-comunidad"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 11,
-  "global_class": 11,
-  "title": "Calidad y equidad educativa",
-  "slug": "class-11-calidad-y-equidad-educativa"
- },
- {
-  "part": 0,
-  "part_title": "Fundamentos de la educación",
-  "part_slug": "part-00-fundamentos-de-la-educacion",
-  "class": 12,
-  "global_class": 12,
-  "title": "Proyecto integrador: mapa del sistema educativo",
-  "slug": "class-12-proyecto-integrador-mapa-del-sistema-educativo"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 1,
-  "global_class": 13,
-  "title": "Conductismo y aprendizaje observable",
-  "slug": "class-01-conductismo-y-aprendizaje-observable"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 2,
-  "global_class": 14,
-  "title": "Cognitivismo y procesamiento de información",
-  "slug": "class-02-cognitivismo-y-procesamiento-de-informacion"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 3,
-  "global_class": 15,
-  "title": "Constructivismo",
-  "slug": "class-03-constructivismo"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 4,
-  "global_class": 16,
-  "title": "Socioconstructivismo y aprendizaje mediado",
-  "slug": "class-04-socioconstructivismo-y-aprendizaje-mediado"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 5,
-  "global_class": 17,
-  "title": "Memoria de trabajo y memoria de largo plazo",
-  "slug": "class-05-memoria-de-trabajo-y-memoria-de-largo-plazo"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 6,
-  "global_class": 18,
-  "title": "Atención y control ejecutivo",
-  "slug": "class-06-atencion-y-control-ejecutivo"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 7,
-  "global_class": 19,
-  "title": "Carga cognitiva",
-  "slug": "class-07-carga-cognitiva"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 8,
-  "global_class": 20,
-  "title": "Práctica de recuperación y espaciado",
-  "slug": "class-08-practica-de-recuperacion-y-espaciado"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 9,
-  "global_class": 21,
-  "title": "Metacognición",
-  "slug": "class-09-metacognicion"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 10,
-  "global_class": 22,
-  "title": "Motivación y autodeterminación",
-  "slug": "class-10-motivacion-y-autodeterminacion"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 11,
-  "global_class": 23,
-  "title": "Transferencia y aprendizaje profundo",
-  "slug": "class-11-transferencia-y-aprendizaje-profundo"
- },
- {
-  "part": 1,
-  "part_title": "Ciencias del aprendizaje",
-  "part_slug": "part-01-ciencias-del-aprendizaje",
-  "class": 12,
-  "global_class": 24,
-  "title": "Proyecto integrador: diseño basado en evidencia",
-  "slug": "class-12-proyecto-integrador-diseno-basado-en-evidencia"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 1,
-  "global_class": 25,
-  "title": "Desarrollo prenatal y primera infancia",
-  "slug": "class-01-desarrollo-prenatal-y-primera-infancia"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 2,
-  "global_class": 26,
-  "title": "Desarrollo motor y sensorial",
-  "slug": "class-02-desarrollo-motor-y-sensorial"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 3,
-  "global_class": 27,
-  "title": "Desarrollo del lenguaje",
-  "slug": "class-03-desarrollo-del-lenguaje"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 4,
-  "global_class": 28,
-  "title": "Desarrollo cognitivo",
-  "slug": "class-04-desarrollo-cognitivo"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 5,
-  "global_class": 29,
-  "title": "Desarrollo socioemocional",
-  "slug": "class-05-desarrollo-socioemocional"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 6,
-  "global_class": 30,
-  "title": "Apego y vínculos",
-  "slug": "class-06-apego-y-vinculos"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 7,
-  "global_class": 31,
-  "title": "Niñez media",
-  "slug": "class-07-ninez-media"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 8,
-  "global_class": 32,
-  "title": "Adolescencia",
-  "slug": "class-08-adolescencia"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 9,
-  "global_class": 33,
-  "title": "Adultez emergente y adultez",
-  "slug": "class-09-adultez-emergente-y-adultez"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 10,
-  "global_class": 34,
-  "title": "Envejecimiento y aprendizaje permanente",
-  "slug": "class-10-envejecimiento-y-aprendizaje-permanente"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 11,
-  "global_class": 35,
-  "title": "Diferencias individuales",
-  "slug": "class-11-diferencias-individuales"
- },
- {
-  "part": 2,
-  "part_title": "Desarrollo humano",
-  "part_slug": "part-02-desarrollo-humano",
-  "class": 12,
-  "global_class": 36,
-  "title": "Proyecto integrador: trayectoria de desarrollo",
-  "slug": "class-12-proyecto-integrador-trayectoria-de-desarrollo"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 1,
-  "global_class": 37,
-  "title": "Principios de educación parvularia",
-  "slug": "class-01-principios-de-educacion-parvularia"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 2,
-  "global_class": 38,
-  "title": "Juego y aprendizaje",
-  "slug": "class-02-juego-y-aprendizaje"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 3,
-  "global_class": 39,
-  "title": "Ambientes de aprendizaje",
-  "slug": "class-03-ambientes-de-aprendizaje"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 4,
-  "global_class": 40,
-  "title": "Lenguaje y alfabetización emergente",
-  "slug": "class-04-lenguaje-y-alfabetizacion-emergente"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 5,
-  "global_class": 41,
-  "title": "Pensamiento matemático temprano",
-  "slug": "class-05-pensamiento-matematico-temprano"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 6,
-  "global_class": 42,
-  "title": "Corporalidad y movimiento",
-  "slug": "class-06-corporalidad-y-movimiento"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 7,
-  "global_class": 43,
-  "title": "Arte, música y creatividad",
-  "slug": "class-07-arte-musica-y-creatividad"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 8,
-  "global_class": 44,
-  "title": "Exploración del entorno",
-  "slug": "class-08-exploracion-del-entorno"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 9,
-  "global_class": 45,
-  "title": "Desarrollo socioemocional",
-  "slug": "class-09-desarrollo-socioemocional"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 10,
-  "global_class": 46,
-  "title": "Observación y documentación pedagógica",
-  "slug": "class-10-observacion-y-documentacion-pedagogica"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 11,
-  "global_class": 47,
-  "title": "Familia y comunidad",
-  "slug": "class-11-familia-y-comunidad"
- },
- {
-  "part": 3,
-  "part_title": "Educación parvularia",
-  "part_slug": "part-03-educacion-parvularia",
-  "class": 12,
-  "global_class": 48,
-  "title": "Proyecto integrador: experiencia parvularia",
-  "slug": "class-12-proyecto-integrador-experiencia-parvularia"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 1,
-  "global_class": 49,
-  "title": "Didáctica de la lectura",
-  "slug": "class-01-didactica-de-la-lectura"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 2,
-  "global_class": 50,
-  "title": "Didáctica de la escritura",
-  "slug": "class-02-didactica-de-la-escritura"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 3,
-  "global_class": 51,
-  "title": "Didáctica de la matemática",
-  "slug": "class-03-didactica-de-la-matematica"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 4,
-  "global_class": 52,
-  "title": "Didáctica de las ciencias",
-  "slug": "class-04-didactica-de-las-ciencias"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 5,
-  "global_class": 53,
-  "title": "Historia, geografía y ciudadanía",
-  "slug": "class-05-historia-geografia-y-ciudadania"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 6,
-  "global_class": 54,
-  "title": "Arte y creatividad",
-  "slug": "class-06-arte-y-creatividad"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 7,
-  "global_class": 55,
-  "title": "Educación física y bienestar",
-  "slug": "class-07-educacion-fisica-y-bienestar"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 8,
-  "global_class": 56,
-  "title": "Tecnología y alfabetización digital",
-  "slug": "class-08-tecnologia-y-alfabetizacion-digital"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 9,
-  "global_class": 57,
-  "title": "Planificación de unidades",
-  "slug": "class-09-planificacion-de-unidades"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 10,
-  "global_class": 58,
-  "title": "Evaluación formativa en básica",
-  "slug": "class-10-evaluacion-formativa-en-basica"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 11,
-  "global_class": 59,
-  "title": "Gestión de aula en niñez media",
-  "slug": "class-11-gestion-de-aula-en-ninez-media"
- },
- {
-  "part": 4,
-  "part_title": "Educación básica",
-  "part_slug": "part-04-educacion-basica",
-  "class": 12,
-  "global_class": 60,
-  "title": "Proyecto integrador: unidad interdisciplinaria",
-  "slug": "class-12-proyecto-integrador-unidad-interdisciplinaria"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 1,
-  "global_class": 61,
-  "title": "Psicología de la adolescencia",
-  "slug": "class-01-psicologia-de-la-adolescencia"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 2,
-  "global_class": 62,
-  "title": "Identidad, pertenencia y motivación",
-  "slug": "class-02-identidad-pertenencia-y-motivacion"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 3,
-  "global_class": 63,
-  "title": "Autoridad pedagógica",
-  "slug": "class-03-autoridad-pedagogica"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 4,
-  "global_class": 64,
-  "title": "Gestión de aula adolescente",
-  "slug": "class-04-gestion-de-aula-adolescente"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 5,
-  "global_class": 65,
-  "title": "Aprendizaje basado en proyectos",
-  "slug": "class-05-aprendizaje-basado-en-proyectos"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 6,
-  "global_class": 66,
-  "title": "Aprendizaje basado en problemas",
-  "slug": "class-06-aprendizaje-basado-en-problemas"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 7,
-  "global_class": 67,
-  "title": "Debate y argumentación",
-  "slug": "class-07-debate-y-argumentacion"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 8,
-  "global_class": 68,
-  "title": "STEM y STEAM",
-  "slug": "class-08-stem-y-steam"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 9,
-  "global_class": 69,
-  "title": "Orientación vocacional",
-  "slug": "class-09-orientacion-vocacional"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 10,
-  "global_class": 70,
-  "title": "Ciudadanía digital",
-  "slug": "class-10-ciudadania-digital"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 11,
-  "global_class": 71,
-  "title": "Evaluación auténtica",
-  "slug": "class-11-evaluacion-autentica"
- },
- {
-  "part": 5,
-  "part_title": "Educación media y adolescencia",
-  "part_slug": "part-05-educacion-media-y-adolescencia",
-  "class": 12,
-  "global_class": 72,
-  "title": "Proyecto integrador: desafío de educación media",
-  "slug": "class-12-proyecto-integrador-desafio-de-educacion-media"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 1,
-  "global_class": 73,
-  "title": "Formación por competencias",
-  "slug": "class-01-formacion-por-competencias"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 2,
-  "global_class": 74,
-  "title": "Aprendizaje situado",
-  "slug": "class-02-aprendizaje-situado"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 3,
-  "global_class": 75,
-  "title": "Talleres y laboratorios",
-  "slug": "class-03-talleres-y-laboratorios"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 4,
-  "global_class": 76,
-  "title": "Seguridad y cultura preventiva",
-  "slug": "class-04-seguridad-y-cultura-preventiva"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 5,
-  "global_class": 77,
-  "title": "Rúbricas de desempeño",
-  "slug": "class-05-rubricas-de-desempeno"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 6,
-  "global_class": 78,
-  "title": "Portafolio de evidencias",
-  "slug": "class-06-portafolio-de-evidencias"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 7,
-  "global_class": 79,
-  "title": "Aprendizaje dual",
-  "slug": "class-07-aprendizaje-dual"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 8,
-  "global_class": 80,
-  "title": "Vínculo educación-empresa",
-  "slug": "class-08-vinculo-educacion-empresa"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 9,
-  "global_class": 81,
-  "title": "Práctica profesional",
-  "slug": "class-09-practica-profesional"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 10,
-  "global_class": 82,
-  "title": "Competencias transversales",
-  "slug": "class-10-competencias-transversales"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 11,
-  "global_class": 83,
-  "title": "Empleabilidad y transición al trabajo",
-  "slug": "class-11-empleabilidad-y-transicion-al-trabajo"
- },
- {
-  "part": 6,
-  "part_title": "Educación técnico-profesional",
-  "part_slug": "part-06-educacion-tecnico-profesional",
-  "class": 12,
-  "global_class": 84,
-  "title": "Proyecto integrador: módulo TP",
-  "slug": "class-12-proyecto-integrador-modulo-tp"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 1,
-  "global_class": 85,
-  "title": "Principios de andragogía",
-  "slug": "class-01-principios-de-andragogia"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 2,
-  "global_class": 86,
-  "title": "Experiencia previa como recurso",
-  "slug": "class-02-experiencia-previa-como-recurso"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 3,
-  "global_class": 87,
-  "title": "Aprendizaje autodirigido",
-  "slug": "class-03-aprendizaje-autodirigido"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 4,
-  "global_class": 88,
-  "title": "Motivación en adultos",
-  "slug": "class-04-motivacion-en-adultos"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 5,
-  "global_class": 89,
-  "title": "Capacitación laboral",
-  "slug": "class-05-capacitacion-laboral"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 6,
-  "global_class": 90,
-  "title": "Reskilling y upskilling",
-  "slug": "class-06-reskilling-y-upskilling"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 7,
-  "global_class": 91,
-  "title": "Microlearning",
-  "slug": "class-07-microlearning"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 8,
-  "global_class": 92,
-  "title": "Mentoría",
-  "slug": "class-08-mentoria"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 9,
-  "global_class": 93,
-  "title": "Coaching educativo",
-  "slug": "class-09-coaching-educativo"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 10,
-  "global_class": 94,
-  "title": "Aprendizaje experiencial",
-  "slug": "class-10-aprendizaje-experiencial"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 11,
-  "global_class": 95,
-  "title": "Evaluación en formación de adultos",
-  "slug": "class-11-evaluacion-en-formacion-de-adultos"
- },
- {
-  "part": 7,
-  "part_title": "Educación de adultos y andragogía",
-  "part_slug": "part-07-educacion-de-adultos-y-andragogia",
-  "class": 12,
-  "global_class": 96,
-  "title": "Proyecto integrador: programa de capacitación",
-  "slug": "class-12-proyecto-integrador-programa-de-capacitacion"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 1,
-  "global_class": 97,
-  "title": "Educación inclusiva",
-  "slug": "class-01-educacion-inclusiva"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 2,
-  "global_class": 98,
-  "title": "Barreras para el aprendizaje y la participación",
-  "slug": "class-02-barreras-para-el-aprendizaje-y-la-participacion"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 3,
-  "global_class": 99,
-  "title": "Diseño Universal para el Aprendizaje",
-  "slug": "class-03-diseno-universal-para-el-aprendizaje"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 4,
-  "global_class": 100,
-  "title": "Diversificación de la enseñanza",
-  "slug": "class-04-diversificacion-de-la-ensenanza"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 5,
-  "global_class": 101,
-  "title": "Necesidades educativas especiales",
-  "slug": "class-05-necesidades-educativas-especiales"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 6,
-  "global_class": 102,
-  "title": "Autismo y apoyos educativos",
-  "slug": "class-06-autismo-y-apoyos-educativos"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 7,
-  "global_class": 103,
-  "title": "TDAH y autorregulación",
-  "slug": "class-07-tdah-y-autorregulacion"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 8,
-  "global_class": 104,
-  "title": "Dificultades específicas del aprendizaje",
-  "slug": "class-08-dificultades-especificas-del-aprendizaje"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 9,
-  "global_class": 105,
-  "title": "Discapacidad sensorial y motora",
-  "slug": "class-09-discapacidad-sensorial-y-motora"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 10,
-  "global_class": 106,
-  "title": "Discapacidad intelectual",
-  "slug": "class-10-discapacidad-intelectual"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 11,
-  "global_class": 107,
-  "title": "Altas capacidades",
-  "slug": "class-11-altas-capacidades"
- },
- {
-  "part": 8,
-  "part_title": "Inclusión y educación especial",
-  "part_slug": "part-08-inclusion-y-educacion-especial",
-  "class": 12,
-  "global_class": 108,
-  "title": "Proyecto integrador: aula accesible",
-  "slug": "class-12-proyecto-integrador-aula-accesible"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 1,
-  "global_class": 109,
-  "title": "Concepto y niveles del currículum",
-  "slug": "class-01-concepto-y-niveles-del-curriculum"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 2,
-  "global_class": 110,
-  "title": "Perfil de egreso",
-  "slug": "class-02-perfil-de-egreso"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 3,
-  "global_class": 111,
-  "title": "Competencias",
-  "slug": "class-03-competencias"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 4,
-  "global_class": 112,
-  "title": "Resultados de aprendizaje",
-  "slug": "class-04-resultados-de-aprendizaje"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 5,
-  "global_class": 113,
-  "title": "Objetivos de aprendizaje",
-  "slug": "class-05-objetivos-de-aprendizaje"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 6,
-  "global_class": 114,
-  "title": "Secuenciación curricular",
-  "slug": "class-06-secuenciacion-curricular"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 7,
-  "global_class": 115,
-  "title": "Mapas curriculares",
-  "slug": "class-07-mapas-curriculares"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 8,
-  "global_class": 116,
-  "title": "Backward design",
-  "slug": "class-08-backward-design"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 9,
-  "global_class": 117,
-  "title": "Alineamiento constructivo",
-  "slug": "class-09-alineamiento-constructivo"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 10,
-  "global_class": 118,
-  "title": "Diseño de syllabus",
-  "slug": "class-10-diseno-de-syllabus"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 11,
-  "global_class": 119,
-  "title": "Planificación anual y por unidad",
-  "slug": "class-11-planificacion-anual-y-por-unidad"
- },
- {
-  "part": 9,
-  "part_title": "Diseño curricular",
-  "part_slug": "part-09-diseno-curricular",
-  "class": 12,
-  "global_class": 120,
-  "title": "Proyecto integrador: currículo completo",
-  "slug": "class-12-proyecto-integrador-curriculo-completo"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 1,
-  "global_class": 121,
-  "title": "Conocimiento pedagógico del contenido",
-  "slug": "class-01-conocimiento-pedagogico-del-contenido"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 2,
-  "global_class": 122,
-  "title": "Explicaciones efectivas",
-  "slug": "class-02-explicaciones-efectivas"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 3,
-  "global_class": 123,
-  "title": "Ejemplos y contraejemplos",
-  "slug": "class-03-ejemplos-y-contraejemplos"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 4,
-  "global_class": 124,
-  "title": "Preguntas de alto nivel",
-  "slug": "class-04-preguntas-de-alto-nivel"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 5,
-  "global_class": 125,
-  "title": "Diálogo socrático",
-  "slug": "class-05-dialogo-socratico"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 6,
-  "global_class": 126,
-  "title": "Modelamiento y think-aloud",
-  "slug": "class-06-modelamiento-y-think-aloud"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 7,
-  "global_class": 127,
-  "title": "Scaffolding",
-  "slug": "class-07-scaffolding"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 8,
-  "global_class": 128,
-  "title": "Práctica guiada e independiente",
-  "slug": "class-08-practica-guiada-e-independiente"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 9,
-  "global_class": 129,
-  "title": "Aprendizaje colaborativo",
-  "slug": "class-09-aprendizaje-colaborativo"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 10,
-  "global_class": 130,
-  "title": "Flipped classroom",
-  "slug": "class-10-flipped-classroom"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 11,
-  "global_class": 131,
-  "title": "Mastery learning",
-  "slug": "class-11-mastery-learning"
- },
- {
-  "part": 10,
-  "part_title": "Didáctica avanzada",
-  "part_slug": "part-10-didactica-avanzada",
-  "class": 12,
-  "global_class": 132,
-  "title": "Proyecto integrador: secuencia didáctica",
-  "slug": "class-12-proyecto-integrador-secuencia-didactica"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 1,
-  "global_class": 133,
-  "title": "Evaluación diagnóstica",
-  "slug": "class-01-evaluacion-diagnostica"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 2,
-  "global_class": 134,
-  "title": "Evaluación formativa",
-  "slug": "class-02-evaluacion-formativa"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 3,
-  "global_class": 135,
-  "title": "Evaluación sumativa",
-  "slug": "class-03-evaluacion-sumativa"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 4,
-  "global_class": 136,
-  "title": "Evaluación auténtica",
-  "slug": "class-04-evaluacion-autentica"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 5,
-  "global_class": 137,
-  "title": "Construcción de ítems",
-  "slug": "class-05-construccion-de-items"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 6,
-  "global_class": 138,
-  "title": "Rúbricas y escalas",
-  "slug": "class-06-rubricas-y-escalas"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 7,
-  "global_class": 139,
-  "title": "Retroalimentación efectiva",
-  "slug": "class-07-retroalimentacion-efectiva"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 8,
-  "global_class": 140,
-  "title": "Validez",
-  "slug": "class-08-validez"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 9,
-  "global_class": 141,
-  "title": "Confiabilidad",
-  "slug": "class-09-confiabilidad"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 10,
-  "global_class": 142,
-  "title": "Análisis de dificultad y discriminación",
-  "slug": "class-10-analisis-de-dificultad-y-discriminacion"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 11,
-  "global_class": 143,
-  "title": "Introducción a teoría clásica e IRT",
-  "slug": "class-11-introduccion-a-teoria-clasica-e-irt"
- },
- {
-  "part": 11,
-  "part_title": "Evaluación y psicometría",
-  "part_slug": "part-11-evaluacion-y-psicometria",
-  "class": 12,
-  "global_class": 144,
-  "title": "Proyecto integrador: sistema de evaluación",
-  "slug": "class-12-proyecto-integrador-sistema-de-evaluacion"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 1,
-  "global_class": 145,
-  "title": "Clima de aula",
-  "slug": "class-01-clima-de-aula"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 2,
-  "global_class": 146,
-  "title": "Normas y rutinas",
-  "slug": "class-02-normas-y-rutinas"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 3,
-  "global_class": 147,
-  "title": "Prevención de problemas de conducta",
-  "slug": "class-03-prevencion-de-problemas-de-conducta"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 4,
-  "global_class": 148,
-  "title": "Refuerzo y consecuencias",
-  "slug": "class-04-refuerzo-y-consecuencias"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 5,
-  "global_class": 149,
-  "title": "Comunicación docente",
-  "slug": "class-05-comunicacion-docente"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 6,
-  "global_class": 150,
-  "title": "Conflictos entre estudiantes",
-  "slug": "class-06-conflictos-entre-estudiantes"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 7,
-  "global_class": 151,
-  "title": "Desmotivación y resistencia",
-  "slug": "class-07-desmotivacion-y-resistencia"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 8,
-  "global_class": 152,
-  "title": "Copias, plagio e integridad",
-  "slug": "class-08-copias-plagio-e-integridad"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 9,
-  "global_class": 153,
-  "title": "Uso de celulares y distracciones",
-  "slug": "class-09-uso-de-celulares-y-distracciones"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 10,
-  "global_class": 154,
-  "title": "Trabajo con apoderados",
-  "slug": "class-10-trabajo-con-apoderados"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 11,
-  "global_class": 155,
-  "title": "Crisis y derivación responsable",
-  "slug": "class-11-crisis-y-derivacion-responsable"
- },
- {
-  "part": 12,
-  "part_title": "Gestión del aula y convivencia",
-  "part_slug": "part-12-gestion-del-aula-y-convivencia",
-  "class": 12,
-  "global_class": 156,
-  "title": "Proyecto integrador: plan de gestión de aula",
-  "slug": "class-12-proyecto-integrador-plan-de-gestion-de-aula"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 1,
-  "global_class": 157,
-  "title": "Competencia digital docente",
-  "slug": "class-01-competencia-digital-docente"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 2,
-  "global_class": 158,
-  "title": "LMS y aulas virtuales",
-  "slug": "class-02-lms-y-aulas-virtuales"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 3,
-  "global_class": 159,
-  "title": "Diseño de recursos digitales",
-  "slug": "class-03-diseno-de-recursos-digitales"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 4,
-  "global_class": 160,
-  "title": "Gamificación",
-  "slug": "class-04-gamificacion"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 5,
-  "global_class": 161,
-  "title": "Analítica de aprendizaje",
-  "slug": "class-05-analitica-de-aprendizaje"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 6,
-  "global_class": 162,
-  "title": "Aprendizaje adaptativo",
-  "slug": "class-06-aprendizaje-adaptativo"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 7,
-  "global_class": 163,
-  "title": "Fundamentos de IA para docentes",
-  "slug": "class-07-fundamentos-de-ia-para-docentes"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 8,
-  "global_class": 164,
-  "title": "LLM y generación de contenidos",
-  "slug": "class-08-llm-y-generacion-de-contenidos"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 9,
-  "global_class": 165,
-  "title": "RAG y tutores educativos",
-  "slug": "class-09-rag-y-tutores-educativos"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 10,
-  "global_class": 166,
-  "title": "Agentes educativos",
-  "slug": "class-10-agentes-educativos"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 11,
-  "global_class": 167,
-  "title": "Ética, privacidad y sesgos",
-  "slug": "class-11-etica-privacidad-y-sesgos"
- },
- {
-  "part": 13,
-  "part_title": "Tecnología e IA educativa",
-  "part_slug": "part-13-tecnologia-e-ia-educativa",
-  "class": 12,
-  "global_class": 168,
-  "title": "Proyecto integrador: tutor IA responsable",
-  "slug": "class-12-proyecto-integrador-tutor-ia-responsable"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 1,
-  "global_class": 169,
-  "title": "Aprendizaje en educación superior",
-  "slug": "class-01-aprendizaje-en-educacion-superior"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 2,
-  "global_class": 170,
-  "title": "Diseño de asignaturas",
-  "slug": "class-02-diseno-de-asignaturas"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 3,
-  "global_class": 171,
-  "title": "Syllabus universitario",
-  "slug": "class-03-syllabus-universitario"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 4,
-  "global_class": 172,
-  "title": "Clase magistral efectiva",
-  "slug": "class-04-clase-magistral-efectiva"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 5,
-  "global_class": 173,
-  "title": "Seminarios",
-  "slug": "class-05-seminarios"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 6,
-  "global_class": 174,
-  "title": "Laboratorios",
-  "slug": "class-06-laboratorios"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 7,
-  "global_class": 175,
-  "title": "Tutorías y ayudantías",
-  "slug": "class-07-tutorias-y-ayudantias"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 8,
-  "global_class": 176,
-  "title": "Evaluación universitaria",
-  "slug": "class-08-evaluacion-universitaria"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 9,
-  "global_class": 177,
-  "title": "Integridad académica",
-  "slug": "class-09-integridad-academica"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 10,
-  "global_class": 178,
-  "title": "Proyectos de título",
-  "slug": "class-10-proyectos-de-titulo"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 11,
-  "global_class": 179,
-  "title": "Supervisión inicial de investigación",
-  "slug": "class-11-supervision-inicial-de-investigacion"
- },
- {
-  "part": 14,
-  "part_title": "Docencia universitaria",
-  "part_slug": "part-14-docencia-universitaria",
-  "class": 12,
-  "global_class": 180,
-  "title": "Proyecto integrador: asignatura universitaria",
-  "slug": "class-12-proyecto-integrador-asignatura-universitaria"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 1,
-  "global_class": 181,
-  "title": "Liderazgo pedagógico",
-  "slug": "class-01-liderazgo-pedagogico"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 2,
-  "global_class": 182,
-  "title": "Cultura organizacional educativa",
-  "slug": "class-02-cultura-organizacional-educativa"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 3,
-  "global_class": 183,
-  "title": "Observación de clases",
-  "slug": "class-03-observacion-de-clases"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 4,
-  "global_class": 184,
-  "title": "Feedback a docentes",
-  "slug": "class-04-feedback-a-docentes"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 5,
-  "global_class": 185,
-  "title": "Comunidades profesionales de aprendizaje",
-  "slug": "class-05-comunidades-profesionales-de-aprendizaje"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 6,
-  "global_class": 186,
-  "title": "Planificación estratégica",
-  "slug": "class-06-planificacion-estrategica"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 7,
-  "global_class": 187,
-  "title": "Gestión de equipos",
-  "slug": "class-07-gestion-de-equipos"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 8,
-  "global_class": 188,
-  "title": "Indicadores educativos",
-  "slug": "class-08-indicadores-educativos"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 9,
-  "global_class": 189,
-  "title": "Mejora escolar",
-  "slug": "class-09-mejora-escolar"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 10,
-  "global_class": 190,
-  "title": "Innovación educativa",
-  "slug": "class-10-innovacion-educativa"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 11,
-  "global_class": 191,
-  "title": "Ética de la dirección",
-  "slug": "class-11-etica-de-la-direccion"
- },
- {
-  "part": 15,
-  "part_title": "Gestión y liderazgo educativo",
-  "part_slug": "part-15-gestion-y-liderazgo-educativo",
-  "class": 12,
-  "global_class": 192,
-  "title": "Proyecto integrador: plan de mejora institucional",
-  "slug": "class-12-proyecto-integrador-plan-de-mejora-institucional"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 1,
-  "global_class": 193,
-  "title": "Epistemología de la investigación",
-  "slug": "class-01-epistemologia-de-la-investigacion"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 2,
-  "global_class": 194,
-  "title": "Pregunta y problema de investigación",
-  "slug": "class-02-pregunta-y-problema-de-investigacion"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 3,
-  "global_class": 195,
-  "title": "Revisión de literatura",
-  "slug": "class-03-revision-de-literatura"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 4,
-  "global_class": 196,
-  "title": "Marco teórico",
-  "slug": "class-04-marco-teorico"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 5,
-  "global_class": 197,
-  "title": "Diseños cuantitativos",
-  "slug": "class-05-disenos-cuantitativos"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 6,
-  "global_class": 198,
-  "title": "Diseños cualitativos",
-  "slug": "class-06-disenos-cualitativos"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 7,
-  "global_class": 199,
-  "title": "Métodos mixtos",
-  "slug": "class-07-metodos-mixtos"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 8,
-  "global_class": 200,
-  "title": "Muestreo",
-  "slug": "class-08-muestreo"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 9,
-  "global_class": 201,
-  "title": "Estadística descriptiva e inferencial",
-  "slug": "class-09-estadistica-descriptiva-e-inferencial"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 10,
-  "global_class": 202,
-  "title": "Análisis temático",
-  "slug": "class-10-analisis-tematico"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 11,
-  "global_class": 203,
-  "title": "Ética y reproducibilidad",
-  "slug": "class-11-etica-y-reproducibilidad"
- },
- {
-  "part": 16,
-  "part_title": "Investigación educativa",
-  "part_slug": "part-16-investigacion-educativa",
-  "class": 12,
-  "global_class": 204,
-  "title": "Proyecto integrador: investigación de nivel magíster",
-  "slug": "class-12-proyecto-integrador-investigacion-de-nivel-magister"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 1,
-  "global_class": 205,
-  "title": "Problema doctoral y originalidad",
-  "slug": "class-01-problema-doctoral-y-originalidad"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 2,
-  "global_class": 206,
-  "title": "Contribución al conocimiento",
-  "slug": "class-02-contribucion-al-conocimiento"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 3,
-  "global_class": 207,
-  "title": "Diseños avanzados de investigación",
-  "slug": "class-03-disenos-avanzados-de-investigacion"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 4,
-  "global_class": 208,
-  "title": "Modelos longitudinales y multinivel",
-  "slug": "class-04-modelos-longitudinales-y-multinivel"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 5,
-  "global_class": 209,
-  "title": "Meta-análisis y revisión sistemática",
-  "slug": "class-05-meta-analisis-y-revision-sistematica"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 6,
-  "global_class": 210,
-  "title": "Investigación basada en diseño",
-  "slug": "class-06-investigacion-basada-en-diseno"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 7,
-  "global_class": 211,
-  "title": "Learning analytics avanzado",
-  "slug": "class-07-learning-analytics-avanzado"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 8,
-  "global_class": 212,
-  "title": "Escritura científica",
-  "slug": "class-08-escritura-cientifica"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 9,
-  "global_class": 213,
-  "title": "Publicación y peer review",
-  "slug": "class-09-publicacion-y-peer-review"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 10,
-  "global_class": 214,
-  "title": "Dirección y evaluación de tesis",
-  "slug": "class-10-direccion-y-evaluacion-de-tesis"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 11,
-  "global_class": 215,
-  "title": "Formación de docentes",
-  "slug": "class-11-formacion-de-docentes"
- },
- {
-  "part": 17,
-  "part_title": "Investigación doctoral y formación de formadores",
-  "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
-  "class": 12,
-  "global_class": 216,
-  "title": "Proyecto integrador: propuesta doctoral defendible",
-  "slug": "class-12-proyecto-integrador-propuesta-doctoral-defendible"
- }
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 1,
+    "global_class": 1,
+    "title": "Educación, pedagogía, enseñanza y aprendizaje",
+    "slug": "class-01-educacion-pedagogia-ensenanza-y-aprendizaje"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 2,
+    "global_class": 2,
+    "title": "Historia de la educación",
+    "slug": "class-02-historia-de-la-educacion"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 3,
+    "global_class": 3,
+    "title": "Filosofía de la educación",
+    "slug": "class-03-filosofia-de-la-educacion"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 4,
+    "global_class": 4,
+    "title": "Ética profesional docente",
+    "slug": "class-04-etica-profesional-docente"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 5,
+    "global_class": 5,
+    "title": "Sistemas educativos comparados",
+    "slug": "class-05-sistemas-educativos-comparados"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 6,
+    "global_class": 6,
+    "title": "Educación formal, no formal e informal",
+    "slug": "class-06-educacion-formal-no-formal-e-informal"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 7,
+    "global_class": 7,
+    "title": "Derecho a la educación",
+    "slug": "class-07-derecho-a-la-educacion"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 8,
+    "global_class": 8,
+    "title": "Rol social de la escuela",
+    "slug": "class-08-rol-social-de-la-escuela"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 9,
+    "global_class": 9,
+    "title": "Profesiones y roles educativos",
+    "slug": "class-09-profesiones-y-roles-educativos"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 10,
+    "global_class": 10,
+    "title": "Cultura escolar y comunidad",
+    "slug": "class-10-cultura-escolar-y-comunidad"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 11,
+    "global_class": 11,
+    "title": "Calidad y equidad educativa",
+    "slug": "class-11-calidad-y-equidad-educativa"
+  },
+  {
+    "part": 0,
+    "part_title": "Fundamentos de la educación",
+    "part_slug": "part-00-fundamentos-de-la-educacion",
+    "class": 12,
+    "global_class": 12,
+    "title": "Proyecto integrador: mapa del sistema educativo",
+    "slug": "class-12-proyecto-integrador-mapa-del-sistema-educativo"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 1,
+    "global_class": 13,
+    "title": "Conductismo y aprendizaje observable",
+    "slug": "class-01-conductismo-y-aprendizaje-observable"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 2,
+    "global_class": 14,
+    "title": "Cognitivismo y procesamiento de información",
+    "slug": "class-02-cognitivismo-y-procesamiento-de-informacion"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 3,
+    "global_class": 15,
+    "title": "Constructivismo",
+    "slug": "class-03-constructivismo"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 4,
+    "global_class": 16,
+    "title": "Socioconstructivismo y aprendizaje mediado",
+    "slug": "class-04-socioconstructivismo-y-aprendizaje-mediado"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 5,
+    "global_class": 17,
+    "title": "Memoria de trabajo y memoria de largo plazo",
+    "slug": "class-05-memoria-de-trabajo-y-memoria-de-largo-plazo"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 6,
+    "global_class": 18,
+    "title": "Atención y control ejecutivo",
+    "slug": "class-06-atencion-y-control-ejecutivo"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 7,
+    "global_class": 19,
+    "title": "Carga cognitiva",
+    "slug": "class-07-carga-cognitiva"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 8,
+    "global_class": 20,
+    "title": "Práctica de recuperación y espaciado",
+    "slug": "class-08-practica-de-recuperacion-y-espaciado"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 9,
+    "global_class": 21,
+    "title": "Metacognición",
+    "slug": "class-09-metacognicion"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 10,
+    "global_class": 22,
+    "title": "Motivación y autodeterminación",
+    "slug": "class-10-motivacion-y-autodeterminacion"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 11,
+    "global_class": 23,
+    "title": "Transferencia y aprendizaje profundo",
+    "slug": "class-11-transferencia-y-aprendizaje-profundo"
+  },
+  {
+    "part": 1,
+    "part_title": "Ciencias del aprendizaje",
+    "part_slug": "part-01-ciencias-del-aprendizaje",
+    "class": 12,
+    "global_class": 24,
+    "title": "Proyecto integrador: diseño basado en evidencia",
+    "slug": "class-12-proyecto-integrador-diseno-basado-en-evidencia"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 1,
+    "global_class": 25,
+    "title": "Desarrollo prenatal y primera infancia",
+    "slug": "class-01-desarrollo-prenatal-y-primera-infancia"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 2,
+    "global_class": 26,
+    "title": "Desarrollo motor y sensorial",
+    "slug": "class-02-desarrollo-motor-y-sensorial"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 3,
+    "global_class": 27,
+    "title": "Desarrollo del lenguaje",
+    "slug": "class-03-desarrollo-del-lenguaje"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 4,
+    "global_class": 28,
+    "title": "Desarrollo cognitivo",
+    "slug": "class-04-desarrollo-cognitivo"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 5,
+    "global_class": 29,
+    "title": "Desarrollo socioemocional",
+    "slug": "class-05-desarrollo-socioemocional"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 6,
+    "global_class": 30,
+    "title": "Apego y vínculos",
+    "slug": "class-06-apego-y-vinculos"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 7,
+    "global_class": 31,
+    "title": "Niñez media",
+    "slug": "class-07-ninez-media"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 8,
+    "global_class": 32,
+    "title": "Adolescencia",
+    "slug": "class-08-adolescencia"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 9,
+    "global_class": 33,
+    "title": "Adultez emergente y adultez",
+    "slug": "class-09-adultez-emergente-y-adultez"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 10,
+    "global_class": 34,
+    "title": "Envejecimiento y aprendizaje permanente",
+    "slug": "class-10-envejecimiento-y-aprendizaje-permanente"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 11,
+    "global_class": 35,
+    "title": "Diferencias individuales",
+    "slug": "class-11-diferencias-individuales"
+  },
+  {
+    "part": 2,
+    "part_title": "Desarrollo humano",
+    "part_slug": "part-02-desarrollo-humano",
+    "class": 12,
+    "global_class": 36,
+    "title": "Proyecto integrador: trayectoria de desarrollo",
+    "slug": "class-12-proyecto-integrador-trayectoria-de-desarrollo"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 1,
+    "global_class": 37,
+    "title": "Principios de educación parvularia",
+    "slug": "class-01-principios-de-educacion-parvularia"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 2,
+    "global_class": 38,
+    "title": "Juego y aprendizaje",
+    "slug": "class-02-juego-y-aprendizaje"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 3,
+    "global_class": 39,
+    "title": "Ambientes de aprendizaje",
+    "slug": "class-03-ambientes-de-aprendizaje"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 4,
+    "global_class": 40,
+    "title": "Lenguaje y alfabetización emergente",
+    "slug": "class-04-lenguaje-y-alfabetizacion-emergente"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 5,
+    "global_class": 41,
+    "title": "Pensamiento matemático temprano",
+    "slug": "class-05-pensamiento-matematico-temprano"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 6,
+    "global_class": 42,
+    "title": "Corporalidad y movimiento",
+    "slug": "class-06-corporalidad-y-movimiento"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 7,
+    "global_class": 43,
+    "title": "Arte, música y creatividad",
+    "slug": "class-07-arte-musica-y-creatividad"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 8,
+    "global_class": 44,
+    "title": "Exploración del entorno",
+    "slug": "class-08-exploracion-del-entorno"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 9,
+    "global_class": 45,
+    "title": "Desarrollo socioemocional",
+    "slug": "class-09-desarrollo-socioemocional"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 10,
+    "global_class": 46,
+    "title": "Observación y documentación pedagógica",
+    "slug": "class-10-observacion-y-documentacion-pedagogica"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 11,
+    "global_class": 47,
+    "title": "Familia y comunidad",
+    "slug": "class-11-familia-y-comunidad"
+  },
+  {
+    "part": 3,
+    "part_title": "Educación parvularia",
+    "part_slug": "part-03-educacion-parvularia",
+    "class": 12,
+    "global_class": 48,
+    "title": "Proyecto integrador: experiencia parvularia",
+    "slug": "class-12-proyecto-integrador-experiencia-parvularia"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 1,
+    "global_class": 49,
+    "title": "Didáctica de la lectura",
+    "slug": "class-01-didactica-de-la-lectura"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 2,
+    "global_class": 50,
+    "title": "Didáctica de la escritura",
+    "slug": "class-02-didactica-de-la-escritura"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 3,
+    "global_class": 51,
+    "title": "Didáctica de la matemática",
+    "slug": "class-03-didactica-de-la-matematica"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 4,
+    "global_class": 52,
+    "title": "Didáctica de las ciencias",
+    "slug": "class-04-didactica-de-las-ciencias"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 5,
+    "global_class": 53,
+    "title": "Historia, geografía y ciudadanía",
+    "slug": "class-05-historia-geografia-y-ciudadania"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 6,
+    "global_class": 54,
+    "title": "Arte y creatividad",
+    "slug": "class-06-arte-y-creatividad"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 7,
+    "global_class": 55,
+    "title": "Educación física y bienestar",
+    "slug": "class-07-educacion-fisica-y-bienestar"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 8,
+    "global_class": 56,
+    "title": "Tecnología y alfabetización digital",
+    "slug": "class-08-tecnologia-y-alfabetizacion-digital"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 9,
+    "global_class": 57,
+    "title": "Planificación de unidades",
+    "slug": "class-09-planificacion-de-unidades"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 10,
+    "global_class": 58,
+    "title": "Evaluación formativa en básica",
+    "slug": "class-10-evaluacion-formativa-en-basica"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 11,
+    "global_class": 59,
+    "title": "Gestión de aula en niñez media",
+    "slug": "class-11-gestion-de-aula-en-ninez-media"
+  },
+  {
+    "part": 4,
+    "part_title": "Educación básica",
+    "part_slug": "part-04-educacion-basica",
+    "class": 12,
+    "global_class": 60,
+    "title": "Proyecto integrador: unidad interdisciplinaria",
+    "slug": "class-12-proyecto-integrador-unidad-interdisciplinaria"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 1,
+    "global_class": 61,
+    "title": "Psicología de la adolescencia",
+    "slug": "class-01-psicologia-de-la-adolescencia"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 2,
+    "global_class": 62,
+    "title": "Identidad, pertenencia y motivación",
+    "slug": "class-02-identidad-pertenencia-y-motivacion"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 3,
+    "global_class": 63,
+    "title": "Autoridad pedagógica",
+    "slug": "class-03-autoridad-pedagogica"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 4,
+    "global_class": 64,
+    "title": "Gestión de aula adolescente",
+    "slug": "class-04-gestion-de-aula-adolescente"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 5,
+    "global_class": 65,
+    "title": "Aprendizaje basado en proyectos",
+    "slug": "class-05-aprendizaje-basado-en-proyectos"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 6,
+    "global_class": 66,
+    "title": "Aprendizaje basado en problemas",
+    "slug": "class-06-aprendizaje-basado-en-problemas"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 7,
+    "global_class": 67,
+    "title": "Debate y argumentación",
+    "slug": "class-07-debate-y-argumentacion"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 8,
+    "global_class": 68,
+    "title": "STEM y STEAM",
+    "slug": "class-08-stem-y-steam"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 9,
+    "global_class": 69,
+    "title": "Orientación vocacional",
+    "slug": "class-09-orientacion-vocacional"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 10,
+    "global_class": 70,
+    "title": "Ciudadanía digital",
+    "slug": "class-10-ciudadania-digital"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 11,
+    "global_class": 71,
+    "title": "Evaluación auténtica",
+    "slug": "class-11-evaluacion-autentica"
+  },
+  {
+    "part": 5,
+    "part_title": "Educación media y adolescencia",
+    "part_slug": "part-05-educacion-media-y-adolescencia",
+    "class": 12,
+    "global_class": 72,
+    "title": "Proyecto integrador: desafío de educación media",
+    "slug": "class-12-proyecto-integrador-desafio-de-educacion-media"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 1,
+    "global_class": 73,
+    "title": "Formación por competencias",
+    "slug": "class-01-formacion-por-competencias"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 2,
+    "global_class": 74,
+    "title": "Aprendizaje situado",
+    "slug": "class-02-aprendizaje-situado"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 3,
+    "global_class": 75,
+    "title": "Talleres y laboratorios",
+    "slug": "class-03-talleres-y-laboratorios"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 4,
+    "global_class": 76,
+    "title": "Seguridad y cultura preventiva",
+    "slug": "class-04-seguridad-y-cultura-preventiva"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 5,
+    "global_class": 77,
+    "title": "Rúbricas de desempeño",
+    "slug": "class-05-rubricas-de-desempeno"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 6,
+    "global_class": 78,
+    "title": "Portafolio de evidencias",
+    "slug": "class-06-portafolio-de-evidencias"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 7,
+    "global_class": 79,
+    "title": "Aprendizaje dual",
+    "slug": "class-07-aprendizaje-dual"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 8,
+    "global_class": 80,
+    "title": "Vínculo educación-empresa",
+    "slug": "class-08-vinculo-educacion-empresa"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 9,
+    "global_class": 81,
+    "title": "Práctica profesional",
+    "slug": "class-09-practica-profesional"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 10,
+    "global_class": 82,
+    "title": "Competencias transversales",
+    "slug": "class-10-competencias-transversales"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 11,
+    "global_class": 83,
+    "title": "Empleabilidad y transición al trabajo",
+    "slug": "class-11-empleabilidad-y-transicion-al-trabajo"
+  },
+  {
+    "part": 6,
+    "part_title": "Educación técnico-profesional",
+    "part_slug": "part-06-educacion-tecnico-profesional",
+    "class": 12,
+    "global_class": 84,
+    "title": "Proyecto integrador: módulo TP",
+    "slug": "class-12-proyecto-integrador-modulo-tp"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 1,
+    "global_class": 85,
+    "title": "Principios de andragogía",
+    "slug": "class-01-principios-de-andragogia"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 2,
+    "global_class": 86,
+    "title": "Experiencia previa como recurso",
+    "slug": "class-02-experiencia-previa-como-recurso"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 3,
+    "global_class": 87,
+    "title": "Aprendizaje autodirigido",
+    "slug": "class-03-aprendizaje-autodirigido"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 4,
+    "global_class": 88,
+    "title": "Motivación en adultos",
+    "slug": "class-04-motivacion-en-adultos"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 5,
+    "global_class": 89,
+    "title": "Capacitación laboral",
+    "slug": "class-05-capacitacion-laboral"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 6,
+    "global_class": 90,
+    "title": "Reskilling y upskilling",
+    "slug": "class-06-reskilling-y-upskilling"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 7,
+    "global_class": 91,
+    "title": "Microlearning",
+    "slug": "class-07-microlearning"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 8,
+    "global_class": 92,
+    "title": "Mentoría",
+    "slug": "class-08-mentoria"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 9,
+    "global_class": 93,
+    "title": "Coaching educativo",
+    "slug": "class-09-coaching-educativo"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 10,
+    "global_class": 94,
+    "title": "Aprendizaje experiencial",
+    "slug": "class-10-aprendizaje-experiencial"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 11,
+    "global_class": 95,
+    "title": "Evaluación en formación de adultos",
+    "slug": "class-11-evaluacion-en-formacion-de-adultos"
+  },
+  {
+    "part": 7,
+    "part_title": "Educación de adultos y andragogía",
+    "part_slug": "part-07-educacion-de-adultos-y-andragogia",
+    "class": 12,
+    "global_class": 96,
+    "title": "Proyecto integrador: programa de capacitación",
+    "slug": "class-12-proyecto-integrador-programa-de-capacitacion"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 1,
+    "global_class": 97,
+    "title": "Educación inclusiva",
+    "slug": "class-01-educacion-inclusiva"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 2,
+    "global_class": 98,
+    "title": "Barreras para el aprendizaje y la participación",
+    "slug": "class-02-barreras-para-el-aprendizaje-y-la-participacion"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 3,
+    "global_class": 99,
+    "title": "Diseño Universal para el Aprendizaje",
+    "slug": "class-03-diseno-universal-para-el-aprendizaje"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 4,
+    "global_class": 100,
+    "title": "Diversificación de la enseñanza",
+    "slug": "class-04-diversificacion-de-la-ensenanza"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 5,
+    "global_class": 101,
+    "title": "Necesidades educativas especiales",
+    "slug": "class-05-necesidades-educativas-especiales"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 6,
+    "global_class": 102,
+    "title": "Autismo y apoyos educativos",
+    "slug": "class-06-autismo-y-apoyos-educativos"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 7,
+    "global_class": 103,
+    "title": "TDAH y autorregulación",
+    "slug": "class-07-tdah-y-autorregulacion"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 8,
+    "global_class": 104,
+    "title": "Dificultades específicas del aprendizaje",
+    "slug": "class-08-dificultades-especificas-del-aprendizaje"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 9,
+    "global_class": 105,
+    "title": "Discapacidad sensorial y motora",
+    "slug": "class-09-discapacidad-sensorial-y-motora"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 10,
+    "global_class": 106,
+    "title": "Discapacidad intelectual",
+    "slug": "class-10-discapacidad-intelectual"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 11,
+    "global_class": 107,
+    "title": "Altas capacidades",
+    "slug": "class-11-altas-capacidades"
+  },
+  {
+    "part": 8,
+    "part_title": "Inclusión y educación especial",
+    "part_slug": "part-08-inclusion-y-educacion-especial",
+    "class": 12,
+    "global_class": 108,
+    "title": "Proyecto integrador: aula accesible",
+    "slug": "class-12-proyecto-integrador-aula-accesible"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 1,
+    "global_class": 109,
+    "title": "Concepto y niveles del currículum",
+    "slug": "class-01-concepto-y-niveles-del-curriculum"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 2,
+    "global_class": 110,
+    "title": "Perfil de egreso",
+    "slug": "class-02-perfil-de-egreso"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 3,
+    "global_class": 111,
+    "title": "Competencias",
+    "slug": "class-03-competencias"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 4,
+    "global_class": 112,
+    "title": "Resultados de aprendizaje",
+    "slug": "class-04-resultados-de-aprendizaje"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 5,
+    "global_class": 113,
+    "title": "Objetivos de aprendizaje",
+    "slug": "class-05-objetivos-de-aprendizaje"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 6,
+    "global_class": 114,
+    "title": "Secuenciación curricular",
+    "slug": "class-06-secuenciacion-curricular"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 7,
+    "global_class": 115,
+    "title": "Mapas curriculares",
+    "slug": "class-07-mapas-curriculares"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 8,
+    "global_class": 116,
+    "title": "Backward design",
+    "slug": "class-08-backward-design"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 9,
+    "global_class": 117,
+    "title": "Alineamiento constructivo",
+    "slug": "class-09-alineamiento-constructivo"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 10,
+    "global_class": 118,
+    "title": "Diseño de syllabus",
+    "slug": "class-10-diseno-de-syllabus"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 11,
+    "global_class": 119,
+    "title": "Planificación anual y por unidad",
+    "slug": "class-11-planificacion-anual-y-por-unidad"
+  },
+  {
+    "part": 9,
+    "part_title": "Diseño curricular",
+    "part_slug": "part-09-diseno-curricular",
+    "class": 12,
+    "global_class": 120,
+    "title": "Proyecto integrador: currículo completo",
+    "slug": "class-12-proyecto-integrador-curriculo-completo"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 1,
+    "global_class": 121,
+    "title": "Conocimiento pedagógico del contenido",
+    "slug": "class-01-conocimiento-pedagogico-del-contenido"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 2,
+    "global_class": 122,
+    "title": "Explicaciones efectivas",
+    "slug": "class-02-explicaciones-efectivas"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 3,
+    "global_class": 123,
+    "title": "Ejemplos y contraejemplos",
+    "slug": "class-03-ejemplos-y-contraejemplos"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 4,
+    "global_class": 124,
+    "title": "Preguntas de alto nivel",
+    "slug": "class-04-preguntas-de-alto-nivel"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 5,
+    "global_class": 125,
+    "title": "Diálogo socrático",
+    "slug": "class-05-dialogo-socratico"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 6,
+    "global_class": 126,
+    "title": "Modelamiento y think-aloud",
+    "slug": "class-06-modelamiento-y-think-aloud"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 7,
+    "global_class": 127,
+    "title": "Scaffolding",
+    "slug": "class-07-scaffolding"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 8,
+    "global_class": 128,
+    "title": "Práctica guiada e independiente",
+    "slug": "class-08-practica-guiada-e-independiente"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 9,
+    "global_class": 129,
+    "title": "Aprendizaje colaborativo",
+    "slug": "class-09-aprendizaje-colaborativo"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 10,
+    "global_class": 130,
+    "title": "Flipped classroom",
+    "slug": "class-10-flipped-classroom"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 11,
+    "global_class": 131,
+    "title": "Mastery learning",
+    "slug": "class-11-mastery-learning"
+  },
+  {
+    "part": 10,
+    "part_title": "Didáctica avanzada",
+    "part_slug": "part-10-didactica-avanzada",
+    "class": 12,
+    "global_class": 132,
+    "title": "Proyecto integrador: secuencia didáctica",
+    "slug": "class-12-proyecto-integrador-secuencia-didactica"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 1,
+    "global_class": 133,
+    "title": "Evaluación diagnóstica",
+    "slug": "class-01-evaluacion-diagnostica"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 2,
+    "global_class": 134,
+    "title": "Evaluación formativa",
+    "slug": "class-02-evaluacion-formativa"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 3,
+    "global_class": 135,
+    "title": "Evaluación sumativa",
+    "slug": "class-03-evaluacion-sumativa"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 4,
+    "global_class": 136,
+    "title": "Evaluación auténtica",
+    "slug": "class-04-evaluacion-autentica"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 5,
+    "global_class": 137,
+    "title": "Construcción de ítems",
+    "slug": "class-05-construccion-de-items"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 6,
+    "global_class": 138,
+    "title": "Rúbricas y escalas",
+    "slug": "class-06-rubricas-y-escalas"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 7,
+    "global_class": 139,
+    "title": "Retroalimentación efectiva",
+    "slug": "class-07-retroalimentacion-efectiva"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 8,
+    "global_class": 140,
+    "title": "Validez",
+    "slug": "class-08-validez"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 9,
+    "global_class": 141,
+    "title": "Confiabilidad",
+    "slug": "class-09-confiabilidad"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 10,
+    "global_class": 142,
+    "title": "Análisis de dificultad y discriminación",
+    "slug": "class-10-analisis-de-dificultad-y-discriminacion"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 11,
+    "global_class": 143,
+    "title": "Introducción a teoría clásica e IRT",
+    "slug": "class-11-introduccion-a-teoria-clasica-e-irt"
+  },
+  {
+    "part": 11,
+    "part_title": "Evaluación y psicometría",
+    "part_slug": "part-11-evaluacion-y-psicometria",
+    "class": 12,
+    "global_class": 144,
+    "title": "Proyecto integrador: sistema de evaluación",
+    "slug": "class-12-proyecto-integrador-sistema-de-evaluacion"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 1,
+    "global_class": 145,
+    "title": "Clima de aula",
+    "slug": "class-01-clima-de-aula"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 2,
+    "global_class": 146,
+    "title": "Normas y rutinas",
+    "slug": "class-02-normas-y-rutinas"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 3,
+    "global_class": 147,
+    "title": "Prevención de problemas de conducta",
+    "slug": "class-03-prevencion-de-problemas-de-conducta"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 4,
+    "global_class": 148,
+    "title": "Refuerzo y consecuencias",
+    "slug": "class-04-refuerzo-y-consecuencias"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 5,
+    "global_class": 149,
+    "title": "Comunicación docente",
+    "slug": "class-05-comunicacion-docente"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 6,
+    "global_class": 150,
+    "title": "Conflictos entre estudiantes",
+    "slug": "class-06-conflictos-entre-estudiantes"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 7,
+    "global_class": 151,
+    "title": "Desmotivación y resistencia",
+    "slug": "class-07-desmotivacion-y-resistencia"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 8,
+    "global_class": 152,
+    "title": "Copias, plagio e integridad",
+    "slug": "class-08-copias-plagio-e-integridad"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 9,
+    "global_class": 153,
+    "title": "Uso de celulares y distracciones",
+    "slug": "class-09-uso-de-celulares-y-distracciones"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 10,
+    "global_class": 154,
+    "title": "Trabajo con apoderados",
+    "slug": "class-10-trabajo-con-apoderados"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 11,
+    "global_class": 155,
+    "title": "Crisis y derivación responsable",
+    "slug": "class-11-crisis-y-derivacion-responsable"
+  },
+  {
+    "part": 12,
+    "part_title": "Gestión del aula y convivencia",
+    "part_slug": "part-12-gestion-del-aula-y-convivencia",
+    "class": 12,
+    "global_class": 156,
+    "title": "Proyecto integrador: plan de gestión de aula",
+    "slug": "class-12-proyecto-integrador-plan-de-gestion-de-aula"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 1,
+    "global_class": 157,
+    "title": "Competencia digital docente",
+    "slug": "class-01-competencia-digital-docente"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 2,
+    "global_class": 158,
+    "title": "LMS y aulas virtuales",
+    "slug": "class-02-lms-y-aulas-virtuales"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 3,
+    "global_class": 159,
+    "title": "Diseño de recursos digitales",
+    "slug": "class-03-diseno-de-recursos-digitales"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 4,
+    "global_class": 160,
+    "title": "Gamificación",
+    "slug": "class-04-gamificacion"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 5,
+    "global_class": 161,
+    "title": "Analítica de aprendizaje",
+    "slug": "class-05-analitica-de-aprendizaje"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 6,
+    "global_class": 162,
+    "title": "Aprendizaje adaptativo",
+    "slug": "class-06-aprendizaje-adaptativo"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 7,
+    "global_class": 163,
+    "title": "Fundamentos de IA para docentes",
+    "slug": "class-07-fundamentos-de-ia-para-docentes"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 8,
+    "global_class": 164,
+    "title": "LLM y generación de contenidos",
+    "slug": "class-08-llm-y-generacion-de-contenidos"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 9,
+    "global_class": 165,
+    "title": "RAG y tutores educativos",
+    "slug": "class-09-rag-y-tutores-educativos"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 10,
+    "global_class": 166,
+    "title": "Agentes educativos",
+    "slug": "class-10-agentes-educativos"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 11,
+    "global_class": 167,
+    "title": "Ética, privacidad y sesgos",
+    "slug": "class-11-etica-privacidad-y-sesgos"
+  },
+  {
+    "part": 13,
+    "part_title": "Tecnología e IA educativa",
+    "part_slug": "part-13-tecnologia-e-ia-educativa",
+    "class": 12,
+    "global_class": 168,
+    "title": "Proyecto integrador: tutor IA responsable",
+    "slug": "class-12-proyecto-integrador-tutor-ia-responsable"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 1,
+    "global_class": 169,
+    "title": "Aprendizaje en educación superior",
+    "slug": "class-01-aprendizaje-en-educacion-superior"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 2,
+    "global_class": 170,
+    "title": "Diseño de asignaturas",
+    "slug": "class-02-diseno-de-asignaturas"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 3,
+    "global_class": 171,
+    "title": "Syllabus universitario",
+    "slug": "class-03-syllabus-universitario"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 4,
+    "global_class": 172,
+    "title": "Clase magistral efectiva",
+    "slug": "class-04-clase-magistral-efectiva"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 5,
+    "global_class": 173,
+    "title": "Seminarios",
+    "slug": "class-05-seminarios"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 6,
+    "global_class": 174,
+    "title": "Laboratorios",
+    "slug": "class-06-laboratorios"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 7,
+    "global_class": 175,
+    "title": "Tutorías y ayudantías",
+    "slug": "class-07-tutorias-y-ayudantias"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 8,
+    "global_class": 176,
+    "title": "Evaluación universitaria",
+    "slug": "class-08-evaluacion-universitaria"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 9,
+    "global_class": 177,
+    "title": "Integridad académica",
+    "slug": "class-09-integridad-academica"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 10,
+    "global_class": 178,
+    "title": "Proyectos de título",
+    "slug": "class-10-proyectos-de-titulo"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 11,
+    "global_class": 179,
+    "title": "Supervisión inicial de investigación",
+    "slug": "class-11-supervision-inicial-de-investigacion"
+  },
+  {
+    "part": 14,
+    "part_title": "Docencia universitaria",
+    "part_slug": "part-14-docencia-universitaria",
+    "class": 12,
+    "global_class": 180,
+    "title": "Proyecto integrador: asignatura universitaria",
+    "slug": "class-12-proyecto-integrador-asignatura-universitaria"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 1,
+    "global_class": 181,
+    "title": "Liderazgo pedagógico",
+    "slug": "class-01-liderazgo-pedagogico"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 2,
+    "global_class": 182,
+    "title": "Cultura organizacional educativa",
+    "slug": "class-02-cultura-organizacional-educativa"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 3,
+    "global_class": 183,
+    "title": "Observación de clases",
+    "slug": "class-03-observacion-de-clases"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 4,
+    "global_class": 184,
+    "title": "Feedback a docentes",
+    "slug": "class-04-feedback-a-docentes"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 5,
+    "global_class": 185,
+    "title": "Comunidades profesionales de aprendizaje",
+    "slug": "class-05-comunidades-profesionales-de-aprendizaje"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 6,
+    "global_class": 186,
+    "title": "Planificación estratégica",
+    "slug": "class-06-planificacion-estrategica"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 7,
+    "global_class": 187,
+    "title": "Gestión de equipos",
+    "slug": "class-07-gestion-de-equipos"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 8,
+    "global_class": 188,
+    "title": "Indicadores educativos",
+    "slug": "class-08-indicadores-educativos"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 9,
+    "global_class": 189,
+    "title": "Mejora escolar",
+    "slug": "class-09-mejora-escolar"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 10,
+    "global_class": 190,
+    "title": "Innovación educativa",
+    "slug": "class-10-innovacion-educativa"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 11,
+    "global_class": 191,
+    "title": "Ética de la dirección",
+    "slug": "class-11-etica-de-la-direccion"
+  },
+  {
+    "part": 15,
+    "part_title": "Gestión y liderazgo educativo",
+    "part_slug": "part-15-gestion-y-liderazgo-educativo",
+    "class": 12,
+    "global_class": 192,
+    "title": "Proyecto integrador: plan de mejora institucional",
+    "slug": "class-12-proyecto-integrador-plan-de-mejora-institucional"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 1,
+    "global_class": 193,
+    "title": "Epistemología de la investigación",
+    "slug": "class-01-epistemologia-de-la-investigacion"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 2,
+    "global_class": 194,
+    "title": "Pregunta y problema de investigación",
+    "slug": "class-02-pregunta-y-problema-de-investigacion"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 3,
+    "global_class": 195,
+    "title": "Revisión de literatura",
+    "slug": "class-03-revision-de-literatura"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 4,
+    "global_class": 196,
+    "title": "Marco teórico",
+    "slug": "class-04-marco-teorico"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 5,
+    "global_class": 197,
+    "title": "Diseños cuantitativos",
+    "slug": "class-05-disenos-cuantitativos"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 6,
+    "global_class": 198,
+    "title": "Diseños cualitativos",
+    "slug": "class-06-disenos-cualitativos"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 7,
+    "global_class": 199,
+    "title": "Métodos mixtos",
+    "slug": "class-07-metodos-mixtos"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 8,
+    "global_class": 200,
+    "title": "Muestreo",
+    "slug": "class-08-muestreo"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 9,
+    "global_class": 201,
+    "title": "Estadística descriptiva e inferencial",
+    "slug": "class-09-estadistica-descriptiva-e-inferencial"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 10,
+    "global_class": 202,
+    "title": "Análisis temático",
+    "slug": "class-10-analisis-tematico"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 11,
+    "global_class": 203,
+    "title": "Ética y reproducibilidad",
+    "slug": "class-11-etica-y-reproducibilidad"
+  },
+  {
+    "part": 16,
+    "part_title": "Investigación educativa",
+    "part_slug": "part-16-investigacion-educativa",
+    "class": 12,
+    "global_class": 204,
+    "title": "Proyecto integrador: investigación de nivel magíster",
+    "slug": "class-12-proyecto-integrador-investigacion-de-nivel-magister"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 1,
+    "global_class": 205,
+    "title": "Problema doctoral y originalidad",
+    "slug": "class-01-problema-doctoral-y-originalidad"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 2,
+    "global_class": 206,
+    "title": "Contribución al conocimiento",
+    "slug": "class-02-contribucion-al-conocimiento"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 3,
+    "global_class": 207,
+    "title": "Diseños avanzados de investigación",
+    "slug": "class-03-disenos-avanzados-de-investigacion"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 4,
+    "global_class": 208,
+    "title": "Modelos longitudinales y multinivel",
+    "slug": "class-04-modelos-longitudinales-y-multinivel"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 5,
+    "global_class": 209,
+    "title": "Meta-análisis y revisión sistemática",
+    "slug": "class-05-meta-analisis-y-revision-sistematica"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 6,
+    "global_class": 210,
+    "title": "Investigación basada en diseño",
+    "slug": "class-06-investigacion-basada-en-diseno"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 7,
+    "global_class": 211,
+    "title": "Learning analytics avanzado",
+    "slug": "class-07-learning-analytics-avanzado"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 8,
+    "global_class": 212,
+    "title": "Escritura científica",
+    "slug": "class-08-escritura-cientifica"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 9,
+    "global_class": 213,
+    "title": "Publicación y peer review",
+    "slug": "class-09-publicacion-y-peer-review"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 10,
+    "global_class": 214,
+    "title": "Dirección y evaluación de tesis",
+    "slug": "class-10-direccion-y-evaluacion-de-tesis"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 11,
+    "global_class": 215,
+    "title": "Formación de docentes",
+    "slug": "class-11-formacion-de-docentes"
+  },
+  {
+    "part": 17,
+    "part_title": "Investigación doctoral y formación de formadores",
+    "part_slug": "part-17-investigacion-doctoral-y-formacion-de-formadores",
+    "class": 12,
+    "global_class": 216,
+    "title": "Proyecto integrador: propuesta doctoral defendible",
+    "slug": "class-12-proyecto-integrador-propuesta-doctoral-defendible"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 1,
+    "global_class": 217,
+    "title": "Qué resolvió la ciencia de la lectura",
+    "slug": "class-01-que-resolvio-la-ciencia-de-la-lectura"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 2,
+    "global_class": 218,
+    "title": "Conciencia fonológica y principio alfabético",
+    "slug": "class-02-conciencia-fonologica-y-principio-alfabetico"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 3,
+    "global_class": 219,
+    "title": "Enseñanza explícita de correspondencias en español",
+    "slug": "class-03-ensenanza-explicita-de-correspondencias-en-espanol"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 4,
+    "global_class": 220,
+    "title": "Fluidez lectora: medirla y desarrollarla",
+    "slug": "class-04-fluidez-lectora-medirla-y-desarrollarla"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 5,
+    "global_class": 221,
+    "title": "Vocabulario y conocimiento del mundo",
+    "slug": "class-05-vocabulario-y-conocimiento-del-mundo"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 6,
+    "global_class": 222,
+    "title": "Comprensión lectora y sus estrategias",
+    "slug": "class-06-comprension-lectora-y-sus-estrategias"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 7,
+    "global_class": 223,
+    "title": "Enseñanza de la escritura inicial",
+    "slug": "class-07-ensenanza-de-la-escritura-inicial"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 8,
+    "global_class": 224,
+    "title": "Dislexia y dificultades específicas de lectura",
+    "slug": "class-08-dislexia-y-dificultades-especificas-de-lectura"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 9,
+    "global_class": 225,
+    "title": "Evaluación de la lectura por componentes",
+    "slug": "class-09-evaluacion-de-la-lectura-por-componentes"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 10,
+    "global_class": 226,
+    "title": "Intervención por niveles y grupos de refuerzo",
+    "slug": "class-10-intervencion-por-niveles-y-grupos-de-refuerzo"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 11,
+    "global_class": 227,
+    "title": "Alfabetización disciplinar en las asignaturas",
+    "slug": "class-11-alfabetizacion-disciplinar-en-las-asignaturas"
+  },
+  {
+    "part": 18,
+    "part_title": "Alfabetización inicial y ciencia de la lectura",
+    "part_slug": "part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura",
+    "class": 12,
+    "global_class": 228,
+    "title": "Proyecto integrador: plan lector de establecimiento",
+    "slug": "class-12-proyecto-integrador"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 1,
+    "global_class": 229,
+    "title": "Cómo se compara un enfoque pedagógico",
+    "slug": "class-01-como-se-compara-un-enfoque-pedagogico"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 2,
+    "global_class": 230,
+    "title": "Instrucción explícita y enseñanza directa",
+    "slug": "class-02-instruccion-explicita-y-ensenanza-directa"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 3,
+    "global_class": 231,
+    "title": "Indagación y descubrimiento guiado",
+    "slug": "class-03-indagacion-y-descubrimiento-guiado"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 4,
+    "global_class": 232,
+    "title": "Conductismo, cognitivismo y constructivismo",
+    "slug": "class-04-conductismo-cognitivismo-y-constructivismo"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 5,
+    "global_class": 233,
+    "title": "Montessori, Waldorf y Reggio Emilia",
+    "slug": "class-05-montessori-waldorf-y-reggio-emilia"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 6,
+    "global_class": 234,
+    "title": "Freinet, Escuela Nueva y pedagogías activas",
+    "slug": "class-06-freinet-escuela-nueva-y-pedagogias-activas"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 7,
+    "global_class": 235,
+    "title": "Pedagogía crítica y educación popular",
+    "slug": "class-07-pedagogia-critica-y-educacion-popular"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 8,
+    "global_class": 236,
+    "title": "Familias del aprendizaje basado en algo",
+    "slug": "class-08-familias-del-aprendizaje-basado-en-algo"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 9,
+    "global_class": 237,
+    "title": "Aprendizaje-servicio y vínculo comunitario",
+    "slug": "class-09-aprendizaje-servicio-y-vinculo-comunitario"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 10,
+    "global_class": 238,
+    "title": "Gamificación y juego serio",
+    "slug": "class-10-gamificacion-y-juego-serio"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 11,
+    "global_class": 239,
+    "title": "Enfoque por competencias y su coherencia",
+    "slug": "class-11-enfoque-por-competencias-y-su-coherencia"
+  },
+  {
+    "part": 19,
+    "part_title": "Metodologías y enfoques pedagógicos",
+    "part_slug": "part-19-metodologias-y-enfoques-pedagogicos",
+    "class": 12,
+    "global_class": 240,
+    "title": "Proyecto integrador: decisión metodológica fundamentada",
+    "slug": "class-12-proyecto-integrador"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 1,
+    "global_class": 241,
+    "title": "De la categoría diagnóstica a la estrategia de aula",
+    "slug": "class-01-de-la-categoria-diagnostica-a-la-estrategia-de-aula"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 2,
+    "global_class": 242,
+    "title": "TDAH: atención, autorregulación y organización",
+    "slug": "class-02-tdah-atencion-autorregulacion-y-organizacion"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 3,
+    "global_class": 243,
+    "title": "Síndrome de Down: aprendizaje, lenguaje y participación",
+    "slug": "class-03-sindrome-de-down-aprendizaje-lenguaje-y-participacion"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 4,
+    "global_class": 244,
+    "title": "Autismo: estructura, anticipación y comunicación",
+    "slug": "class-04-autismo-estructura-anticipacion-y-comunicacion"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 5,
+    "global_class": 245,
+    "title": "Discapacidad intelectual y acceso al currículum",
+    "slug": "class-05-discapacidad-intelectual-y-acceso-al-curriculum"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 6,
+    "global_class": 246,
+    "title": "Dislexia, disgrafía y discalculia en el aula común",
+    "slug": "class-06-dislexia-disgrafia-y-discalculia-en-el-aula-comun"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 7,
+    "global_class": 247,
+    "title": "Discapacidad visual y auditiva: estrategias de acceso",
+    "slug": "class-07-discapacidad-visual-y-auditiva-estrategias-de-acceso"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 8,
+    "global_class": 248,
+    "title": "Discapacidad motora y comunicación aumentativa",
+    "slug": "class-08-discapacidad-motora-y-comunicacion-aumentativa"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 9,
+    "global_class": 249,
+    "title": "Trastornos del lenguaje y de la comunicación",
+    "slug": "class-09-trastornos-del-lenguaje-y-de-la-comunicacion"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 10,
+    "global_class": 250,
+    "title": "Altas capacidades: enriquecimiento y aceleración",
+    "slug": "class-10-altas-capacidades-enriquecimiento-y-aceleracion"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 11,
+    "global_class": 251,
+    "title": "Acompañamiento diferenciado y codocencia",
+    "slug": "class-11-acompanamiento-diferenciado-y-codocencia"
+  },
+  {
+    "part": 20,
+    "part_title": "Estrategias pedagógicas para necesidades educativas específicas",
+    "part_slug": "part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas",
+    "class": 12,
+    "global_class": 252,
+    "title": "Proyecto integrador: plan de apoyo con estrategias verificables",
+    "slug": "class-12-proyecto-integrador"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 1,
+    "global_class": 253,
+    "title": "Desenganche escolar y ausentismo crónico",
+    "slug": "class-01-desenganche-escolar-y-ausentismo-cronico"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 2,
+    "global_class": 254,
+    "title": "Falta de sentido: por qué estudiar dejó de ser evidente",
+    "slug": "class-02-falta-de-sentido-por-que-estudiar-dejo-de-ser-evidente"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 3,
+    "global_class": 255,
+    "title": "Atención, pantallas y fragmentación cognitiva",
+    "slug": "class-03-atencion-pantallas-y-fragmentacion-cognitiva"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 4,
+    "global_class": 256,
+    "title": "Violencia escolar: tipos, factores y respuesta",
+    "slug": "class-04-violencia-escolar-tipos-factores-y-respuesta"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 5,
+    "global_class": 257,
+    "title": "Acoso escolar: detección e intervención con evidencia",
+    "slug": "class-05-acoso-escolar-deteccion-e-intervencion-con-evidencia"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 6,
+    "global_class": 258,
+    "title": "Ciberacoso y conflictos que entran desde fuera",
+    "slug": "class-06-ciberacoso-y-conflictos-que-entran-desde-fuera"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 7,
+    "global_class": 259,
+    "title": "Conductas agresivas y desregulación emocional",
+    "slug": "class-07-conductas-agresivas-y-desregulacion-emocional"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 8,
+    "global_class": 260,
+    "title": "Agresiones al docente y protección del equipo",
+    "slug": "class-08-agresiones-al-docente-y-proteccion-del-equipo"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 9,
+    "global_class": 261,
+    "title": "Mediación escolar y prácticas restaurativas",
+    "slug": "class-09-mediacion-escolar-y-practicas-restaurativas"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 10,
+    "global_class": 262,
+    "title": "Aulas numerosas y heterogéneas con recursos limitados",
+    "slug": "class-10-aulas-numerosas-y-heterogeneas-con-recursos-limitados"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 11,
+    "global_class": 263,
+    "title": "Consumo, riesgo psicosocial y derivación",
+    "slug": "class-11-consumo-riesgo-psicosocial-y-derivacion"
+  },
+  {
+    "part": 21,
+    "part_title": "Desafíos actuales del aula",
+    "part_slug": "part-21-desafios-actuales-del-aula",
+    "class": 12,
+    "global_class": 264,
+    "title": "Proyecto integrador: plan de convivencia con indicadores",
+    "slug": "class-12-proyecto-integrador"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 1,
+    "global_class": 265,
+    "title": "Lo que la escuela da por supuesto",
+    "slug": "class-01-lo-que-la-escuela-da-por-supuesto"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 2,
+    "global_class": 266,
+    "title": "Educación intercultural: del folclor al diálogo de saberes",
+    "slug": "class-02-educacion-intercultural-del-folclor-al-dialogo-de-saberes"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 3,
+    "global_class": 267,
+    "title": "Educación intercultural bilingüe y lenguas originarias",
+    "slug": "class-03-educacion-intercultural-bilingue-y-lenguas-originarias"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 4,
+    "global_class": 268,
+    "title": "Estudiantes migrantes: acogida, trayectoria y derechos",
+    "slug": "class-04-estudiantes-migrantes-acogida-trayectoria-y-derechos"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 5,
+    "global_class": 269,
+    "title": "Castellano como segunda lengua",
+    "slug": "class-05-castellano-como-segunda-lengua"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 6,
+    "global_class": 270,
+    "title": "Enseñanza de lenguas extranjeras",
+    "slug": "class-06-ensenanza-de-lenguas-extranjeras"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 7,
+    "global_class": 271,
+    "title": "Variedades lingüísticas y prejuicio",
+    "slug": "class-07-variedades-linguisticas-y-prejuicio"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 8,
+    "global_class": 272,
+    "title": "Educación rural: territorio y pertinencia",
+    "slug": "class-08-educacion-rural-territorio-y-pertinencia"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 9,
+    "global_class": 273,
+    "title": "Aula multigrado: varios niveles a la vez",
+    "slug": "class-09-aula-multigrado-varios-niveles-a-la-vez"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 10,
+    "global_class": 274,
+    "title": "Segregación escolar y efecto par",
+    "slug": "class-10-segregacion-escolar-y-efecto-par"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 11,
+    "global_class": 275,
+    "title": "Financiamiento, recursos y decisiones pedagógicas",
+    "slug": "class-11-financiamiento-recursos-y-decisiones-pedagogicas"
+  },
+  {
+    "part": 22,
+    "part_title": "Diversidad cultural, lingüística y territorial",
+    "part_slug": "part-22-diversidad-cultural-linguistica-y-territorial",
+    "class": 12,
+    "global_class": 276,
+    "title": "Proyecto integrador: plan de pertinencia cultural y territorial",
+    "slug": "class-12-proyecto-integrador"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 1,
+    "global_class": 277,
+    "title": "Salud mental escolar: alcance y límites de la escuela",
+    "slug": "class-01-salud-mental-escolar-alcance-y-limites-de-la-escuela"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 2,
+    "global_class": 278,
+    "title": "Ansiedad y estrés académico",
+    "slug": "class-02-ansiedad-y-estres-academico"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 3,
+    "global_class": 279,
+    "title": "Depresión, autolesión y riesgo suicida",
+    "slug": "class-03-depresion-autolesion-y-riesgo-suicida"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 4,
+    "global_class": 280,
+    "title": "Aprendizaje socioemocional: qué funciona",
+    "slug": "class-04-aprendizaje-socioemocional-que-funciona"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 5,
+    "global_class": 281,
+    "title": "Adversidad, trauma y prácticas sensibles",
+    "slug": "class-05-adversidad-trauma-y-practicas-sensibles"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 6,
+    "global_class": 282,
+    "title": "Duelo, crisis y emergencias en la comunidad",
+    "slug": "class-06-duelo-crisis-y-emergencias-en-la-comunidad"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 7,
+    "global_class": 283,
+    "title": "Afectividad y educación sexual integral",
+    "slug": "class-07-afectividad-y-educacion-sexual-integral"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 8,
+    "global_class": 284,
+    "title": "Convivencia digital, imagen y exposición",
+    "slug": "class-08-convivencia-digital-imagen-y-exposicion"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 9,
+    "global_class": 285,
+    "title": "Carga docente, tiempo y sostenibilidad",
+    "slug": "class-09-carga-docente-tiempo-y-sostenibilidad"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 10,
+    "global_class": 286,
+    "title": "Desgaste profesional y su prevención institucional",
+    "slug": "class-10-desgaste-profesional-y-su-prevencion-institucional"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 11,
+    "global_class": 287,
+    "title": "Cuidado del equipo y liderazgo del bienestar",
+    "slug": "class-11-cuidado-del-equipo-y-liderazgo-del-bienestar"
+  },
+  {
+    "part": 23,
+    "part_title": "Bienestar, salud mental y sostenibilidad del oficio",
+    "part_slug": "part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio",
+    "class": 12,
+    "global_class": 288,
+    "title": "Proyecto integrador: plan de bienestar escolar",
+    "slug": "class-12-proyecto-integrador"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 1,
+    "global_class": 289,
+    "title": "Cómo se lee un sistema educativo sin copiarlo",
+    "slug": "class-01-como-se-lee-un-sistema-educativo-sin-copiarlo"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 2,
+    "global_class": 290,
+    "title": "Pruebas internacionales: qué miden y qué no",
+    "slug": "class-02-pruebas-internacionales-que-miden-y-que-no"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 3,
+    "global_class": 291,
+    "title": "Finlandia: qué se malinterpretó",
+    "slug": "class-03-finlandia-que-se-malinterpreto"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 4,
+    "global_class": 292,
+    "title": "Singapur: currículum, formación docente y matemática",
+    "slug": "class-04-singapur-curriculum-formacion-docente-y-matematica"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 5,
+    "global_class": 293,
+    "title": "Estonia: equidad y digitalización",
+    "slug": "class-05-estonia-equidad-y-digitalizacion"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 6,
+    "global_class": 294,
+    "title": "Japón y el lesson study",
+    "slug": "class-06-japon-y-el-lesson-study"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 7,
+    "global_class": 295,
+    "title": "Shanghái: práctica deliberada entre docentes",
+    "slug": "class-07-shanghai-practica-deliberada-entre-docentes"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 8,
+    "global_class": 296,
+    "title": "Ontario: mejora sistémica sostenida",
+    "slug": "class-08-ontario-mejora-sistemica-sostenida"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 9,
+    "global_class": 297,
+    "title": "Portugal y Polonia: reformas que movieron resultados",
+    "slug": "class-09-portugal-y-polonia-reformas-que-movieron-resultados"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 10,
+    "global_class": 298,
+    "title": "Escuela Nueva de Colombia y modelos de bajo costo",
+    "slug": "class-10-escuela-nueva-de-colombia-y-modelos-de-bajo-costo"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 11,
+    "global_class": 299,
+    "title": "Chile en perspectiva comparada",
+    "slug": "class-11-chile-en-perspectiva-comparada"
+  },
+  {
+    "part": 24,
+    "part_title": "Modelos educativos internacionales y evidencia comparada",
+    "part_slug": "part-24-modelos-educativos-internacionales-y-evidencia-comparada",
+    "class": 12,
+    "global_class": 300,
+    "title": "Proyecto integrador: propuesta de adaptación fundamentada",
+    "slug": "class-12-proyecto-integrador"
+  }
 ]

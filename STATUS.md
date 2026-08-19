@@ -8,19 +8,19 @@ coincidiendo con lo publicado.
 
 | Métrica | Valor |
 |---|---:|
-| Versión | 1.2.0 |
-| Etapas | 5 |
-| Partes | 18 |
-| Clases | 216 |
+| Versión | 2.0.0 |
+| Etapas | 6 |
+| Partes | 25 |
+| Clases | 300 |
 | Clases por parte | 12 |
-| Palabras en las 216 clases | 840.621 |
-| Palabras por clase | 3765–4133 (mediana 3875) |
-| Diagramas mermaid | 234 (uno por clase y uno por parte) |
-| Conceptos con definición operacional | 864 |
-| Decisiones profesionales habilitadas | 216 (una por clase) |
-| Evidencias de aprendizaje definidas | 216 |
-| Preguntas de comprobación | 648 |
-| Referencias bibliográficas citadas en clases | 432 |
+| Palabras en las 300 clases | 1.176.335 |
+| Palabras por clase | 3765–4178 (mediana 3907) |
+| Diagramas mermaid | 325 (uno por clase y uno por parte) |
+| Conceptos con definición operacional | 1.200 |
+| Decisiones profesionales habilitadas | 300 (una por clase) |
+| Evidencias de aprendizaje definidas | 300 |
+| Preguntas de comprobación | 900 |
+| Referencias bibliográficas citadas en clases | 600 |
 | Documentos transversales (`docs/`) | 17 |
 | Casos profesionales (`cases/`) | 9 |
 | Proyectos integradores mayores (`projects/`) | 6 |
@@ -34,12 +34,12 @@ robusta y cuánto es marco normativo o práctica profesional.
 
 | Estado | Clases | Proporción |
 |---|---:|---:|
-| `CONSISTENTE` | 90 | 41% |
-| `ROBUSTA` | 45 | 20% |
-| `PRACTICA-PROFESIONAL` | 26 | 12% |
-| `EN-DEBATE` | 20 | 9% |
-| `MARCO-NORMATIVO` | 19 | 8% |
-| `EMERGENTE` | 16 | 7% |
+| `CONSISTENTE` | 129 | 43% |
+| `ROBUSTA` | 54 | 18% |
+| `PRACTICA-PROFESIONAL` | 41 | 13% |
+| `MARCO-NORMATIVO` | 29 | 9% |
+| `EN-DEBATE` | 24 | 8% |
+| `EMERGENTE` | 23 | 7% |
 
 ## Etapas
 
@@ -50,6 +50,7 @@ robusta y cuánto es marco normativo o práctica profesional.
 | 🟣 Etapa C — Núcleo profesional docente | 6 | 72 | diseñar, enseñar, evaluar y gestionar un curso completo con evidencia |
 | 🟠 Etapa D — Educación superior y liderazgo | 2 | 24 | sostener la calidad del trabajo de otros, no solo del propio |
 | 🔴 Etapa E — Investigación avanzada y formación de formadores | 2 | 24 | producir conocimiento educativo defendible y formar a quienes enseñan |
+| 🟤 Etapa F — Especialización y desafíos contemporáneos | 7 | 84 | resolver los problemas que efectivamente aparecen en el aula chilena de hoy |
 
 ## Cómo reproducir estas cifras
 

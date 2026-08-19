@@ -20,8 +20,8 @@ RAIZ = Path(__file__).resolve().parents[1]
 MANIFIESTOS = RAIZ / "manifests"
 CURRICULO = RAIZ / "curriculum"
 
-PARTES = 18
-CLASES = 216
+PARTES = 25
+CLASES = 300
 CLASES_POR_PARTE = 12
 
 
@@ -46,13 +46,13 @@ class PruebaManifiestos(unittest.TestCase):
         cls.clases = cargar_clases()
         cls.marco = leer_json(MANIFIESTOS / "pedagogia" / "marco.json")
 
-    def test_hay_216_clases_declaradas(self) -> None:
+    def test_hay_300_clases_declaradas(self) -> None:
         self.assertEqual(len(self.curriculo), CLASES)
 
     def test_numeracion_global_correlativa(self) -> None:
         self.assertEqual([c["global_class"] for c in self.curriculo], list(range(1, CLASES + 1)))
 
-    def test_hay_18_partes_con_12_clases(self) -> None:
+    def test_hay_25_partes_con_12_clases(self) -> None:
         partes: dict[int, int] = {}
         for clase in self.curriculo:
             partes[clase["part"]] = partes.get(clase["part"], 0) + 1
@@ -108,7 +108,7 @@ class PruebaCurriculoPublicado(unittest.TestCase):
         cls.paginas = sorted(CURRICULO.glob("part-*/class-*/README.md"))
         cls.partes = sorted(p for p in CURRICULO.glob("part-*") if p.is_dir())
 
-    def test_hay_216_paginas_de_clase(self) -> None:
+    def test_hay_300_paginas_de_clase(self) -> None:
         self.assertEqual(len(self.paginas), CLASES)
 
     def test_hay_18_readme_de_parte(self) -> None:
@@ -187,6 +187,10 @@ class PruebaSincronia(unittest.TestCase):
         resultado = self.ejecutar("generar_indice.py", "--check")
         self.assertEqual(resultado.returncode, 0, resultado.stdout + resultado.stderr)
 
+    def test_banco_de_actividades_al_dia(self) -> None:
+        resultado = self.ejecutar("generar_actividades.py", "--check")
+        self.assertEqual(resultado.returncode, 0, resultado.stdout + resultado.stderr)
+
     def test_estructura_valida(self) -> None:
         resultado = self.ejecutar("validar_estructura.py")
         self.assertEqual(resultado.returncode, 0, resultado.stdout + resultado.stderr)
@@ -202,6 +206,46 @@ class PruebaSincronia(unittest.TestCase):
     def test_paquete_de_capacitacion_compila(self) -> None:
         resultado = self.ejecutar("exportar_capacitacion.py", "--check")
         self.assertEqual(resultado.returncode, 0, resultado.stdout + resultado.stderr)
+
+
+class PruebaBancoDeActividades(unittest.TestCase):
+    """El banco de actividades debe estar completo, fundamentado y ser filtrable."""
+
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.actividades = [
+            actividad
+            for archivo in sorted((MANIFIESTOS / "pedagogia").glob("actividades-*.json"))
+            for actividad in leer_json(archivo)
+        ]
+        cls.validas = {c["global_class"] for c in leer_json(MANIFIESTOS / "curriculum.json")}
+
+    def test_hay_al_menos_60_actividades(self) -> None:
+        self.assertGreaterEqual(len(self.actividades), 60)
+
+    def test_codigos_unicos(self) -> None:
+        codigos = [a["id"] for a in self.actividades]
+        self.assertEqual(len(set(codigos)), len(codigos))
+
+    def test_cada_actividad_cumple_su_contrato(self) -> None:
+        obligatorios = {
+            "id", "nombre", "familia", "proposito", "ciclos", "asignaturas", "modalidades",
+            "contextos", "duracion", "agrupamiento", "pasos", "variante_menor",
+            "variante_mayor", "adecuacion", "senal", "clase",
+        }
+        for actividad in self.actividades:
+            with self.subTest(actividad=actividad["id"]):
+                self.assertTrue(obligatorios <= set(actividad))
+                self.assertEqual(len(actividad["pasos"]), 3)
+                self.assertTrue(actividad["ciclos"])
+                self.assertTrue(actividad["contextos"])
+                self.assertIn(actividad["clase"], self.validas)
+
+    def test_el_banco_publicado_lista_todas(self) -> None:
+        indice = (RAIZ / "actividades" / "README.md").read_text(encoding="utf-8")
+        for actividad in self.actividades:
+            with self.subTest(actividad=actividad["id"]):
+                self.assertIn(actividad["id"], indice)
 
 
 class PruebaRutasPorRol(unittest.TestCase):
@@ -289,8 +333,8 @@ class PruebaDocumentacion(unittest.TestCase):
 
     def test_status_declara_las_cifras_reales(self) -> None:
         status = (RAIZ / "STATUS.md").read_text(encoding="utf-8")
-        self.assertIn("| Clases | 216 |", status)
-        self.assertIn("| Partes | 18 |", status)
+        self.assertIn(f"| Clases | {CLASES} |", status)
+        self.assertIn(f"| Partes | {PARTES} |", status)
 
     def test_version_semantica(self) -> None:
         version = (RAIZ / "VERSION").read_text(encoding="utf-8").strip()

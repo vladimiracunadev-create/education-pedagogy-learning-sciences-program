@@ -1,6 +1,6 @@
 # Bibliografía del programa
 
-Referencias que sostienen las 216 clases, organizadas por área. Cada clase cita dos o tres de
+Referencias que sostienen las 300 clases, organizadas por área. Cada clase cita dos o tres de
 estas obras con una nota sobre qué aporta esa lectura a esa clase concreta; aquí están todas
 juntas, con el criterio para escogerlas.
 
@@ -259,6 +259,7 @@ investigación posterior, se indica.
 
 ## Liderazgo y mejora escolar
 
+- **Bryk, A. et al. (2010).** *Organizing Schools for Improvement*.
 - **Robinson, V. (2011).** *Student-Centered Leadership.*
 - **Leithwood, K. et al. (2020).** *Seven Strong Claims about Successful School Leadership
   Revisited.* School Leadership & Management, 40(1).
@@ -361,6 +362,97 @@ investigación posterior, se indica.
 - **Bailey, R. et al. (2009).** *The Educational Benefits Claimed for Physical Education and School
   Sport.* Research Papers in Education, 24(1).
 - **Harlen, W. (2015).** *Working with Big Ideas of Science Education.*
+
+## Enfoques y metodologías de enseñanza
+
+- **Freinet, C.** *Técnicas Freinet de la Escuela Moderna*.
+- **Hamari, J., Koivisto, J. & Sarsa, H. (2014).** *Does Gamification Work?*
+- **Lillard, A. (2017).** *Montessori: The Science Behind the Genius*.
+- **Mayer, R. (2004).** *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*
+- **Sweller, J., van Merriënboer, J. & Paas, F. (1998).** *Cognitive Architecture and Instructional Design*.
+- **Tapia, M. N.** *Aprendizaje y servicio solidario*.
+
+## Estrategias para necesidades educativas específicas
+
+- **Beukelman, D. & Mirenda, P.** *Augmentative and Alternative Communication*.
+- **Bishop, D. et al. (2017).** *Phase 2 of CATALISE*.
+- **Buckley, S. & Bird, G.** *Educación de estudiantes con síndrome de Down*.
+- **Cummins, J. (1979).** *Cognitive/Academic Language Proficiency*.
+- Decreto 170/2009, Ministerio de Educación de Chile.
+- Decreto 83/2015, Ministerio de Educación de Chile.
+- **Friend, M. & Cook, L.** *Interactions: Collaboration Skills for School Professionals*.
+- **Kasari, C. et al.** *Intervenciones sociales tempranas en autismo*.
+- **Ley 20.422 (2010).** *Igualdad de oportunidades e inclusión social de personas con discapacidad, Chile*.
+- **Ley 21.545 (2023).** *Ley de Autismo, Chile*.
+- **Schalock, R. et al.** *Discapacidad intelectual: definición, clasificación y sistemas de apoyo*.
+- **Subotnik, R., Olszewski-Kubilius, P. & Worrell, F. (2011).** *Rethinking Giftedness and Gifted Education*.
+
+## Convivencia, violencia escolar y desenganche
+
+- **Balfanz, R. & Byrnes, V. (2012).** *The Importance of Being in School*.
+- **Colvin, G. & Sugai, G.** *Managing the Cycle of Acting-Out Behavior in the Classroom*.
+- **Fredricks, J., Blumenfeld, P. & Paris, A. (2004).** *School Engagement*.
+- **Greene, R. (2014).** *Lost at School*.
+- **Kowalski, R. et al. (2014).** *Bullying in the Digital Age*.
+- **Maslach, C. & Leiter, M. (2016).** *Understanding the Burnout Experience*.
+- **Ministerio de Educación de Chile.** *Orientaciones para la elaboración de protocolos de actuación*.
+- **Orben, A. & Przybylski, A. (2019).** *The Association Between Adolescent Well-Being and Digital Technology Use*.
+- **Perry, B. & Szalavitz, M. (2006).** *The Boy Who Was Raised as a Dog*.
+- **Salmivalli, C. (2010).** *Bullying and the Peer Group*.
+- **Superintendencia de Educación de Chile.** *Circulares sobre convivencia escolar*.
+- **Superintendencia de Educación de Chile.** *Normativa sobre convivencia escolar y deberes del sostenedor*.
+- **Superintendencia de Educación de Chile.** *Orientaciones sobre convivencia digital*.
+- **Ttofi, M. & Farrington, D. (2011).** *Effectiveness of School-Based Programs to Reduce Bullying*.
+- **Yeager, D. et al. (2019).** *A National Experiment Reveals Where a Growth Mindset Improves Achievement*.
+- **Zehr, H.** *The Little Book of Restorative Justice*.
+
+## Diversidad cultural, lingüística y territorial
+
+- **Colbert, V.** *Escuela Nueva: modelo pedagógico para la educación rural*.
+- **Cummins, J. (1979).** *Cognitive/Academic Language Proficiency*.
+- **Delpit, L. (1988).** *The Silenced Dialogue*.
+- **Ellis, R.** *Task-Based Language Teaching*.
+- **Gibbons, P.** *Scaffolding Language, Scaffolding Learning*.
+- **Labov, W. (1972).** *The Logic of Nonstandard English*.
+- **Ladson-Billings, G. (1995).** *Toward a Theory of Culturally Relevant Pedagogy*.
+- **Ley 19.253 (1993).** *Ley Indígena, Chile*.
+- **Ley 20.248 (2008).** *Subvención Escolar Preferencial, Chile*.
+- **Lightbown, P. & Spada, N.** *How Languages Are Learned*.
+- **Ministerio de Educación de Chile.** *Orientaciones para la inclusión de estudiantes migrantes*.
+- **Moll, L. et al. (1992).** *Funds of Knowledge for Teaching*.
+- Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile.
+
+## Bienestar, salud mental y trabajo docente
+
+- **Ingersoll, R. & Strong, M. (2011).** *The Impact of Induction and Mentoring Programs for Beginning Teachers*.
+- **Kowalski, R. et al. (2014).** *Bullying in the Digital Age*.
+- **Ley 20.418 (2010).** *Información, orientación y prestaciones en materia de regulación de la fertilidad, Chile*.
+- **Livingstone, S. & Third, A. (2017).** *Children and Young People's Rights in the Digital Age*.
+- **Maslach, C. & Leiter, M. (2016).** *Understanding the Burnout Experience*.
+- **Masten, A. (2014).** *Ordinary Magic: Resilience in Development*.
+- **Ministerio de Educación de Chile.** *Orientaciones para la actuación ante situaciones de crisis*.
+- **Ministerio de Educación de Chile.** *Orientaciones sobre salud mental en la comunidad educativa*.
+- **Ministerio de Salud de Chile.** *Recomendaciones de postvención en comunidades educativas*.
+- **Ministerio de Salud y Ministerio de Educación de Chile.** *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales*.
+- **OCDE.** *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje*.
+- **Perry, B. & Szalavitz, M. (2006).** *The Boy Who Was Raised as a Dog*.
+- **UNESCO (2018).** *Orientaciones técnicas internacionales sobre educación en sexualidad*.
+- **Weare, K. & Nind, M. (2011).** *Mental Health Promotion in Schools*.
+- **Zalsman, G. et al. (2016).** *Suicide Prevention Strategies Revisited*.
+- **von der Embse, N. et al. (2018).** *Test Anxiety Effects, Predictors and Correlates*.
+
+## Educación comparada y sistemas educativos
+
+- **Colbert, V.** *Escuela Nueva: modelo pedagógico para la educación rural*.
+- **Crehan, L. (2016).** *Cleverlands*.
+- **Fullan, M. (2010).** *All Systems Go*.
+- **Hanushek, E. & Woessmann, L. (2006).** *Does Educational Tracking Affect Performance and Inequality?*
+- **Lewis, C. (2002).** *Lesson Study: A Handbook of Teacher-Led Instructional Change*.
+- **OCDE.** *Informes país sobre sistemas educativos*.
+- **OCDE.** *Informes país y estudios temáticos sobre reformas educativas*.
+- **OCDE.** *PISA: marco técnico y de evaluación*.
+- **Steiner-Khamsi, G. (2004).** *The Global Politics of Educational Borrowing and Lending*.
+- **Zhao, Y. (2014).** *Who's Afraid of the Big Bad Dragon?*
 
 ## Fuentes institucionales y normativas
 

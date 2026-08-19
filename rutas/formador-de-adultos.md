@@ -84,6 +84,9 @@ evaluado por sus asistentes puede no haber cambiado nada en el trabajo, y suele 
 091 (qué puede y qué no puede el microaprendizaje), 095 (evaluación más allá de la satisfacción),
 096 (programa ejecutable por otro formador).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **19** Metodologías y enfoques pedagógicos · **22** Diversidad cultural, lingüística y territorial · **20** Estrategias pedagógicas para necesidades educativas específicas · **23** Bienestar, salud mental y sostenibilidad del oficio.
+La comparación de enfoques y la diversidad lingüística determinan la transferencia de lo que enseñas.
+
 ## 🏛️ Credenciales y marco en Chile
 
 - **No se exige título docente** para capacitar en el ámbito laboral.

@@ -2,21 +2,22 @@
 
 # 🎓 Programa de Pedagogía, Docencia y Ciencias del Aprendizaje
 
-## **216 clases · 18 partes · 540 horas · de cómo aprende una persona a cómo se forma a quien enseña**
+## **300 clases · 25 partes · 750 horas · de cómo aprende una persona a cómo se forma a quien enseña**
 
 **El programa de formación pedagógica más completo en español — desde fundamentos de la
 educación, ciencias del aprendizaje y desarrollo humano hasta inclusión, currículum, didáctica,
-evaluación y psicometría, convivencia, IA educativa, docencia universitaria, liderazgo escolar e
-investigación doctoral.**
+evaluación, convivencia, IA educativa, liderazgo escolar e investigación doctoral, con siete
+partes de especialización en enseñanza de la lectura, metodologías, necesidades educativas
+específicas, desafíos del aula, diversidad, bienestar docente y evidencia comparada.**
 
 [![CI](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/ci.yml)
 [![Pages](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/pages.yml/badge.svg?branch=main)](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/)
 [![Seguridad](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/security.yml)
 [![CodeQL](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/codeql.yml)
 
-[![Versión](https://img.shields.io/badge/versión-1.2.0-e67e22?style=for-the-badge)](CHANGELOG.md)
-[![Clases](https://img.shields.io/badge/clases-216%20·%2018%20partes-7c5cff?style=for-the-badge)](CURRICULUM.md)
-[![Contenido](https://img.shields.io/badge/contenido-840.621%20palabras-2e8b57?style=for-the-badge)](MANIFEST.md)
+[![Versión](https://img.shields.io/badge/versión-2.0.0-e67e22?style=for-the-badge)](CHANGELOG.md)
+[![Clases](https://img.shields.io/badge/clases-300%20·%2025%20partes-7c5cff?style=for-the-badge)](CURRICULUM.md)
+[![Contenido](https://img.shields.io/badge/contenido-1.207.284%20palabras-2e8b57?style=for-the-badge)](MANIFEST.md)
 [![Rutas](https://img.shields.io/badge/rutas%20por%20rol-14-007c83?style=for-the-badge)](rutas/README.md)
 [![Licencia](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-3fb950?style=for-the-badge)](LICENSE-CONTENT.md)
 
@@ -33,7 +34,8 @@ investigación doctoral.**
 [🧭 Rutas por rol](rutas/README.md) ·
 [🎓 Guía del estudiante](docs/GUIA_DEL_ESTUDIANTE.md) ·
 [🧑‍🏫 Guía del formador](docs/GUIA_DEL_FORMADOR.md) ·
-[📖 Glosario (806 términos)](docs/GLOSARIO.md) ·
+[🧰 Banco de actividades](actividades/README.md) ·
+[📖 Glosario](docs/GLOSARIO.md) ·
 [📚 Bibliografía (353 obras)](docs/BIBLIOGRAFIA.md) ·
 [📊 Estado verificable](STATUS.md) ·
 [📦 Manifiesto](MANIFEST.md) ·
@@ -73,8 +75,8 @@ investigación doctoral.**
 
 ## 🎯 Qué es esto
 
-Un currículo **secuencial, basado en libros y orientado a evidencia**: 216 clases numeradas
-(001→216) en 18 partes, desde qué significa educar hasta cómo se forma a quien enseña. Cada clase
+Un currículo **secuencial, basado en libros y orientado a evidencia**: 300 clases numeradas
+(001→300) en 25 partes, desde qué significa educar hasta cómo se forma a quien enseña. Cada clase
 es un documento de **3.700 a 4.100 palabras** bajo el estándar `clase-profunda`, con 22 secciones
 obligatorias que el CI verifica:
 
@@ -98,20 +100,21 @@ obligatorias que el CI verifica:
 
 | Superficie | Cobertura |
 |---|---|
-| 📚 Currículo | 216/216 clases · 840.621 palabras · estándar `clase-profunda` de 22 secciones |
+| 📚 Currículo | 300/300 clases · 1.207.284 palabras · estándar `clase-profunda` de 22 secciones |
 | 📏 Profundidad | 3.765–4.133 palabras por clase (mediana 3.875), verificada en CI |
 | 🔬 Evidencia | cada clase declara su estado —`ROBUSTA` a `PRACTICA-PROFESIONAL`— y sus límites |
 | 🧩 Conceptos | 864 definiciones operacionales · glosario generado de 806 términos enlazados a su clase |
 | 📕 Bibliografía | 432 citas en clase sobre 353 obras distintas, con el lente que aporta cada una |
-| 🏫 Casos | 18 casos persistentes: cada parte trabaja las 12 clases sobre la misma realidad |
-| 🗺️ Diagramas | 234 mapas Mermaid: uno por clase y uno por parte |
-| 🏆 Evaluación | 216 evidencias de aprendizaje, 648 preguntas de comprobación, rúbrica maestra |
+| 🏫 Casos | 25 casos persistentes: cada parte trabaja las 12 clases sobre la misma realidad |
+| 🗺️ Diagramas | 325 mapas Mermaid: uno por clase y uno por parte |
+| 🏆 Evaluación | 300 evidencias de aprendizaje, 900 preguntas de comprobación, rúbrica maestra |
 | 🧭 Rutas por rol | 14 guías de carrera con día a día, ruta, credenciales y mitos del oficio |
 | 📖 Documentación | 17 documentos transversales, protocolo ético y guías de estudiante y formador |
-| 🖥️ Portal | sitio estático con buscador de las 216 clases, tema claro/oscuro y enlaces verificados |
+| 🧰 Actividades | banco de 60 actividades de aula, filtrables por edad, asignatura, modalidad y contexto |
+| 🖥️ Portal | sitio estático con buscador de las 300 clases, tema claro/oscuro y enlaces verificados |
 | 🏫 Capacitación | paquete exportable a LMS: HTML por lección, `manifiesto.json` y `programa.csv` |
 | 🔁 Reproducibilidad | todo lo publicado se regenera desde `manifests/`; el CI falla si difiere |
-| 🔧 Calidad | CI en Python 3.11–3.13, 4 validadores, 33 pruebas, markdownlint, gitleaks, zizmor y CodeQL |
+| 🔧 Calidad | CI en Python 3.11–3.13, 4 validadores, 38 pruebas, markdownlint, gitleaks, zizmor y CodeQL |
 | 🎓 Título profesional | ⚪ no lo otorga y no lo reemplaza |
 
 ## 🌟 Qué lo hace distinto
@@ -130,7 +133,7 @@ obligatorias que el CI verifica:
 - **Se regenera completo:** una sola fuente de verdad, cero dependencias externas, CI que falla
   si lo publicado no coincide con la fuente.
 
-## 🗺️ El recorrido en 5 etapas
+## 🗺️ El recorrido en 6 etapas
 
 ```mermaid
 flowchart LR
@@ -138,8 +141,10 @@ flowchart LR
     A --> C["Etapa C · Nucleo profesional<br/>Partes 08–13"]
     B --> C
     C --> D["Etapa D · Superior y liderazgo<br/>Partes 14–15"]
+    C --> F["Etapa F · Especializacion<br/>Partes 18–24"]
     C --> E["Etapa E · Investigacion y formadores<br/>Partes 16–17"]
     D --> E
+    F --> E
 ```
 
 | Etapa | Partes | Clases | Competencia que construye |
@@ -149,8 +154,9 @@ flowchart LR
 | 🟣 **C · Núcleo profesional docente** | 08–13 | 72 | diseñar, enseñar, evaluar y gestionar un curso completo con evidencia |
 | 🟠 **D · Superior y liderazgo** | 14–15 | 24 | sostener la calidad del trabajo de otros, no solo del propio |
 | 🔴 **E · Investigación y formadores** | 16–17 | 24 | producir conocimiento defendible y formar a quienes enseñan |
+| 🟤 **F · Especialización y desafíos contemporáneos** | 18–24 | 84 | resolver los problemas que efectivamente aparecen en el aula chilena de hoy |
 
-## 🗂️ Las 18 partes
+## 🗂️ Las 25 partes
 
 Cada parte tiene su **propio README** con narrativa, mapa, marco de referencia, riesgos
 característicos, lecturas y enlace a sus 12 clases.
@@ -175,8 +181,15 @@ característicos, lecturas y enlace a sus 12 clases.
 | 15 | Gestión y liderazgo educativo | 181–192 | Plan de mejora con indicadores desagregados | [📘 leer](curriculum/part-15-gestion-y-liderazgo-educativo/README.md) |
 | 16 | Investigación educativa | 193–204 | Investigación completa con límites declarados | [📘 leer](curriculum/part-16-investigacion-educativa/README.md) |
 | 17 | Investigación doctoral y formación de formadores | 205–216 | Propuesta doctoral defendible | [📘 leer](curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/README.md) |
+| 18 | Alfabetización inicial y ciencia de la lectura | 217–228 | Plan lector de establecimiento | [📘 leer](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/README.md) |
+| 19 | Metodologías y enfoques pedagógicos | 229–240 | Decisión metodológica fundamentada | [📘 leer](curriculum/part-19-metodologias-y-enfoques-pedagogicos/README.md) |
+| 20 | Estrategias para necesidades educativas específicas | 241–252 | Plan de apoyo con estrategias verificables | [📘 leer](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/README.md) |
+| 21 | Desafíos actuales del aula | 253–264 | Plan de convivencia con indicadores | [📘 leer](curriculum/part-21-desafios-actuales-del-aula/README.md) |
+| 22 | Diversidad cultural, lingüística y territorial | 265–276 | Plan de pertinencia cultural y territorial | [📘 leer](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/README.md) |
+| 23 | Bienestar, salud mental y sostenibilidad del oficio | 277–288 | Plan de bienestar escolar | [📘 leer](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/README.md) |
+| 24 | Modelos educativos internacionales y evidencia comparada | 289–300 | Propuesta de adaptación fundamentada | [📘 leer](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/README.md) |
 
-➡️ **[Ver el programa detallado con las 216 decisiones y evidencias](SYLLABUS.md)**
+➡️ **[Ver el programa detallado con las 300 decisiones y evidencias](SYLLABUS.md)**
 
 ## 🏢 El caso persistente
 
@@ -221,8 +234,8 @@ Este es el rasgo que ordena el programa: **ninguna clase afirma más de lo que p
 
 | 🧭 Recorrido práctico | Qué produce |
 |---|---|
-| 📥 **216 evidencias de aprendizaje** | Un producto profesional por clase, con rúbrica ponderada publicada antes |
-| 🏛️ **18 proyectos integradores** | Uno por parte: exige articular las 12 clases en un artefacto defendible |
+| 📥 **300 evidencias de aprendizaje** | Un producto profesional por clase, con rúbrica ponderada publicada antes |
+| 🏛️ **25 proyectos integradores** | Uno por parte: exige articular las 12 clases en un artefacto defendible |
 | 🎯 **5 proyectos mayores** | Portafolio, curso completo, plan de mejora, investigación y propuesta doctoral |
 | 🗂️ **8 casos profesionales** | Situaciones reales para resolver con el marco del programa |
 | 🧰 **10 laboratorios** | Decisión bajo presión: aula, currículo, evaluación, inclusión, tesis y tutor con IA |
@@ -233,12 +246,35 @@ Este es el rasgo que ordena el programa: **ninguna clase afirma más de lo que p
 [Laboratorios](labs/README.md) · [Plantillas](templates/README.md) ·
 [Evaluación](assessments/README.md)
 
+## 🧰 Banco de actividades prácticas
+
+**60 actividades de aula listas para usar**, en seis familias según el problema que resuelven.
+Ninguna es una idea suelta: cada una declara la clase del programa que la fundamenta.
+
+| Familia | Qué resuelve | Actividades |
+|---|---|---:|
+| 🔎 **[Activación y conocimiento previo](actividades/activacion-y-conocimiento-previo.md)** | comprobar qué saben antes de enseñar | 10 |
+| 🧠 **[Comprensión y procesamiento](actividades/comprension-y-procesamiento.md)** | hacer visible el razonamiento experto | 10 |
+| 🔁 **[Práctica y consolidación](actividades/practica-y-consolidacion.md)** | convertir lo comprendido en aprendizaje disponible | 10 |
+| 🤝 **[Colaboración y discusión](actividades/colaboracion-y-discusion.md)** | trabajo entre pares con responsabilidad real | 10 |
+| 📥 **[Evaluación formativa](actividades/evaluacion-formativa-y-retroalimentacion.md)** | obtener evidencia y devolverla a tiempo | 10 |
+| 🕊️ **[Convivencia, motivación y clima](actividades/convivencia-motivacion-y-clima.md)** | sostener las condiciones que hacen posible enseñar | 10 |
+
+Cada ficha declara **duración, agrupamiento, variante para estudiantes menores y mayores,
+adecuación para la diversidad del curso y qué observar** para saber si funcionó. El banco se
+recorre además por [ciclo y edad](actividades/por-ciclo.md), por
+[asignatura](actividades/por-asignatura.md) y por
+[modalidad y contexto](actividades/por-contexto.md) —aula numerosa, multigrado, rural, baja
+conectividad o alta diversidad lingüística.
+
+➡️ **[Abrir el banco completo](actividades/README.md)**
+
 ## 🖥️ Portal de estudio
 
 El portal se genera desde el mismo Markdown del repositorio, así que **no puede desincronizarse**.
 Es autocontenido: sin cuentas, sin rastreadores y sin dependencias externas.
 
-- 🔎 **Buscador** de las 216 clases por título, parte y concepto, operable desde el navegador.
+- 🔎 **Buscador** de las 300 clases por título, parte y concepto, operable desde el navegador.
 - 🌗 **Tema claro, oscuro y según el sistema**, con la preferencia guardada localmente.
 - 🗺️ **Diagramas Mermaid** que degradan a texto legible si no cargan.
 - 🔗 **Enlaces internos verificados** en cada publicación: el build falla si uno se rompe.
@@ -327,8 +363,9 @@ python -m http.server 8000 --directory site
 **Regenerar el contenido desde los manifiestos:**
 
 ```bash
-python scripts/generar_clases.py         # 216 clases + 18 páginas de parte
+python scripts/generar_clases.py         # 300 clases + 25 páginas de parte
 python scripts/generar_indice.py         # STATUS, SYLLABUS, MANIFEST, FILE_INDEX, glosario y catálogo
+python scripts/generar_actividades.py     # banco de 60 actividades prácticas
 python scripts/generar_sitio.py          # portal estático en site/
 python scripts/exportar_capacitacion.py  # paquete para LMS en capacitacion/
 ```
@@ -344,7 +381,7 @@ llega a `main` en rojo**, y el portal se verifica después de construirse.
 
 | ⚙️ Workflow | Qué cubre |
 |---|---|
-| 🧪 [ci.yml](.github/workflows/ci.yml) | Validadores y 33 pruebas estructurales en Python 3.11, 3.12 y 3.13 |
+| 🧪 [ci.yml](.github/workflows/ci.yml) | Validadores y 38 pruebas estructurales en Python 3.11, 3.12 y 3.13 |
 | 🔁 [ci.yml · reproducibilidad](.github/workflows/ci.yml) | Regenera todo desde `manifests/` y falla si difiere de lo confirmado |
 | 🚀 [pages.yml](.github/workflows/pages.yml) | Construye, verifica enlaces y publica el portal y el paquete de capacitación |
 | 🔒 [security.yml](.github/workflows/security.yml) | Secretos con gitleaks, workflows con zizmor y ausencia de datos personales |
@@ -357,7 +394,7 @@ python scripts/generar_clases.py --check   # lo publicado coincide con los manif
 python scripts/generar_indice.py --check   # documentos generados al día
 python scripts/validar_estructura.py       # 22 secciones por clase, mínimo de palabras y enlaces
 python scripts/validar_encoding.py         # UTF-8 sin BOM ni mojibake
-python -m unittest discover -s tests -v    # 33 pruebas estructurales
+python -m unittest discover -s tests -v    # 38 pruebas estructurales
 ```
 
 ## 👩‍🏫 Para instructores
@@ -382,7 +419,7 @@ El paquete exportable no duplica el contenido: lo deriva de la misma fuente.
 | `manifiesto.json` | Metadatos por módulo y lección para carga automatizada |
 | `programa.csv` | Tabla plana para carga manual o revisión administrativa |
 
-Cada lección conserva su código **`PED-001` a `PED-216`** para mantener la trazabilidad con la
+Cada lección conserva su código **`PED-001` a `PED-300`** para mantener la trazabilidad con la
 fuente: la evidencia de aprendizaje se carga como tarea, los criterios de logro como rúbrica y las
 preguntas de comprobación como cuestionario de cierre.
 
@@ -432,7 +469,7 @@ dos a tres.
 
 ### ✅ Lo que sí es
 
-- 📚 un currículo **secuencial y completo** de 216 clases con 18 proyectos integradores;
+- 📚 un currículo **secuencial y completo** de 300 clases con 25 proyectos integradores;
 - 📐 un método donde **toda afirmación declara con qué evidencia se sostiene** y qué no sostiene;
 - 🧪 práctica **sin riesgo para nadie**: casos ficticios, datos sintéticos, escuela simulada;
 - 🇨🇱 normativa chilena tratada como **restricción de diseño**, no como advertencia final;
@@ -479,6 +516,7 @@ dos a tres.
 manifests/     fuente única de verdad: nada de curriculum/ se edita a mano
 curriculum/    18 partes · 216 clases generadas
 rutas/         14 guías de carrera por rol
+actividades/   banco de 60 actividades de aula, generado desde manifests/
 docs/          metodología, guías, bibliografía, glosario, marcos y protocolos
 scripts/       generadores y validadores (solo biblioteca estándar de Python)
 tests/         pruebas estructurales del repositorio
@@ -512,7 +550,7 @@ generadores. Las obras citadas, normas y marcos pertenecen a sus titulares: el p
 
 **Diagnostica · decide · observa · defiende · corrige**
 
-[⬆️ Empezar por el índice de las 216 clases](SYLLABUS.md)
+[⬆️ Empezar por el índice de las 300 clases](SYLLABUS.md)
 
 **[Currículo](CURRICULUM.md)** · **[Rutas por rol](rutas/README.md)** ·
 **[Estado](STATUS.md)** · **[Índice de archivos](FILE_INDEX.md)** ·

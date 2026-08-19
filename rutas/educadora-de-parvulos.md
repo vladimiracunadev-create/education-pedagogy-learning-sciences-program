@@ -87,6 +87,9 @@ escrito para dártelos.
 intercambios), 038 (juego guiado), 040 (alfabetización emergente), 046 (documentación
 pedagógica), 047 (familias con foco en el aprendizaje).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **18** Alfabetización inicial y ciencia de la lectura · **22** Diversidad cultural, lingüística y territorial · **20** Estrategias pedagógicas para necesidades educativas específicas · **23** Bienestar, salud mental y sostenibilidad del oficio.
+La alfabetización emergente conecta con la parte 18; la 22 aporta pertinencia cultural y territorial.
+
 ## 🏛️ Credenciales y habilitación en Chile
 
 - **Título de Educador o Educadora de Párvulos** de una institución acreditada.

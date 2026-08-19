@@ -87,6 +87,9 @@ formal de adecuación significativa.
 100 (diversificación sostenible), 101 (para qué sirve un diagnóstico), 104 (respuesta a la
 intervención), 108 (aula accesible).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **20** Estrategias pedagógicas para necesidades educativas específicas · **18** Alfabetización inicial y ciencia de la lectura · **22** Diversidad cultural, lingüística y territorial · **23** Bienestar, salud mental y sostenibilidad del oficio.
+La parte 20 es tu especialización central: estrategias por condición, codocencia y acompañamiento diferenciado.
+
 ## 🏛️ Credenciales y habilitación en Chile
 
 - **Título de Educación Diferencial** con la mención correspondiente.

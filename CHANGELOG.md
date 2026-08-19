@@ -7,6 +7,60 @@ Versionado semántico: `MAYOR.MENOR.PARCHE`.
 - **MENOR:** se agrega contenido o material de apoyo sin romper la estructura.
 - **PARCHE:** correcciones de contenido, fuentes, enlaces o generadores.
 
+## [2.0.0] — 2026-08-19
+
+Amplía el programa con una sexta etapa de especialización. El currículo pasa de 216 a **300
+clases** en **25 partes**, y se agrega un banco de actividades de aula. Es cambio mayor porque
+modifica la estructura del programa: aparece la etapa F y siete partes nuevas.
+
+### Añadido
+
+- **Parte 18 · Alfabetización inicial y ciencia de la lectura** (217–228). Cierra el hueco más
+  visible del programa: el problema faro del caso persistente —un tercio de los estudiantes sin
+  fluidez lectora en 3.º básico— no tenía con qué resolverse. Conciencia fonológica,
+  correspondencias en español, fluidez, vocabulario, comprensión, escritura inicial, dislexia,
+  evaluación por componentes, intervención por niveles y alfabetización disciplinar.
+- **Parte 19 · Metodologías y enfoques pedagógicos** (229–240). Criterios para comparar enfoques
+  sin caer en modas: instrucción explícita, indagación guiada, tradiciones conductista,
+  cognitivista y constructivista, Montessori, Waldorf, Reggio Emilia, Freinet, Escuela Nueva,
+  pedagogía crítica, familias del aprendizaje basado en algo, aprendizaje-servicio, gamificación
+  y enfoque por competencias.
+- **Parte 20 · Estrategias pedagógicas para necesidades educativas específicas** (241–252). De la
+  categoría diagnóstica a la estrategia de aula: TDAH, síndrome de Down, autismo, discapacidad
+  intelectual, dificultades específicas del aprendizaje, discapacidad sensorial y motora,
+  comunicación aumentativa, trastornos del lenguaje, altas capacidades y codocencia.
+- **Parte 21 · Desafíos actuales del aula** (253–264). Desenganche y ausentismo crónico, pérdida
+  de sentido, pantallas y atención, violencia escolar, acoso, ciberacoso, conductas agresivas,
+  agresiones al docente, mediación restaurativa, aulas numerosas y derivación por riesgo.
+- **Parte 22 · Diversidad cultural, lingüística y territorial** (265–276). Interculturalidad,
+  educación intercultural bilingüe, estudiantes migrantes, castellano como segunda lengua,
+  lenguas extranjeras, variedades lingüísticas, educación rural, aula multigrado, segregación
+  escolar y financiamiento.
+- **Parte 23 · Bienestar, salud mental y sostenibilidad del oficio** (277–288). Frontera del rol
+  docente, ansiedad, riesgo suicida y protocolo, aprendizaje socioemocional, adversidad, crisis y
+  postvención, afectividad y educación sexual integral, convivencia digital, carga docente,
+  desgaste profesional y cuidado del equipo.
+- **Parte 24 · Modelos educativos internacionales y evidencia comparada** (289–300). Cómo se lee
+  un sistema sin copiarlo, pruebas internacionales, Finlandia, Singapur, Estonia, Japón, Shanghái,
+  Ontario, Portugal y Polonia, Escuela Nueva de Colombia y Chile en perspectiva comparada.
+- **Banco de 60 actividades prácticas** en `actividades/`, generado desde
+  `manifests/pedagogia/actividades-*.json`. Seis familias, con duración, agrupamiento, variante
+  por edad, adecuación para la diversidad, señal de verificación y la clase que la fundamenta.
+  Se recorre por familia, por ciclo, por asignatura y por modalidad o contexto.
+- **Etapa F** en el recorrido del programa, con sus siete partes y su lema propio.
+- **Siete casos persistentes nuevos**, y la red del caso se amplía con la Escuela Rural El Maitén
+  —multigrado, 48 estudiantes— para sostener las partes 22 y 24.
+- **74 obras nuevas** en la bibliografía, con siete áreas nuevas.
+- **`scripts/generar_actividades.py`**, con su verificación `--check` en CI y en `make todo`.
+- **Cinco pruebas nuevas** (38 en total) sobre el contrato del banco de actividades.
+
+### Cambiado
+
+- Las 14 guías de carrera declaran ahora su **especialización de etapa F**, con las partes
+  recomendadas en orden y la razón de esa prioridad para el rol.
+- Validadores, generadores, portal y paquete de capacitación operan sobre 25 partes y 300 clases.
+- La bibliografía, el glosario, el manifiesto y los índices se regeneraron completos.
+
 ## [1.2.0] — 2026-08-19
 
 Sube el estándar de clase al nivel de los demás programas del autor, sin cambiar el currículo:

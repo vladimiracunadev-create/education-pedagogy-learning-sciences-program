@@ -1,0 +1,446 @@
+[
+  {
+    "n": 217,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué la lectura es el único aprendizaje escolar cuyo mecanismo cognitivo está esencialmente resuelto",
+    "proposito": "Establecer el modelo que ordena toda la parte: leer con comprensión exige decodificar y comprender el lenguaje, y ningún componente compensa la ausencia del otro.",
+    "decision": "determinar qué componente de la lectura está fallando en tu curso antes de elegir cualquier programa o material",
+    "entregable": "un diagnóstico de curso que separa decodificación, fluidez, vocabulario y comprensión con evidencia para cada uno",
+    "conceptos": [
+      ["Modelo simple de la lectura", "comprensión lectora entendida como producto de reconocimiento de palabras y comprensión del lenguaje: si uno vale cero, el producto vale cero"],
+      ["Reconocimiento de palabras", "identificación rápida y automática de la forma escrita; se automatiza con enseñanza y práctica, no con exposición"],
+      ["Comprensión del lenguaje", "capacidad de entender el mensaje oral; depende de vocabulario, sintaxis y conocimiento del mundo"],
+      ["Cuerdas de la lectura", "representación de la lectura como hebras que se entrelazan y se automatizan a distinto ritmo, no como etapas sucesivas"]
+    ],
+    "desarrollo": "Durante décadas la enseñanza de la lectura se discutió como una cuestión de escuelas de pensamiento. La investigación cognitiva cambió el terreno: hoy se conoce con detalle qué hace el cerebro al leer, en qué se diferencia un lector hábil de uno que lucha, y qué enseñanza produce esa diferencia. El modelo simple de la lectura es la formulación más útil para el aula porque es multiplicativo: un estudiante que decodifica perfectamente y no entiende el lenguaje no comprende, y uno con enorme vocabulario que no decodifica tampoco. La consecuencia práctica es inmediata: la pregunta correcta nunca es si un estudiante lee mal, sino cuál de los dos componentes falla.",
+    "practica": "Un diagnóstico profesional evalúa por separado. Se mide decodificación con palabras aisladas y pseudopalabras —que impiden adivinar—, fluidez con un texto conocido y cronómetro, vocabulario con una prueba de amplitud y comprensión con un texto que el estudiante pueda decodificar. La combinación de resultados define el perfil: dificultad específica de lectura, dificultad de comprensión, o ambas. Cada perfil tiene una respuesta distinta, y aplicar la respuesta equivocada consume el año escolar sin mover el resultado.",
+    "limites": "El modelo simple es potente por su parsimonia y esa es también su limitación: no describe la motivación, el conocimiento previo específico del texto, ni el efecto acumulativo de leer o no leer durante años. Tampoco resuelve qué hacer, solo dónde mirar. Y su formulación original proviene del inglés: el español, ortográficamente transparente, hace que el componente de decodificación se resuelva antes y que el peso relativo del vocabulario aparezca más temprano.",
+    "errores": [
+      "Diagnosticar la lectura con una sola prueba de comprensión y concluir que el problema es comprender.",
+      "Interpretar el modelo como una secuencia de etapas: primero decodificar, después comprender."
+    ],
+    "criterios": [
+      "el diagnóstico presenta evidencia separada para al menos tres componentes;",
+      "el perfil de cada grupo de estudiantes se traduce en una decisión distinta;"
+    ],
+    "preguntas": [
+      "¿Qué evidencia tienes hoy de la decodificación de tu curso, distinta de la nota de lenguaje?",
+      "¿Cuántos de tus estudiantes decodifican bien y comprenden mal, y qué haces distinto con ellos?",
+      "¿Qué decisión cambiaría si supieras que el problema es de vocabulario y no de decodificación?"
+    ],
+    "lecturas": [
+      ["Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.", "la síntesis que ordena qué está resuelto, qué sigue abierto y por qué la discusión pública va atrasada."],
+      ["Seidenberg, M. (2017). *Language at the Speed of Sight*.", "el mecanismo cognitivo explicado con suficiente detalle para juzgar métodos por su fundamento."]
+    ],
+    "inclusion": "Diagnosticar por componentes es lo que evita atribuir a desinterés o a falta de apoyo familiar lo que es una dificultad específica y tratable. Los estudiantes con más riesgo son también los que más se perjudican con métodos que confían en la adivinación por contexto, porque carecen de la base para adivinar bien.",
+    "reto": "Aplica a cinco estudiantes de tu curso una medición separada de decodificación y de comprensión. Compara los perfiles y escribe qué harías distinto con cada uno la próxima semana.",
+    "conexion": "Abre la parte 18 y da el marco a las once clases siguientes. Retoma la clase 049 y la 040, y sostiene todo el trabajo de la parte 04."
+  },
+  {
+    "n": 218,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué manipular sonidos del habla predice la lectura mejor que casi cualquier otra medida temprana",
+    "proposito": "Enseñar conciencia fonológica y principio alfabético con actividades breves, orales y sistemáticas, y saber cuándo esa enseñanza deja de ser necesaria.",
+    "decision": "determinar qué nivel de conciencia fonológica tiene tu grupo y qué se enseña en los próximos dos meses",
+    "entregable": "una secuencia de doce sesiones breves de conciencia fonológica con criterio de dominio y registro por estudiante",
+    "conceptos": [
+      ["Conciencia fonológica", "capacidad de reconocer y manipular deliberadamente las unidades sonoras del habla, de la sílaba al fonema"],
+      ["Conciencia fonémica", "nivel más fino de la conciencia fonológica: aislar, mezclar y sustituir fonemas individuales"],
+      ["Principio alfabético", "comprensión de que las letras representan sonidos del habla de manera sistemática y no arbitraria"],
+      ["Criterio de dominio", "umbral observable —tasa de acierto y velocidad— que autoriza a pasar al contenido siguiente"]
+    ],
+    "desarrollo": "La conciencia fonológica es una habilidad oral: se puede entrenar en completa oscuridad, sin un solo texto a la vista. Su relación con la lectura es de doble vía. Cierto nivel es necesario para aprovechar la enseñanza de correspondencias, y a su vez aprender a leer afina la conciencia fonémica. En español, la sílaba es una unidad perceptivamente accesible y los niños la manipulan temprano; el salto exigente es el fonema, que no tiene existencia acústica independiente y solo se vuelve evidente cuando alguien lo enseña.",
+    "practica": "El formato que rinde es breve, diario y oral: entre diez y quince minutos, con progresión de sílaba a fonema y de identificación a manipulación. Se enseña con la voz y con material concreto —fichas, palmadas, cajas de sonido— antes que con letras, y en cuanto el estudiante puede aislar fonemas se conecta de inmediato con la letra correspondiente. Alargar la fase puramente oral más allá de lo necesario es tiempo perdido: la conexión con la letra es lo que produce el efecto sobre la lectura.",
+    "limites": "El entrenamiento fonológico aislado, sin conexión con letras, tiene efectos pequeños sobre la lectura. Además, en ortografías transparentes como el español la fase intensiva es más corta que en inglés y prolongarla desplaza tiempo que rinde más en fluidez y vocabulario. Y hay un techo: una vez alcanzado el dominio, seguir entrenando no agrega nada medible.",
+    "errores": [
+      "Mantener meses de trabajo fonológico oral sin conectarlo nunca con las letras.",
+      "Confundir dominio silábico con dominio fonémico y dar por lista una habilidad que no se enseñó."
+    ],
+    "criterios": [
+      "la secuencia declara la progresión de unidades y su criterio de dominio observable;",
+      "existe registro por estudiante que permite decidir quién necesita más práctica;"
+    ],
+    "preguntas": [
+      "¿Cuántos de tus estudiantes pueden aislar el primer fonema de una palabra, comprobado y no supuesto?",
+      "¿En qué momento de tu secuencia aparece la letra junto al sonido, y por qué ahí?",
+      "¿Qué haces con quien no alcanza el criterio de dominio en el plazo previsto?"
+    ],
+    "lecturas": [
+      ["National Early Literacy Panel (2008). *Developing Early Literacy*.", "cuantifica qué predictores tempranos importan y cuánto, incluida la conciencia fonológica."],
+      ["Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.", "sitúa el entrenamiento fonológico en su lugar: necesario, insuficiente y con techo."]
+    ],
+    "inclusion": "Los estudiantes con dificultades específicas de lectura suelen presentar debilidad fonológica persistente y necesitan más dosis, no distinta enseñanza. Detectarlo con una tarea de dos minutos evita años de fracaso atribuido a otra cosa.",
+    "reto": "Diseña doce sesiones de diez minutos con progresión declarada. Aplícalas dos semanas, registra el avance de cinco estudiantes y ajusta la dosis según el resultado.",
+    "conexion": "Depende de la clase 217 y prepara la 219, donde el trabajo fonológico se conecta con la enseñanza sistemática de correspondencias."
+  },
+  {
+    "n": 219,
+    "evidencia": "ROBUSTA",
+    "foco": "qué cambia en la enseñanza de correspondencias cuando la ortografía es transparente como la del español",
+    "proposito": "Definir una progresión explícita de correspondencias entre grafemas y fonemas, con práctica en texto decodificable y criterio de avance.",
+    "decision": "determinar el orden de enseñanza de las correspondencias y qué texto usa el estudiante mientras las aprende",
+    "entregable": "una progresión de correspondencias con su justificación, textos asociados y criterio de avance",
+    "conceptos": [
+      ["Correspondencia grafema-fonema", "relación sistemática entre una unidad escrita y el sonido que representa"],
+      ["Transparencia ortográfica", "grado de regularidad entre escritura y pronunciación; el español es de los sistemas más transparentes"],
+      ["Texto decodificable", "material compuesto principalmente por correspondencias ya enseñadas, que permite practicar sin adivinar"],
+      ["Enseñanza sistemática", "secuencia planificada de antemano, con orden justificado y verificación, frente a la enseñanza según aparezca"]
+    ],
+    "desarrollo": "La enseñanza sistemática y explícita de las correspondencias produce mejores resultados que los enfoques que confían en el reconocimiento global o en el contexto, y la diferencia es mayor en los estudiantes con más riesgo de dificultad. Es una de las conclusiones mejor establecidas de la investigación educativa. La transparencia del español modifica el calendario, no el principio: como cada letra representa casi siempre el mismo sonido, la decodificación se domina antes que en inglés y la fase intensiva es más breve, con un puñado de irregularidades reales que se enseñan aparte.",
+    "practica": "Una progresión profesional decide el orden por frecuencia y por productividad —qué correspondencias permiten leer más palabras antes—, evita introducir juntas letras confundibles y asegura que el estudiante practique con textos hechos de lo que ya sabe. El texto decodificable no es literatura y no pretende serlo: es material de práctica, y convive con lectura en voz alta de textos ricos que el docente lee y el estudiante todavía no puede leer solo.",
+    "limites": "La enseñanza sistemática es condición necesaria y no suficiente: no produce comprensión por sí sola, que depende de vocabulario y conocimiento del mundo. Trasladar sin ajuste los plazos y las secuencias de la investigación anglosajona al español produce programas innecesariamente largos. Y el material decodificable, usado como única dieta lectora, empobrece el contacto con el lenguaje escrito real.",
+    "errores": [
+      "Introducir las letras según el orden del texto escolar sin criterio de frecuencia ni de productividad.",
+      "Pedir que el estudiante lea textos con correspondencias que nadie le enseñó, y llamar a eso lectura autónoma."
+    ],
+    "criterios": [
+      "la progresión declara el orden elegido y la razón de ese orden;",
+      "cada tramo tiene texto de práctica coherente con lo enseñado y un criterio de avance;"
+    ],
+    "preguntas": [
+      "¿Cuál es el orden de correspondencias de tu curso y quién lo decidió?",
+      "¿Qué proporción del texto que lee tu estudiante está compuesta de lo que ya se le enseñó?",
+      "¿Cuánto debería durar la fase intensiva en español, y en qué basas ese plazo?"
+    ],
+    "lecturas": [
+      ["Seidenberg, M. (2017). *Language at the Speed of Sight*.", "explica por qué la enseñanza explícita funciona en términos del mecanismo, no de la ideología."],
+      ["Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*.", "el informe que fijó la prevención temprana como criterio de política pública."]
+    ],
+    "inclusion": "La enseñanza sistemática beneficia a todos y resulta indispensable para quienes tienen dificultades: son exactamente los estudiantes a quienes los métodos basados en adivinar dejan sin herramienta. Aumentar la dosis y la explicitud es la primera adecuación, antes que cualquier otra.",
+    "reto": "Escribe la progresión completa de tu curso con su justificación. Marca los tramos donde el material disponible no coincide con lo enseñado y propone el reemplazo.",
+    "conexion": "Continúa la clase 218 y alimenta la 220: sin decodificación establecida, la práctica de fluidez no tiene sobre qué operar."
+  },
+  {
+    "n": 220,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué la velocidad lectora importa por lo que libera y no por sí misma",
+    "proposito": "Medir fluidez con un instrumento comparable, interpretar el resultado sin sobreinterpretarlo y desarrollarla con práctica que tenga efecto comprobado.",
+    "decision": "determinar el nivel de fluidez de cada estudiante y qué práctica recibe el tercio más bajo",
+    "entregable": "un registro de fluidez del curso con instrumento declarado y un plan de práctica de ocho semanas",
+    "conceptos": [
+      ["Fluidez lectora", "lectura precisa, a ritmo adecuado y con prosodia, que libera capacidad cognitiva para comprender"],
+      ["Automatización", "ejecución de un proceso sin consumo apreciable de atención; es la razón por la que la fluidez importa"],
+      ["Lectura repetida", "práctica de releer un mismo texto hasta alcanzar un criterio, con retroalimentación inmediata"],
+      ["Prosodia", "entonación, fraseo y pausas al leer en voz alta; indicador de que el lector está construyendo significado"]
+    ],
+    "desarrollo": "La fluidez es el puente entre decodificar y comprender. Un lector que descifra palabra por palabra gasta en el descifrado la capacidad que necesitaría para sostener el sentido del párrafo, y llega al punto final sin recordar el comienzo. Por eso la fluidez no vale por la velocidad: vale por lo que la velocidad libera. Medirla es además la manera más barata y comparable de detectar problemas: dos minutos por estudiante y un texto estandarizado bastan para ordenar un curso completo.",
+    "practica": "La práctica con efecto comprobado es la lectura repetida con retroalimentación: un texto en el nivel adecuado, lecturas sucesivas hasta un criterio, y corrección inmediata de los errores. Funciona en parejas, con audio modelo o con el docente. Lo que no funciona es la lectura silenciosa sostenida como única estrategia para quien todavía no es fluido: sin retroalimentación, el estudiante practica sus propios errores. Medir antes y después con el mismo instrumento es lo que convierte la práctica en decisión.",
+    "limites": "La fluidez correlaciona con la comprensión pero no la garantiza: hay lectores rápidos que no comprenden porque les falta vocabulario o conocimiento del tema. Convertir palabras por minuto en la meta produce lectura veloz y vacía. Y las normas de referencia disponibles provienen mayoritariamente de otros sistemas escolares: sirven para comparar el progreso de un mismo estudiante mejor que para etiquetarlo.",
+    "errores": [
+      "Usar palabras por minuto como objetivo en vez de como indicador de un proceso automatizado.",
+      "Mandar a leer en silencio a quien no es fluido y esperar que la fluidez aparezca por exposición."
+    ],
+    "criterios": [
+      "el registro declara instrumento, fecha, texto y condiciones de aplicación;",
+      "la práctica propuesta incluye retroalimentación inmediata y una segunda medición;"
+    ],
+    "preguntas": [
+      "¿Cuántas palabras por minuto lee el estudiante en el percentil más bajo de tu curso?",
+      "¿Con qué texto mediste y por qué ese texto permite comparar entre estudiantes?",
+      "¿Qué evidencia tendrías en ocho semanas de que la práctica sirvió?"
+    ],
+    "lecturas": [
+      ["Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.", "ubica la fluidez dentro del sistema completo y advierte contra tratarla como meta aislada."],
+      ["Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*.", "muestra cómo una medida breve y repetible se convierte en decisión de intervención."]
+    ],
+    "inclusion": "La medición breve y repetida detecta temprano a quien necesita apoyo intensivo, que es exactamente el estudiante al que se le suele dar más tiempo en vez de más enseñanza. Para estudiantes con dificultad visual o motora, la medición se adapta en formato sin cambiar el criterio.",
+    "reto": "Mide la fluidez de tu curso completo con un texto estandarizado. Diseña ocho semanas de práctica para el tercio más bajo y vuelve a medir con el mismo instrumento.",
+    "conexion": "Se apoya en la clase 219 y es la base de la 225, donde la medición por componentes se vuelve sistema de evaluación."
+  },
+  {
+    "n": 221,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué el vocabulario es la variable que más separa trayectorias y la que menos se enseña deliberadamente",
+    "proposito": "Enseñar vocabulario de forma deliberada y construir conocimiento del mundo como condición de la comprensión, no como adorno cultural.",
+    "decision": "determinar qué palabras se enseñan explícitamente en tu unidad y cómo se verifica que quedaron disponibles",
+    "entregable": "una selección justificada de palabras de alto rendimiento con su plan de enseñanza y verificación",
+    "conceptos": [
+      ["Vocabulario receptivo y productivo", "palabras que el estudiante comprende al escucharlas o leerlas frente a las que efectivamente usa"],
+      ["Palabras de alto rendimiento", "términos frecuentes en el lenguaje escrito y transversales a varias asignaturas, que rinden más al enseñarse"],
+      ["Conocimiento del mundo", "información previa sobre el tema del texto; determina cuánto se comprende con las mismas palabras"],
+      ["Efecto acumulativo", "dinámica por la que quien sabe más palabras aprende más palabras al leer, y quien sabe menos se rezaga"]
+    ],
+    "desarrollo": "El vocabulario se adquiere sobre todo por exposición al lenguaje, y esa exposición es profundamente desigual antes de que la escuela intervenga. La consecuencia es un efecto acumulativo: leer requiere vocabulario y a la vez lo construye, de modo que las diferencias se amplifican con los años. La escuela puede intervenir en dos frentes: enseñar deliberadamente un conjunto acotado de palabras de alto rendimiento, y construir conocimiento del mundo mediante lectura en voz alta y unidades temáticas con contenido real.",
+    "practica": "La enseñanza deliberada rinde cuando se eligen pocas palabras y se trabajan en profundidad: definición en lenguaje accesible, ejemplos y contraejemplos, uso en contextos distintos y recuperación espaciada. Elegir bien importa más que enseñar muchas: las palabras frecuentes en el lenguaje escrito y transversales a asignaturas rinden más que las técnicas de un solo tema. El resto del vocabulario se construye por volumen de lectura y de escucha, que la escuela puede aumentar deliberadamente.",
+    "limites": "El tamaño del vocabulario que se puede enseñar directamente es una fracción mínima del que un estudiante necesita: la enseñanza explícita nunca reemplaza al volumen de exposición. Además, la relación entre vocabulario y comprensión es en parte indirecta —ambos dependen del conocimiento previo—, de modo que enseñar listas de palabras sin construir conocimiento del tema produce definiciones memorizadas sin efecto sobre la comprensión.",
+    "errores": [
+      "Entregar listas de palabras para memorizar y evaluarlas con definiciones textuales.",
+      "Suponer que el vocabulario se adquiere solo por leer, en estudiantes que aún leen poco y con dificultad."
+    ],
+    "criterios": [
+      "la selección de palabras declara el criterio por el que se eligieron esas y no otras;",
+      "existe verificación de uso en contexto y no solo de reconocimiento de la definición;"
+    ],
+    "preguntas": [
+      "¿Qué diez palabras de tu próxima unidad rinden en más de una asignatura?",
+      "¿Cómo sabrás si una palabra enseñada quedó disponible tres semanas después?",
+      "¿Qué conocimiento del mundo asume el texto que vas a usar, y quién de tu curso no lo tiene?"
+    ],
+    "lecturas": [
+      ["Romeo, R. et al. (2018). *Beyond the 30-Million-Word Gap*.", "corrige la lectura simplista de la brecha de vocabulario y señala qué interacción importa realmente."],
+      ["Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*.", "conecta lenguaje oral temprano con comprensión posterior con evidencia longitudinal."]
+    ],
+    "inclusion": "La enseñanza deliberada de vocabulario es una de las intervenciones más equitativas disponibles: beneficia especialmente a estudiantes cuyo entorno no aporta el vocabulario académico. Para estudiantes que aprenden el castellano como segunda lengua, el trabajo de vocabulario es enseñanza de la lengua de instrucción y debe planificarse como tal.",
+    "reto": "Selecciona diez palabras de alto rendimiento de tu próxima unidad. Enséñalas con recuperación espaciada y verifica su uso en producción escrita tres semanas después.",
+    "conexion": "Complementa la clase 220 y sostiene la 222: sin vocabulario, ninguna estrategia de comprensión produce comprensión. Enlaza con la clase 227."
+  },
+  {
+    "n": 222,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué enseñar estrategias de comprensión funciona rápido y deja de rendir pronto",
+    "proposito": "Enseñar estrategias de comprensión con dosis breve y explícita, y reconocer cuándo el problema no es de estrategia sino de conocimiento.",
+    "decision": "determinar si la dificultad de comprensión de tu curso pide estrategia, vocabulario o conocimiento del tema",
+    "entregable": "una secuencia de comprensión que declara la estrategia enseñada, su dosis y el conocimiento previo que exige el texto",
+    "conceptos": [
+      ["Estrategia de comprensión", "procedimiento deliberado —predecir, resumir, preguntarse, clarificar— que el lector aplica sobre el texto"],
+      ["Enseñanza recíproca", "formato en que los estudiantes turnan el rol de conductor aplicando un conjunto pequeño de estrategias"],
+      ["Modelo situacional", "representación mental de lo que el texto describe, más allá de las palabras; es lo que realmente se recuerda"],
+      ["Efecto de saturación", "punto a partir del cual seguir enseñando estrategias no agrega comprensión medible"]
+    ],
+    "desarrollo": "Enseñar a los estudiantes a resumir, preguntarse y monitorear su comprensión produce efectos medibles y rápidos, sobre todo en lectores que nunca supervisaron su propia lectura. El hallazgo incómodo es que esos efectos saturan: unas pocas semanas de enseñanza explícita capturan casi todo el beneficio, y prolongarla desplaza tiempo que rendiría más leyendo sobre el tema. La razón es que la comprensión depende sobre todo de conocimiento —del mundo y de palabras—, y ninguna estrategia sustituye lo que el lector no sabe.",
+    "practica": "La aplicación profesional es de dosis: enseñar pocas estrategias, modelarlas en voz alta, practicarlas con textos del contenido que se está estudiando y luego soltarlas para que se usen sin nombrarlas. La enseñanza recíproca funciona bien porque distribuye el rol y obliga a verbalizar. El error de diseño más común es convertir la estrategia en el contenido de la clase: llenar el cuaderno de organizadores gráficos sobre textos que el estudiante no podía entender por falta de vocabulario.",
+    "limites": "El efecto de las estrategias es real, rápido y limitado; no compensa vacíos de conocimiento ni de vocabulario. Buena parte de la investigación mide comprensión con pruebas de textos breves y descontextualizados, que favorecen precisamente a las estrategias; el efecto sobre la comprensión de textos largos y disciplinares está menos establecido. La comprensión, además, es en buena medida específica del dominio: comprender un texto de historia no garantiza comprender uno de biología.",
+    "errores": [
+      "Dedicar un semestre a enseñar estrategias con textos que el estudiante no puede decodificar ni entender.",
+      "Evaluar la aplicación de la estrategia —el organizador completo— en vez de la comprensión del texto."
+    ],
+    "criterios": [
+      "la secuencia declara qué estrategias enseña, con qué dosis y cuándo deja de enseñarlas;",
+      "el texto elegido declara el conocimiento previo que exige y cómo se construye antes;"
+    ],
+    "preguntas": [
+      "¿Tu estudiante no comprende porque no supervisa la lectura o porque no conoce el tema?",
+      "¿Cuánto tiempo llevas enseñando estrategias y qué evidencia tienes de que siguen rindiendo?",
+      "¿Qué conocimiento previo asume el texto y cómo lo construyes antes de repartirlo?"
+    ],
+    "lecturas": [
+      ["Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.", "trata el efecto de saturación de las estrategias con el detalle que la práctica escolar suele ignorar."],
+      ["Seidenberg, M. (2017). *Language at the Speed of Sight*.", "explica por qué el conocimiento pesa más que la técnica en la comprensión."]
+    ],
+    "inclusion": "Los estudiantes con menos exposición previa al lenguaje escrito ganan más con la enseñanza explícita de supervisión, y pierden más cuando la clase reemplaza la construcción de conocimiento por ejercicios de estrategia. Para quien aprende en segunda lengua, la estrategia sin vocabulario no produce comprensión.",
+    "reto": "Toma un texto de tu asignatura y lista el conocimiento previo que exige. Construye ese conocimiento en dos clases antes de entregarlo y compara la comprensión con la del curso anterior.",
+    "conexion": "Depende de las clases 220 y 221, y prepara la 227, donde la comprensión se vuelve responsabilidad de cada asignatura."
+  },
+  {
+    "n": 223,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué escribir es la tarea escolar que más carga impone y la que menos se enseña por partes",
+    "proposito": "Enseñar escritura inicial distinguiendo transcripción de composición, con práctica deliberada de ambas y retroalimentación que corrija lo enseñado.",
+    "decision": "determinar qué componente de la escritura enseñas en cada tramo y qué se corrige en cada entrega",
+    "entregable": "una secuencia de escritura con transcripción, composición y revisión declaradas por separado",
+    "conceptos": [
+      ["Transcripción", "componentes de bajo nivel de la escritura: caligrafía, ortografía y automatización del trazo"],
+      ["Composición", "generación y organización de ideas, elección léxica y estructura del texto"],
+      ["Estrategias autorreguladas", "enseñanza explícita del proceso de escribir —planificar, redactar, revisar— con andamiaje decreciente"],
+      ["Retroalimentación focalizada", "corrección de un aspecto declarado de antemano, en vez de marcar todo lo corregible"]
+    ],
+    "desarrollo": "Escribir es la tarea escolar que más recursos cognitivos consume simultáneamente: hay que decidir qué decir, cómo decirlo, cómo se escriben las palabras y cómo se trazan las letras. Cuando la transcripción no está automatizada, consume la capacidad que la composición necesitaba, y el resultado es un texto pobre que se interpreta como falta de ideas. Separar los componentes permite enseñar cada uno con la práctica que le corresponde y diagnosticar qué falla realmente.",
+    "practica": "La enseñanza que rinde combina práctica de transcripción hasta la automatización, enseñanza explícita del proceso de composición con modelamiento y andamiaje que se retira, y revisión con criterios conocidos de antemano. La retroalimentación funciona cuando es focalizada: corregir un aspecto declarado, no marcar cada error del texto. Escribir mucho sin enseñanza produce sobre todo consolidación de lo que ya se hacía.",
+    "limites": "La evidencia sobre enseñanza de la escritura es más débil que la de la lectura y proviene mayoritariamente del inglés, con implicancias distintas para una ortografía transparente. El efecto de la enseñanza explícita del proceso es sólido en textos escolares acotados; su transferencia a la escritura disciplinar avanzada está menos documentada. Y ninguna cantidad de método compensa no tener nada que decir sobre el tema.",
+    "errores": [
+      "Corregir todo en cada texto y anular la señal: el estudiante no sabe qué debía mejorar.",
+      "Pedir composición extensa a estudiantes que aún no automatizan la transcripción, y leer el resultado como falta de ideas."
+    ],
+    "criterios": [
+      "la secuencia distingue explícitamente transcripción, composición y revisión;",
+      "cada entrega declara de antemano qué aspecto se retroalimenta;"
+    ],
+    "preguntas": [
+      "¿Cuánto de la dificultad de tus estudiantes al escribir es transcripción y cuánto es composición?",
+      "¿Qué aspecto declaraste que ibas a corregir en la última entrega, y lo cumpliste?",
+      "¿Qué andamiaje retiraste durante el semestre y con qué evidencia decidiste retirarlo?"
+    ],
+    "lecturas": [
+      ["Graham, S. & Perin, D. (2007). *Writing Next*.", "la síntesis que ordena qué prácticas de escritura tienen respaldo y con qué magnitud."],
+      ["Graham, S. & Harris, K. *Self-Regulated Strategy Development*.", "el modelo de enseñanza explícita del proceso de escribir con andamiaje decreciente."]
+    ],
+    "inclusion": "Para estudiantes con disgrafía o dificultad motora, automatizar la transcripción puede no ser una meta razonable y corresponde ofrecer vías alternativas —teclado, dictado— sin reducir la exigencia de composición. Confundir ambas cosas es lo que produce evaluaciones que miden caligrafía y las llaman escritura.",
+    "reto": "Toma tres textos de tus estudiantes y clasifica cada dificultad como transcripción o composición. Diseña dos semanas de práctica para el componente que domine el diagnóstico.",
+    "conexion": "Se apoya en la clase 219 y complementa la 222. Prepara la 227, donde escribir es la forma de aprender el contenido de cada asignatura."
+  },
+  {
+    "n": 224,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se distingue una dificultad específica de lectura de una enseñanza insuficiente",
+    "proposito": "Reconocer el perfil de la dislexia y de otras dificultades específicas, responder con intervención intensiva y evitar tanto el sobrediagnóstico como el abandono.",
+    "decision": "determinar si el bajo rendimiento lector de un estudiante exige intensificar la enseñanza o iniciar evaluación especializada",
+    "entregable": "un informe de decisión con evidencia de respuesta a la enseñanza y criterio de derivación",
+    "conceptos": [
+      ["Dislexia", "dificultad persistente y específica en el reconocimiento preciso y fluido de palabras, de base fonológica y no explicada por falta de enseñanza"],
+      ["Doble déficit", "combinación de debilidad fonológica y lentitud de nombrado automático, asociada a los cuadros más resistentes"],
+      ["Respuesta a la enseñanza", "criterio que evalúa el progreso ante enseñanza de calidad antes de atribuir la dificultad al estudiante"],
+      ["Intervención intensiva", "aumento de dosis, explicitud y frecuencia con grupos pequeños y monitoreo frecuente"]
+    ],
+    "desarrollo": "La dislexia no es una lectura invertida ni un problema de visión: es una dificultad específica y persistente en el reconocimiento de palabras, con base fonológica. El diagnóstico exige descartar primero la explicación más frecuente y más corregible, que es enseñanza insuficiente. De ahí que el criterio de respuesta a la enseñanza sea tan útil: se intensifica la enseñanza con calidad comprobada, se monitorea, y solo si el progreso sigue siendo insuficiente se sospecha una dificultad específica.",
+    "practica": "El procedimiento profesional tiene orden. Primero se verifica que la enseñanza recibida fue sistemática y explícita. Luego se intensifica en grupo pequeño con monitoreo frecuente durante un plazo declarado. Si el progreso es insuficiente pese a eso, corresponde derivar a evaluación especializada. Mientras tanto, la enseñanza no se detiene ni se rebaja: los apoyos de acceso —más tiempo, texto leído en voz alta, formato— permiten seguir aprendiendo el contenido mientras se trabaja la lectura.",
+    "limites": "El límite entre dificultad específica y bajo rendimiento es un continuo, no una frontera natural, y depende del punto de corte que se elija. La evaluación diagnóstica en español dispone de menos instrumentos normados que en inglés. Además, el criterio de respuesta a la enseñanza solo funciona si la enseñanza previa fue de calidad: aplicado sobre enseñanza deficiente, convierte la falla del sistema en un atributo del estudiante.",
+    "errores": [
+      "Derivar a evaluación especializada sin haber verificado la calidad y la dosis de la enseñanza recibida.",
+      "Esperar a que el estudiante madure y perder los años en que la intervención rinde más."
+    ],
+    "criterios": [
+      "el informe documenta la enseñanza recibida antes de atribuir la dificultad al estudiante;",
+      "existe monitoreo con al menos tres mediciones y un criterio explícito de derivación;"
+    ],
+    "preguntas": [
+      "¿Qué evidencia tienes de que este estudiante recibió enseñanza sistemática antes de sospechar dislexia?",
+      "¿Cuánto tiempo llevas esperando maduración, y qué te hace pensar que llegará sola?",
+      "¿Qué apoyos de acceso tiene hoy para seguir aprendiendo mientras trabaja su lectura?"
+    ],
+    "lecturas": [
+      ["Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*.", "distingue lo que funciona de lo que se vende, con criterios de intensidad y monitoreo."],
+      ["Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*.", "el marco que ordena la secuencia de intensificación antes de la derivación."]
+    ],
+    "inclusion": "Una dificultad específica no justifica reducir el objetivo de aprendizaje: justifica cambiar la vía de acceso y aumentar la enseñanza. Confundir ambas cosas condena a un estudiante con inteligencia intacta a un currículum empobrecido por un problema de lectura tratable.",
+    "reto": "Toma el caso de un estudiante con bajo rendimiento lector. Documenta la enseñanza recibida, aplica ocho semanas de intensificación con tres mediciones y escribe la decisión que corresponde.",
+    "conexion": "Depende de las clases 219 y 220 y se articula con la 226. Profundiza lo tratado en la clase 104."
+  },
+  {
+    "n": 225,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué una sola prueba de lectura impide decidir y cuatro medidas breves permiten hacerlo",
+    "proposito": "Construir un sistema de evaluación lectora por componentes, con instrumentos breves, comparables y repetibles a lo largo del año.",
+    "decision": "determinar qué se mide, cuándo y con qué instrumento en el sistema de evaluación lectora de tu establecimiento",
+    "entregable": "un calendario de evaluación lectora con instrumento, frecuencia, responsable y uso previsto de cada medida",
+    "conceptos": [
+      ["Evaluación por componentes", "medición separada de decodificación, fluidez, vocabulario y comprensión para localizar la dificultad"],
+      ["Medida breve repetible", "instrumento de pocos minutos, aplicable varias veces al año, que permite ver progreso y no solo estado"],
+      ["Punto de corte", "umbral que separa quién requiere intervención; es una decisión, no un hecho natural"],
+      ["Uso previsto", "decisión que se tomará con el resultado, declarada antes de aplicar el instrumento"]
+    ],
+    "desarrollo": "La evaluación lectora escolar suele consistir en una prueba de comprensión aplicada dos veces al año, que informa que hay un problema sin decir dónde está. Un sistema útil hace lo contrario: mide poco, breve y seguido, y separa componentes. La virtud de las medidas breves repetibles es que muestran pendiente y no solo altura: un estudiante bajo que progresa rápido y otro bajo que no progresa requieren decisiones opuestas, y una medición anual no distingue entre ambos.",
+    "practica": "Un sistema profesional declara antes de aplicar qué decisión se tomará con cada resultado. Fija tres a cuatro momentos en el año, asigna responsable, define condiciones de aplicación para que los datos sean comparables y establece el punto de corte con su justificación. Los resultados se revisan en equipo y desembocan en movimientos concretos de agrupamiento e intervención; si nadie cambia nada tras la medición, el sistema es un rito administrativo.",
+    "limites": "Las medidas breves miden bien lo que miden y nada más: la fluidez no informa sobre vocabulario, y ninguna informa sobre gusto por leer. Los puntos de corte disponibles provienen en su mayoría de otros sistemas escolares y sirven mejor para seguir el progreso individual que para clasificar. Y toda medición frecuente corre el riesgo de estrechar la enseñanza hacia lo medido si el equipo pierde de vista el propósito.",
+    "errores": [
+      "Aplicar instrumentos sin haber declarado qué decisión se tomará con el resultado.",
+      "Comparar mediciones tomadas con textos y condiciones distintas y leer la diferencia como progreso."
+    ],
+    "criterios": [
+      "cada instrumento del calendario declara su uso previsto y su responsable;",
+      "las condiciones de aplicación están fijadas de modo que los resultados sean comparables;"
+    ],
+    "preguntas": [
+      "¿Qué decisión concreta se tomó el año pasado con los resultados de lectura de tu establecimiento?",
+      "¿Tus mediciones permiten ver pendiente o solo estado?",
+      "¿Quién es responsable de aplicar cada instrumento y quién de que el resultado se use?"
+    ],
+    "lecturas": [
+      ["Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*.", "modelo de medición frecuente ligada a decisiones de intervención y no a informes."],
+      ["AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.", "obliga a declarar el uso previsto antes de aplicar cualquier instrumento."]
+    ],
+    "inclusion": "Un sistema por componentes protege a los estudiantes que hoy quedan invisibles: el que decodifica bien y no comprende, y el que comprende oralmente y no decodifica. Las adecuaciones de aplicación se declaran de antemano para que los resultados sigan siendo interpretables.",
+    "reto": "Diseña el calendario de evaluación lectora de un ciclo completo. Declara para cada instrumento su uso previsto y presenta el diseño al equipo para que comprometa las decisiones asociadas.",
+    "conexion": "Integra las clases 217 a 224 y alimenta la 226. Se apoya en el marco de validez de la parte 11."
+  },
+  {
+    "n": 226,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se organiza el apoyo lector de una escuela para que no dependa de la buena voluntad de un docente",
+    "proposito": "Organizar la enseñanza lectora en niveles de intensidad, con criterios de entrada y salida, para concentrar los recursos escasos donde rinden más.",
+    "decision": "determinar quién entra a intervención intensiva, con qué dosis y bajo qué criterio de salida",
+    "entregable": "un esquema de intervención por niveles con criterios de entrada y salida, dosis y responsables",
+    "conceptos": [
+      ["Intervención por niveles", "organización de la enseñanza en capas de intensidad creciente, con la enseñanza de aula como primera capa"],
+      ["Enseñanza de calidad universal", "primera capa que atiende a todos; si falla, ninguna capa posterior alcanza a compensarla"],
+      ["Criterio de entrada y salida", "umbral declarado que define quién recibe apoyo adicional y cuándo lo deja"],
+      ["Dosis", "combinación de frecuencia, duración y tamaño de grupo que define la intensidad real de un apoyo"]
+    ],
+    "desarrollo": "Ninguna escuela tiene recursos para dar apoyo intensivo a todos, y por eso la pregunta relevante es de asignación. El modelo por niveles resuelve esa asignación con una lógica simple: se asegura primero la enseñanza de calidad para todos, se identifica con medidas breves quién no progresa, se agrega intensidad en grupo pequeño y se reserva la mayor intensidad para los pocos que aún no responden. La primera capa es la más importante: si la enseñanza de aula es deficiente, la demanda de apoyo desborda cualquier estructura.",
+    "practica": "Un esquema aplicable declara cuántos estudiantes puede sostener cada capa, con qué frecuencia y en qué horario real —no en el que sobra—, quién ejecuta y quién monitorea. Los criterios de entrada y salida se fijan antes para evitar que el apoyo se vuelva permanente por inercia. La revisión periódica en equipo es la que hace circular a los estudiantes entre capas; sin ella, el grupo de apoyo se congela con los mismos nombres todo el año.",
+    "limites": "El modelo supone que existe capacidad instalada para la primera capa y personal para las siguientes, lo que no siempre ocurre. Su evidencia es más sólida en lectura inicial que en cursos superiores o en otras áreas. Además, aplicado con rigidez se convierte en un sistema de clasificación temprana con efectos de expectativa, que es exactamente lo contrario de su propósito.",
+    "errores": [
+      "Montar capas de apoyo sobre una enseñanza de aula deficiente y esperar que compensen.",
+      "Dejar a los mismos estudiantes en el grupo de apoyo todo el año por no fijar criterio de salida."
+    ],
+    "criterios": [
+      "el esquema declara criterios de entrada y salida con umbral observable;",
+      "la dosis está expresada en frecuencia, duración, tamaño de grupo y horario real;"
+    ],
+    "preguntas": [
+      "¿Cuántos estudiantes puede sostener realmente tu segunda capa esta semana?",
+      "¿En qué horario ocurre el apoyo y qué deja de recibir el estudiante mientras tanto?",
+      "¿Quién decide que un estudiante sale del apoyo, y con qué evidencia?"
+    ],
+    "lecturas": [
+      ["Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*.", "el modelo original con sus condiciones de funcionamiento explícitas."],
+      ["Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*.", "qué intensidad hace falta realmente para mover el resultado en los casos resistentes."]
+    ],
+    "inclusion": "El apoyo por niveles no reemplaza al programa de integración ni al plan de apoyo individual: los ordena. El riesgo a vigilar es que el horario del apoyo se tome de las asignaturas que más motivan al estudiante, con lo que el precio del apoyo termina siendo el vínculo con la escuela.",
+    "reto": "Diseña el esquema de tu establecimiento con capacidad real por capa. Simula un semestre con los datos del curso y muestra cuántos estudiantes entrarían y saldrían.",
+    "conexion": "Aplica las clases 224 y 225 y prepara el proyecto integrador. Se articula con la parte 08 y con la clase 191."
+  },
+  {
+    "n": 227,
+    "evidencia": "EMERGENTE",
+    "foco": "por qué cada asignatura lee distinto y por qué eso no se enseña en ninguna",
+    "proposito": "Enseñar las formas de leer y escribir propias de cada disciplina, en vez de delegar la lectura al profesor de lenguaje.",
+    "decision": "determinar qué práctica lectora propia de tu asignatura vas a enseñar explícitamente este semestre",
+    "entregable": "una secuencia de alfabetización disciplinar con el tipo de texto, la forma de leerlo y la producción asociada",
+    "conceptos": [
+      ["Alfabetización disciplinar", "conjunto de prácticas de lectura y escritura propias de un campo: qué se considera evidencia, cómo se cita, qué se pregunta al texto"],
+      ["Lectura de fuentes", "práctica histórica de interrogar un documento por su origen, contexto e intención antes que por su contenido"],
+      ["Texto multimodal", "material que combina prosa, símbolos, gráficos o ecuaciones y exige leerlos de forma coordinada"],
+      ["Transferencia limitada", "hecho de que la habilidad lectora general no basta para leer bien en un dominio específico"]
+    ],
+    "desarrollo": "Un historiador, un físico y un abogado no leen igual, y esa diferencia no es de estilo sino de método: cada campo define qué cuenta como evidencia y qué se le pregunta a un texto. La escuela suele tratar la lectura como una habilidad general que se adquiere en lenguaje y luego se aplica en todas partes. La investigación sobre lectura experta sugiere lo contrario: buena parte de la dificultad de un estudiante en historia o en ciencias es de alfabetización disciplinar, no de comprensión general.",
+    "practica": "Enseñar alfabetización disciplinar significa hacer explícito lo que el docente experto hace automáticamente: mostrar cómo interroga una fuente, cómo lee un gráfico junto al párrafo que lo comenta, qué anota al margen y qué descarta. Se modela en voz alta, se practica con textos reales del campo y se evalúa con producciones propias de la disciplina. Es enseñanza de contenido y de lectura al mismo tiempo, no una actividad adicional.",
+    "limites": "La evidencia sobre alfabetización disciplinar es más reciente y menos concluyente que la de la alfabetización inicial: hay descripciones sólidas de la práctica experta y menos estudios que muestren efectos consistentes de enseñarla. Además, exige docentes que dominen su disciplina lo bastante como para explicitar su propio proceso, lo que no siempre está disponible. Y no reemplaza a la enseñanza básica de lectura: un estudiante que no decodifica no accede a ninguna disciplina.",
+    "errores": [
+      "Delegar toda la lectura al docente de lenguaje y evaluar en historia una comprensión que nadie enseñó.",
+      "Sustituir la enseñanza disciplinar por técnicas generales de subrayado y resumen."
+    ],
+    "criterios": [
+      "la secuencia declara la práctica lectora propia del campo y cómo se modela;",
+      "la producción evaluada es del tipo que la disciplina reconoce como legítimo;"
+    ],
+    "preguntas": [
+      "¿Qué le pregunta a un texto un experto de tu disciplina y dónde lo enseñas?",
+      "¿Qué parte de la dificultad de tus estudiantes es comprensión general y qué parte es disciplinar?",
+      "¿Qué producción escrita propia de tu campo pides, y la modelaste antes de pedirla?"
+    ],
+    "lecturas": [
+      ["Seidenberg, M. (2017). *Language at the Speed of Sight*.", "aporta el mecanismo que explica por qué el conocimiento del dominio pesa tanto en la comprensión."],
+      ["Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*.", "fundamenta por qué la enseñanza de la lectura de un campo es parte del saber didáctico de ese campo."]
+    ],
+    "inclusion": "Hacer explícitas las reglas implícitas de cada disciplina beneficia sobre todo a los estudiantes cuyo entorno no las transmite fuera de la escuela. Lo que para unos es evidente por familiaridad, para otros solo existe si alguien lo enseña.",
+    "reto": "Graba tu propio proceso al leer un texto de tu disciplina pensando en voz alta. Conviértelo en una clase de modelamiento y aplícala con un texto real del curso.",
+    "conexion": "Cierra el recorrido técnico de la parte 18 y conecta con las partes 04, 05 y 10. Prepara el proyecto integrador."
+  },
+  {
+    "n": 228,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "cómo se construye un plan lector que sobreviva al cambio de docentes y de dirección",
+    "proposito": "Integrar todo lo trabajado en un plan lector de establecimiento con progresión, medición, intervención y responsables definidos.",
+    "decision": "determinar el plan lector completo del establecimiento y quién responde por cada componente",
+    "entregable": "un plan lector de establecimiento con progresión por nivel, calendario de medición, esquema de intervención y responsables nombrados",
+    "conceptos": [
+      ["Plan lector de establecimiento", "documento que define qué se enseña, cuándo se mide y cómo se interviene en toda la trayectoria lectora"],
+      ["Continuidad entre niveles", "coherencia de la progresión cuando el estudiante cambia de curso y de docente"],
+      ["Responsable nombrado", "persona identificada para cada componente, sin la cual el plan depende de la voluntad general"],
+      ["Revisión programada", "fecha fijada de antemano para evaluar el plan con datos y decidir su ajuste"]
+    ],
+    "desarrollo": "Los planes lectores fracasan casi siempre por la misma razón: dependen de personas y no de estructura. Un docente comprometido levanta un sistema que funciona dos años y desaparece cuando se va. Un plan que sobrevive declara la progresión por nivel de modo que el docente que llega sepa qué se enseñó antes, fija el calendario de medición con responsables nombrados, y establece qué ocurre con los resultados. La diferencia entre un plan real y un documento de carpeta está en si alguien puede ejecutarlo sin haber estado en la reunión donde se acordó.",
+    "practica": "El proyecto integra las once clases anteriores: la progresión de correspondencias, la práctica de fluidez, el trabajo de vocabulario, la enseñanza de comprensión y de escritura, el calendario de evaluación por componentes y el esquema de intervención por niveles. Cada componente se entrega con responsable, plazo y evidencia de que ocurrió. El plan se presenta al equipo y se somete a la prueba decisiva: entregárselo a un docente nuevo y verificar si puede ejecutarlo.",
+    "limites": "Un plan es una hipótesis organizacional: aunque cada componente tenga respaldo, su implementación depende de tiempo docente, estabilidad del equipo y decisiones de dirección que exceden a quien lo escribe. Tampoco garantiza resultados en un año: las trayectorias lectoras se mueven en plazos largos y la lectura de resultados anuales suele producir cambios de rumbo prematuros.",
+    "errores": [
+      "Escribir el plan sin responsables nombrados ni horario real para cada componente.",
+      "Evaluar el plan a un año y descartarlo antes de que la progresión alcance a producir efecto."
+    ],
+    "criterios": [
+      "cada componente del plan tiene responsable, plazo y evidencia comprometida;",
+      "un docente que no participó en su elaboración puede ejecutar el plan leyéndolo;"
+    ],
+    "preguntas": [
+      "¿Qué pasa con tu plan si se van los dos docentes que más lo empujaron?",
+      "¿En qué fecha y con qué datos se revisará el plan, y quién convoca esa revisión?",
+      "¿Qué parte del plan no tiene hoy horario real asignado?"
+    ],
+    "lecturas": [
+      ["Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*.", "el marco de prevención que un plan de establecimiento debe traducir a decisiones."],
+      ["Bryk, A. et al. (2010). *Organizing Schools for Improvement*.", "qué condiciones organizacionales hacen que una mejora se sostenga más allá de las personas."]
+    ],
+    "inclusion": "El plan debe declarar explícitamente qué ocurre con los estudiantes que llegan a mitad de trayectoria, con quienes aprenden en segunda lengua y con quienes tienen dificultades específicas. Un plan que solo describe el caso típico deja fuera precisamente a quienes más dependen de que exista.",
+    "reto": "Escribe el plan lector completo de un establecimiento real o del caso. Entrégalo a alguien que no participó y pídele que ejecute la primera semana solo con el documento.",
+    "conexion": "Cierra la parte 18 integrando las clases 217 a 227, y enlaza con la parte 15 para su implementación institucional."
+  }
+]

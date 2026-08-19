@@ -18,7 +18,7 @@ De ahí se derivan las tres decisiones estructurales del programa:
 
 ## 2. El ciclo pedagógico
 
-Cada clase recorre el mismo ciclo, y las 216 lo repiten para que se vuelva un hábito
+Cada clase recorre el mismo ciclo, y las 300 lo repiten para que se vuelva un hábito
 profesional:
 
 ```text
@@ -77,7 +77,7 @@ El currículo vive en `manifests/` y se genera en `curriculum/` con
 
 - **Coherencia estructural garantizada.** Ninguna clase puede quedarse sin criterios de logro o
   sin declarar su estado de evidencia: el generador no lo permite.
-- **Cambios globales baratos.** Mejorar el contrato pedagógico de las 216 clases es una
+- **Cambios globales baratos.** Mejorar el contrato pedagógico de las 300 clases es una
   modificación en un solo lugar.
 - **Verificabilidad.** El CI comprueba que lo publicado coincide exactamente con la fuente. Si
   alguien edita una clase a mano, la validación falla.

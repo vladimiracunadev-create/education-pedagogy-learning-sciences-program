@@ -82,7 +82,7 @@ mi-portafolio/
 
 ## 7. Errores frecuentes de quienes empiezan
 
-- **Leer las 216 clases y no producir nada.** Es la forma más rápida de terminar el programa sin
+- **Leer las 300 clases y no producir nada.** Es la forma más rápida de terminar el programa sin
   haber aprendido.
 - **Saltarse la sección de límites.** Ahí está la diferencia entre aplicar con criterio y aplicar
   una receta.

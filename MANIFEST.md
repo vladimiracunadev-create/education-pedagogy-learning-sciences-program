@@ -9,17 +9,17 @@ repositorio.
 
 | Elemento | Cantidad |
 |---|---:|
-| Partes del currículo | 18 |
-| Clases | 216 |
-| Palabras en las clases | 840.621 |
-| Conceptos con definición operacional | 864 |
-| Señales observables exigidas | 648 |
-| Obras distintas citadas en clase | 353 |
-| Citas bibliográficas en clase | 432 |
-| Diagramas mermaid | 234 |
-| Preguntas de comprobación | 648 |
-| Evidencias de aprendizaje | 216 |
-| Proyectos integradores de parte | 18 |
+| Partes del currículo | 25 |
+| Clases | 300 |
+| Palabras en las clases | 1.176.335 |
+| Conceptos con definición operacional | 1.200 |
+| Señales observables exigidas | 900 |
+| Obras distintas citadas en clase | 438 |
+| Citas bibliográficas en clase | 600 |
+| Diagramas mermaid | 325 |
+| Preguntas de comprobación | 900 |
+| Evidencias de aprendizaje | 300 |
+| Proyectos integradores de parte | 25 |
 | Proyectos integradores mayores | 5 |
 | Guías de carrera por rol | 14 |
 | Documentos transversales | 17 |
@@ -30,7 +30,7 @@ repositorio.
 
 ## Estándar de clase
 
-Cada una de las 216 clases cumple el estándar **`clase-profunda`**: 22 secciones
+Cada una de las 300 clases cumple el estándar **`clase-profunda`**: 22 secciones
 obligatorias, mínimo de 2.500 palabras, un diagrama, cuatro conceptos con definición operacional,
 tres señales observables, ejemplo trabajado sobre el caso de su parte, rúbrica ponderada y
 fuentes con su uso declarado.

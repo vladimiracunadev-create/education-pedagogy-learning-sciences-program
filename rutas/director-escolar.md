@@ -85,6 +85,9 @@ sobre todo, a los estudiantes.
 188 (indicadores desagregados), 189 (ciclos de mejora), 191 (ética de la dirección),
 155 (crisis y derivación).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **21** Desafíos actuales del aula · **23** Bienestar, salud mental y sostenibilidad del oficio · **24** Modelos educativos internacionales y evidencia comparada · **22** Diversidad cultural, lingüística y territorial.
+Convivencia, bienestar del equipo, financiamiento y lectura crítica de modelos externos son decisiones directivas.
+
 ## 🏛️ Credenciales y habilitación en Chile
 
 - **Concurso público** para directores de establecimientos públicos, o el procedimiento que

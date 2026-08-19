@@ -87,6 +87,9 @@ saber qué error aparece siempre, qué analogía funciona y en qué orden convie
 064 (intervención graduada), 071 (evaluación auténtica), 121 (conocimiento pedagógico del
 contenido), 139 (retroalimentación).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **19** Metodologías y enfoques pedagógicos · **21** Desafíos actuales del aula · **23** Bienestar, salud mental y sostenibilidad del oficio · **22** Diversidad cultural, lingüística y territorial.
+El desenganche, la convivencia y la salud mental adolescente son el trabajo real; la 19 te da criterio para elegir método.
+
 ## 🏛️ Credenciales y habilitación en Chile
 
 - **Título de Pedagogía en Educación Media** en la disciplina, o título profesional afín con

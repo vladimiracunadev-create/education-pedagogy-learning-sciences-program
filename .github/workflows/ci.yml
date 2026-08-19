@@ -41,6 +41,9 @@ jobs:
       - name: Documentos generados al día
         run: python scripts/generar_indice.py --check
 
+      - name: Banco de actividades al día
+        run: python scripts/generar_actividades.py --check
+
       - name: Estructura, secciones obligatorias y enlaces internos
         run: python scripts/validar_estructura.py --resumen
 

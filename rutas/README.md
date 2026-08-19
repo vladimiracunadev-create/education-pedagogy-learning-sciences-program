@@ -1,6 +1,6 @@
 # 🧭 Rutas guiadas por rol
 
-El programa tiene 216 clases; **no todas son para todos a la vez**. Estas rutas ordenan el
+El programa tiene 300 clases; **no todas son para todos a la vez**. Estas rutas ordenan el
 recorrido según el rol al que apuntas: qué partes hacer, en qué orden, con qué evidencia
 practicar y qué credencial existe en Chile para ese oficio. Todas asumen que **empiezas por las
 partes 00 a 02** (fundamentos, ciencias del aprendizaje y desarrollo humano): son el cimiento
@@ -201,7 +201,7 @@ pueden usar.
 El único rol que exige el programa completo: enseñar a enseñar supone dominar todo lo que se va
 a formar.
 
-1. 📚 **Las 18 partes, en orden** (001–216)
+1. 📚 **Las 25 partes, en orden** (001–300)
 2. 📚 Con foco final en **Parte 15** (liderazgo) y **Parte 17** (formación docente y tesis)
 
 - 🧪 Programa de formación docente con acompañamiento en el puesto y evaluación de cambio de práctica

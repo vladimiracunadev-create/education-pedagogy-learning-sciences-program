@@ -84,6 +84,9 @@ tareas produce técnicos que quedan obsoletos con el primer cambio tecnológico.
 076 (seguridad como criterio), 077 (rúbricas de desempeño), 081 (práctica profesional),
 128 (práctica guiada e independiente).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **19** Metodologías y enfoques pedagógicos · **20** Estrategias pedagógicas para necesidades educativas específicas · **21** Desafíos actuales del aula · **24** Modelos educativos internacionales y evidencia comparada.
+El enfoque por competencias de la 19 y las estrategias de apoyo de la 20 son directamente aplicables al taller.
+
 ## 🏛️ Credenciales y habilitación en Chile
 
 - **Título profesional o técnico del área** más la **habilitación docente** que la normativa

@@ -10,8 +10,8 @@ integrador.
 
 | Nivel | Instrumento | Frecuencia |
 |---|---|---|
-| Clase | evidencia de aprendizaje + criterios de logro | 216 veces |
-| Clase | tres preguntas de comprobación, sin mirar el material | 216 veces |
+| Clase | evidencia de aprendizaje + criterios de logro | 300 veces |
+| Clase | tres preguntas de comprobación, sin mirar el material | 300 veces |
 | Parte | proyecto integrador (clase 12 de cada parte) | 18 veces |
 | Parte | evidencia mínima declarada en el README de la parte | 18 veces |
 | Etapa | revisión del portafolio con la rúbrica maestra | 5 veces |

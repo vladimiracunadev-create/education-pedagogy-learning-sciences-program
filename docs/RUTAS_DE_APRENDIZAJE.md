@@ -1,6 +1,6 @@
 # Rutas de aprendizaje
 
-El programa completo son 18 partes en orden. Pero casi nadie necesita todo de inmediato: estas
+El programa completo son 25 partes en orden. Pero casi nadie necesita todo de inmediato: estas
 rutas ordenan el recorrido según lo que vas a hacer. Todas parten igual, porque las partes 00 a
 02 fijan el vocabulario y los mecanismos que el resto usa.
 
@@ -95,7 +95,7 @@ multimedia y un tutor con IA documentado, verificado y con resguardo de datos.
 
 ## Ruta 10 · Formador de formadores
 
-**Programa completo: las 18 partes, 216 clases.**
+**Programa completo: las 25 partes, 300 clases.**
 
 Es la única ruta que no admite recortes, porque formar docentes exige dominio de todo lo que se
 va a formar. Cierra con la parte 17: dirección de tesis, formación de docentes y propuesta

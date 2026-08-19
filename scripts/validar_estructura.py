@@ -22,8 +22,8 @@ RAIZ = Path(__file__).resolve().parents[1]
 CURRICULO = RAIZ / "curriculum"
 MANIFIESTOS = RAIZ / "manifests"
 
-PARTES_ESPERADAS = 18
-CLASES_ESPERADAS = 216
+PARTES_ESPERADAS = 25
+CLASES_ESPERADAS = 300
 CLASES_POR_PARTE = 12
 
 # Estándar `clase-profunda`: por debajo de este umbral la clase perdió alguna de sus
@@ -157,7 +157,10 @@ def validar_rutas_por_rol(fallos: list[str]) -> int:
 def validar_enlaces(fallos: list[str]) -> int:
     """Comprueba que todo enlace relativo del repositorio apunte a algo existente."""
     comprobados = 0
-    carpetas = ("curriculum/**", "docs", "rutas", "templates", "projects", "cases", "assessments")
+    carpetas = (
+        "curriculum/**", "docs", "rutas", "actividades",
+        "templates", "projects", "cases", "assessments",
+    )
     documentos = list(RAIZ.glob("*.md"))
     for carpeta in carpetas:
         documentos += sorted(RAIZ.glob(f"{carpeta}/*.md"))
@@ -177,7 +180,7 @@ def validar_manifiestos(fallos: list[str]) -> None:
     curriculo = json.loads((MANIFIESTOS / "curriculum.json").read_text(encoding="utf-8"))
     numeros = [c["global_class"] for c in curriculo]
     if numeros != list(range(1, CLASES_ESPERADAS + 1)):
-        error(fallos, "la numeración global de curriculum.json no es correlativa de 1 a 216")
+        error(fallos, f"la numeración global de curriculum.json no es correlativa de 1 a {CLASES_ESPERADAS}")
 
     datos: dict[int, dict] = {}
     for archivo in sorted((MANIFIESTOS / "classes").glob("*.json")):

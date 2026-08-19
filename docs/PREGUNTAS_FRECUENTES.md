@@ -66,7 +66,7 @@ de fondo: un estudiante no es material de práctica, y toda decisión debe justi
 beneficio.
 
 **¿Cómo demuestro que completé el programa?**
-Con tu portafolio de evidencias: 216 productos con contexto, decisión, fundamento y criterio
+Con tu portafolio de evidencias: 300 productos con contexto, decisión, fundamento y criterio
 aplicado, más los 18 proyectos integradores. No hay certificado; hay evidencia, que es lo que se
 puede revisar.
 
@@ -77,7 +77,7 @@ manifiesto, no la clase publicada; se cita la fuente; y se distingue evidencia d
 ## Sobre el repositorio
 
 **¿Por qué el contenido se genera en vez de escribirse a mano?**
-Para garantizar que ninguna de las 216 clases quede sin criterios de logro, sin estado de
+Para garantizar que ninguna de las 300 clases quede sin criterios de logro, sin estado de
 evidencia o sin lecturas, y para que una mejora del contrato pedagógico se aplique a todas a la
 vez. El detalle está en [ARQUITECTURA.md](ARQUITECTURA.md).
 

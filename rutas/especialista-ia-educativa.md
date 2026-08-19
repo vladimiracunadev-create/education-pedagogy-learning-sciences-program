@@ -88,6 +88,9 @@ instituciones las asume sin haberlas leído.
 multimedia), 161 (analítica y sus límites), 163 (fundamentos de IA), 164 (modelos de lenguaje y
 verificación), 165 (RAG y tutores), 167 (ética, privacidad y sesgos), 168 (tutor responsable).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **19** Metodologías y enfoques pedagógicos · **21** Desafíos actuales del aula · **23** Bienestar, salud mental y sostenibilidad del oficio · **24** Modelos educativos internacionales y evidencia comparada.
+Elegir enfoque, entender el efecto de las pantallas y resguardar el bienestar son condiciones de cualquier implementación.
+
 ## 🏛️ Credenciales y marco
 
 - **No hay credencial obligatoria.** Lo que se exige en la práctica es criterio demostrable y

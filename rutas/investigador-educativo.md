@@ -86,6 +86,9 @@ investigaciones de aula omiten.
 documentada), 197 (diseños y amenazas), 200 (muestreo y potencia), 201 (reporte honesto),
 203 (ética y reproducibilidad), 208 (modelos multinivel).
 
+**Especialización · etapa F.** Las partes 18 a 24 profundizan donde el oficio se juega en la práctica. Para este rol, en este orden: **24** Modelos educativos internacionales y evidencia comparada · **18** Alfabetización inicial y ciencia de la lectura · **22** Diversidad cultural, lingüística y territorial · **21** Desafíos actuales del aula.
+La 24 entrega el método comparado y la 18 el campo con mejor evidencia disponible para investigar.
+
 ## 🏛️ Credenciales y marco
 
 - **Magíster o doctorado** del área para investigación formal; para investigación aplicada en la

@@ -17,7 +17,7 @@ el estado de cada contenido.
 | `MARCO-NORMATIVO` | el contenido lo decide una norma o política vigente, no la evidencia empírica | verificar la versión vigente antes de aplicarlo; la norma cambia y la clase no se actualiza sola |
 | `PRACTICA-PROFESIONAL` | conocimiento acumulado del oficio, útil y transferible, sin diseños de investigación que lo prueben | tratarlo como buen punto de partida sujeto a comprobación en tu contexto |
 
-La distribución real de los 216 estados está en [STATUS.md](../STATUS.md). Que casi la mitad del
+La distribución real de los 300 estados está en [STATUS.md](../STATUS.md). Que casi la mitad del
 programa sea `CONSISTENTE` y no `ROBUSTA` es información honesta sobre el campo, no una
 debilidad del material.
 

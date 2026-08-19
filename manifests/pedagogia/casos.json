@@ -1,6 +1,6 @@
 {
   "descripcion": "Caso persistente y artefacto de cada parte. El caso atraviesa las 12 clases de su parte: cada clase lo retoma en el ejemplo trabajado y en el caso profesional, de modo que el estudiante decide siempre sobre la misma realidad y ve cómo cambia su diagnóstico a medida que avanza.",
-  "institucion": "Liceo Municipal Los Aromos y su red: un establecimiento urbano de 620 estudiantes con enseñanza básica y media, un jardín VTF asociado, especialidad técnico-profesional en administración, alta rotación docente y resultados descendentes en los últimos tres años. Todos los datos son ficticios.",
+  "institucion": "Liceo Municipal Los Aromos y su red: un establecimiento urbano de 620 estudiantes con enseñanza básica y media, un jardín VTF asociado, especialidad técnico-profesional en administración, alta rotación docente y resultados descendentes en los últimos tres años. La red incluye además la Escuela Rural El Maitén, multigrado y de 48 estudiantes, y un convenio de práctica con la universidad que forma a sus docentes nuevos. Todos los datos son ficticios.",
   "partes": {
     "0": {
       "caso": "El equipo de Los Aromos discute si el problema de resultados es de enseñanza, de gestión o de contexto. Cada uno usa las palabras «calidad», «aprendizaje» y «pedagogía» con un significado distinto, y la reunión termina sin acuerdo por tercera vez.",
@@ -73,6 +73,34 @@
     "17": {
       "caso": "La red quiere formar a sus 42 docentes con un programa propio y sostenerlo tres años. El diseño inicial es un taller de ocho horas por semestre, sin acompañamiento en el aula y con evaluación por encuesta de satisfacción.",
       "artefacto": "propuesta doctoral defendible y programa de formación de formadores con acompañamiento en el puesto y evaluación de cambio de práctica"
+    },
+    "18": {
+      "caso": "En 3.º básico, 11 de 32 estudiantes leen bajo 60 palabras por minuto y el establecimiento no tiene registro de fluidez de años anteriores. La escuela compró un programa comercial de comprensión lectora sin haber medido decodificación.",
+      "artefacto": "plan lector con progresión por componentes, medición de fluidez y criterio de derivación a intervención intensiva"
+    },
+    "19": {
+      "caso": "El equipo directivo pide adoptar «aprendizaje basado en proyectos en todas las asignaturas» tras una charla. Dos docentes ya lo aplican con resultados opuestos y nadie ha definido qué se esperaba que mejorara.",
+      "artefacto": "decisión metodológica escrita con criterios de elección, condiciones de implementación y plan de verificación"
+    },
+    "20": {
+      "caso": "En 5.º A hay un estudiante con TDAH sin tratamiento estable, una estudiante con síndrome de Down que sigue el currículum con adecuaciones y dos con dificultades específicas de lectura. La docente tiene 45 minutos semanales de coordinación con la educadora diferencial.",
+      "artefacto": "plan de apoyo por estudiante con estrategias de aula, responsables, horario real de codocencia y evidencia de seguimiento"
+    },
+    "21": {
+      "caso": "En 8.º básico hubo tres agresiones físicas en un semestre, un video circulando por redes y una profesora con licencia tras un episodio en clase. El reglamento existe, se aplica de forma desigual y la asistencia del curso cayó al 78 %.",
+      "artefacto": "plan de convivencia con protocolos activables, escala de intervención, mediación y tres indicadores medidos mensualmente"
+    },
+    "22": {
+      "caso": "El liceo recibió 34 estudiantes migrantes en dos años, 9 de ellos sin dominio del castellano académico, y la Escuela Rural El Maitén atiende a 48 estudiantes en tres cursos combinados con presencia de familias mapuche. Ninguna planificación distingue esas realidades.",
+      "artefacto": "plan de pertinencia cultural y territorial con acogida lingüística, adecuación multigrado y uso declarado de los recursos SEP"
+    },
+    "23": {
+      "caso": "Cuatro docentes con licencia por salud mental en un año, dos derivaciones por autolesión sin protocolo escrito y un consejo de profesores donde nadie quiere asumir jefatura de curso. No existe registro de carga real por docente.",
+      "artefacto": "plan de bienestar escolar con protocolo de riesgo, medición de carga docente y compromisos institucionales verificables"
+    },
+    "24": {
+      "caso": "El sostenedor propone replicar «el modelo finlandés» eliminando pruebas estandarizadas internas. El equipo no distingue qué parte de ese sistema es política, qué parte es formación docente y qué parte no existe en el contexto chileno.",
+      "artefacto": "propuesta de adaptación fundamentada que declara qué se toma, qué se descarta y qué condición local haría fracasar el traslado"
     }
   }
 }

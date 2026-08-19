@@ -6,7 +6,7 @@ para que ninguna cifra del repositorio se escriba a mano y quede desactualizada:
 
   STATUS.md      métricas verificables con el comando que las reproduce
   FILE_INDEX.md  índice completo de archivos con su propósito
-  catalog.json   catálogo legible por máquina de las 216 clases
+  catalog.json   catálogo legible por máquina de las 300 clases
 
 Uso:
   python scripts/generar_indice.py
@@ -129,7 +129,7 @@ coincidiendo con lo publicado.
 | Partes | {len(packs)} |
 | Clases | {len(curriculo)} |
 | Clases por parte | 12 |
-| Palabras en las 216 clases | {numero(sum(palabras))} |
+| Palabras en las 300 clases | {numero(sum(palabras))} |
 | Palabras por clase | {min(palabras)}–{max(palabras)} (mediana {sorted(palabras)[len(palabras) // 2]}) |
 | Diagramas mermaid | {len(paginas) + len(packs)} (uno por clase y uno por parte) |
 | Conceptos con definición operacional | {numero(conceptos)} |
@@ -183,7 +183,7 @@ python -m unittest discover -s tests -v
 # --------------------------------------------------------------------------- #
 
 DESCRIPCIONES = {
-    "curriculum": "las 18 partes y sus 216 clases, generadas desde `manifests/`",
+    "curriculum": "las 25 partes y sus 300 clases, generadas desde `manifests/`",
     "manifests": "fuente única de verdad del currículo: nada se edita a mano en `curriculum/`",
     "docs": "documentos transversales: metodología, guías, bibliografía, marcos y protocolos",
     "rutas": "guías de carrera por rol: qué es, día a día, ruta en el programa y credenciales",
@@ -218,7 +218,7 @@ def construir_indice(curriculo, packs) -> str:
     ]
     proposito_raiz = {
         "README.md": "presentación del programa y punto de entrada",
-        "CURRICULUM.md": "las 18 partes y las 216 clases en una tabla",
+        "CURRICULUM.md": "las 25 partes y las 300 clases en una tabla",
         "SYLLABUS.md": "programa detallado con decisiones y evidencias por clase",
         "STATUS.md": "cifras verificables del estado del repositorio",
         "ROADMAP.md": "etapas de dominio y condiciones para avanzar",
@@ -232,7 +232,7 @@ def construir_indice(curriculo, packs) -> str:
         "FILE_INDEX.md": "este índice",
         "MANIFEST.md": "inventario cuantitativo verificable del repositorio",
         "VERSION": "versión vigente del programa",
-        "catalog.json": "catálogo de las 216 clases legible por máquina",
+        "catalog.json": "catálogo de las 300 clases legible por máquina",
         "requirements.txt": "dependencias opcionales de los generadores",
         "Makefile": "atajos de generación y validación",
     }
@@ -377,7 +377,7 @@ def construir_glosario(curriculo, clases) -> str:
     lineas = [
         "# Glosario del programa",
         "",
-        f"Los **{len(entradas)} términos** definidos en las 216 clases, con su definición "
+        f"Los **{len(entradas)} términos** definidos en las 300 clases, con su definición "
         "operacional y el enlace a la clase donde se trabaja. Se genera con "
         "`python scripts/generar_indice.py`: cada definición proviene de la clase que la usa, "
         "no de un diccionario aparte.",
@@ -422,7 +422,7 @@ def construir_syllabus(curriculo, packs, clases, etapas) -> str:
     bloques = [
         "# Programa detallado",
         "",
-        "Las 216 clases con lo que cada una habilita, la evidencia que exige y el estado de la "
+        "Las 300 clases con lo que cada una habilita, la evidencia que exige y el estado de la "
         "evidencia que la sostiene. Se genera con `python scripts/generar_indice.py`; la fuente "
         "es `manifests/`.",
         "",

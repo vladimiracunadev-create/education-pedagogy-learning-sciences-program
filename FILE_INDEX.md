@@ -9,7 +9,7 @@
 | [`CHANGELOG.md`](CHANGELOG.md) | historial de versiones |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | normas de convivencia del proyecto |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | cómo contribuir y qué exige una contribución |
-| [`CURRICULUM.md`](CURRICULUM.md) | las 18 partes y las 216 clases en una tabla |
+| [`CURRICULUM.md`](CURRICULUM.md) | las 25 partes y las 300 clases en una tabla |
 | [`FILE_INDEX.md`](FILE_INDEX.md) | este índice |
 | [`LICENSE`](LICENSE) | licencia MIT del código |
 | [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md) | licencia CC BY-NC-SA 4.0 del contenido educativo |
@@ -22,7 +22,7 @@
 | [`SUPPORT.md`](SUPPORT.md) | cómo pedir ayuda y dónde |
 | [`SYLLABUS.md`](SYLLABUS.md) | programa detallado con decisiones y evidencias por clase |
 | [`VERSION`](VERSION) | versión vigente del programa |
-| [`catalog.json`](catalog.json) | catálogo de las 216 clases legible por máquina |
+| [`catalog.json`](catalog.json) | catálogo de las 300 clases legible por máquina |
 | [`requirements.txt`](requirements.txt) | dependencias opcionales de los generadores |
 
 ## Directorios
@@ -33,17 +33,17 @@
 | `books/` | 1 | guía de lectura del programa |
 | `cases/` | 9 | casos profesionales para resolver con el marco del programa |
 | `chile-education-system/` | 9 | marco institucional y normativo chileno |
-| `curriculum/` | 234 | las 18 partes y sus 216 clases, generadas desde `manifests/` |
+| `curriculum/` | 325 | las 25 partes y sus 300 clases, generadas desde `manifests/` |
 | `datasets/` | 2 | datos sintéticos para practicar análisis |
 | `docs/` | 17 | documentos transversales: metodología, guías, bibliografía, marcos y protocolos |
 | `international-education/` | 1 | comparación internacional de sistemas educativos |
 | `labs/` | 13 | laboratorios y simuladores de práctica |
-| `manifests/` | 25 | fuente única de verdad del currículo: nada se edita a mano en `curriculum/` |
+| `manifests/` | 35 | fuente única de verdad del currículo: nada se edita a mano en `curriculum/` |
 | `notebooks/` | 1 | actividades analíticas reproducibles |
 | `papers/` | 1 | plantilla de revisión crítica de artículos |
 | `projects/` | 6 | proyectos integradores mayores del programa |
 | `rutas/` | 15 | guías de carrera por rol: qué es, día a día, ruta en el programa y credenciales |
-| `scripts/` | 6 | generadores y validadores; todo lo publicado se reconstruye con ellos |
+| `scripts/` | 7 | generadores y validadores; todo lo publicado se reconstruye con ellos |
 | `templates/` | 5 | plantillas de trabajo reutilizables |
 | `tests/` | 1 | pruebas estructurales del repositorio |
 | `virtual-school-lab/` | 1 | escuela y universidad simuladas para practicar decisiones |
@@ -355,6 +355,125 @@
 - `214` [Dirección y evaluación de tesis](curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-10-direccion-y-evaluacion-de-tesis/README.md)
 - `215` [Formación de docentes](curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-11-formacion-de-docentes/README.md)
 - `216` [Proyecto integrador: propuesta doctoral defendible](curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-12-proyecto-integrador-propuesta-doctoral-defendible/README.md)
+
+### Parte 18 — Alfabetización inicial y ciencia de la lectura
+
+[README de la parte](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/README.md) · clases 217–228
+
+- `217` [Qué resolvió la ciencia de la lectura](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-01-que-resolvio-la-ciencia-de-la-lectura/README.md)
+- `218` [Conciencia fonológica y principio alfabético](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-02-conciencia-fonologica-y-principio-alfabetico/README.md)
+- `219` [Enseñanza explícita de correspondencias en español](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-03-ensenanza-explicita-de-correspondencias-en-espanol/README.md)
+- `220` [Fluidez lectora: medirla y desarrollarla](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-04-fluidez-lectora-medirla-y-desarrollarla/README.md)
+- `221` [Vocabulario y conocimiento del mundo](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-05-vocabulario-y-conocimiento-del-mundo/README.md)
+- `222` [Comprensión lectora y sus estrategias](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-06-comprension-lectora-y-sus-estrategias/README.md)
+- `223` [Enseñanza de la escritura inicial](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-07-ensenanza-de-la-escritura-inicial/README.md)
+- `224` [Dislexia y dificultades específicas de lectura](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-08-dislexia-y-dificultades-especificas-de-lectura/README.md)
+- `225` [Evaluación de la lectura por componentes](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-09-evaluacion-de-la-lectura-por-componentes/README.md)
+- `226` [Intervención por niveles y grupos de refuerzo](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-10-intervencion-por-niveles-y-grupos-de-refuerzo/README.md)
+- `227` [Alfabetización disciplinar en las asignaturas](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-11-alfabetizacion-disciplinar-en-las-asignaturas/README.md)
+- `228` [Proyecto integrador: plan lector de establecimiento](curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-12-proyecto-integrador/README.md)
+
+### Parte 19 — Metodologías y enfoques pedagógicos
+
+[README de la parte](curriculum/part-19-metodologias-y-enfoques-pedagogicos/README.md) · clases 229–240
+
+- `229` [Cómo se compara un enfoque pedagógico](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-01-como-se-compara-un-enfoque-pedagogico/README.md)
+- `230` [Instrucción explícita y enseñanza directa](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-02-instruccion-explicita-y-ensenanza-directa/README.md)
+- `231` [Indagación y descubrimiento guiado](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-03-indagacion-y-descubrimiento-guiado/README.md)
+- `232` [Conductismo, cognitivismo y constructivismo](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-04-conductismo-cognitivismo-y-constructivismo/README.md)
+- `233` [Montessori, Waldorf y Reggio Emilia](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-05-montessori-waldorf-y-reggio-emilia/README.md)
+- `234` [Freinet, Escuela Nueva y pedagogías activas](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-06-freinet-escuela-nueva-y-pedagogias-activas/README.md)
+- `235` [Pedagogía crítica y educación popular](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-07-pedagogia-critica-y-educacion-popular/README.md)
+- `236` [Familias del aprendizaje basado en algo](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-08-familias-del-aprendizaje-basado-en-algo/README.md)
+- `237` [Aprendizaje-servicio y vínculo comunitario](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-09-aprendizaje-servicio-y-vinculo-comunitario/README.md)
+- `238` [Gamificación y juego serio](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-10-gamificacion-y-juego-serio/README.md)
+- `239` [Enfoque por competencias y su coherencia](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-11-enfoque-por-competencias-y-su-coherencia/README.md)
+- `240` [Proyecto integrador: decisión metodológica fundamentada](curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-12-proyecto-integrador/README.md)
+
+### Parte 20 — Estrategias pedagógicas para necesidades educativas específicas
+
+[README de la parte](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/README.md) · clases 241–252
+
+- `241` [De la categoría diagnóstica a la estrategia de aula](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-01-de-la-categoria-diagnostica-a-la-estrategia-de-aula/README.md)
+- `242` [TDAH: atención, autorregulación y organización](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-02-tdah-atencion-autorregulacion-y-organizacion/README.md)
+- `243` [Síndrome de Down: aprendizaje, lenguaje y participación](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-03-sindrome-de-down-aprendizaje-lenguaje-y-participacion/README.md)
+- `244` [Autismo: estructura, anticipación y comunicación](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-04-autismo-estructura-anticipacion-y-comunicacion/README.md)
+- `245` [Discapacidad intelectual y acceso al currículum](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-05-discapacidad-intelectual-y-acceso-al-curriculum/README.md)
+- `246` [Dislexia, disgrafía y discalculia en el aula común](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-06-dislexia-disgrafia-y-discalculia-en-el-aula-comun/README.md)
+- `247` [Discapacidad visual y auditiva: estrategias de acceso](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-07-discapacidad-visual-y-auditiva-estrategias-de-acceso/README.md)
+- `248` [Discapacidad motora y comunicación aumentativa](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-08-discapacidad-motora-y-comunicacion-aumentativa/README.md)
+- `249` [Trastornos del lenguaje y de la comunicación](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-09-trastornos-del-lenguaje-y-de-la-comunicacion/README.md)
+- `250` [Altas capacidades: enriquecimiento y aceleración](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-10-altas-capacidades-enriquecimiento-y-aceleracion/README.md)
+- `251` [Acompañamiento diferenciado y codocencia](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-11-acompanamiento-diferenciado-y-codocencia/README.md)
+- `252` [Proyecto integrador: plan de apoyo con estrategias verificables](curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-12-proyecto-integrador/README.md)
+
+### Parte 21 — Desafíos actuales del aula
+
+[README de la parte](curriculum/part-21-desafios-actuales-del-aula/README.md) · clases 253–264
+
+- `253` [Desenganche escolar y ausentismo crónico](curriculum/part-21-desafios-actuales-del-aula/class-01-desenganche-escolar-y-ausentismo-cronico/README.md)
+- `254` [Falta de sentido: por qué estudiar dejó de ser evidente](curriculum/part-21-desafios-actuales-del-aula/class-02-falta-de-sentido-por-que-estudiar-dejo-de-ser-evidente/README.md)
+- `255` [Atención, pantallas y fragmentación cognitiva](curriculum/part-21-desafios-actuales-del-aula/class-03-atencion-pantallas-y-fragmentacion-cognitiva/README.md)
+- `256` [Violencia escolar: tipos, factores y respuesta](curriculum/part-21-desafios-actuales-del-aula/class-04-violencia-escolar-tipos-factores-y-respuesta/README.md)
+- `257` [Acoso escolar: detección e intervención con evidencia](curriculum/part-21-desafios-actuales-del-aula/class-05-acoso-escolar-deteccion-e-intervencion-con-evidencia/README.md)
+- `258` [Ciberacoso y conflictos que entran desde fuera](curriculum/part-21-desafios-actuales-del-aula/class-06-ciberacoso-y-conflictos-que-entran-desde-fuera/README.md)
+- `259` [Conductas agresivas y desregulación emocional](curriculum/part-21-desafios-actuales-del-aula/class-07-conductas-agresivas-y-desregulacion-emocional/README.md)
+- `260` [Agresiones al docente y protección del equipo](curriculum/part-21-desafios-actuales-del-aula/class-08-agresiones-al-docente-y-proteccion-del-equipo/README.md)
+- `261` [Mediación escolar y prácticas restaurativas](curriculum/part-21-desafios-actuales-del-aula/class-09-mediacion-escolar-y-practicas-restaurativas/README.md)
+- `262` [Aulas numerosas y heterogéneas con recursos limitados](curriculum/part-21-desafios-actuales-del-aula/class-10-aulas-numerosas-y-heterogeneas-con-recursos-limitados/README.md)
+- `263` [Consumo, riesgo psicosocial y derivación](curriculum/part-21-desafios-actuales-del-aula/class-11-consumo-riesgo-psicosocial-y-derivacion/README.md)
+- `264` [Proyecto integrador: plan de convivencia con indicadores](curriculum/part-21-desafios-actuales-del-aula/class-12-proyecto-integrador/README.md)
+
+### Parte 22 — Diversidad cultural, lingüística y territorial
+
+[README de la parte](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/README.md) · clases 265–276
+
+- `265` [Lo que la escuela da por supuesto](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-01-lo-que-la-escuela-da-por-supuesto/README.md)
+- `266` [Educación intercultural: del folclor al diálogo de saberes](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-02-educacion-intercultural-del-folclor-al-dialogo-de-saberes/README.md)
+- `267` [Educación intercultural bilingüe y lenguas originarias](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-03-educacion-intercultural-bilingue-y-lenguas-originarias/README.md)
+- `268` [Estudiantes migrantes: acogida, trayectoria y derechos](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-04-estudiantes-migrantes-acogida-trayectoria-y-derechos/README.md)
+- `269` [Castellano como segunda lengua](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-05-castellano-como-segunda-lengua/README.md)
+- `270` [Enseñanza de lenguas extranjeras](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-06-ensenanza-de-lenguas-extranjeras/README.md)
+- `271` [Variedades lingüísticas y prejuicio](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-07-variedades-linguisticas-y-prejuicio/README.md)
+- `272` [Educación rural: territorio y pertinencia](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-08-educacion-rural-territorio-y-pertinencia/README.md)
+- `273` [Aula multigrado: varios niveles a la vez](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-09-aula-multigrado-varios-niveles-a-la-vez/README.md)
+- `274` [Segregación escolar y efecto par](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-10-segregacion-escolar-y-efecto-par/README.md)
+- `275` [Financiamiento, recursos y decisiones pedagógicas](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-11-financiamiento-recursos-y-decisiones-pedagogicas/README.md)
+- `276` [Proyecto integrador: plan de pertinencia cultural y territorial](curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-12-proyecto-integrador/README.md)
+
+### Parte 23 — Bienestar, salud mental y sostenibilidad del oficio
+
+[README de la parte](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/README.md) · clases 277–288
+
+- `277` [Salud mental escolar: alcance y límites de la escuela](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-01-salud-mental-escolar-alcance-y-limites-de-la-escuela/README.md)
+- `278` [Ansiedad y estrés académico](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-02-ansiedad-y-estres-academico/README.md)
+- `279` [Depresión, autolesión y riesgo suicida](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-03-depresion-autolesion-y-riesgo-suicida/README.md)
+- `280` [Aprendizaje socioemocional: qué funciona](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-04-aprendizaje-socioemocional-que-funciona/README.md)
+- `281` [Adversidad, trauma y prácticas sensibles](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-05-adversidad-trauma-y-practicas-sensibles/README.md)
+- `282` [Duelo, crisis y emergencias en la comunidad](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-06-duelo-crisis-y-emergencias-en-la-comunidad/README.md)
+- `283` [Afectividad y educación sexual integral](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-07-afectividad-y-educacion-sexual-integral/README.md)
+- `284` [Convivencia digital, imagen y exposición](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-08-convivencia-digital-imagen-y-exposicion/README.md)
+- `285` [Carga docente, tiempo y sostenibilidad](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-09-carga-docente-tiempo-y-sostenibilidad/README.md)
+- `286` [Desgaste profesional y su prevención institucional](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-10-desgaste-profesional-y-su-prevencion-institucional/README.md)
+- `287` [Cuidado del equipo y liderazgo del bienestar](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-11-cuidado-del-equipo-y-liderazgo-del-bienestar/README.md)
+- `288` [Proyecto integrador: plan de bienestar escolar](curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-12-proyecto-integrador/README.md)
+
+### Parte 24 — Modelos educativos internacionales y evidencia comparada
+
+[README de la parte](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/README.md) · clases 289–300
+
+- `289` [Cómo se lee un sistema educativo sin copiarlo](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-01-como-se-lee-un-sistema-educativo-sin-copiarlo/README.md)
+- `290` [Pruebas internacionales: qué miden y qué no](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-02-pruebas-internacionales-que-miden-y-que-no/README.md)
+- `291` [Finlandia: qué se malinterpretó](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-03-finlandia-que-se-malinterpreto/README.md)
+- `292` [Singapur: currículum, formación docente y matemática](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-04-singapur-curriculum-formacion-docente-y-matematica/README.md)
+- `293` [Estonia: equidad y digitalización](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-05-estonia-equidad-y-digitalizacion/README.md)
+- `294` [Japón y el lesson study](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-06-japon-y-el-lesson-study/README.md)
+- `295` [Shanghái: práctica deliberada entre docentes](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-07-shanghai-practica-deliberada-entre-docentes/README.md)
+- `296` [Ontario: mejora sistémica sostenida](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-08-ontario-mejora-sistemica-sostenida/README.md)
+- `297` [Portugal y Polonia: reformas que movieron resultados](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-09-portugal-y-polonia-reformas-que-movieron-resultados/README.md)
+- `298` [Escuela Nueva de Colombia y modelos de bajo costo](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-10-escuela-nueva-de-colombia-y-modelos-de-bajo-costo/README.md)
+- `299` [Chile en perspectiva comparada](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-11-chile-en-perspectiva-comparada/README.md)
+- `300` [Proyecto integrador: propuesta de adaptación fundamentada](curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-12-proyecto-integrador/README.md)
 
 ## Documentos transversales
 

@@ -1,0 +1,446 @@
+[
+  {
+    "n": 229,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué la pregunta «cuál método es mejor» no tiene respuesta y cuál sí la tiene",
+    "proposito": "Establecer criterios explícitos para comparar enfoques pedagógicos, de modo que la elección deje de depender de afinidad, moda o autoridad.",
+    "decision": "determinar con qué criterios vas a comparar dos enfoques antes de elegir uno para tu curso",
+    "entregable": "una matriz de comparación con criterios declarados, aplicada a dos enfoques para un mismo objetivo",
+    "conceptos": [
+      ["Criterio de comparación", "dimensión explícita —objetivo, conocimiento previo, tipo de contenido, costo— con la que se juzga un enfoque"],
+      ["Efecto de reversión por experticia", "fenómeno por el cual una ayuda que beneficia al novato perjudica al que ya sabe"],
+      ["Condición de implementación", "requisito sin el cual el método declarado no es el método que ocurre en la sala"],
+      ["Fidelidad de implementación", "grado en que lo ejecutado coincide con lo diseñado; sin medirla no se puede juzgar el método"]
+    ],
+    "desarrollo": "La discusión sobre métodos suele plantearse entre bandos y resolverse por identidad profesional. El problema es que la pregunta está mal hecha: ningún enfoque es superior en abstracto, porque su eficacia depende del objetivo perseguido, del conocimiento previo de quien aprende y de la naturaleza del contenido. El hallazgo más útil del campo es el efecto de reversión por experticia: el mismo apoyo que hace avanzar a un novato estorba a quien ya domina el área, lo que explica buena parte de los resultados contradictorios entre estudios.",
+    "practica": "Comparar profesionalmente exige declarar los criterios antes de mirar los enfoques. Cuatro bastan para la mayoría de las decisiones: qué objetivo persigue, qué conocimiento previo supone, qué condiciones de implementación exige y cuánto cuesta sostenerlo. A eso se suma una pregunta que casi nunca se hace: cómo sabremos si funcionó. Un enfoque adoptado sin plan de verificación no puede fracasar, porque nadie definió qué sería fracasar.",
+    "limites": "Los criterios ordenan la decisión pero no la resuelven: siguen exigiendo juicio profesional sobre un contexto que ningún estudio conoce. Además, buena parte de la investigación comparativa mide resultados de corto plazo y en tareas acotadas, que favorecen sistemáticamente a los enfoques más estructurados. Y la fidelidad de implementación es el factor que más explica los resultados y el que menos se reporta.",
+    "errores": [
+      "Comparar enfoques por sus resultados sin verificar si se implementaron como se diseñaron.",
+      "Elegir método por identidad profesional y buscar después la evidencia que lo respalde."
+    ],
+    "criterios": [
+      "la matriz declara los criterios antes de aplicarlos y los usa igual con ambos enfoques;",
+      "la comparación incluye condiciones de implementación y plan de verificación;"
+    ],
+    "preguntas": [
+      "¿Qué objetivo específico persigues, y qué enfoque tendría sentido si el objetivo fuera otro?",
+      "¿Qué conocimiento previo tienen realmente tus estudiantes sobre este contenido?",
+      "¿Qué observarías dentro de seis semanas que te haría concluir que el enfoque no funcionó?"
+    ],
+    "lecturas": [
+      ["Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*.", "el argumento más fuerte contra la guía mínima; conviene leerlo junto a sus réplicas."],
+      ["Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*", "separa descubrimiento puro de descubrimiento guiado, que es la distinción decisiva."]
+    ],
+    "inclusion": "Los criterios explícitos protegen a los estudiantes con menos conocimiento previo, que son los primeros perjudicados cuando un enfoque de guía baja se adopta porque suena moderno. Declarar el supuesto de conocimiento previo es también declarar a quién dejaría fuera.",
+    "reto": "Elige un objetivo concreto de tu asignatura y compara dos enfoques con cuatro criterios declarados. Escribe cuál eliges, qué condición exige y cómo verificarás el resultado.",
+    "conexion": "Abre la parte 19 y ordena las once clases siguientes. Retoma la clase 121 y prepara la 240."
+  },
+  {
+    "n": 230,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué el método con más respaldo empírico es también el peor entendido",
+    "proposito": "Aplicar instrucción explícita con su estructura completa —modelamiento, práctica guiada, práctica independiente y verificación— y distinguirla de la clase expositiva.",
+    "decision": "determinar cuándo tu contenido exige instrucción explícita y qué parte de su estructura estás omitiendo",
+    "entregable": "una clase diseñada con la estructura completa de la instrucción explícita y su registro de verificación",
+    "conceptos": [
+      ["Instrucción explícita", "enseñanza estructurada que presenta el contenido en pasos pequeños, con modelamiento, práctica guiada y verificación frecuente"],
+      ["Modelamiento", "demostración del procedimiento por parte del docente, verbalizando las decisiones que normalmente quedan implícitas"],
+      ["Práctica guiada", "ejecución del estudiante con apoyo y corrección inmediata antes de trabajar solo"],
+      ["Verificación frecuente", "comprobación del entendimiento de todo el grupo durante la clase, no al final de la unidad"]
+    ],
+    "desarrollo": "La instrucción explícita acumula uno de los respaldos empíricos más consistentes de la investigación sobre enseñanza, y aun así arrastra una reputación de método pasivo y anticuado. La confusión viene de identificarla con la clase expositiva. No son lo mismo: la clase expositiva presenta contenido, mientras que la instrucción explícita alterna presentación breve, práctica con corrección inmediata y verificación constante del grupo completo. Es, en la práctica, uno de los formatos con más participación por minuto.",
+    "practica": "La estructura completa importa porque el efecto viene del conjunto. Se presenta poco contenido a la vez, se modela el procedimiento pensando en voz alta, se practica con apoyo hasta que la mayoría acierta, se verifica el entendimiento de todos —no solo de quien levanta la mano— y recién entonces se suelta a práctica independiente. La omisión más frecuente es saltarse la práctica guiada: se explica y se manda a trabajar solo, con lo que la mitad del curso practica errores.",
+    "limites": "La instrucción explícita rinde más con contenido nuevo, con procedimientos bien definidos y con estudiantes de bajo conocimiento previo. Con estudiantes avanzados o en tareas genuinamente abiertas, la misma estructura puede volverse redundante y sofocante. Además, su evidencia proviene mayoritariamente de habilidades bien estructuradas —lectura, matemática, procedimientos— y se traslada peor a objetivos como el juicio estético o la deliberación ética.",
+    "errores": [
+      "Confundirla con exponer: explicar treinta minutos y llamar a eso instrucción explícita.",
+      "Verificar el entendimiento preguntando al curso en general y avanzar con la respuesta de tres estudiantes."
+    ],
+    "criterios": [
+      "la clase incluye modelamiento, práctica guiada, verificación y práctica independiente;",
+      "existe un registro de qué proporción del curso demostró entender antes de soltar la práctica;"
+    ],
+    "preguntas": [
+      "¿Cuál de los cuatro componentes omites con más frecuencia y por qué?",
+      "¿Cómo sabes cuántos entendieron antes de mandar a trabajar solos?",
+      "¿En qué contenido de tu asignatura este formato sería el equivocado?"
+    ],
+    "lecturas": [
+      ["Rosenshine, B. (2012). *Principles of Instruction*.", "la síntesis operativa más usada: diez principios derivados de investigación convergente."],
+      ["Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*.", "fundamenta desde la carga cognitiva por qué la guía alta rinde con novatos."]
+    ],
+    "inclusion": "La verificación frecuente del grupo completo es lo que evita que la clase avance con quienes ya sabían. Para estudiantes con dificultades de atención o de lenguaje, los pasos pequeños y la corrección inmediata son la diferencia entre participar y quedar fuera desde el primer minuto.",
+    "reto": "Diseña una clase con los cuatro componentes explícitos y registra qué proporción del curso acertó en la verificación antes de la práctica independiente.",
+    "conexion": "Se apoya en la clase 229 y contrasta directamente con la 231. Profundiza lo tratado en las clases 122 y 128."
+  },
+  {
+    "n": 231,
+    "evidencia": "EN-DEBATE",
+    "foco": "qué separa el descubrimiento guiado, que funciona, del descubrimiento puro, que no",
+    "proposito": "Diseñar indagación con la guía suficiente para que produzca aprendizaje, y reconocer cuándo la apertura se vuelve abandono.",
+    "decision": "determinar cuánta guía necesita tu actividad de indagación y en qué momento se retira",
+    "entregable": "una secuencia de indagación con el nivel de guía declarado en cada fase y su criterio de retirada",
+    "conceptos": [
+      ["Indagación guiada", "investigación estudiantil con pregunta, procedimiento o marco provistos por el docente en grados variables"],
+      ["Descubrimiento puro", "actividad en que el estudiante debe hallar el principio sin apoyo estructurado; su evidencia es consistentemente pobre"],
+      ["Andamiaje", "apoyo temporal calibrado que permite ejecutar lo que aún no se puede hacer solo, y que se retira de forma planificada"],
+      ["Carga cognitiva", "demanda de recursos mentales de una tarea; cuando excede la capacidad, no queda margen para aprender"]
+    ],
+    "desarrollo": "Este es el debate más largo y peor entendido del campo. La evidencia es bastante clara en un punto: pedir a estudiantes con poco conocimiento previo que descubran principios sin apoyo produce menos aprendizaje que enseñárselos, y produce además la ilusión de haber trabajado mucho. Pero eso no condena a la indagación: cuando la actividad entrega pregunta, procedimiento o marco de interpretación, y cuando el docente interviene en los momentos críticos, los resultados mejoran y aparecen aprendizajes que la exposición no genera.",
+    "practica": "Diseñar indagación consiste en decidir qué se entrega y qué se deja abierto en cada fase, y en anticipar el momento donde el grupo se atascará. La guía puede estar en la pregunta, en el procedimiento, en los datos, en el criterio de evaluación o en la síntesis final. La regla práctica: mientras menos conocimiento previo, más elementos se entregan, y la apertura crece a medida que el conocimiento se consolida.",
+    "limites": "El debate sigue abierto y buena parte depende de qué se mide: la indagación tiende a rendir peor en pruebas de conocimiento inmediato y mejor en transferencia y en actitud hacia la disciplina, aunque esta última evidencia es más débil. También hay un problema de definición: bajo el mismo nombre se agrupan actividades tan distintas que comparar estudios entre sí es problemático. Y el costo de tiempo es real: la indagación cubre menos contenido por hora.",
+    "errores": [
+      "Entregar una pregunta abierta a estudiantes sin la base conceptual para orientarse, y llamar a eso autonomía.",
+      "Concluir del debate que la indagación no sirve, cuando lo que no sirve es el descubrimiento sin guía."
+    ],
+    "criterios": [
+      "la secuencia declara qué elemento se entrega y cuál queda abierto en cada fase;",
+      "existe un punto de intervención previsto para el atasco anticipado;"
+    ],
+    "preguntas": [
+      "¿Qué sabe realmente tu curso antes de esta indagación, y alcanza para orientarse?",
+      "¿En qué punto vas a intervenir aunque el grupo no lo pida?",
+      "¿Qué aprendizaje esperas que esta actividad produzca y que una explicación no produciría?"
+    ],
+    "lecturas": [
+      ["Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*", "distingue con precisión qué versión del descubrimiento fracasa y cuál no."],
+      ["Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*.", "la crítica que obliga a defender cualquier diseño abierto con argumentos."]
+    ],
+    "inclusion": "La indagación sin guía amplifica las diferencias de origen: quien llega con conocimiento y con hábitos de estudio se orienta, y quien no llega con eso se pierde y concluye que el problema es suyo. El andamiaje explícito es aquí una medida de equidad, no una concesión.",
+    "reto": "Toma una actividad de indagación que ya usas y reescríbela declarando el nivel de guía por fase. Aplícala y registra dónde efectivamente se atascó el grupo.",
+    "conexion": "Contrasta con la clase 230 y prepara la 236. Enlaza con las clases 065 y 127."
+  },
+  {
+    "n": 232,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo tres teorías del aprendizaje se convierten en tres decisiones distintas el lunes en la sala",
+    "proposito": "Traducir las grandes tradiciones teóricas en decisiones de diseño concretas, y reconocer cuál está operando detrás de una práctica habitual.",
+    "decision": "determinar qué supuesto sobre el aprendizaje está detrás de la práctica que usas todos los días",
+    "entregable": "un análisis de tres prácticas propias que identifica el supuesto teórico de cada una y sus consecuencias",
+    "conceptos": [
+      ["Conductismo", "tradición que explica el aprendizaje por asociación entre conducta y consecuencia; ordena la práctica, el refuerzo y el moldeamiento"],
+      ["Cognitivismo", "tradición centrada en el procesamiento de información: atención, memoria de trabajo y organización del conocimiento"],
+      ["Constructivismo", "tradición según la cual el conocimiento se construye sobre estructuras previas mediante actividad del sujeto"],
+      ["Supuesto operante", "creencia sobre cómo se aprende que está detrás de una decisión pedagógica aunque nadie la enuncie"]
+    ],
+    "desarrollo": "Las tres tradiciones se presentan a menudo como una sucesión donde cada una supera a la anterior. Es una lectura cómoda y falsa. Cada una identificó un fenómeno real y aporta decisiones que la práctica sigue usando: el conductismo explica por qué la práctica distribuida y la retroalimentación inmediata funcionan; el cognitivismo explica los límites de la memoria de trabajo y por qué se enseña en pasos; el constructivismo explica por qué el conocimiento previo determina lo que se entiende de una explicación nueva.",
+    "practica": "El ejercicio profesional consiste en identificar el supuesto detrás de lo que ya se hace. Corregir errores de inmediato es una decisión conductista; fraccionar el contenido y controlar la carga es cognitivista; partir de las ideas previas y provocar conflicto conceptual es constructivista. Un docente competente combina los tres registros según el objetivo, y el problema aparece cuando adopta una etiqueta como identidad y descarta decisiones útiles por venir del bando equivocado.",
+    "limites": "Las tres tradiciones son marcos interpretativos, no teorías con capacidad predictiva fina para el aula: ninguna dice cuánto tiempo dedicar ni cómo agrupar. El constructivismo, en particular, es una teoría del conocimiento que fue traducida indebidamente a una prescripción metodológica: de que el estudiante construye su comprensión no se sigue que deba hacerlo sin enseñanza. Confundir teoría del aprendizaje con teoría de la enseñanza es el error más costoso del campo.",
+    "errores": [
+      "Deducir un método de una teoría del aprendizaje como si la relación fuera lógica y directa.",
+      "Descartar una práctica útil por asociarla a una tradición desprestigiada en el discurso profesional."
+    ],
+    "criterios": [
+      "el análisis identifica el supuesto operante de cada práctica con su consecuencia observable;",
+      "se declara al menos un caso donde el supuesto propio produce una decisión discutible;"
+    ],
+    "preguntas": [
+      "¿Qué supuesto sobre el aprendizaje hay detrás de tu forma de corregir?",
+      "¿Qué práctica útil estás descartando por venir de una tradición que te resulta ajena?",
+      "¿Dónde estás deduciendo un método de una teoría sin evidencia intermedia?"
+    ],
+    "lecturas": [
+      ["Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*", "muestra el salto indebido de teoría constructivista a prescripción metodológica."],
+      ["Sweller, J., van Merriënboer, J. & Paas, F. (1998). *Cognitive Architecture and Instructional Design*.", "el puente explícito entre arquitectura cognitiva y decisiones de diseño."]
+    ],
+    "inclusion": "Los supuestos implícitos tienen consecuencias distributivas: quien cree que el aprendizaje ocurre por descubrimiento espontáneo tiende a atribuir el fracaso a la falta de curiosidad del estudiante, y no a la ausencia de enseñanza. Explicitar el supuesto es el primer paso para hacerse cargo.",
+    "reto": "Registra tres decisiones que tomaste esta semana en clase. Identifica el supuesto teórico de cada una y evalúa si ese supuesto se sostiene con tus estudiantes.",
+    "conexion": "Da el fundamento teórico a las clases 230 y 231. Se apoya en la parte 01 y prepara la 233."
+  },
+  {
+    "n": 233,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "qué elemento de una pedagogía histórica transfiere a un aula de treinta y cinco estudiantes y cuál no",
+    "proposito": "Analizar Montessori, Waldorf y Reggio Emilia por su mecanismo y sus condiciones, para distinguir el núcleo transferible del envoltorio cultural.",
+    "decision": "determinar qué elemento de estas tradiciones puedes adoptar con las condiciones que efectivamente tienes",
+    "entregable": "una ficha de análisis de una tradición con mecanismo, condiciones, evidencia disponible y decisión de adopción",
+    "conceptos": [
+      ["Ambiente preparado", "principio Montessori: el entorno físico y los materiales estructuran la actividad sin intervención constante del adulto"],
+      ["Documentación pedagógica", "práctica de Reggio Emilia de registrar y exhibir el proceso de aprendizaje como material de reflexión colectiva"],
+      ["Ritmo evolutivo", "principio Waldorf de secuenciar contenidos según etapas del desarrollo, con contenidos formales tardíos"],
+      ["Núcleo transferible", "elemento de una tradición que conserva su efecto fuera del sistema institucional que lo originó"]
+    ],
+    "desarrollo": "Estas tres tradiciones llevan un siglo funcionando, formaron generaciones y sostienen redes escolares en decenas de países. También son objeto de una discusión honesta: su evidencia experimental es escasa, dispersa y difícil de producir, porque son sistemas completos y no intervenciones aisladas. Los estudios disponibles sobre Montessori muestran resultados favorables en algunos dominios y contextos, con problemas de comparabilidad; sobre Waldorf y Reggio, la evidencia sistemática es aún más limitada.",
+    "practica": "El análisis útil separa tres capas: el mecanismo que la tradición propone, las condiciones institucionales que exige y el envoltorio cultural que arrastra. El ambiente preparado de Montessori es adoptable parcialmente en un aula común; su modelo de agrupamiento por edades múltiples y jornada libre no lo es sin rediseñar la escuela. La documentación pedagógica de Reggio transfiere bien y ya opera en parvularia chilena. La decisión profesional consiste en tomar el mecanismo con honestidad sobre lo que se pierde al descontextualizarlo.",
+    "limites": "La evidencia es el punto débil y hay que decirlo con claridad: la adhesión a estas tradiciones descansa más en coherencia interna y experiencia acumulada que en estudios controlados. Además, buena parte de su efecto probablemente proviene de las condiciones que las acompañan —grupos pequeños, formación intensiva del adulto, continuidad, familias comprometidas— y no del método en sí. Adoptar el método sin esas condiciones puede producir resultados que la tradición no reconocería como propios.",
+    "errores": [
+      "Comprar material Montessori y usarlo como recurso decorativo dentro de una clase estructurada de otro modo.",
+      "Descartar una tradición completa por falta de estudios controlados sin examinar qué mecanismo propone."
+    ],
+    "criterios": [
+      "la ficha distingue mecanismo, condiciones institucionales y envoltorio cultural;",
+      "la decisión de adopción declara qué se pierde al descontextualizar el elemento elegido;"
+    ],
+    "preguntas": [
+      "¿Qué condición institucional exige el elemento que quieres adoptar y la tienes?",
+      "¿Qué evidencia existe sobre esa tradición y qué preguntas quedan sin responder?",
+      "¿Qué pasa con el elemento cuando se le quita el sistema que lo rodeaba?"
+    ],
+    "lecturas": [
+      ["Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.", "presenta una tradición viva desde dentro, con sus condiciones institucionales a la vista."],
+      ["Lillard, A. (2017). *Montessori: The Science Behind the Genius*.", "el intento más serio de conectar principios Montessori con investigación cognitiva, con sus límites declarados."]
+    ],
+    "inclusion": "Estas tradiciones se implantan a menudo en establecimientos de matrícula pagada, lo que confunde el efecto del método con el del contexto socioeconómico. Preguntarse qué de esto funcionaría en una escuela pública con treinta y cinco estudiantes por sala es una pregunta de equidad, no una objeción menor.",
+    "reto": "Elige un elemento concreto de una de las tres tradiciones. Analiza su mecanismo y condiciones, adáptalo a tu contexto real y registra qué se perdió en la adaptación.",
+    "conexion": "Aplica los criterios de la clase 229 y continúa en la 234. Enlaza con la parte 03 y con la clase 046."
+  },
+  {
+    "n": 234,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "qué aportaron las pedagogías activas cuando tuvieron que funcionar sin recursos",
+    "proposito": "Recuperar de Freinet, la Escuela Nueva y las pedagogías activas los dispositivos concretos que siguen operando y su condición de funcionamiento.",
+    "decision": "determinar qué dispositivo de las pedagogías activas resuelve un problema real de tu aula",
+    "entregable": "la implementación de un dispositivo de pedagogía activa con su registro de funcionamiento durante un mes",
+    "conceptos": [
+      ["Técnicas Freinet", "conjunto de dispositivos —texto libre, imprenta escolar, correspondencia, plan de trabajo— que organizan el aula en torno a producción real"],
+      ["Escuela Nueva", "movimiento pedagógico que centra la enseñanza en la actividad del estudiante y en el vínculo con la vida"],
+      ["Plan de trabajo", "instrumento que reparte la responsabilidad de la tarea entre estudiante y docente durante un período declarado"],
+      ["Producción con destinatario", "trabajo escolar dirigido a un lector o usuario real, lo que cambia el nivel de exigencia asumido"]
+    ],
+    "desarrollo": "Las pedagogías activas europeas de comienzos del siglo veinte se desarrollaron en escuelas rurales pobres y con un solo docente, lo que las hace inesperadamente pertinentes para contextos con pocos recursos. Freinet no proponía una filosofía abstracta sino dispositivos: la imprenta escolar, el texto libre, la correspondencia entre escuelas, el plan de trabajo individual. Su lógica común es que el trabajo escolar tenga destinatario real, porque eso cambia la exigencia que el estudiante se impone.",
+    "practica": "Adoptar estas técnicas hoy funciona mejor por dispositivo que por sistema completo. El plan de trabajo individual resuelve la gestión de ritmos distintos en un aula heterogénea. La producción con destinatario real —un blog, una publicación, una carta a otra escuela— eleva la exigencia sin agregar presión evaluativa. La asamblea de curso ordena la convivencia cuando se ejecuta con reglas y no como conversación abierta. Cada uno tiene su condición: sin ella, el dispositivo se convierte en actividad decorativa.",
+    "limites": "La tradición no dispone de evidencia experimental que respalde sus resultados de aprendizaje, y buena parte de lo que se sabe proviene de relatos de práctica. Sus dispositivos exigen tiempo docente que muchos contextos no tienen. Y el énfasis en el interés del estudiante, mal entendido, puede derivar en currículum errático: la evidencia sobre la necesidad de una progresión de contenidos es más fuerte que la que respalda dejarla al azar del interés.",
+    "errores": [
+      "Adoptar el dispositivo sin su condición: un plan de trabajo sin seguimiento es una lista de tareas.",
+      "Confundir actividad del estudiante con aprendizaje y renunciar a la progresión del contenido."
+    ],
+    "criterios": [
+      "el dispositivo se implementa con su condición de funcionamiento declarada;",
+      "existe registro de un mes que permite juzgar si resolvió el problema que motivó adoptarlo;"
+    ],
+    "preguntas": [
+      "¿Qué problema real de tu aula resolvería este dispositivo, y cómo lo mides?",
+      "¿Quién es el destinatario real de lo que producen tus estudiantes?",
+      "¿Qué progresión de contenido queda protegida mientras el dispositivo opera?"
+    ],
+    "lecturas": [
+      ["Freinet, C. *Técnicas Freinet de la Escuela Moderna*.", "los dispositivos descritos por su autor, con su lógica de funcionamiento explícita."],
+      ["Dewey, J. (1916). *Democracy and Education*.", "el fundamento filosófico de la actividad con propósito, que estas técnicas operacionalizan."]
+    ],
+    "inclusion": "Los dispositivos que individualizan el ritmo —plan de trabajo, tarea con destinatario— son especialmente útiles en aulas muy heterogéneas y en multigrado, donde la clase frontal única deja fuera a la mitad del grupo por arriba o por abajo.",
+    "reto": "Implementa un dispositivo durante un mes con su condición declarada. Registra semanalmente su funcionamiento y decide con evidencia si lo mantienes.",
+    "conexion": "Continúa la clase 233 y prepara la 235. Enlaza con la clase 246 sobre aula multigrado."
+  },
+  {
+    "n": 235,
+    "evidencia": "EN-DEBATE",
+    "foco": "qué exige una pedagogía que se define por su posición política y no por su técnica",
+    "proposito": "Comprender la pedagogía crítica en sus términos, aplicar lo que aporta al diseño de enseñanza y sostener con honestidad la discusión que genera.",
+    "decision": "determinar qué contenido de tu asignatura cambia cuando se pregunta a quién sirve el conocimiento que enseñas",
+    "entregable": "el rediseño de una unidad que incorpora una pregunta crítica sin renunciar al rigor disciplinar",
+    "conceptos": [
+      ["Educación bancaria", "modelo criticado por Freire en que el conocimiento se deposita en el estudiante, tratado como receptáculo"],
+      ["Diálogo problematizador", "método que parte de una situación significativa para el grupo y la convierte en objeto de análisis"],
+      ["Currículum oculto", "conjunto de valores, jerarquías y normas que la escuela transmite sin declararlas en ningún programa"],
+      ["Concientización", "proceso de leer críticamente la propia situación social como condición para actuar sobre ella"]
+    ],
+    "desarrollo": "La pedagogía crítica no compite con otras metodologías en el mismo plano: no propone principalmente una técnica sino una pregunta previa —para qué y para quién se enseña— que ninguna técnica responde. Su aporte más sólido y menos discutido es el concepto de currículum oculto: la constatación de que la escuela enseña jerarquías, expectativas y formas de hablar que nadie declara y que sin embargo se aprenden con enorme eficacia. Ese hallazgo es hoy patrimonio común del campo, mucho más allá de la tradición que lo originó.",
+    "practica": "Aplicada al diseño, esta tradición obliga a explicitar tres cosas: qué versión del contenido se está enseñando y cuál queda fuera, qué supone la clase sobre la vida de los estudiantes, y qué relación entre docente y estudiante instala el formato elegido. Se traduce en decisiones concretas: qué fuentes se leen en historia, qué problemas se usan en matemática, quién habla y cuánto en la sala. No exige renunciar al rigor: exige declarar la selección que el rigor por sí solo no decide.",
+    "limites": "El debate es real y conviene sostenerlo sin caricatura. Sus críticos señalan que la tradición aporta poco sobre cómo se aprende un contenido específico, que su evidencia empírica sobre resultados de aprendizaje es escasa, y que en manos poco cuidadosas puede desplazar la enseñanza disciplinar por el discurso. Sus defensores responden que la neutralidad pedagógica no existe y que omitir la pregunta es también una posición. Ambas advertencias son pertinentes y el programa las sostiene juntas.",
+    "errores": [
+      "Sustituir el contenido disciplinar por discurso y dejar al estudiante sin las herramientas que reclama para sí.",
+      "Declarar neutralidad y no examinar qué selección de contenidos y qué expectativas transmite la propia clase."
+    ],
+    "criterios": [
+      "el rediseño explicita qué queda dentro y qué queda fuera del contenido, y por qué;",
+      "la exigencia disciplinar se mantiene y es verificable en la producción del estudiante;"
+    ],
+    "preguntas": [
+      "¿Qué versión de tu disciplina estás enseñando y cuál queda fuera del programa?",
+      "¿Qué supone tu clase sobre la vida de tus estudiantes fuera de la escuela?",
+      "¿Quién habla en tu sala, cuánto, y qué enseña esa distribución?"
+    ],
+    "lecturas": [
+      ["Freire, P. (1970). *Pedagogía del oprimido*.", "la formulación original de la crítica y del diálogo problematizador, con su lenguaje propio."],
+      ["Biesta, G. (2010). *Good Education in an Age of Measurement*.", "recupera la pregunta por la finalidad sin renunciar al rigor ni caer en el eslogan."]
+    ],
+    "inclusion": "La atención al currículum oculto es directamente una herramienta de inclusión: hace visible que la escuela premia formas de hablar, de vestir y de participar que no todos los estudiantes traen de casa, y que esa diferencia se califica sin declararlo.",
+    "reto": "Rediseña una unidad explicitando qué contenidos quedaron fuera y por qué. Presenta la selección a un colega y registra en qué no estuvieron de acuerdo.",
+    "conexion": "Se apoya en las partes 00 y 09, y dialoga con la clase 232. Prepara la 237 y la parte 22."
+  },
+  {
+    "n": 236,
+    "evidencia": "CONSISTENTE",
+    "foco": "en qué se diferencian realmente el aprendizaje basado en proyectos, en problemas, en casos y en retos",
+    "proposito": "Distinguir las familias del aprendizaje basado en algo por su estructura y elegir la que corresponde al objetivo perseguido.",
+    "decision": "determinar cuál de estas familias corresponde a tu objetivo y qué exige para funcionar",
+    "entregable": "un diseño que declara la familia elegida, su estructura, su producto y su criterio de evaluación",
+    "conceptos": [
+      ["Aprendizaje basado en proyectos", "trabajo extendido que culmina en un producto público, con contenido curricular incorporado en el proceso"],
+      ["Aprendizaje basado en problemas", "formato que parte de un problema mal estructurado y usa la necesidad de resolverlo para generar el estudio del contenido"],
+      ["Método de casos", "análisis de una situación real documentada, con decisión fundamentada y discusión colectiva"],
+      ["Producto público", "entrega dirigida a una audiencia externa, que cambia el estándar de calidad que el grupo se impone"]
+    ],
+    "desarrollo": "Estas familias se confunden con frecuencia y sus diferencias no son cosméticas. El proyecto se organiza en torno a un producto; el problema, en torno a una pregunta mal estructurada; el caso, en torno a una decisión ya tomada por alguien; el reto, en torno a una restricción. Cada estructura produce aprendizajes distintos y exige condiciones distintas. La evidencia agregada muestra efectos moderados y muy dependientes de la implementación: los diseños con enseñanza explícita incorporada rinden considerablemente mejor que los que confían en que el contenido se aprenderá por necesidad.",
+    "practica": "El diseño profesional decide primero el objetivo y después la familia. Si el objetivo es dominar contenido, conviene incorporar instrucción explícita dentro del proyecto en vez de esperar que emerja. Si el objetivo es juicio profesional, el caso rinde más y cuesta menos tiempo. La evaluación debe medir el aprendizaje individual y no solo el producto grupal, que es donde estos formatos fallan con más frecuencia: un producto excelente puede convivir con dos estudiantes que no aprendieron nada.",
+    "limites": "El costo de tiempo es alto y la cobertura de contenido baja, lo que obliga a elegir qué se enseña así y qué no. La evidencia es heterogénea porque bajo la misma etiqueta conviven diseños incomparables. Y hay un problema persistente de evaluación: la calidad del producto correlaciona con el reparto de trabajo dentro del grupo más que con el aprendizaje de cada integrante.",
+    "errores": [
+      "Esperar que el contenido se aprenda solo por la necesidad de resolver el problema.",
+      "Calificar el producto grupal como si midiera el aprendizaje de cada estudiante."
+    ],
+    "criterios": [
+      "el diseño declara la familia elegida y por qué corresponde al objetivo;",
+      "existe evaluación del aprendizaje individual además del producto colectivo;"
+    ],
+    "preguntas": [
+      "¿Tu objetivo es dominar contenido, ejercitar juicio o producir algo? Cada uno pide otra familia.",
+      "¿Dónde está la enseñanza explícita dentro de tu proyecto?",
+      "¿Cómo sabrás qué aprendió el estudiante que menos trabajó?"
+    ],
+    "lecturas": [
+      ["Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*.", "revisión de los formatos basados en indagación con sus condiciones de eficacia."],
+      ["Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?*", "distingue el mecanismo del aprendizaje basado en problemas de sus versiones difusas."]
+    ],
+    "inclusion": "Estos formatos amplifican las diferencias de capital cultural y de organización personal si no se estructuran: quien tiene apoyo en casa y hábitos de planificación brilla, y quien no los tiene desaparece dentro del grupo. Roles declarados, hitos intermedios y evaluación individual son medidas de equidad.",
+    "reto": "Rediseña una unidad con una de estas familias, incorporando instrucción explícita y evaluación individual. Registra qué aprendió el estudiante que menos participó.",
+    "conexion": "Aplica los criterios de las clases 229 y 231. Profundiza lo tratado en las clases 065 y 066."
+  },
+  {
+    "n": 237,
+    "evidencia": "EMERGENTE",
+    "foco": "qué distingue un aprendizaje-servicio de una actividad solidaria con nombre pedagógico",
+    "proposito": "Diseñar aprendizaje-servicio con objetivos curriculares verificables y reciprocidad real con la comunidad, evitando el asistencialismo escolar.",
+    "decision": "determinar si tu actividad comunitaria tiene aprendizaje declarado, servicio real y reciprocidad, o solo una de las tres",
+    "entregable": "un diseño de aprendizaje-servicio con objetivo curricular, necesidad validada con la comunidad y evaluación de ambos lados",
+    "conceptos": [
+      ["Aprendizaje-servicio", "metodología que articula objetivos curriculares con una acción de servicio a una necesidad real de la comunidad"],
+      ["Reciprocidad", "condición según la cual la comunidad participa en la definición de la necesidad y no solo recibe la intervención"],
+      ["Reflexión estructurada", "instancia planificada donde el estudiante conecta la experiencia con el contenido disciplinar; sin ella el efecto se pierde"],
+      ["Asistencialismo escolar", "actividad de ayuda sin aprendizaje declarado ni participación de la comunidad en la decisión"]
+    ],
+    "desarrollo": "El aprendizaje-servicio se distingue del voluntariado escolar por una condición exigente: debe haber aprendizaje curricular verificable y servicio real, y ambos deben estar diseñados juntos. La evidencia disponible muestra efectos consistentes en compromiso cívico y motivación, y efectos más modestos y variables en aprendizaje académico, dependiendo enteramente de si hubo reflexión estructurada. Sin esa reflexión, la experiencia produce recuerdo emotivo y poco aprendizaje transferible.",
+    "practica": "Un diseño sólido parte del objetivo curricular, no de la actividad disponible. Luego valida la necesidad con la comunidad —que participa en definirla, no solo en recibirla—, planifica la reflexión en tres momentos y evalúa por separado el aprendizaje del estudiante y el efecto del servicio. La reciprocidad es lo que separa esta metodología de la campaña de fin de año: la comunidad es socia, no beneficiaria pasiva de un ejercicio escolar.",
+    "limites": "La base empírica es todavía limitada y heterogénea, con muchos estudios de diseño débil y autoinforme. Los efectos académicos son inconsistentes y dependen de la calidad de la reflexión. Hay además un riesgo ético serio: proyectos que instrumentalizan a una comunidad vulnerable como material didáctico y se retiran cuando termina el semestre, dejando expectativas abiertas.",
+    "errores": [
+      "Diseñar la actividad primero y buscar después qué objetivo curricular podría cubrir.",
+      "Definir la necesidad de la comunidad desde la escuela, sin consultar a quien la vive."
+    ],
+    "criterios": [
+      "el diseño declara objetivo curricular verificable y necesidad validada con la comunidad;",
+      "existen instancias de reflexión estructurada y evaluación de ambos lados de la relación;"
+    ],
+    "preguntas": [
+      "¿Qué objetivo curricular se evaluará, y cómo?",
+      "¿Quién de la comunidad participó en definir la necesidad?",
+      "¿Qué ocurre con el vínculo cuando termina el semestre?"
+    ],
+    "lecturas": [
+      ["Tapia, M. N. *Aprendizaje y servicio solidario*.", "la formulación latinoamericana con sus criterios de calidad y sus advertencias sobre asistencialismo."],
+      ["Dewey, J. (1916). *Democracy and Education*.", "el fundamento de la experiencia con propósito educativo, que esta metodología intenta operacionalizar."]
+    ],
+    "inclusion": "El riesgo específico es convertir a estudiantes o comunidades en objeto de la buena voluntad de otros. El criterio de reciprocidad —y la pregunta sobre quién define la necesidad— es lo que protege la dignidad de todos los involucrados, incluidos los estudiantes de la propia escuela.",
+    "reto": "Diseña un aprendizaje-servicio partiendo de un objetivo curricular. Valida la necesidad con la comunidad y planifica los tres momentos de reflexión antes de ejecutar.",
+    "conexion": "Se apoya en las clases 235 y 236, y enlaza con la parte 22 y con la clase 010."
+  },
+  {
+    "n": 238,
+    "evidencia": "EN-DEBATE",
+    "foco": "por qué los puntos y las insignias funcionan al principio y con qué costo lo hacen",
+    "proposito": "Distinguir gamificación superficial de diseño de juego con propósito de aprendizaje, y anticipar el efecto sobre la motivación de largo plazo.",
+    "decision": "determinar si tu actividad necesita mecánicas de juego o si el problema real es de sentido de la tarea",
+    "entregable": "un diseño lúdico que declara qué mecánica usa, qué aprendizaje persigue y cómo evita el desplazamiento de la motivación",
+    "conceptos": [
+      ["Gamificación", "incorporación de mecánicas de juego —puntos, niveles, insignias— a una actividad que no es un juego"],
+      ["Juego serio", "juego diseñado desde el inicio con propósito de aprendizaje, donde la mecánica es el contenido"],
+      ["Desplazamiento de la motivación", "efecto por el cual una recompensa externa reduce el interés intrínseco previo por la tarea"],
+      ["Mecánica alineada", "elemento de juego cuya lógica coincide con el aprendizaje perseguido y no solo con la conducta de participar"]
+    ],
+    "desarrollo": "La gamificación produce efectos iniciales visibles sobre participación y conducta, y ese efecto tiende a decaer. La discusión seria no es si motiva, sino qué motiva: casi siempre motiva a obtener el punto, y solo a veces a aprender el contenido. La distinción clave es entre mecánica alineada y mecánica agregada. Cuando el juego encarna la estructura del contenido —resolver el juego es entender el concepto—, el efecto es sobre el aprendizaje; cuando el juego solo premia la ejecución de tareas, el efecto es sobre la conducta.",
+    "practica": "El diseño responsable empieza por preguntarse si el problema es de motivación o de sentido. Si la tarea carece de propósito, agregarle puntos disfraza el problema sin resolverlo. Cuando la gamificación se justifica, conviene alinear la mecánica con el aprendizaje, evitar rankings públicos que desmotivan a la mayoría, y planificar la retirada de las recompensas antes de instalarlas. Los juegos serios bien diseñados son otra cosa y su evidencia es más favorable, aunque su costo de desarrollo es alto.",
+    "limites": "La evidencia es heterogénea y está afectada por publicación selectiva y por estudios de corta duración que capturan el efecto de novedad. El desplazamiento de la motivación intrínseca está documentado sobre todo en tareas que ya interesaban al estudiante, y es menos claro en tareas que no interesaban a nadie. Y los rankings públicos tienen efectos asimétricos: motivan a quienes van adelante y desmotivan a quienes no.",
+    "errores": [
+      "Agregar puntos a una actividad sin sentido y llamar a eso innovación metodológica.",
+      "Instalar un ranking visible y no anticipar el efecto sobre los estudiantes del último tercio."
+    ],
+    "criterios": [
+      "el diseño declara si la mecánica está alineada con el aprendizaje o solo con la participación;",
+      "existe un plan de retirada de las recompensas y una previsión de su efecto;"
+    ],
+    "preguntas": [
+      "¿Tu estudiante juega para aprender o aprende para jugar?",
+      "¿Qué pasa con la motivación cuando retiras los puntos en octubre?",
+      "¿Quién queda al final del ranking y qué le enseña esa posición?"
+    ],
+    "lecturas": [
+      ["Deci, E. & Ryan, R. (2000). *Self-Determination Theory*.", "explica el mecanismo del desplazamiento motivacional y sus condiciones."],
+      ["Hamari, J., Koivisto, J. & Sarsa, H. (2014). *Does Gamification Work?*", "revisión que muestra la heterogeneidad de resultados y la debilidad de muchos diseños."]
+    ],
+    "inclusion": "Las mecánicas competitivas visibles perjudican sistemáticamente a los estudiantes con más dificultades, que quedan expuestos públicamente en su posición. Las mecánicas de progreso individual, en cambio, permiten que cada uno compita contra su propio registro anterior.",
+    "reto": "Toma una actividad gamificada que uses y clasifica cada mecánica como alineada o agregada. Rediseña una de las agregadas y compara la participación con el registro anterior.",
+    "conexion": "Se apoya en la clase 022 y dialoga con la 232. Enlaza con la parte 13 y con la clase 151."
+  },
+  {
+    "n": 239,
+    "evidencia": "MARCO-NORMATIVO",
+    "foco": "por qué declarar competencias no cambia nada si la evaluación sigue midiendo contenidos",
+    "proposito": "Implementar un enfoque por competencias con coherencia entre desempeño declarado, enseñanza y evaluación, y reconocer cuándo el enfoque es solo nominal.",
+    "decision": "determinar si tu programa por competencias tiene evaluación de desempeño o solo contenidos renombrados",
+    "entregable": "una matriz que conecta cada competencia declarada con su evidencia de desempeño y su instrumento",
+    "conceptos": [
+      ["Competencia", "capacidad de movilizar conocimientos, habilidades y actitudes para resolver una situación en un contexto determinado"],
+      ["Evaluación de desempeño", "instrumento que exige ejecutar la tarea real o su simulación fiel, no describirla"],
+      ["Alineamiento constructivo", "coherencia entre lo declarado, lo enseñado y lo evaluado; sin ella el enfoque es nominal"],
+      ["Estándar de desempeño", "descripción del nivel esperado en términos observables, conocida por el estudiante antes de ejecutar"]
+    ],
+    "desarrollo": "El enfoque por competencias ordena hoy la formación técnico-profesional, buena parte de la educación superior y los marcos de cualificación de la mayoría de los países. Su promesa es sensata: declarar lo que la persona debe poder hacer y evaluarlo haciéndolo. Su fracaso más común es igualmente predecible: se reescriben los objetivos en formato de competencia, se mantiene la misma enseñanza y se sigue evaluando con pruebas de conocimiento. El resultado es un cambio de vocabulario con costo administrativo y sin efecto pedagógico.",
+    "practica": "La implementación real se reconoce por la evaluación. Si la competencia declara que el egresado puede elaborar un informe técnico, la evaluación exige elaborar un informe técnico con criterios publicados de antemano. Eso obliga a definir estándares de desempeño observables, a construir rúbricas calibradas entre evaluadores y a asumir que evaluar competencias cuesta más tiempo que aplicar una prueba escrita. Ese costo es la razón por la que tantos programas se quedan en la declaración.",
+    "limites": "El enfoque tiene críticas legítimas: fragmenta el saber en unidades verificables y tiende a dejar fuera lo que no se deja observar en una tarea acotada, como el juicio profesional maduro o la formación del criterio. Aplicado con rigidez produce listas interminables de desempeños atomizados. Además, buena parte de su adopción responde a marcos normativos y de aseguramiento de la calidad más que a evidencia sobre aprendizaje.",
+    "errores": [
+      "Reescribir objetivos en lenguaje de competencias y mantener intactas la enseñanza y la evaluación.",
+      "Atomizar la competencia en decenas de desempeños verificables y perder el sentido del conjunto."
+    ],
+    "criterios": [
+      "cada competencia declarada tiene evidencia de desempeño y un instrumento asociado;",
+      "los estándares están descritos en términos observables y publicados antes de la evaluación;"
+    ],
+    "preguntas": [
+      "¿Tu evaluación exige ejecutar la competencia o describirla?",
+      "¿Qué competencia declarada no tiene hoy instrumento asociado?",
+      "¿Qué se perdió al fragmentar el desempeño en criterios verificables?"
+    ],
+    "lecturas": [
+      ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.", "el alineamiento constructivo como criterio para juzgar si el enfoque es real o nominal."],
+      ["Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*.", "criterios de calidad específicos para evaluación de competencias."]
+    ],
+    "inclusion": "La evaluación de desempeño puede favorecer a estudiantes que rinden mal en pruebas escritas y desfavorecer a quienes tienen dificultades de ejecución motora o de interacción. Las adecuaciones deben declararse en el estándar, no improvisarse el día de la evaluación.",
+    "reto": "Toma un programa por competencias real y verifica cuántas tienen evaluación de desempeño. Rediseña la evaluación de una competencia que hoy se mide con prueba escrita.",
+    "conexion": "Se apoya en la parte 09 y en la 11, y aplica a las partes 06 y 14. Prepara la clase 240."
+  },
+  {
+    "n": 240,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "cómo se defiende una decisión metodológica ante un equipo que ya decidió otra cosa",
+    "proposito": "Integrar los criterios de la parte en una decisión metodológica fundamentada, con condiciones de implementación y plan de verificación explícitos.",
+    "decision": "determinar el enfoque que adoptarás, con qué condiciones y cómo sabrás si funcionó",
+    "entregable": "una decisión metodológica escrita con criterios, condiciones, alternativa descartada y plan de verificación",
+    "conceptos": [
+      ["Decisión fundamentada", "elección que declara criterios, evidencia considerada, alternativa descartada y condición de revisión"],
+      ["Alternativa descartada", "opción que se evaluó y no se eligió, con la razón explicitada; su ausencia delata una decisión no deliberada"],
+      ["Plan de verificación", "conjunto de indicadores y plazos que permitirán concluir si la decisión funcionó"],
+      ["Condición de revisión", "señal previamente declarada que obligaría a revisar o revertir la decisión"]
+    ],
+    "desarrollo": "Las decisiones metodológicas en las escuelas rara vez se documentan, y por eso rara vez se evalúan. Se adopta un enfoque tras una jornada de capacitación, se implementa de manera desigual, y dos años después nadie puede decir si funcionó porque nunca se declaró qué sería funcionar. El proyecto de esta parte corrige exactamente eso: producir una decisión que un tercero pueda auditar sin haber estado en la conversación donde se tomó.",
+    "practica": "La decisión integra todo lo trabajado: los criterios de comparación de la clase 229, la evidencia examinada sobre cada enfoque, las condiciones de implementación que el contexto puede o no sostener, y la alternativa descartada con su razón. Se agrega lo que casi nunca aparece: qué señal obligaría a revisar la decisión y en qué fecha se revisará. Documentada así, la decisión resiste el cambio de equipo y permite aprender del error si lo hubo.",
+    "limites": "Una decisión bien fundamentada puede ser equivocada: el fundamento reduce el riesgo pero no lo elimina, porque ningún estudio conoce el contexto donde se aplica. Además, el documento no garantiza la implementación: la brecha entre lo decidido y lo ejecutado es el factor que más explica los fracasos metodológicos, y depende de tiempo, formación y acompañamiento que exceden a quien escribe la decisión.",
+    "errores": [
+      "Presentar la decisión sin alternativa descartada, con lo que la deliberación no puede evaluarse.",
+      "Declarar un plan de verificación sin fecha ni responsable, que es no tener plan."
+    ],
+    "criterios": [
+      "la decisión declara criterios, alternativa descartada y condición de revisión;",
+      "el plan de verificación tiene indicador, plazo y responsable nombrados;"
+    ],
+    "preguntas": [
+      "¿Qué alternativa descartaste y por qué razón exacta?",
+      "¿Qué señal te haría revertir esta decisión, y quién la estará mirando?",
+      "¿Qué condición de implementación no tienes hoy asegurada?"
+    ],
+    "lecturas": [
+      ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.", "el alineamiento como criterio de coherencia entre lo decidido y lo evaluado."],
+      ["Bryk, A. et al. (2015). *Learning to Improve*.", "método para probar un cambio en pequeño antes de comprometer a toda la institución."]
+    ],
+    "inclusion": "Una decisión metodológica siempre distribuye ventajas: hay estudiantes a los que el enfoque elegido favorece y otros a los que exige más. Declarar quiénes son los segundos y qué apoyo tendrán es parte de la decisión, no un anexo.",
+    "reto": "Escribe la decisión metodológica de una unidad completa con los cinco elementos. Preséntala a tu equipo y registra la objeción más fuerte que recibiste.",
+    "conexion": "Cierra la parte 19 integrando las clases 229 a 239, y se aplica en las partes 09, 10 y 15."
+  }
+]

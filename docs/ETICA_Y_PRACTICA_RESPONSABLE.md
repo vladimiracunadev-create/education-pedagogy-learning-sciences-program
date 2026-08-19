@@ -1,6 +1,6 @@
 # Ética y práctica responsable
 
-Este programa pide, en cada una de sus 216 clases, que apliques lo aprendido con estudiantes
+Este programa pide, en cada una de sus 300 clases, que apliques lo aprendido con estudiantes
 reales. Eso no es un ejercicio académico: es una intervención sobre personas, muchas veces
 menores de edad, en una relación con asimetría de poder. Este protocolo fija las condiciones
 mínimas de esa práctica. **Se aplica siempre, aunque la clase no lo repita.**

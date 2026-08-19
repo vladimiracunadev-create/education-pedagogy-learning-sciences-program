@@ -7,7 +7,7 @@ Cómo está construido este repositorio, por qué el contenido se genera y qué 
 ```mermaid
 flowchart LR
     M["manifests/<br/>fuente unica de verdad"] --> G["scripts/generar_clases.py"]
-    G --> C["curriculum/<br/>18 partes · 216 clases"]
+    G --> C["curriculum/<br/>25 partes · 300 clases"]
     M --> I["scripts/generar_indice.py"]
     I --> D["STATUS.md · SYLLABUS.md<br/>FILE_INDEX.md · catalog.json<br/>docs/GLOSARIO.md"]
     C --> S["scripts/generar_sitio.py"]
@@ -26,10 +26,10 @@ currículo, y si alguien edita una clase directamente, la validación del CI fal
 
 ```text
 manifests/
-├── curriculum.json          216 registros: parte, clase, número global, título, slug
+├── curriculum.json          300 registros: parte, clase, número global, título, slug
 ├── etapas.json              5 etapas con sus partes y su salida
 ├── parts/parts-NN-NN.json   18 packs de parte: narrativa, mapa, marco, riesgos, lecturas
-├── classes/part-NN.json     216 registros de contenido: conceptos, desarrollo, límites…
+├── classes/part-NN.json     300 registros de contenido: conceptos, desarrollo, límites…
 └── pedagogia/marco.json     ciclo pedagógico, estados de evidencia, criterios comunes
 
 curriculum/
@@ -54,7 +54,7 @@ validación falla si falta alguno:
 
 | Campo | Contenido |
 |---|---|
-| `n` | número global de la clase, de 1 a 216 |
+| `n` | número global de la clase, de 1 a 300 |
 | `evidencia` | uno de los seis estados definidos en `pedagogia/marco.json` |
 | `foco` | qué se explica: alimenta el resultado de aprendizaje 2 |
 | `proposito` | para qué existe la clase |
@@ -77,7 +77,7 @@ De ahí salen las 1.300 a 1.600 palabras de cada clase publicada.
 | Comprobación | Script |
 |---|---|
 | lo publicado coincide con los manifiestos | `generar_clases.py --check` |
-| 18 partes, 216 clases, 12 por parte | `validar_estructura.py` |
+| 25 partes, 300 clases, 12 por parte | `validar_estructura.py` |
 | las 13 secciones obligatorias de cada clase | `validar_estructura.py` |
 | cada clase tiene diagrama y más de 900 palabras | `validar_estructura.py` |
 | ningún enlace interno roto | `validar_estructura.py` y `generar_sitio.py` |
