@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach*. | referencia estándar; útil para los fundamentos conceptuales sin depender de una tecnología concreta. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach* (edición vigente). | referencia estándar; útil para los fundamentos conceptuales sin depender de una tecnología concreta. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. | marco internacional de principios aplicables a decisiones institucionales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach*. **Uso en esta clase:** referencia estándar; útil para los fundamentos conceptuales sin depender de una tecnología concreta. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach* (edición vigente). **Uso en esta clase:** referencia estándar; útil para los fundamentos conceptuales sin depender de una tecnología concreta. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. **Uso en esta clase:** marco internacional de principios aplicables a decisiones institucionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

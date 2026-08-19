@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*. | el modelo descrito por quien lo desarrolló, con su lógica de diseño. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente). | el modelo descrito por quien lo desarrolló, con su lógica de diseño. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. | por qué la circulación de modelos depende de factores que no son de evidencia. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*. **Uso en esta clase:** el modelo descrito por quien lo desarrolló, con su lógica de diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente). **Uso en esta clase:** el modelo descrito por quien lo desarrolló, con su lógica de diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** por qué la circulación de modelos depende de factores que no son de evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

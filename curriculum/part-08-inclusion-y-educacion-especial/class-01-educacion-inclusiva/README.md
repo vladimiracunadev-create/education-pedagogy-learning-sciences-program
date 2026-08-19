@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. | convierte la inclusión en indicadores revisables por la propia comunidad educativa. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Ley 20.845 de Inclusión Escolar (Chile) y normativa asociada. | marco vigente que define obligaciones del sostenedor y derechos del estudiante. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Ley 20.845 de Inclusión Escolar (Chile) y normativa asociada (edición vigente). | marco vigente que define obligaciones del sostenedor y derechos del estudiante. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** convierte la inclusión en indicadores revisables por la propia comunidad educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ley 20.845 de Inclusión Escolar (Chile) y normativa asociada. **Uso en esta clase:** marco vigente que define obligaciones del sostenedor y derechos del estudiante. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ley 20.845 de Inclusión Escolar (Chile) y normativa asociada (edición vigente). **Uso en esta clase:** marco vigente que define obligaciones del sostenedor y derechos del estudiante. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

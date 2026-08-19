@@ -1,361 +1,662 @@
 [
-{"n":109,"evidencia":"CONSISTENTE",
- "foco":"por qué lo que se declara, lo que se enseña y lo que se evalúa casi nunca son el mismo currículo",
- "proposito":"Distinguir los niveles del currículum —prescrito, planificado, enseñado, evaluado, aprendido y oculto— y usar esa distinción para diagnosticar dónde se produce la pérdida en tu institución.",
- "decision":"determinar en qué nivel del currículum se está produciendo la brecha que observas en tus resultados",
- "entregable":"un diagnóstico de una asignatura que compare los seis niveles del currículum con evidencia de cada uno",
- "conceptos":[
-  ["Currículum prescrito","lo que la autoridad define como obligatorio para el sistema"],
-  ["Currículum enseñado","lo que efectivamente ocurre en la sala, que suele diferir de lo planificado"],
-  ["Currículum evaluado","lo que se mide; en la práctica es el que orienta la conducta de los estudiantes"],
-  ["Currículum oculto","aprendizajes no declarados que la institución transmite con sus prácticas y su organización"]],
- "desarrollo":"Todo sistema educativo tiene varios currículos operando a la vez, y la distancia entre ellos explica buena parte de sus resultados. Un objetivo declarado que nadie enseña no existe; uno enseñado que nadie evalúa se olvida; y lo evaluado se convierte en el currículo real porque es lo que tiene consecuencias. A eso se suma el currículo oculto: la puntualidad, la obediencia, la competencia o la colaboración se aprenden por cómo funciona la institución, no por lo que declara.",
- "practica":"El diagnóstico se hace comparando fuentes: el programa oficial, la planificación del docente, un registro de lo efectivamente enseñado, los instrumentos de evaluación aplicados y una muestra del trabajo de los estudiantes. Las diferencias aparecen rápido y son incómodas: contenidos declarados que nunca se abordaron, evaluaciones que miden algo distinto de lo enseñado, aprendizajes que ocurren sin estar en ningún documento.",
- "limites":"La distinción es una herramienta analítica y no una jerarquía de importancia: el currículo prescrito no siempre es mejor que el enseñado, y a veces el ajuste del docente corrige un programa mal diseñado. El objetivo del diagnóstico no es forzar la coincidencia total, sino hacer visibles las diferencias para decidirlas en vez de sufrirlas.",
- "errores":[
-  "Suponer que lo planificado es lo que efectivamente se enseñó, sin verificarlo.",
-  "Ignorar el currículo oculto y atribuir a los estudiantes actitudes que la institución enseña."],
- "criterios":[
-  "el diagnóstico usa evidencia distinta para cada nivel y no solo el programa oficial;",
-  "identifica al menos una brecha concreta con su explicación y su corrección;"],
- "preguntas":[
-  "¿Qué objetivo declarado de tu programa no se enseñó este año?",
-  "¿Qué mide realmente tu evaluación, comparado con lo que enseñaste?",
-  "¿Qué está aprendiendo tu curso de la forma en que funciona la institución?"],
- "lecturas":[
-  ["Goodlad, J. (1979). *Curriculum Inquiry*.","origen de la distinción entre niveles del currículum, todavía la más útil para diagnosticar."],
-  ["Jackson, P. (1968). *Life in Classrooms*.","introduce el currículo oculto con observación etnográfica; sigue siendo la mejor descripción del fenómeno."]],
- "inclusion":"El currículo oculto opera con más fuerza sobre los estudiantes que menos se ajustan al perfil esperado: aprenden, antes que cualquier contenido, cuál es su lugar en la institución. Detectarlo es condición para modificarlo.",
- "reto":"Compara los seis niveles en una asignatura real durante una unidad completa. Presenta las brechas al equipo y propón una corrección para la mayor.",
- "conexion":"Abre la parte 09 y se apoya en la clase 010 sobre cultura escolar. Es el diagnóstico previo a todo lo que sigue."},
-
-{"n":110,"evidencia":"MARCO-NORMATIVO",
- "foco":"cómo se escribe un perfil de egreso que sirva para decidir y no solo para publicar",
- "proposito":"Construir perfiles de egreso verificables: qué debe poder hacer una persona al terminar el programa, con qué nivel y en qué contextos, de modo que el perfil ordene el resto del diseño.",
- "decision":"determinar qué desempeños definen el perfil de egreso y cómo se comprobará que se logran",
- "entregable":"un perfil de egreso con desempeños verificables y su matriz de contribución por asignatura o módulo",
- "conceptos":[
-  ["Perfil de egreso","conjunto de desempeños que caracteriza a quien completa el programa"],
-  ["Matriz de contribución","tabla que muestra qué asignatura desarrolla y evalúa cada elemento del perfil"],
-  ["Nivel de dominio","grado de desempeño esperado al egreso, distinto del de etapas intermedias"],
-  ["Verificabilidad","posibilidad de comprobar el logro con evidencia y no solo con la aprobación de asignaturas"]],
- "desarrollo":"Un perfil de egreso cumple su función cuando permite responder dos preguntas: qué puede hacer esta persona y dónde en el plan de estudios lo aprendió. La mayoría de los perfiles publicados falla en ambas: enumera atributos deseables —crítico, íntegro, comprometido— que no se pueden verificar ni rastrear. La matriz de contribución expone ese problema de inmediato, porque obliga a señalar dónde se enseña y dónde se evalúa cada elemento.",
- "practica":"El trabajo consiste en escribir desempeños observables con su nivel y su contexto, y después construir la matriz asignatura por asignatura. Los vacíos aparecen solos: elementos del perfil que nadie desarrolla, o que se declaran en diez asignaturas y no se evalúan en ninguna. Cerrar esos vacíos es la principal utilidad práctica del ejercicio.",
- "limites":"Un perfil bien escrito no garantiza que el programa lo produzca: la matriz muestra intención, no efecto. Comprobar el logro exige evidencia de desempeño al egreso, que pocas instituciones recogen. Además, los procesos de acreditación pueden incentivar perfiles escritos para el evaluador externo y no para el diseño interno.",
- "errores":[
-  "Redactar el perfil con atributos de personalidad en vez de desempeños verificables.",
-  "Publicar un perfil sin matriz de contribución, con lo que nadie sabe dónde se aprende cada cosa."],
- "criterios":[
-  "cada elemento del perfil declara desempeño, nivel y contexto;",
-  "la matriz identifica dónde se desarrolla y dónde se evalúa cada elemento;"],
- "preguntas":[
-  "¿Qué elemento de tu perfil no se evalúa en ninguna asignatura?",
-  "¿Cómo comprobarías que un egresado logró el perfil declarado?",
-  "¿Qué atributo del perfil es en realidad un deseo y no un aprendizaje?"],
- "lecturas":[
-  ["Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación*.","define qué se espera del perfil de egreso y de su verificación en el sistema chileno."],
-  ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.","conecta perfil, resultados de aprendizaje y evaluación con la lógica del alineamiento."]],
- "inclusion":"Un perfil verificable protege a los estudiantes: hace explícito qué se les exigirá y con qué criterios, lo que reduce la arbitrariedad y permite pedir apoyos con anticipación en vez de descubrir la exigencia al final.",
- "reto":"Construye la matriz de contribución de un programa real. Identifica el elemento del perfil peor cubierto y propón dónde y cómo desarrollarlo.",
- "conexion":"Ordena todo el diseño posterior: las clases 111 a 119 operan dentro del marco que fija el perfil."},
-
-{"n":111,"evidencia":"EN-DEBATE",
- "foco":"qué gana y qué pierde un currículo cuando se organiza por competencias en vez de por contenidos",
- "proposito":"Analizar el enfoque por competencias como decisión de diseño curricular: qué problemas resuelve, qué costos tiene y cómo se articula con el conocimiento disciplinar.",
- "decision":"determinar si tu programa se organiza mejor por competencias, por contenidos o por una combinación explícita",
- "entregable":"un análisis fundamentado de la estructura de un programa con su justificación y sus riesgos declarados",
- "conceptos":[
-  ["Currículo por competencias","organización en torno a desempeños integrados en situaciones reales"],
-  ["Currículo disciplinar","organización en torno a la estructura del conocimiento de cada disciplina"],
-  ["Conocimiento poderoso","conocimiento especializado que la escuela ofrece y que no se adquiere en la experiencia cotidiana"],
-  ["Integración de saberes","articulación entre conocimiento, procedimiento y criterio dentro de una competencia"]],
- "desarrollo":"El enfoque por competencias corrige un problema real: currículos que acumulan contenidos sin que nadie pueda hacer nada con ellos. Pero arrastra un riesgo simétrico, señalado por autores de la sociología del currículum: si todo se organiza por desempeños situados, se puede perder el acceso al conocimiento disciplinar sistemático, que es precisamente lo que la escuela ofrece y el entorno cotidiano no.",
- "practica":"La decisión práctica no es adherir a un bando sino explicitar la estructura: qué parte del programa se organiza por competencias, qué parte conserva progresión disciplinar y cómo se articulan. Los programas técnicos y profesionales suelen requerir lo primero; las disciplinas con estructura jerárquica fuerte —matemática, ciencias— pierden si se desarma su progresión.",
- "limites":"No hay evidencia concluyente de que un enfoque produzca mejores aprendizajes que el otro: los resultados dependen más de la calidad de la enseñanza y de la evaluación que de la etiqueta curricular. El debate es real y legítimo, y las posiciones extremas de ambos lados suelen apoyarse en caricaturas del contrario.",
- "errores":[
-  "Adoptar el lenguaje de competencias sin cambiar la evaluación, con lo que solo cambia la portada.",
-  "Desarmar la progresión de una disciplina jerárquica para ajustarla a un formato de competencias."],
- "criterios":[
-  "el análisis declara qué se organiza por competencias y qué conserva progresión disciplinar;",
-  "los riesgos del enfoque elegido están explicitados junto con su mitigación;"],
- "preguntas":[
-  "¿Qué conocimiento disciplinar corre riesgo de perderse en tu diseño?",
-  "¿Cambió tu evaluación cuando cambiaste al lenguaje de competencias?",
-  "¿Qué argumento del enfoque contrario te parece más difícil de responder?"],
- "lecturas":[
-  ["Young, M. (2013). *Overcoming the Crisis in Curriculum Theory: A Knowledge-Based Approach*.","la crítica más consistente al desplazamiento del conocimiento disciplinar; obligatoria para discutir con seriedad."],
-  ["Le Boterf, G. *Construir las competencias individuales y colectivas*.","formulación operativa del enfoque por competencias en formación profesional."]],
- "inclusion":"El acceso al conocimiento disciplinar sistemático es especialmente importante para estudiantes cuyo entorno no lo provee. Un currículo que lo diluye en nombre de la aplicabilidad puede ampliar la brecha que dice combatir.",
- "reto":"Analiza un programa real y clasifica sus unidades según su lógica de organización. Identifica una incoherencia entre la estructura declarada y la evaluación aplicada.",
- "conexion":"Dialoga con la clase 073, que trabaja la redacción técnica de competencias, y con la clase 117."},
-
-{"n":112,"evidencia":"CONSISTENTE",
- "foco":"cómo se escribe un resultado de aprendizaje que cualquiera pueda evaluar del mismo modo",
- "proposito":"Redactar resultados de aprendizaje verificables y graduables a nivel de asignatura o programa, con verbo observable, objeto preciso, condición y criterio de logro.",
- "decision":"determinar el nivel de desempeño exigido en cada resultado y cómo se evidenciará",
- "entregable":"un conjunto de resultados de aprendizaje reescritos con verbo, objeto, condición y criterio, revisados por pares",
- "conceptos":[
-  ["Resultado de aprendizaje","declaración de lo que el estudiante podrá hacer al finalizar, verificable con evidencia"],
-  ["Verbo observable","acción que puede constatarse externamente; excluye «conocer», «comprender» y «valorar» sin más"],
-  ["Condición de desempeño","contexto, recursos y restricciones bajo los cuales se demuestra el resultado"],
-  ["Criterio de logro","nivel mínimo aceptable para considerar alcanzado el resultado"]],
- "desarrollo":"Un resultado mal redactado hace imposible la evaluación justa: si dice «comprender el ciclo del agua», cada evaluador decidirá qué cuenta como comprensión. Escribirlo con verbo observable, objeto preciso, condición y criterio convierte una intención en un compromiso verificable. No es formalismo administrativo: es lo que permite que dos docentes evalúen igual y que el estudiante sepa qué se le exige.",
- "practica":"El procedimiento de escritura es simple y su dificultad está en sostenerlo: elegir el verbo por el desempeño real esperado, precisar el objeto, declarar la condición y fijar el criterio. La revisión por pares es indispensable, porque el autor siempre entiende lo que quiso decir. La prueba definitiva es pedir a un colega que diseñe la evaluación a partir del resultado escrito.",
- "limites":"Llevado al extremo, este enfoque fragmenta el aprendizaje en listas interminables de microresultados y pierde de vista la comprensión integrada. Además, no todo lo valioso se deja escribir así: hay disposiciones y sensibilidades que se cultivan y no se certifican. Reconocerlo evita convertir el currículo en un inventario.",
- "errores":[
-  "Usar verbos no observables y descubrir el problema recién al momento de calificar.",
-  "Fragmentar el aprendizaje en decenas de microresultados que nadie puede evaluar en el tiempo real."],
- "criterios":[
-  "cada resultado declara verbo observable, objeto, condición y criterio de logro;",
-  "un colega puede diseñar la evaluación a partir del resultado sin pedir aclaraciones;"],
- "preguntas":[
-  "¿Podría otro docente evaluar tu resultado sin preguntarte qué quisiste decir?",
-  "¿Qué condición de desempeño estás dando por supuesta?",
-  "¿Cuál es el mínimo aceptable y quién lo decidió?"],
- "lecturas":[
-  ["Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*.","ordena verbos y niveles cognitivos; base para elegir el verbo por el desempeño real."],
-  ["Biggs, J. & Collis, K. (1982). *Evaluating the Quality of Learning: The SOLO Taxonomy*.","permite graduar la complejidad del desempeño y no solo su presencia."]],
- "inclusion":"Un resultado bien escrito separa el aprendizaje de su vía de demostración, lo que habilita formatos alternativos sin bajar la exigencia. Escribir «explicar» en vez de «escribir un ensayo explicando» es una decisión de accesibilidad.",
- "reto":"Reescribe los resultados de una asignatura y pide a un colega que diseñe la evaluación a partir de ellos. Corrige todo resultado que produjo una evaluación distinta de la que esperabas.",
- "conexion":"Es la unidad básica del diseño de las clases 116 a 119 y condiciona toda la parte 11."},
-
-{"n":113,"evidencia":"ROBUSTA",
- "foco":"por qué compartir el objetivo y el criterio de éxito con los estudiantes cambia lo que hacen en clase",
- "proposito":"Formular objetivos de clase y criterios de éxito comunicables a los estudiantes, de modo que puedan autorregular su trabajo y saber cuándo lo hicieron bien.",
- "decision":"determinar el objetivo y el criterio de éxito de tu próxima clase, en lenguaje que tus estudiantes usen",
- "entregable":"los objetivos y criterios de éxito de una unidad, redactados en lenguaje del estudiante y probados con ellos",
- "conceptos":[
-  ["Objetivo de clase","aprendizaje concreto perseguido en una sesión, distinto de la actividad que se realizará"],
-  ["Criterio de éxito","descripción de cómo se ve un trabajo logrado; permite al estudiante evaluarse"],
-  ["Ejemplo modelo","trabajo real que ilustra el criterio y hace visible el estándar esperado"],
-  ["Autoevaluación","juicio del estudiante sobre su propio trabajo a partir de criterios explícitos"]],
- "desarrollo":"Los estudiantes trabajan mejor cuando saben qué se espera y cómo se ve un buen resultado. Compartir el objetivo no basta si el criterio queda implícito: «hacer un buen resumen» no orienta a nadie. Mostrar ejemplos modelo y describir el criterio en lenguaje concreto permite que el estudiante corrija su propio trabajo antes de entregarlo, que es donde la mejora es más barata.",
- "practica":"La formulación debe distinguir objetivo de actividad: «vamos a hacer un afiche» es una actividad; «explicar las causas de un fenómeno usando evidencia» es un objetivo. Y los criterios se prueban con los estudiantes: si al leerlos no pueden juzgar un trabajo ajeno, están mal escritos. Esa prueba toma cinco minutos y ahorra semanas de malentendidos.",
- "limites":"Compartir objetivos no siempre conviene al inicio: en tareas de indagación, revelar la conclusión esperada elimina el trabajo intelectual. La regla es compartir el criterio de calidad, que orienta, sin revelar la respuesta, que la sustituye. Y la evidencia sobre objetivos comunicados muestra efectos condicionados a que se usen efectivamente durante la clase.",
- "errores":[
-  "Anunciar la actividad y llamarla objetivo de aprendizaje.",
-  "Escribir criterios en lenguaje docente que los estudiantes no pueden usar para juzgar su trabajo."],
- "criterios":[
-  "el objetivo describe aprendizaje y no actividad;",
-  "los criterios fueron probados con estudiantes juzgando un trabajo real;"],
- "preguntas":[
-  "¿Tus estudiantes podrían decir qué están aprendiendo hoy y no solo qué están haciendo?",
-  "¿Cómo se ve un trabajo logrado en tu asignatura, en palabras concretas?",
-  "¿Qué ejemplo modelo mostraste antes de pedir el trabajo?"],
- "lecturas":[
-  ["Wiliam, D. (2011). *Embedded Formative Assessment*.","desarrolla objetivos y criterios de éxito como técnica de aula con evidencia."],
-  ["Sadler, D. R. (1989). *Formative Assessment and the Design of Instructional Systems*.","explica por qué el estudiante necesita el criterio para poder cerrar la brecha de aprendizaje."]],
- "inclusion":"Los criterios explícitos benefician especialmente a estudiantes cuyo entorno no les transmite los códigos implícitos del trabajo académico. Hacer visible el estándar es una medida de equidad concreta y sin costo.",
- "reto":"Comparte objetivo y criterio en tus clases durante dos semanas y pide autoevaluación antes de entregar. Compara la calidad de las entregas con la unidad anterior.",
- "conexion":"Es la versión de aula de la clase 112 y sostiene las prácticas de las partes 10 y 11."},
-
-{"n":114,"evidencia":"CONSISTENTE",
- "foco":"por qué el orden de los contenidos no es una convención sino una decisión con consecuencias",
- "proposito":"Secuenciar aprendizajes según dependencias reales, progresión de complejidad y oportunidades de retorno, en vez de seguir el orden heredado del texto escolar.",
- "decision":"determinar el orden de tu programa a partir de dependencias reales y no de la tradición del temario",
- "entregable":"una secuencia justificada con mapa de dependencias y puntos de retorno planificados",
- "conceptos":[
-  ["Dependencia","relación por la que un aprendizaje es condición para otro"],
-  ["Progresión","aumento planificado de complejidad, autonomía o abstracción en un mismo aprendizaje"],
-  ["Currículo en espiral","retorno planificado sobre un mismo contenido con mayor profundidad"],
-  ["Prerrequisito","conocimiento previo verificado que la secuencia supone en un punto determinado"]],
- "desarrollo":"Buena parte del fracaso escolar acumulativo se explica por secuencias que suponen prerrequisitos no verificados. Enseñar fracciones a quien no domina división, o argumentación a quien no distingue hecho de opinión, produce un fracaso que se atribuye al estudiante y que en realidad es de diseño. El mapa de dependencias hace visible ese riesgo antes de que ocurra.",
- "practica":"La secuenciación exige tres decisiones: qué depende de qué, cómo aumenta la complejidad y cuándo se vuelve sobre lo importante. El retorno planificado —el currículo en espiral bien entendido— no es repetir lo mismo, sino volver con mayor profundidad y en contexto nuevo, lo que además produce práctica distribuida.",
- "limites":"No todas las secuencias tienen dependencias fuertes: en muchos dominios el orden es convencional y su efecto sobre el aprendizaje es menor de lo que se supone. Discutir el orden puede consumir tiempo que rendiría más en la calidad de la enseñanza de cada unidad. La secuenciación importa donde las dependencias son reales.",
- "errores":[
-  "Suponer prerrequisitos sin verificarlos al inicio de la unidad.",
-  "Confundir currículo en espiral con repetición idéntica del mismo contenido."],
- "criterios":[
-  "el mapa de dependencias distingue relaciones reales de convenciones del temario;",
-  "los puntos de retorno declaran qué se profundiza y no solo qué se repite;"],
- "preguntas":[
-  "¿Qué prerrequisito de tu unidad no has verificado nunca?",
-  "¿Qué parte de tu orden actual es tradición y no dependencia?",
-  "¿Cuándo vuelven tus estudiantes sobre lo más importante, y con qué profundidad?"],
- "lecturas":[
-  ["Bruner, J. (1960). *The Process of Education*.","origen del currículo en espiral y de la idea de estructura de la disciplina."],
-  ["Clements, D. & Sarama, J. (2014). *Learning Trajectories*.","ejemplo detallado de secuenciación basada en evidencia sobre cómo progresa el aprendizaje."]],
- "inclusion":"Verificar prerrequisitos en vez de suponerlos evita que los estudiantes con trayectorias interrumpidas acumulen fracaso invisible. Es una práctica de equidad que además mejora los resultados del grupo completo.",
- "reto":"Construye el mapa de dependencias de tu programa y verifica un prerrequisito crítico con tu curso real. Ajusta la secuencia según lo que encuentres.",
- "conexion":"Se apoya en la clase 017 y alimenta las clases 115 y 119."},
-
-{"n":115,"evidencia":"PRACTICA-PROFESIONAL",
- "foco":"cómo se ve un plan de estudios completo cuando se representa como trayectoria y no como lista de asignaturas",
- "proposito":"Construir mapas curriculares que muestren dónde se desarrolla, se profundiza y se evalúa cada aprendizaje del perfil, y que permitan detectar vacíos y redundancias.",
- "decision":"determinar dónde se desarrolla y dónde se evalúa cada elemento del perfil a lo largo del plan",
- "entregable":"un mapa curricular completo con niveles de desarrollo por asignatura y análisis de vacíos y redundancias",
- "conceptos":[
-  ["Mapa curricular","representación de la contribución de cada asignatura a los aprendizajes del perfil"],
-  ["Nivel de desarrollo","grado en que una asignatura introduce, desarrolla o consolida un aprendizaje"],
-  ["Vacío curricular","elemento del perfil que ninguna asignatura desarrolla o evalúa"],
-  ["Redundancia","repetición sin progresión de un mismo aprendizaje en varias asignaturas"]],
- "desarrollo":"El mapa curricular convierte un plan de estudios en información utilizable. Su valor no está en el documento sino en lo que revela: aprendizajes declarados que nadie desarrolla, contenidos repetidos cinco veces al mismo nivel, evaluaciones concentradas en el mismo semestre, competencias que se evalúan antes de haberse enseñado. Todo eso es invisible en una malla y evidente en un mapa.",
- "practica":"Se construye consultando a los docentes reales, no leyendo programas: la pregunta es qué se enseña y se evalúa efectivamente. El resultado suele diferir de los documentos oficiales, y esa diferencia es la información más valiosa del ejercicio. Después se decide: cerrar vacíos, eliminar redundancias y redistribuir la carga de evaluación.",
- "limites":"El mapa refleja declaraciones de los docentes y envejece con cada cambio de equipo. No prueba que el aprendizaje ocurra: muestra dónde se intenta. Su utilidad depende de que se revise periódicamente y de que las decisiones que sugiere se tomen efectivamente; un mapa que no cambia nada es un ejercicio administrativo.",
- "errores":[
-  "Construir el mapa a partir de programas oficiales y no de lo que se enseña realmente.",
-  "Levantar el mapa y no tomar ninguna decisión con sus hallazgos."],
- "criterios":[
-  "el mapa distingue introducir, desarrollar y consolidar en cada cruce;",
-  "el análisis identifica vacíos y redundancias con una decisión asociada a cada uno;"],
- "preguntas":[
-  "¿Qué aprendizaje del perfil no aparece en ninguna asignatura?",
-  "¿Qué contenido se repite sin aumentar su complejidad?",
-  "¿En qué semestre se concentran las evaluaciones y qué efecto tiene?"],
- "lecturas":[
-  ["Jacobs, H. H. (1997). *Mapping the Big Picture: Integrating Curriculum and Assessment*.","metodología de mapeo curricular con base en lo efectivamente enseñado."],
-  ["Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio*.","referencia sobre coherencia interna esperada en programas formales."]],
- "inclusion":"El mapa revela también dónde se concentran las exigencias que producen deserción: semestres sobrecargados, evaluaciones simultáneas, prerrequisitos mal ubicados. Corregir eso es una intervención estructural sobre la retención.",
- "reto":"Levanta el mapa curricular de un programa consultando a los docentes. Presenta los vacíos al equipo y acuerden una corrección concreta.",
- "conexion":"Depende de la clase 110 y ordena las decisiones de las clases 114 y 119."},
-
-{"n":116,"evidencia":"CONSISTENTE",
- "foco":"por qué definir la evaluación antes que las actividades mejora el diseño y no lo burocratiza",
- "proposito":"Aplicar el diseño inverso: identificar los resultados deseados, determinar la evidencia aceptable y solo entonces planificar la enseñanza.",
- "decision":"determinar qué evidencia aceptarías como prueba del logro antes de diseñar cualquier actividad",
- "entregable":"una unidad diseñada con lógica inversa, documentando la evidencia aceptable definida antes que las actividades",
- "conceptos":[
-  ["Diseño inverso","procedimiento que parte del resultado y de su evidencia antes de planificar actividades"],
-  ["Evidencia aceptable","desempeño o producto que permitiría afirmar con confianza que el aprendizaje ocurrió"],
-  ["Comprensión duradera","idea central que se busca que permanezca más allá del detalle del contenido"],
-  ["Pregunta esencial","interrogante que organiza la unidad y no se responde con una definición"]],
- "desarrollo":"La secuencia habitual —elegir actividades, enseñarlas y después construir la evaluación— produce el desalineamiento crónico entre lo declarado y lo medido. El diseño inverso lo corrige invirtiendo el orden: primero qué debe lograrse, después qué evidencia lo probaría y por último cómo enseñar para producir esa evidencia. El cambio es simple de enunciar y difícil de sostener, porque las actividades son lo más entretenido de planificar.",
- "practica":"El paso decisivo es el segundo: escribir la evidencia aceptable antes de haber pensado en las actividades. Ese ejercicio revela objetivos imposibles de evaluar, evaluaciones que miden otra cosa y actividades favoritas que no contribuyen a nada. También ordena la conversación de equipo: se discute qué prueba el aprendizaje en vez de qué actividad gusta más.",
- "limites":"El diseño inverso ordena el trabajo y no garantiza calidad: una unidad perfectamente alineada puede perseguir objetivos triviales. Además, aplicado de forma rígida puede excluir aprendizajes valiosos difíciles de evidenciar. Conviene usarlo como disciplina de diseño y no como criterio único de valor.",
- "errores":[
-  "Diseñar las actividades primero y construir la evaluación al final de la unidad.",
-  "Aceptar como evidencia la realización de la actividad en vez del desempeño que prueba el aprendizaje."],
- "criterios":[
-  "la evidencia aceptable está documentada con fecha anterior al diseño de actividades;",
-  "cada actividad se justifica por su contribución a producir esa evidencia;"],
- "preguntas":[
-  "¿Qué evidencia te convencería de que aprendieron, y no solo de que trabajaron?",
-  "¿Qué actividad favorita tuya no contribuye a ninguna evidencia?",
-  "¿Qué objetivo declaraste que no sabes cómo evidenciar?"],
- "lecturas":[
-  ["Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.","el planteamiento completo del diseño inverso con plantillas y ejemplos."],
-  ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.","complementa el diseño inverso con la lógica del alineamiento constructivo."]],
- "inclusion":"Definir la evidencia antes permite decidir desde el diseño qué formatos alternativos la producirían igual de bien, en vez de improvisar adecuaciones cuando el estudiante ya está frente a la evaluación.",
- "reto":"Diseña una unidad con lógica inversa y compárala con la versión anterior de la misma unidad. Documenta qué actividades desaparecieron y por qué.",
- "conexion":"Aplica las clases 112 y 113 y es el procedimiento de trabajo de la clase 119."},
-
-{"n":117,"evidencia":"CONSISTENTE",
- "foco":"cómo se audita si lo que se declara, lo que se enseña y lo que se evalúa son de verdad lo mismo",
- "proposito":"Aplicar el alineamiento constructivo como criterio de auditoría de un programa existente: verificar la correspondencia entre resultados, actividades y evaluación, y corregir donde falla.",
- "decision":"determinar dónde se rompe el alineamiento de tu programa y qué corrección corresponde",
- "entregable":"una auditoría de alineamiento de una asignatura con brechas detectadas y propuesta de corrección",
- "conceptos":[
-  ["Alineamiento constructivo","correspondencia entre resultados declarados, actividades de aprendizaje y tareas de evaluación"],
-  ["Actividad alineada","tarea que hace practicar exactamente el desempeño que el resultado declara"],
-  ["Desalineamiento","situación en que la evaluación exige un desempeño que la enseñanza no desarrolló"],
-  ["Nivel cognitivo","complejidad del desempeño exigido; debe coincidir entre resultado, actividad y evaluación"]],
- "desarrollo":"El desalineamiento más común es de nivel cognitivo: se declara «analizar», se enseña con exposición y se evalúa con reconocimiento. El estudiante responde a lo que se le evalúa, de modo que el resultado declarado nunca se desarrolla. La auditoría consiste en tomar cada resultado y verificar qué actividad lo practica y qué tarea lo evalúa, comparando además el nivel exigido en cada punto.",
- "practica":"El instrumento es una tabla de tres columnas por resultado. Los vacíos aparecen de inmediato: resultados sin actividad, actividades sin resultado, evaluaciones que exigen un nivel superior al practicado. La corrección más frecuente no es cambiar la evaluación sino agregar la práctica que faltaba, porque el problema suele ser que nunca se enseñó el desempeño que se exige.",
- "limites":"Un programa perfectamente alineado puede seguir siendo malo si sus resultados son triviales, y el alineamiento estricto puede empujar hacia objetivos fáciles de evaluar. Además, cierta desalineación productiva existe: enseñar más de lo que se evalúa es legítimo si el propósito formativo lo justifica y se declara.",
- "errores":[
-  "Evaluar un nivel cognitivo superior al que la enseñanza practicó.",
-  "Corregir el desalineamiento bajando la evaluación en vez de agregar la práctica faltante."],
- "criterios":[
-  "cada resultado tiene identificadas sus actividades y sus tareas de evaluación;",
-  "las brechas de nivel cognitivo están explicitadas con su corrección;"],
- "preguntas":[
-  "¿Qué desempeño exiges en la prueba que nunca practicaron en clase?",
-  "¿Qué actividad tuya no contribuye a ningún resultado declarado?",
-  "¿Qué resultado se evalúa a un nivel más bajo del que declaraste?"],
- "lecturas":[
-  ["Biggs, J. (1996). *Enhancing Teaching through Constructive Alignment*. Higher Education, 32.","el artículo que formula el concepto y su procedimiento de aplicación."],
-  ["Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*.","permite comparar niveles cognitivos entre resultado, actividad y evaluación."]],
- "inclusion":"El desalineamiento perjudica más a los estudiantes sin apoyo externo: quienes tienen quien les explique en casa compensan lo que la clase no enseñó, y quienes no lo tienen, no. Alinear es una medida de equidad tanto como de calidad.",
- "reto":"Audita una asignatura completa con la tabla de tres columnas. Corrige la brecha más grande y verifica el efecto en la siguiente evaluación.",
- "conexion":"Es el criterio de calidad de toda la parte 09 y el instrumento de auditoría de la clase 120."},
-
-{"n":118,"evidencia":"PRACTICA-PROFESIONAL",
- "foco":"por qué el syllabus es un contrato académico y no una lista de contenidos con fechas",
- "proposito":"Diseñar syllabus completos y utilizables: resultados, secuencia, evaluación con ponderaciones, criterios, carga de trabajo estimada, políticas y recursos.",
- "decision":"determinar qué debe contener tu syllabus para que un estudiante pueda organizarse y un colega pueda dictar el curso",
- "entregable":"un syllabus completo con carga de trabajo calculada, criterios de evaluación y políticas explícitas",
- "conceptos":[
-  ["Syllabus","documento que define el acuerdo académico de una asignatura y su plan de trabajo"],
-  ["Carga de trabajo","tiempo total estimado del estudiante, dentro y fuera de la sesión"],
-  ["Política de curso","reglas explícitas sobre entregas, atrasos, integridad académica y uso de herramientas"],
-  ["Transparencia","condición de que el estudiante pueda anticipar qué se le exigirá y cómo se calificará"]],
- "desarrollo":"Un buen syllabus responde por adelantado las preguntas que después generan conflicto: qué se evalúa, con qué peso, con qué criterios, qué pasa si se entrega tarde, qué uso de herramientas se permite. Escribir eso antes evita discusiones caso a caso y protege tanto al estudiante como al docente. Y el cálculo de carga de trabajo, casi siempre omitido, es lo que distingue un plan realista de uno imposible.",
- "practica":"Estimar la carga significa contar todo: lectura, preparación, trabajos, estudio para evaluaciones. Cuando se hace, muchos cursos resultan exigir el doble de tiempo del que declaran, lo que explica entregas de baja calidad y abandono. Ajustar el diseño a la carga real es una decisión profesional, no una concesión.",
- "limites":"El syllabus no sustituye la comunicación durante el curso ni congela decisiones: los ajustes son legítimos si se comunican y se justifican. Y un documento extenso que nadie lee cumple una función defensiva y no comunicativa; conviene priorizar lo que el estudiante necesita para decidir y organizarse.",
- "errores":[
-  "Publicar el syllabus sin haber calculado la carga real de trabajo del estudiante.",
-  "Dejar implícitas las políticas de atraso, integridad y uso de herramientas hasta que ocurre el problema."],
- "criterios":[
-  "el syllabus declara carga estimada, criterios de evaluación y políticas explícitas;",
-  "otro docente podría dictar el curso a partir del documento;"],
- "preguntas":[
-  "¿Cuántas horas por semana exige realmente tu curso?",
-  "¿Qué regla tuya no está escrita y se aplica igualmente?",
-  "¿Qué parte del syllabus leen tus estudiantes y cuál no lee nadie?"],
- "lecturas":[
-  ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.","modelo de syllabus alineado con resultados y evaluación."],
-  ["Sistema de créditos transferibles (SCT-Chile) y marcos de créditos internacionales.","base para estimar carga de trabajo del estudiante en horas reales."]],
- "inclusion":"La transparencia del syllabus beneficia a quienes no conocen los códigos implícitos de la institución. Estudiantes de primera generación, migrantes o trabajadores dependen de que las reglas estén escritas y no supuestas.",
- "reto":"Calcula la carga real de tu asignatura y compárala con la declarada. Ajusta el diseño y comunica el cambio a tus estudiantes.",
- "conexion":"Integra las clases 112 a 117 y se aplica directamente en la parte 14."},
-
-{"n":119,"evidencia":"PRACTICA-PROFESIONAL",
- "foco":"cómo se planifica un año completo sabiendo que ningún año se ejecuta como se planifica",
- "proposito":"Planificar a nivel anual y de unidad con priorización explícita, holguras y criterios de ajuste, en vez de calendarios que se abandonan en abril.",
- "decision":"determinar qué se prioriza y qué se sacrifica cuando el tiempo real resulte menor que el planificado",
- "entregable":"una planificación anual con priorización declarada, holguras y criterios de ajuste ante pérdida de tiempo",
- "conceptos":[
-  ["Planificación anual","distribución de aprendizajes y evaluaciones a lo largo del año o del semestre"],
-  ["Priorización","decisión explícita sobre qué aprendizajes son irrenunciables y cuáles admiten recorte"],
-  ["Holgura","tiempo no asignado que absorbe interrupciones sin destruir la planificación"],
-  ["Criterio de ajuste","regla decidida de antemano sobre qué se recorta cuando falta tiempo"]],
- "desarrollo":"Toda planificación anual se enfrenta al mismo hecho: el año real tiene menos horas que el nominal. Interrupciones, actos, evaluaciones institucionales, ausencias y contingencias consumen una fracción significativa. Planificar sin holgura obliga a recortar en marcha, y ese recorte improvisado suele eliminar lo último del programa, que muchas veces es lo más importante.",
- "practica":"La solución profesional es decidir antes: qué aprendizajes son irrenunciables, cuáles se profundizan si hay tiempo y cuáles se recortan primero. Declarado por escrito, el ajuste deja de ser una pérdida y pasa a ser una decisión. La holgura planificada —entre un diez y un quince por ciento del tiempo— convierte lo imprevisto en algo absorbible.",
- "limites":"La priorización tiene costos: recortar es renunciar a aprendizajes que alguien consideró importantes. Y en sistemas con evaluaciones externas, la decisión local está condicionada por lo que se medirá. Hacer explícito ese condicionamiento permite discutirlo en vez de sufrirlo como inevitable.",
- "errores":[
-  "Planificar sobre el tiempo nominal y recortar improvisadamente en noviembre.",
-  "Dejar la priorización implícita, con lo que se sacrifica siempre lo que viene al final del programa."],
- "criterios":[
-  "la planificación declara aprendizajes irrenunciables y orden de recorte;",
-  "incluye holgura explícita y un criterio de ajuste decidido de antemano;"],
- "preguntas":[
-  "¿Cuántas horas efectivas tendrá realmente tu año?",
-  "¿Qué recortarías primero si pierdes tres semanas, y por qué eso?",
-  "¿Qué aprendizaje irrenunciable quedó al final de tu planificación?"],
- "lecturas":[
-  ["Mineduc. *Priorización curricular y orientaciones de planificación*.","referencia chilena sobre criterios de priorización de aprendizajes."],
-  ["Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.","aporta el criterio de distinguir lo esencial de lo deseable y de lo familiar."]],
- "inclusion":"Los recortes improvisados suelen eliminar el tiempo de apoyo y de retroalimentación, que es lo que más necesitan los estudiantes con mayores dificultades. Priorizar de antemano protege ese tiempo.",
- "reto":"Planifica un semestre con holgura y criterios de ajuste. Al terminar, compara lo ejecutado con lo planificado y evalúa si tu priorización funcionó.",
- "conexion":"Aplica las clases 114 y 116 y se articula con la clase 057 en el nivel escolar."},
-
-{"n":120,"evidencia":"CONSISTENTE",
- "foco":"cómo se construye un currículo completo cuya coherencia cualquiera pueda verificar",
- "proposito":"Integrar la parte diseñando un currículo completo —perfil, resultados, mapa, secuencia, syllabus y planificación— y auditando su coherencia interna con instrumentos explícitos.",
- "decision":"determinar el diseño curricular completo y demostrar su coherencia con una auditoría documentada",
- "entregable":"un currículo completo con perfil, mapa, secuencia, syllabus y auditoría de alineamiento",
- "conceptos":[
-  ["Coherencia curricular","correspondencia verificable entre todos los niveles del diseño"],
-  ["Trazabilidad","posibilidad de seguir un aprendizaje del perfil hasta su evaluación concreta"],
-  ["Auditoría interna","revisión sistemática de la coherencia realizada por el propio equipo"],
-  ["Documentación del diseño","registro que permite a otros entender y sostener las decisiones tomadas"]],
- "desarrollo":"El proyecto integrador exige demostrar coherencia, no declararla. La prueba es la trazabilidad: tomar un elemento del perfil y seguirlo hasta la tarea concreta que lo evalúa, pasando por el mapa, la secuencia y el syllabus. Casi ningún programa real resiste ese recorrido completo la primera vez, y encontrar dónde se rompe es el aprendizaje central de la parte.",
- "practica":"El trabajo se organiza en capas y se audita al final con la tabla de alineamiento. Documentar las decisiones —por qué esta secuencia, por qué esta evaluación, qué se priorizó y qué se dejó fuera— es lo que permite que el currículo sobreviva al cambio de equipo, que es la principal causa de pérdida de coherencia con el tiempo.",
- "limites":"Un currículo coherente no garantiza aprendizaje: la implementación, la calidad de la enseñanza y las condiciones institucionales deciden el resultado. El diseño elimina un conjunto de fallas evitables; el resto depende de lo que ocurra en la sala, que es materia de las partes 10 y 12.",
- "errores":[
-  "Declarar coherencia sin haber recorrido la trazabilidad de al menos un elemento completo.",
-  "Documentar el producto final y no las decisiones que lo produjeron."],
- "criterios":[
-  "la trazabilidad de al menos tres elementos del perfil está documentada de principio a fin;",
-  "la auditoría identifica las rupturas de coherencia y su corrección;"],
- "preguntas":[
-  "¿Dónde se rompe la trazabilidad de tu currículo?",
-  "¿Qué decisión de diseño no podrías explicar dentro de un año?",
-  "¿Qué sobreviviría de tu currículo si cambiara todo el equipo?"],
- "lecturas":[
-  ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.","marco integral para diseñar y auditar coherencia curricular."],
-  ["Jacobs, H. H. (1997). *Mapping the Big Picture*.","metodología de mapeo que sostiene la verificación de coherencia."]],
- "inclusion":"Un currículo trazable permite a cualquier estudiante saber qué se le exigirá y cuándo, y a la institución detectar dónde se produce la exclusión: qué asignatura filtra, qué evaluación deja fuera y a quiénes.",
- "reto":"Audita tu currículo completo con un colega externo al programa. Documenta las tres rupturas más graves y corrige al menos una.",
- "conexion":"Cierra la parte 09 integrando sus once clases previas. Es el insumo directo de las partes 10, 11 y 14."}
+  {
+    "n": 109,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué lo que se declara, lo que se enseña y lo que se evalúa casi nunca son el mismo currículo",
+    "proposito": "Distinguir los niveles del currículum —prescrito, planificado, enseñado, evaluado, aprendido y oculto— y usar esa distinción para diagnosticar dónde se produce la pérdida en tu institución.",
+    "decision": "determinar en qué nivel del currículum se está produciendo la brecha que observas en tus resultados",
+    "entregable": "un diagnóstico de una asignatura que compare los seis niveles del currículum con evidencia de cada uno",
+    "conceptos": [
+      [
+        "Currículum prescrito",
+        "lo que la autoridad define como obligatorio para el sistema"
+      ],
+      [
+        "Currículum enseñado",
+        "lo que efectivamente ocurre en la sala, que suele diferir de lo planificado"
+      ],
+      [
+        "Currículum evaluado",
+        "lo que se mide; en la práctica es el que orienta la conducta de los estudiantes"
+      ],
+      [
+        "Currículum oculto",
+        "aprendizajes no declarados que la institución transmite con sus prácticas y su organización"
+      ]
+    ],
+    "desarrollo": "Todo sistema educativo tiene varios currículos operando a la vez, y la distancia entre ellos explica buena parte de sus resultados. Un objetivo declarado que nadie enseña no existe; uno enseñado que nadie evalúa se olvida; y lo evaluado se convierte en el currículo real porque es lo que tiene consecuencias. A eso se suma el currículo oculto: la puntualidad, la obediencia, la competencia o la colaboración se aprenden por cómo funciona la institución, no por lo que declara.",
+    "practica": "El diagnóstico se hace comparando fuentes: el programa oficial, la planificación del docente, un registro de lo efectivamente enseñado, los instrumentos de evaluación aplicados y una muestra del trabajo de los estudiantes. Las diferencias aparecen rápido y son incómodas: contenidos declarados que nunca se abordaron, evaluaciones que miden algo distinto de lo enseñado, aprendizajes que ocurren sin estar en ningún documento.",
+    "limites": "La distinción es una herramienta analítica y no una jerarquía de importancia: el currículo prescrito no siempre es mejor que el enseñado, y a veces el ajuste del docente corrige un programa mal diseñado. El objetivo del diagnóstico no es forzar la coincidencia total, sino hacer visibles las diferencias para decidirlas en vez de sufrirlas.",
+    "errores": [
+      "Suponer que lo planificado es lo que efectivamente se enseñó, sin verificarlo.",
+      "Ignorar el currículo oculto y atribuir a los estudiantes actitudes que la institución enseña."
+    ],
+    "criterios": [
+      "el diagnóstico usa evidencia distinta para cada nivel y no solo el programa oficial;",
+      "identifica al menos una brecha concreta con su explicación y su corrección;"
+    ],
+    "preguntas": [
+      "¿Qué objetivo declarado de tu programa no se enseñó este año?",
+      "¿Qué mide realmente tu evaluación, comparado con lo que enseñaste?",
+      "¿Qué está aprendiendo tu curso de la forma en que funciona la institución?"
+    ],
+    "lecturas": [
+      [
+        "Goodlad, J. (1979). *Curriculum Inquiry*.",
+        "origen de la distinción entre niveles del currículum, todavía la más útil para diagnosticar."
+      ],
+      [
+        "Jackson, P. (1968). *Life in Classrooms*.",
+        "introduce el currículo oculto con observación etnográfica; sigue siendo la mejor descripción del fenómeno."
+      ]
+    ],
+    "inclusion": "El currículo oculto opera con más fuerza sobre los estudiantes que menos se ajustan al perfil esperado: aprenden, antes que cualquier contenido, cuál es su lugar en la institución. Detectarlo es condición para modificarlo.",
+    "reto": "Compara los seis niveles en una asignatura real durante una unidad completa. Presenta las brechas al equipo y propón una corrección para la mayor.",
+    "conexion": "Abre la parte 09 y se apoya en la clase 010 sobre cultura escolar. Es el diagnóstico previo a todo lo que sigue."
+  },
+  {
+    "n": 110,
+    "evidencia": "MARCO-NORMATIVO",
+    "foco": "cómo se escribe un perfil de egreso que sirva para decidir y no solo para publicar",
+    "proposito": "Construir perfiles de egreso verificables: qué debe poder hacer una persona al terminar el programa, con qué nivel y en qué contextos, de modo que el perfil ordene el resto del diseño.",
+    "decision": "determinar qué desempeños definen el perfil de egreso y cómo se comprobará que se logran",
+    "entregable": "un perfil de egreso con desempeños verificables y su matriz de contribución por asignatura o módulo",
+    "conceptos": [
+      [
+        "Perfil de egreso",
+        "conjunto de desempeños que caracteriza a quien completa el programa"
+      ],
+      [
+        "Matriz de contribución",
+        "tabla que muestra qué asignatura desarrolla y evalúa cada elemento del perfil"
+      ],
+      [
+        "Nivel de dominio",
+        "grado de desempeño esperado al egreso, distinto del de etapas intermedias"
+      ],
+      [
+        "Verificabilidad",
+        "posibilidad de comprobar el logro con evidencia y no solo con la aprobación de asignaturas"
+      ]
+    ],
+    "desarrollo": "Un perfil de egreso cumple su función cuando permite responder dos preguntas: qué puede hacer esta persona y dónde en el plan de estudios lo aprendió. La mayoría de los perfiles publicados falla en ambas: enumera atributos deseables —crítico, íntegro, comprometido— que no se pueden verificar ni rastrear. La matriz de contribución expone ese problema de inmediato, porque obliga a señalar dónde se enseña y dónde se evalúa cada elemento.",
+    "practica": "El trabajo consiste en escribir desempeños observables con su nivel y su contexto, y después construir la matriz asignatura por asignatura. Los vacíos aparecen solos: elementos del perfil que nadie desarrolla, o que se declaran en diez asignaturas y no se evalúan en ninguna. Cerrar esos vacíos es la principal utilidad práctica del ejercicio.",
+    "limites": "Un perfil bien escrito no garantiza que el programa lo produzca: la matriz muestra intención, no efecto. Comprobar el logro exige evidencia de desempeño al egreso, que pocas instituciones recogen. Además, los procesos de acreditación pueden incentivar perfiles escritos para el evaluador externo y no para el diseño interno.",
+    "errores": [
+      "Redactar el perfil con atributos de personalidad en vez de desempeños verificables.",
+      "Publicar un perfil sin matriz de contribución, con lo que nadie sabe dónde se aprende cada cosa."
+    ],
+    "criterios": [
+      "cada elemento del perfil declara desempeño, nivel y contexto;",
+      "la matriz identifica dónde se desarrolla y dónde se evalúa cada elemento;"
+    ],
+    "preguntas": [
+      "¿Qué elemento de tu perfil no se evalúa en ninguna asignatura?",
+      "¿Cómo comprobarías que un egresado logró el perfil declarado?",
+      "¿Qué atributo del perfil es en realidad un deseo y no un aprendizaje?"
+    ],
+    "lecturas": [
+      [
+        "Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación* (edición vigente).",
+        "define qué se espera del perfil de egreso y de su verificación en el sistema chileno."
+      ],
+      [
+        "Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.",
+        "conecta perfil, resultados de aprendizaje y evaluación con la lógica del alineamiento."
+      ]
+    ],
+    "inclusion": "Un perfil verificable protege a los estudiantes: hace explícito qué se les exigirá y con qué criterios, lo que reduce la arbitrariedad y permite pedir apoyos con anticipación en vez de descubrir la exigencia al final.",
+    "reto": "Construye la matriz de contribución de un programa real. Identifica el elemento del perfil peor cubierto y propón dónde y cómo desarrollarlo.",
+    "conexion": "Ordena todo el diseño posterior: las clases 111 a 119 operan dentro del marco que fija el perfil."
+  },
+  {
+    "n": 111,
+    "evidencia": "EN-DEBATE",
+    "foco": "qué gana y qué pierde un currículo cuando se organiza por competencias en vez de por contenidos",
+    "proposito": "Analizar el enfoque por competencias como decisión de diseño curricular: qué problemas resuelve, qué costos tiene y cómo se articula con el conocimiento disciplinar.",
+    "decision": "determinar si tu programa se organiza mejor por competencias, por contenidos o por una combinación explícita",
+    "entregable": "un análisis fundamentado de la estructura de un programa con su justificación y sus riesgos declarados",
+    "conceptos": [
+      [
+        "Currículo por competencias",
+        "organización en torno a desempeños integrados en situaciones reales"
+      ],
+      [
+        "Currículo disciplinar",
+        "organización en torno a la estructura del conocimiento de cada disciplina"
+      ],
+      [
+        "Conocimiento poderoso",
+        "conocimiento especializado que la escuela ofrece y que no se adquiere en la experiencia cotidiana"
+      ],
+      [
+        "Integración de saberes",
+        "articulación entre conocimiento, procedimiento y criterio dentro de una competencia"
+      ]
+    ],
+    "desarrollo": "El enfoque por competencias corrige un problema real: currículos que acumulan contenidos sin que nadie pueda hacer nada con ellos. Pero arrastra un riesgo simétrico, señalado por autores de la sociología del currículum: si todo se organiza por desempeños situados, se puede perder el acceso al conocimiento disciplinar sistemático, que es precisamente lo que la escuela ofrece y el entorno cotidiano no.",
+    "practica": "La decisión práctica no es adherir a un bando sino explicitar la estructura: qué parte del programa se organiza por competencias, qué parte conserva progresión disciplinar y cómo se articulan. Los programas técnicos y profesionales suelen requerir lo primero; las disciplinas con estructura jerárquica fuerte —matemática, ciencias— pierden si se desarma su progresión.",
+    "limites": "No hay evidencia concluyente de que un enfoque produzca mejores aprendizajes que el otro: los resultados dependen más de la calidad de la enseñanza y de la evaluación que de la etiqueta curricular. El debate es real y legítimo, y las posiciones extremas de ambos lados suelen apoyarse en caricaturas del contrario.",
+    "errores": [
+      "Adoptar el lenguaje de competencias sin cambiar la evaluación, con lo que solo cambia la portada.",
+      "Desarmar la progresión de una disciplina jerárquica para ajustarla a un formato de competencias."
+    ],
+    "criterios": [
+      "el análisis declara qué se organiza por competencias y qué conserva progresión disciplinar;",
+      "los riesgos del enfoque elegido están explicitados junto con su mitigación;"
+    ],
+    "preguntas": [
+      "¿Qué conocimiento disciplinar corre riesgo de perderse en tu diseño?",
+      "¿Cambió tu evaluación cuando cambiaste al lenguaje de competencias?",
+      "¿Qué argumento del enfoque contrario te parece más difícil de responder?"
+    ],
+    "lecturas": [
+      [
+        "Young, M. (2013). *Overcoming the Crisis in Curriculum Theory: A Knowledge-Based Approach*.",
+        "la crítica más consistente al desplazamiento del conocimiento disciplinar; obligatoria para discutir con seriedad."
+      ],
+      [
+        "Le Boterf, G. *Construir las competencias individuales y colectivas* (edición vigente).",
+        "formulación operativa del enfoque por competencias en formación profesional."
+      ]
+    ],
+    "inclusion": "El acceso al conocimiento disciplinar sistemático es especialmente importante para estudiantes cuyo entorno no lo provee. Un currículo que lo diluye en nombre de la aplicabilidad puede ampliar la brecha que dice combatir.",
+    "reto": "Analiza un programa real y clasifica sus unidades según su lógica de organización. Identifica una incoherencia entre la estructura declarada y la evaluación aplicada.",
+    "conexion": "Dialoga con la clase 073, que trabaja la redacción técnica de competencias, y con la clase 117."
+  },
+  {
+    "n": 112,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se escribe un resultado de aprendizaje que cualquiera pueda evaluar del mismo modo",
+    "proposito": "Redactar resultados de aprendizaje verificables y graduables a nivel de asignatura o programa, con verbo observable, objeto preciso, condición y criterio de logro.",
+    "decision": "determinar el nivel de desempeño exigido en cada resultado y cómo se evidenciará",
+    "entregable": "un conjunto de resultados de aprendizaje reescritos con verbo, objeto, condición y criterio, revisados por pares",
+    "conceptos": [
+      [
+        "Resultado de aprendizaje",
+        "declaración de lo que el estudiante podrá hacer al finalizar, verificable con evidencia"
+      ],
+      [
+        "Verbo observable",
+        "acción que puede constatarse externamente; excluye «conocer», «comprender» y «valorar» sin más"
+      ],
+      [
+        "Condición de desempeño",
+        "contexto, recursos y restricciones bajo los cuales se demuestra el resultado"
+      ],
+      [
+        "Criterio de logro",
+        "nivel mínimo aceptable para considerar alcanzado el resultado"
+      ]
+    ],
+    "desarrollo": "Un resultado mal redactado hace imposible la evaluación justa: si dice «comprender el ciclo del agua», cada evaluador decidirá qué cuenta como comprensión. Escribirlo con verbo observable, objeto preciso, condición y criterio convierte una intención en un compromiso verificable. No es formalismo administrativo: es lo que permite que dos docentes evalúen igual y que el estudiante sepa qué se le exige.",
+    "practica": "El procedimiento de escritura es simple y su dificultad está en sostenerlo: elegir el verbo por el desempeño real esperado, precisar el objeto, declarar la condición y fijar el criterio. La revisión por pares es indispensable, porque el autor siempre entiende lo que quiso decir. La prueba definitiva es pedir a un colega que diseñe la evaluación a partir del resultado escrito.",
+    "limites": "Llevado al extremo, este enfoque fragmenta el aprendizaje en listas interminables de microresultados y pierde de vista la comprensión integrada. Además, no todo lo valioso se deja escribir así: hay disposiciones y sensibilidades que se cultivan y no se certifican. Reconocerlo evita convertir el currículo en un inventario.",
+    "errores": [
+      "Usar verbos no observables y descubrir el problema recién al momento de calificar.",
+      "Fragmentar el aprendizaje en decenas de microresultados que nadie puede evaluar en el tiempo real."
+    ],
+    "criterios": [
+      "cada resultado declara verbo observable, objeto, condición y criterio de logro;",
+      "un colega puede diseñar la evaluación a partir del resultado sin pedir aclaraciones;"
+    ],
+    "preguntas": [
+      "¿Podría otro docente evaluar tu resultado sin preguntarte qué quisiste decir?",
+      "¿Qué condición de desempeño estás dando por supuesta?",
+      "¿Cuál es el mínimo aceptable y quién lo decidió?"
+    ],
+    "lecturas": [
+      [
+        "Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*.",
+        "ordena verbos y niveles cognitivos; base para elegir el verbo por el desempeño real."
+      ],
+      [
+        "Biggs, J. & Collis, K. (1982). *Evaluating the Quality of Learning: The SOLO Taxonomy*.",
+        "permite graduar la complejidad del desempeño y no solo su presencia."
+      ]
+    ],
+    "inclusion": "Un resultado bien escrito separa el aprendizaje de su vía de demostración, lo que habilita formatos alternativos sin bajar la exigencia. Escribir «explicar» en vez de «escribir un ensayo explicando» es una decisión de accesibilidad.",
+    "reto": "Reescribe los resultados de una asignatura y pide a un colega que diseñe la evaluación a partir de ellos. Corrige todo resultado que produjo una evaluación distinta de la que esperabas.",
+    "conexion": "Es la unidad básica del diseño de las clases 116 a 119 y condiciona toda la parte 11."
+  },
+  {
+    "n": 113,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué compartir el objetivo y el criterio de éxito con los estudiantes cambia lo que hacen en clase",
+    "proposito": "Formular objetivos de clase y criterios de éxito comunicables a los estudiantes, de modo que puedan autorregular su trabajo y saber cuándo lo hicieron bien.",
+    "decision": "determinar el objetivo y el criterio de éxito de tu próxima clase, en lenguaje que tus estudiantes usen",
+    "entregable": "los objetivos y criterios de éxito de una unidad, redactados en lenguaje del estudiante y probados con ellos",
+    "conceptos": [
+      [
+        "Objetivo de clase",
+        "aprendizaje concreto perseguido en una sesión, distinto de la actividad que se realizará"
+      ],
+      [
+        "Criterio de éxito",
+        "descripción de cómo se ve un trabajo logrado; permite al estudiante evaluarse"
+      ],
+      [
+        "Ejemplo modelo",
+        "trabajo real que ilustra el criterio y hace visible el estándar esperado"
+      ],
+      [
+        "Autoevaluación",
+        "juicio del estudiante sobre su propio trabajo a partir de criterios explícitos"
+      ]
+    ],
+    "desarrollo": "Los estudiantes trabajan mejor cuando saben qué se espera y cómo se ve un buen resultado. Compartir el objetivo no basta si el criterio queda implícito: «hacer un buen resumen» no orienta a nadie. Mostrar ejemplos modelo y describir el criterio en lenguaje concreto permite que el estudiante corrija su propio trabajo antes de entregarlo, que es donde la mejora es más barata.",
+    "practica": "La formulación debe distinguir objetivo de actividad: «vamos a hacer un afiche» es una actividad; «explicar las causas de un fenómeno usando evidencia» es un objetivo. Y los criterios se prueban con los estudiantes: si al leerlos no pueden juzgar un trabajo ajeno, están mal escritos. Esa prueba toma cinco minutos y ahorra semanas de malentendidos.",
+    "limites": "Compartir objetivos no siempre conviene al inicio: en tareas de indagación, revelar la conclusión esperada elimina el trabajo intelectual. La regla es compartir el criterio de calidad, que orienta, sin revelar la respuesta, que la sustituye. Y la evidencia sobre objetivos comunicados muestra efectos condicionados a que se usen efectivamente durante la clase.",
+    "errores": [
+      "Anunciar la actividad y llamarla objetivo de aprendizaje.",
+      "Escribir criterios en lenguaje docente que los estudiantes no pueden usar para juzgar su trabajo."
+    ],
+    "criterios": [
+      "el objetivo describe aprendizaje y no actividad;",
+      "los criterios fueron probados con estudiantes juzgando un trabajo real;"
+    ],
+    "preguntas": [
+      "¿Tus estudiantes podrían decir qué están aprendiendo hoy y no solo qué están haciendo?",
+      "¿Cómo se ve un trabajo logrado en tu asignatura, en palabras concretas?",
+      "¿Qué ejemplo modelo mostraste antes de pedir el trabajo?"
+    ],
+    "lecturas": [
+      [
+        "Wiliam, D. (2011). *Embedded Formative Assessment*.",
+        "desarrolla objetivos y criterios de éxito como técnica de aula con evidencia."
+      ],
+      [
+        "Sadler, D. R. (1989). *Formative Assessment and the Design of Instructional Systems*.",
+        "explica por qué el estudiante necesita el criterio para poder cerrar la brecha de aprendizaje."
+      ]
+    ],
+    "inclusion": "Los criterios explícitos benefician especialmente a estudiantes cuyo entorno no les transmite los códigos implícitos del trabajo académico. Hacer visible el estándar es una medida de equidad concreta y sin costo.",
+    "reto": "Comparte objetivo y criterio en tus clases durante dos semanas y pide autoevaluación antes de entregar. Compara la calidad de las entregas con la unidad anterior.",
+    "conexion": "Es la versión de aula de la clase 112 y sostiene las prácticas de las partes 10 y 11."
+  },
+  {
+    "n": 114,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué el orden de los contenidos no es una convención sino una decisión con consecuencias",
+    "proposito": "Secuenciar aprendizajes según dependencias reales, progresión de complejidad y oportunidades de retorno, en vez de seguir el orden heredado del texto escolar.",
+    "decision": "determinar el orden de tu programa a partir de dependencias reales y no de la tradición del temario",
+    "entregable": "una secuencia justificada con mapa de dependencias y puntos de retorno planificados",
+    "conceptos": [
+      [
+        "Dependencia",
+        "relación por la que un aprendizaje es condición para otro"
+      ],
+      [
+        "Progresión",
+        "aumento planificado de complejidad, autonomía o abstracción en un mismo aprendizaje"
+      ],
+      [
+        "Currículo en espiral",
+        "retorno planificado sobre un mismo contenido con mayor profundidad"
+      ],
+      [
+        "Prerrequisito",
+        "conocimiento previo verificado que la secuencia supone en un punto determinado"
+      ]
+    ],
+    "desarrollo": "Buena parte del fracaso escolar acumulativo se explica por secuencias que suponen prerrequisitos no verificados. Enseñar fracciones a quien no domina división, o argumentación a quien no distingue hecho de opinión, produce un fracaso que se atribuye al estudiante y que en realidad es de diseño. El mapa de dependencias hace visible ese riesgo antes de que ocurra.",
+    "practica": "La secuenciación exige tres decisiones: qué depende de qué, cómo aumenta la complejidad y cuándo se vuelve sobre lo importante. El retorno planificado —el currículo en espiral bien entendido— no es repetir lo mismo, sino volver con mayor profundidad y en contexto nuevo, lo que además produce práctica distribuida.",
+    "limites": "No todas las secuencias tienen dependencias fuertes: en muchos dominios el orden es convencional y su efecto sobre el aprendizaje es menor de lo que se supone. Discutir el orden puede consumir tiempo que rendiría más en la calidad de la enseñanza de cada unidad. La secuenciación importa donde las dependencias son reales.",
+    "errores": [
+      "Suponer prerrequisitos sin verificarlos al inicio de la unidad.",
+      "Confundir currículo en espiral con repetición idéntica del mismo contenido."
+    ],
+    "criterios": [
+      "el mapa de dependencias distingue relaciones reales de convenciones del temario;",
+      "los puntos de retorno declaran qué se profundiza y no solo qué se repite;"
+    ],
+    "preguntas": [
+      "¿Qué prerrequisito de tu unidad no has verificado nunca?",
+      "¿Qué parte de tu orden actual es tradición y no dependencia?",
+      "¿Cuándo vuelven tus estudiantes sobre lo más importante, y con qué profundidad?"
+    ],
+    "lecturas": [
+      [
+        "Bruner, J. (1960). *The Process of Education*.",
+        "origen del currículo en espiral y de la idea de estructura de la disciplina."
+      ],
+      [
+        "Clements, D. & Sarama, J. (2014). *Learning Trajectories*.",
+        "ejemplo detallado de secuenciación basada en evidencia sobre cómo progresa el aprendizaje."
+      ]
+    ],
+    "inclusion": "Verificar prerrequisitos en vez de suponerlos evita que los estudiantes con trayectorias interrumpidas acumulen fracaso invisible. Es una práctica de equidad que además mejora los resultados del grupo completo.",
+    "reto": "Construye el mapa de dependencias de tu programa y verifica un prerrequisito crítico con tu curso real. Ajusta la secuencia según lo que encuentres.",
+    "conexion": "Se apoya en la clase 017 y alimenta las clases 115 y 119."
+  },
+  {
+    "n": 115,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "cómo se ve un plan de estudios completo cuando se representa como trayectoria y no como lista de asignaturas",
+    "proposito": "Construir mapas curriculares que muestren dónde se desarrolla, se profundiza y se evalúa cada aprendizaje del perfil, y que permitan detectar vacíos y redundancias.",
+    "decision": "determinar dónde se desarrolla y dónde se evalúa cada elemento del perfil a lo largo del plan",
+    "entregable": "un mapa curricular completo con niveles de desarrollo por asignatura y análisis de vacíos y redundancias",
+    "conceptos": [
+      [
+        "Mapa curricular",
+        "representación de la contribución de cada asignatura a los aprendizajes del perfil"
+      ],
+      [
+        "Nivel de desarrollo",
+        "grado en que una asignatura introduce, desarrolla o consolida un aprendizaje"
+      ],
+      [
+        "Vacío curricular",
+        "elemento del perfil que ninguna asignatura desarrolla o evalúa"
+      ],
+      [
+        "Redundancia",
+        "repetición sin progresión de un mismo aprendizaje en varias asignaturas"
+      ]
+    ],
+    "desarrollo": "El mapa curricular convierte un plan de estudios en información utilizable. Su valor no está en el documento sino en lo que revela: aprendizajes declarados que nadie desarrolla, contenidos repetidos cinco veces al mismo nivel, evaluaciones concentradas en el mismo semestre, competencias que se evalúan antes de haberse enseñado. Todo eso es invisible en una malla y evidente en un mapa.",
+    "practica": "Se construye consultando a los docentes reales, no leyendo programas: la pregunta es qué se enseña y se evalúa efectivamente. El resultado suele diferir de los documentos oficiales, y esa diferencia es la información más valiosa del ejercicio. Después se decide: cerrar vacíos, eliminar redundancias y redistribuir la carga de evaluación.",
+    "limites": "El mapa refleja declaraciones de los docentes y envejece con cada cambio de equipo. No prueba que el aprendizaje ocurra: muestra dónde se intenta. Su utilidad depende de que se revise periódicamente y de que las decisiones que sugiere se tomen efectivamente; un mapa que no cambia nada es un ejercicio administrativo.",
+    "errores": [
+      "Construir el mapa a partir de programas oficiales y no de lo que se enseña realmente.",
+      "Levantar el mapa y no tomar ninguna decisión con sus hallazgos."
+    ],
+    "criterios": [
+      "el mapa distingue introducir, desarrollar y consolidar en cada cruce;",
+      "el análisis identifica vacíos y redundancias con una decisión asociada a cada uno;"
+    ],
+    "preguntas": [
+      "¿Qué aprendizaje del perfil no aparece en ninguna asignatura?",
+      "¿Qué contenido se repite sin aumentar su complejidad?",
+      "¿En qué semestre se concentran las evaluaciones y qué efecto tiene?"
+    ],
+    "lecturas": [
+      [
+        "Jacobs, H. H. (1997). *Mapping the Big Picture: Integrating Curriculum and Assessment*.",
+        "metodología de mapeo curricular con base en lo efectivamente enseñado."
+      ],
+      [
+        "Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio* (edición vigente).",
+        "referencia sobre coherencia interna esperada en programas formales."
+      ]
+    ],
+    "inclusion": "El mapa revela también dónde se concentran las exigencias que producen deserción: semestres sobrecargados, evaluaciones simultáneas, prerrequisitos mal ubicados. Corregir eso es una intervención estructural sobre la retención.",
+    "reto": "Levanta el mapa curricular de un programa consultando a los docentes. Presenta los vacíos al equipo y acuerden una corrección concreta.",
+    "conexion": "Depende de la clase 110 y ordena las decisiones de las clases 114 y 119."
+  },
+  {
+    "n": 116,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué definir la evaluación antes que las actividades mejora el diseño y no lo burocratiza",
+    "proposito": "Aplicar el diseño inverso: identificar los resultados deseados, determinar la evidencia aceptable y solo entonces planificar la enseñanza.",
+    "decision": "determinar qué evidencia aceptarías como prueba del logro antes de diseñar cualquier actividad",
+    "entregable": "una unidad diseñada con lógica inversa, documentando la evidencia aceptable definida antes que las actividades",
+    "conceptos": [
+      [
+        "Diseño inverso",
+        "procedimiento que parte del resultado y de su evidencia antes de planificar actividades"
+      ],
+      [
+        "Evidencia aceptable",
+        "desempeño o producto que permitiría afirmar con confianza que el aprendizaje ocurrió"
+      ],
+      [
+        "Comprensión duradera",
+        "idea central que se busca que permanezca más allá del detalle del contenido"
+      ],
+      [
+        "Pregunta esencial",
+        "interrogante que organiza la unidad y no se responde con una definición"
+      ]
+    ],
+    "desarrollo": "La secuencia habitual —elegir actividades, enseñarlas y después construir la evaluación— produce el desalineamiento crónico entre lo declarado y lo medido. El diseño inverso lo corrige invirtiendo el orden: primero qué debe lograrse, después qué evidencia lo probaría y por último cómo enseñar para producir esa evidencia. El cambio es simple de enunciar y difícil de sostener, porque las actividades son lo más entretenido de planificar.",
+    "practica": "El paso decisivo es el segundo: escribir la evidencia aceptable antes de haber pensado en las actividades. Ese ejercicio revela objetivos imposibles de evaluar, evaluaciones que miden otra cosa y actividades favoritas que no contribuyen a nada. También ordena la conversación de equipo: se discute qué prueba el aprendizaje en vez de qué actividad gusta más.",
+    "limites": "El diseño inverso ordena el trabajo y no garantiza calidad: una unidad perfectamente alineada puede perseguir objetivos triviales. Además, aplicado de forma rígida puede excluir aprendizajes valiosos difíciles de evidenciar. Conviene usarlo como disciplina de diseño y no como criterio único de valor.",
+    "errores": [
+      "Diseñar las actividades primero y construir la evaluación al final de la unidad.",
+      "Aceptar como evidencia la realización de la actividad en vez del desempeño que prueba el aprendizaje."
+    ],
+    "criterios": [
+      "la evidencia aceptable está documentada con fecha anterior al diseño de actividades;",
+      "cada actividad se justifica por su contribución a producir esa evidencia;"
+    ],
+    "preguntas": [
+      "¿Qué evidencia te convencería de que aprendieron, y no solo de que trabajaron?",
+      "¿Qué actividad favorita tuya no contribuye a ninguna evidencia?",
+      "¿Qué objetivo declaraste que no sabes cómo evidenciar?"
+    ],
+    "lecturas": [
+      [
+        "Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.",
+        "el planteamiento completo del diseño inverso con plantillas y ejemplos."
+      ],
+      [
+        "Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.",
+        "complementa el diseño inverso con la lógica del alineamiento constructivo."
+      ]
+    ],
+    "inclusion": "Definir la evidencia antes permite decidir desde el diseño qué formatos alternativos la producirían igual de bien, en vez de improvisar adecuaciones cuando el estudiante ya está frente a la evaluación.",
+    "reto": "Diseña una unidad con lógica inversa y compárala con la versión anterior de la misma unidad. Documenta qué actividades desaparecieron y por qué.",
+    "conexion": "Aplica las clases 112 y 113 y es el procedimiento de trabajo de la clase 119."
+  },
+  {
+    "n": 117,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se audita si lo que se declara, lo que se enseña y lo que se evalúa son de verdad lo mismo",
+    "proposito": "Aplicar el alineamiento constructivo como criterio de auditoría de un programa existente: verificar la correspondencia entre resultados, actividades y evaluación, y corregir donde falla.",
+    "decision": "determinar dónde se rompe el alineamiento de tu programa y qué corrección corresponde",
+    "entregable": "una auditoría de alineamiento de una asignatura con brechas detectadas y propuesta de corrección",
+    "conceptos": [
+      [
+        "Alineamiento constructivo",
+        "correspondencia entre resultados declarados, actividades de aprendizaje y tareas de evaluación"
+      ],
+      [
+        "Actividad alineada",
+        "tarea que hace practicar exactamente el desempeño que el resultado declara"
+      ],
+      [
+        "Desalineamiento",
+        "situación en que la evaluación exige un desempeño que la enseñanza no desarrolló"
+      ],
+      [
+        "Nivel cognitivo",
+        "complejidad del desempeño exigido; debe coincidir entre resultado, actividad y evaluación"
+      ]
+    ],
+    "desarrollo": "El desalineamiento más común es de nivel cognitivo: se declara «analizar», se enseña con exposición y se evalúa con reconocimiento. El estudiante responde a lo que se le evalúa, de modo que el resultado declarado nunca se desarrolla. La auditoría consiste en tomar cada resultado y verificar qué actividad lo practica y qué tarea lo evalúa, comparando además el nivel exigido en cada punto.",
+    "practica": "El instrumento es una tabla de tres columnas por resultado. Los vacíos aparecen de inmediato: resultados sin actividad, actividades sin resultado, evaluaciones que exigen un nivel superior al practicado. La corrección más frecuente no es cambiar la evaluación sino agregar la práctica que faltaba, porque el problema suele ser que nunca se enseñó el desempeño que se exige.",
+    "limites": "Un programa perfectamente alineado puede seguir siendo malo si sus resultados son triviales, y el alineamiento estricto puede empujar hacia objetivos fáciles de evaluar. Además, cierta desalineación productiva existe: enseñar más de lo que se evalúa es legítimo si el propósito formativo lo justifica y se declara.",
+    "errores": [
+      "Evaluar un nivel cognitivo superior al que la enseñanza practicó.",
+      "Corregir el desalineamiento bajando la evaluación en vez de agregar la práctica faltante."
+    ],
+    "criterios": [
+      "cada resultado tiene identificadas sus actividades y sus tareas de evaluación;",
+      "las brechas de nivel cognitivo están explicitadas con su corrección;"
+    ],
+    "preguntas": [
+      "¿Qué desempeño exiges en la prueba que nunca practicaron en clase?",
+      "¿Qué actividad tuya no contribuye a ningún resultado declarado?",
+      "¿Qué resultado se evalúa a un nivel más bajo del que declaraste?"
+    ],
+    "lecturas": [
+      [
+        "Biggs, J. (1996). *Enhancing Teaching through Constructive Alignment*. Higher Education, 32.",
+        "el artículo que formula el concepto y su procedimiento de aplicación."
+      ],
+      [
+        "Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*.",
+        "permite comparar niveles cognitivos entre resultado, actividad y evaluación."
+      ]
+    ],
+    "inclusion": "El desalineamiento perjudica más a los estudiantes sin apoyo externo: quienes tienen quien les explique en casa compensan lo que la clase no enseñó, y quienes no lo tienen, no. Alinear es una medida de equidad tanto como de calidad.",
+    "reto": "Audita una asignatura completa con la tabla de tres columnas. Corrige la brecha más grande y verifica el efecto en la siguiente evaluación.",
+    "conexion": "Es el criterio de calidad de toda la parte 09 y el instrumento de auditoría de la clase 120."
+  },
+  {
+    "n": 118,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "por qué el syllabus es un contrato académico y no una lista de contenidos con fechas",
+    "proposito": "Diseñar syllabus completos y utilizables: resultados, secuencia, evaluación con ponderaciones, criterios, carga de trabajo estimada, políticas y recursos.",
+    "decision": "determinar qué debe contener tu syllabus para que un estudiante pueda organizarse y un colega pueda dictar el curso",
+    "entregable": "un syllabus completo con carga de trabajo calculada, criterios de evaluación y políticas explícitas",
+    "conceptos": [
+      [
+        "Syllabus",
+        "documento que define el acuerdo académico de una asignatura y su plan de trabajo"
+      ],
+      [
+        "Carga de trabajo",
+        "tiempo total estimado del estudiante, dentro y fuera de la sesión"
+      ],
+      [
+        "Política de curso",
+        "reglas explícitas sobre entregas, atrasos, integridad académica y uso de herramientas"
+      ],
+      [
+        "Transparencia",
+        "condición de que el estudiante pueda anticipar qué se le exigirá y cómo se calificará"
+      ]
+    ],
+    "desarrollo": "Un buen syllabus responde por adelantado las preguntas que después generan conflicto: qué se evalúa, con qué peso, con qué criterios, qué pasa si se entrega tarde, qué uso de herramientas se permite. Escribir eso antes evita discusiones caso a caso y protege tanto al estudiante como al docente. Y el cálculo de carga de trabajo, casi siempre omitido, es lo que distingue un plan realista de uno imposible.",
+    "practica": "Estimar la carga significa contar todo: lectura, preparación, trabajos, estudio para evaluaciones. Cuando se hace, muchos cursos resultan exigir el doble de tiempo del que declaran, lo que explica entregas de baja calidad y abandono. Ajustar el diseño a la carga real es una decisión profesional, no una concesión.",
+    "limites": "El syllabus no sustituye la comunicación durante el curso ni congela decisiones: los ajustes son legítimos si se comunican y se justifican. Y un documento extenso que nadie lee cumple una función defensiva y no comunicativa; conviene priorizar lo que el estudiante necesita para decidir y organizarse.",
+    "errores": [
+      "Publicar el syllabus sin haber calculado la carga real de trabajo del estudiante.",
+      "Dejar implícitas las políticas de atraso, integridad y uso de herramientas hasta que ocurre el problema."
+    ],
+    "criterios": [
+      "el syllabus declara carga estimada, criterios de evaluación y políticas explícitas;",
+      "otro docente podría dictar el curso a partir del documento;"
+    ],
+    "preguntas": [
+      "¿Cuántas horas por semana exige realmente tu curso?",
+      "¿Qué regla tuya no está escrita y se aplica igualmente?",
+      "¿Qué parte del syllabus leen tus estudiantes y cuál no lee nadie?"
+    ],
+    "lecturas": [
+      [
+        "Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.",
+        "modelo de syllabus alineado con resultados y evaluación."
+      ],
+      [
+        "Sistema de créditos transferibles (SCT-Chile) y marcos de créditos internacionales (edición vigente).",
+        "base para estimar carga de trabajo del estudiante en horas reales."
+      ]
+    ],
+    "inclusion": "La transparencia del syllabus beneficia a quienes no conocen los códigos implícitos de la institución. Estudiantes de primera generación, migrantes o trabajadores dependen de que las reglas estén escritas y no supuestas.",
+    "reto": "Calcula la carga real de tu asignatura y compárala con la declarada. Ajusta el diseño y comunica el cambio a tus estudiantes.",
+    "conexion": "Integra las clases 112 a 117 y se aplica directamente en la parte 14."
+  },
+  {
+    "n": 119,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "cómo se planifica un año completo sabiendo que ningún año se ejecuta como se planifica",
+    "proposito": "Planificar a nivel anual y de unidad con priorización explícita, holguras y criterios de ajuste, en vez de calendarios que se abandonan en abril.",
+    "decision": "determinar qué se prioriza y qué se sacrifica cuando el tiempo real resulte menor que el planificado",
+    "entregable": "una planificación anual con priorización declarada, holguras y criterios de ajuste ante pérdida de tiempo",
+    "conceptos": [
+      [
+        "Planificación anual",
+        "distribución de aprendizajes y evaluaciones a lo largo del año o del semestre"
+      ],
+      [
+        "Priorización",
+        "decisión explícita sobre qué aprendizajes son irrenunciables y cuáles admiten recorte"
+      ],
+      [
+        "Holgura",
+        "tiempo no asignado que absorbe interrupciones sin destruir la planificación"
+      ],
+      [
+        "Criterio de ajuste",
+        "regla decidida de antemano sobre qué se recorta cuando falta tiempo"
+      ]
+    ],
+    "desarrollo": "Toda planificación anual se enfrenta al mismo hecho: el año real tiene menos horas que el nominal. Interrupciones, actos, evaluaciones institucionales, ausencias y contingencias consumen una fracción significativa. Planificar sin holgura obliga a recortar en marcha, y ese recorte improvisado suele eliminar lo último del programa, que muchas veces es lo más importante.",
+    "practica": "La solución profesional es decidir antes: qué aprendizajes son irrenunciables, cuáles se profundizan si hay tiempo y cuáles se recortan primero. Declarado por escrito, el ajuste deja de ser una pérdida y pasa a ser una decisión. La holgura planificada —entre un diez y un quince por ciento del tiempo— convierte lo imprevisto en algo absorbible.",
+    "limites": "La priorización tiene costos: recortar es renunciar a aprendizajes que alguien consideró importantes. Y en sistemas con evaluaciones externas, la decisión local está condicionada por lo que se medirá. Hacer explícito ese condicionamiento permite discutirlo en vez de sufrirlo como inevitable.",
+    "errores": [
+      "Planificar sobre el tiempo nominal y recortar improvisadamente en noviembre.",
+      "Dejar la priorización implícita, con lo que se sacrifica siempre lo que viene al final del programa."
+    ],
+    "criterios": [
+      "la planificación declara aprendizajes irrenunciables y orden de recorte;",
+      "incluye holgura explícita y un criterio de ajuste decidido de antemano;"
+    ],
+    "preguntas": [
+      "¿Cuántas horas efectivas tendrá realmente tu año?",
+      "¿Qué recortarías primero si pierdes tres semanas, y por qué eso?",
+      "¿Qué aprendizaje irrenunciable quedó al final de tu planificación?"
+    ],
+    "lecturas": [
+      [
+        "Mineduc. *Priorización curricular y orientaciones de planificación* (edición vigente).",
+        "referencia chilena sobre criterios de priorización de aprendizajes."
+      ],
+      [
+        "Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.",
+        "aporta el criterio de distinguir lo esencial de lo deseable y de lo familiar."
+      ]
+    ],
+    "inclusion": "Los recortes improvisados suelen eliminar el tiempo de apoyo y de retroalimentación, que es lo que más necesitan los estudiantes con mayores dificultades. Priorizar de antemano protege ese tiempo.",
+    "reto": "Planifica un semestre con holgura y criterios de ajuste. Al terminar, compara lo ejecutado con lo planificado y evalúa si tu priorización funcionó.",
+    "conexion": "Aplica las clases 114 y 116 y se articula con la clase 057 en el nivel escolar."
+  },
+  {
+    "n": 120,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se construye un currículo completo cuya coherencia cualquiera pueda verificar",
+    "proposito": "Integrar la parte diseñando un currículo completo —perfil, resultados, mapa, secuencia, syllabus y planificación— y auditando su coherencia interna con instrumentos explícitos.",
+    "decision": "determinar el diseño curricular completo y demostrar su coherencia con una auditoría documentada",
+    "entregable": "un currículo completo con perfil, mapa, secuencia, syllabus y auditoría de alineamiento",
+    "conceptos": [
+      [
+        "Coherencia curricular",
+        "correspondencia verificable entre todos los niveles del diseño"
+      ],
+      [
+        "Trazabilidad",
+        "posibilidad de seguir un aprendizaje del perfil hasta su evaluación concreta"
+      ],
+      [
+        "Auditoría interna",
+        "revisión sistemática de la coherencia realizada por el propio equipo"
+      ],
+      [
+        "Documentación del diseño",
+        "registro que permite a otros entender y sostener las decisiones tomadas"
+      ]
+    ],
+    "desarrollo": "El proyecto integrador exige demostrar coherencia, no declararla. La prueba es la trazabilidad: tomar un elemento del perfil y seguirlo hasta la tarea concreta que lo evalúa, pasando por el mapa, la secuencia y el syllabus. Casi ningún programa real resiste ese recorrido completo la primera vez, y encontrar dónde se rompe es el aprendizaje central de la parte.",
+    "practica": "El trabajo se organiza en capas y se audita al final con la tabla de alineamiento. Documentar las decisiones —por qué esta secuencia, por qué esta evaluación, qué se priorizó y qué se dejó fuera— es lo que permite que el currículo sobreviva al cambio de equipo, que es la principal causa de pérdida de coherencia con el tiempo.",
+    "limites": "Un currículo coherente no garantiza aprendizaje: la implementación, la calidad de la enseñanza y las condiciones institucionales deciden el resultado. El diseño elimina un conjunto de fallas evitables; el resto depende de lo que ocurra en la sala, que es materia de las partes 10 y 12.",
+    "errores": [
+      "Declarar coherencia sin haber recorrido la trazabilidad de al menos un elemento completo.",
+      "Documentar el producto final y no las decisiones que lo produjeron."
+    ],
+    "criterios": [
+      "la trazabilidad de al menos tres elementos del perfil está documentada de principio a fin;",
+      "la auditoría identifica las rupturas de coherencia y su corrección;"
+    ],
+    "preguntas": [
+      "¿Dónde se rompe la trazabilidad de tu currículo?",
+      "¿Qué decisión de diseño no podrías explicar dentro de un año?",
+      "¿Qué sobreviviría de tu currículo si cambiara todo el equipo?"
+    ],
+    "lecturas": [
+      [
+        "Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.",
+        "marco integral para diseñar y auditar coherencia curricular."
+      ],
+      [
+        "Jacobs, H. H. (1997). *Mapping the Big Picture*.",
+        "metodología de mapeo que sostiene la verificación de coherencia."
+      ]
+    ],
+    "inclusion": "Un currículo trazable permite a cualquier estudiante saber qué se le exigirá y cuándo, y a la institución detectar dónde se produce la exclusión: qué asignatura filtra, qué evaluación deja fuera y a quiénes.",
+    "reto": "Audita tu currículo completo con un colega externo al programa. Documenta las tres rupturas más graves y corrige al menos una.",
+    "conexion": "Cierra la parte 09 integrando sus once clases previas. Es el insumo directo de las partes 10, 11 y 14."
+  }
 ]

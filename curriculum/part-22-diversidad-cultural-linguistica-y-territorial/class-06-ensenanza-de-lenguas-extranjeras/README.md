@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Lightbown, P. & Spada, N. *How Languages Are Learned*. | la síntesis más clara de lo que la investigación sobre adquisición permite afirmar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Ellis, R. *Task-Based Language Teaching*. | el enfoque por tareas con sus condiciones de eficacia y sus críticas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Lightbown, P. & Spada, N. *How Languages Are Learned* (edición vigente). | la síntesis más clara de lo que la investigación sobre adquisición permite afirmar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Ellis, R. (2003). *Task-Based Language Learning and Teaching*. | el enfoque por tareas con sus condiciones de eficacia y sus críticas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Lightbown, P. & Spada, N. *How Languages Are Learned*. **Uso en esta clase:** la síntesis más clara de lo que la investigación sobre adquisición permite afirmar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ellis, R. *Task-Based Language Teaching*. **Uso en esta clase:** el enfoque por tareas con sus condiciones de eficacia y sus críticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Lightbown, P. & Spada, N. *How Languages Are Learned* (edición vigente). **Uso en esta clase:** la síntesis más clara de lo que la investigación sobre adquisición permite afirmar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ellis, R. (2003). *Task-Based Language Learning and Teaching*. **Uso en esta clase:** el enfoque por tareas con sus condiciones de eficacia y sus críticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

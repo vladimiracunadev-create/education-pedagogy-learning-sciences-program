@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| OCDE. *Informes país y estudios temáticos sobre reformas educativas*. | descripción de trayectorias con datos comparables entre sistemas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *Informes país y estudios temáticos sobre reformas educativas* (edición vigente). | descripción de trayectorias con datos comparables entre sistemas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Hanushek, E. & Woessmann, L. (2006). *Does Educational Tracking Affect Performance and Inequality?* | la evidencia comparada sobre el efecto de separar tempranamente a los estudiantes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Informes país y estudios temáticos sobre reformas educativas*. **Uso en esta clase:** descripción de trayectorias con datos comparables entre sistemas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Informes país y estudios temáticos sobre reformas educativas* (edición vigente). **Uso en esta clase:** descripción de trayectorias con datos comparables entre sistemas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Hanushek, E. & Woessmann, L. (2006). *Does Educational Tracking Affect Performance and Inequality?* **Uso en esta clase:** la evidencia comparada sobre el efecto de separar tempranamente a los estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

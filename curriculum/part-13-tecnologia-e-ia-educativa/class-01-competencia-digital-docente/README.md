@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Comisión Europea. *DigCompEdu: Marco Europeo para la Competencia Digital de los Educadores*. | el marco más usado para estructurar áreas y niveles de competencia digital docente. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| UNESCO. *Marco de competencias en TIC para docentes*. | referencia internacional complementaria, con foco en política y sistemas educativos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Comisión Europea. *DigCompEdu: Marco Europeo para la Competencia Digital de los Educadores* (edición vigente). | el marco más usado para estructurar áreas y niveles de competencia digital docente. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| UNESCO. *Marco de competencias en TIC para docentes* (edición vigente). | referencia internacional complementaria, con foco en política y sistemas educativos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mishra, P. & Koehler, M. (2006). *Technological Pedagogical Content Knowledge*. | el marco que impide separar la competencia digital del contenido y de la didáctica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Comisión Europea. *DigCompEdu: Marco Europeo para la Competencia Digital de los Educadores*. **Uso en esta clase:** el marco más usado para estructurar áreas y niveles de competencia digital docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO. *Marco de competencias en TIC para docentes*. **Uso en esta clase:** referencia internacional complementaria, con foco en política y sistemas educativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Comisión Europea. *DigCompEdu: Marco Europeo para la Competencia Digital de los Educadores* (edición vigente). **Uso en esta clase:** el marco más usado para estructurar áreas y niveles de competencia digital docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO. *Marco de competencias en TIC para docentes* (edición vigente). **Uso en esta clase:** referencia internacional complementaria, con foco en política y sistemas educativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mishra, P. & Koehler, M. (2006). *Technological Pedagogical Content Knowledge*. **Uso en esta clase:** el marco que impide separar la competencia digital del contenido y de la didáctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

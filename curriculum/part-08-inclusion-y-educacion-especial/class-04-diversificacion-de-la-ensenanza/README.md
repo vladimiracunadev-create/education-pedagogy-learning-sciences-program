@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Mineduc. *Decreto 83/2015* sobre adecuaciones curriculares. | define en Chile los tipos de adecuación, su procedimiento y su registro. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Decreto 83/2015* sobre adecuaciones curriculares (edición vigente). | define en Chile los tipos de adecuación, su procedimiento y su registro. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Deunk, M. et al. (2018). *Effective Differentiation Practices*. Educational Research Review, 24. | revisión que separa las prácticas de diferenciación con evidencia de las que no la tienen. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Decreto 83/2015* sobre adecuaciones curriculares. **Uso en esta clase:** define en Chile los tipos de adecuación, su procedimiento y su registro. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Decreto 83/2015* sobre adecuaciones curriculares (edición vigente). **Uso en esta clase:** define en Chile los tipos de adecuación, su procedimiento y su registro. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Deunk, M. et al. (2018). *Effective Differentiation Practices*. Educational Research Review, 24. **Uso en esta clase:** revisión que separa las prácticas de diferenciación con evidencia de las que no la tienen. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

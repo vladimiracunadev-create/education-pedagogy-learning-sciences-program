@@ -86,7 +86,7 @@ flowchart TB
 - **Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.** — el manual del diseño inverso; su aporte central es exigir la evidencia de logro antes que la actividad.
 - **Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.** — define el alineamiento constructivo y lo convierte en procedimiento de diseño.
 - **Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*.** — la revisión de la taxonomía de Bloom que separa dimensión del conocimiento y proceso cognitivo.
-- **Mineduc. *Bases Curriculares* vigentes y priorización curricular.** — en Chile el diseño local se hace sobre este marco: conviene conocer su estructura y sus grados de libertad.
+- **Mineduc. *Bases Curriculares* vigentes y priorización curricular (edición vigente).** — en Chile el diseño local se hace sobre este marco: conviene conocer su estructura y sus grados de libertad.
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Jacobs, H. H. (1997). *Mapping the Big Picture: Integrating Curriculum and Assessment*. | metodología de mapeo curricular con base en lo efectivamente enseñado. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio*. | referencia sobre coherencia interna esperada en programas formales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio* (edición vigente). | referencia sobre coherencia interna esperada en programas formales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Jacobs, H. H. (1997). *Mapping the Big Picture: Integrating Curriculum and Assessment*. **Uso en esta clase:** metodología de mapeo curricular con base en lo efectivamente enseñado. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio*. **Uso en esta clase:** referencia sobre coherencia interna esperada en programas formales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio* (edición vigente). **Uso en esta clase:** referencia sobre coherencia interna esperada en programas formales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

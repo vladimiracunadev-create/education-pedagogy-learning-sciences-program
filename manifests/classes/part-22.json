@@ -7,10 +7,22 @@
     "decision": "determinar qué supone tu material sobre la vida de tus estudiantes y qué cambia si ese supuesto no se cumple",
     "entregable": "una revisión de un material o instrumento con sus supuestos identificados y corregidos",
     "conceptos": [
-      ["Supuesto implícito", "condición que un material da por cumplida sin declararla: lengua del hogar, espacio de estudio, familiaridad con el ejemplo"],
-      ["Capital cultural", "conjunto de referencias, códigos y disposiciones valoradas por la escuela y distribuidas de manera desigual"],
-      ["Interpretación deficitaria", "lectura que atribuye a carencia del estudiante lo que es desajuste entre su experiencia y el supuesto escolar"],
-      ["Fondos de conocimiento", "saberes acumulados en la familia y la comunidad, utilizables como recurso de enseñanza"]
+      [
+        "Supuesto implícito",
+        "condición que un material da por cumplida sin declararla: lengua del hogar, espacio de estudio, familiaridad con el ejemplo"
+      ],
+      [
+        "Capital cultural",
+        "conjunto de referencias, códigos y disposiciones valoradas por la escuela y distribuidas de manera desigual"
+      ],
+      [
+        "Interpretación deficitaria",
+        "lectura que atribuye a carencia del estudiante lo que es desajuste entre su experiencia y el supuesto escolar"
+      ],
+      [
+        "Fondos de conocimiento",
+        "saberes acumulados en la familia y la comunidad, utilizables como recurso de enseñanza"
+      ]
     ],
     "desarrollo": "Todo material educativo imagina un destinatario. Ese destinatario habla la lengua de instrucción en casa, reconoce los ejemplos, dispone de un lugar para estudiar y tiene adultos que conocen cómo funciona el sistema escolar. Cuando el estudiante real no coincide, la diferencia se interpreta como carencia: no sabe, no se esfuerza, no tiene apoyo. La corrección profesional no es bajar la exigencia sino explicitar el supuesto y decidir si se sostiene, se enseña o se reemplaza.",
     "practica": "La revisión de material se hace con preguntas concretas: qué conocimiento previo no escolar exige el ejemplo, qué referencia cultural asume, qué condiciones materiales requiere la tarea para la casa, qué variedad de la lengua trata como correcta. Cada supuesto detectado admite tres salidas: mantenerlo y enseñarlo explícitamente, reemplazarlo por uno más accesible, o declararlo como contenido de la clase. El enfoque de fondos de conocimiento agrega la vía más productiva: convertir el saber de la familia en material.",
@@ -29,8 +41,14 @@
       "¿Qué saber de las familias de tu curso podría ser material de clase?"
     ],
     "lecturas": [
-      ["Moll, L. et al. (1992). *Funds of Knowledge for Teaching*.", "convierte el saber familiar en recurso de enseñanza en vez de en obstáculo."],
-      ["Bourdieu, P. & Passeron, J.-C. (1970). *La reproducción*.", "explica el mecanismo por el cual la escuela premia un capital cultural que no distribuye."]
+      [
+        "Moll, L. et al. (1992). *Funds of Knowledge for Teaching*.",
+        "convierte el saber familiar en recurso de enseñanza en vez de en obstáculo."
+      ],
+      [
+        "Bourdieu, P. & Passeron, J.-C. (1970). *La reproducción*.",
+        "explica el mecanismo por el cual la escuela premia un capital cultural que no distribuye."
+      ]
     ],
     "inclusion": "Esta clase es el fundamento de toda la parte: la mayoría de las decisiones que excluyen no son deliberadas, son supuestos no examinados que operan en el material, en el ejemplo y en la evaluación.",
     "reto": "Revisa una evaluación tuya buscando supuestos culturales y de contexto. Corrige tres y aplica la versión nueva comparando los resultados.",
@@ -44,10 +62,22 @@
     "decision": "determinar si tu propuesta intercultural toca el currículum o solo lo decora",
     "entregable": "una unidad que integra un saber cultural en el contenido disciplinar, con criterios de evaluación coherentes",
     "conceptos": [
-      ["Educación intercultural", "enfoque que reconoce y pone en relación distintos sistemas de conocimiento dentro del currículum"],
-      ["Folclorización", "reducción de una cultura a sus manifestaciones visibles —comida, vestimenta, festividades— sin tocar el conocimiento"],
-      ["Diálogo de saberes", "puesta en relación de sistemas de conocimiento distintos, con reconocimiento de la validez de ambos"],
-      ["Pertinencia curricular", "grado en que el contenido enseñado se conecta con el territorio y la experiencia de los estudiantes"]
+      [
+        "Educación intercultural",
+        "enfoque que reconoce y pone en relación distintos sistemas de conocimiento dentro del currículum"
+      ],
+      [
+        "Folclorización",
+        "reducción de una cultura a sus manifestaciones visibles —comida, vestimenta, festividades— sin tocar el conocimiento"
+      ],
+      [
+        "Diálogo de saberes",
+        "puesta en relación de sistemas de conocimiento distintos, con reconocimiento de la validez de ambos"
+      ],
+      [
+        "Pertinencia curricular",
+        "grado en que el contenido enseñado se conecta con el territorio y la experiencia de los estudiantes"
+      ]
     ],
     "desarrollo": "La mayor parte de lo que las escuelas llaman educación intercultural ocurre en una semana del año y no toca el currículum. Esa forma tiene un efecto contradictorio: exhibe la cultura como objeto exótico y confirma que el conocimiento válido es el otro, el que se enseña el resto del año. La versión exigente del enfoque es distinta: implica preguntarse qué sistema de conocimiento sobre el territorio, la salud, la naturaleza o la historia queda fuera del programa, y ponerlo en diálogo con el que se enseña.",
     "practica": "Una unidad intercultural real se reconoce por dónde ocurre: en ciencias, en historia, en matemática, no en el acto. Se identifica un contenido del programa que admite otro sistema de conocimiento, se trabajan ambos con rigor, se explicitan sus diferencias de método y de criterio de validez, y se evalúa la comprensión de ambos. La participación de personas de la comunidad como fuente —no como espectáculo— es lo que distingue el diálogo del gesto.",
@@ -66,8 +96,14 @@
       "¿Quién de la comunidad participa y en qué rol exactamente?"
     ],
     "lecturas": [
-      ["Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*.", "define la pertinencia cultural sin renunciar a la exigencia académica."],
-      ["Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile.", "el marco institucional vigente y sus orientaciones curriculares."]
+      [
+        "Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*.",
+        "define la pertinencia cultural sin renunciar a la exigencia académica."
+      ],
+      [
+        "Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile (edición vigente).",
+        "el marco institucional vigente y sus orientaciones curriculares."
+      ]
     ],
     "inclusion": "La folclorización produce un daño específico: expone a los estudiantes de la cultura tratada como objeto de observación de sus compañeros, invirtiendo el propósito declarado del enfoque.",
     "reto": "Elige un contenido de tu asignatura y diseña una unidad que ponga en diálogo dos sistemas de conocimiento. Evalúa la comprensión de ambos.",
@@ -81,10 +117,22 @@
     "decision": "determinar qué modalidad de educación intercultural bilingüe corresponde a tu establecimiento y con qué condiciones",
     "entregable": "una propuesta de implementación con modalidad, condiciones, personas y evaluación de pertinencia",
     "conceptos": [
-      ["Educación intercultural bilingüe", "modalidad que incorpora la lengua y cultura de un pueblo originario al proceso educativo"],
-      ["Educador tradicional", "persona reconocida por su comunidad que enseña la lengua y la cultura junto al docente de aula"],
-      ["Revitalización lingüística", "conjunto de acciones dirigidas a recuperar el uso de una lengua en riesgo de desaparición"],
-      ["Asignatura de lengua indígena", "espacio curricular específico con marco propio dentro de la normativa chilena"]
+      [
+        "Educación intercultural bilingüe",
+        "modalidad que incorpora la lengua y cultura de un pueblo originario al proceso educativo"
+      ],
+      [
+        "Educador tradicional",
+        "persona reconocida por su comunidad que enseña la lengua y la cultura junto al docente de aula"
+      ],
+      [
+        "Revitalización lingüística",
+        "conjunto de acciones dirigidas a recuperar el uso de una lengua en riesgo de desaparición"
+      ],
+      [
+        "Asignatura de lengua indígena",
+        "espacio curricular específico con marco propio dentro de la normativa chilena"
+      ]
     ],
     "desarrollo": "La educación intercultural bilingüe en Chile tiene marco normativo, asignatura y figura del educador tradicional. También tiene una historia previa que explica su dificultad: durante buena parte del siglo veinte la escuela fue el lugar donde las lenguas originarias se perdieron, a veces por castigo explícito. Esa memoria condiciona la relación entre escuela y comunidad y no puede omitirse al implementar el programa, porque explica desconfianzas que de otro modo parecen incomprensibles.",
     "practica": "La implementación exige decisiones concretas: qué lengua según el territorio y la matrícula, quién enseña y con qué reconocimiento de la comunidad, cómo se articula el educador tradicional con el docente de aula —el punto donde más fracasa el programa—, y qué lugar tiene la lengua fuera de la asignatura. La evidencia disponible sobre programas bilingües en general favorece los modelos que mantienen la lengua materna en vez de sustituirla temprano.",
@@ -103,8 +151,14 @@
       "¿Qué presencia tiene la lengua fuera de las horas de la asignatura?"
     ],
     "lecturas": [
-      ["Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.", "fundamenta por qué mantener la lengua materna favorece el aprendizaje académico."],
-      ["Ley 19.253 (1993). *Ley Indígena, Chile*.", "el marco de derechos que sustenta la educación intercultural bilingüe."]
+      [
+        "Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.",
+        "fundamenta por qué mantener la lengua materna favorece el aprendizaje académico."
+      ],
+      [
+        "Ley 19.253 (1993). *Ley Indígena, Chile*.",
+        "el marco de derechos que sustenta la educación intercultural bilingüe."
+      ]
     ],
     "inclusion": "El reconocimiento de la lengua tiene efectos sobre la identidad y la permanencia escolar de los estudiantes del pueblo correspondiente, y su ausencia comunica —sin decirlo— qué conocimiento vale en esa escuela.",
     "reto": "Elabora la propuesta de implementación para un establecimiento con matrícula indígena. Consulta la articulación con quien hoy ocupa el rol de educador tradicional.",
@@ -118,10 +172,22 @@
     "decision": "determinar qué necesita este estudiante en sus primeras ocho semanas y quién responde por cada cosa",
     "entregable": "un plan de acogida con hitos, responsables y evaluación de necesidades lingüísticas y de trayectoria",
     "conceptos": [
-      ["Acogida escolar", "conjunto de acciones planificadas para la incorporación de un estudiante nuevo a la comunidad y al currículum"],
-      ["Trayectoria interrumpida", "escolaridad con cortes o cambios de sistema, que produce vacíos no atribuibles a capacidad"],
-      ["Reconocimiento de estudios", "procedimiento que valida la escolaridad previa cursada en otro país"],
-      ["Duelo migratorio", "proceso de pérdida y readaptación que afecta la disponibilidad para aprender durante los primeros meses"]
+      [
+        "Acogida escolar",
+        "conjunto de acciones planificadas para la incorporación de un estudiante nuevo a la comunidad y al currículum"
+      ],
+      [
+        "Trayectoria interrumpida",
+        "escolaridad con cortes o cambios de sistema, que produce vacíos no atribuibles a capacidad"
+      ],
+      [
+        "Reconocimiento de estudios",
+        "procedimiento que valida la escolaridad previa cursada en otro país"
+      ],
+      [
+        "Duelo migratorio",
+        "proceso de pérdida y readaptación que afecta la disponibilidad para aprender durante los primeros meses"
+      ]
     ],
     "desarrollo": "La matrícula migrante creció en Chile con rapidez y la mayoría de los establecimientos improvisó la respuesta. Los problemas se acumulan en las primeras semanas: derechos de matrícula que se desconocen, reconocimiento de estudios pendiente, evaluación diagnóstica ausente, dominio insuficiente del castellano académico y un proceso de duelo migratorio que reduce la disponibilidad para aprender. Cada uno tiene solución conocida; lo que falta casi siempre es que alguien tenga la tarea asignada.",
     "practica": "Un plan de acogida declara qué ocurre en las primeras ocho semanas: verificación de derechos y regularización, diagnóstico separado de nivel académico y de dominio del castellano —que se confunden con frecuencia—, asignación de un adulto y un par de referencia, ajustes de acceso mientras se adquiere la lengua, y comunicación con la familia en términos comprensibles. Cada hito tiene responsable y fecha.",
@@ -140,8 +206,14 @@
       "¿Qué información recibe la familia y en qué formato la recibe?"
     ],
     "lecturas": [
-      ["Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.", "explica por qué el diagnóstico en la lengua de instrucción subestima sistemáticamente el conocimiento."],
-      ["Ministerio de Educación de Chile. *Orientaciones para la inclusión de estudiantes migrantes*.", "derechos de matrícula, reconocimiento de estudios y obligaciones del establecimiento."]
+      [
+        "Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.",
+        "explica por qué el diagnóstico en la lengua de instrucción subestima sistemáticamente el conocimiento."
+      ],
+      [
+        "Ministerio de Educación de Chile. *Orientaciones para la inclusión de estudiantes migrantes* (edición vigente).",
+        "derechos de matrícula, reconocimiento de estudios y obligaciones del establecimiento."
+      ]
     ],
     "inclusion": "El acceso a la educación no depende de la situación migratoria de la familia, y el establecimiento tiene obligaciones específicas al respecto. Desconocerlas, aun sin intención, produce exclusión con efectos inmediatos.",
     "reto": "Escribe el plan de acogida de las primeras ocho semanas con hitos y responsables. Aplícalo con un estudiante y registra qué no funcionó.",
@@ -155,10 +227,22 @@
     "decision": "determinar qué demanda lingüística tiene tu asignatura y cómo la enseñas explícitamente",
     "entregable": "una planificación con andamiaje lingüístico declarado por tipo de texto y de tarea",
     "conceptos": [
-      ["Lengua conversacional", "dominio suficiente para la interacción cotidiana, que se adquiere en meses"],
-      ["Lengua académica", "registro formal, descontextualizado y específico de cada disciplina, cuya adquisición toma varios años"],
-      ["Andamiaje lingüístico", "apoyos explícitos —estructuras, conectores, modelos de texto— que permiten producir el registro exigido"],
-      ["Doble carga", "situación de aprender un contenido nuevo en una lengua que también se está aprendiendo"]
+      [
+        "Lengua conversacional",
+        "dominio suficiente para la interacción cotidiana, que se adquiere en meses"
+      ],
+      [
+        "Lengua académica",
+        "registro formal, descontextualizado y específico de cada disciplina, cuya adquisición toma varios años"
+      ],
+      [
+        "Andamiaje lingüístico",
+        "apoyos explícitos —estructuras, conectores, modelos de texto— que permiten producir el registro exigido"
+      ],
+      [
+        "Doble carga",
+        "situación de aprender un contenido nuevo en una lengua que también se está aprendiendo"
+      ]
     ],
     "desarrollo": "La distinción entre lengua conversacional y lengua académica explica uno de los errores más frecuentes del sistema: un estudiante que conversa con soltura en el recreo es considerado hablante competente, y su bajo rendimiento se atribuye a capacidad o a esfuerzo. La investigación disponible indica que el registro académico requiere varios años más que el conversacional, y que sin enseñanza explícita esa brecha puede persistir durante toda la escolaridad.",
     "practica": "Enseñar el registro académico es tarea de cada asignatura, no del profesor de lenguaje. Implica declarar qué tipo de texto exige la tarea, entregar modelos, enseñar los conectores y las estructuras propias del campo, y aceptar producciones donde el contenido esté correcto aunque la forma aún no lo esté. El vocabulario técnico se enseña de forma explícita, y las evaluaciones separan lo que miden: comprensión del contenido o dominio de la lengua.",
@@ -177,8 +261,14 @@
       "¿Qué vocabulario técnico das por conocido en tu asignatura?"
     ],
     "lecturas": [
-      ["Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.", "la distinción que ordena todas las decisiones de esta clase, con su evidencia original."],
-      ["Gibbons, P. *Scaffolding Language, Scaffolding Learning*.", "el andamiaje lingüístico traducido a decisiones concretas de aula por asignatura."]
+      [
+        "Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.",
+        "la distinción que ordena todas las decisiones de esta clase, con su evidencia original."
+      ],
+      [
+        "Gibbons, P. *Scaffolding Language, Scaffolding Learning* (edición vigente).",
+        "el andamiaje lingüístico traducido a decisiones concretas de aula por asignatura."
+      ]
     ],
     "inclusion": "La confusión entre dominio lingüístico y capacidad es una de las principales causas de derivación errónea a educación especial de estudiantes migrantes, documentada en varios sistemas escolares.",
     "reto": "Identifica la demanda lingüística de tu próxima evaluación. Diseña el andamiaje y compara el resultado del estudiante con la evaluación anterior.",
@@ -192,10 +282,22 @@
     "decision": "determinar qué proporción de tu clase de lengua extranjera ocurre efectivamente en esa lengua y con qué propósito",
     "entregable": "un rediseño de clase con exposición comprensible, uso comunicativo y evaluación coherente",
     "conceptos": [
-      ["Insumo comprensible", "exposición a la lengua en un nivel ligeramente superior al actual, que permite inferir significado"],
-      ["Uso comunicativo", "empleo de la lengua para transmitir contenido real, no para exhibir estructuras aprendidas"],
-      ["Atención a la forma", "enseñanza explícita de estructuras dentro de un contexto de uso, y no como contenido aislado"],
-      ["Tiempo de exposición", "cantidad acumulada de contacto con la lengua, principal limitante en contextos escolares"]
+      [
+        "Insumo comprensible",
+        "exposición a la lengua en un nivel ligeramente superior al actual, que permite inferir significado"
+      ],
+      [
+        "Uso comunicativo",
+        "empleo de la lengua para transmitir contenido real, no para exhibir estructuras aprendidas"
+      ],
+      [
+        "Atención a la forma",
+        "enseñanza explícita de estructuras dentro de un contexto de uso, y no como contenido aislado"
+      ],
+      [
+        "Tiempo de exposición",
+        "cantidad acumulada de contacto con la lengua, principal limitante en contextos escolares"
+      ]
     ],
     "desarrollo": "La enseñanza escolar de lenguas extranjeras enfrenta una limitación estructural: el tiempo de exposición es muy inferior al que la adquisición requiere. Con dos o tres horas semanales, ninguna metodología produce dominio. Eso no invalida la enseñanza; obliga a decidir con realismo qué es alcanzable y a maximizar dos variables que sí dependen del docente: la cantidad de insumo comprensible y las oportunidades de uso comunicativo real dentro de la sala.",
     "practica": "Las decisiones que más rinden son de proporción: cuánto de la clase ocurre en la lengua meta, cuánto insumo comprensible recibe el estudiante y cuántas oportunidades tiene de usarla para decir algo que le importe. La atención explícita a la forma tiene lugar, pero dentro del uso y no como contenido central. La evaluación debe medir capacidad comunicativa y no solo conocimiento metalingüístico, que es lo más fácil de examinar y lo menos indicativo.",
@@ -214,8 +316,14 @@
       "¿Qué es alcanzable con las horas que efectivamente tienes?"
     ],
     "lecturas": [
-      ["Lightbown, P. & Spada, N. *How Languages Are Learned*.", "la síntesis más clara de lo que la investigación sobre adquisición permite afirmar."],
-      ["Ellis, R. *Task-Based Language Teaching*.", "el enfoque por tareas con sus condiciones de eficacia y sus críticas."]
+      [
+        "Lightbown, P. & Spada, N. *How Languages Are Learned* (edición vigente).",
+        "la síntesis más clara de lo que la investigación sobre adquisición permite afirmar."
+      ],
+      [
+        "Ellis, R. (2003). *Task-Based Language Learning and Teaching*.",
+        "el enfoque por tareas con sus condiciones de eficacia y sus críticas."
+      ]
     ],
     "inclusion": "La exposición extraescolar a la lengua extranjera está fuertemente asociada al nivel socioeconómico. Una clase que asume ese contacto previo convierte una ventaja de origen en mérito escolar.",
     "reto": "Registra la proporción de tu clase que ocurre en la lengua meta. Rediséñala aumentando el insumo comprensible y compara la participación oral.",
@@ -229,10 +337,22 @@
     "decision": "determinar qué corriges como error y qué corresponde a una variedad legítima del castellano",
     "entregable": "un criterio de corrección lingüística explícito, aplicado a producciones reales de tus estudiantes",
     "conceptos": [
-      ["Variedad lingüística", "forma de una lengua asociada a un territorio o grupo social, con sistema propio y plenamente gramatical"],
-      ["Registro formal", "variedad usada en contextos institucionales y académicos, que la escuela debe enseñar explícitamente"],
-      ["Prejuicio lingüístico", "valoración negativa de una variedad, presentada como juicio sobre corrección y no sobre origen social"],
-      ["Repertorio ampliado", "objetivo de agregar registros sin sustituir la variedad de origen"]
+      [
+        "Variedad lingüística",
+        "forma de una lengua asociada a un territorio o grupo social, con sistema propio y plenamente gramatical"
+      ],
+      [
+        "Registro formal",
+        "variedad usada en contextos institucionales y académicos, que la escuela debe enseñar explícitamente"
+      ],
+      [
+        "Prejuicio lingüístico",
+        "valoración negativa de una variedad, presentada como juicio sobre corrección y no sobre origen social"
+      ],
+      [
+        "Repertorio ampliado",
+        "objetivo de agregar registros sin sustituir la variedad de origen"
+      ]
     ],
     "desarrollo": "La lingüística estableció hace décadas que las variedades de una lengua son sistemas completos y regulares, y que la jerarquía entre ellas es social y no gramatical. La escuela suele operar con el supuesto contrario: trata las formas propias de la variedad del estudiante como errores, y lo corrige en términos de corrección y no de contexto de uso. El efecto documentado no es solo lingüístico, sino de participación: los estudiantes corregidos por su forma de hablar hablan menos.",
     "practica": "El criterio profesional distingue tres cosas: errores propiamente tales, formas de otra variedad y adecuación al registro exigido. La enseñanza del registro formal es obligación de la escuela —privar de él es negar acceso—, pero se enseña como ampliación del repertorio y no como sustitución. En la práctica, eso significa nombrar el contexto: aquí se escribe así, y esa forma que usas es correcta en otro contexto.",
@@ -251,8 +371,14 @@
       "¿Dónde enseñas explícitamente el registro formal que exiges?"
     ],
     "lecturas": [
-      ["Labov, W. (1972). *The Logic of Nonstandard English*.", "el texto que estableció que las variedades no estándar son sistemas plenamente lógicos."],
-      ["Delpit, L. (1988). *The Silenced Dialogue*.", "argumenta por qué no enseñar los códigos de poder es también una forma de exclusión."]
+      [
+        "Labov, W. (1972). *The Logic of Nonstandard English*.",
+        "el texto que estableció que las variedades no estándar son sistemas plenamente lógicos."
+      ],
+      [
+        "Delpit, L. (1988). *The Silenced Dialogue*.",
+        "argumenta por qué no enseñar los códigos de poder es también una forma de exclusión."
+      ]
     ],
     "inclusion": "El prejuicio lingüístico opera sobre estudiantes rurales, migrantes y de sectores populares, y se ejerce con la apariencia de una corrección técnica. Es una de las formas de discriminación escolar más difíciles de nombrar.",
     "reto": "Revisa tus correcciones de una semana y clasifícalas en error, variedad y registro. Cambia tu forma de corregir la segunda categoría y observa la participación oral.",
@@ -266,10 +392,22 @@
     "decision": "determinar qué del territorio entra en tu enseñanza y qué restricción de contexto debes resolver primero",
     "entregable": "un diseño de unidad con pertinencia territorial declarada y restricciones de contexto resueltas",
     "conceptos": [
-      ["Educación rural", "modalidad con características propias: cursos pequeños, vínculo comunitario estrecho y aislamiento relativo"],
-      ["Pertinencia territorial", "conexión del contenido con la actividad, el paisaje y los saberes del lugar donde está la escuela"],
-      ["Restricción de contexto", "condición material —conectividad, distancia, disponibilidad de recursos— que limita las opciones pedagógicas"],
-      ["Escuela como centro comunitario", "función social que la escuela rural cumple más allá de lo pedagógico"]
+      [
+        "Educación rural",
+        "modalidad con características propias: cursos pequeños, vínculo comunitario estrecho y aislamiento relativo"
+      ],
+      [
+        "Pertinencia territorial",
+        "conexión del contenido con la actividad, el paisaje y los saberes del lugar donde está la escuela"
+      ],
+      [
+        "Restricción de contexto",
+        "condición material —conectividad, distancia, disponibilidad de recursos— que limita las opciones pedagógicas"
+      ],
+      [
+        "Escuela como centro comunitario",
+        "función social que la escuela rural cumple más allá de lo pedagógico"
+      ]
     ],
     "desarrollo": "La escuela rural chilena tiene características que no se explican por su tamaño: el docente suele conocer a todas las familias, la escuela funciona como centro de la comunidad, el vínculo es más denso y la rotación de personal más alta. Junto a eso hay restricciones reales de conectividad, distancia y acceso a especialistas. Tratar esta realidad como una versión deficitaria de la escuela urbana lleva a importar soluciones que no funcionan y a desaprovechar ventajas que la escuela urbana no tiene.",
     "practica": "El diseño pertinente parte del territorio: la actividad productiva, el paisaje, la historia local y los saberes de la comunidad son material curricular legítimo y disponible. Al mismo tiempo, la planificación debe resolver antes las restricciones: qué se hace sin conectividad, cómo se accede a especialistas, cómo se sostiene la continuidad cuando el docente cambia. Ambas cosas van juntas: pertinencia sin resolver restricciones es voluntarismo.",
@@ -288,8 +426,14 @@
       "¿Qué aprendizaje exigido en la ciudad estás dejando fuera?"
     ],
     "lecturas": [
-      ["Moll, L. et al. (1992). *Funds of Knowledge for Teaching*.", "el marco que convierte el saber local en recurso curricular con estatus."],
-      ["Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*.", "el modelo latinoamericano diseñado desde las condiciones rurales y no adaptado a ellas."]
+      [
+        "Moll, L. et al. (1992). *Funds of Knowledge for Teaching*.",
+        "el marco que convierte el saber local en recurso curricular con estatus."
+      ],
+      [
+        "Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente).",
+        "el modelo latinoamericano diseñado desde las condiciones rurales y no adaptado a ellas."
+      ]
     ],
     "inclusion": "El aislamiento afecta el acceso a especialistas, a apoyos y a oferta de continuidad de estudios. Un plan que no lo declara traslada al estudiante rural el costo de una restricción del sistema.",
     "reto": "Diseña una unidad que integre un saber o actividad del territorio. Declara y resuelve las restricciones de contexto antes de aplicarla.",
@@ -303,10 +447,22 @@
     "decision": "determinar la estructura de tu clase multigrado: qué es común, qué se diferencia y quién trabaja con quién",
     "entregable": "una planificación multigrado con tarea común, tres niveles de exigencia y organización de la autonomía",
     "conceptos": [
-      ["Aula multigrado", "grupo que reúne estudiantes de dos o más niveles con un solo docente"],
-      ["Tarea común con niveles", "actividad única, con productos y exigencias distintas según nivel, que evita triplicar la preparación"],
-      ["Tutoría entre pares", "enseñanza de un estudiante a otro, con beneficio documentado para ambos cuando está estructurada"],
-      ["Rotación de atención", "organización del tiempo docente para atender a cada grupo mientras los demás trabajan con autonomía"]
+      [
+        "Aula multigrado",
+        "grupo que reúne estudiantes de dos o más niveles con un solo docente"
+      ],
+      [
+        "Tarea común con niveles",
+        "actividad única, con productos y exigencias distintas según nivel, que evita triplicar la preparación"
+      ],
+      [
+        "Tutoría entre pares",
+        "enseñanza de un estudiante a otro, con beneficio documentado para ambos cuando está estructurada"
+      ],
+      [
+        "Rotación de atención",
+        "organización del tiempo docente para atender a cada grupo mientras los demás trabajan con autonomía"
+      ]
     ],
     "desarrollo": "El aula multigrado se percibe como una limitación y tiene una lógica propia que, bien organizada, ofrece posibilidades que el aula homogénea no tiene: tutoría entre pares con edades distintas, progresión visible para el estudiante menor, y responsabilidad real para el mayor. El error de diseño que hace insostenible el multigrado es intentar dictar clases paralelas: tres preparaciones, tres explicaciones y un docente que no alcanza a acompañar a ninguno.",
     "practica": "La estructura que funciona parte de una tarea o tema común, con productos y niveles de exigencia diferenciados. Se enseñan rutinas de autonomía al inicio del año, se estructura la tutoría entre pares con roles y criterios —no como ayuda espontánea— y se organiza la rotación de atención del docente en bloques declarados. La evaluación se diferencia por nivel sobre el mismo trabajo, lo que reduce la carga de corrección.",
@@ -325,8 +481,14 @@
       "¿Cuánto tiempo propio de aprendizaje pierde el estudiante que hace de tutor?"
     ],
     "lecturas": [
-      ["Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*.", "el diseño multigrado más documentado de América Latina, con sus materiales y su lógica."],
-      ["Slavin, R. (2014). *Cooperative Learning and Academic Achievement*.", "las condiciones bajo las cuales la tutoría entre pares produce aprendizaje en ambos."]
+      [
+        "Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente).",
+        "el diseño multigrado más documentado de América Latina, con sus materiales y su lógica."
+      ],
+      [
+        "Slavin, R. (2014). *Cooperative Learning and Academic Achievement*.",
+        "las condiciones bajo las cuales la tutoría entre pares produce aprendizaje en ambos."
+      ]
     ],
     "inclusion": "El multigrado bien organizado es una respuesta natural a la heterogeneidad y puede beneficiar a estudiantes con ritmos distintos. Mal organizado, el estudiante con más dificultades queda sin atención mientras el docente rota.",
     "reto": "Planifica una semana multigrado con tarea común y tres niveles. Registra cuánto tiempo efectivo dedicaste a cada grupo y ajusta la rotación.",
@@ -340,10 +502,22 @@
     "decision": "determinar qué parte del resultado de tu establecimiento es efecto de composición y qué parte es efecto de su enseñanza",
     "entregable": "un análisis de resultados que distingue composición de valor agregado, con sus límites declarados",
     "conceptos": [
-      ["Segregación escolar", "distribución desigual de los estudiantes entre establecimientos según nivel socioeconómico o académico"],
-      ["Efecto par", "influencia de la composición del grupo sobre el aprendizaje individual, independiente de la enseñanza recibida"],
-      ["Valor agregado", "estimación del aporte del establecimiento al aprendizaje, descontando las características de entrada"],
-      ["Composición de matrícula", "perfil agregado de los estudiantes de un establecimiento, principal predictor de sus resultados brutos"]
+      [
+        "Segregación escolar",
+        "distribución desigual de los estudiantes entre establecimientos según nivel socioeconómico o académico"
+      ],
+      [
+        "Efecto par",
+        "influencia de la composición del grupo sobre el aprendizaje individual, independiente de la enseñanza recibida"
+      ],
+      [
+        "Valor agregado",
+        "estimación del aporte del establecimiento al aprendizaje, descontando las características de entrada"
+      ],
+      [
+        "Composición de matrícula",
+        "perfil agregado de los estudiantes de un establecimiento, principal predictor de sus resultados brutos"
+      ]
     ],
     "desarrollo": "El sistema escolar chileno presenta uno de los niveles de segregación socioeconómica más altos entre los países comparables, y eso condiciona la lectura de cualquier resultado. Los rankings de establecimientos por puntaje bruto miden en buena medida composición de matrícula, no calidad de enseñanza. El efecto par existe y está documentado, aunque su magnitud es objeto de discusión metodológica seria porque es difícil separarlo de la selección.",
     "practica": "Un análisis profesional distingue tres niveles: resultado bruto, resultado comparado con establecimientos de composición similar, y progreso del mismo grupo de estudiantes en el tiempo. Solo el tercero se acerca a informar sobre el aporte de la enseñanza. Para un equipo directivo, esa distinción cambia las decisiones: perseguir el puntaje bruto conduce a seleccionar estudiantes; perseguir el progreso conduce a mejorar la enseñanza.",
@@ -362,8 +536,14 @@
       "¿Qué decisión tomarías distinto si persiguieras progreso en vez de puntaje?"
     ],
     "lecturas": [
-      ["Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.", "cuantifica el contexto en que operan todas las decisiones pedagógicas del sistema."],
-      ["Angrist, J. & Pischke, J.-S. (2009). *Mostly Harmless Econometrics*.", "por qué separar efecto causal de selección es difícil y qué se puede afirmar con cada diseño."]
+      [
+        "Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.",
+        "cuantifica el contexto en que operan todas las decisiones pedagógicas del sistema."
+      ],
+      [
+        "Angrist, J. & Pischke, J.-S. (2009). *Mostly Harmless Econometrics*.",
+        "por qué separar efecto causal de selección es difícil y qué se puede afirmar con cada diseño."
+      ]
     ],
     "inclusion": "La segregación es el mecanismo por el cual el sistema concentra las dificultades en los mismos establecimientos. Ignorarlo lleva a exigir a esas escuelas resultados que dependen de condiciones que no controlan.",
     "reto": "Analiza los resultados de un establecimiento en los tres niveles. Escribe qué se puede y qué no se puede concluir sobre su enseñanza.",
@@ -377,10 +557,22 @@
     "decision": "determinar qué decisión pedagógica de tu establecimiento depende de un recurso y cómo se justifica su uso",
     "entregable": "una propuesta de uso de recursos con fundamento pedagógico, evidencia esperada y verificación",
     "conceptos": [
-      ["Subvención escolar", "financiamiento por estudiante que constituye la base del ingreso de los establecimientos subvencionados"],
-      ["Subvención escolar preferencial", "recurso adicional asociado a estudiantes prioritarios, con destino regulado y plan comprometido"],
-      ["Plan de mejoramiento educativo", "instrumento que vincula el uso de recursos con acciones y metas declaradas"],
-      ["Justificación pedagógica", "argumento que conecta un gasto con un aprendizaje esperado y su forma de verificación"]
+      [
+        "Subvención escolar",
+        "financiamiento por estudiante que constituye la base del ingreso de los establecimientos subvencionados"
+      ],
+      [
+        "Subvención escolar preferencial",
+        "recurso adicional asociado a estudiantes prioritarios, con destino regulado y plan comprometido"
+      ],
+      [
+        "Plan de mejoramiento educativo",
+        "instrumento que vincula el uso de recursos con acciones y metas declaradas"
+      ],
+      [
+        "Justificación pedagógica",
+        "argumento que conecta un gasto con un aprendizaje esperado y su forma de verificación"
+      ]
     ],
     "desarrollo": "El financiamiento no es un tema administrativo separado de lo pedagógico: define cuántos docentes hay, cuántas horas no lectivas existen, qué apoyos se contratan y qué se puede sostener en el tiempo. La subvención escolar preferencial introdujo recursos adicionales asociados a estudiantes prioritarios, con destino regulado y con la exigencia de un plan. Su uso efectivo es desigual: buena parte se destina a compras cuya conexión con el aprendizaje nunca se explicitó.",
     "practica": "Una propuesta bien formulada conecta tres cosas: el problema pedagógico identificado con evidencia, la acción que se financia y la forma de verificar si produjo el efecto esperado. Ese encadenamiento es lo que distingue una decisión de una compra. Para un docente, entender el marco permite fundamentar solicitudes con el lenguaje correcto; para un equipo directivo, permite defender el uso ante fiscalización y ante la comunidad.",
@@ -399,8 +591,14 @@
       "¿Qué se compró el año pasado y qué aprendizaje mejoró con eso?"
     ],
     "lecturas": [
-      ["Ley 20.248 (2008). *Subvención Escolar Preferencial, Chile*.", "el marco de recursos adicionales, sus destinos y sus obligaciones de rendición."],
-      ["Bryk, A. et al. (2015). *Learning to Improve*.", "método para conectar una acción con el resultado esperado y verificarlo en ciclos cortos."]
+      [
+        "Ley 20.248 (2008). *Subvención Escolar Preferencial, Chile*.",
+        "el marco de recursos adicionales, sus destinos y sus obligaciones de rendición."
+      ],
+      [
+        "Bryk, A. et al. (2015). *Learning to Improve*.",
+        "método para conectar una acción con el resultado esperado y verificarlo en ciclos cortos."
+      ]
     ],
     "inclusion": "Los recursos adicionales existen precisamente para los estudiantes con más barreras. Gastarlos sin conexión con un problema documentado desvía el instrumento de equidad más importante del sistema.",
     "reto": "Toma una compra o contratación de tu establecimiento y reconstruye su justificación pedagógica. Si no existe, escribe la que debió tener.",
@@ -414,10 +612,22 @@
     "decision": "determinar el plan de pertinencia del establecimiento y qué evidencia mostrará que cambió algo",
     "entregable": "un plan de pertinencia con acogida lingüística, adecuación territorial, uso de recursos y evidencia comprometida",
     "conceptos": [
-      ["Plan de pertinencia", "documento que articula las decisiones sobre diversidad cultural, lingüística y territorial de un establecimiento"],
-      ["Acción verificable", "decisión con responsable, plazo y evidencia comprometida, distinguible de una declaración de principios"],
-      ["Consulta a la comunidad", "participación de familias y organizaciones en las decisiones que las involucran"],
-      ["Indicador desagregado", "medida presentada por grupo, que revela lo que el promedio oculta"]
+      [
+        "Plan de pertinencia",
+        "documento que articula las decisiones sobre diversidad cultural, lingüística y territorial de un establecimiento"
+      ],
+      [
+        "Acción verificable",
+        "decisión con responsable, plazo y evidencia comprometida, distinguible de una declaración de principios"
+      ],
+      [
+        "Consulta a la comunidad",
+        "participación de familias y organizaciones en las decisiones que las involucran"
+      ],
+      [
+        "Indicador desagregado",
+        "medida presentada por grupo, que revela lo que el promedio oculta"
+      ]
     ],
     "desarrollo": "Los proyectos educativos institucionales declaran casi siempre respeto por la diversidad, y esa declaración rara vez se traduce en decisiones verificables. El plan de esta parte se propone lo contrario: convertir el reconocimiento en acciones concretas —acogida lingüística, adecuación de material, articulación con la comunidad, uso justificado de recursos— con responsables, plazos y evidencia. El criterio de calidad es simple: qué se hace distinto el lunes por efecto de este documento.",
     "practica": "El plan integra las once clases anteriores: revisión de supuestos del material, decisiones sobre interculturalidad y lengua, acogida de estudiantes migrantes, enseñanza del castellano académico, criterios de corrección lingüística, pertinencia territorial, planificación multigrado cuando corresponde, lectura correcta de resultados y uso fundamentado de recursos. Cada componente compromete una evidencia y una fecha. La consulta a la comunidad es parte del proceso, no un trámite posterior.",
@@ -436,8 +646,14 @@
       "¿Qué muestran tus indicadores cuando los desagregas por grupo?"
     ],
     "lecturas": [
-      ["Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.", "el instrumento que convierte principios de inclusión en indicadores revisables."],
-      ["Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*.", "los criterios que permiten juzgar si una propuesta es pertinente o solo bienintencionada."]
+      [
+        "Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.",
+        "el instrumento que convierte principios de inclusión en indicadores revisables."
+      ],
+      [
+        "Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*.",
+        "los criterios que permiten juzgar si una propuesta es pertinente o solo bienintencionada."
+      ]
     ],
     "inclusion": "El plan debe declarar explícitamente a quién beneficia cada acción y verificar que los estudiantes con más barreras estén efectivamente incluidos, no solo mencionados en la introducción.",
     "reto": "Escribe el plan de pertinencia de un establecimiento con evidencia comprometida por acción. Consúltalo con al menos una familia de cada grupo involucrado.",

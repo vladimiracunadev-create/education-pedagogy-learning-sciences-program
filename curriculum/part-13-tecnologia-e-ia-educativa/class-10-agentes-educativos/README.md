@@ -149,7 +149,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. | principios de supervisión humana y responsabilidad aplicables a sistemas autónomos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| OCDE. *Principios sobre inteligencia artificial*. | marco internacional sobre transparencia, robustez y rendición de cuentas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *Principios sobre inteligencia artificial* (edición vigente). | marco internacional sobre transparencia, robustez y rendición de cuentas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Baker, R. & Inventado, P. (2014). *Educational Data Mining and Learning Analytics*. | describe qué pueden y qué no pueden inferir los sistemas que observan el aprendizaje. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +335,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. **Uso en esta clase:** principios de supervisión humana y responsabilidad aplicables a sistemas autónomos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- OCDE. *Principios sobre inteligencia artificial*. **Uso en esta clase:** marco internacional sobre transparencia, robustez y rendición de cuentas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Principios sobre inteligencia artificial* (edición vigente). **Uso en esta clase:** marco internacional sobre transparencia, robustez y rendición de cuentas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Baker, R. & Inventado, P. (2014). *Educational Data Mining and Learning Analytics*. **Uso en esta clase:** describe qué pueden y qué no pueden inferir los sistemas que observan el aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

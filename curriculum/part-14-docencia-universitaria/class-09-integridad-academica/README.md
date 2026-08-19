@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Bretag, T. (ed.). *Handbook of Academic Integrity*. | tratamiento sistemático del campo, sus causas y sus políticas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Bretag, T. (ed.) (2016). *Handbook of Academic Integrity*. | tratamiento sistemático del campo, sus causas y sus políticas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | UNESCO (2023). *Guidance for Generative AI in Education and Research*. | orientaciones institucionales para políticas de uso y evaluación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bretag, T. (ed.). *Handbook of Academic Integrity*. **Uso en esta clase:** tratamiento sistemático del campo, sus causas y sus políticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bretag, T. (ed.) (2016). *Handbook of Academic Integrity*. **Uso en esta clase:** tratamiento sistemático del campo, sus causas y sus políticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** orientaciones institucionales para políticas de uso y evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

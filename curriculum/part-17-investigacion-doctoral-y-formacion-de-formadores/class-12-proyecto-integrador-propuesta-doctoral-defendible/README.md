@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Dunleavy, P. (2003). *Authoring a PhD*. | estructura y estrategia del trabajo doctoral, incluida la propuesta. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. | argumentación y anticipación de objeciones aplicadas a la propuesta de investigación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). | argumentación y anticipación de objeciones aplicadas a la propuesta de investigación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Dunleavy, P. (2003). *Authoring a PhD*. **Uso en esta clase:** estructura y estrategia del trabajo doctoral, incluida la propuesta. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. **Uso en esta clase:** argumentación y anticipación de objeciones aplicadas a la propuesta de investigación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** argumentación y anticipación de objeciones aplicadas a la propuesta de investigación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

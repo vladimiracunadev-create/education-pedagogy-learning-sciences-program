@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Siemens, G. & Gašević, D. *Learning Analytics: fundamentos y aplicaciones*. | introducción al campo, sus métodos y sus límites. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Siemens, G. & Baker, R. (2012). *Learning Analytics and Educational Data Mining: Towards Communication and Collaboration*. | introducción al campo, sus métodos y sus límites. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*. | sistematiza los problemas éticos del uso de datos de estudiantes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Siemens, G. & Gašević, D. *Learning Analytics: fundamentos y aplicaciones*. **Uso en esta clase:** introducción al campo, sus métodos y sus límites. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Siemens, G. & Baker, R. (2012). *Learning Analytics and Educational Data Mining: Towards Communication and Collaboration*. **Uso en esta clase:** introducción al campo, sus métodos y sus límites. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*. **Uso en esta clase:** sistematiza los problemas éticos del uso de datos de estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

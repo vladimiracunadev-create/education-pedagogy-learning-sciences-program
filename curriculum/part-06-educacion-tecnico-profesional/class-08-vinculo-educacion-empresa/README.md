@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| OCDE. *Engaging Employers in Vocational Education and Training*. | analiza modelos de participación empresarial y sus condiciones de éxito. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc. *Orientaciones para la vinculación con el sector productivo en educación técnico-profesional*. | marco chileno para convenios, prácticas y consejos asesores. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *Engaging Employers in Vocational Education and Training* (edición vigente). | analiza modelos de participación empresarial y sus condiciones de éxito. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Orientaciones para la vinculación con el sector productivo en educación técnico-profesional* (edición vigente). | marco chileno para convenios, prácticas y consejos asesores. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Billett, S. (2001). *Learning in the Workplace: Strategies for Effective Practice*. | describe qué hace que la experiencia laboral enseñe algo y cuándo se vuelve solo mano de obra. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Engaging Employers in Vocational Education and Training*. **Uso en esta clase:** analiza modelos de participación empresarial y sus condiciones de éxito. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para la vinculación con el sector productivo en educación técnico-profesional*. **Uso en esta clase:** marco chileno para convenios, prácticas y consejos asesores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Engaging Employers in Vocational Education and Training* (edición vigente). **Uso en esta clase:** analiza modelos de participación empresarial y sus condiciones de éxito. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Orientaciones para la vinculación con el sector productivo en educación técnico-profesional* (edición vigente). **Uso en esta clase:** marco chileno para convenios, prácticas y consejos asesores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Billett, S. (2001). *Learning in the Workplace: Strategies for Effective Practice*. **Uso en esta clase:** describe qué hace que la experiencia laboral enseñe algo y cuándo se vuelve solo mano de obra. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

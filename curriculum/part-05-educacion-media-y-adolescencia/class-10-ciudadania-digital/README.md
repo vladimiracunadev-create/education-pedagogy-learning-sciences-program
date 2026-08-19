@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso*. | marco internacional con recomendaciones y evidencia disponible. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos*. | define obligaciones y procedimientos exigibles al establecimiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso* (edición vigente). | marco internacional con recomendaciones y evidencia disponible. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos* (edición vigente). | define obligaciones y procedimientos exigibles al establecimiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Livingstone, S. & Third, A. (2017). *Children and Young People's Rights in the Digital Age*. | aporta el enfoque de derechos que evita reducir la ciudadanía digital a la protección. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso*. **Uso en esta clase:** marco internacional con recomendaciones y evidencia disponible. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos*. **Uso en esta clase:** define obligaciones y procedimientos exigibles al establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso* (edición vigente). **Uso en esta clase:** marco internacional con recomendaciones y evidencia disponible. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos* (edición vigente). **Uso en esta clase:** define obligaciones y procedimientos exigibles al establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Livingstone, S. & Third, A. (2017). *Children and Young People's Rights in the Digital Age*. **Uso en esta clase:** aporta el enfoque de derechos que evita reducir la ciudadanía digital a la protección. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

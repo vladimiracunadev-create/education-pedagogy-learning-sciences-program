@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Danielson, C. *Framework for Teaching*. | instrumento ampliamente usado; conviene conocerlo junto con la evidencia sobre su confiabilidad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Danielson, C. *Framework for Teaching* (edición vigente). | instrumento ampliamente usado; conviene conocerlo junto con la evidencia sobre su confiabilidad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Ho, A. & Kane, T. (2013). *The Reliability of Classroom Observations by School Personnel*. | documenta cuántas observaciones y qué condiciones se requieren para obtener medidas confiables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Danielson, C. *Framework for Teaching*. **Uso en esta clase:** instrumento ampliamente usado; conviene conocerlo junto con la evidencia sobre su confiabilidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Danielson, C. *Framework for Teaching* (edición vigente). **Uso en esta clase:** instrumento ampliamente usado; conviene conocerlo junto con la evidencia sobre su confiabilidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Ho, A. & Kane, T. (2013). *The Reliability of Classroom Observations by School Personnel*. **Uso en esta clase:** documenta cuántas observaciones y qué condiciones se requieren para obtener medidas confiables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

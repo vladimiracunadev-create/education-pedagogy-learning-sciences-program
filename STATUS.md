@@ -13,15 +13,15 @@ coincidiendo con lo publicado.
 | Partes | 25 |
 | Clases | 300 |
 | Clases por parte | 12 |
-| Palabras en las 300 clases | 1.176.335 |
-| Palabras por clase | 3765–4178 (mediana 3907) |
+| Palabras en las 300 clases | 1.178.711 |
+| Palabras por clase | 3774–4178 (mediana 3929) |
 | Diagramas mermaid | 325 (uno por clase y uno por parte) |
 | Conceptos con definición operacional | 1.200 |
 | Decisiones profesionales habilitadas | 300 (una por clase) |
 | Evidencias de aprendizaje definidas | 300 |
 | Preguntas de comprobación | 900 |
-| Referencias bibliográficas citadas en clases | 600 |
-| Documentos transversales (`docs/`) | 17 |
+| Referencias bibliográficas citadas en clases | 622 |
+| Documentos transversales (`docs/`) | 18 |
 | Casos profesionales (`cases/`) | 9 |
 | Proyectos integradores mayores (`projects/`) | 6 |
 | Laboratorios (`labs/`) | 10 |

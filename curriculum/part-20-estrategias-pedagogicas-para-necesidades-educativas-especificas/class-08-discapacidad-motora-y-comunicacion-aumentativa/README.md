@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Beukelman, D. & Mirenda, P. *Augmentative and Alternative Communication*. | el manual de referencia sobre sistemas aumentativos y sus condiciones de implementación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)*. | el marco que sitúa la participación como resultado de la interacción con el entorno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Beukelman, D. & Mirenda, P. *Augmentative and Alternative Communication* (edición vigente). | el manual de referencia sobre sistemas aumentativos y sus condiciones de implementación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)* (edición vigente). | el marco que sitúa la participación como resultado de la interacción con el entorno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Beukelman, D. & Mirenda, P. *Augmentative and Alternative Communication*. **Uso en esta clase:** el manual de referencia sobre sistemas aumentativos y sus condiciones de implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)*. **Uso en esta clase:** el marco que sitúa la participación como resultado de la interacción con el entorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Beukelman, D. & Mirenda, P. *Augmentative and Alternative Communication* (edición vigente). **Uso en esta clase:** el manual de referencia sobre sistemas aumentativos y sus condiciones de implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)* (edición vigente). **Uso en esta clase:** el marco que sitúa la participación como resultado de la interacción con el entorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

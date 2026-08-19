@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| OCDE. *Getting Skills Right* y estudios sobre reconversión laboral. | evidencia comparada sobre qué programas de reconversión funcionan y bajo qué condiciones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Foro Económico Mundial. *Future of Jobs Report*. | útil para tendencias declaradas de demanda; contrástalo siempre con datos del mercado local. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *Getting Skills Right* y estudios sobre reconversión laboral (edición vigente). | evidencia comparada sobre qué programas de reconversión funcionan y bajo qué condiciones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Foro Económico Mundial. *Future of Jobs Report* (edición vigente). | útil para tendencias declaradas de demanda; contrástalo siempre con datos del mercado local. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Illeris, K. (2011). *The Fundamentals of Workplace Learning*. | explica qué condiciones hacen posible el reaprendizaje en la edad adulta y cuáles lo bloquean. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Getting Skills Right* y estudios sobre reconversión laboral. **Uso en esta clase:** evidencia comparada sobre qué programas de reconversión funcionan y bajo qué condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Foro Económico Mundial. *Future of Jobs Report*. **Uso en esta clase:** útil para tendencias declaradas de demanda; contrástalo siempre con datos del mercado local. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Getting Skills Right* y estudios sobre reconversión laboral (edición vigente). **Uso en esta clase:** evidencia comparada sobre qué programas de reconversión funcionan y bajo qué condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Foro Económico Mundial. *Future of Jobs Report* (edición vigente). **Uso en esta clase:** útil para tendencias declaradas de demanda; contrástalo siempre con datos del mercado local. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Illeris, K. (2011). *The Fundamentals of Workplace Learning*. **Uso en esta clase:** explica qué condiciones hacen posible el reaprendizaje en la edad adulta y cuáles lo bloquean. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

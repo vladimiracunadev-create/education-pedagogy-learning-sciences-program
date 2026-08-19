@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Tyack, D. & Cuban, L. (1995). *Tinkering toward Utopia: A Century of Public School Reform*. | explica por qué la «gramática de la escuela» sobrevive a casi todas las reformas; imprescindible antes de proponer un cambio grande. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Serrano, S., Ponce de León, M. & Rengifo, F. (eds.). *Historia de la Educación en Chile*. | reconstruye la formación del sistema escolar chileno con fuentes primarias; base para situar la normativa actual. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Serrano, S., Ponce de León, M. & Rengifo, F. (eds.) (2012). *Historia de la Educación en Chile, tomo I*. | reconstruye la formación del sistema escolar chileno con fuentes primarias; base para situar la normativa actual. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Tyack, D. & Cuban, L. (1995). *Tinkering toward Utopia: A Century of Public School Reform*. **Uso en esta clase:** explica por qué la «gramática de la escuela» sobrevive a casi todas las reformas; imprescindible antes de proponer un cambio grande. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Serrano, S., Ponce de León, M. & Rengifo, F. (eds.). *Historia de la Educación en Chile*. **Uso en esta clase:** reconstruye la formación del sistema escolar chileno con fuentes primarias; base para situar la normativa actual. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Serrano, S., Ponce de León, M. & Rengifo, F. (eds.) (2012). *Historia de la Educación en Chile, tomo I*. **Uso en esta clase:** reconstruye la formación del sistema escolar chileno con fuentes primarias; base para situar la normativa actual. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

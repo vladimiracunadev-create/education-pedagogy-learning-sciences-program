@@ -7,10 +7,22 @@
     "decision": "determinar qué le corresponde a tu establecimiento en esta situación y qué exige otra competencia profesional",
     "entregable": "un mapa de competencias y umbrales de acción, con la frontera del rol docente declarada",
     "conceptos": [
-      ["Frontera del rol", "límite entre lo que un docente puede y debe hacer y lo que requiere competencia profesional distinta"],
-      ["Detección", "identificación de señales que ameritan atención, función que sí corresponde a la escuela"],
-      ["Umbral de acción", "nivel de señal declarado a partir del cual se activa una respuesta determinada"],
-      ["Corresponsabilidad", "distribución de tareas entre escuela, familia y red de salud, con roles explícitos"]
+      [
+        "Frontera del rol",
+        "límite entre lo que un docente puede y debe hacer y lo que requiere competencia profesional distinta"
+      ],
+      [
+        "Detección",
+        "identificación de señales que ameritan atención, función que sí corresponde a la escuela"
+      ],
+      [
+        "Umbral de acción",
+        "nivel de señal declarado a partir del cual se activa una respuesta determinada"
+      ],
+      [
+        "Corresponsabilidad",
+        "distribución de tareas entre escuela, familia y red de salud, con roles explícitos"
+      ]
     ],
     "desarrollo": "La salud mental entró a la escuela sin que la escuela definiera cómo recibirla. El resultado es una frontera difusa que produce dos errores opuestos y frecuentes: docentes que diagnostican, aconsejan tratamientos y sostienen situaciones clínicas sin competencia, y equipos que no informan una señal grave por miedo a equivocarse. Definir la frontera no es desentenderse: es hacer bien la parte que efectivamente corresponde, que es detectar, acompañar el rol escolar, derivar y sostener el vínculo.",
     "practica": "El mapa de competencias declara qué hace la escuela y qué no, con ejemplos concretos. La escuela detecta señales, registra observaciones fechadas, informa a quien corresponde, ajusta las exigencias académicas mientras dura la situación y mantiene el vínculo. La escuela no diagnostica, no indica tratamientos, no conduce procesos terapéuticos ni reemplaza a la familia en decisiones de salud. Los umbrales de acción se declaran de antemano para que nadie tenga que decidir solo en el momento.",
@@ -29,8 +41,14 @@
       "¿Sabe tu equipo qué hacer sin tener que preguntar en el momento?"
     ],
     "lecturas": [
-      ["Ministerio de Educación de Chile. *Orientaciones sobre salud mental en la comunidad educativa*.", "el alcance institucional y las obligaciones vigentes del establecimiento."],
-      ["Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*.", "revisión sobre qué puede razonablemente esperarse de las intervenciones escolares."]
+      [
+        "Ministerio de Educación de Chile. *Orientaciones sobre salud mental en la comunidad educativa* (edición vigente).",
+        "el alcance institucional y las obligaciones vigentes del establecimiento."
+      ],
+      [
+        "Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*.",
+        "revisión sobre qué puede razonablemente esperarse de las intervenciones escolares."
+      ]
     ],
     "inclusion": "Los estudiantes sin acceso a salud privada dependen enteramente de la derivación escolar y de una red saturada. La escuela es, para ellos, la única puerta de entrada, y eso agrega peso a la calidad de la detección.",
     "reto": "Escribe el mapa de competencias de tu establecimiento con tres umbrales de acción. Preséntalo al equipo y verifica si todos coinciden en dónde está la frontera.",
@@ -44,10 +62,22 @@
     "decision": "determinar qué condiciones de tu evaluación o de tu clase están amplificando la ansiedad de tus estudiantes",
     "entregable": "un ajuste de condiciones de evaluación y de aula con su fundamento y su efecto registrado",
     "conceptos": [
-      ["Ansiedad ante la evaluación", "respuesta de activación ante situaciones de examen que, en niveles altos, deteriora el rendimiento"],
-      ["Interferencia funcional", "criterio que distingue malestar esperable de cuadro que impide el funcionamiento cotidiano"],
-      ["Evitación", "conducta de escapar de la situación temida, que alivia a corto plazo y consolida el problema"],
-      ["Condición amplificadora", "elemento del diseño escolar —sorpresa, exposición pública, alta apuesta— que aumenta la ansiedad sin aportar aprendizaje"]
+      [
+        "Ansiedad ante la evaluación",
+        "respuesta de activación ante situaciones de examen que, en niveles altos, deteriora el rendimiento"
+      ],
+      [
+        "Interferencia funcional",
+        "criterio que distingue malestar esperable de cuadro que impide el funcionamiento cotidiano"
+      ],
+      [
+        "Evitación",
+        "conducta de escapar de la situación temida, que alivia a corto plazo y consolida el problema"
+      ],
+      [
+        "Condición amplificadora",
+        "elemento del diseño escolar —sorpresa, exposición pública, alta apuesta— que aumenta la ansiedad sin aportar aprendizaje"
+      ]
     ],
     "desarrollo": "Un grado de activación ante una evaluación es normal y hasta útil. El problema aparece cuando la ansiedad ocupa la memoria de trabajo que la tarea necesitaba, y el estudiante rinde por debajo de lo que sabe. La distinción profesional entre malestar esperable y cuadro que requiere atención es la interferencia funcional: si afecta el sueño, la asistencia o la vida cotidiana de forma sostenida, corresponde derivar. Lo que sí es competencia escolar es revisar qué condiciones amplifican innecesariamente esa ansiedad.",
     "practica": "Varias condiciones amplificadoras son decisiones de diseño y se pueden cambiar sin costo: evaluaciones sorpresa, calificaciones únicas de alta apuesta, exposición pública de resultados, tiempos ajustados sin razón pedagógica, y ausencia de información previa sobre qué se evaluará y cómo. Publicar criterios de antemano, distribuir la evaluación en instancias menores y permitir demostrar el aprendizaje por más de una vía reduce la ansiedad sin bajar la exigencia.",
@@ -66,8 +96,14 @@
       "¿Sabían tus estudiantes exactamente qué y cómo se evaluaría?"
     ],
     "lecturas": [
-      ["von der Embse, N. et al. (2018). *Test Anxiety Effects, Predictors and Correlates*.", "síntesis de la evidencia sobre efecto en rendimiento y sobre condiciones modificables."],
-      ["Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*.", "el argumento sobre evaluación formativa que reduce la apuesta sin reducir la exigencia."]
+      [
+        "von der Embse, N. et al. (2018). *Test Anxiety Effects, Predictors and Correlates*.",
+        "síntesis de la evidencia sobre efecto en rendimiento y sobre condiciones modificables."
+      ],
+      [
+        "Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*.",
+        "el argumento sobre evaluación formativa que reduce la apuesta sin reducir la exigencia."
+      ]
     ],
     "inclusion": "La ansiedad ante la evaluación afecta más a estudiantes con dificultades específicas de aprendizaje y a quienes ya acumulan experiencias de fracaso, precisamente aquellos cuyo rendimiento más subestima el instrumento.",
     "reto": "Identifica tres condiciones amplificadoras en tu sistema de evaluación. Modifícalas y compara rendimiento y asistencia con el período anterior.",
@@ -81,10 +117,22 @@
     "decision": "determinar qué activa tu establecimiento ante una señal de riesgo y quién hace cada cosa",
     "entregable": "un protocolo de riesgo con señales, activación inmediata, actores, registro y seguimiento",
     "conceptos": [
-      ["Señal de riesgo", "manifestación verbal, conductual o escrita que indica posibilidad de daño autoinfligido"],
-      ["Activación inmediata", "conjunto de acciones que ocurren el mismo día en que se detecta la señal, sin deliberación previa"],
-      ["Acompañamiento continuo", "condición de no dejar sola a la persona en riesgo mientras se activa la respuesta"],
-      ["Postvención", "conjunto de acciones dirigidas a la comunidad después de un evento consumado, para prevenir el contagio"]
+      [
+        "Señal de riesgo",
+        "manifestación verbal, conductual o escrita que indica posibilidad de daño autoinfligido"
+      ],
+      [
+        "Activación inmediata",
+        "conjunto de acciones que ocurren el mismo día en que se detecta la señal, sin deliberación previa"
+      ],
+      [
+        "Acompañamiento continuo",
+        "condición de no dejar sola a la persona en riesgo mientras se activa la respuesta"
+      ],
+      [
+        "Postvención",
+        "conjunto de acciones dirigidas a la comunidad después de un evento consumado, para prevenir el contagio"
+      ]
     ],
     "desarrollo": "Esta es la situación en que improvisar tiene el costo más alto. Las señales de riesgo suicida en población escolar son más frecuentes de lo que se supone y el silencio es la respuesta más común, por temor a equivocarse o a empeorar la situación. La evidencia disponible es clara en un punto que contradice el temor más extendido: preguntar directamente por ideación no aumenta el riesgo. Lo que sí lo aumenta es la falta de respuesta.",
     "practica": "El protocolo debe fijar acciones inmediatas y no deliberativas: no dejar sola a la persona, informar de inmediato a quien esté designado, contactar a la familia el mismo día, derivar a salud con los antecedentes reunidos y registrar todo lo actuado. También debe fijar lo que no se hace: prometer confidencialidad absoluta, evaluar la gravedad clínica, o postergar el contacto por falta de certeza. La postvención se planifica antes, porque después no hay tiempo de diseñarla.",
@@ -103,8 +151,14 @@
       "¿Existe plan de postvención escrito, y quién lo conoce?"
     ],
     "lecturas": [
-      ["Ministerio de Salud y Ministerio de Educación de Chile. *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales*.", "el protocolo de referencia con sus pasos y obligaciones."],
-      ["Zalsman, G. et al. (2016). *Suicide Prevention Strategies Revisited*.", "revisión de qué estrategias preventivas cuentan con evidencia y cuáles no."]
+      [
+        "Ministerio de Salud y Ministerio de Educación de Chile. *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales* (edición vigente).",
+        "el protocolo de referencia con sus pasos y obligaciones."
+      ],
+      [
+        "Zalsman, G. et al. (2016). *Suicide Prevention Strategies Revisited*.",
+        "revisión de qué estrategias preventivas cuentan con evidencia y cuáles no."
+      ]
     ],
     "inclusion": "El riesgo se concentra en grupos específicos —estudiantes de la diversidad sexual, con antecedentes de violencia, con acoso sostenido— y el protocolo debe nombrarlos para que la detección no dependa de la sensibilidad individual del adulto que esté cerca.",
     "reto": "Verifica si tu establecimiento tiene protocolo escrito y plan de postvención. Si falta alguno, redáctalo y preséntalo esta semana a dirección.",
@@ -118,10 +172,22 @@
     "decision": "determinar qué esperas de tu programa socioemocional y si esa expectativa está respaldada",
     "entregable": "un diseño de implementación con objetivos declarados, condiciones aseguradas y medición proporcional",
     "conceptos": [
-      ["Aprendizaje socioemocional", "enseñanza sistemática de habilidades de autoconocimiento, autorregulación, relación y toma de decisiones"],
-      ["Implementación con fidelidad", "aplicación del programa según su diseño; principal predictor de que produzca efectos"],
-      ["Efecto proporcional", "resultado esperable según la evidencia, distinto de la promesa comercial del programa"],
-      ["Clima como condición", "requisito de que el entorno escolar sostenga lo que el programa enseña, o el mensaje se contradice"]
+      [
+        "Aprendizaje socioemocional",
+        "enseñanza sistemática de habilidades de autoconocimiento, autorregulación, relación y toma de decisiones"
+      ],
+      [
+        "Implementación con fidelidad",
+        "aplicación del programa según su diseño; principal predictor de que produzca efectos"
+      ],
+      [
+        "Efecto proporcional",
+        "resultado esperable según la evidencia, distinto de la promesa comercial del programa"
+      ],
+      [
+        "Clima como condición",
+        "requisito de que el entorno escolar sostenga lo que el programa enseña, o el mensaje se contradice"
+      ]
     ],
     "desarrollo": "El aprendizaje socioemocional tiene evidencia real: los metaanálisis muestran efectos consistentes sobre habilidades sociales, conducta y clima, y efectos menores pero presentes sobre rendimiento académico. También tiene una industria alrededor que promete bastante más de lo que la evidencia sostiene. La posición profesional es sostener ambas cosas: implementarlo por lo que sí produce, y no venderlo como solución de problemas académicos o de convivencia que tienen otras causas.",
     "practica": "Las condiciones que la evidencia identifica son exigentes: programa estructurado y secuenciado, tiempo protegido en el horario, docentes formados, y coherencia entre lo que el programa enseña y lo que la escuela hace. Ese último punto es el que más falla: un programa de regulación emocional en una escuela que responde con sanciones inmediatas a cualquier desregulación enseña, en los hechos, lo contrario de lo que dice el material.",
@@ -140,8 +206,14 @@
       "¿Qué hace tu escuela que contradice lo que el programa enseña?"
     ],
     "lecturas": [
-      ["Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*.", "el metaanálisis que fija qué efectos son esperables y de qué magnitud."],
-      ["Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*.", "advierte sobre la distancia entre condiciones de investigación e implementación real."]
+      [
+        "Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*.",
+        "el metaanálisis que fija qué efectos son esperables y de qué magnitud."
+      ],
+      [
+        "Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*.",
+        "advierte sobre la distancia entre condiciones de investigación e implementación real."
+      ]
     ],
     "inclusion": "Los programas socioemocionales pueden imponer un modelo cultural específico de expresión emocional. Verificar la pertinencia cultural del material es parte de la implementación, especialmente en comunidades interculturales.",
     "reto": "Evalúa un programa socioemocional en uso con los criterios de condiciones. Declara qué falta asegurar antes de esperar los efectos reportados.",
@@ -155,10 +227,22 @@
     "decision": "determinar qué condiciones de previsibilidad y seguridad requiere este estudiante para poder aprender",
     "entregable": "un diseño de aula con previsibilidad, regulación y relación estable, con su fundamento declarado",
     "conceptos": [
-      ["Experiencias adversas en la infancia", "conjunto de situaciones —violencia, negligencia, pérdida— asociadas estadísticamente a peores resultados de salud y educativos"],
-      ["Respuesta de alerta", "estado de activación sostenida que reduce la disponibilidad para tareas que exigen concentración"],
-      ["Práctica sensible a la adversidad", "conjunto de decisiones que priorizan previsibilidad, seguridad y relación estable"],
-      ["Relación estable", "vínculo sostenido con al menos un adulto, uno de los factores protectores mejor documentados"]
+      [
+        "Experiencias adversas en la infancia",
+        "conjunto de situaciones —violencia, negligencia, pérdida— asociadas estadísticamente a peores resultados de salud y educativos"
+      ],
+      [
+        "Respuesta de alerta",
+        "estado de activación sostenida que reduce la disponibilidad para tareas que exigen concentración"
+      ],
+      [
+        "Práctica sensible a la adversidad",
+        "conjunto de decisiones que priorizan previsibilidad, seguridad y relación estable"
+      ],
+      [
+        "Relación estable",
+        "vínculo sostenido con al menos un adulto, uno de los factores protectores mejor documentados"
+      ]
     ],
     "desarrollo": "La investigación sobre adversidad temprana muestra asociaciones consistentes con dificultades escolares, y esa evidencia se ha difundido con más certeza de la que corresponde. Lo que está bien establecido es la asociación estadística y el papel protector de una relación estable con un adulto. Lo que se afirma con menos respaldo son los mecanismos neurobiológicos precisos y la eficacia específica de los programas escolares que se venden bajo esta etiqueta.",
     "practica": "Las decisiones que se sostienen son sencillas y de bajo costo: previsibilidad en la rutina y anticipación de cambios, evitar exposición pública en momentos de desregulación, ofrecer opciones que devuelvan control, y asegurar que al menos un adulto de la escuela tenga vínculo sostenido con el estudiante. Nada de esto exige conocer la historia del estudiante en detalle, lo que además protege su privacidad y evita el uso indebido de información sensible.",
@@ -177,8 +261,14 @@
       "¿Bajaste la exigencia por la historia y no por el desempeño?"
     ],
     "lecturas": [
-      ["Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*.", "explica el efecto de la adversidad sobre la conducta escolar sin convertirlo en destino."],
-      ["Masten, A. (2014). *Ordinary Magic: Resilience in Development*.", "muestra que los factores protectores son comunes y accesibles, no excepcionales."]
+      [
+        "Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*.",
+        "explica el efecto de la adversidad sobre la conducta escolar sin convertirlo en destino."
+      ],
+      [
+        "Masten, A. (2014). *Ordinary Magic: Resilience in Development*.",
+        "muestra que los factores protectores son comunes y accesibles, no excepcionales."
+      ]
     ],
     "inclusion": "El manejo de información sensible es aquí una obligación ética central: saber más de lo necesario sobre la vida de un estudiante genera riesgos de estigmatización que superan el beneficio pedagógico.",
     "reto": "Revisa la previsibilidad de tu jornada durante una semana. Introduce dos ajustes de anticipación y registra su efecto en el estudiante que más los necesita.",
@@ -192,10 +282,22 @@
     "decision": "determinar qué hace tu establecimiento en las primeras cuarenta y ocho horas de una crisis",
     "entregable": "un protocolo de crisis con las primeras cuarenta y ocho horas, vocería, comunicación y cuidado del equipo",
     "conceptos": [
-      ["Crisis comunitaria", "evento que afecta a la comunidad escolar en su conjunto y desborda la respuesta habitual"],
-      ["Primeras cuarenta y ocho horas", "ventana crítica en que las decisiones tomadas determinan buena parte del efecto posterior"],
-      ["Vocería única", "designación de una sola persona para comunicar, evitando versiones contradictorias"],
-      ["Cuidado de los cuidadores", "atención al equipo que sostiene la respuesta y que suele quedar sin apoyo"]
+      [
+        "Crisis comunitaria",
+        "evento que afecta a la comunidad escolar en su conjunto y desborda la respuesta habitual"
+      ],
+      [
+        "Primeras cuarenta y ocho horas",
+        "ventana crítica en que las decisiones tomadas determinan buena parte del efecto posterior"
+      ],
+      [
+        "Vocería única",
+        "designación de una sola persona para comunicar, evitando versiones contradictorias"
+      ],
+      [
+        "Cuidado de los cuidadores",
+        "atención al equipo que sostiene la respuesta y que suele quedar sin apoyo"
+      ]
     ],
     "desarrollo": "Las crisis llegan sin aviso y las decisiones se toman en pocas horas, con la comunidad observando. Un protocolo preparado de antemano no elimina el dolor, pero evita los errores que lo amplifican: informaciones contradictorias, silencios prolongados, exposición de la familia afectada, o clases que continúan como si nada mientras el curso está desbordado. La preparación previa es la única forma de que las decisiones difíciles no se tomen improvisando.",
     "practica": "El protocolo define las primeras cuarenta y ocho horas con precisión: quién se informa primero, qué se dice a los estudiantes y con qué palabras, quién habla con la familia afectada, quién es la vocería única, cómo se organiza la jornada, qué apoyo se ofrece y a quién. Incluye además la comunicación con las familias del curso y con el resto de la comunidad, y el cuidado del equipo que sostiene la respuesta, que sistemáticamente queda al final de la lista.",
@@ -214,8 +316,18 @@
       "¿Quién cuida al equipo que sostuvo la crisis, y cuándo?"
     ],
     "lecturas": [
-      ["Ministerio de Educación de Chile. *Orientaciones para la actuación ante situaciones de crisis*.", "el marco institucional de respuesta y sus obligaciones."],
-      ["Ministerio de Salud de Chile. *Recomendaciones de postvención en comunidades educativas*.", "las prácticas recomendadas y las contraindicadas tras un evento consumado."]
+      [
+        "Ministerio de Educación de Chile. *Orientaciones para la actuación ante situaciones de crisis* (edición vigente).",
+        "el marco institucional de respuesta y sus obligaciones."
+      ],
+      [
+        "Ministerio de Salud de Chile. *Recomendaciones de postvención en comunidades educativas* (edición vigente).",
+        "las prácticas recomendadas y las contraindicadas tras un evento consumado."
+      ],
+      [
+        "Masten, A. (2014). *Ordinary Magic: Resilience in Development*.",
+        "muestra que los factores protectores tras una crisis son comunes y accesibles, no excepcionales."
+      ]
     ],
     "inclusion": "La respuesta debe considerar diferencias culturales y religiosas en el duelo, así como a estudiantes con discapacidad intelectual o del desarrollo, para quienes la información requiere formatos y apoyos específicos.",
     "reto": "Escribe el protocolo de las primeras cuarenta y ocho horas con responsables. Simúlalo con el equipo directivo y registra qué quedó sin resolver.",
@@ -229,10 +341,22 @@
     "decision": "determinar qué contenidos de afectividad y sexualidad corresponden a tu nivel y cómo se acuerdan con las familias",
     "entregable": "un programa de afectividad y sexualidad con marco declarado, contenidos por nivel y acuerdo con familias",
     "conceptos": [
-      ["Educación sexual integral", "enfoque que aborda afectividad, cuerpo, vínculos, consentimiento y salud con base en evidencia y derechos"],
-      ["Progresión por edad", "secuencia de contenidos ajustada al desarrollo, que evita tanto la anticipación como la omisión"],
-      ["Consentimiento", "concepto central del enfoque contemporáneo, con implicancias formativas y preventivas"],
-      ["Acuerdo con familias", "proceso de información y participación que legitima el programa sin renunciar a la obligación curricular"]
+      [
+        "Educación sexual integral",
+        "enfoque que aborda afectividad, cuerpo, vínculos, consentimiento y salud con base en evidencia y derechos"
+      ],
+      [
+        "Progresión por edad",
+        "secuencia de contenidos ajustada al desarrollo, que evita tanto la anticipación como la omisión"
+      ],
+      [
+        "Consentimiento",
+        "concepto central del enfoque contemporáneo, con implicancias formativas y preventivas"
+      ],
+      [
+        "Acuerdo con familias",
+        "proceso de información y participación que legitima el programa sin renunciar a la obligación curricular"
+      ]
     ],
     "desarrollo": "La educación sexual es contenido obligatorio en el sistema escolar chileno y a la vez uno de los que menos se enseña, por temor al conflicto con las familias y por falta de formación docente. La evidencia internacional sobre programas integrales muestra efectos favorables en conocimiento, en postergación del inicio sexual y en conductas de cuidado, y no respalda el temor de que la información anticipe el inicio de la actividad sexual. El componente de consentimiento tiene además valor preventivo frente al abuso.",
     "practica": "Un programa profesional declara tres cosas: el marco normativo y el proyecto educativo del establecimiento, la progresión de contenidos por nivel, y el proceso de información y acuerdo con las familias. Ese proceso no es un permiso —el contenido es obligatorio— sino una condición de legitimidad. La formación del docente que lo imparte es el punto donde más falla la implementación: sin ella, el contenido se reduce a lo biológico o se omite.",
@@ -251,8 +375,18 @@
       "¿Cómo se informó a las familias y qué se acordó con ellas?"
     ],
     "lecturas": [
-      ["UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*.", "el marco de referencia con progresión por edad y evidencia de efectos."],
-      ["Ley 20.418 (2010). *Información, orientación y prestaciones en materia de regulación de la fertilidad, Chile*.", "la obligación legal de contar con un programa en el establecimiento."]
+      [
+        "UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*.",
+        "el marco de referencia con progresión por edad y evidencia de efectos."
+      ],
+      [
+        "Ley 20.418 (2010). *Información, orientación y prestaciones en materia de regulación de la fertilidad, Chile*.",
+        "la obligación legal de contar con un programa en el establecimiento."
+      ],
+      [
+        "Haberland, N. & Rogow, D. (2015). *Sexuality Education: Emerging Trends in Evidence and Practice*.",
+        "sintetiza qué enfoques muestran efectos y cuáles no, más allá de la posición de cada país."
+      ]
     ],
     "inclusion": "El programa debe considerar la diversidad de identidades y orientaciones, y a estudiantes con discapacidad intelectual, que presentan mayor riesgo de abuso y menor acceso a información adecuada a su forma de comprender.",
     "reto": "Revisa qué contenidos de este ámbito se enseñan realmente en tu nivel. Diseña la progresión faltante y el proceso de información a las familias.",
@@ -266,10 +400,22 @@
     "decision": "determinar qué contenidos de convivencia digital enseña tu establecimiento y en qué momento del año",
     "entregable": "un programa de convivencia digital con contenidos por nivel, criterios y articulación con el protocolo de ciberacoso",
     "conceptos": [
-      ["Convivencia digital", "conjunto de prácticas y criterios para relacionarse en entornos digitales sin dañar ni exponerse"],
-      ["Huella digital", "rastro persistente que deja la actividad en línea y su efecto futuro"],
-      ["Exposición de imagen", "difusión de contenido personal cuyo control se pierde una vez publicado"],
-      ["Consentimiento digital", "acuerdo explícito para difundir contenido en que aparece otra persona"]
+      [
+        "Convivencia digital",
+        "conjunto de prácticas y criterios para relacionarse en entornos digitales sin dañar ni exponerse"
+      ],
+      [
+        "Huella digital",
+        "rastro persistente que deja la actividad en línea y su efecto futuro"
+      ],
+      [
+        "Exposición de imagen",
+        "difusión de contenido personal cuyo control se pierde una vez publicado"
+      ],
+      [
+        "Consentimiento digital",
+        "acuerdo explícito para difundir contenido en que aparece otra persona"
+      ]
     ],
     "desarrollo": "La vida digital de los estudiantes ocurre mayoritariamente fuera de la escuela y produce efectos completos dentro de ella. La respuesta escolar oscila entre la prohibición y la abstención, y ninguna forma. La posición defendible es formativa: enseñar criterios de convivencia, consentimiento y cuidado de la imagen, del mismo modo en que se enseña convivencia presencial, y articular esa formación con los protocolos que operan cuando algo ocurre.",
     "practica": "El programa define contenidos por nivel: en básica, criterios de trato y consentimiento para difundir imágenes de otros; en media, gestión de la exposición, huella digital, contenido sexual y sus consecuencias legales, y respuesta ante situaciones de agresión. Se articula con el protocolo de ciberacoso para que la formación y la respuesta institucional digan lo mismo. La participación de las familias es necesaria porque la mayor parte de la actividad ocurre en casa.",
@@ -288,8 +434,14 @@
       "¿Qué contenido de tu programa quedó obsoleto respecto de lo que usan hoy?"
     ],
     "lecturas": [
-      ["Livingstone, S. & Third, A. (2017). *Children and Young People's Rights in the Digital Age*.", "enfoque de derechos aplicado al entorno digital, que evita reducir todo a protección."],
-      ["Kowalski, R. et al. (2014). *Bullying in the Digital Age*.", "lo que se sabe sobre dinámicas digitales de agresión y sobre la debilidad de las respuestas."]
+      [
+        "Livingstone, S. & Third, A. (2017). *Children and Young People's Rights in the Digital Age*.",
+        "enfoque de derechos aplicado al entorno digital, que evita reducir todo a protección."
+      ],
+      [
+        "Kowalski, R. et al. (2014). *Bullying in the Digital Age*.",
+        "lo que se sabe sobre dinámicas digitales de agresión y sobre la debilidad de las respuestas."
+      ]
     ],
     "inclusion": "La exposición digital y sus consecuencias afectan de forma desproporcionada a adolescentes mujeres y a estudiantes de la diversidad sexual, con efectos que exceden lo escolar y que la formación debe nombrar explícitamente.",
     "reto": "Diseña el programa de convivencia digital de un nivel y contrástalo con el protocolo vigente. Corrige las contradicciones que encuentres.",
@@ -303,10 +455,22 @@
     "decision": "determinar cuánto tiempo real exige el trabajo docente en tu establecimiento y qué tarea se elimina",
     "entregable": "una medición de carga docente de un mes con clasificación de tareas y propuesta de eliminación",
     "conceptos": [
-      ["Carga real", "tiempo efectivamente dedicado al trabajo, incluidas las horas no reconocidas en el contrato"],
-      ["Trabajo invisible", "tareas que no aparecen en el horario: preparación, corrección, comunicación con familias, registros"],
-      ["Acumulación por adición", "dinámica por la cual se agregan tareas sin retirar ninguna, hasta que el conjunto se vuelve inejecutable"],
-      ["Tarea de bajo valor", "actividad cuyo costo en tiempo supera claramente su contribución al aprendizaje"]
+      [
+        "Carga real",
+        "tiempo efectivamente dedicado al trabajo, incluidas las horas no reconocidas en el contrato"
+      ],
+      [
+        "Trabajo invisible",
+        "tareas que no aparecen en el horario: preparación, corrección, comunicación con familias, registros"
+      ],
+      [
+        "Acumulación por adición",
+        "dinámica por la cual se agregan tareas sin retirar ninguna, hasta que el conjunto se vuelve inejecutable"
+      ],
+      [
+        "Tarea de bajo valor",
+        "actividad cuyo costo en tiempo supera claramente su contribución al aprendizaje"
+      ]
     ],
     "desarrollo": "La conversación sobre carga docente suele quedarse en el reclamo general porque falta lo básico: datos. Sin medición, cada tarea nueva parece razonable por sí sola y el conjunto se vuelve inejecutable sin que nadie pueda señalar el punto de quiebre. La proporción entre horas lectivas y no lectivas está regulada, pero el trabajo invisible —corrección, comunicación, registros administrativos, plataformas— rara vez se contabiliza y es donde se produce el desborde.",
     "practica": "La medición es simple y poderosa: registrar durante un mes el tiempo real por tipo de tarea, incluidas las que ocurren fuera del horario. El resultado permite clasificar: qué es núcleo del oficio, qué es exigencia administrativa y qué es acumulación evitable. A partir de ahí se puede proponer eliminación concreta, que es lo único que reduce carga. Agregar bienestar sin retirar tareas es agregar una tarea más.",
@@ -325,8 +489,14 @@
       "¿Qué se eliminó la última vez que se agregó algo nuevo?"
     ],
     "lecturas": [
-      ["Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.", "sitúa la sobrecarga entre los determinantes organizacionales del desgaste."],
-      ["OCDE. *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje*.", "datos comparados sobre distribución del tiempo de trabajo docente."]
+      [
+        "Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.",
+        "sitúa la sobrecarga entre los determinantes organizacionales del desgaste."
+      ],
+      [
+        "OCDE. *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje* (edición vigente).",
+        "datos comparados sobre distribución del tiempo de trabajo docente."
+      ]
     ],
     "inclusion": "La carga se distribuye de manera desigual: docentes jefes, quienes atienden cursos con más necesidades y quienes tienen menos antigüedad asumen sistemáticamente más trabajo no reconocido.",
     "reto": "Registra tu tiempo real por tipo de tarea durante un mes. Clasifica y propone la eliminación de una tarea concreta al equipo directivo.",
@@ -340,10 +510,22 @@
     "decision": "determinar qué condición organizacional de tu establecimiento está produciendo desgaste y qué se modifica",
     "entregable": "un diagnóstico de condiciones organizacionales con dos modificaciones concretas comprometidas",
     "conceptos": [
-      ["Desgaste profesional", "síndrome de agotamiento, distanciamiento y pérdida de eficacia percibida, asociado a condiciones de trabajo"],
-      ["Determinante organizacional", "condición del trabajo —carga, control, reconocimiento, comunidad, justicia— que predice el desgaste"],
-      ["Autonomía profesional", "margen real de decisión sobre el propio trabajo, uno de los factores protectores más consistentes"],
-      ["Traslado de responsabilidad", "error de tratar como problema individual lo que es producido por la organización"]
+      [
+        "Desgaste profesional",
+        "síndrome de agotamiento, distanciamiento y pérdida de eficacia percibida, asociado a condiciones de trabajo"
+      ],
+      [
+        "Determinante organizacional",
+        "condición del trabajo —carga, control, reconocimiento, comunidad, justicia— que predice el desgaste"
+      ],
+      [
+        "Autonomía profesional",
+        "margen real de decisión sobre el propio trabajo, uno de los factores protectores más consistentes"
+      ],
+      [
+        "Traslado de responsabilidad",
+        "error de tratar como problema individual lo que es producido por la organización"
+      ]
     ],
     "desarrollo": "El desgaste profesional docente se aborda con frecuencia mediante talleres de autocuidado, que trasladan al individuo la responsabilidad de un problema que la investigación sitúa en las condiciones del trabajo. Los determinantes identificados son organizacionales: sobrecarga, falta de control sobre el propio trabajo, ausencia de reconocimiento, comunidad débil y percepción de injusticia. Ninguno se modifica con técnicas de relajación, aunque estas puedan ayudar a sobrellevarlos.",
     "practica": "El diagnóstico institucional revisa esas cinco condiciones con evidencia: carga medida, margen de decisión efectivo, mecanismos de reconocimiento, calidad de las relaciones en el equipo y percepción de equidad en la distribución de tareas. De ahí salen modificaciones concretas: reducir una exigencia de reporte, devolver decisiones al equipo docente, revisar la distribución de jefaturas. Dos cambios reales valen más que un programa completo de bienestar.",
@@ -362,8 +544,14 @@
       "¿Qué se modificó la última vez que se diagnosticó el clima laboral?"
     ],
     "lecturas": [
-      ["Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.", "los determinantes organizacionales del desgaste y por qué el enfoque individual falla."],
-      ["Bryk, A. & Schneider, B. (2002). *Trust in Schools*.", "la confianza relacional como condición que protege y sostiene el trabajo del equipo."]
+      [
+        "Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.",
+        "los determinantes organizacionales del desgaste y por qué el enfoque individual falla."
+      ],
+      [
+        "Bryk, A. & Schneider, B. (2002). *Trust in Schools*.",
+        "la confianza relacional como condición que protege y sostiene el trabajo del equipo."
+      ]
     ],
     "inclusion": "Los establecimientos con población más vulnerable concentran mayor carga emocional y mayor rotación, de modo que el desgaste refuerza la desigualdad: los estudiantes que más necesitan continuidad son los que menos la tienen.",
     "reto": "Aplica el diagnóstico de las cinco condiciones en tu equipo. Compromete dos modificaciones concretas y verifica su ejecución en dos meses.",
@@ -377,10 +565,22 @@
     "decision": "determinar qué hace tu establecimiento por el bienestar del equipo y qué es solo actividad de camaradería",
     "entregable": "un plan de cuidado del equipo con inducción, acompañamiento, reconocimiento y medición de rotación",
     "conceptos": [
-      ["Liderazgo del bienestar", "función directiva de asegurar condiciones que permitan sostener el trabajo en el tiempo"],
-      ["Inducción", "proceso estructurado de incorporación de docentes nuevos, principal factor de retención en los primeros años"],
-      ["Acompañamiento entre pares", "mentoría o apoyo estructurado que reduce el aislamiento profesional"],
-      ["Rotación docente", "proporción del equipo que se renueva cada año; indicador directo de la sostenibilidad del trabajo"]
+      [
+        "Liderazgo del bienestar",
+        "función directiva de asegurar condiciones que permitan sostener el trabajo en el tiempo"
+      ],
+      [
+        "Inducción",
+        "proceso estructurado de incorporación de docentes nuevos, principal factor de retención en los primeros años"
+      ],
+      [
+        "Acompañamiento entre pares",
+        "mentoría o apoyo estructurado que reduce el aislamiento profesional"
+      ],
+      [
+        "Rotación docente",
+        "proporción del equipo que se renueva cada año; indicador directo de la sostenibilidad del trabajo"
+      ]
     ],
     "desarrollo": "En el caso del programa, la rotación docente anual es del veintiuno por ciento: uno de cada cinco docentes se va cada año, y con ellos se pierde el conocimiento institucional acumulado. La investigación disponible identifica factores de retención que están al alcance de un equipo directivo: inducción estructurada para quienes llegan, acompañamiento entre pares, autonomía profesional real y reconocimiento del trabajo bien hecho. Las actividades de camaradería no aparecen entre ellos.",
     "practica": "Un plan de cuidado tiene componentes verificables. Inducción con contenido, responsable y duración —no una reunión el primer día—. Acompañamiento con tiempo asignado para quienes llegan y para quienes atienden los cursos más demandantes. Reconocimiento que distinga trabajo profesional y no solo antigüedad. Y medición de rotación con análisis de causas de salida, que es el dato que permite saber si el plan sirve.",
@@ -399,8 +599,14 @@
       "¿Qué de tu plan de bienestar agrega trabajo en vez de quitarlo?"
     ],
     "lecturas": [
-      ["Ingersoll, R. & Strong, M. (2011). *The Impact of Induction and Mentoring Programs for Beginning Teachers*.", "revisión de la evidencia sobre inducción y su efecto en retención."],
-      ["Bryk, A. & Schneider, B. (2002). *Trust in Schools*.", "la confianza como recurso organizacional que hace posible sostener equipos."]
+      [
+        "Ingersoll, R. & Strong, M. (2011). *The Impact of Induction and Mentoring Programs for Beginning Teachers*.",
+        "revisión de la evidencia sobre inducción y su efecto en retención."
+      ],
+      [
+        "Bryk, A. & Schneider, B. (2002). *Trust in Schools*.",
+        "la confianza como recurso organizacional que hace posible sostener equipos."
+      ]
     ],
     "inclusion": "Los docentes en condición más precaria y quienes atienden los cursos más demandantes son los que menos acompañamiento reciben y los primeros en salir. Un plan que no los prioriza reproduce el problema que dice atender.",
     "reto": "Entrevista a quienes se fueron el año pasado o revisa sus razones registradas. Diseña la inducción y el acompañamiento que habría cambiado esa decisión.",
@@ -414,10 +620,22 @@
     "decision": "determinar el plan de bienestar del establecimiento y qué compromisos institucionales lo sostienen",
     "entregable": "un plan de bienestar con protocolos, compromisos institucionales, indicadores y responsables",
     "conceptos": [
-      ["Plan de bienestar", "documento que articula salud mental estudiantil, convivencia, formación y condiciones de trabajo del equipo"],
-      ["Compromiso institucional", "decisión de la dirección que modifica una condición y no solo agrega una actividad"],
-      ["Indicador de bienestar", "medida periódica —derivaciones, licencias, rotación, percepción de seguridad— que permite ver cambio"],
-      ["Coherencia interna", "correspondencia entre lo que el plan enseña y lo que la institución efectivamente hace"]
+      [
+        "Plan de bienestar",
+        "documento que articula salud mental estudiantil, convivencia, formación y condiciones de trabajo del equipo"
+      ],
+      [
+        "Compromiso institucional",
+        "decisión de la dirección que modifica una condición y no solo agrega una actividad"
+      ],
+      [
+        "Indicador de bienestar",
+        "medida periódica —derivaciones, licencias, rotación, percepción de seguridad— que permite ver cambio"
+      ],
+      [
+        "Coherencia interna",
+        "correspondencia entre lo que el plan enseña y lo que la institución efectivamente hace"
+      ]
     ],
     "desarrollo": "Los planes de bienestar suelen tratar por separado a estudiantes y a adultos, cuando en la práctica son el mismo sistema: un equipo agotado no puede sostener la salud mental de nadie, y una comunidad con clima deteriorado desgasta al equipo. El plan de esta parte los integra y agrega lo que casi nunca aparece: compromisos institucionales que modifican condiciones, y no solo un calendario de actividades de promoción.",
     "practica": "El plan integra las once clases anteriores: mapa de competencias y umbrales, ajustes de condiciones de evaluación, protocolo de riesgo y postvención, implementación socioemocional con condiciones aseguradas, prácticas sensibles a la adversidad, protocolo de crisis, programa de afectividad y de convivencia digital, medición de carga, diagnóstico organizacional y plan de cuidado del equipo. Cada componente compromete responsable, plazo e indicador.",
@@ -436,8 +654,14 @@
       "¿Qué hace tu escuela que contradice lo que el plan declara?"
     ],
     "lecturas": [
-      ["Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*.", "qué componentes de un enfoque escolar integral cuentan con respaldo."],
-      ["Bryk, A. & Schneider, B. (2002). *Trust in Schools*.", "la condición relacional sin la cual ningún plan institucional se sostiene."]
+      [
+        "Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*.",
+        "qué componentes de un enfoque escolar integral cuentan con respaldo."
+      ],
+      [
+        "Bryk, A. & Schneider, B. (2002). *Trust in Schools*.",
+        "la condición relacional sin la cual ningún plan institucional se sostiene."
+      ]
     ],
     "inclusion": "El plan debe desagregar sus indicadores: el bienestar promedio de una comunidad puede mejorar mientras empeora para los estudiantes con más barreras y para los docentes con condiciones más precarias.",
     "reto": "Escribe el plan integrando estudiantes y equipo, con dos compromisos institucionales. Preséntalo a dirección y consigue que se comprometan por escrito.",

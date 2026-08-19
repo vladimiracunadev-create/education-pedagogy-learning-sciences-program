@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Mineduc. *Marco de Cualificaciones Técnico-Profesional* y perfiles de egreso vigentes. | referencia oficial chilena para niveles, competencias y estándares por especialidad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Wesselink, R. et al. *Competence-Based Education: Principles and Critiques*. | sistematiza el enfoque y sus objeciones; útil para no adoptarlo de forma acrítica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Marco de Cualificaciones Técnico-Profesional* y perfiles de egreso vigentes (edición vigente). | referencia oficial chilena para niveles, competencias y estándares por especialidad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Biemans, H., Nieuwenhuis, L., Poell, R., Mulder, M. & Wesselink, R. (2004). *Competence-Based VET in the Netherlands: Backgrounds and Pitfalls*. | sistematiza el enfoque y sus objeciones; útil para no adoptarlo de forma acrítica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Marco de Cualificaciones Técnico-Profesional* y perfiles de egreso vigentes. **Uso en esta clase:** referencia oficial chilena para niveles, competencias y estándares por especialidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wesselink, R. et al. *Competence-Based Education: Principles and Critiques*. **Uso en esta clase:** sistematiza el enfoque y sus objeciones; útil para no adoptarlo de forma acrítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Marco de Cualificaciones Técnico-Profesional* y perfiles de egreso vigentes (edición vigente). **Uso en esta clase:** referencia oficial chilena para niveles, competencias y estándares por especialidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biemans, H., Nieuwenhuis, L., Poell, R., Mulder, M. & Wesselink, R. (2004). *Competence-Based VET in the Netherlands: Backgrounds and Pitfalls*. **Uso en esta clase:** sistematiza el enfoque y sus objeciones; útil para no adoptarlo de forma acrítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

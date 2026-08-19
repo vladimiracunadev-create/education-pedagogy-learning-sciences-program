@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Campbell, E. (2003). *The Ethical Teacher*. | documenta la ética docente como práctica cotidiana y no como código abstracto; útil para reconocer dilemas reales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc. *Marco para la Buena Enseñanza* (versión vigente) y normativa de convivencia escolar. | define los estándares profesionales exigibles en Chile y sus obligaciones asociadas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Marco para la Buena Enseñanza* (edición vigente) y normativa de convivencia escolar. | define los estándares profesionales exigibles en Chile y sus obligaciones asociadas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Campbell, E. (2003). *The Ethical Teacher*. **Uso en esta clase:** documenta la ética docente como práctica cotidiana y no como código abstracto; útil para reconocer dilemas reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Marco para la Buena Enseñanza* (versión vigente) y normativa de convivencia escolar. **Uso en esta clase:** define los estándares profesionales exigibles en Chile y sus obligaciones asociadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Marco para la Buena Enseñanza* (edición vigente) y normativa de convivencia escolar. **Uso en esta clase:** define los estándares profesionales exigibles en Chile y sus obligaciones asociadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

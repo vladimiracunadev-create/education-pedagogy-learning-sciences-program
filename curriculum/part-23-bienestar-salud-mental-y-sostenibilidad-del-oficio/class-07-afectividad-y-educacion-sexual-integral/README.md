@@ -150,6 +150,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 |---|---|---|
 | UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*. | el marco de referencia con progresión por edad y evidencia de efectos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Ley 20.418 (2010). *Información, orientación y prestaciones en materia de regulación de la fertilidad, Chile*. | la obligación legal de contar con un programa en el establecimiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Haberland, N. & Rogow, D. (2015). *Sexuality Education: Emerging Trends in Evidence and Practice*. | sintetiza qué enfoques muestran efectos y cuáles no, más allá de la posición de cada país. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -335,6 +336,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 - UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*. **Uso en esta clase:** el marco de referencia con progresión por edad y evidencia de efectos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Ley 20.418 (2010). *Información, orientación y prestaciones en materia de regulación de la fertilidad, Chile*. **Uso en esta clase:** la obligación legal de contar con un programa en el establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Haberland, N. & Rogow, D. (2015). *Sexuality Education: Emerging Trends in Evidence and Practice*. **Uso en esta clase:** sintetiza qué enfoques muestran efectos y cuáles no, más allá de la posición de cada país. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

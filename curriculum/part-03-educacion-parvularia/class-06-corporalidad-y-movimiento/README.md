@@ -150,6 +150,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 |---|---|---|
 | Mineduc (2018). *Bases Curriculares de la Educación Parvularia*, núcleo Corporalidad y Movimiento. | define los objetivos del núcleo y su progresión por nivel. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Organización Mundial de la Salud (2019). *Directrices sobre actividad física en menores de 5 años*. | recomendaciones respaldadas sobre cantidad y tipo de actividad por edad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Adolph, K. & Franchak, J. (2017). *The Development of Motor Behavior*. | explica el desarrollo motor como aprendizaje y no como maduración automática. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -335,6 +336,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 - Mineduc (2018). *Bases Curriculares de la Educación Parvularia*, núcleo Corporalidad y Movimiento. **Uso en esta clase:** define los objetivos del núcleo y su progresión por nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Organización Mundial de la Salud (2019). *Directrices sobre actividad física en menores de 5 años*. **Uso en esta clase:** recomendaciones respaldadas sobre cantidad y tipo de actividad por edad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Adolph, K. & Franchak, J. (2017). *The Development of Motor Behavior*. **Uso en esta clase:** explica el desarrollo motor como aprendizaje y no como maduración automática. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

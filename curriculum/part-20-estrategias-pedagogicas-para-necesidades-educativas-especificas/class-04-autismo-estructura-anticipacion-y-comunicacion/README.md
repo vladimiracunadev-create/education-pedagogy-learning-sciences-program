@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Kasari, C. et al. *Intervenciones sociales tempranas en autismo*. | distingue qué intervenciones tienen respaldo empírico y con qué tamaño de efecto. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Lord, C., Elsabbagh, M., Baird, G. & Veenstra-Vanderweele, J. (2018). *Autism Spectrum Disorder*, The Lancet. | distingue qué intervenciones tienen respaldo empírico y con qué tamaño de efecto. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Ley 21.545 (2023). *Ley de Autismo, Chile*. | el marco de derechos y obligaciones institucionales que enmarca cualquier decisión escolar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Kasari, C. et al. *Intervenciones sociales tempranas en autismo*. **Uso en esta clase:** distingue qué intervenciones tienen respaldo empírico y con qué tamaño de efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Lord, C., Elsabbagh, M., Baird, G. & Veenstra-Vanderweele, J. (2018). *Autism Spectrum Disorder*, The Lancet. **Uso en esta clase:** distingue qué intervenciones tienen respaldo empírico y con qué tamaño de efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Ley 21.545 (2023). *Ley de Autismo, Chile*. **Uso en esta clase:** el marco de derechos y obligaciones institucionales que enmarca cualquier decisión escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

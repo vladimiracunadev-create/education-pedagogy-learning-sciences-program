@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Mineduc / Superintendencia de Educación. *Protocolos de actuación ante situaciones de vulneración*. | define el procedimiento obligatorio y los plazos aplicables en Chile. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Organización Mundial de la Salud. *Orientaciones sobre salud mental en entornos escolares*. | criterios de detección y derivación desde el rol educativo, con sus límites. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc / Superintendencia de Educación. *Protocolos de actuación ante situaciones de vulneración* (edición vigente). | define el procedimiento obligatorio y los plazos aplicables en Chile. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Organización Mundial de la Salud. *Orientaciones sobre salud mental en entornos escolares* (edición vigente). | criterios de detección y derivación desde el rol educativo, con sus límites. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. | explica cómo la adversidad se expresa en conducta escolar, útil antes de derivar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc / Superintendencia de Educación. *Protocolos de actuación ante situaciones de vulneración*. **Uso en esta clase:** define el procedimiento obligatorio y los plazos aplicables en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Organización Mundial de la Salud. *Orientaciones sobre salud mental en entornos escolares*. **Uso en esta clase:** criterios de detección y derivación desde el rol educativo, con sus límites. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc / Superintendencia de Educación. *Protocolos de actuación ante situaciones de vulneración* (edición vigente). **Uso en esta clase:** define el procedimiento obligatorio y los plazos aplicables en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Organización Mundial de la Salud. *Orientaciones sobre salud mental en entornos escolares* (edición vigente). **Uso en esta clase:** criterios de detección y derivación desde el rol educativo, con sus límites. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. **Uso en esta clase:** explica cómo la adversidad se expresa en conducta escolar, útil antes de derivar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

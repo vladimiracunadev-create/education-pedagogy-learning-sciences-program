@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Tomlinson, C. *The Differentiated Classroom*. | el marco de referencia, que conviene leer junto a la pregunta por su viabilidad real. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Tomlinson, C. *The Differentiated Classroom* (edición vigente). | el marco de referencia, que conviene leer junto a la pregunta por su viabilidad real. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Rosenshine, B. (2012). *Principles of Instruction*. | prácticas de alto rendimiento y bajo costo de preparación, viables en cursos numerosos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Tomlinson, C. *The Differentiated Classroom*. **Uso en esta clase:** el marco de referencia, que conviene leer junto a la pregunta por su viabilidad real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Tomlinson, C. *The Differentiated Classroom* (edición vigente). **Uso en esta clase:** el marco de referencia, que conviene leer junto a la pregunta por su viabilidad real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** prácticas de alto rendimiento y bajo costo de preparación, viables en cursos numerosos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

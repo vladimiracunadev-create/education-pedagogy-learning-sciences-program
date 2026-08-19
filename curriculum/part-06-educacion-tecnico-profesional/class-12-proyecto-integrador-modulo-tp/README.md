@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional*. | referencia obligatoria de módulos, competencias y evaluación del nivel. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional* (edición vigente). | referencia obligatoria de módulos, competencias y evaluación del nivel. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. | criterios para auditar la calidad de un sistema de evaluación por competencias. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional*. **Uso en esta clase:** referencia obligatoria de módulos, competencias y evaluación del nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional* (edición vigente). **Uso en esta clase:** referencia obligatoria de módulos, competencias y evaluación del nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. **Uso en esta clase:** criterios para auditar la calidad de un sistema de evaluación por competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

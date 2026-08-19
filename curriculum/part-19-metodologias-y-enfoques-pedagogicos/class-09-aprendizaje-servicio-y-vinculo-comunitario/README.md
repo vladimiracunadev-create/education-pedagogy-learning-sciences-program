@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Tapia, M. N. *Aprendizaje y servicio solidario*. | la formulación latinoamericana con sus criterios de calidad y sus advertencias sobre asistencialismo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Tapia, M. N. (2006). *Aprendizaje y servicio solidario en el sistema educativo y las organizaciones juveniles*. | la formulación latinoamericana con sus criterios de calidad y sus advertencias sobre asistencialismo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Dewey, J. (1916). *Democracy and Education*. | el fundamento de la experiencia con propósito educativo, que esta metodología intenta operacionalizar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Tapia, M. N. *Aprendizaje y servicio solidario*. **Uso en esta clase:** la formulación latinoamericana con sus criterios de calidad y sus advertencias sobre asistencialismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Tapia, M. N. (2006). *Aprendizaje y servicio solidario en el sistema educativo y las organizaciones juveniles*. **Uso en esta clase:** la formulación latinoamericana con sus criterios de calidad y sus advertencias sobre asistencialismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Dewey, J. (1916). *Democracy and Education*. **Uso en esta clase:** el fundamento de la experiencia con propósito educativo, que esta metodología intenta operacionalizar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

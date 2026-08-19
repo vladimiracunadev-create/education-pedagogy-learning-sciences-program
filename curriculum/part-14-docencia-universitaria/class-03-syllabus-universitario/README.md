@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. | estructura de syllabus alineado con resultados y evaluación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Comisión Nacional de Acreditación (Chile). *Criterios sobre programas de asignatura*. | requisitos formales esperados en el sistema chileno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Comisión Nacional de Acreditación (Chile). *Criterios sobre programas de asignatura* (edición vigente). | requisitos formales esperados en el sistema chileno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** estructura de syllabus alineado con resultados y evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Comisión Nacional de Acreditación (Chile). *Criterios sobre programas de asignatura*. **Uso en esta clase:** requisitos formales esperados en el sistema chileno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Comisión Nacional de Acreditación (Chile). *Criterios sobre programas de asignatura* (edición vigente). **Uso en esta clase:** requisitos formales esperados en el sistema chileno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

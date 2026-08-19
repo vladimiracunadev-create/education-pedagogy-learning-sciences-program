@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Deci, E., Koestner, R. & Ryan, R. (1999). *Meta-Analytic Review of Extrinsic Rewards*. | documenta los riesgos del refuerzo externo sobre la motivación intrínseca. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Sugai, G. & Horner, R. *School-Wide Positive Behavior Support*. | modelo de sistemas graduados de apoyo conductual con evidencia de implementación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Sugai, G. & Horner, R. *School-Wide Positive Behavior Support* (edición vigente). | modelo de sistemas graduados de apoyo conductual con evidencia de implementación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Deci, E., Koestner, R. & Ryan, R. (1999). *Meta-Analytic Review of Extrinsic Rewards*. **Uso en esta clase:** documenta los riesgos del refuerzo externo sobre la motivación intrínseca. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sugai, G. & Horner, R. *School-Wide Positive Behavior Support*. **Uso en esta clase:** modelo de sistemas graduados de apoyo conductual con evidencia de implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Sugai, G. & Horner, R. *School-Wide Positive Behavior Support* (edición vigente). **Uso en esta clase:** modelo de sistemas graduados de apoyo conductual con evidencia de implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

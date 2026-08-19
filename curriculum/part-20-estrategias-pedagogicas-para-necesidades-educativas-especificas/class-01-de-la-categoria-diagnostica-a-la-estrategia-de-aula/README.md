@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. | convierte la inclusión en indicadores revisables y desplaza el foco de la categoría al contexto. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)*. | el marco que sitúa la discapacidad en la interacción entre persona y entorno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)* (edición vigente). | el marco que sitúa la discapacidad en la interacción entre persona y entorno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** convierte la inclusión en indicadores revisables y desplaza el foco de la categoría al contexto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)*. **Uso en esta clase:** el marco que sitúa la discapacidad en la interacción entre persona y entorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)* (edición vigente). **Uso en esta clase:** el marco que sitúa la discapacidad en la interacción entre persona y entorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*. | principios de supervisión aplicables también a proyectos de pregrado y magíster. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Comisión Nacional de Acreditación (Chile). *Criterios sobre procesos de titulación*. | requisitos institucionales sobre la etapa final de los programas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Comisión Nacional de Acreditación (Chile). *Criterios sobre procesos de titulación* (edición vigente). | requisitos institucionales sobre la etapa final de los programas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*. **Uso en esta clase:** principios de supervisión aplicables también a proyectos de pregrado y magíster. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Comisión Nacional de Acreditación (Chile). *Criterios sobre procesos de titulación*. **Uso en esta clase:** requisitos institucionales sobre la etapa final de los programas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Comisión Nacional de Acreditación (Chile). *Criterios sobre procesos de titulación* (edición vigente). **Uso en esta clase:** requisitos institucionales sobre la etapa final de los programas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

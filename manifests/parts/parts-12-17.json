@@ -1,320 +1,500 @@
 [
-{
-  "part": 12,
-  "titulo": "Gestión del aula y convivencia",
-  "lema": "El orden no se impone al inicio: se diseña antes y se sostiene todos los días",
-  "etapa": "C",
-  "poblacion": "transversal, con foco escolar",
-  "contenido_central": "Clima de aula, normas y rutinas, prevención de conducta, refuerzo y consecuencias, comunicación docente, conflictos, desmotivación, integridad académica, celulares, trabajo con apoderados y crisis",
-  "resumen": [
-    "La investigación sobre gestión de aula converge en un hallazgo poco intuitivo: los docentes con menos problemas de conducta no son los que reaccionan mejor, sino los que previenen más. La diferencia se juega en decisiones tomadas antes de que ocurra nada —cómo se entra a la sala, qué se hace en los primeros dos minutos, cómo se piden los materiales, cómo se transita entre actividades— y en la capacidad de percibir lo que pasa en toda la sala mientras se atiende a una persona.",
-    "El segundo eje es la distinción entre norma, límite y sanción. Una norma se enseña como se enseña cualquier contenido: se explica, se modela, se practica y se corrige. Un límite se sostiene sin escalada emocional. Una sanción, cuando corresponde, debe ser proporcional, previsible y reparadora. Los establecimientos que confunden estos tres niveles terminan con reglamentos extensos y prácticas arbitrarias, que es la combinación que más deteriora el clima.",
-    "En Chile la convivencia escolar está regulada: hay obligación de contar con reglamento interno, protocolos de actuación ante situaciones específicas, encargado de convivencia y procedimientos con debido proceso. Conocer ese marco no es burocracia defensiva: es lo que permite actuar rápido sin vulnerar derechos, y lo que protege tanto al estudiante como al docente cuando una situación se vuelve grave."
-  ],
-  "resultados": [
-    "Diseñar el sistema de rutinas y normas de un curso antes de que empiece el año",
-    "Intervenir una conducta disruptiva sin escalada y sin dañar el vínculo",
-    "Distinguir conflicto, falta y situación de riesgo, y activar la respuesta correspondiente",
-    "Conducir una entrevista difícil con un apoderado con registro y acuerdos verificables"
-  ],
-  "mapa": "```mermaid\nflowchart TB\n    DI[\"Diseno previo<br/>rutinas · normas · espacio\"] --> CL[\"Clima de aula\"]\n    CL --> PRE[\"Prevencion<br/>anticipar en vez de reaccionar\"]\n    PRE --> INT[\"Intervencion graduada<br/>sin escalada\"]\n    INT --> REP[\"Reparacion<br/>y restauracion del vinculo\"]\n    CON[\"Conflicto entre estudiantes\"] --> INT\n    RI{{\"Situacion de riesgo<br/>o vulneracion\"}} --> PRO[\"Protocolo y derivacion\"]\n    INT --> AP[\"Trabajo con la familia\"]\n    PRO --> AP\n    REP --> PY[\"Plan de gestion de aula<br/>proyecto integrador\"]\n```",
-  "marco": [
-    "prevención y organización del aula como determinantes del clima",
-    "prácticas restaurativas y sistemas de apoyo conductual positivo",
-    "comunicación docente y manejo de conflictos sin escalada",
-    "normativa chilena de convivencia escolar, reglamento interno y protocolos"
-  ],
-  "autores": "Jacob Kounin, Carolyn Evertson y Edmund Emmer, Robert Marzano, equipos de prácticas restaurativas, Superintendencia de Educación y Política Nacional de Convivencia Educativa",
-  "riesgos": [
-    "Gestionar por reacción y llamar disciplina a la escalada.",
-    "Aplicar sanciones sin debido proceso ni proporcionalidad.",
-    "Confundir un conflicto entre pares con una situación de vulneración que exige protocolo.",
-    "Delegar en la familia la gestión de lo que ocurre dentro del aula."
-  ],
-  "lecturas": [
-    ["Kounin, J. (1970). *Discipline and Group Management in Classrooms*.", "origen del hallazgo sobre prevención y percepción simultánea del grupo; sigue siendo la mejor descripción del mecanismo."],
-    ["Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers*.", "el manual operativo más completo: rutinas, transiciones y comienzo del año escolar."],
-    ["Mineduc / Superintendencia de Educación. *Política Nacional de Convivencia Educativa* y normativa sobre reglamentos internos.", "marco chileno vigente: obligaciones, protocolos y debido proceso."],
-    ["Ley 20.536 sobre violencia escolar y su normativa asociada.", "define responsabilidades del establecimiento; verifica su versión consolidada antes de aplicarla."]
-  ],
-  "evidencias": [
-    "el sistema de rutinas del curso escrito y enseñable;",
-    "el registro de una intervención conductual con análisis posterior;",
-    "un protocolo propio de derivación con actores, plazos y registro;",
-    "el plan de gestión de aula completo, con indicadores de clima."
-  ],
-  "contextos": [
-    ["Curso de primer ciclo básico", "las rutinas se enseñan explícitamente y se practican"],
-    ["Curso de educación media", "la legitimidad y la justicia percibida deciden el clima"],
-    ["Curso con conflictos frecuentes", "hay que estabilizar antes de exigir contenido"],
-    ["Taller o laboratorio", "el riesgo físico cambia la gestión del grupo"],
-    ["Clase con docente de reemplazo", "no hay historia compartida en la que apoyarse"],
-    ["Contexto de vulneración de derechos", "el protocolo manda sobre el criterio individual"]
-  ]
-},
-{
-  "part": 13,
-  "titulo": "Tecnología e IA educativa",
-  "lema": "La tecnología no mejora la enseñanza: amplifica la decisión pedagógica que ya tomaste",
-  "etapa": "C",
-  "poblacion": "transversal a niveles y modalidades",
-  "contenido_central": "Competencia digital docente, LMS, diseño de recursos, gamificación, analítica de aprendizaje, adaptatividad, fundamentos de IA, modelos de lenguaje, RAG, agentes educativos y ética, privacidad y sesgos",
-  "resumen": [
-    "El patrón histórico de la tecnología educativa es constante: llega una herramienta, se le atribuye poder transformador, se compra a escala y luego la evidencia muestra efectos pequeños y muy dependientes del uso. Ocurrió con la radio, la televisión educativa, los computadores personales, las pizarras interactivas y los tablets. La lección no es rechazar la tecnología: es exigirle la misma prueba que a cualquier intervención y diseñar el uso, no la compra.",
-    "Con la inteligencia artificial generativa el problema cambia de escala, porque afecta a la vez a la enseñanza, a la evaluación y a la integridad académica. Un modelo de lenguaje puede producir material, explicar con paciencia infinita y también fabricar información falsa con tono seguro. El programa toma una posición explícita: la IA se usa con supervisión humana, con verificación del contenido, con resguardo de datos personales y con criterios claros sobre qué tarea deja de ser evaluable cuando la máquina la resuelve.",
-    "La parte enseña además la parte técnica sin misticismo: qué es un modelo de lenguaje, por qué alucina, qué agrega la recuperación de información sobre documentos propios, qué es un agente y dónde están sus límites reales. Un docente que entiende el mecanismo puede decidir; uno que lo trata como magia solo puede prohibir o rendirse, y ninguna de las dos es una política educativa."
-  ],
-  "resultados": [
-    "Decidir el uso de una herramienta digital a partir del objetivo de aprendizaje y no de su novedad",
-    "Diseñar recursos digitales que respeten los principios del aprendizaje multimedia",
-    "Construir un tutor o asistente con IA con verificación, resguardo de datos y supervisión humana",
-    "Definir la política de uso de IA de un curso, incluida su consecuencia sobre la evaluación"
-  ],
-  "mapa": "```mermaid\nflowchart TB\n    OB[\"Objetivo de aprendizaje\"] --> DE{{\"Que aporta la tecnologia<br/>que el aula no aporta?\"}}\n    DE --> RE[\"Diseno de recursos<br/>principios multimedia\"]\n    DE --> LMS[\"LMS y aula virtual\"]\n    RE --> IA[\"IA generativa<br/>modelos de lenguaje\"]\n    IA --> RAG[\"Recuperacion sobre<br/>documentos propios\"]\n    RAG --> TU[\"Tutor o agente educativo\"]\n    TU --> SUP[\"Supervision humana<br/>y verificacion\"]\n    LMS --> AN[\"Analitica de aprendizaje\"]\n    AN --> ET[\"Etica · privacidad · sesgo\"]\n    SUP --> ET\n    ET --> PY[\"Tutor IA responsable<br/>proyecto integrador\"]\n```",
-  "marco": [
-    "principios del aprendizaje multimedia y diseño de recursos",
-    "integración de tecnología, pedagogía y contenido en la decisión docente",
-    "analítica de aprendizaje y su uso ético en decisiones sobre personas",
-    "orientaciones internacionales sobre IA generativa en educación y protección de datos"
-  ],
-  "autores": "Richard E. Mayer, Punya Mishra y Matthew Koehler, Neil Selwyn, Rose Luckin, equipos de UNESCO sobre IA en educación, especialistas en protección de datos personales",
-  "riesgos": [
-    "Adoptar una herramienta por novedad y buscar después el objetivo que justifica su uso.",
-    "Tratar la salida de un modelo de lenguaje como información verificada.",
-    "Procesar datos personales de estudiantes sin base legal ni resguardo.",
-    "Delegar en un sistema automático decisiones que afectan la trayectoria de una persona."
-  ],
-  "lecturas": [
-    ["Mayer, R. (2021). *Multimedia Learning* (3.ª ed.).", "los principios empíricos del diseño de recursos: qué combinación de texto, imagen y audio ayuda y cuál estorba."],
-    ["Mishra, P. & Koehler, M. (2006). *Technological Pedagogical Content Knowledge*. Teachers College Record, 108(6).", "el marco que evita la pregunta equivocada («¿qué herramienta uso?») y plantea la correcta."],
-    ["UNESCO (2023). *Guidance for Generative AI in Education and Research*.", "la referencia internacional más citada para políticas de uso de IA en instituciones educativas."],
-    ["Selwyn, N. (2016). *Is Technology Good for Education?*", "el contrapeso crítico necesario: obliga a preguntar quién gana con cada adopción tecnológica."]
-  ],
-  "evidencias": [
-    "un criterio propio y escrito de adopción tecnológica, con casos de rechazo;",
-    "un recurso digital diseñado con principios multimedia y probado con estudiantes;",
-    "un asistente o tutor con IA documentado, con sus límites y su verificación;",
-    "la política de uso de IA del curso, comunicable a estudiantes y familias."
-  ],
-  "contextos": [
-    ["Aula con conectividad limitada", "la solución debe funcionar sin ancho de banda"],
-    ["Modalidad híbrida", "la equivalencia de experiencia es el problema real"],
-    ["Curso con evaluación escrita fuerte", "la IA obliga a rediseñar la evidencia de logro"],
-    ["Formación de adultos en línea", "autonomía alta y riesgo de deserción"],
-    ["Institución con datos sensibles", "la protección de datos precede a la funcionalidad"],
-    ["Estudiantes menores de edad", "consentimiento, resguardo y supervisión reforzados"]
-  ]
-},
-{
-  "part": 14,
-  "titulo": "Docencia universitaria",
-  "lema": "Dominar la disciplina no basta: enseñarla es otra disciplina",
-  "etapa": "D",
-  "poblacion": "pregrado y postgrado universitario y técnico superior",
-  "contenido_central": "Aprendizaje en educación superior, diseño de asignaturas, syllabus, clase magistral, seminarios, laboratorios, tutorías, evaluación, integridad académica, proyectos de título y supervisión inicial",
-  "resumen": [
-    "La docencia universitaria arrastra un supuesto que la evidencia desmiente: que quien sabe mucho de una disciplina enseña bien esa disciplina. La experiencia del especialista incluso estorba, porque su conocimiento está tan automatizado que olvida los pasos que el novato necesita. Ese fenómeno tiene nombre —el punto ciego del experto— y explica buena parte de las clases universitarias que son impecables en contenido e ininteligibles para quien aprende.",
-    "La segunda cuestión es la clase magistral. La evidencia no dice que sea inútil: dice que, comparada con métodos que exigen participación activa, produce menos aprendizaje y más reprobación en cursos de ciencias e ingeniería. Una síntesis muy citada de estudios en educación superior mostró exactamente eso. La conclusión operativa no es eliminar la exposición, sino intercalarla con actividades que obliguen a procesar, porque el problema no es hablar: es hablar cuarenta minutos sin que nadie tenga que hacer nada.",
-    "El tercer eje es institucional. En educación superior la calidad se juega también en el diseño de la asignatura dentro de un plan de estudios, en la coherencia con el perfil de egreso, en la carga académica real del estudiante y en los procesos de acreditación. Un buen profesor universitario sabe enseñar y además sabe justificar por escrito por qué su asignatura está diseñada así, que es lo que le pedirán en cualquier proceso de evaluación."
-  ],
-  "resultados": [
-    "Diseñar una asignatura universitaria completa con syllabus, carga y evaluación coherentes",
-    "Transformar una exposición en una secuencia con procesamiento activo verificable",
-    "Conducir seminarios, laboratorios y tutorías con criterios explícitos de calidad",
-    "Sostener la integridad académica con reglas claras y evaluación resistente"
-  ],
-  "mapa": "```mermaid\nflowchart TB\n    PE[\"Perfil de egreso<br/>de la carrera\"] --> AS[\"Diseno de la asignatura\"]\n    AS --> SY[\"Syllabus<br/>contrato academico\"]\n    SY --> FOR[\"Formatos<br/>catedra · seminario · laboratorio · tutoria\"]\n    FOR --> ACT[\"Procesamiento activo<br/>en cada sesion\"]\n    ACT --> EVA[\"Evaluacion universitaria\"]\n    EVA --> INT{{\"Integridad academica<br/>y evaluacion resistente\"}}\n    INT --> TIT[\"Proyectos de titulo<br/>y supervision inicial\"]\n    TIT --> PY[\"Asignatura universitaria<br/>proyecto integrador\"]\n```",
-  "marco": [
-    "aprendizaje en educación superior y enfoques profundo y superficial",
-    "evidencia sobre métodos activos frente a exposición continua",
-    "evaluación para el aprendizaje y retroalimentación sostenible en cursos numerosos",
-    "aseguramiento de la calidad y acreditación en educación superior chilena"
-  ],
-  "autores": "John Biggs y Catherine Tang, Paul Ramsden, Scott Freeman y colaboradores, David Boud, Ference Marton y Roger Säljö, especialistas de la Comisión Nacional de Acreditación",
-  "riesgos": [
-    "Suponer que el dominio disciplinar se traduce solo en buena enseñanza.",
-    "Diseñar la carga del estudiante sin calcular el tiempo real que exige.",
-    "Evaluar únicamente con pruebas finales de alto peso.",
-    "Responder a la IA generativa con prohibiciones que no se pueden verificar."
-  ],
-  "lecturas": [
-    ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.", "el manual de referencia para diseñar asignaturas con alineamiento constructivo."],
-    ["Freeman, S. et al. (2014). *Active Learning Increases Student Performance in Science, Engineering, and Mathematics*. PNAS, 111(23).", "metaanálisis con 225 estudios; el resultado que más ha cambiado la discusión sobre la cátedra."],
-    ["Ramsden, P. (2003). *Learning to Teach in Higher Education*.", "conecta la investigación sobre enfoques de aprendizaje con decisiones concretas de docencia."],
-    ["Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*. Assessment & Evaluation in Higher Education, 38(6).", "propone retroalimentación como proceso que el estudiante debe poder usar, no como comentario entregado."]
-  ],
-  "evidencias": [
-    "un syllabus completo con carga académica calculada y justificada;",
-    "el rediseño de una cátedra con procesamiento activo y su evaluación;",
-    "un protocolo de tutoría y de supervisión de proyectos de título;",
-    "una política de integridad académica aplicable y verificable."
-  ],
-  "contextos": [
-    ["Curso masivo de primer año", "heterogeneidad alta y riesgo de deserción temprana"],
-    ["Asignatura de especialidad con pocos estudiantes", "el seminario es el formato natural"],
-    ["Laboratorio o clínica", "el desempeño supervisado es la evidencia"],
-    ["Postgrado profesional", "estudiantes que trabajan y exigen aplicabilidad"],
-    ["Asignatura en línea o híbrida", "la evaluación debe rediseñarse por completo"],
-    ["Dirección de tesis o proyecto de título", "la relación de supervisión es el método"]
-  ]
-},
-{
-  "part": 15,
-  "titulo": "Gestión y liderazgo educativo",
-  "lema": "Un director no enseña a más estudiantes: crea las condiciones para que otros enseñen mejor",
-  "etapa": "D",
-  "poblacion": "equipos directivos, jefaturas técnicas y coordinaciones",
-  "contenido_central": "Liderazgo pedagógico, cultura organizacional, observación de clases, retroalimentación a docentes, comunidades profesionales de aprendizaje, planificación estratégica, gestión de equipos, indicadores, mejora escolar, innovación y ética directiva",
-  "resumen": [
-    "La investigación sobre liderazgo escolar entrega un resultado consistente y útil: el efecto del liderazgo sobre el aprendizaje es real pero indirecto, y la práctica directiva con mayor efecto es la participación en el desarrollo profesional de los docentes. Dicho sin adornos: el director que aprende junto a sus profesores sobre cómo enseñar mejor produce más efecto que el que administra impecablemente o el que inspira sin entrar a las salas.",
-    "La segunda idea es que la mejora escolar sostenida no se produce por planes anuales ambiciosos, sino por ciclos cortos de indagación con evidencia: identificar un problema específico, probar un cambio acotado, medir, ajustar. La tradición de mejora continua aplicada a escuelas —ciclos de indagación, redes de mejoramiento— tiene mejor rendimiento que las reformas internas de gran escala, que suelen agotar al equipo antes de producir resultados.",
-    "El tercer eje es la confianza relacional. Los estudios longitudinales sobre escuelas que mejoran muestran que la confianza entre docentes, directivos y familias no es un valor blando sino una condición material: donde no existe, ninguna estrategia técnica prende. Por eso esta parte trata la observación de clases y la retroalimentación a docentes como prácticas de alto riesgo relacional que deben diseñarse con reglas explícitas."
-  ],
-  "resultados": [
-    "Ejercer liderazgo pedagógico centrado en el aprendizaje profesional del equipo",
-    "Observar clases y retroalimentar docentes sin dañar la confianza y con foco en la práctica",
-    "Conducir un ciclo de mejora con datos, hipótesis, intervención acotada y verificación",
-    "Construir indicadores institucionales que informen decisiones en vez de decorar informes"
-  ],
-  "mapa": "```mermaid\nflowchart TB\n    DI[\"Diagnostico institucional<br/>datos y evidencia\"] --> FO[\"Foco de mejora<br/>acotado y verificable\"]\n    FO --> LP[\"Liderazgo pedagogico<br/>participar del aprendizaje docente\"]\n    LP --> OB[\"Observacion de clases\"]\n    OB --> RF[\"Retroalimentacion<br/>sobre la practica\"]\n    RF --> CPA[\"Comunidad profesional<br/>de aprendizaje\"]\n    CPA --> CI{{\"Ciclo de mejora<br/>probar · medir · ajustar\"}}\n    CI --> IND[\"Indicadores<br/>que informan decisiones\"]\n    IND --> DI\n    CONF[\"Confianza relacional\"] --> CPA\n    CI --> PY[\"Plan de mejora institucional<br/>proyecto integrador\"]\n```",
-  "marco": [
-    "liderazgo centrado en el aprendizaje y sus prácticas de mayor efecto",
-    "mejora continua e indagación por ciclos en organizaciones escolares",
-    "confianza relacional como condición de la mejora sostenida",
-    "Marco para la Buena Dirección y Liderazgo Escolar y planificación institucional en Chile"
-  ],
-  "autores": "Viviane Robinson, Kenneth Leithwood, Michael Fullan, Anthony Bryk, Andy Hargreaves, equipos del Centro de Liderazgo Educativo y del sistema de educación pública chileno",
-  "riesgos": [
-    "Confundir liderazgo con carisma o con control administrativo.",
-    "Observar clases sin acuerdo previo sobre foco, uso y confidencialidad.",
-    "Fijar metas institucionales sin línea base ni medio de verificación.",
-    "Iniciar más cambios de los que el equipo puede sostener a la vez."
-  ],
-  "lecturas": [
-    ["Robinson, V. (2011). *Student-Centered Leadership*.", "identifica y ordena por efecto las prácticas de liderazgo con impacto en el aprendizaje."],
-    ["Leithwood, K. et al. (2020). *Seven Strong Claims about Successful School Leadership Revisited*. School Leadership & Management, 40(1).", "actualiza qué se sabe con evidencia sobre liderazgo escolar y qué sigue siendo suposición."],
-    ["Bryk, A. & Schneider, B. (2002). *Trust in Schools*.", "muestra con datos longitudinales por qué la confianza es condición y no consecuencia de la mejora."],
-    ["Bryk, A. et al. (2015). *Learning to Improve*.", "traslada la mejora continua a la escuela: problemas específicos, ciclos cortos y redes de aprendizaje."]
-  ],
-  "evidencias": [
-    "un diagnóstico institucional con datos y foco de mejora justificado;",
-    "un protocolo de observación y retroalimentación acordado con el equipo;",
-    "un ciclo de mejora ejecutado con línea base, intervención y resultado;",
-    "el plan de mejora institucional con indicadores y responsables."
-  ],
-  "contextos": [
-    ["Escuela pequeña con equipo reducido", "el directivo también hace clases"],
-    ["Establecimiento grande con varios ciclos", "la coordinación entre niveles es el problema"],
-    ["Institución con resultados descendentes", "hay urgencia y baja confianza inicial"],
-    ["Equipo con alta rotación docente", "el conocimiento institucional se pierde cada año"],
-    ["Institución de educación superior", "gobierno colegiado y autonomía académica"],
-    ["Organización de capacitación", "los indicadores son contractuales y externos"]
-  ]
-},
-{
-  "part": 16,
-  "titulo": "Investigación educativa",
-  "lema": "Una pregunta bien formulada vale más que un método sofisticado",
-  "etapa": "E",
-  "poblacion": "investigación aplicada, tesis de magíster e investigación institucional",
-  "contenido_central": "Epistemología, pregunta y problema, revisión de literatura, marco teórico, diseños cuantitativos, cualitativos y mixtos, muestreo, estadística, análisis temático, ética y reproducibilidad",
-  "resumen": [
-    "La mayor parte de las tesis educativas fracasa antes del método, en la pregunta. Preguntas demasiado amplias, preguntas que ya tienen respuesta en la literatura, preguntas cuya respuesta no cambiaría ninguna decisión. Esta parte dedica su primer tercio a ese trabajo poco glamoroso: convertir una inquietud profesional en una pregunta investigable, delimitada, conectada con lo que ya se sabe y con consecuencias claras según el resultado.",
-    "El segundo tercio enseña diseños con su lógica, no como catálogo. Un diseño no es una etiqueta: es un argumento sobre cómo se descartan explicaciones alternativas. Quien entiende esa lógica sabe por qué un pretest-postest sin grupo de comparación no permite atribuir el cambio a la intervención, y por qué un estudio de casos bien hecho puede sostener afirmaciones fuertes sobre mecanismos aunque no generalice a poblaciones.",
-    "El último tercio es ética y reproducibilidad, y en educación tiene urgencia particular: se investiga con menores de edad, en instituciones con relaciones de poder, y con datos sensibles. Además, el campo arrastra la crisis de replicación de la psicología. Preregistrar, reportar tamaños de efecto con intervalos, publicar instrumentos y datos cuando es posible, y reconocer limitaciones sin adornos, es lo que separa una investigación defendible de una que solo suena bien."
-  ],
-  "resultados": [
-    "Formular una pregunta de investigación delimitada, relevante e investigable",
-    "Escoger y justificar un diseño en función de la pregunta y no de la preferencia",
-    "Analizar datos cuantitativos o cualitativos con procedimientos trazables",
-    "Someter la investigación a estándares éticos y de reproducibilidad verificables"
-  ],
-  "mapa": "```mermaid\nflowchart TB\n    PB[\"Problema profesional\"] --> PR{{\"Pregunta investigable<br/>delimitada y con consecuencia\"}}\n    PR --> RL[\"Revision de literatura<br/>que se sabe ya\"]\n    RL --> MT[\"Marco teorico\"]\n    MT --> DI[\"Diseno<br/>cuantitativo · cualitativo · mixto\"]\n    DI --> MU[\"Muestreo y acceso al campo\"]\n    MU --> DA[\"Recoleccion de datos\"]\n    DA --> AN[\"Analisis\"]\n    AN --> LI[\"Limitaciones declaradas\"]\n    ET[\"Etica y reproducibilidad\"] --> DA\n    ET --> AN\n    LI --> PY[\"Investigacion de nivel magister<br/>proyecto integrador\"]\n```",
-  "marco": [
-    "epistemología y supuestos de los paradigmas de investigación educativa",
-    "diseños experimentales, cuasiexperimentales y observacionales, y sus amenazas a la validez",
-    "métodos cualitativos: casos, etnografía, análisis temático y criterios de rigor",
-    "ética de la investigación con personas y prácticas de ciencia abierta"
-  ],
-  "autores": "William Shadish, Thomas Cook y Donald Campbell, John Creswell, Robert Yin, Virginia Braun y Victoria Clarke, Yvonna Lincoln y Egon Guba, Brian Nosek y el movimiento de ciencia abierta",
-  "riesgos": [
-    "Elegir el método antes de tener la pregunta delimitada.",
-    "Atribuir causalidad a diseños que no la permiten.",
-    "Reportar significación estadística sin tamaño de efecto ni intervalo.",
-    "Investigar con menores o en la propia institución sin resguardos éticos explícitos."
-  ],
-  "lecturas": [
-    ["Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs for Generalized Causal Inference*.", "la referencia sobre amenazas a la validez; enseña a leer qué puede y qué no puede afirmar un diseño."],
-    ["Creswell, J. & Creswell, J. D. (2018). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches*.", "buena entrada comparada a los tres enfoques con criterios de elección explícitos."],
-    ["Braun, V. & Clarke, V. (2006). *Using Thematic Analysis in Psychology*. Qualitative Research in Psychology, 3(2).", "el procedimiento de análisis temático más usado y peor aplicado; léelo antes de decir que hiciste análisis temático."],
-    ["Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*. Science, 349(6251).", "el estudio que obliga a leer con cautela cualquier hallazgo único no replicado."]
-  ],
-  "evidencias": [
-    "una pregunta de investigación con su justificación y su delimitación;",
-    "una revisión de literatura con estrategia de búsqueda documentada;",
-    "un protocolo de investigación con diseño, instrumentos y plan de análisis;",
-    "el informe final con limitaciones y consideraciones éticas declaradas."
-  ],
-  "contextos": [
-    ["Investigación en la propia aula", "el rol dual docente-investigador exige resguardos"],
-    ["Investigación institucional", "hay intereses organizacionales sobre el resultado"],
-    ["Estudio con menores de edad", "consentimiento, asentimiento y resguardo de datos"],
-    ["Estudio con datos administrativos", "acceso, anonimización y sesgo de registro"],
-    ["Evaluación de una intervención", "el diseño decide si podrás atribuir el efecto"],
-    ["Investigación cualitativa de campo", "acceso, reflexividad y criterios de rigor"]
-  ]
-},
-{
-  "part": 17,
-  "titulo": "Investigación doctoral y formación de formadores",
-  "lema": "Aportar conocimiento nuevo y, después, enseñar a otros a producirlo",
-  "etapa": "E",
-  "poblacion": "nivel doctoral, dirección de tesis y formación docente",
-  "contenido_central": "Originalidad y contribución, diseños avanzados, modelos longitudinales y multinivel, metaanálisis y revisión sistemática, investigación basada en diseño, analítica avanzada, escritura científica, publicación, dirección de tesis y formación de docentes",
-  "resumen": [
-    "El salto doctoral no es de cantidad sino de tipo: ya no basta con aplicar bien un método, hay que sostener una contribución original y defenderla ante quienes conocen el campo mejor que uno en aspectos puntuales. Esta parte trabaja explícitamente qué cuenta como contribución en educación —un mecanismo explicado, un instrumento validado, una síntesis que reorganiza la evidencia, una teoría refutada— y cómo se argumenta que la propia lo es.",
-    "Técnicamente, la parte incorpora los diseños que el nivel exige: datos anidados que obligan a modelos multinivel porque los estudiantes están dentro de cursos y los cursos dentro de escuelas; medidas repetidas que permiten estudiar trayectorias; síntesis cuantitativa de evidencia acumulada; e investigación basada en diseño, que produce a la vez una intervención y una teoría sobre por qué funciona. No se trata de dominar todo el aparato estadístico, sino de saber qué exige cada pregunta y cuándo hay que trabajar con un especialista.",
-    "El cierre del programa es la formación de formadores, y no por simetría: porque enseñar a enseñar es el único modo de que este trabajo escale. La evidencia sobre desarrollo profesional docente es clara en lo que no funciona —talleres aislados sin seguimiento— y razonablemente clara en lo que sí: foco en el contenido, duración sostenida, práctica con retroalimentación y acompañamiento en el puesto. El proyecto final del programa es exactamente eso: un dispositivo de formación docente defendible con evidencia."
-  ],
-  "resultados": [
-    "Delimitar y defender una contribución original al conocimiento educativo",
-    "Escoger diseños avanzados coherentes con la estructura real de los datos",
-    "Escribir y publicar según los estándares de la comunidad científica del campo",
-    "Diseñar y evaluar un programa de formación de docentes basado en evidencia"
-  ],
-  "mapa": "```mermaid\nflowchart TB\n    OR{{\"Originalidad<br/>que se sabe y que falta\"}} --> CO[\"Contribucion<br/>mecanismo · instrumento · sintesis · teoria\"]\n    CO --> DA[\"Disenos avanzados<br/>longitudinal · multinivel · DBR\"]\n    DA --> SI[\"Sintesis<br/>metaanalisis y revision sistematica\"]\n    SI --> ES[\"Escritura cientifica\"]\n    ES --> PU[\"Publicacion y revision por pares\"]\n    PU --> DT[\"Direccion y evaluacion de tesis\"]\n    DT --> FF[\"Formacion de formadores\"]\n    FF --> PY[\"Propuesta doctoral defendible<br/>proyecto integrador\"]\n```",
-  "marco": [
-    "criterios de originalidad y contribución en investigación educativa",
-    "modelos multinivel y longitudinales para datos anidados y repetidos",
-    "síntesis de evidencia: revisión sistemática y metaanálisis",
-    "desarrollo profesional docente efectivo y su evaluación"
-  ],
-  "autores": "Harris Cooper, Larry Hedges, Ann Brown y Allan Collins, Stephen Raudenbush y Anthony Bryk, Linda Darling-Hammond, Laura Desimone, Matthew Kraft, Robert Coe",
-  "riesgos": [
-    "Confundir novedad temática con contribución al conocimiento.",
-    "Analizar datos anidados como si fueran independientes.",
-    "Sintetizar estudios heterogéneos sin evaluar su calidad ni su sesgo de publicación.",
-    "Formar docentes con talleres aislados y esperar cambio en la práctica."
-  ],
-  "lecturas": [
-    ["Raudenbush, S. & Bryk, A. (2002). *Hierarchical Linear Models*.", "la referencia sobre datos anidados; explica por qué ignorar la estructura infla la significación."],
-    ["Cooper, H., Hedges, L. & Valentine, J. (eds.) (2019). *The Handbook of Research Synthesis and Meta-Analysis*.", "el manual estándar para hacer y para juzgar síntesis cuantitativas."],
-    ["Design-Based Research Collective (2003). *Design-Based Research: An Emerging Paradigm for Educational Inquiry*. Educational Researcher, 32(1).", "define el paradigma que produce intervención y teoría a la vez; útil para tesis aplicadas."],
-    ["Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. Learning Policy Institute.", "sintetiza qué caracteriza al desarrollo profesional que sí cambia la práctica docente."]
-  ],
-  "evidencias": [
-    "un argumento escrito de originalidad y contribución, revisado por pares;",
-    "un plan de análisis avanzado coherente con la estructura de los datos;",
-    "un manuscrito en formato de artículo listo para someter a revisión;",
-    "un programa de formación de formadores con su diseño de evaluación."
-  ],
-  "contextos": [
-    ["Tesis doctoral en curso", "la contribución debe delimitarse y defenderse"],
-    ["Investigación con datos anidados", "estudiantes en cursos, cursos en escuelas"],
-    ["Síntesis de evidencia acumulada", "calidad de estudios y sesgo de publicación"],
-    ["Investigación basada en diseño", "intervención y teoría se construyen a la vez"],
-    ["Dirección de tesis de otros", "el método pasa a ser la relación de supervisión"],
-    ["Programa de formación docente", "el criterio final es el cambio en la práctica"]
-  ]
-}
+  {
+    "part": 12,
+    "titulo": "Gestión del aula y convivencia",
+    "lema": "El orden no se impone al inicio: se diseña antes y se sostiene todos los días",
+    "etapa": "C",
+    "poblacion": "transversal, con foco escolar",
+    "contenido_central": "Clima de aula, normas y rutinas, prevención de conducta, refuerzo y consecuencias, comunicación docente, conflictos, desmotivación, integridad académica, celulares, trabajo con apoderados y crisis",
+    "resumen": [
+      "La investigación sobre gestión de aula converge en un hallazgo poco intuitivo: los docentes con menos problemas de conducta no son los que reaccionan mejor, sino los que previenen más. La diferencia se juega en decisiones tomadas antes de que ocurra nada —cómo se entra a la sala, qué se hace en los primeros dos minutos, cómo se piden los materiales, cómo se transita entre actividades— y en la capacidad de percibir lo que pasa en toda la sala mientras se atiende a una persona.",
+      "El segundo eje es la distinción entre norma, límite y sanción. Una norma se enseña como se enseña cualquier contenido: se explica, se modela, se practica y se corrige. Un límite se sostiene sin escalada emocional. Una sanción, cuando corresponde, debe ser proporcional, previsible y reparadora. Los establecimientos que confunden estos tres niveles terminan con reglamentos extensos y prácticas arbitrarias, que es la combinación que más deteriora el clima.",
+      "En Chile la convivencia escolar está regulada: hay obligación de contar con reglamento interno, protocolos de actuación ante situaciones específicas, encargado de convivencia y procedimientos con debido proceso. Conocer ese marco no es burocracia defensiva: es lo que permite actuar rápido sin vulnerar derechos, y lo que protege tanto al estudiante como al docente cuando una situación se vuelve grave."
+    ],
+    "resultados": [
+      "Diseñar el sistema de rutinas y normas de un curso antes de que empiece el año",
+      "Intervenir una conducta disruptiva sin escalada y sin dañar el vínculo",
+      "Distinguir conflicto, falta y situación de riesgo, y activar la respuesta correspondiente",
+      "Conducir una entrevista difícil con un apoderado con registro y acuerdos verificables"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    DI[\"Diseno previo<br/>rutinas · normas · espacio\"] --> CL[\"Clima de aula\"]\n    CL --> PRE[\"Prevencion<br/>anticipar en vez de reaccionar\"]\n    PRE --> INT[\"Intervencion graduada<br/>sin escalada\"]\n    INT --> REP[\"Reparacion<br/>y restauracion del vinculo\"]\n    CON[\"Conflicto entre estudiantes\"] --> INT\n    RI{{\"Situacion de riesgo<br/>o vulneracion\"}} --> PRO[\"Protocolo y derivacion\"]\n    INT --> AP[\"Trabajo con la familia\"]\n    PRO --> AP\n    REP --> PY[\"Plan de gestion de aula<br/>proyecto integrador\"]\n```",
+    "marco": [
+      "prevención y organización del aula como determinantes del clima",
+      "prácticas restaurativas y sistemas de apoyo conductual positivo",
+      "comunicación docente y manejo de conflictos sin escalada",
+      "normativa chilena de convivencia escolar, reglamento interno y protocolos"
+    ],
+    "autores": "Jacob Kounin, Carolyn Evertson y Edmund Emmer, Robert Marzano, equipos de prácticas restaurativas, Superintendencia de Educación y Política Nacional de Convivencia Educativa",
+    "riesgos": [
+      "Gestionar por reacción y llamar disciplina a la escalada.",
+      "Aplicar sanciones sin debido proceso ni proporcionalidad.",
+      "Confundir un conflicto entre pares con una situación de vulneración que exige protocolo.",
+      "Delegar en la familia la gestión de lo que ocurre dentro del aula."
+    ],
+    "lecturas": [
+      [
+        "Kounin, J. (1970). *Discipline and Group Management in Classrooms*.",
+        "origen del hallazgo sobre prevención y percepción simultánea del grupo; sigue siendo la mejor descripción del mecanismo."
+      ],
+      [
+        "Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers* (edición vigente).",
+        "el manual operativo más completo: rutinas, transiciones y comienzo del año escolar."
+      ],
+      [
+        "Mineduc / Superintendencia de Educación. *Política Nacional de Convivencia Educativa* y normativa sobre reglamentos internos (edición vigente).",
+        "marco chileno vigente: obligaciones, protocolos y debido proceso."
+      ],
+      [
+        "Ley 20.536 sobre violencia escolar y su normativa asociada (edición vigente).",
+        "define responsabilidades del establecimiento; verifica su versión consolidada antes de aplicarla."
+      ]
+    ],
+    "evidencias": [
+      "el sistema de rutinas del curso escrito y enseñable;",
+      "el registro de una intervención conductual con análisis posterior;",
+      "un protocolo propio de derivación con actores, plazos y registro;",
+      "el plan de gestión de aula completo, con indicadores de clima."
+    ],
+    "contextos": [
+      [
+        "Curso de primer ciclo básico",
+        "las rutinas se enseñan explícitamente y se practican"
+      ],
+      [
+        "Curso de educación media",
+        "la legitimidad y la justicia percibida deciden el clima"
+      ],
+      [
+        "Curso con conflictos frecuentes",
+        "hay que estabilizar antes de exigir contenido"
+      ],
+      [
+        "Taller o laboratorio",
+        "el riesgo físico cambia la gestión del grupo"
+      ],
+      [
+        "Clase con docente de reemplazo",
+        "no hay historia compartida en la que apoyarse"
+      ],
+      [
+        "Contexto de vulneración de derechos",
+        "el protocolo manda sobre el criterio individual"
+      ]
+    ]
+  },
+  {
+    "part": 13,
+    "titulo": "Tecnología e IA educativa",
+    "lema": "La tecnología no mejora la enseñanza: amplifica la decisión pedagógica que ya tomaste",
+    "etapa": "C",
+    "poblacion": "transversal a niveles y modalidades",
+    "contenido_central": "Competencia digital docente, LMS, diseño de recursos, gamificación, analítica de aprendizaje, adaptatividad, fundamentos de IA, modelos de lenguaje, RAG, agentes educativos y ética, privacidad y sesgos",
+    "resumen": [
+      "El patrón histórico de la tecnología educativa es constante: llega una herramienta, se le atribuye poder transformador, se compra a escala y luego la evidencia muestra efectos pequeños y muy dependientes del uso. Ocurrió con la radio, la televisión educativa, los computadores personales, las pizarras interactivas y los tablets. La lección no es rechazar la tecnología: es exigirle la misma prueba que a cualquier intervención y diseñar el uso, no la compra.",
+      "Con la inteligencia artificial generativa el problema cambia de escala, porque afecta a la vez a la enseñanza, a la evaluación y a la integridad académica. Un modelo de lenguaje puede producir material, explicar con paciencia infinita y también fabricar información falsa con tono seguro. El programa toma una posición explícita: la IA se usa con supervisión humana, con verificación del contenido, con resguardo de datos personales y con criterios claros sobre qué tarea deja de ser evaluable cuando la máquina la resuelve.",
+      "La parte enseña además la parte técnica sin misticismo: qué es un modelo de lenguaje, por qué alucina, qué agrega la recuperación de información sobre documentos propios, qué es un agente y dónde están sus límites reales. Un docente que entiende el mecanismo puede decidir; uno que lo trata como magia solo puede prohibir o rendirse, y ninguna de las dos es una política educativa."
+    ],
+    "resultados": [
+      "Decidir el uso de una herramienta digital a partir del objetivo de aprendizaje y no de su novedad",
+      "Diseñar recursos digitales que respeten los principios del aprendizaje multimedia",
+      "Construir un tutor o asistente con IA con verificación, resguardo de datos y supervisión humana",
+      "Definir la política de uso de IA de un curso, incluida su consecuencia sobre la evaluación"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    OB[\"Objetivo de aprendizaje\"] --> DE{{\"Que aporta la tecnologia<br/>que el aula no aporta?\"}}\n    DE --> RE[\"Diseno de recursos<br/>principios multimedia\"]\n    DE --> LMS[\"LMS y aula virtual\"]\n    RE --> IA[\"IA generativa<br/>modelos de lenguaje\"]\n    IA --> RAG[\"Recuperacion sobre<br/>documentos propios\"]\n    RAG --> TU[\"Tutor o agente educativo\"]\n    TU --> SUP[\"Supervision humana<br/>y verificacion\"]\n    LMS --> AN[\"Analitica de aprendizaje\"]\n    AN --> ET[\"Etica · privacidad · sesgo\"]\n    SUP --> ET\n    ET --> PY[\"Tutor IA responsable<br/>proyecto integrador\"]\n```",
+    "marco": [
+      "principios del aprendizaje multimedia y diseño de recursos",
+      "integración de tecnología, pedagogía y contenido en la decisión docente",
+      "analítica de aprendizaje y su uso ético en decisiones sobre personas",
+      "orientaciones internacionales sobre IA generativa en educación y protección de datos"
+    ],
+    "autores": "Richard E. Mayer, Punya Mishra y Matthew Koehler, Neil Selwyn, Rose Luckin, equipos de UNESCO sobre IA en educación, especialistas en protección de datos personales",
+    "riesgos": [
+      "Adoptar una herramienta por novedad y buscar después el objetivo que justifica su uso.",
+      "Tratar la salida de un modelo de lenguaje como información verificada.",
+      "Procesar datos personales de estudiantes sin base legal ni resguardo.",
+      "Delegar en un sistema automático decisiones que afectan la trayectoria de una persona."
+    ],
+    "lecturas": [
+      [
+        "Mayer, R. (2021). *Multimedia Learning* (3.ª ed.).",
+        "los principios empíricos del diseño de recursos: qué combinación de texto, imagen y audio ayuda y cuál estorba."
+      ],
+      [
+        "Mishra, P. & Koehler, M. (2006). *Technological Pedagogical Content Knowledge*. Teachers College Record, 108(6).",
+        "el marco que evita la pregunta equivocada («¿qué herramienta uso?») y plantea la correcta."
+      ],
+      [
+        "UNESCO (2023). *Guidance for Generative AI in Education and Research*.",
+        "la referencia internacional más citada para políticas de uso de IA en instituciones educativas."
+      ],
+      [
+        "Selwyn, N. (2016). *Is Technology Good for Education?*",
+        "el contrapeso crítico necesario: obliga a preguntar quién gana con cada adopción tecnológica."
+      ]
+    ],
+    "evidencias": [
+      "un criterio propio y escrito de adopción tecnológica, con casos de rechazo;",
+      "un recurso digital diseñado con principios multimedia y probado con estudiantes;",
+      "un asistente o tutor con IA documentado, con sus límites y su verificación;",
+      "la política de uso de IA del curso, comunicable a estudiantes y familias."
+    ],
+    "contextos": [
+      [
+        "Aula con conectividad limitada",
+        "la solución debe funcionar sin ancho de banda"
+      ],
+      [
+        "Modalidad híbrida",
+        "la equivalencia de experiencia es el problema real"
+      ],
+      [
+        "Curso con evaluación escrita fuerte",
+        "la IA obliga a rediseñar la evidencia de logro"
+      ],
+      [
+        "Formación de adultos en línea",
+        "autonomía alta y riesgo de deserción"
+      ],
+      [
+        "Institución con datos sensibles",
+        "la protección de datos precede a la funcionalidad"
+      ],
+      [
+        "Estudiantes menores de edad",
+        "consentimiento, resguardo y supervisión reforzados"
+      ]
+    ]
+  },
+  {
+    "part": 14,
+    "titulo": "Docencia universitaria",
+    "lema": "Dominar la disciplina no basta: enseñarla es otra disciplina",
+    "etapa": "D",
+    "poblacion": "pregrado y postgrado universitario y técnico superior",
+    "contenido_central": "Aprendizaje en educación superior, diseño de asignaturas, syllabus, clase magistral, seminarios, laboratorios, tutorías, evaluación, integridad académica, proyectos de título y supervisión inicial",
+    "resumen": [
+      "La docencia universitaria arrastra un supuesto que la evidencia desmiente: que quien sabe mucho de una disciplina enseña bien esa disciplina. La experiencia del especialista incluso estorba, porque su conocimiento está tan automatizado que olvida los pasos que el novato necesita. Ese fenómeno tiene nombre —el punto ciego del experto— y explica buena parte de las clases universitarias que son impecables en contenido e ininteligibles para quien aprende.",
+      "La segunda cuestión es la clase magistral. La evidencia no dice que sea inútil: dice que, comparada con métodos que exigen participación activa, produce menos aprendizaje y más reprobación en cursos de ciencias e ingeniería. Una síntesis muy citada de estudios en educación superior mostró exactamente eso. La conclusión operativa no es eliminar la exposición, sino intercalarla con actividades que obliguen a procesar, porque el problema no es hablar: es hablar cuarenta minutos sin que nadie tenga que hacer nada.",
+      "El tercer eje es institucional. En educación superior la calidad se juega también en el diseño de la asignatura dentro de un plan de estudios, en la coherencia con el perfil de egreso, en la carga académica real del estudiante y en los procesos de acreditación. Un buen profesor universitario sabe enseñar y además sabe justificar por escrito por qué su asignatura está diseñada así, que es lo que le pedirán en cualquier proceso de evaluación."
+    ],
+    "resultados": [
+      "Diseñar una asignatura universitaria completa con syllabus, carga y evaluación coherentes",
+      "Transformar una exposición en una secuencia con procesamiento activo verificable",
+      "Conducir seminarios, laboratorios y tutorías con criterios explícitos de calidad",
+      "Sostener la integridad académica con reglas claras y evaluación resistente"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    PE[\"Perfil de egreso<br/>de la carrera\"] --> AS[\"Diseno de la asignatura\"]\n    AS --> SY[\"Syllabus<br/>contrato academico\"]\n    SY --> FOR[\"Formatos<br/>catedra · seminario · laboratorio · tutoria\"]\n    FOR --> ACT[\"Procesamiento activo<br/>en cada sesion\"]\n    ACT --> EVA[\"Evaluacion universitaria\"]\n    EVA --> INT{{\"Integridad academica<br/>y evaluacion resistente\"}}\n    INT --> TIT[\"Proyectos de titulo<br/>y supervision inicial\"]\n    TIT --> PY[\"Asignatura universitaria<br/>proyecto integrador\"]\n```",
+    "marco": [
+      "aprendizaje en educación superior y enfoques profundo y superficial",
+      "evidencia sobre métodos activos frente a exposición continua",
+      "evaluación para el aprendizaje y retroalimentación sostenible en cursos numerosos",
+      "aseguramiento de la calidad y acreditación en educación superior chilena"
+    ],
+    "autores": "John Biggs y Catherine Tang, Paul Ramsden, Scott Freeman y colaboradores, David Boud, Ference Marton y Roger Säljö, especialistas de la Comisión Nacional de Acreditación",
+    "riesgos": [
+      "Suponer que el dominio disciplinar se traduce solo en buena enseñanza.",
+      "Diseñar la carga del estudiante sin calcular el tiempo real que exige.",
+      "Evaluar únicamente con pruebas finales de alto peso.",
+      "Responder a la IA generativa con prohibiciones que no se pueden verificar."
+    ],
+    "lecturas": [
+      [
+        "Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.",
+        "el manual de referencia para diseñar asignaturas con alineamiento constructivo."
+      ],
+      [
+        "Freeman, S. et al. (2014). *Active Learning Increases Student Performance in Science, Engineering, and Mathematics*. PNAS, 111(23).",
+        "metaanálisis con 225 estudios; el resultado que más ha cambiado la discusión sobre la cátedra."
+      ],
+      [
+        "Ramsden, P. (2003). *Learning to Teach in Higher Education*.",
+        "conecta la investigación sobre enfoques de aprendizaje con decisiones concretas de docencia."
+      ],
+      [
+        "Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*. Assessment & Evaluation in Higher Education, 38(6).",
+        "propone retroalimentación como proceso que el estudiante debe poder usar, no como comentario entregado."
+      ]
+    ],
+    "evidencias": [
+      "un syllabus completo con carga académica calculada y justificada;",
+      "el rediseño de una cátedra con procesamiento activo y su evaluación;",
+      "un protocolo de tutoría y de supervisión de proyectos de título;",
+      "una política de integridad académica aplicable y verificable."
+    ],
+    "contextos": [
+      [
+        "Curso masivo de primer año",
+        "heterogeneidad alta y riesgo de deserción temprana"
+      ],
+      [
+        "Asignatura de especialidad con pocos estudiantes",
+        "el seminario es el formato natural"
+      ],
+      [
+        "Laboratorio o clínica",
+        "el desempeño supervisado es la evidencia"
+      ],
+      [
+        "Postgrado profesional",
+        "estudiantes que trabajan y exigen aplicabilidad"
+      ],
+      [
+        "Asignatura en línea o híbrida",
+        "la evaluación debe rediseñarse por completo"
+      ],
+      [
+        "Dirección de tesis o proyecto de título",
+        "la relación de supervisión es el método"
+      ]
+    ]
+  },
+  {
+    "part": 15,
+    "titulo": "Gestión y liderazgo educativo",
+    "lema": "Un director no enseña a más estudiantes: crea las condiciones para que otros enseñen mejor",
+    "etapa": "D",
+    "poblacion": "equipos directivos, jefaturas técnicas y coordinaciones",
+    "contenido_central": "Liderazgo pedagógico, cultura organizacional, observación de clases, retroalimentación a docentes, comunidades profesionales de aprendizaje, planificación estratégica, gestión de equipos, indicadores, mejora escolar, innovación y ética directiva",
+    "resumen": [
+      "La investigación sobre liderazgo escolar entrega un resultado consistente y útil: el efecto del liderazgo sobre el aprendizaje es real pero indirecto, y la práctica directiva con mayor efecto es la participación en el desarrollo profesional de los docentes. Dicho sin adornos: el director que aprende junto a sus profesores sobre cómo enseñar mejor produce más efecto que el que administra impecablemente o el que inspira sin entrar a las salas.",
+      "La segunda idea es que la mejora escolar sostenida no se produce por planes anuales ambiciosos, sino por ciclos cortos de indagación con evidencia: identificar un problema específico, probar un cambio acotado, medir, ajustar. La tradición de mejora continua aplicada a escuelas —ciclos de indagación, redes de mejoramiento— tiene mejor rendimiento que las reformas internas de gran escala, que suelen agotar al equipo antes de producir resultados.",
+      "El tercer eje es la confianza relacional. Los estudios longitudinales sobre escuelas que mejoran muestran que la confianza entre docentes, directivos y familias no es un valor blando sino una condición material: donde no existe, ninguna estrategia técnica prende. Por eso esta parte trata la observación de clases y la retroalimentación a docentes como prácticas de alto riesgo relacional que deben diseñarse con reglas explícitas."
+    ],
+    "resultados": [
+      "Ejercer liderazgo pedagógico centrado en el aprendizaje profesional del equipo",
+      "Observar clases y retroalimentar docentes sin dañar la confianza y con foco en la práctica",
+      "Conducir un ciclo de mejora con datos, hipótesis, intervención acotada y verificación",
+      "Construir indicadores institucionales que informen decisiones en vez de decorar informes"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    DI[\"Diagnostico institucional<br/>datos y evidencia\"] --> FO[\"Foco de mejora<br/>acotado y verificable\"]\n    FO --> LP[\"Liderazgo pedagogico<br/>participar del aprendizaje docente\"]\n    LP --> OB[\"Observacion de clases\"]\n    OB --> RF[\"Retroalimentacion<br/>sobre la practica\"]\n    RF --> CPA[\"Comunidad profesional<br/>de aprendizaje\"]\n    CPA --> CI{{\"Ciclo de mejora<br/>probar · medir · ajustar\"}}\n    CI --> IND[\"Indicadores<br/>que informan decisiones\"]\n    IND --> DI\n    CONF[\"Confianza relacional\"] --> CPA\n    CI --> PY[\"Plan de mejora institucional<br/>proyecto integrador\"]\n```",
+    "marco": [
+      "liderazgo centrado en el aprendizaje y sus prácticas de mayor efecto",
+      "mejora continua e indagación por ciclos en organizaciones escolares",
+      "confianza relacional como condición de la mejora sostenida",
+      "Marco para la Buena Dirección y Liderazgo Escolar y planificación institucional en Chile"
+    ],
+    "autores": "Viviane Robinson, Kenneth Leithwood, Michael Fullan, Anthony Bryk, Andy Hargreaves, equipos del Centro de Liderazgo Educativo y del sistema de educación pública chileno",
+    "riesgos": [
+      "Confundir liderazgo con carisma o con control administrativo.",
+      "Observar clases sin acuerdo previo sobre foco, uso y confidencialidad.",
+      "Fijar metas institucionales sin línea base ni medio de verificación.",
+      "Iniciar más cambios de los que el equipo puede sostener a la vez."
+    ],
+    "lecturas": [
+      [
+        "Robinson, V. (2011). *Student-Centered Leadership*.",
+        "identifica y ordena por efecto las prácticas de liderazgo con impacto en el aprendizaje."
+      ],
+      [
+        "Leithwood, K. et al. (2020). *Seven Strong Claims about Successful School Leadership Revisited*. School Leadership & Management, 40(1).",
+        "actualiza qué se sabe con evidencia sobre liderazgo escolar y qué sigue siendo suposición."
+      ],
+      [
+        "Bryk, A. & Schneider, B. (2002). *Trust in Schools*.",
+        "muestra con datos longitudinales por qué la confianza es condición y no consecuencia de la mejora."
+      ],
+      [
+        "Bryk, A. et al. (2015). *Learning to Improve*.",
+        "traslada la mejora continua a la escuela: problemas específicos, ciclos cortos y redes de aprendizaje."
+      ]
+    ],
+    "evidencias": [
+      "un diagnóstico institucional con datos y foco de mejora justificado;",
+      "un protocolo de observación y retroalimentación acordado con el equipo;",
+      "un ciclo de mejora ejecutado con línea base, intervención y resultado;",
+      "el plan de mejora institucional con indicadores y responsables."
+    ],
+    "contextos": [
+      [
+        "Escuela pequeña con equipo reducido",
+        "el directivo también hace clases"
+      ],
+      [
+        "Establecimiento grande con varios ciclos",
+        "la coordinación entre niveles es el problema"
+      ],
+      [
+        "Institución con resultados descendentes",
+        "hay urgencia y baja confianza inicial"
+      ],
+      [
+        "Equipo con alta rotación docente",
+        "el conocimiento institucional se pierde cada año"
+      ],
+      [
+        "Institución de educación superior",
+        "gobierno colegiado y autonomía académica"
+      ],
+      [
+        "Organización de capacitación",
+        "los indicadores son contractuales y externos"
+      ]
+    ]
+  },
+  {
+    "part": 16,
+    "titulo": "Investigación educativa",
+    "lema": "Una pregunta bien formulada vale más que un método sofisticado",
+    "etapa": "E",
+    "poblacion": "investigación aplicada, tesis de magíster e investigación institucional",
+    "contenido_central": "Epistemología, pregunta y problema, revisión de literatura, marco teórico, diseños cuantitativos, cualitativos y mixtos, muestreo, estadística, análisis temático, ética y reproducibilidad",
+    "resumen": [
+      "La mayor parte de las tesis educativas fracasa antes del método, en la pregunta. Preguntas demasiado amplias, preguntas que ya tienen respuesta en la literatura, preguntas cuya respuesta no cambiaría ninguna decisión. Esta parte dedica su primer tercio a ese trabajo poco glamoroso: convertir una inquietud profesional en una pregunta investigable, delimitada, conectada con lo que ya se sabe y con consecuencias claras según el resultado.",
+      "El segundo tercio enseña diseños con su lógica, no como catálogo. Un diseño no es una etiqueta: es un argumento sobre cómo se descartan explicaciones alternativas. Quien entiende esa lógica sabe por qué un pretest-postest sin grupo de comparación no permite atribuir el cambio a la intervención, y por qué un estudio de casos bien hecho puede sostener afirmaciones fuertes sobre mecanismos aunque no generalice a poblaciones.",
+      "El último tercio es ética y reproducibilidad, y en educación tiene urgencia particular: se investiga con menores de edad, en instituciones con relaciones de poder, y con datos sensibles. Además, el campo arrastra la crisis de replicación de la psicología. Preregistrar, reportar tamaños de efecto con intervalos, publicar instrumentos y datos cuando es posible, y reconocer limitaciones sin adornos, es lo que separa una investigación defendible de una que solo suena bien."
+    ],
+    "resultados": [
+      "Formular una pregunta de investigación delimitada, relevante e investigable",
+      "Escoger y justificar un diseño en función de la pregunta y no de la preferencia",
+      "Analizar datos cuantitativos o cualitativos con procedimientos trazables",
+      "Someter la investigación a estándares éticos y de reproducibilidad verificables"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    PB[\"Problema profesional\"] --> PR{{\"Pregunta investigable<br/>delimitada y con consecuencia\"}}\n    PR --> RL[\"Revision de literatura<br/>que se sabe ya\"]\n    RL --> MT[\"Marco teorico\"]\n    MT --> DI[\"Diseno<br/>cuantitativo · cualitativo · mixto\"]\n    DI --> MU[\"Muestreo y acceso al campo\"]\n    MU --> DA[\"Recoleccion de datos\"]\n    DA --> AN[\"Analisis\"]\n    AN --> LI[\"Limitaciones declaradas\"]\n    ET[\"Etica y reproducibilidad\"] --> DA\n    ET --> AN\n    LI --> PY[\"Investigacion de nivel magister<br/>proyecto integrador\"]\n```",
+    "marco": [
+      "epistemología y supuestos de los paradigmas de investigación educativa",
+      "diseños experimentales, cuasiexperimentales y observacionales, y sus amenazas a la validez",
+      "métodos cualitativos: casos, etnografía, análisis temático y criterios de rigor",
+      "ética de la investigación con personas y prácticas de ciencia abierta"
+    ],
+    "autores": "William Shadish, Thomas Cook y Donald Campbell, John Creswell, Robert Yin, Virginia Braun y Victoria Clarke, Yvonna Lincoln y Egon Guba, Brian Nosek y el movimiento de ciencia abierta",
+    "riesgos": [
+      "Elegir el método antes de tener la pregunta delimitada.",
+      "Atribuir causalidad a diseños que no la permiten.",
+      "Reportar significación estadística sin tamaño de efecto ni intervalo.",
+      "Investigar con menores o en la propia institución sin resguardos éticos explícitos."
+    ],
+    "lecturas": [
+      [
+        "Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs for Generalized Causal Inference*.",
+        "la referencia sobre amenazas a la validez; enseña a leer qué puede y qué no puede afirmar un diseño."
+      ],
+      [
+        "Creswell, J. & Creswell, J. D. (2018). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches*.",
+        "buena entrada comparada a los tres enfoques con criterios de elección explícitos."
+      ],
+      [
+        "Braun, V. & Clarke, V. (2006). *Using Thematic Analysis in Psychology*. Qualitative Research in Psychology, 3(2).",
+        "el procedimiento de análisis temático más usado y peor aplicado; léelo antes de decir que hiciste análisis temático."
+      ],
+      [
+        "Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*. Science, 349(6251).",
+        "el estudio que obliga a leer con cautela cualquier hallazgo único no replicado."
+      ]
+    ],
+    "evidencias": [
+      "una pregunta de investigación con su justificación y su delimitación;",
+      "una revisión de literatura con estrategia de búsqueda documentada;",
+      "un protocolo de investigación con diseño, instrumentos y plan de análisis;",
+      "el informe final con limitaciones y consideraciones éticas declaradas."
+    ],
+    "contextos": [
+      [
+        "Investigación en la propia aula",
+        "el rol dual docente-investigador exige resguardos"
+      ],
+      [
+        "Investigación institucional",
+        "hay intereses organizacionales sobre el resultado"
+      ],
+      [
+        "Estudio con menores de edad",
+        "consentimiento, asentimiento y resguardo de datos"
+      ],
+      [
+        "Estudio con datos administrativos",
+        "acceso, anonimización y sesgo de registro"
+      ],
+      [
+        "Evaluación de una intervención",
+        "el diseño decide si podrás atribuir el efecto"
+      ],
+      [
+        "Investigación cualitativa de campo",
+        "acceso, reflexividad y criterios de rigor"
+      ]
+    ]
+  },
+  {
+    "part": 17,
+    "titulo": "Investigación doctoral y formación de formadores",
+    "lema": "Aportar conocimiento nuevo y, después, enseñar a otros a producirlo",
+    "etapa": "E",
+    "poblacion": "nivel doctoral, dirección de tesis y formación docente",
+    "contenido_central": "Originalidad y contribución, diseños avanzados, modelos longitudinales y multinivel, metaanálisis y revisión sistemática, investigación basada en diseño, analítica avanzada, escritura científica, publicación, dirección de tesis y formación de docentes",
+    "resumen": [
+      "El salto doctoral no es de cantidad sino de tipo: ya no basta con aplicar bien un método, hay que sostener una contribución original y defenderla ante quienes conocen el campo mejor que uno en aspectos puntuales. Esta parte trabaja explícitamente qué cuenta como contribución en educación —un mecanismo explicado, un instrumento validado, una síntesis que reorganiza la evidencia, una teoría refutada— y cómo se argumenta que la propia lo es.",
+      "Técnicamente, la parte incorpora los diseños que el nivel exige: datos anidados que obligan a modelos multinivel porque los estudiantes están dentro de cursos y los cursos dentro de escuelas; medidas repetidas que permiten estudiar trayectorias; síntesis cuantitativa de evidencia acumulada; e investigación basada en diseño, que produce a la vez una intervención y una teoría sobre por qué funciona. No se trata de dominar todo el aparato estadístico, sino de saber qué exige cada pregunta y cuándo hay que trabajar con un especialista.",
+      "El cierre del programa es la formación de formadores, y no por simetría: porque enseñar a enseñar es el único modo de que este trabajo escale. La evidencia sobre desarrollo profesional docente es clara en lo que no funciona —talleres aislados sin seguimiento— y razonablemente clara en lo que sí: foco en el contenido, duración sostenida, práctica con retroalimentación y acompañamiento en el puesto. El proyecto final del programa es exactamente eso: un dispositivo de formación docente defendible con evidencia."
+    ],
+    "resultados": [
+      "Delimitar y defender una contribución original al conocimiento educativo",
+      "Escoger diseños avanzados coherentes con la estructura real de los datos",
+      "Escribir y publicar según los estándares de la comunidad científica del campo",
+      "Diseñar y evaluar un programa de formación de docentes basado en evidencia"
+    ],
+    "mapa": "```mermaid\nflowchart TB\n    OR{{\"Originalidad<br/>que se sabe y que falta\"}} --> CO[\"Contribucion<br/>mecanismo · instrumento · sintesis · teoria\"]\n    CO --> DA[\"Disenos avanzados<br/>longitudinal · multinivel · DBR\"]\n    DA --> SI[\"Sintesis<br/>metaanalisis y revision sistematica\"]\n    SI --> ES[\"Escritura cientifica\"]\n    ES --> PU[\"Publicacion y revision por pares\"]\n    PU --> DT[\"Direccion y evaluacion de tesis\"]\n    DT --> FF[\"Formacion de formadores\"]\n    FF --> PY[\"Propuesta doctoral defendible<br/>proyecto integrador\"]\n```",
+    "marco": [
+      "criterios de originalidad y contribución en investigación educativa",
+      "modelos multinivel y longitudinales para datos anidados y repetidos",
+      "síntesis de evidencia: revisión sistemática y metaanálisis",
+      "desarrollo profesional docente efectivo y su evaluación"
+    ],
+    "autores": "Harris Cooper, Larry Hedges, Ann Brown y Allan Collins, Stephen Raudenbush y Anthony Bryk, Linda Darling-Hammond, Laura Desimone, Matthew Kraft, Robert Coe",
+    "riesgos": [
+      "Confundir novedad temática con contribución al conocimiento.",
+      "Analizar datos anidados como si fueran independientes.",
+      "Sintetizar estudios heterogéneos sin evaluar su calidad ni su sesgo de publicación.",
+      "Formar docentes con talleres aislados y esperar cambio en la práctica."
+    ],
+    "lecturas": [
+      [
+        "Raudenbush, S. & Bryk, A. (2002). *Hierarchical Linear Models*.",
+        "la referencia sobre datos anidados; explica por qué ignorar la estructura infla la significación."
+      ],
+      [
+        "Cooper, H., Hedges, L. & Valentine, J. (eds.) (2019). *The Handbook of Research Synthesis and Meta-Analysis*.",
+        "el manual estándar para hacer y para juzgar síntesis cuantitativas."
+      ],
+      [
+        "Design-Based Research Collective (2003). *Design-Based Research: An Emerging Paradigm for Educational Inquiry*. Educational Researcher, 32(1).",
+        "define el paradigma que produce intervención y teoría a la vez; útil para tesis aplicadas."
+      ],
+      [
+        "Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. Learning Policy Institute.",
+        "sintetiza qué caracteriza al desarrollo profesional que sí cambia la práctica docente."
+      ]
+    ],
+    "evidencias": [
+      "un argumento escrito de originalidad y contribución, revisado por pares;",
+      "un plan de análisis avanzado coherente con la estructura de los datos;",
+      "un manuscrito en formato de artículo listo para someter a revisión;",
+      "un programa de formación de formadores con su diseño de evaluación."
+    ],
+    "contextos": [
+      [
+        "Tesis doctoral en curso",
+        "la contribución debe delimitarse y defenderse"
+      ],
+      [
+        "Investigación con datos anidados",
+        "estudiantes en cursos, cursos en escuelas"
+      ],
+      [
+        "Síntesis de evidencia acumulada",
+        "calidad de estudios y sesgo de publicación"
+      ],
+      [
+        "Investigación basada en diseño",
+        "intervención y teoría se construyen a la vez"
+      ],
+      [
+        "Dirección de tesis de otros",
+        "el método pasa a ser la relación de supervisión"
+      ],
+      [
+        "Programa de formación docente",
+        "el criterio final es el cambio en la práctica"
+      ]
+    ]
+  }
 ]

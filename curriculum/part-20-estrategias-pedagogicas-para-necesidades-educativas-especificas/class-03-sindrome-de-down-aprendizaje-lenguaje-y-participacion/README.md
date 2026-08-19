@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down*. | el perfil de aprendizaje descrito con implicancias operativas de aula. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo*. | el marco de apoyos que sustituye a la clasificación por nivel de déficit. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down* (edición vigente). | el perfil de aprendizaje descrito con implicancias operativas de aula. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo* (edición vigente). | el marco de apoyos que sustituye a la clasificación por nivel de déficit. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down*. **Uso en esta clase:** el perfil de aprendizaje descrito con implicancias operativas de aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo*. **Uso en esta clase:** el marco de apoyos que sustituye a la clasificación por nivel de déficit. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down* (edición vigente). **Uso en esta clase:** el perfil de aprendizaje descrito con implicancias operativas de aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo* (edición vigente). **Uso en esta clase:** el marco de apoyos que sustituye a la clasificación por nivel de déficit. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

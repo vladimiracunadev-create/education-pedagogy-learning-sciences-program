@@ -1,361 +1,666 @@
 [
-{"n":85,"evidencia":"EN-DEBATE",
- "foco":"qué supuestos sobre el adulto que aprende son útiles como hipótesis de diseño y cuáles se repiten sin evidencia",
- "proposito":"Usar los supuestos andragógicos —autonomía, experiencia, orientación a problemas, motivación interna, necesidad de saber por qué— como hipótesis de diseño verificables, y no como leyes del aprendizaje adulto.",
- "decision":"determinar qué supuesto andragógico se cumple en tu grupo real y cuál no",
- "entregable":"un diagnóstico de tu grupo adulto que contraste los supuestos andragógicos con lo que efectivamente observas",
- "conceptos":[
-  ["Andragogía","conjunto de supuestos sobre cómo aprenden los adultos, formulado como alternativa a la pedagogía escolar"],
-  ["Necesidad de saber por qué","exigencia adulta de comprender la utilidad de lo que se le pide aprender"],
-  ["Autoconcepto de autonomía","imagen de sí mismo como persona que decide; se resiente con formatos escolares infantilizantes"],
-  ["Orientación a la tarea","preferencia por aprendizajes organizados en torno a problemas reales y no a materias"]],
- "desarrollo":"Los supuestos andragógicos describen bien a un adulto concreto: el que asiste voluntariamente, con experiencia relevante y motivación clara. Describen mal al que fue enviado por su jefatura, al que retoma estudios interrumpidos con historia de fracaso o al que carece de base en la materia. Tratar los supuestos como universales lleva a diseños que suponen autonomía donde hay inseguridad y experiencia donde hay vacío.",
- "practica":"El uso profesional es diagnóstico: antes de diseñar, comprobar cuál de los supuestos se cumple en este grupo. Si el grupo no eligió estar, hay que ganar la relevancia explícitamente. Si tiene poca base, el andamiaje debe ser mayor, no menor. Si trae experiencia contradictoria con lo que se enseñará, hay que hacerla explícita antes de intentar corregirla.",
- "limites":"La andragogía ha sido criticada por su débil base empírica: sus supuestos son razonables y poco contrastados con diseños rigurosos. Además, las diferencias entre adultos y adolescentes son de grado y de contexto más que de mecanismo cognitivo: la memoria de trabajo, la carga y la práctica de recuperación funcionan igual en ambos.",
- "errores":[
-  "Suponer autonomía y experiencia en un grupo que no las tiene y retirar el andamiaje.",
-  "Aplicar formatos escolares infantilizantes a adultos y perder legitimidad en la primera sesión."],
- "criterios":[
-  "el diagnóstico contrasta cada supuesto con evidencia observada del grupo real;",
-  "las decisiones de diseño se ajustan a los supuestos que no se cumplen;"],
- "preguntas":[
-  "¿Tu grupo eligió estar aquí?",
-  "¿Qué experiencia previa relevante tiene realmente, y cómo lo comprobaste?",
-  "¿Qué parte de tu diseño supone una autonomía que este grupo aún no tiene?"],
- "lecturas":[
-  ["Knowles, M. (1984). *The Adult Learner*.","la formulación clásica de los supuestos; imprescindible como referencia y como objeto de crítica."],
-  ["Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*.","revisa críticamente la andragogía y separa lo respaldado de lo asumido."]],
- "inclusion":"Los adultos con menor escolaridad previa suelen ser los que más apoyo necesitan y los que menos lo piden, por temor a exponerse. Un diseño que ofrece apoyo por defecto, sin obligar a solicitarlo, evita esa barrera de vergüenza.",
- "reto":"Aplica un diagnóstico breve a un grupo adulto real y contrástalo con los supuestos. Ajusta dos decisiones de diseño a partir de los supuestos que no se cumplen.",
- "conexion":"Abre la parte 07 y se apoya en la clase 033. Sus resultados condicionan las decisiones de las clases 088 y 096."},
-
-{"n":86,"evidencia":"CONSISTENTE",
- "foco":"cuándo la experiencia previa acelera el aprendizaje y cuándo lo bloquea",
- "proposito":"Convertir la experiencia previa del participante en recurso didáctico y detectar cuándo sostiene creencias erróneas que la formación deberá confrontar de manera explícita.",
- "decision":"determinar qué experiencia previa vas a usar como anclaje y cuál vas a confrontar",
- "entregable":"un instrumento de activación de experiencia previa con el uso previsto de cada respuesta esperada",
- "conceptos":[
-  ["Anclaje","conexión entre el contenido nuevo y una experiencia previa que le da sentido"],
-  ["Creencia arraigada","idea sostenida por experiencia personal, resistente al argumento y frecuente en adultos con oficio"],
-  ["Desaprendizaje","proceso de abandonar una práctica o creencia consolidada; más costoso que aprender algo nuevo"],
-  ["Validación de la experiencia","reconocimiento explícito de lo que el participante sabe antes de corregir lo que sabe mal"]],
- "desarrollo":"La experiencia adulta es un recurso y un obstáculo a la vez. Un técnico con quince años de oficio aprende rápido lo que se conecta con su práctica y se resiste a lo que la contradice, sobre todo si su método le ha funcionado. Ese desaprendizaje es costoso y no ocurre por autoridad del instructor: requiere evidencia que el participante pueda comprobar y un reconocimiento previo de lo que sí sabe hacer.",
- "practica":"El instrumento de activación cumple dos funciones: revela qué experiencia existe y expone las creencias que habrá que confrontar. La secuencia eficaz reconoce primero lo válido de la práctica actual, muestra después la situación donde falla, y solo entonces ofrece la alternativa. Invertir ese orden produce resistencia inmediata y pérdida de credibilidad del formador.",
- "limites":"No toda creencia arraigada es errónea: a veces el participante sabe algo del contexto real que el diseño de formación ignora. Un formador que descarta la experiencia por principio pierde información valiosa y credibilidad. La regla es tratarla como hipótesis a comprobar, en ambas direcciones.",
- "errores":[
-  "Corregir la práctica del participante antes de reconocer lo que su experiencia tiene de válido.",
-  "Descartar objeciones basadas en experiencia sin comprobar si el diseño ignora algo del contexto real."],
- "criterios":[
-  "el instrumento anticipa qué creencias erróneas revelará y cómo se confrontarán;",
-  "el diseño reconoce explícitamente la experiencia válida antes de proponer el cambio;"],
- "preguntas":[
-  "¿Qué cree tu grupo que sabe hacer bien y en realidad hace mal?",
-  "¿Qué evidencia comprobable por ellos mismos mostraría el problema?",
-  "¿Qué te está diciendo su objeción sobre el contexto real que tu diseño ignora?"],
- "lecturas":[
-  ["Mezirow, J. (1991). *Transformative Dimensions of Adult Learning*.","explica cómo se revisan supuestos consolidados y qué condiciones lo hacen posible."],
-  ["Schön, D. (1983). *The Reflective Practitioner*.","describe el conocimiento en la acción del profesional experimentado y su resistencia al cambio."]],
- "inclusion":"Reconocer la experiencia adquirida fuera del sistema formal es un acto de inclusión concreto para trabajadores sin credenciales. En Chile y en otros sistemas existen procedimientos de reconocimiento de aprendizajes previos que conviene conocer y usar.",
- "reto":"Aplica tu instrumento a un grupo real. Escoge la creencia errónea más extendida y diseña la evidencia que permitirá al propio participante detectar el problema.",
- "conexion":"Se apoya en la clase 015 y alimenta las clases 089 y 094."},
-
-{"n":87,"evidencia":"CONSISTENTE",
- "foco":"por qué la autonomía en el aprendizaje se enseña y no se supone, sobre todo en formación en línea",
- "proposito":"Desarrollar aprendizaje autodirigido con apoyos explícitos —metas, planificación, monitoreo, ajuste— en vez de suponer que el adulto ya sabe estudiar por su cuenta.",
- "decision":"determinar qué apoyos a la autorregulación incorporará tu programa para sostener el trabajo autónomo",
- "entregable":"un dispositivo de apoyo a la autodirección con metas, plan, seguimiento y punto de contacto ante el abandono",
- "conceptos":[
-  ["Aprendizaje autodirigido","proceso en que la persona define metas, organiza recursos y evalúa su propio avance"],
-  ["Contrato de aprendizaje","acuerdo explícito sobre metas, plazos, evidencia y apoyos disponibles"],
-  ["Monitoreo del avance","seguimiento sistemático que permite detectar el rezago antes del abandono"],
-  ["Punto de contacto","persona o instancia a la que el participante puede recurrir cuando se atrasa"]],
- "desarrollo":"La deserción es el principal problema de la formación adulta y en línea, y su causa más frecuente no es la falta de interés sino la ausencia de estructura: el participante se atrasa, la deuda se acumula y abandonar se vuelve la salida menos costosa. Los dispositivos de apoyo a la autodirección —metas explícitas, plazos intermedios, seguimiento activo y un contacto humano cuando aparece el rezago— reducen esa dinámica.",
- "practica":"Un contrato de aprendizaje breve, con metas y plazos acordados, funciona mejor que cualquier discurso sobre responsabilidad. El seguimiento debe ser proactivo: detectar el rezago en la semana dos y contactar, en vez de constatar el abandono en la semana seis. Y el contacto debe ofrecer una vía de reincorporación concreta, no solo un recordatorio.",
- "limites":"La autodirección no es un rasgo estable: la misma persona es autónoma en su oficio y dependiente en un contenido nuevo. Suponerla por edad es un error frecuente. Además, la evidencia sobre intervenciones contra la deserción en línea muestra efectos modestos, muy dependientes del contacto humano real.",
- "errores":[
-  "Suponer autonomía por edad y no incorporar apoyos ni seguimiento.",
-  "Detectar el rezago demasiado tarde, cuando la deuda acumulada ya hace inviable la reincorporación."],
- "criterios":[
-  "el dispositivo define metas, plazos intermedios y un mecanismo de detección temprana del rezago;",
-  "existe un punto de contacto humano identificado con una vía concreta de reincorporación;"],
- "preguntas":[
-  "¿En qué semana detectas que un participante se está quedando atrás?",
-  "¿Qué pasa exactamente cuando lo detectas?",
-  "¿Qué apoyo a la autorregulación ofreces además de recordatorios?"],
- "lecturas":[
-  ["Zimmerman, B. (2002). *Becoming a Self-Regulated Learner*.","modelo de autorregulación con fases y estrategias enseñables."],
-  ["Education Endowment Foundation (2018). *Metacognition and Self-Regulated Learning*.","evidencia sobre qué apoyos a la autorregulación funcionan y con qué magnitud."]],
- "inclusion":"Los participantes con menos tiempo, peor conectividad o menos experiencia académica previa son los primeros en desertar. Un sistema de detección temprana los alcanza antes de que la brecha se vuelva irreversible, que es precisamente cuando el apoyo aún sirve.",
- "reto":"Implementa detección de rezago en la semana dos de un programa. Contacta a quienes se atrasan y compara la retención con la de una edición anterior.",
- "conexion":"Aplica la clase 021 a la formación adulta y sostiene las clases 091 y 096."},
-
-{"n":88,"evidencia":"CONSISTENTE",
- "foco":"por qué un adulto obligado a capacitarse puede aprender y uno voluntario puede abandonar",
- "proposito":"Diseñar para la motivación adulta a partir de sus determinantes reales —relevancia inmediata, expectativa de éxito, costo percibido y clima de respeto— en vez de apelar a la voluntad del participante.",
- "decision":"determinar qué determinante motivacional está bloqueando la participación real de tu grupo",
- "entregable":"un diagnóstico motivacional del grupo con la intervención de diseño correspondiente a cada determinante",
- "conceptos":[
-  ["Relevancia inmediata","relación visible entre lo que se aprende y un problema que el participante tiene ahora"],
-  ["Costo percibido","tiempo, esfuerzo y renuncias que el participante asocia a completar la formación"],
-  ["Expectativa de éxito","creencia de poder lograrlo, muy afectada por historias previas de fracaso académico"],
-  ["Clima de respeto","trato que reconoce al adulto como profesional y no como alumno que debe ser controlado"]],
- "desarrollo":"La motivación adulta se explica mejor por costos y beneficios percibidos que por rasgos personales. Un participante obligado puede comprometerse si ve utilidad inmediata; uno voluntario abandona si el costo en tiempo supera el beneficio esperado. El costo es la variable más subestimada por quienes diseñan: cada hora adicional no declarada compite con trabajo, familia y descanso.",
- "practica":"Las intervenciones eficaces reducen costo y aumentan relevancia: respetar el tiempo declarado sin encargos encubiertos, permitir aplicar de inmediato lo aprendido, partir de un problema real del participante y garantizar una experiencia temprana de éxito. El clima de respeto es la condición de base: un adulto tratado como escolar desconecta aunque el contenido sea excelente.",
- "limites":"Ninguna intervención motivacional compensa una formación irrelevante o una organización que no permite aplicar lo aprendido. Cuando el entorno de trabajo bloquea la transferencia, la desmotivación es una respuesta racional. Diagnosticar eso evita atribuir al participante un problema que es organizacional.",
- "errores":[
-  "Atribuir la baja participación a falta de compromiso sin revisar el costo real que impone el diseño.",
-  "Tratar a profesionales adultos con formatos y controles propios de la escuela."],
- "criterios":[
-  "el diagnóstico identifica el determinante bloqueado con evidencia y no con suposición;",
-  "la intervención propuesta reduce costo o aumenta relevancia de forma verificable;"],
- "preguntas":[
-  "¿Cuántas horas reales cuesta tu programa, contando todo?",
-  "¿Qué problema actual del participante resuelve la sesión de mañana?",
-  "¿Qué señal de tu diseño le comunica que no lo tratas como profesional?"],
- "lecturas":[
-  ["Wlodkowski, R. (2008). *Enhancing Adult Motivation to Learn*.","marco práctico de motivación adulta con estrategias verificables por sesión."],
-  ["Wigfield, A. & Eccles, J. (2000). *Expectancy–Value Theory*.","aporta el análisis de costo percibido, decisivo en formación de adultos que trabajan."]],
- "inclusion":"Los participantes con responsabilidades de cuidado, turnos rotativos o empleos informales enfrentan costos mucho mayores por la misma formación. Un diseño equitativo ajusta horarios, ofrece asincronía real y no penaliza la inasistencia inevitable.",
- "reto":"Calcula el costo horario real de tu programa y compáralo con lo declarado. Reduce la diferencia y compara la asistencia con la edición anterior.",
- "conexion":"Aplica la clase 022 al mundo adulto y condiciona el diseño de las clases 089 y 096."},
-
-{"n":89,"evidencia":"CONSISTENTE",
- "foco":"por qué la mayoría de la capacitación laboral no cambia nada en el puesto de trabajo",
- "proposito":"Diseñar capacitación laboral con foco en la transferencia: análisis de necesidades real, objetivos de desempeño y condiciones organizacionales que permitan aplicar lo aprendido.",
- "decision":"determinar qué desempeño debe cambiar en el puesto y qué condiciones organizacionales lo permitirán",
- "entregable":"un diseño de capacitación con análisis de necesidades, objetivos de desempeño y plan de transferencia acordado con la jefatura",
- "conceptos":[
-  ["Análisis de necesidades","diagnóstico que distingue si el problema se resuelve con formación o con otra intervención"],
-  ["Objetivo de desempeño","cambio observable en el trabajo, distinto de un objetivo de conocimiento"],
-  ["Transferencia","aplicación efectiva de lo aprendido en el puesto de trabajo"],
-  ["Clima de transferencia","condiciones organizacionales —apoyo, oportunidad, tiempo, herramientas— que permiten aplicar"]],
- "desarrollo":"Buena parte de los problemas que se derivan a capacitación no son problemas de formación: son de proceso, de herramientas, de incentivos o de dotación. Capacitar a alguien que ya sabe hacer algo pero no puede hacerlo produce frustración y desperdicia recursos. Por eso el análisis de necesidades debe empezar preguntando si el desempeño falla por no saber, por no poder o por no querer, porque cada causa tiene una solución distinta.",
- "practica":"Cuando la formación sí corresponde, el diseño se organiza desde el desempeño esperado en el puesto y no desde el contenido. El plan de transferencia se acuerda antes con la jefatura: qué podrá aplicar el participante, cuándo, con qué apoyo y cómo se verificará. Sin ese acuerdo, la capacitación termina el viernes y el lunes todo vuelve a ser igual.",
- "limites":"La evidencia sobre transferencia muestra que los factores organizacionales pesan tanto como el diseño instruccional, y que muchos programas exitosos en aprendizaje fracasan en transferencia por razones ajenas a la formación. Reconocerlo evita responsabilizar al formador de lo que decide la organización.",
- "errores":[
-  "Aceptar una solicitud de capacitación sin verificar si el problema es de formación.",
-  "Diseñar sin acordar con la jefatura las condiciones que permitirán aplicar lo aprendido."],
- "criterios":[
-  "el análisis de necesidades descarta explícitamente causas no formativas;",
-  "existe un plan de transferencia acordado con quien controla las condiciones del puesto;"],
- "preguntas":[
-  "¿El desempeño falla por no saber, por no poder o por no querer?",
-  "¿Qué podrá hacer distinto el participante el lunes siguiente?",
-  "¿Quién debe autorizar que lo haga y ya está de acuerdo?"],
- "lecturas":[
-  ["Baldwin, T. & Ford, J. K. (1988). *Transfer of Training*. Personnel Psychology, 41.","el modelo clásico de transferencia y sus factores organizacionales."],
-  ["Blume, B. et al. (2010). *Transfer of Training: A Meta-Analytic Review*. Journal of Management, 36(4).","síntesis cuantitativa sobre qué predice realmente la transferencia."]],
- "inclusion":"Los trabajadores con menos poder en la organización son los que menos oportunidad tienen de aplicar lo aprendido, y por eso los programas dirigidos a ellos muestran menos transferencia. Negociar esa condición es parte del diseño, no un asunto ajeno.",
- "reto":"Toma una solicitud de capacitación real y aplica el análisis de necesidades. Documenta si la formación era la solución correcta y qué propusiste en caso contrario.",
- "conexion":"Es el núcleo aplicado de la parte 07 y se cierra con la clase 095 (evaluación) y la clase 096."},
-
-{"n":90,"evidencia":"EMERGENTE",
- "foco":"cómo se diseña formación para alguien que debe cambiar de oficio, no perfeccionar el suyo",
- "proposito":"Diseñar programas de reconversión y actualización con diagnóstico de brecha, reconocimiento de lo transferible y una ruta realista en tiempo y en costo para el participante.",
- "decision":"determinar qué brecha específica separa el perfil actual del perfil objetivo y en qué orden se cierra",
- "entregable":"un plan de reconversión con brecha diagnosticada, ruta formativa priorizada y estimación realista de tiempo",
- "conceptos":[
-  ["Reconversión","cambio hacia un oficio distinto, que exige competencias nuevas y no solo actualización"],
-  ["Actualización","mejora de competencias dentro del mismo oficio ante cambios tecnológicos o normativos"],
-  ["Brecha de competencias","diferencia entre el perfil actual de la persona y el perfil objetivo del puesto"],
-  ["Competencia transferible","capacidad del oficio anterior que sigue siendo válida en el nuevo contexto"]],
- "desarrollo":"La reconversión falla habitualmente por dos razones opuestas: subestimar la brecha —cursos breves que prometen cambiar de rubro— o ignorar lo transferible, obligando a empezar de cero a personas con veinte años de experiencia laboral. Un diagnóstico serio identifica ambas cosas: qué se conserva y qué falta realmente, con el nivel de detalle de un perfil de competencias.",
- "practica":"La ruta se prioriza por dos criterios: qué competencias son condición para todo lo demás y cuáles permiten un primer resultado laboral temprano. Ese resultado temprano importa: sostiene la motivación y a veces también el ingreso durante el proceso. La estimación de tiempo debe ser honesta, porque una promesa incumplida de empleabilidad tiene costos personales altos.",
- "limites":"La evidencia sobre programas de reconversión es heterogénea y sus resultados dependen fuertemente del mercado laboral local y de la duración del programa. Los programas breves muestran efectos limitados en cambios de rubro profundos. Prometer transiciones rápidas hacia sectores con alta demanda declarada, sin verificar la demanda local, es un riesgo real para el participante.",
- "errores":[
-  "Prometer cambio de oficio con formaciones demasiado breves para la brecha real.",
-  "Ignorar las competencias transferibles y obligar a empezar de cero."],
- "criterios":[
-  "el diagnóstico distingue competencias transferibles de brechas reales, con evidencia;",
-  "la ruta prioriza condiciones previas y un resultado laboral temprano verificable;"],
- "preguntas":[
-  "¿Qué de su oficio anterior sigue siendo válido y lo estás desconociendo?",
-  "¿Cuánto tiempo requiere realmente cerrar esta brecha?",
-  "¿Qué demanda local verificaste antes de recomendar esta ruta?"],
- "lecturas":[
-  ["OCDE. *Getting Skills Right* y estudios sobre reconversión laboral.","evidencia comparada sobre qué programas de reconversión funcionan y bajo qué condiciones."],
-  ["Foro Económico Mundial. *Future of Jobs Report*.","útil para tendencias declaradas de demanda; contrástalo siempre con datos del mercado local."]],
- "inclusion":"Las personas que más necesitan reconvertirse suelen tener menos tiempo, menos ahorro y más responsabilidades de cuidado. Una ruta que ignora esas restricciones excluye precisamente a quienes dice servir.",
- "reto":"Diagnostica la brecha de un caso real de reconversión y construye la ruta. Verifica la demanda laboral local antes de comprometer una recomendación.",
- "conexion":"Se apoya en las clases 083 y 086 y se articula con la clase 089."},
-
-{"n":91,"evidencia":"EMERGENTE",
- "foco":"qué puede y qué no puede enseñar un formato breve consumido en el trabajo",
- "proposito":"Diseñar formación en formatos breves con criterio: qué objetivos admiten microaprendizaje, cómo se secuencia con espaciado y qué contenidos exigen formatos extensos.",
- "decision":"determinar si tu objetivo se puede lograr con un formato breve o si exige sesiones extensas",
- "entregable":"una secuencia de microaprendizaje con objetivos acotados, espaciado planificado y verificación de aprendizaje",
- "conceptos":[
-  ["Microaprendizaje","unidad formativa breve y autocontenida orientada a un objetivo acotado"],
-  ["Espaciado","distribución de las unidades en el tiempo para favorecer retención"],
-  ["Objetivo acotado","aprendizaje que puede lograrse y verificarse en una unidad breve"],
-  ["Fragmentación","riesgo de dividir un contenido complejo hasta perder la comprensión del conjunto"]],
- "desarrollo":"Los formatos breves aprovechan bien dos mecanismos con evidencia: el espaciado y la práctica de recuperación. Funcionan para procedimientos acotados, recordatorios, actualizaciones normativas y refuerzo de contenidos ya enseñados. No funcionan para construir comprensión conceptual compleja, que requiere elaboración sostenida y no cabe en unidades de cinco minutos sin perder precisamente lo que la hace comprensión.",
- "practica":"El diseño exige acotar el objetivo hasta que sea verificable en la unidad, planificar el espaciado entre unidades y verificar aprendizaje en vez de registrar visualizaciones. La tentación habitual es medir consumo —cuántos abrieron la cápsula— que es un indicador de actividad y no de aprendizaje.",
- "limites":"La evidencia específica sobre microaprendizaje es limitada y de calidad variable; lo respaldado son sus mecanismos subyacentes, no el formato como tal. Y su principal riesgo es la fragmentación: contenidos complejos troceados en píldoras producen la ilusión de haber cubierto el tema sin que nadie haya construido el conjunto.",
- "errores":[
-  "Trocear contenido conceptual complejo en cápsulas y suponer que se reconstruye solo.",
-  "Medir visualizaciones o descargas en vez de aprendizaje verificado."],
- "criterios":[
-  "cada unidad tiene un objetivo verificable dentro de su duración;",
-  "la secuencia declara el espaciado y una verificación de aprendizaje, no de consumo;"],
- "preguntas":[
-  "¿Qué objetivo tuyo no cabe en un formato breve y por qué?",
-  "¿Cómo verificas aprendizaje y no solo visualización?",
-  "¿Quién reconstruye el conjunto después de las cápsulas?"],
- "lecturas":[
-  ["Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*.","respalda espaciado y recuperación, que son los mecanismos que justifican el formato."],
-  ["Hug, T. (ed.). *Didactics of Microlearning*.","revisa el campo, sus definiciones y sus límites conceptuales."]],
- "inclusion":"Los formatos breves favorecen a quienes tienen tiempo fragmentado —turnos, cuidado, desplazamientos largos— y por eso amplían el acceso. Requieren, eso sí, accesibilidad real: subtítulos, transcripción y bajo consumo de datos.",
- "reto":"Diseña una secuencia breve con espaciado y verificación. Compara retención a cuatro semanas con la de una sesión única equivalente.",
- "conexion":"Aplica la clase 020 al mundo laboral y se articula con la parte 13 en su implementación tecnológica."},
-
-{"n":92,"evidencia":"CONSISTENTE",
- "foco":"qué hace que una relación de mentoría produzca aprendizaje y no solo conversaciones agradables",
- "proposito":"Diseñar programas de mentoría con estructura: emparejamiento, objetivos acordados, frecuencia, contenido de las sesiones y evaluación de resultados.",
- "decision":"determinar qué estructura mínima necesita tu programa de mentoría para producir resultados verificables",
- "entregable":"un diseño de programa de mentoría con criterios de emparejamiento, acuerdos, frecuencia y evaluación",
- "conceptos":[
-  ["Mentoría","relación en que una persona con más experiencia acompaña el desarrollo de otra en su contexto"],
-  ["Acuerdo de mentoría","documento breve con objetivos, frecuencia, duración y confidencialidad de la relación"],
-  ["Emparejamiento","proceso de asignar mentor y participante según criterios explícitos"],
-  ["Cierre","término planificado de la relación, con evaluación de lo logrado"]],
- "desarrollo":"La mentoría muestra efectos positivos en desarrollo profesional, retención y satisfacción, con magnitudes moderadas y muy dependientes de la estructura. Los programas que funcionan tienen objetivos acordados, frecuencia definida, preparación de los mentores y un cierre planificado. Los que fracasan asignan parejas y esperan que la relación se organice sola, con lo cual la mitad se disuelve en dos meses.",
- "practica":"El acuerdo inicial es el instrumento clave: define qué se espera lograr, cada cuánto se reúnen, cuánto dura el programa y qué es confidencial. La preparación del mentor importa tanto como su experiencia: escuchar, preguntar y dar retroalimentación útil no son habilidades automáticas de quien sabe mucho de su oficio.",
- "limites":"Los efectos reportados provienen sobre todo de estudios correlacionales con autoselección: quienes participan en mentoría suelen ser ya más motivados. Además, una mala relación de mentoría puede ser perjudicial, especialmente si hay asimetría de poder jerárquico entre mentor y participante dentro de la misma organización.",
- "errores":[
-  "Asignar parejas sin acuerdo de objetivos ni frecuencia definida.",
-  "Emparejar con la jefatura directa, lo que impide la franqueza que la relación requiere."],
- "criterios":[
-  "el diseño incluye acuerdo escrito con objetivos, frecuencia, duración y confidencialidad;",
-  "los mentores reciben preparación específica y no solo la designación;"],
- "preguntas":[
-  "¿Qué debería poder hacer el participante al final del programa?",
-  "¿Qué preparación reciben tus mentores?",
-  "¿Qué pasa si la relación no funciona y ambos lo saben?"],
- "lecturas":[
-  ["Eby, L. et al. (2008). *Does Mentoring Matter? A Multidisciplinary Meta-Analysis*.","síntesis de efectos y de sus limitaciones metodológicas."],
-  ["Clutterbuck, D. (2004). *Everyone Needs a Mentor*.","modelo operativo de diseño de programas con acuerdos y estructura."]],
- "inclusion":"La mentoría informal reproduce redes existentes y favorece a quienes ya están conectados. Un programa formal con emparejamiento explícito es una de las pocas formas de dar acceso a esas redes a quienes no las tienen.",
- "reto":"Diseña el acuerdo de mentoría de tu programa y aplícalo a tres parejas. Evalúa a los tres meses qué relaciones se sostuvieron y por qué.",
- "conexion":"Se articula con la clase 093 y con la parte 15, donde el acompañamiento entre pares es una práctica de mejora institucional."},
-
-{"n":93,"evidencia":"EN-DEBATE",
- "foco":"en qué se diferencia acompañar el desempeño de aconsejar desde la propia experiencia",
- "proposito":"Usar el coaching educativo como acompañamiento centrado en el desempeño observable de la persona acompañada, distinguiéndolo de la mentoría, de la supervisión y de la terapia.",
- "decision":"determinar si la situación requiere coaching, mentoría, supervisión o derivación a otro profesional",
- "entregable":"un protocolo de conversación de coaching con su estructura, sus preguntas y sus límites declarados",
- "conceptos":[
-  ["Coaching","acompañamiento estructurado orientado a que la persona mejore un desempeño que ella misma define"],
-  ["Observación de desempeño","base del coaching educativo: se trabaja sobre lo que se observó, no sobre lo que se cree"],
-  ["Pregunta de coaching","intervención que ayuda a analizar el propio desempeño en vez de entregar la respuesta"],
-  ["Límite de rol","frontera entre acompañar el desempeño y abordar asuntos que exigen otro profesional"]],
- "desarrollo":"El coaching instruccional aplicado a docentes muestra efectos prometedores cuando combina observación, retroalimentación específica y práctica, con acompañamiento sostenido en el tiempo. La diferencia con la mentoría es de foco: el mentor comparte experiencia, el coach trabaja sobre el desempeño observado de la otra persona. Confundirlos produce conversaciones donde el acompañante habla de sí mismo.",
- "practica":"Un protocolo funcional tiene estructura: acordar el foco, observar, describir lo observado sin juicio, preguntar, definir un cambio concreto y verificar en la siguiente sesión. Ese ciclo corto y repetido produce más cambio que las conversaciones extensas y ocasionales. Y exige explicitar límites: el coaching no aborda salud mental ni conflictos laborales que requieren otra instancia.",
- "limites":"El término se usa para prácticas muy distintas y buena parte de la oferta comercial carece de base empírica. La evidencia más sólida proviene del coaching instruccional escolar con protocolos definidos; los resultados no se extienden automáticamente a formatos genéricos. Además, los efectos disminuyen al escalar los programas, lo que sugiere alta dependencia de la calidad del coach.",
- "errores":[
-  "Convertir el coaching en consejos basados en la experiencia propia del acompañante.",
-  "Abordar en una conversación de coaching asuntos que exigen derivación profesional."],
- "criterios":[
-  "el protocolo se basa en desempeño observado y define un cambio concreto verificable;",
-  "los límites del rol y los criterios de derivación están declarados por escrito;"],
- "preguntas":[
-  "¿Cuánto habla el coach y cuánto la persona acompañada en tus sesiones?",
-  "¿Qué desempeño concreto observaste antes de conversar?",
-  "¿Dónde termina tu rol y a quién derivas?"],
- "lecturas":[
-  ["Kraft, M., Blazar, D. & Hogan, D. (2018). *The Effect of Teacher Coaching on Instruction and Achievement*. Review of Educational Research, 88(4).","metaanálisis con efectos y con la caída observada al escalar los programas."],
-  ["Knight, J. (2007). *Instructional Coaching*.","modelo operativo de coaching instruccional con protocolos de conversación."]],
- "inclusion":"El coaching puede reproducir relaciones de poder si el acompañante evalúa además el desempeño de la persona. Separar el rol de coach del rol evaluador es condición para que la persona pueda mostrar sus dificultades reales.",
- "reto":"Aplica tu protocolo en tres ciclos con una misma persona. Registra el cambio en el desempeño observado y no solo la percepción de la conversación.",
- "conexion":"Es antecedente directo de la parte 15 (retroalimentación a docentes) y se distingue de la clase 092."},
-
-{"n":94,"evidencia":"CONSISTENTE",
- "foco":"por qué la experiencia sin reflexión estructurada enseña poco, aunque sea intensa",
- "proposito":"Diseñar aprendizaje experiencial con las fases que lo hacen funcionar: experiencia, reflexión estructurada, conceptualización y aplicación deliberada.",
- "decision":"determinar cómo estructurarás la reflexión para que la experiencia produzca aprendizaje transferible",
- "entregable":"el diseño de una actividad experiencial con guion de reflexión, conceptualización explícita y plan de aplicación",
- "conceptos":[
-  ["Ciclo experiencial","secuencia de experiencia concreta, reflexión, conceptualización y experimentación activa"],
-  ["Reflexión estructurada","análisis guiado por preguntas que impide quedarse en la impresión de la experiencia"],
-  ["Conceptualización","paso en que la experiencia se conecta con un modelo o principio que permite transferirla"],
-  ["Simulación","recreación controlada de una situación real para practicar sin consecuencias reales"]],
- "desarrollo":"La experiencia por sí sola es un mal maestro: sin reflexión estructurada, las personas confirman lo que ya creían y recuerdan la anécdota en vez del principio. Las fases de reflexión y conceptualización son las que convierten un ejercicio memorable en aprendizaje transferible, y son también las que se recortan cuando falta tiempo, con lo que se pierde precisamente lo que justificaba la actividad.",
- "practica":"El diseño exige un guion de reflexión con preguntas concretas —qué ocurrió, qué decidiste y por qué, qué habrías hecho distinto, qué principio explica lo que pasó— y un cierre conceptual donde el formador nombre el modelo. La aplicación se planifica al final: qué hará el participante en su contexto real y cuándo se revisará.",
- "limites":"El modelo del ciclo experiencial es una heurística de diseño útil y no una teoría con respaldo experimental fuerte; los estilos de aprendizaje que se derivaron de él no tienen evidencia. Y las simulaciones tienen un límite conocido: su transferencia depende de cuán fielmente reproduzcan las condiciones críticas de la situación real.",
- "errores":[
-  "Recortar la reflexión y la conceptualización por falta de tiempo y quedarse solo con la actividad.",
-  "Usar los estilos de aprendizaje derivados del modelo como criterio de diseño."],
- "criterios":[
-  "el guion de reflexión contiene preguntas concretas y no invitaciones generales a comentar;",
-  "existe un cierre conceptual explícito y un plan de aplicación con fecha de revisión;"],
- "preguntas":[
-  "¿Qué principio debería quedar claro después de esta actividad?",
-  "¿Cuánto tiempo real asignaste a la reflexión frente a la actividad?",
-  "¿Qué condición crítica de la situación real reproduce tu simulación?"],
- "lecturas":[
-  ["Kolb, D. (1984). *Experiential Learning*.","el modelo del ciclo; útil para el diseño de la reflexión, no para clasificar personas."],
-  ["Schön, D. (1983). *The Reflective Practitioner*.","fundamenta la reflexión sobre la acción como mecanismo de aprendizaje profesional."]],
- "inclusion":"Las actividades experienciales pueden exponer a participantes con menos confianza o con experiencias personales sensibles relacionadas con el escenario simulado. Advertir el contenido y permitir roles distintos protege sin excluir.",
- "reto":"Rediseña una actividad experiencial asignando al menos un tercio del tiempo a reflexión y conceptualización. Compara lo que los participantes recuerdan a las cuatro semanas.",
- "conexion":"Se apoya en las clases 023 y 086 y sostiene la práctica de las clases 089 y 096."},
-
-{"n":95,"evidencia":"CONSISTENTE",
- "foco":"por qué la encuesta de satisfacción al final de la sesión no dice casi nada sobre el aprendizaje",
- "proposito":"Evaluar formación de adultos más allá de la reacción: aprendizaje verificado, cambio de conducta en el puesto y resultado organizacional, con instrumentos proporcionales a la decisión.",
- "decision":"determinar qué nivel de evaluación necesitas realmente y qué instrumento lo hace viable",
- "entregable":"un plan de evaluación de un programa con al menos dos niveles y sus instrumentos, más el análisis de sus límites",
- "conceptos":[
-  ["Nivel de reacción","satisfacción declarada por el participante; el más fácil de medir y el menos informativo"],
-  ["Nivel de aprendizaje","verificación de lo aprendido con instrumentos distintos de la autopercepción"],
-  ["Nivel de conducta","cambio observable en el desempeño del puesto de trabajo"],
-  ["Nivel de resultado","efecto en indicadores de la organización; el más difícil de atribuir"]],
- "desarrollo":"La evaluación de la capacitación se estancó durante décadas en el primer nivel porque es barato y agradable de reportar. La evidencia disponible muestra que la satisfacción correlaciona débilmente con el aprendizaje y casi nada con el cambio de conducta. Un programa muy bien evaluado por sus participantes puede no haber producido ningún cambio en el trabajo, y suele ser el caso.",
- "practica":"La decisión práctica es proporcional: si el programa es pequeño y de bajo costo, basta con verificar aprendizaje; si compromete recursos importantes o decisiones de continuidad, hay que medir conducta en el puesto. Medir conducta exige acuerdos previos con la organización sobre qué se observará y cuándo. Y atribuir resultados organizacionales a la formación exige diseño comparativo, no solo medición antes y después.",
- "limites":"El modelo de cuatro niveles es una taxonomía útil y no un modelo causal validado: los niveles no se implican entre sí y la evidencia no respalda su jerarquía. Además, atribuir cambios en indicadores organizacionales a una capacitación específica es un problema de inferencia causal que casi ningún diseño habitual resuelve.",
- "errores":[
-  "Reportar satisfacción como si midiera aprendizaje o efectividad del programa.",
-  "Atribuir un cambio en indicadores organizacionales a la formación sin diseño comparativo."],
- "criterios":[
-  "el plan evalúa al menos un nivel más allá de la reacción con instrumento definido;",
-  "los límites de inferencia de cada nivel están declarados explícitamente;"],
- "preguntas":[
-  "¿Qué decisión vas a tomar con el resultado de esta evaluación?",
-  "¿Qué observarías en el puesto de trabajo si la formación funcionó?",
-  "¿Qué otra explicación podría dar cuenta del cambio que estás atribuyendo al programa?"],
- "lecturas":[
-  ["Kirkpatrick, D. & Kirkpatrick, J. (2006). *Evaluating Training Programs*.","el modelo de cuatro niveles, ampliamente usado; conviene conocerlo con sus críticas."],
-  ["Alliger, G. & Janak, E. (1989). *Kirkpatrick's Levels of Training Criteria: Thirty Years Later*.","el análisis que muestra la débil relación entre niveles y desmonta su lectura jerárquica."]],
- "inclusion":"Las evaluaciones basadas solo en satisfacción tienden a premiar formatos cómodos y penalizar los exigentes, lo que perjudica a los programas dirigidos a poblaciones con mayores brechas, que suelen ser más demandantes.",
- "reto":"Evalúa un programa tuyo en dos niveles. Compara el resultado de satisfacción con el de aprendizaje verificado y analiza la diferencia.",
- "conexion":"Cierra la lógica de la clase 089 y aporta a la parte 11 el problema de la inferencia a partir de resultados."},
-
-{"n":96,"evidencia":"CONSISTENTE",
- "foco":"cómo se construye un programa de capacitación completo que alguien pueda ejecutar sin ti",
- "proposito":"Integrar la parte diseñando un programa de capacitación completo: diagnóstico, objetivos de desempeño, diseño instruccional, plan de transferencia, evaluación y materiales ejecutables por otro formador.",
- "decision":"determinar el diseño completo del programa y qué evidencia probará que produjo cambio en el desempeño",
- "entregable":"un programa de capacitación completo con diagnóstico, diseño, materiales, plan de transferencia y evaluación",
- "conceptos":[
-  ["Programa de capacitación","conjunto articulado de sesiones, materiales y evaluación orientado a un cambio de desempeño"],
-  ["Guion del formador","documento que permite a otra persona ejecutar la sesión con fidelidad razonable"],
-  ["Fidelidad de implementación","grado en que la ejecución corresponde al diseño; explica buena parte de los resultados"],
-  ["Escalabilidad","posibilidad de repetir el programa con otros formadores y grupos sin perder calidad"]],
- "desarrollo":"El proyecto integrador de esta parte tiene una exigencia particular: el programa debe poder ser ejecutado por otra persona. Eso obliga a explicitar lo que un formador experimentado hace de forma implícita —cómo abre la sesión, qué pregunta, qué ejemplos usa, cómo maneja la objeción típica— y convierte el diseño en un producto transferible y no en una actuación personal.",
- "practica":"El paquete completo incluye diagnóstico documentado, objetivos de desempeño, secuencia de sesiones con guion, materiales del participante, plan de transferencia acordado y plan de evaluación. La prueba de calidad es entregarlo a otro formador y observar su ejecución: lo que él no logre reproducir es lo que faltaba explicitar.",
- "limites":"Un programa bien diseñado no garantiza transferencia: las condiciones organizacionales pesan tanto como el diseño. Declararlo por escrito, junto con los supuestos del diseño, protege al programa de ser evaluado por resultados que dependen de decisiones ajenas al formador.",
- "errores":[
-  "Diseñar un programa que solo su autor puede ejecutar.",
-  "Comprometer resultados de negocio sin haber acordado las condiciones de transferencia."],
- "criterios":[
-  "el guion permite a otro formador ejecutar la sesión con fidelidad razonable;",
-  "el plan de evaluación mide al menos un nivel más allá de la satisfacción;"],
- "preguntas":[
-  "¿Qué parte de tu programa vive solo en tu cabeza?",
-  "¿Qué supuesto organizacional debe cumplirse para que produzca el cambio prometido?",
-  "¿Qué observarías en el puesto de trabajo a los tres meses?"],
- "lecturas":[
-  ["Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*.","marco general del diseño para adultos con criterios de calidad."],
-  ["Blume, B. et al. (2010). *Transfer of Training: A Meta-Analytic Review*.","evidencia sobre qué condiciones del diseño y del entorno predicen transferencia."]],
- "inclusion":"Un programa transferible debe declarar sus requisitos de accesibilidad: materiales legibles, alternativas a la exposición oral, subtítulos y consideración de participantes con lectura o conectividad limitadas.",
- "reto":"Entrega tu programa a otro formador y observa una sesión ejecutada por él. Documenta qué no pudo reproducir y corrige el guion.",
- "conexion":"Cierra la parte 07 integrando sus once clases previas. Es el puente directo hacia la migración de este mismo programa a modalidad de capacitación."}
+  {
+    "n": 85,
+    "evidencia": "EN-DEBATE",
+    "foco": "qué supuestos sobre el adulto que aprende son útiles como hipótesis de diseño y cuáles se repiten sin evidencia",
+    "proposito": "Usar los supuestos andragógicos —autonomía, experiencia, orientación a problemas, motivación interna, necesidad de saber por qué— como hipótesis de diseño verificables, y no como leyes del aprendizaje adulto.",
+    "decision": "determinar qué supuesto andragógico se cumple en tu grupo real y cuál no",
+    "entregable": "un diagnóstico de tu grupo adulto que contraste los supuestos andragógicos con lo que efectivamente observas",
+    "conceptos": [
+      [
+        "Andragogía",
+        "conjunto de supuestos sobre cómo aprenden los adultos, formulado como alternativa a la pedagogía escolar"
+      ],
+      [
+        "Necesidad de saber por qué",
+        "exigencia adulta de comprender la utilidad de lo que se le pide aprender"
+      ],
+      [
+        "Autoconcepto de autonomía",
+        "imagen de sí mismo como persona que decide; se resiente con formatos escolares infantilizantes"
+      ],
+      [
+        "Orientación a la tarea",
+        "preferencia por aprendizajes organizados en torno a problemas reales y no a materias"
+      ]
+    ],
+    "desarrollo": "Los supuestos andragógicos describen bien a un adulto concreto: el que asiste voluntariamente, con experiencia relevante y motivación clara. Describen mal al que fue enviado por su jefatura, al que retoma estudios interrumpidos con historia de fracaso o al que carece de base en la materia. Tratar los supuestos como universales lleva a diseños que suponen autonomía donde hay inseguridad y experiencia donde hay vacío.",
+    "practica": "El uso profesional es diagnóstico: antes de diseñar, comprobar cuál de los supuestos se cumple en este grupo. Si el grupo no eligió estar, hay que ganar la relevancia explícitamente. Si tiene poca base, el andamiaje debe ser mayor, no menor. Si trae experiencia contradictoria con lo que se enseñará, hay que hacerla explícita antes de intentar corregirla.",
+    "limites": "La andragogía ha sido criticada por su débil base empírica: sus supuestos son razonables y poco contrastados con diseños rigurosos. Además, las diferencias entre adultos y adolescentes son de grado y de contexto más que de mecanismo cognitivo: la memoria de trabajo, la carga y la práctica de recuperación funcionan igual en ambos.",
+    "errores": [
+      "Suponer autonomía y experiencia en un grupo que no las tiene y retirar el andamiaje.",
+      "Aplicar formatos escolares infantilizantes a adultos y perder legitimidad en la primera sesión."
+    ],
+    "criterios": [
+      "el diagnóstico contrasta cada supuesto con evidencia observada del grupo real;",
+      "las decisiones de diseño se ajustan a los supuestos que no se cumplen;"
+    ],
+    "preguntas": [
+      "¿Tu grupo eligió estar aquí?",
+      "¿Qué experiencia previa relevante tiene realmente, y cómo lo comprobaste?",
+      "¿Qué parte de tu diseño supone una autonomía que este grupo aún no tiene?"
+    ],
+    "lecturas": [
+      [
+        "Knowles, M. (1984). *The Adult Learner*.",
+        "la formulación clásica de los supuestos; imprescindible como referencia y como objeto de crítica."
+      ],
+      [
+        "Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*.",
+        "revisa críticamente la andragogía y separa lo respaldado de lo asumido."
+      ]
+    ],
+    "inclusion": "Los adultos con menor escolaridad previa suelen ser los que más apoyo necesitan y los que menos lo piden, por temor a exponerse. Un diseño que ofrece apoyo por defecto, sin obligar a solicitarlo, evita esa barrera de vergüenza.",
+    "reto": "Aplica un diagnóstico breve a un grupo adulto real y contrástalo con los supuestos. Ajusta dos decisiones de diseño a partir de los supuestos que no se cumplen.",
+    "conexion": "Abre la parte 07 y se apoya en la clase 033. Sus resultados condicionan las decisiones de las clases 088 y 096."
+  },
+  {
+    "n": 86,
+    "evidencia": "CONSISTENTE",
+    "foco": "cuándo la experiencia previa acelera el aprendizaje y cuándo lo bloquea",
+    "proposito": "Convertir la experiencia previa del participante en recurso didáctico y detectar cuándo sostiene creencias erróneas que la formación deberá confrontar de manera explícita.",
+    "decision": "determinar qué experiencia previa vas a usar como anclaje y cuál vas a confrontar",
+    "entregable": "un instrumento de activación de experiencia previa con el uso previsto de cada respuesta esperada",
+    "conceptos": [
+      [
+        "Anclaje",
+        "conexión entre el contenido nuevo y una experiencia previa que le da sentido"
+      ],
+      [
+        "Creencia arraigada",
+        "idea sostenida por experiencia personal, resistente al argumento y frecuente en adultos con oficio"
+      ],
+      [
+        "Desaprendizaje",
+        "proceso de abandonar una práctica o creencia consolidada; más costoso que aprender algo nuevo"
+      ],
+      [
+        "Validación de la experiencia",
+        "reconocimiento explícito de lo que el participante sabe antes de corregir lo que sabe mal"
+      ]
+    ],
+    "desarrollo": "La experiencia adulta es un recurso y un obstáculo a la vez. Un técnico con quince años de oficio aprende rápido lo que se conecta con su práctica y se resiste a lo que la contradice, sobre todo si su método le ha funcionado. Ese desaprendizaje es costoso y no ocurre por autoridad del instructor: requiere evidencia que el participante pueda comprobar y un reconocimiento previo de lo que sí sabe hacer.",
+    "practica": "El instrumento de activación cumple dos funciones: revela qué experiencia existe y expone las creencias que habrá que confrontar. La secuencia eficaz reconoce primero lo válido de la práctica actual, muestra después la situación donde falla, y solo entonces ofrece la alternativa. Invertir ese orden produce resistencia inmediata y pérdida de credibilidad del formador.",
+    "limites": "No toda creencia arraigada es errónea: a veces el participante sabe algo del contexto real que el diseño de formación ignora. Un formador que descarta la experiencia por principio pierde información valiosa y credibilidad. La regla es tratarla como hipótesis a comprobar, en ambas direcciones.",
+    "errores": [
+      "Corregir la práctica del participante antes de reconocer lo que su experiencia tiene de válido.",
+      "Descartar objeciones basadas en experiencia sin comprobar si el diseño ignora algo del contexto real."
+    ],
+    "criterios": [
+      "el instrumento anticipa qué creencias erróneas revelará y cómo se confrontarán;",
+      "el diseño reconoce explícitamente la experiencia válida antes de proponer el cambio;"
+    ],
+    "preguntas": [
+      "¿Qué cree tu grupo que sabe hacer bien y en realidad hace mal?",
+      "¿Qué evidencia comprobable por ellos mismos mostraría el problema?",
+      "¿Qué te está diciendo su objeción sobre el contexto real que tu diseño ignora?"
+    ],
+    "lecturas": [
+      [
+        "Mezirow, J. (1991). *Transformative Dimensions of Adult Learning*.",
+        "explica cómo se revisan supuestos consolidados y qué condiciones lo hacen posible."
+      ],
+      [
+        "Schön, D. (1983). *The Reflective Practitioner*.",
+        "describe el conocimiento en la acción del profesional experimentado y su resistencia al cambio."
+      ]
+    ],
+    "inclusion": "Reconocer la experiencia adquirida fuera del sistema formal es un acto de inclusión concreto para trabajadores sin credenciales. En Chile y en otros sistemas existen procedimientos de reconocimiento de aprendizajes previos que conviene conocer y usar.",
+    "reto": "Aplica tu instrumento a un grupo real. Escoge la creencia errónea más extendida y diseña la evidencia que permitirá al propio participante detectar el problema.",
+    "conexion": "Se apoya en la clase 015 y alimenta las clases 089 y 094."
+  },
+  {
+    "n": 87,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué la autonomía en el aprendizaje se enseña y no se supone, sobre todo en formación en línea",
+    "proposito": "Desarrollar aprendizaje autodirigido con apoyos explícitos —metas, planificación, monitoreo, ajuste— en vez de suponer que el adulto ya sabe estudiar por su cuenta.",
+    "decision": "determinar qué apoyos a la autorregulación incorporará tu programa para sostener el trabajo autónomo",
+    "entregable": "un dispositivo de apoyo a la autodirección con metas, plan, seguimiento y punto de contacto ante el abandono",
+    "conceptos": [
+      [
+        "Aprendizaje autodirigido",
+        "proceso en que la persona define metas, organiza recursos y evalúa su propio avance"
+      ],
+      [
+        "Contrato de aprendizaje",
+        "acuerdo explícito sobre metas, plazos, evidencia y apoyos disponibles"
+      ],
+      [
+        "Monitoreo del avance",
+        "seguimiento sistemático que permite detectar el rezago antes del abandono"
+      ],
+      [
+        "Punto de contacto",
+        "persona o instancia a la que el participante puede recurrir cuando se atrasa"
+      ]
+    ],
+    "desarrollo": "La deserción es el principal problema de la formación adulta y en línea, y su causa más frecuente no es la falta de interés sino la ausencia de estructura: el participante se atrasa, la deuda se acumula y abandonar se vuelve la salida menos costosa. Los dispositivos de apoyo a la autodirección —metas explícitas, plazos intermedios, seguimiento activo y un contacto humano cuando aparece el rezago— reducen esa dinámica.",
+    "practica": "Un contrato de aprendizaje breve, con metas y plazos acordados, funciona mejor que cualquier discurso sobre responsabilidad. El seguimiento debe ser proactivo: detectar el rezago en la semana dos y contactar, en vez de constatar el abandono en la semana seis. Y el contacto debe ofrecer una vía de reincorporación concreta, no solo un recordatorio.",
+    "limites": "La autodirección no es un rasgo estable: la misma persona es autónoma en su oficio y dependiente en un contenido nuevo. Suponerla por edad es un error frecuente. Además, la evidencia sobre intervenciones contra la deserción en línea muestra efectos modestos, muy dependientes del contacto humano real.",
+    "errores": [
+      "Suponer autonomía por edad y no incorporar apoyos ni seguimiento.",
+      "Detectar el rezago demasiado tarde, cuando la deuda acumulada ya hace inviable la reincorporación."
+    ],
+    "criterios": [
+      "el dispositivo define metas, plazos intermedios y un mecanismo de detección temprana del rezago;",
+      "existe un punto de contacto humano identificado con una vía concreta de reincorporación;"
+    ],
+    "preguntas": [
+      "¿En qué semana detectas que un participante se está quedando atrás?",
+      "¿Qué pasa exactamente cuando lo detectas?",
+      "¿Qué apoyo a la autorregulación ofreces además de recordatorios?"
+    ],
+    "lecturas": [
+      [
+        "Zimmerman, B. (2002). *Becoming a Self-Regulated Learner*.",
+        "modelo de autorregulación con fases y estrategias enseñables."
+      ],
+      [
+        "Education Endowment Foundation (2018). *Metacognition and Self-Regulated Learning*.",
+        "evidencia sobre qué apoyos a la autorregulación funcionan y con qué magnitud."
+      ]
+    ],
+    "inclusion": "Los participantes con menos tiempo, peor conectividad o menos experiencia académica previa son los primeros en desertar. Un sistema de detección temprana los alcanza antes de que la brecha se vuelva irreversible, que es precisamente cuando el apoyo aún sirve.",
+    "reto": "Implementa detección de rezago en la semana dos de un programa. Contacta a quienes se atrasan y compara la retención con la de una edición anterior.",
+    "conexion": "Aplica la clase 021 a la formación adulta y sostiene las clases 091 y 096."
+  },
+  {
+    "n": 88,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué un adulto obligado a capacitarse puede aprender y uno voluntario puede abandonar",
+    "proposito": "Diseñar para la motivación adulta a partir de sus determinantes reales —relevancia inmediata, expectativa de éxito, costo percibido y clima de respeto— en vez de apelar a la voluntad del participante.",
+    "decision": "determinar qué determinante motivacional está bloqueando la participación real de tu grupo",
+    "entregable": "un diagnóstico motivacional del grupo con la intervención de diseño correspondiente a cada determinante",
+    "conceptos": [
+      [
+        "Relevancia inmediata",
+        "relación visible entre lo que se aprende y un problema que el participante tiene ahora"
+      ],
+      [
+        "Costo percibido",
+        "tiempo, esfuerzo y renuncias que el participante asocia a completar la formación"
+      ],
+      [
+        "Expectativa de éxito",
+        "creencia de poder lograrlo, muy afectada por historias previas de fracaso académico"
+      ],
+      [
+        "Clima de respeto",
+        "trato que reconoce al adulto como profesional y no como alumno que debe ser controlado"
+      ]
+    ],
+    "desarrollo": "La motivación adulta se explica mejor por costos y beneficios percibidos que por rasgos personales. Un participante obligado puede comprometerse si ve utilidad inmediata; uno voluntario abandona si el costo en tiempo supera el beneficio esperado. El costo es la variable más subestimada por quienes diseñan: cada hora adicional no declarada compite con trabajo, familia y descanso.",
+    "practica": "Las intervenciones eficaces reducen costo y aumentan relevancia: respetar el tiempo declarado sin encargos encubiertos, permitir aplicar de inmediato lo aprendido, partir de un problema real del participante y garantizar una experiencia temprana de éxito. El clima de respeto es la condición de base: un adulto tratado como escolar desconecta aunque el contenido sea excelente.",
+    "limites": "Ninguna intervención motivacional compensa una formación irrelevante o una organización que no permite aplicar lo aprendido. Cuando el entorno de trabajo bloquea la transferencia, la desmotivación es una respuesta racional. Diagnosticar eso evita atribuir al participante un problema que es organizacional.",
+    "errores": [
+      "Atribuir la baja participación a falta de compromiso sin revisar el costo real que impone el diseño.",
+      "Tratar a profesionales adultos con formatos y controles propios de la escuela."
+    ],
+    "criterios": [
+      "el diagnóstico identifica el determinante bloqueado con evidencia y no con suposición;",
+      "la intervención propuesta reduce costo o aumenta relevancia de forma verificable;"
+    ],
+    "preguntas": [
+      "¿Cuántas horas reales cuesta tu programa, contando todo?",
+      "¿Qué problema actual del participante resuelve la sesión de mañana?",
+      "¿Qué señal de tu diseño le comunica que no lo tratas como profesional?"
+    ],
+    "lecturas": [
+      [
+        "Wlodkowski, R. (2008). *Enhancing Adult Motivation to Learn*.",
+        "marco práctico de motivación adulta con estrategias verificables por sesión."
+      ],
+      [
+        "Wigfield, A. & Eccles, J. (2000). *Expectancy–Value Theory*.",
+        "aporta el análisis de costo percibido, decisivo en formación de adultos que trabajan."
+      ]
+    ],
+    "inclusion": "Los participantes con responsabilidades de cuidado, turnos rotativos o empleos informales enfrentan costos mucho mayores por la misma formación. Un diseño equitativo ajusta horarios, ofrece asincronía real y no penaliza la inasistencia inevitable.",
+    "reto": "Calcula el costo horario real de tu programa y compáralo con lo declarado. Reduce la diferencia y compara la asistencia con la edición anterior.",
+    "conexion": "Aplica la clase 022 al mundo adulto y condiciona el diseño de las clases 089 y 096."
+  },
+  {
+    "n": 89,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué la mayoría de la capacitación laboral no cambia nada en el puesto de trabajo",
+    "proposito": "Diseñar capacitación laboral con foco en la transferencia: análisis de necesidades real, objetivos de desempeño y condiciones organizacionales que permitan aplicar lo aprendido.",
+    "decision": "determinar qué desempeño debe cambiar en el puesto y qué condiciones organizacionales lo permitirán",
+    "entregable": "un diseño de capacitación con análisis de necesidades, objetivos de desempeño y plan de transferencia acordado con la jefatura",
+    "conceptos": [
+      [
+        "Análisis de necesidades",
+        "diagnóstico que distingue si el problema se resuelve con formación o con otra intervención"
+      ],
+      [
+        "Objetivo de desempeño",
+        "cambio observable en el trabajo, distinto de un objetivo de conocimiento"
+      ],
+      [
+        "Transferencia",
+        "aplicación efectiva de lo aprendido en el puesto de trabajo"
+      ],
+      [
+        "Clima de transferencia",
+        "condiciones organizacionales —apoyo, oportunidad, tiempo, herramientas— que permiten aplicar"
+      ]
+    ],
+    "desarrollo": "Buena parte de los problemas que se derivan a capacitación no son problemas de formación: son de proceso, de herramientas, de incentivos o de dotación. Capacitar a alguien que ya sabe hacer algo pero no puede hacerlo produce frustración y desperdicia recursos. Por eso el análisis de necesidades debe empezar preguntando si el desempeño falla por no saber, por no poder o por no querer, porque cada causa tiene una solución distinta.",
+    "practica": "Cuando la formación sí corresponde, el diseño se organiza desde el desempeño esperado en el puesto y no desde el contenido. El plan de transferencia se acuerda antes con la jefatura: qué podrá aplicar el participante, cuándo, con qué apoyo y cómo se verificará. Sin ese acuerdo, la capacitación termina el viernes y el lunes todo vuelve a ser igual.",
+    "limites": "La evidencia sobre transferencia muestra que los factores organizacionales pesan tanto como el diseño instruccional, y que muchos programas exitosos en aprendizaje fracasan en transferencia por razones ajenas a la formación. Reconocerlo evita responsabilizar al formador de lo que decide la organización.",
+    "errores": [
+      "Aceptar una solicitud de capacitación sin verificar si el problema es de formación.",
+      "Diseñar sin acordar con la jefatura las condiciones que permitirán aplicar lo aprendido."
+    ],
+    "criterios": [
+      "el análisis de necesidades descarta explícitamente causas no formativas;",
+      "existe un plan de transferencia acordado con quien controla las condiciones del puesto;"
+    ],
+    "preguntas": [
+      "¿El desempeño falla por no saber, por no poder o por no querer?",
+      "¿Qué podrá hacer distinto el participante el lunes siguiente?",
+      "¿Quién debe autorizar que lo haga y ya está de acuerdo?"
+    ],
+    "lecturas": [
+      [
+        "Baldwin, T. & Ford, J. K. (1988). *Transfer of Training*. Personnel Psychology, 41.",
+        "el modelo clásico de transferencia y sus factores organizacionales."
+      ],
+      [
+        "Blume, B. et al. (2010). *Transfer of Training: A Meta-Analytic Review*. Journal of Management, 36(4).",
+        "síntesis cuantitativa sobre qué predice realmente la transferencia."
+      ]
+    ],
+    "inclusion": "Los trabajadores con menos poder en la organización son los que menos oportunidad tienen de aplicar lo aprendido, y por eso los programas dirigidos a ellos muestran menos transferencia. Negociar esa condición es parte del diseño, no un asunto ajeno.",
+    "reto": "Toma una solicitud de capacitación real y aplica el análisis de necesidades. Documenta si la formación era la solución correcta y qué propusiste en caso contrario.",
+    "conexion": "Es el núcleo aplicado de la parte 07 y se cierra con la clase 095 (evaluación) y la clase 096."
+  },
+  {
+    "n": 90,
+    "evidencia": "EMERGENTE",
+    "foco": "cómo se diseña formación para alguien que debe cambiar de oficio, no perfeccionar el suyo",
+    "proposito": "Diseñar programas de reconversión y actualización con diagnóstico de brecha, reconocimiento de lo transferible y una ruta realista en tiempo y en costo para el participante.",
+    "decision": "determinar qué brecha específica separa el perfil actual del perfil objetivo y en qué orden se cierra",
+    "entregable": "un plan de reconversión con brecha diagnosticada, ruta formativa priorizada y estimación realista de tiempo",
+    "conceptos": [
+      [
+        "Reconversión",
+        "cambio hacia un oficio distinto, que exige competencias nuevas y no solo actualización"
+      ],
+      [
+        "Actualización",
+        "mejora de competencias dentro del mismo oficio ante cambios tecnológicos o normativos"
+      ],
+      [
+        "Brecha de competencias",
+        "diferencia entre el perfil actual de la persona y el perfil objetivo del puesto"
+      ],
+      [
+        "Competencia transferible",
+        "capacidad del oficio anterior que sigue siendo válida en el nuevo contexto"
+      ]
+    ],
+    "desarrollo": "La reconversión falla habitualmente por dos razones opuestas: subestimar la brecha —cursos breves que prometen cambiar de rubro— o ignorar lo transferible, obligando a empezar de cero a personas con veinte años de experiencia laboral. Un diagnóstico serio identifica ambas cosas: qué se conserva y qué falta realmente, con el nivel de detalle de un perfil de competencias.",
+    "practica": "La ruta se prioriza por dos criterios: qué competencias son condición para todo lo demás y cuáles permiten un primer resultado laboral temprano. Ese resultado temprano importa: sostiene la motivación y a veces también el ingreso durante el proceso. La estimación de tiempo debe ser honesta, porque una promesa incumplida de empleabilidad tiene costos personales altos.",
+    "limites": "La evidencia sobre programas de reconversión es heterogénea y sus resultados dependen fuertemente del mercado laboral local y de la duración del programa. Los programas breves muestran efectos limitados en cambios de rubro profundos. Prometer transiciones rápidas hacia sectores con alta demanda declarada, sin verificar la demanda local, es un riesgo real para el participante.",
+    "errores": [
+      "Prometer cambio de oficio con formaciones demasiado breves para la brecha real.",
+      "Ignorar las competencias transferibles y obligar a empezar de cero."
+    ],
+    "criterios": [
+      "el diagnóstico distingue competencias transferibles de brechas reales, con evidencia;",
+      "la ruta prioriza condiciones previas y un resultado laboral temprano verificable;"
+    ],
+    "preguntas": [
+      "¿Qué de su oficio anterior sigue siendo válido y lo estás desconociendo?",
+      "¿Cuánto tiempo requiere realmente cerrar esta brecha?",
+      "¿Qué demanda local verificaste antes de recomendar esta ruta?"
+    ],
+    "lecturas": [
+      [
+        "OCDE. *Getting Skills Right* y estudios sobre reconversión laboral (edición vigente).",
+        "evidencia comparada sobre qué programas de reconversión funcionan y bajo qué condiciones."
+      ],
+      [
+        "Foro Económico Mundial. *Future of Jobs Report* (edición vigente).",
+        "útil para tendencias declaradas de demanda; contrástalo siempre con datos del mercado local."
+      ],
+      [
+        "Illeris, K. (2011). *The Fundamentals of Workplace Learning*.",
+        "explica qué condiciones hacen posible el reaprendizaje en la edad adulta y cuáles lo bloquean."
+      ]
+    ],
+    "inclusion": "Las personas que más necesitan reconvertirse suelen tener menos tiempo, menos ahorro y más responsabilidades de cuidado. Una ruta que ignora esas restricciones excluye precisamente a quienes dice servir.",
+    "reto": "Diagnostica la brecha de un caso real de reconversión y construye la ruta. Verifica la demanda laboral local antes de comprometer una recomendación.",
+    "conexion": "Se apoya en las clases 083 y 086 y se articula con la clase 089."
+  },
+  {
+    "n": 91,
+    "evidencia": "EMERGENTE",
+    "foco": "qué puede y qué no puede enseñar un formato breve consumido en el trabajo",
+    "proposito": "Diseñar formación en formatos breves con criterio: qué objetivos admiten microaprendizaje, cómo se secuencia con espaciado y qué contenidos exigen formatos extensos.",
+    "decision": "determinar si tu objetivo se puede lograr con un formato breve o si exige sesiones extensas",
+    "entregable": "una secuencia de microaprendizaje con objetivos acotados, espaciado planificado y verificación de aprendizaje",
+    "conceptos": [
+      [
+        "Microaprendizaje",
+        "unidad formativa breve y autocontenida orientada a un objetivo acotado"
+      ],
+      [
+        "Espaciado",
+        "distribución de las unidades en el tiempo para favorecer retención"
+      ],
+      [
+        "Objetivo acotado",
+        "aprendizaje que puede lograrse y verificarse en una unidad breve"
+      ],
+      [
+        "Fragmentación",
+        "riesgo de dividir un contenido complejo hasta perder la comprensión del conjunto"
+      ]
+    ],
+    "desarrollo": "Los formatos breves aprovechan bien dos mecanismos con evidencia: el espaciado y la práctica de recuperación. Funcionan para procedimientos acotados, recordatorios, actualizaciones normativas y refuerzo de contenidos ya enseñados. No funcionan para construir comprensión conceptual compleja, que requiere elaboración sostenida y no cabe en unidades de cinco minutos sin perder precisamente lo que la hace comprensión.",
+    "practica": "El diseño exige acotar el objetivo hasta que sea verificable en la unidad, planificar el espaciado entre unidades y verificar aprendizaje en vez de registrar visualizaciones. La tentación habitual es medir consumo —cuántos abrieron la cápsula— que es un indicador de actividad y no de aprendizaje.",
+    "limites": "La evidencia específica sobre microaprendizaje es limitada y de calidad variable; lo respaldado son sus mecanismos subyacentes, no el formato como tal. Y su principal riesgo es la fragmentación: contenidos complejos troceados en píldoras producen la ilusión de haber cubierto el tema sin que nadie haya construido el conjunto.",
+    "errores": [
+      "Trocear contenido conceptual complejo en cápsulas y suponer que se reconstruye solo.",
+      "Medir visualizaciones o descargas en vez de aprendizaje verificado."
+    ],
+    "criterios": [
+      "cada unidad tiene un objetivo verificable dentro de su duración;",
+      "la secuencia declara el espaciado y una verificación de aprendizaje, no de consumo;"
+    ],
+    "preguntas": [
+      "¿Qué objetivo tuyo no cabe en un formato breve y por qué?",
+      "¿Cómo verificas aprendizaje y no solo visualización?",
+      "¿Quién reconstruye el conjunto después de las cápsulas?"
+    ],
+    "lecturas": [
+      [
+        "Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*.",
+        "respalda espaciado y recuperación, que son los mecanismos que justifican el formato."
+      ],
+      [
+        "Hug, T. (ed.) (2007). *Didactics of Microlearning*.",
+        "revisa el campo, sus definiciones y sus límites conceptuales."
+      ]
+    ],
+    "inclusion": "Los formatos breves favorecen a quienes tienen tiempo fragmentado —turnos, cuidado, desplazamientos largos— y por eso amplían el acceso. Requieren, eso sí, accesibilidad real: subtítulos, transcripción y bajo consumo de datos.",
+    "reto": "Diseña una secuencia breve con espaciado y verificación. Compara retención a cuatro semanas con la de una sesión única equivalente.",
+    "conexion": "Aplica la clase 020 al mundo laboral y se articula con la parte 13 en su implementación tecnológica."
+  },
+  {
+    "n": 92,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué hace que una relación de mentoría produzca aprendizaje y no solo conversaciones agradables",
+    "proposito": "Diseñar programas de mentoría con estructura: emparejamiento, objetivos acordados, frecuencia, contenido de las sesiones y evaluación de resultados.",
+    "decision": "determinar qué estructura mínima necesita tu programa de mentoría para producir resultados verificables",
+    "entregable": "un diseño de programa de mentoría con criterios de emparejamiento, acuerdos, frecuencia y evaluación",
+    "conceptos": [
+      [
+        "Mentoría",
+        "relación en que una persona con más experiencia acompaña el desarrollo de otra en su contexto"
+      ],
+      [
+        "Acuerdo de mentoría",
+        "documento breve con objetivos, frecuencia, duración y confidencialidad de la relación"
+      ],
+      [
+        "Emparejamiento",
+        "proceso de asignar mentor y participante según criterios explícitos"
+      ],
+      [
+        "Cierre",
+        "término planificado de la relación, con evaluación de lo logrado"
+      ]
+    ],
+    "desarrollo": "La mentoría muestra efectos positivos en desarrollo profesional, retención y satisfacción, con magnitudes moderadas y muy dependientes de la estructura. Los programas que funcionan tienen objetivos acordados, frecuencia definida, preparación de los mentores y un cierre planificado. Los que fracasan asignan parejas y esperan que la relación se organice sola, con lo cual la mitad se disuelve en dos meses.",
+    "practica": "El acuerdo inicial es el instrumento clave: define qué se espera lograr, cada cuánto se reúnen, cuánto dura el programa y qué es confidencial. La preparación del mentor importa tanto como su experiencia: escuchar, preguntar y dar retroalimentación útil no son habilidades automáticas de quien sabe mucho de su oficio.",
+    "limites": "Los efectos reportados provienen sobre todo de estudios correlacionales con autoselección: quienes participan en mentoría suelen ser ya más motivados. Además, una mala relación de mentoría puede ser perjudicial, especialmente si hay asimetría de poder jerárquico entre mentor y participante dentro de la misma organización.",
+    "errores": [
+      "Asignar parejas sin acuerdo de objetivos ni frecuencia definida.",
+      "Emparejar con la jefatura directa, lo que impide la franqueza que la relación requiere."
+    ],
+    "criterios": [
+      "el diseño incluye acuerdo escrito con objetivos, frecuencia, duración y confidencialidad;",
+      "los mentores reciben preparación específica y no solo la designación;"
+    ],
+    "preguntas": [
+      "¿Qué debería poder hacer el participante al final del programa?",
+      "¿Qué preparación reciben tus mentores?",
+      "¿Qué pasa si la relación no funciona y ambos lo saben?"
+    ],
+    "lecturas": [
+      [
+        "Eby, L. et al. (2008). *Does Mentoring Matter? A Multidisciplinary Meta-Analysis*.",
+        "síntesis de efectos y de sus limitaciones metodológicas."
+      ],
+      [
+        "Clutterbuck, D. (2004). *Everyone Needs a Mentor*.",
+        "modelo operativo de diseño de programas con acuerdos y estructura."
+      ]
+    ],
+    "inclusion": "La mentoría informal reproduce redes existentes y favorece a quienes ya están conectados. Un programa formal con emparejamiento explícito es una de las pocas formas de dar acceso a esas redes a quienes no las tienen.",
+    "reto": "Diseña el acuerdo de mentoría de tu programa y aplícalo a tres parejas. Evalúa a los tres meses qué relaciones se sostuvieron y por qué.",
+    "conexion": "Se articula con la clase 093 y con la parte 15, donde el acompañamiento entre pares es una práctica de mejora institucional."
+  },
+  {
+    "n": 93,
+    "evidencia": "EN-DEBATE",
+    "foco": "en qué se diferencia acompañar el desempeño de aconsejar desde la propia experiencia",
+    "proposito": "Usar el coaching educativo como acompañamiento centrado en el desempeño observable de la persona acompañada, distinguiéndolo de la mentoría, de la supervisión y de la terapia.",
+    "decision": "determinar si la situación requiere coaching, mentoría, supervisión o derivación a otro profesional",
+    "entregable": "un protocolo de conversación de coaching con su estructura, sus preguntas y sus límites declarados",
+    "conceptos": [
+      [
+        "Coaching",
+        "acompañamiento estructurado orientado a que la persona mejore un desempeño que ella misma define"
+      ],
+      [
+        "Observación de desempeño",
+        "base del coaching educativo: se trabaja sobre lo que se observó, no sobre lo que se cree"
+      ],
+      [
+        "Pregunta de coaching",
+        "intervención que ayuda a analizar el propio desempeño en vez de entregar la respuesta"
+      ],
+      [
+        "Límite de rol",
+        "frontera entre acompañar el desempeño y abordar asuntos que exigen otro profesional"
+      ]
+    ],
+    "desarrollo": "El coaching instruccional aplicado a docentes muestra efectos prometedores cuando combina observación, retroalimentación específica y práctica, con acompañamiento sostenido en el tiempo. La diferencia con la mentoría es de foco: el mentor comparte experiencia, el coach trabaja sobre el desempeño observado de la otra persona. Confundirlos produce conversaciones donde el acompañante habla de sí mismo.",
+    "practica": "Un protocolo funcional tiene estructura: acordar el foco, observar, describir lo observado sin juicio, preguntar, definir un cambio concreto y verificar en la siguiente sesión. Ese ciclo corto y repetido produce más cambio que las conversaciones extensas y ocasionales. Y exige explicitar límites: el coaching no aborda salud mental ni conflictos laborales que requieren otra instancia.",
+    "limites": "El término se usa para prácticas muy distintas y buena parte de la oferta comercial carece de base empírica. La evidencia más sólida proviene del coaching instruccional escolar con protocolos definidos; los resultados no se extienden automáticamente a formatos genéricos. Además, los efectos disminuyen al escalar los programas, lo que sugiere alta dependencia de la calidad del coach.",
+    "errores": [
+      "Convertir el coaching en consejos basados en la experiencia propia del acompañante.",
+      "Abordar en una conversación de coaching asuntos que exigen derivación profesional."
+    ],
+    "criterios": [
+      "el protocolo se basa en desempeño observado y define un cambio concreto verificable;",
+      "los límites del rol y los criterios de derivación están declarados por escrito;"
+    ],
+    "preguntas": [
+      "¿Cuánto habla el coach y cuánto la persona acompañada en tus sesiones?",
+      "¿Qué desempeño concreto observaste antes de conversar?",
+      "¿Dónde termina tu rol y a quién derivas?"
+    ],
+    "lecturas": [
+      [
+        "Kraft, M., Blazar, D. & Hogan, D. (2018). *The Effect of Teacher Coaching on Instruction and Achievement*. Review of Educational Research, 88(4).",
+        "metaanálisis con efectos y con la caída observada al escalar los programas."
+      ],
+      [
+        "Knight, J. (2007). *Instructional Coaching*.",
+        "modelo operativo de coaching instruccional con protocolos de conversación."
+      ]
+    ],
+    "inclusion": "El coaching puede reproducir relaciones de poder si el acompañante evalúa además el desempeño de la persona. Separar el rol de coach del rol evaluador es condición para que la persona pueda mostrar sus dificultades reales.",
+    "reto": "Aplica tu protocolo en tres ciclos con una misma persona. Registra el cambio en el desempeño observado y no solo la percepción de la conversación.",
+    "conexion": "Es antecedente directo de la parte 15 (retroalimentación a docentes) y se distingue de la clase 092."
+  },
+  {
+    "n": 94,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué la experiencia sin reflexión estructurada enseña poco, aunque sea intensa",
+    "proposito": "Diseñar aprendizaje experiencial con las fases que lo hacen funcionar: experiencia, reflexión estructurada, conceptualización y aplicación deliberada.",
+    "decision": "determinar cómo estructurarás la reflexión para que la experiencia produzca aprendizaje transferible",
+    "entregable": "el diseño de una actividad experiencial con guion de reflexión, conceptualización explícita y plan de aplicación",
+    "conceptos": [
+      [
+        "Ciclo experiencial",
+        "secuencia de experiencia concreta, reflexión, conceptualización y experimentación activa"
+      ],
+      [
+        "Reflexión estructurada",
+        "análisis guiado por preguntas que impide quedarse en la impresión de la experiencia"
+      ],
+      [
+        "Conceptualización",
+        "paso en que la experiencia se conecta con un modelo o principio que permite transferirla"
+      ],
+      [
+        "Simulación",
+        "recreación controlada de una situación real para practicar sin consecuencias reales"
+      ]
+    ],
+    "desarrollo": "La experiencia por sí sola es un mal maestro: sin reflexión estructurada, las personas confirman lo que ya creían y recuerdan la anécdota en vez del principio. Las fases de reflexión y conceptualización son las que convierten un ejercicio memorable en aprendizaje transferible, y son también las que se recortan cuando falta tiempo, con lo que se pierde precisamente lo que justificaba la actividad.",
+    "practica": "El diseño exige un guion de reflexión con preguntas concretas —qué ocurrió, qué decidiste y por qué, qué habrías hecho distinto, qué principio explica lo que pasó— y un cierre conceptual donde el formador nombre el modelo. La aplicación se planifica al final: qué hará el participante en su contexto real y cuándo se revisará.",
+    "limites": "El modelo del ciclo experiencial es una heurística de diseño útil y no una teoría con respaldo experimental fuerte; los estilos de aprendizaje que se derivaron de él no tienen evidencia. Y las simulaciones tienen un límite conocido: su transferencia depende de cuán fielmente reproduzcan las condiciones críticas de la situación real.",
+    "errores": [
+      "Recortar la reflexión y la conceptualización por falta de tiempo y quedarse solo con la actividad.",
+      "Usar los estilos de aprendizaje derivados del modelo como criterio de diseño."
+    ],
+    "criterios": [
+      "el guion de reflexión contiene preguntas concretas y no invitaciones generales a comentar;",
+      "existe un cierre conceptual explícito y un plan de aplicación con fecha de revisión;"
+    ],
+    "preguntas": [
+      "¿Qué principio debería quedar claro después de esta actividad?",
+      "¿Cuánto tiempo real asignaste a la reflexión frente a la actividad?",
+      "¿Qué condición crítica de la situación real reproduce tu simulación?"
+    ],
+    "lecturas": [
+      [
+        "Kolb, D. (1984). *Experiential Learning*.",
+        "el modelo del ciclo; útil para el diseño de la reflexión, no para clasificar personas."
+      ],
+      [
+        "Schön, D. (1983). *The Reflective Practitioner*.",
+        "fundamenta la reflexión sobre la acción como mecanismo de aprendizaje profesional."
+      ]
+    ],
+    "inclusion": "Las actividades experienciales pueden exponer a participantes con menos confianza o con experiencias personales sensibles relacionadas con el escenario simulado. Advertir el contenido y permitir roles distintos protege sin excluir.",
+    "reto": "Rediseña una actividad experiencial asignando al menos un tercio del tiempo a reflexión y conceptualización. Compara lo que los participantes recuerdan a las cuatro semanas.",
+    "conexion": "Se apoya en las clases 023 y 086 y sostiene la práctica de las clases 089 y 096."
+  },
+  {
+    "n": 95,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué la encuesta de satisfacción al final de la sesión no dice casi nada sobre el aprendizaje",
+    "proposito": "Evaluar formación de adultos más allá de la reacción: aprendizaje verificado, cambio de conducta en el puesto y resultado organizacional, con instrumentos proporcionales a la decisión.",
+    "decision": "determinar qué nivel de evaluación necesitas realmente y qué instrumento lo hace viable",
+    "entregable": "un plan de evaluación de un programa con al menos dos niveles y sus instrumentos, más el análisis de sus límites",
+    "conceptos": [
+      [
+        "Nivel de reacción",
+        "satisfacción declarada por el participante; el más fácil de medir y el menos informativo"
+      ],
+      [
+        "Nivel de aprendizaje",
+        "verificación de lo aprendido con instrumentos distintos de la autopercepción"
+      ],
+      [
+        "Nivel de conducta",
+        "cambio observable en el desempeño del puesto de trabajo"
+      ],
+      [
+        "Nivel de resultado",
+        "efecto en indicadores de la organización; el más difícil de atribuir"
+      ]
+    ],
+    "desarrollo": "La evaluación de la capacitación se estancó durante décadas en el primer nivel porque es barato y agradable de reportar. La evidencia disponible muestra que la satisfacción correlaciona débilmente con el aprendizaje y casi nada con el cambio de conducta. Un programa muy bien evaluado por sus participantes puede no haber producido ningún cambio en el trabajo, y suele ser el caso.",
+    "practica": "La decisión práctica es proporcional: si el programa es pequeño y de bajo costo, basta con verificar aprendizaje; si compromete recursos importantes o decisiones de continuidad, hay que medir conducta en el puesto. Medir conducta exige acuerdos previos con la organización sobre qué se observará y cuándo. Y atribuir resultados organizacionales a la formación exige diseño comparativo, no solo medición antes y después.",
+    "limites": "El modelo de cuatro niveles es una taxonomía útil y no un modelo causal validado: los niveles no se implican entre sí y la evidencia no respalda su jerarquía. Además, atribuir cambios en indicadores organizacionales a una capacitación específica es un problema de inferencia causal que casi ningún diseño habitual resuelve.",
+    "errores": [
+      "Reportar satisfacción como si midiera aprendizaje o efectividad del programa.",
+      "Atribuir un cambio en indicadores organizacionales a la formación sin diseño comparativo."
+    ],
+    "criterios": [
+      "el plan evalúa al menos un nivel más allá de la reacción con instrumento definido;",
+      "los límites de inferencia de cada nivel están declarados explícitamente;"
+    ],
+    "preguntas": [
+      "¿Qué decisión vas a tomar con el resultado de esta evaluación?",
+      "¿Qué observarías en el puesto de trabajo si la formación funcionó?",
+      "¿Qué otra explicación podría dar cuenta del cambio que estás atribuyendo al programa?"
+    ],
+    "lecturas": [
+      [
+        "Kirkpatrick, D. & Kirkpatrick, J. (2006). *Evaluating Training Programs*.",
+        "el modelo de cuatro niveles, ampliamente usado; conviene conocerlo con sus críticas."
+      ],
+      [
+        "Alliger, G. & Janak, E. (1989). *Kirkpatrick's Levels of Training Criteria: Thirty Years Later*.",
+        "el análisis que muestra la débil relación entre niveles y desmonta su lectura jerárquica."
+      ]
+    ],
+    "inclusion": "Las evaluaciones basadas solo en satisfacción tienden a premiar formatos cómodos y penalizar los exigentes, lo que perjudica a los programas dirigidos a poblaciones con mayores brechas, que suelen ser más demandantes.",
+    "reto": "Evalúa un programa tuyo en dos niveles. Compara el resultado de satisfacción con el de aprendizaje verificado y analiza la diferencia.",
+    "conexion": "Cierra la lógica de la clase 089 y aporta a la parte 11 el problema de la inferencia a partir de resultados."
+  },
+  {
+    "n": 96,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se construye un programa de capacitación completo que alguien pueda ejecutar sin ti",
+    "proposito": "Integrar la parte diseñando un programa de capacitación completo: diagnóstico, objetivos de desempeño, diseño instruccional, plan de transferencia, evaluación y materiales ejecutables por otro formador.",
+    "decision": "determinar el diseño completo del programa y qué evidencia probará que produjo cambio en el desempeño",
+    "entregable": "un programa de capacitación completo con diagnóstico, diseño, materiales, plan de transferencia y evaluación",
+    "conceptos": [
+      [
+        "Programa de capacitación",
+        "conjunto articulado de sesiones, materiales y evaluación orientado a un cambio de desempeño"
+      ],
+      [
+        "Guion del formador",
+        "documento que permite a otra persona ejecutar la sesión con fidelidad razonable"
+      ],
+      [
+        "Fidelidad de implementación",
+        "grado en que la ejecución corresponde al diseño; explica buena parte de los resultados"
+      ],
+      [
+        "Escalabilidad",
+        "posibilidad de repetir el programa con otros formadores y grupos sin perder calidad"
+      ]
+    ],
+    "desarrollo": "El proyecto integrador de esta parte tiene una exigencia particular: el programa debe poder ser ejecutado por otra persona. Eso obliga a explicitar lo que un formador experimentado hace de forma implícita —cómo abre la sesión, qué pregunta, qué ejemplos usa, cómo maneja la objeción típica— y convierte el diseño en un producto transferible y no en una actuación personal.",
+    "practica": "El paquete completo incluye diagnóstico documentado, objetivos de desempeño, secuencia de sesiones con guion, materiales del participante, plan de transferencia acordado y plan de evaluación. La prueba de calidad es entregarlo a otro formador y observar su ejecución: lo que él no logre reproducir es lo que faltaba explicitar.",
+    "limites": "Un programa bien diseñado no garantiza transferencia: las condiciones organizacionales pesan tanto como el diseño. Declararlo por escrito, junto con los supuestos del diseño, protege al programa de ser evaluado por resultados que dependen de decisiones ajenas al formador.",
+    "errores": [
+      "Diseñar un programa que solo su autor puede ejecutar.",
+      "Comprometer resultados de negocio sin haber acordado las condiciones de transferencia."
+    ],
+    "criterios": [
+      "el guion permite a otro formador ejecutar la sesión con fidelidad razonable;",
+      "el plan de evaluación mide al menos un nivel más allá de la satisfacción;"
+    ],
+    "preguntas": [
+      "¿Qué parte de tu programa vive solo en tu cabeza?",
+      "¿Qué supuesto organizacional debe cumplirse para que produzca el cambio prometido?",
+      "¿Qué observarías en el puesto de trabajo a los tres meses?"
+    ],
+    "lecturas": [
+      [
+        "Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*.",
+        "marco general del diseño para adultos con criterios de calidad."
+      ],
+      [
+        "Blume, B. et al. (2010). *Transfer of Training: A Meta-Analytic Review*.",
+        "evidencia sobre qué condiciones del diseño y del entorno predicen transferencia."
+      ]
+    ],
+    "inclusion": "Un programa transferible debe declarar sus requisitos de accesibilidad: materiales legibles, alternativas a la exposición oral, subtítulos y consideración de participantes con lectura o conectividad limitadas.",
+    "reto": "Entrega tu programa a otro formador y observa una sesión ejecutada por él. Documenta qué no pudo reproducir y corrige el guion.",
+    "conexion": "Cierra la parte 07 integrando sus once clases previas. Es el puente directo hacia la migración de este mismo programa a modalidad de capacitación."
+  }
 ]

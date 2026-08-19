@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. | modelo completo de diseño de asignaturas alineadas en educación superior. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Sistema de Créditos Transferibles (SCT-Chile). | criterios para expresar y verificar la carga de trabajo del estudiante. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Sistema de Créditos Transferibles (SCT-Chile) (edición vigente). | criterios para expresar y verificar la carga de trabajo del estudiante. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** modelo completo de diseño de asignaturas alineadas en educación superior. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sistema de Créditos Transferibles (SCT-Chile). **Uso en esta clase:** criterios para expresar y verificar la carga de trabajo del estudiante. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Sistema de Créditos Transferibles (SCT-Chile) (edición vigente). **Uso en esta clase:** criterios para expresar y verificar la carga de trabajo del estudiante. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

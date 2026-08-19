@@ -85,7 +85,7 @@ flowchart TB
 ## 📕 Lecturas de referencia de la parte
 
 - **Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*.** — el TDAH como problema de autorregulación y no de voluntad, con implicancias directas de aula.
-- **Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down*.** — perfil de aprendizaje específico —fortaleza visual, memoria verbal a corto plazo más frágil— y qué hacer con él.
+- **Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down* (edición vigente).** — perfil de aprendizaje específico —fortaleza visual, memoria verbal a corto plazo más frágil— y qué hacer con él.
 - **Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.** — convierte la inclusión en un conjunto de indicadores revisables, no en una declaración.
 - **Assouline, S. et al. (2015). *A Nation Empowered*.** — la evidencia sobre aceleración, que contradice buena parte de la intuición escolar.
 

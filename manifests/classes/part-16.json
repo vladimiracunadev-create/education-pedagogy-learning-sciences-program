@@ -1,361 +1,662 @@
 [
-{"n":193,"evidencia":"EN-DEBATE",
- "foco":"qué supuestos sobre el conocimiento hay detrás de la elección de un método de investigación",
- "proposito":"Explicitar los supuestos epistemológicos que sostienen una investigación educativa y evitar tanto el eclecticismo sin criterio como el dogmatismo metodológico.",
- "decision":"determinar qué supuestos sobre el conocimiento sostienen tu pregunta y qué métodos son coherentes con ellos",
- "entregable":"la declaración epistemológica de una investigación propia, con sus supuestos y sus implicancias metodológicas",
- "conceptos":[
-  ["Ontología","supuestos sobre la naturaleza de aquello que se estudia"],
-  ["Epistemología","supuestos sobre qué cuenta como conocimiento válido y cómo se obtiene"],
-  ["Paradigma","conjunto articulado de supuestos, preguntas y métodos compartido por una comunidad de investigación"],
-  ["Coherencia metodológica","correspondencia entre supuestos declarados, pregunta y método elegido"]],
- "desarrollo":"Toda investigación supone una posición sobre qué se puede conocer y cómo. Quien busca establecer el efecto promedio de una intervención supone que existe un efecto estimable y que la comparación controlada lo revela; quien estudia cómo un grupo construye el sentido de una práctica supone que ese sentido es situado y no generalizable. Ninguna posición es superior en abstracto: la superioridad depende de la pregunta.",
- "practica":"La declaración epistemológica no es un trámite de tesis: es lo que permite defender la coherencia del diseño. Cuando un estudiante declara un paradigma interpretativo y luego pretende generalizar a una población, la incoherencia se ve de inmediato. Escribir los supuestos antes de elegir el método previene esa contradicción.",
- "limites":"La discusión paradigmática se ha usado con frecuencia para descalificar métodos ajenos en vez de para orientar decisiones. Las llamadas guerras de paradigmas produjeron más trincheras que conocimiento. La posición razonable es instrumental: los supuestos orientan la elección, y la elección se justifica por la pregunta.",
- "errores":[
-  "Elegir el método por afinidad personal y construir después la justificación epistemológica.",
-  "Descalificar un método por su paradigma en vez de por su ajuste a la pregunta."],
- "criterios":[
-  "la declaración conecta supuestos, pregunta y método sin contradicción;",
-  "reconoce qué tipo de afirmaciones podrá y no podrá sostener con ese enfoque;"],
- "preguntas":[
-  "¿Qué tipo de afirmación quieres poder hacer al final de tu investigación?",
-  "¿Qué supone tu método sobre lo que estás estudiando?",
-  "¿Qué no podrás concluir con este enfoque?"],
- "lecturas":[
-  ["Guba, E. & Lincoln, Y. (1994). *Competing Paradigms in Qualitative Research*.","exposición clásica de los paradigmas y de sus supuestos."],
-  ["Creswell, J. & Creswell, J. D. (2018). *Research Design*.","conecta supuestos, preguntas y diseños con criterios prácticos de elección."]],
- "inclusion":"Los supuestos epistemológicos determinan de quién se considera legítimo el conocimiento. Investigar con comunidades y no solo sobre ellas es una decisión epistemológica antes que metodológica, y tiene consecuencias éticas directas.",
- "reto":"Escribe la declaración epistemológica de tu investigación y pide a un colega de otra tradición que identifique sus incoherencias.",
- "conexion":"Abre la parte 16 y condiciona las decisiones de las clases 197 a 199."},
-
-{"n":194,"evidencia":"PRACTICA-PROFESIONAL",
- "foco":"por qué la mayoría de las investigaciones educativas fracasa antes de elegir el método",
- "proposito":"Convertir una inquietud profesional en una pregunta investigable: delimitada, conectada con lo que ya se sabe, respondible con los recursos disponibles y con consecuencias claras según el resultado.",
- "decision":"determinar la pregunta exacta que tu investigación responderá y qué decisión cambiaría según la respuesta",
- "entregable":"una pregunta de investigación delimitada con su justificación, su alcance y las consecuencias de cada respuesta posible",
- "conceptos":[
-  ["Pregunta investigable","interrogante que puede responderse con evidencia empírica en un plazo y con recursos definidos"],
-  ["Delimitación","precisión sobre población, contexto, variables y período que la pregunta abarca"],
-  ["Relevancia","aporte de la respuesta al conocimiento disponible o a una decisión práctica"],
-  ["Factibilidad","posibilidad real de responder la pregunta con el acceso, el tiempo y los recursos disponibles"]],
- "desarrollo":"Una pregunta demasiado amplia no se responde; una demasiado obvia no aporta; una cuya respuesta no cambiaría nada no justifica el esfuerzo. El trabajo de delimitación es el menos glamoroso y el que más determina el destino de una investigación. Un buen indicador: si no puedes anticipar cómo se vería la respuesta y qué implicaría, la pregunta todavía no está lista.",
- "practica":"El procedimiento consiste en escribir la pregunta, anticipar sus respuestas posibles y declarar qué cambiaría con cada una. Si todas las respuestas llevan a la misma conclusión práctica, la pregunta no discrimina. Y la factibilidad debe evaluarse antes: acceso al campo, permisos, tiempo real disponible y competencias metodológicas propias.",
- "limites":"No hay una fórmula para producir buenas preguntas: se construyen con conocimiento del campo, y por eso la revisión de literatura es previa y no posterior. Además, la pregunta suele reformularse durante el proceso, y eso no es un defecto siempre que la reformulación se documente y no se presente como plan original.",
- "errores":[
-  "Formular una pregunta cuya respuesta ya está establecida en la literatura.",
-  "Comprometer una pregunta sin haber verificado el acceso al campo ni los permisos necesarios."],
- "criterios":[
-  "la pregunta declara población, contexto y período con precisión;",
-  "se anticipan las respuestas posibles y sus consecuencias prácticas;"],
- "preguntas":[
-  "¿Qué decisión cambiaría según la respuesta que obtengas?",
-  "¿Qué parte de tu pregunta ya está respondida en la literatura?",
-  "¿Tienes acceso real al campo que tu pregunta exige?"],
- "lecturas":[
-  ["Booth, W., Colomb, G. & Williams, J. *The Craft of Research*.","el mejor tratamiento del paso de un tema a una pregunta investigable."],
-  ["Maxwell, J. (2013). *Qualitative Research Design: An Interactive Approach*.","modelo interactivo que conecta propósito, pregunta, método y validez."]],
- "inclusion":"Las preguntas de investigación reflejan quién define qué problema importa. Involucrar a los actores afectados en la formulación mejora la relevancia y evita investigar sobre comunidades sin su interés ni beneficio.",
- "reto":"Escribe tu pregunta y sus respuestas posibles con sus consecuencias. Preséntala a dos colegas y reformúlala hasta que ambos entiendan lo mismo.",
- "conexion":"Es la decisión que condiciona toda la parte 16 y se apoya en la revisión de la clase 195."},
-
-{"n":195,"evidencia":"PRACTICA-PROFESIONAL",
- "foco":"cómo se revisa literatura sin acumular resúmenes que no dicen nada",
- "proposito":"Realizar revisiones de literatura con estrategia documentada: búsqueda sistemática, criterios de inclusión, evaluación crítica y síntesis que muestre qué se sabe, qué se discute y qué falta.",
- "decision":"determinar qué se sabe con solidez sobre tu problema y dónde está el vacío que justifica tu investigación",
- "entregable":"una revisión de literatura con estrategia de búsqueda documentada, criterios de selección y síntesis crítica",
- "conceptos":[
-  ["Estrategia de búsqueda","conjunto de fuentes, términos y filtros usados, documentado para ser reproducible"],
-  ["Criterio de inclusión","regla explícita que define qué estudios entran en la revisión y cuáles no"],
-  ["Evaluación crítica","juicio sobre la calidad metodológica de cada estudio y sobre lo que permite afirmar"],
-  ["Vacío","aspecto del problema que la literatura no resuelve y que justifica una nueva investigación"]],
- "desarrollo":"Una revisión no es una lista de resúmenes: es un argumento sobre el estado del conocimiento. Su producto es una afirmación —esto está establecido, esto se discute, esto no se ha estudiado— que justifica la pregunta propia. Documentar la estrategia de búsqueda es lo que separa una revisión de una selección conveniente de estudios que confirman lo que ya se pensaba.",
- "practica":"El procedimiento incluye definir fuentes y términos, registrar la búsqueda con fecha, aplicar criterios de inclusión declarados, evaluar críticamente cada estudio y sintetizar por temas o por hallazgos y no por autores. La síntesis por autores —«Pérez dice, González dice»— es el error más común y el que revela que no hubo integración.",
- "limites":"Toda revisión tiene sesgo de publicación: los estudios con resultados nulos se publican menos, de modo que la literatura sobreestima los efectos. Y las revisiones no sistemáticas tienen sesgo de selección del autor. Reconocerlo y declararlo es parte del rigor, y en algunos casos justifica una revisión sistemática formal.",
- "errores":[
-  "Sintetizar por autores en vez de por hallazgos, sin integrar ni contrastar.",
-  "Omitir la estrategia de búsqueda, con lo que la revisión no es reproducible ni auditable."],
- "criterios":[
-  "la estrategia de búsqueda está documentada con fuentes, términos y fechas;",
-  "la síntesis distingue lo establecido, lo discutido y el vacío identificado;"],
- "preguntas":[
-  "¿Podría otra persona reproducir tu búsqueda?",
-  "¿Qué estudio contradice tu hipótesis y cómo lo trataste?",
-  "¿Cuál es exactamente el vacío que justifica tu investigación?"],
- "lecturas":[
-  ["Petticrew, M. & Roberts, H. (2006). *Systematic Reviews in the Social Sciences*.","metodología de revisión sistemática aplicable también a revisiones más acotadas."],
-  ["Boote, D. & Beile, P. (2005). *Scholars Before Researchers*.","argumenta y operacionaliza qué hace buena a una revisión de literatura de tesis."]],
- "inclusion":"La literatura disponible está sesgada hacia contextos anglosajones y hacia poblaciones específicas. Declararlo y buscar deliberadamente evidencia regional evita aplicar a un contexto conclusiones obtenidas en otro muy distinto.",
- "reto":"Documenta tu estrategia de búsqueda y aplícala. Identifica un estudio que contradiga tu expectativa y explica cómo cambia tu planteamiento.",
- "conexion":"Es condición de la clase 194 y alimenta el marco teórico de la clase 196."},
-
-{"n":196,"evidencia":"PRACTICA-PROFESIONAL",
- "foco":"para qué sirve un marco teórico, además de cumplir un requisito del formato de tesis",
- "proposito":"Construir marcos teóricos funcionales: conceptos definidos, relaciones explícitas entre ellos y consecuencias observables que orientan el diseño y el análisis.",
- "decision":"determinar qué teoría orientará tu diseño y qué observaciones esperarías si esa teoría es correcta",
- "entregable":"un marco teórico con conceptos definidos, relaciones explícitas y predicciones observables derivadas",
- "conceptos":[
-  ["Marco teórico","conjunto articulado de conceptos y relaciones que orienta el diseño y la interpretación"],
-  ["Definición operacional","traducción de un concepto a algo observable o medible"],
-  ["Relación teórica","vínculo propuesto entre conceptos, del que se derivan predicciones"],
-  ["Consecuencia observable","hecho que debería ocurrir si la teoría propuesta es adecuada"]],
- "desarrollo":"Un marco teórico que no orienta ninguna decisión de diseño es decorativo. Su función es doble: definir con precisión los conceptos que se usarán —de modo que otros entiendan qué se midió o se observó— y proponer relaciones que generen expectativas verificables. Si de tu marco no se deriva ninguna predicción, no es un marco: es un capítulo de antecedentes.",
- "practica":"La prueba práctica consiste en derivar del marco al menos dos observaciones esperadas y una que no se esperaría. Esa última es la más valiosa, porque hace la teoría falsable en el contexto del estudio. Y las definiciones operacionales deben escribirse antes de recoger datos, no después de mirarlos.",
- "limites":"En investigación cualitativa exploratoria, un marco demasiado rígido puede cerrar la observación a lo previsto y perder lo emergente. Ahí el marco funciona como sensibilizador y no como predictor. Declarar cuál de las dos funciones cumple evita la incoherencia entre marco y método.",
- "errores":[
-  "Escribir un capítulo de teoría que no orienta ninguna decisión del diseño.",
-  "Definir los conceptos después de haber recogido los datos, ajustándolos al resultado."],
- "criterios":[
-  "los conceptos tienen definición operacional escrita antes de la recolección;",
-  "del marco se derivan observaciones esperadas y al menos una no esperada;"],
- "preguntas":[
-  "¿Qué observarías si tu teoría es correcta, y qué si no lo es?",
-  "¿Qué decisión de tu diseño se deriva del marco?",
-  "¿Cómo definiste operacionalmente tu concepto principal?"],
- "lecturas":[
-  ["Maxwell, J. (2013). *Qualitative Research Design*.","explica el marco teórico como herramienta de diseño y no como requisito formal."],
-  ["Merton, R. *Teorías de alcance intermedio*.","fundamenta el nivel de teorización que resulta productivo en investigación social aplicada."]],
- "inclusion":"Los marcos teóricos importados sin ajuste pueden imponer categorías ajenas a la realidad estudiada. Verificar que los conceptos tengan sentido en el contexto local es una exigencia de validez y también de respeto.",
- "reto":"Deriva de tu marco tres consecuencias observables y contrástalas con datos preliminares. Ajusta el marco donde la realidad no se comportó como esperabas.",
- "conexion":"Se apoya en la clase 195 y ordena las decisiones de las clases 197 a 199."},
-
-{"n":197,"evidencia":"ROBUSTA",
- "foco":"qué diseño permite afirmar que una intervención causó el resultado y cuál no",
- "proposito":"Elegir y justificar diseños cuantitativos según la pregunta, comprendiendo las amenazas a la validez interna y qué controla cada diseño.",
- "decision":"determinar qué diseño permite sostener la afirmación causal que tu pregunta exige",
- "entregable":"la justificación de un diseño cuantitativo con sus amenazas a la validez y los controles previstos",
- "conceptos":[
-  ["Validez interna","grado en que el diseño permite atribuir el resultado a la intervención y no a otra causa"],
-  ["Amenaza a la validez","explicación alternativa del resultado: maduración, selección, historia, regresión a la media"],
-  ["Asignación aleatoria","procedimiento que equilibra en promedio las diferencias previas entre grupos"],
-  ["Diseño cuasiexperimental","comparación sin aleatorización, con controles que reducen algunas amenazas"]],
- "desarrollo":"Un diseño no es una etiqueta: es un argumento sobre qué explicaciones alternativas quedan descartadas. Un pretest-postest sin grupo de comparación no permite atribuir el cambio a la intervención, porque la maduración, la historia y la regresión a la media explican igual de bien el resultado. Conocer las amenazas y qué controla cada diseño es lo que permite elegir con criterio y, sobre todo, afirmar solo lo que corresponde.",
- "practica":"El trabajo consiste en listar las amenazas plausibles para tu contexto y decidir qué diseño las controla. En educación, la asignación aleatoria suele ser inviable o inaceptable, y los diseños cuasiexperimentales bien construidos —con grupo de comparación equivalente, medición previa y controles— sostienen inferencias razonables si sus supuestos se declaran.",
- "limites":"Ningún diseño observacional elimina la posibilidad de variables no medidas. Y los efectos promedio no describen a ningún estudiante en particular: un efecto positivo puede coexistir con perjuicio para un subgrupo. Reportar heterogeneidad de efectos es parte del rigor y rara vez se hace.",
- "errores":[
-  "Atribuir causalidad a partir de un pretest-postest sin grupo de comparación.",
-  "Reportar un efecto promedio sin examinar si beneficia por igual a los distintos subgrupos."],
- "criterios":[
-  "las amenazas plausibles están listadas con el control previsto para cada una;",
-  "la afirmación causal declarada corresponde a lo que el diseño efectivamente sostiene;"],
- "preguntas":[
-  "¿Qué explicación alternativa a la tuya no queda descartada?",
-  "¿Qué afirmación exacta sostiene tu diseño?",
-  "¿A quién podría estar perjudicando una intervención con efecto promedio positivo?"],
- "lecturas":[
-  ["Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*.","la referencia sobre amenazas a la validez y sobre qué controla cada diseño."],
-  ["What Works Clearinghouse. *Standards Handbook*.","criterios operativos para juzgar si un estudio sostiene una afirmación causal."]],
- "inclusion":"Los diseños que excluyen a estudiantes con necesidades de apoyo producen resultados que después se aplican a ellos igualmente. Declarar la población efectivamente incluida es una exigencia elemental y frecuentemente omitida.",
- "reto":"Toma una intervención de tu institución y diseña su evaluación con grupo de comparación. Declara qué amenazas quedan sin controlar.",
- "conexion":"Se apoya en las clases 193 y 196 y se complementa con la clase 201."},
-
-{"n":198,"evidencia":"CONSISTENTE",
- "foco":"qué afirmaciones sostiene un estudio cualitativo bien hecho y cuáles exceden su alcance",
- "proposito":"Diseñar investigación cualitativa con rigor: selección justificada de casos, recolección sistemática, análisis trazable y criterios de calidad propios de la tradición.",
- "decision":"determinar qué caso o casos permiten responder tu pregunta y qué podrás afirmar con ellos",
- "entregable":"un diseño cualitativo con selección justificada, técnicas de recolección y criterios de rigor declarados",
- "conceptos":[
-  ["Selección teórica","elección de casos por su capacidad de informar sobre el fenómeno, no por representatividad estadística"],
-  ["Saturación","punto en que nuevos datos dejan de aportar información relevante a las categorías"],
-  ["Trazabilidad","posibilidad de seguir el camino desde los datos hasta las conclusiones"],
-  ["Reflexividad","examen explícito del efecto del investigador sobre el campo y sobre la interpretación"]],
- "desarrollo":"La investigación cualitativa no busca generalizar a poblaciones sino comprender mecanismos, significados y procesos en contextos concretos. Sus criterios de calidad son propios: selección justificada, recolección sistemática, análisis trazable, búsqueda deliberada de casos que contradigan la interpretación y reflexividad sobre la posición del investigador. Aplicarle criterios cuantitativos —tamaño muestral, representatividad— es un error categorial frecuente.",
- "practica":"El diseño declara por qué esos casos, con qué técnicas se recogerán los datos, cómo se registrarán y cómo se analizarán. La búsqueda activa de evidencia discrepante es el control de calidad más potente: si el investigador solo encuentra confirmaciones, probablemente no las buscó.",
- "limites":"El estudio cualitativo no permite estimar prevalencia ni efecto promedio, y su transferibilidad a otros contextos la juzga el lector a partir de la descripción, no el investigador. Además, el análisis es interpretativo y por eso exige documentar el camino: sin trazabilidad, no hay forma de distinguir hallazgo de impresión.",
- "errores":[
-  "Generalizar a poblaciones a partir de un estudio de casos.",
-  "Presentar citas seleccionadas como evidencia sin mostrar el procedimiento de análisis."],
- "criterios":[
-  "la selección de casos está justificada por su aporte a la pregunta;",
-  "el diseño incluye búsqueda deliberada de evidencia discrepante y reflexividad;"],
- "preguntas":[
-  "¿Por qué estos casos y no otros?",
-  "¿Qué dato encontraste que contradice tu interpretación?",
-  "¿Cómo afecta tu posición en la institución lo que las personas te dicen?"],
- "lecturas":[
-  ["Yin, R. (2018). *Case Study Research and Applications*.","diseño de estudios de caso con criterios de calidad y de inferencia."],
-  ["Lincoln, Y. & Guba, E. (1985). *Naturalistic Inquiry*.","propone credibilidad, transferibilidad, dependibilidad y confirmabilidad como criterios de rigor."]],
- "inclusion":"La investigación cualitativa da voz a quienes los promedios invisibilizan, y por eso arrastra una responsabilidad adicional: representar sin exotizar, sin extraer y sin exponer a personas que quedan identificables pese al anonimato declarado.",
- "reto":"Diseña tu estudio y realiza dos recolecciones. Busca deliberadamente un caso que contradiga tu interpretación inicial y documenta qué cambió.",
- "conexion":"Complementa la clase 197 y aporta el método de análisis de la clase 202."},
-
-{"n":199,"evidencia":"CONSISTENTE",
- "foco":"cuándo combinar métodos aporta y cuándo solo duplica el trabajo",
- "proposito":"Diseñar investigación con métodos mixtos cuando la pregunta lo justifica, con integración explícita entre componentes y no como yuxtaposición de dos estudios.",
- "decision":"determinar qué aporta la combinación de métodos que ninguno de los dos aportaría por separado",
- "entregable":"un diseño mixto con su justificación, su secuencia y el punto explícito de integración de los componentes",
- "conceptos":[
-  ["Diseño mixto","investigación que combina componentes cuantitativos y cualitativos con integración explícita"],
-  ["Secuencia","orden de los componentes: exploratorio, explicativo o convergente"],
-  ["Integración","punto y forma en que los resultados de ambos componentes se combinan para producir una conclusión"],
-  ["Yuxtaposición","error de presentar dos estudios paralelos sin integración real"]],
- "desarrollo":"Los métodos mixtos aportan cuando la pregunta tiene dos partes que ningún método responde solo: cuánto ocurre y por qué ocurre, o qué efecto tiene y cómo lo experimentan quienes lo reciben. El error más frecuente es la yuxtaposición: dos estudios pegados sin integración, donde el componente cualitativo funciona como ilustración anecdótica del cuantitativo.",
- "practica":"El diseño debe declarar el punto de integración desde el inicio: si el componente cualitativo informa el instrumento cuantitativo, si explica sus resultados, o si ambos se comparan para buscar convergencias y discrepancias. Las discrepancias entre componentes son el hallazgo más valioso de un diseño mixto y el que más se omite en los informes.",
- "limites":"Los diseños mixtos exigen competencia en ambas tradiciones y consumen más recursos. Si la pregunta se responde bien con un solo método, mezclar agrega costo sin aportar. Y la integración auténtica es difícil: la mayoría de las tesis que se declaran mixtas presentan dos capítulos separados.",
- "errores":[
-  "Presentar dos estudios paralelos sin punto de integración declarado.",
-  "Usar el componente cualitativo solo como ilustración anecdótica del cuantitativo."],
- "criterios":[
-  "el diseño declara secuencia y punto de integración desde el inicio;",
-  "el informe reporta las discrepancias entre componentes y no solo las convergencias;"],
- "preguntas":[
-  "¿Qué responde la combinación que ningún método responde solo?",
-  "¿En qué momento exacto se integran tus componentes?",
-  "¿Qué harás si ambos componentes se contradicen?"],
- "lecturas":[
-  ["Creswell, J. & Plano Clark, V. (2018). *Designing and Conducting Mixed Methods Research*.","tipología de diseños mixtos con sus puntos de integración."],
-  ["Bryman, A. (2007). *Barriers to Integrating Quantitative and Qualitative Research*.","documenta por qué la integración falla en la práctica y cómo evitarlo."]],
- "inclusion":"La combinación permite contrastar lo que los indicadores muestran con lo que las personas afectadas describen, que es especialmente valioso cuando los datos administrativos invisibilizan a determinados grupos.",
- "reto":"Diseña un estudio mixto declarando el punto de integración. Simula una discrepancia entre componentes y escribe cómo la interpretarías.",
- "conexion":"Integra las clases 197 y 198 y prepara el diseño del proyecto de la clase 204."},
-
-{"n":200,"evidencia":"ROBUSTA",
- "foco":"por qué el tamaño de la muestra importa menos que cómo se seleccionó",
- "proposito":"Diseñar el muestreo según la pregunta y el método: probabilístico cuando se busca estimar en una población, intencionado cuando se busca comprender un fenómeno.",
- "decision":"determinar qué estrategia de muestreo corresponde a tu pregunta y qué sesgos introduce",
- "entregable":"el diseño de muestreo de tu investigación con su justificación, sus sesgos previstos y sus límites de inferencia",
- "conceptos":[
-  ["Muestreo probabilístico","selección con probabilidad conocida que permite inferencia estadística a la población"],
-  ["Muestreo intencionado","selección deliberada de casos por su relevancia para la pregunta"],
-  ["Sesgo de selección","distorsión producida cuando quienes participan difieren sistemáticamente de quienes no"],
-  ["Potencia estadística","probabilidad de detectar un efecto existente; depende del tamaño de muestra y del efecto esperado"]],
- "desarrollo":"Una muestra grande mal seleccionada produce estimaciones precisas de algo equivocado. El sesgo de selección es el problema central: quienes aceptan participar, quienes responden la encuesta o quienes permanecen hasta el final del estudio difieren de quienes no lo hacen, y esa diferencia suele estar relacionada con lo que se investiga. Declararlo y estimar su dirección es parte del análisis, no una limitación menor.",
- "practica":"En investigación educativa la aleatorización pura es rara: se trabaja con cursos completos, con establecimientos que aceptan participar y con estudiantes cuyos apoderados autorizan. Documentar quién quedó fuera y por qué es lo que permite interpretar correctamente los resultados. Y en estudios cuantitativos, el cálculo de potencia debe hacerse antes: un estudio sin potencia suficiente no puede concluir nada, ni siquiera la ausencia de efecto.",
- "limites":"El cálculo de potencia exige estimar el tamaño de efecto esperado, y esas estimaciones suelen provenir de literatura sesgada hacia efectos grandes. Además, en muchos contextos educativos el tamaño posible está fijado por la realidad: entonces corresponde declarar qué se puede y qué no se puede concluir con ese tamaño.",
- "errores":[
-  "Interpretar un resultado no significativo como ausencia de efecto en un estudio sin potencia suficiente.",
-  "Omitir la descripción de quiénes quedaron fuera de la muestra y por qué."],
- "criterios":[
-  "la estrategia de muestreo corresponde al tipo de inferencia que se pretende;",
-  "se documenta quién quedó fuera y qué sesgo puede introducir;"],
- "preguntas":[
-  "¿En qué se diferencian los que participaron de los que no?",
-  "¿Qué efecto mínimo podrías detectar con tu muestra?",
-  "¿A qué población puedes inferir realmente?"],
- "lecturas":[
-  ["Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*.","trata validez externa y problemas de selección con precisión."],
-  ["Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences*.","base del análisis de potencia y de la interpretación de tamaños de efecto."]],
- "inclusion":"Los estudios que excluyen sistemáticamente a estudiantes con necesidades de apoyo, con inasistencia alta o de zonas rurales producen conocimiento que después se les aplica sin haberlos incluido. Declarar la exclusión es el mínimo; corregirla es el objetivo.",
- "reto":"Documenta el muestreo real de tu estudio, incluidos los que no participaron. Estima en qué dirección podría sesgar tus resultados.",
- "conexion":"Condiciona la interpretación de las clases 197 y 201."},
-
-{"n":201,"evidencia":"ROBUSTA",
- "foco":"cómo reportar resultados cuantitativos sin decir más de lo que los datos sostienen",
- "proposito":"Analizar y reportar datos cuantitativos con corrección: descripción antes que inferencia, tamaños de efecto con intervalos, y interpretación proporcional a la evidencia.",
- "decision":"determinar qué análisis corresponde a tu diseño y qué puedes afirmar con sus resultados",
- "entregable":"el análisis de un conjunto de datos educativos con descripción, tamaño de efecto, intervalo e interpretación",
- "conceptos":[
-  ["Estadística descriptiva","resumen de los datos observados: distribución, tendencia central, dispersión"],
-  ["Tamaño de efecto","magnitud de la diferencia o de la relación, independiente del tamaño de muestra"],
-  ["Intervalo de confianza","rango de valores compatibles con los datos; comunica incertidumbre mejor que un valor único"],
-  ["Significación estadística","probabilidad de observar estos datos si no hubiera efecto; no indica importancia ni magnitud"]],
- "desarrollo":"El error de interpretación más extendido en investigación educativa es tratar la significación estadística como sinónimo de importancia. Un efecto trivial puede ser significativo con una muestra grande, y un efecto relevante puede no serlo con una muestra pequeña. Reportar tamaños de efecto con intervalos de confianza y describir la distribución antes de inferir corrige la mayor parte de esos errores.",
- "practica":"El orden de trabajo importa: mirar los datos primero —distribuciones, valores extremos, datos faltantes—, describir, y solo después inferir. Los datos faltantes merecen atención explícita: en educación rara vez faltan al azar, y quienes no responden suelen ser precisamente los casos de interés.",
- "limites":"El análisis correcto no rescata un diseño débil: ninguna técnica estadística convierte una comparación sesgada en evidencia causal. Y la práctica de probar múltiples análisis hasta encontrar uno significativo invalida la interpretación, aunque cada análisis por separado sea correcto.",
- "errores":[
-  "Reportar significación estadística sin tamaño de efecto ni intervalo de confianza.",
-  "Probar múltiples análisis y reportar solo el que resultó significativo."],
- "criterios":[
-  "el reporte incluye descripción, tamaño de efecto e intervalo de confianza;",
-  "el tratamiento de los datos faltantes está declarado y justificado;"],
- "preguntas":[
-  "¿Cuál es la magnitud del efecto y qué significa en la práctica?",
-  "¿Qué pasó con los casos que no tienen datos?",
-  "¿Cuántos análisis probaste antes de reportar este?"],
- "lecturas":[
-  ["Cumming, G. (2012). *Understanding the New Statistics*.","enfoque basado en estimación y en intervalos, más informativo que la prueba de hipótesis."],
-  ["Wasserstein, R. & Lazar, N. (2016). *The ASA Statement on p-Values*.","declaración oficial sobre qué indica y qué no indica un valor p."]],
- "inclusion":"Los análisis desagregados por subgrupo revelan efectos heterogéneos que el promedio oculta. Reportarlos, con la cautela que exige su menor potencia, es parte del compromiso con la equidad en investigación.",
- "reto":"Analiza un conjunto de datos reportando descripción, tamaño de efecto e intervalo. Escribe la conclusión que el resultado sostiene, y la que no.",
- "conexion":"Se apoya en las clases 197 y 200 y aporta la lectura crítica que exige la clase 143."},
-
-{"n":202,"evidencia":"CONSISTENTE",
- "foco":"cómo se analiza material cualitativo de modo que otro pueda seguir el camino hasta las conclusiones",
- "proposito":"Realizar análisis temático con procedimiento explícito: familiarización, codificación, construcción de temas, revisión y definición, con trazabilidad completa.",
- "decision":"determinar el procedimiento de análisis y cómo documentarás el camino desde los datos hasta los temas",
- "entregable":"un análisis temático documentado con sistema de códigos, temas construidos y trazabilidad hasta los datos",
- "conceptos":[
-  ["Código","etiqueta que identifica un segmento de datos con significado relevante para la pregunta"],
-  ["Tema","patrón de significado construido a partir de códigos, que responde a la pregunta de investigación"],
-  ["Trazabilidad","posibilidad de recorrer el camino desde una afirmación hasta los datos que la sostienen"],
-  ["Codificación inductiva y deductiva","construcción de códigos desde los datos o desde un marco previo"]],
- "desarrollo":"El análisis temático es el procedimiento cualitativo más usado y peor aplicado: con frecuencia se declara sin haberlo ejecutado, presentando citas escogidas como si fueran hallazgos. El procedimiento real tiene fases —familiarización, codificación sistemática de todo el material, construcción de temas, revisión contra los datos y definición— y produce un sistema de códigos documentado que permite auditar el camino.",
- "practica":"La documentación es el control de calidad: un libro de códigos con definiciones, ejemplos y decisiones tomadas durante el proceso. Y la revisión contra los datos es la fase que más se omite: cada tema debe volver a contrastarse con el material completo para verificar que lo representa y no solo que resulta atractivo.",
- "limites":"El análisis temático es flexible y esa flexibilidad exige declarar decisiones: si es inductivo o deductivo, si busca significados latentes o manifiestos, y desde qué posición epistemológica se interpreta. Sin esas declaraciones, el método se vuelve una etiqueta que no informa nada sobre lo que efectivamente se hizo.",
- "errores":[
-  "Presentar citas seleccionadas como resultados sin mostrar el sistema de códigos.",
-  "Construir temas sin volver a contrastarlos contra el material completo."],
- "criterios":[
-  "existe un libro de códigos con definiciones, ejemplos y decisiones documentadas;",
-  "cada tema se contrastó contra el conjunto de los datos y no solo contra los casos que lo apoyan;"],
- "preguntas":[
-  "¿Podría otra persona seguir el camino desde tus datos hasta tus temas?",
-  "¿Qué segmento de datos no encaja en ninguno de tus temas?",
-  "¿Es tu análisis inductivo o estabas buscando lo que tu marco predecía?"],
- "lecturas":[
-  ["Braun, V. & Clarke, V. (2006). *Using Thematic Analysis in Psychology*.","el procedimiento por fases más usado; léelo completo antes de declarar que lo aplicaste."],
-  ["Miles, M., Huberman, A. & Saldaña (2014). *Qualitative Data Analysis*.","repertorio de estrategias de codificación y de despliegue de datos."]],
- "inclusion":"El análisis debe cuidar que las voces de participantes menos elocuentes o menos numerosos no desaparezcan bajo los temas dominantes. Registrar los casos discrepantes protege esa diversidad y mejora el análisis.",
- "reto":"Codifica un conjunto de datos con libro de códigos documentado. Pide a un colega que codifique una parte y compara las diferencias.",
- "conexion":"Es el método de análisis de la clase 198 y se integra en el proyecto de la clase 204."},
-
-{"n":203,"evidencia":"MARCO-NORMATIVO",
- "foco":"qué obligaciones éticas y qué prácticas de reproducibilidad exige investigar con estudiantes",
- "proposito":"Cumplir los estándares éticos de investigación con personas —consentimiento, asentimiento, resguardo, beneficio— e incorporar prácticas de ciencia abierta que hagan verificable el trabajo.",
- "decision":"determinar qué resguardos éticos y qué prácticas de reproducibilidad exige tu investigación",
- "entregable":"el protocolo ético y de reproducibilidad de tu investigación, con documentos de consentimiento y plan de datos",
- "conceptos":[
-  ["Consentimiento informado","autorización libre e informada de quien participa o de su representante legal"],
-  ["Asentimiento","acuerdo del menor de edad, además de la autorización de su adulto responsable"],
-  ["Resguardo de datos","medidas de anonimización, almacenamiento y acceso a la información recogida"],
-  ["Preregistro","publicación anticipada de hipótesis y plan de análisis para evitar la reinterpretación posterior"]],
- "desarrollo":"Investigar en educación implica trabajar con menores de edad, dentro de instituciones con relaciones de poder y con datos sensibles. Eso exige consentimiento del adulto responsable, asentimiento del propio estudiante, resguardo efectivo de los datos y una evaluación honesta del beneficio: nadie debería participar en un estudio que no le reporta ningún beneficio, ni directo ni al grupo al que pertenece.",
- "practica":"El protocolo debe incluir documentos comprensibles —no formularios legales incomprensibles—, plan de anonimización, almacenamiento seguro, plazos de conservación y destrucción, y la aprobación del comité correspondiente cuando se requiere. Y las prácticas de reproducibilidad —preregistro, publicación de instrumentos, disponibilidad de datos anonimizados cuando es posible— fortalecen la credibilidad de un campo golpeado por problemas de replicación.",
- "limites":"El rol dual docente-investigador plantea un problema específico: el estudiante puede sentir que negarse afecta su relación o su calificación. Ese riesgo exige resguardos adicionales —consentimiento gestionado por un tercero, disociación entre participación y evaluación— que muchas investigaciones de aula omiten.",
- "errores":[
-  "Obtener consentimiento con documentos que las familias no pueden comprender.",
-  "Investigar con los propios estudiantes sin resguardar el efecto del rol dual sobre su libertad de negarse."],
- "criterios":[
-  "los documentos de consentimiento y asentimiento son comprensibles para sus destinatarios;",
-  "el plan de datos declara anonimización, almacenamiento, acceso y plazo de conservación;"],
- "preguntas":[
-  "¿Puede un estudiante negarse a participar sin ningún costo para él?",
-  "¿Qué beneficio obtiene quien participa en tu estudio?",
-  "¿Dónde estarán tus datos en tres años y quién podrá acceder?"],
- "lecturas":[
-  ["Informe Belmont y declaraciones internacionales sobre investigación con seres humanos.","principios de respeto, beneficencia y justicia que fundan los comités de ética."],
-  ["Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*.","muestra por qué las prácticas de reproducibilidad dejaron de ser opcionales."]],
- "inclusion":"El consentimiento debe ser accesible: traducido cuando corresponde, en lenguaje claro y en formatos alternativos. Un consentimiento que no se comprende no es consentimiento, y afecta primero a las familias con menos escolaridad.",
- "reto":"Redacta tus documentos de consentimiento y pruébalos con dos personas del perfil real de tus participantes. Corrige todo lo que no entendieron.",
- "conexion":"Rige toda la parte 16 y se apoya en la clase 004. Sus exigencias se profundizan en la parte 17."},
-
-{"n":204,"evidencia":"CONSISTENTE",
- "foco":"cómo se construye una investigación completa que se pueda defender ante una comisión exigente",
- "proposito":"Integrar la parte diseñando y ejecutando una investigación educativa completa de nivel magíster, con pregunta delimitada, diseño coherente, análisis trazable y límites declarados.",
- "decision":"determinar el conjunto completo de decisiones de tu investigación y qué podrás afirmar con ella",
- "entregable":"un informe de investigación completo con pregunta, marco, diseño, análisis, resultados y limitaciones",
- "conceptos":[
-  ["Coherencia interna","correspondencia entre pregunta, marco, diseño, análisis y conclusiones"],
-  ["Alcance declarado","afirmación explícita de a qué contexto y población se aplican los hallazgos"],
-  ["Limitación","restricción del estudio que condiciona sus conclusiones; se declara, no se disimula"],
-  ["Contribución","aporte concreto al conocimiento o a la práctica que el estudio produce"]],
- "desarrollo":"El proyecto integrador exige coherencia de principio a fin: una pregunta que el diseño pueda responder, un análisis que corresponda a los datos y conclusiones que no excedan la evidencia. La sección de limitaciones es la prueba de honestidad del trabajo: cuando se escribe como trámite —«el tamaño de muestra fue reducido»— no cumple su función; cuando declara qué afirmaciones quedan sin sostén, fortalece el trabajo.",
- "practica":"El informe debe permitir que otra persona evalúe cada decisión: por qué esa pregunta, ese diseño, esa muestra, ese análisis. Y debe distinguir con claridad hallazgo de interpretación y de recomendación, que es la separación que más frecuentemente se pierde en las tesis educativas.",
- "limites":"Una investigación de magíster produce evidencia acotada: un contexto, un período, una muestra limitada. Su valor está en la calidad de sus decisiones y en la honestidad de sus límites, no en la magnitud de sus conclusiones. Presentarla como generalizable es el error que más credibilidad quita a un trabajo por lo demás sólido.",
- "errores":[
-  "Extender las conclusiones más allá de lo que el diseño y la muestra permiten.",
-  "Escribir las limitaciones como trámite sin declarar qué afirmaciones quedan sin sostén."],
- "criterios":[
-  "la coherencia entre pregunta, diseño, análisis y conclusiones es verificable por un lector externo;",
-  "las limitaciones declaran explícitamente qué no se puede afirmar con este estudio;"],
- "preguntas":[
-  "¿Qué afirmación de tu conclusión no está sostenida por tus datos?",
-  "¿A qué contexto se aplican realmente tus hallazgos?",
-  "¿Qué haría distinto si empezaras de nuevo?"],
- "lecturas":[
-  ["Creswell, J. & Creswell, J. D. (2018). *Research Design*.","estructura de un informe completo y criterios de coherencia interna."],
-  ["Booth, W., Colomb, G. & Williams, J. *The Craft of Research*.","tratamiento de la argumentación y de la relación entre evidencia y afirmación."]],
- "inclusion":"El informe debe declarar quiénes quedaron fuera del estudio y qué consecuencias tiene para la interpretación. Esa declaración es la que impide que los hallazgos se apliquen a poblaciones que nunca fueron incluidas.",
- "reto":"Somete tu informe a la revisión de un colega con instrucción explícita de buscar afirmaciones no sostenidas. Corrige cada una que encuentre.",
- "conexion":"Cierra la parte 16 integrando sus once clases previas y es el antecedente directo de la parte 17."}
+  {
+    "n": 193,
+    "evidencia": "EN-DEBATE",
+    "foco": "qué supuestos sobre el conocimiento hay detrás de la elección de un método de investigación",
+    "proposito": "Explicitar los supuestos epistemológicos que sostienen una investigación educativa y evitar tanto el eclecticismo sin criterio como el dogmatismo metodológico.",
+    "decision": "determinar qué supuestos sobre el conocimiento sostienen tu pregunta y qué métodos son coherentes con ellos",
+    "entregable": "la declaración epistemológica de una investigación propia, con sus supuestos y sus implicancias metodológicas",
+    "conceptos": [
+      [
+        "Ontología",
+        "supuestos sobre la naturaleza de aquello que se estudia"
+      ],
+      [
+        "Epistemología",
+        "supuestos sobre qué cuenta como conocimiento válido y cómo se obtiene"
+      ],
+      [
+        "Paradigma",
+        "conjunto articulado de supuestos, preguntas y métodos compartido por una comunidad de investigación"
+      ],
+      [
+        "Coherencia metodológica",
+        "correspondencia entre supuestos declarados, pregunta y método elegido"
+      ]
+    ],
+    "desarrollo": "Toda investigación supone una posición sobre qué se puede conocer y cómo. Quien busca establecer el efecto promedio de una intervención supone que existe un efecto estimable y que la comparación controlada lo revela; quien estudia cómo un grupo construye el sentido de una práctica supone que ese sentido es situado y no generalizable. Ninguna posición es superior en abstracto: la superioridad depende de la pregunta.",
+    "practica": "La declaración epistemológica no es un trámite de tesis: es lo que permite defender la coherencia del diseño. Cuando un estudiante declara un paradigma interpretativo y luego pretende generalizar a una población, la incoherencia se ve de inmediato. Escribir los supuestos antes de elegir el método previene esa contradicción.",
+    "limites": "La discusión paradigmática se ha usado con frecuencia para descalificar métodos ajenos en vez de para orientar decisiones. Las llamadas guerras de paradigmas produjeron más trincheras que conocimiento. La posición razonable es instrumental: los supuestos orientan la elección, y la elección se justifica por la pregunta.",
+    "errores": [
+      "Elegir el método por afinidad personal y construir después la justificación epistemológica.",
+      "Descalificar un método por su paradigma en vez de por su ajuste a la pregunta."
+    ],
+    "criterios": [
+      "la declaración conecta supuestos, pregunta y método sin contradicción;",
+      "reconoce qué tipo de afirmaciones podrá y no podrá sostener con ese enfoque;"
+    ],
+    "preguntas": [
+      "¿Qué tipo de afirmación quieres poder hacer al final de tu investigación?",
+      "¿Qué supone tu método sobre lo que estás estudiando?",
+      "¿Qué no podrás concluir con este enfoque?"
+    ],
+    "lecturas": [
+      [
+        "Guba, E. & Lincoln, Y. (1994). *Competing Paradigms in Qualitative Research*.",
+        "exposición clásica de los paradigmas y de sus supuestos."
+      ],
+      [
+        "Creswell, J. & Creswell, J. D. (2018). *Research Design*.",
+        "conecta supuestos, preguntas y diseños con criterios prácticos de elección."
+      ]
+    ],
+    "inclusion": "Los supuestos epistemológicos determinan de quién se considera legítimo el conocimiento. Investigar con comunidades y no solo sobre ellas es una decisión epistemológica antes que metodológica, y tiene consecuencias éticas directas.",
+    "reto": "Escribe la declaración epistemológica de tu investigación y pide a un colega de otra tradición que identifique sus incoherencias.",
+    "conexion": "Abre la parte 16 y condiciona las decisiones de las clases 197 a 199."
+  },
+  {
+    "n": 194,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "por qué la mayoría de las investigaciones educativas fracasa antes de elegir el método",
+    "proposito": "Convertir una inquietud profesional en una pregunta investigable: delimitada, conectada con lo que ya se sabe, respondible con los recursos disponibles y con consecuencias claras según el resultado.",
+    "decision": "determinar la pregunta exacta que tu investigación responderá y qué decisión cambiaría según la respuesta",
+    "entregable": "una pregunta de investigación delimitada con su justificación, su alcance y las consecuencias de cada respuesta posible",
+    "conceptos": [
+      [
+        "Pregunta investigable",
+        "interrogante que puede responderse con evidencia empírica en un plazo y con recursos definidos"
+      ],
+      [
+        "Delimitación",
+        "precisión sobre población, contexto, variables y período que la pregunta abarca"
+      ],
+      [
+        "Relevancia",
+        "aporte de la respuesta al conocimiento disponible o a una decisión práctica"
+      ],
+      [
+        "Factibilidad",
+        "posibilidad real de responder la pregunta con el acceso, el tiempo y los recursos disponibles"
+      ]
+    ],
+    "desarrollo": "Una pregunta demasiado amplia no se responde; una demasiado obvia no aporta; una cuya respuesta no cambiaría nada no justifica el esfuerzo. El trabajo de delimitación es el menos glamoroso y el que más determina el destino de una investigación. Un buen indicador: si no puedes anticipar cómo se vería la respuesta y qué implicaría, la pregunta todavía no está lista.",
+    "practica": "El procedimiento consiste en escribir la pregunta, anticipar sus respuestas posibles y declarar qué cambiaría con cada una. Si todas las respuestas llevan a la misma conclusión práctica, la pregunta no discrimina. Y la factibilidad debe evaluarse antes: acceso al campo, permisos, tiempo real disponible y competencias metodológicas propias.",
+    "limites": "No hay una fórmula para producir buenas preguntas: se construyen con conocimiento del campo, y por eso la revisión de literatura es previa y no posterior. Además, la pregunta suele reformularse durante el proceso, y eso no es un defecto siempre que la reformulación se documente y no se presente como plan original.",
+    "errores": [
+      "Formular una pregunta cuya respuesta ya está establecida en la literatura.",
+      "Comprometer una pregunta sin haber verificado el acceso al campo ni los permisos necesarios."
+    ],
+    "criterios": [
+      "la pregunta declara población, contexto y período con precisión;",
+      "se anticipan las respuestas posibles y sus consecuencias prácticas;"
+    ],
+    "preguntas": [
+      "¿Qué decisión cambiaría según la respuesta que obtengas?",
+      "¿Qué parte de tu pregunta ya está respondida en la literatura?",
+      "¿Tienes acceso real al campo que tu pregunta exige?"
+    ],
+    "lecturas": [
+      [
+        "Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente).",
+        "el mejor tratamiento del paso de un tema a una pregunta investigable."
+      ],
+      [
+        "Maxwell, J. (2013). *Qualitative Research Design: An Interactive Approach*.",
+        "modelo interactivo que conecta propósito, pregunta, método y validez."
+      ]
+    ],
+    "inclusion": "Las preguntas de investigación reflejan quién define qué problema importa. Involucrar a los actores afectados en la formulación mejora la relevancia y evita investigar sobre comunidades sin su interés ni beneficio.",
+    "reto": "Escribe tu pregunta y sus respuestas posibles con sus consecuencias. Preséntala a dos colegas y reformúlala hasta que ambos entiendan lo mismo.",
+    "conexion": "Es la decisión que condiciona toda la parte 16 y se apoya en la revisión de la clase 195."
+  },
+  {
+    "n": 195,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "cómo se revisa literatura sin acumular resúmenes que no dicen nada",
+    "proposito": "Realizar revisiones de literatura con estrategia documentada: búsqueda sistemática, criterios de inclusión, evaluación crítica y síntesis que muestre qué se sabe, qué se discute y qué falta.",
+    "decision": "determinar qué se sabe con solidez sobre tu problema y dónde está el vacío que justifica tu investigación",
+    "entregable": "una revisión de literatura con estrategia de búsqueda documentada, criterios de selección y síntesis crítica",
+    "conceptos": [
+      [
+        "Estrategia de búsqueda",
+        "conjunto de fuentes, términos y filtros usados, documentado para ser reproducible"
+      ],
+      [
+        "Criterio de inclusión",
+        "regla explícita que define qué estudios entran en la revisión y cuáles no"
+      ],
+      [
+        "Evaluación crítica",
+        "juicio sobre la calidad metodológica de cada estudio y sobre lo que permite afirmar"
+      ],
+      [
+        "Vacío",
+        "aspecto del problema que la literatura no resuelve y que justifica una nueva investigación"
+      ]
+    ],
+    "desarrollo": "Una revisión no es una lista de resúmenes: es un argumento sobre el estado del conocimiento. Su producto es una afirmación —esto está establecido, esto se discute, esto no se ha estudiado— que justifica la pregunta propia. Documentar la estrategia de búsqueda es lo que separa una revisión de una selección conveniente de estudios que confirman lo que ya se pensaba.",
+    "practica": "El procedimiento incluye definir fuentes y términos, registrar la búsqueda con fecha, aplicar criterios de inclusión declarados, evaluar críticamente cada estudio y sintetizar por temas o por hallazgos y no por autores. La síntesis por autores —«Pérez dice, González dice»— es el error más común y el que revela que no hubo integración.",
+    "limites": "Toda revisión tiene sesgo de publicación: los estudios con resultados nulos se publican menos, de modo que la literatura sobreestima los efectos. Y las revisiones no sistemáticas tienen sesgo de selección del autor. Reconocerlo y declararlo es parte del rigor, y en algunos casos justifica una revisión sistemática formal.",
+    "errores": [
+      "Sintetizar por autores en vez de por hallazgos, sin integrar ni contrastar.",
+      "Omitir la estrategia de búsqueda, con lo que la revisión no es reproducible ni auditable."
+    ],
+    "criterios": [
+      "la estrategia de búsqueda está documentada con fuentes, términos y fechas;",
+      "la síntesis distingue lo establecido, lo discutido y el vacío identificado;"
+    ],
+    "preguntas": [
+      "¿Podría otra persona reproducir tu búsqueda?",
+      "¿Qué estudio contradice tu hipótesis y cómo lo trataste?",
+      "¿Cuál es exactamente el vacío que justifica tu investigación?"
+    ],
+    "lecturas": [
+      [
+        "Petticrew, M. & Roberts, H. (2006). *Systematic Reviews in the Social Sciences*.",
+        "metodología de revisión sistemática aplicable también a revisiones más acotadas."
+      ],
+      [
+        "Boote, D. & Beile, P. (2005). *Scholars Before Researchers*.",
+        "argumenta y operacionaliza qué hace buena a una revisión de literatura de tesis."
+      ]
+    ],
+    "inclusion": "La literatura disponible está sesgada hacia contextos anglosajones y hacia poblaciones específicas. Declararlo y buscar deliberadamente evidencia regional evita aplicar a un contexto conclusiones obtenidas en otro muy distinto.",
+    "reto": "Documenta tu estrategia de búsqueda y aplícala. Identifica un estudio que contradiga tu expectativa y explica cómo cambia tu planteamiento.",
+    "conexion": "Es condición de la clase 194 y alimenta el marco teórico de la clase 196."
+  },
+  {
+    "n": 196,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "para qué sirve un marco teórico, además de cumplir un requisito del formato de tesis",
+    "proposito": "Construir marcos teóricos funcionales: conceptos definidos, relaciones explícitas entre ellos y consecuencias observables que orientan el diseño y el análisis.",
+    "decision": "determinar qué teoría orientará tu diseño y qué observaciones esperarías si esa teoría es correcta",
+    "entregable": "un marco teórico con conceptos definidos, relaciones explícitas y predicciones observables derivadas",
+    "conceptos": [
+      [
+        "Marco teórico",
+        "conjunto articulado de conceptos y relaciones que orienta el diseño y la interpretación"
+      ],
+      [
+        "Definición operacional",
+        "traducción de un concepto a algo observable o medible"
+      ],
+      [
+        "Relación teórica",
+        "vínculo propuesto entre conceptos, del que se derivan predicciones"
+      ],
+      [
+        "Consecuencia observable",
+        "hecho que debería ocurrir si la teoría propuesta es adecuada"
+      ]
+    ],
+    "desarrollo": "Un marco teórico que no orienta ninguna decisión de diseño es decorativo. Su función es doble: definir con precisión los conceptos que se usarán —de modo que otros entiendan qué se midió o se observó— y proponer relaciones que generen expectativas verificables. Si de tu marco no se deriva ninguna predicción, no es un marco: es un capítulo de antecedentes.",
+    "practica": "La prueba práctica consiste en derivar del marco al menos dos observaciones esperadas y una que no se esperaría. Esa última es la más valiosa, porque hace la teoría falsable en el contexto del estudio. Y las definiciones operacionales deben escribirse antes de recoger datos, no después de mirarlos.",
+    "limites": "En investigación cualitativa exploratoria, un marco demasiado rígido puede cerrar la observación a lo previsto y perder lo emergente. Ahí el marco funciona como sensibilizador y no como predictor. Declarar cuál de las dos funciones cumple evita la incoherencia entre marco y método.",
+    "errores": [
+      "Escribir un capítulo de teoría que no orienta ninguna decisión del diseño.",
+      "Definir los conceptos después de haber recogido los datos, ajustándolos al resultado."
+    ],
+    "criterios": [
+      "los conceptos tienen definición operacional escrita antes de la recolección;",
+      "del marco se derivan observaciones esperadas y al menos una no esperada;"
+    ],
+    "preguntas": [
+      "¿Qué observarías si tu teoría es correcta, y qué si no lo es?",
+      "¿Qué decisión de tu diseño se deriva del marco?",
+      "¿Cómo definiste operacionalmente tu concepto principal?"
+    ],
+    "lecturas": [
+      [
+        "Maxwell, J. (2013). *Qualitative Research Design*.",
+        "explica el marco teórico como herramienta de diseño y no como requisito formal."
+      ],
+      [
+        "Merton, R. (1968). *Social Theory and Social Structure*.",
+        "fundamenta el nivel de teorización que resulta productivo en investigación social aplicada."
+      ]
+    ],
+    "inclusion": "Los marcos teóricos importados sin ajuste pueden imponer categorías ajenas a la realidad estudiada. Verificar que los conceptos tengan sentido en el contexto local es una exigencia de validez y también de respeto.",
+    "reto": "Deriva de tu marco tres consecuencias observables y contrástalas con datos preliminares. Ajusta el marco donde la realidad no se comportó como esperabas.",
+    "conexion": "Se apoya en la clase 195 y ordena las decisiones de las clases 197 a 199."
+  },
+  {
+    "n": 197,
+    "evidencia": "ROBUSTA",
+    "foco": "qué diseño permite afirmar que una intervención causó el resultado y cuál no",
+    "proposito": "Elegir y justificar diseños cuantitativos según la pregunta, comprendiendo las amenazas a la validez interna y qué controla cada diseño.",
+    "decision": "determinar qué diseño permite sostener la afirmación causal que tu pregunta exige",
+    "entregable": "la justificación de un diseño cuantitativo con sus amenazas a la validez y los controles previstos",
+    "conceptos": [
+      [
+        "Validez interna",
+        "grado en que el diseño permite atribuir el resultado a la intervención y no a otra causa"
+      ],
+      [
+        "Amenaza a la validez",
+        "explicación alternativa del resultado: maduración, selección, historia, regresión a la media"
+      ],
+      [
+        "Asignación aleatoria",
+        "procedimiento que equilibra en promedio las diferencias previas entre grupos"
+      ],
+      [
+        "Diseño cuasiexperimental",
+        "comparación sin aleatorización, con controles que reducen algunas amenazas"
+      ]
+    ],
+    "desarrollo": "Un diseño no es una etiqueta: es un argumento sobre qué explicaciones alternativas quedan descartadas. Un pretest-postest sin grupo de comparación no permite atribuir el cambio a la intervención, porque la maduración, la historia y la regresión a la media explican igual de bien el resultado. Conocer las amenazas y qué controla cada diseño es lo que permite elegir con criterio y, sobre todo, afirmar solo lo que corresponde.",
+    "practica": "El trabajo consiste en listar las amenazas plausibles para tu contexto y decidir qué diseño las controla. En educación, la asignación aleatoria suele ser inviable o inaceptable, y los diseños cuasiexperimentales bien construidos —con grupo de comparación equivalente, medición previa y controles— sostienen inferencias razonables si sus supuestos se declaran.",
+    "limites": "Ningún diseño observacional elimina la posibilidad de variables no medidas. Y los efectos promedio no describen a ningún estudiante en particular: un efecto positivo puede coexistir con perjuicio para un subgrupo. Reportar heterogeneidad de efectos es parte del rigor y rara vez se hace.",
+    "errores": [
+      "Atribuir causalidad a partir de un pretest-postest sin grupo de comparación.",
+      "Reportar un efecto promedio sin examinar si beneficia por igual a los distintos subgrupos."
+    ],
+    "criterios": [
+      "las amenazas plausibles están listadas con el control previsto para cada una;",
+      "la afirmación causal declarada corresponde a lo que el diseño efectivamente sostiene;"
+    ],
+    "preguntas": [
+      "¿Qué explicación alternativa a la tuya no queda descartada?",
+      "¿Qué afirmación exacta sostiene tu diseño?",
+      "¿A quién podría estar perjudicando una intervención con efecto promedio positivo?"
+    ],
+    "lecturas": [
+      [
+        "Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*.",
+        "la referencia sobre amenazas a la validez y sobre qué controla cada diseño."
+      ],
+      [
+        "What Works Clearinghouse. *Standards Handbook* (edición vigente).",
+        "criterios operativos para juzgar si un estudio sostiene una afirmación causal."
+      ]
+    ],
+    "inclusion": "Los diseños que excluyen a estudiantes con necesidades de apoyo producen resultados que después se aplican a ellos igualmente. Declarar la población efectivamente incluida es una exigencia elemental y frecuentemente omitida.",
+    "reto": "Toma una intervención de tu institución y diseña su evaluación con grupo de comparación. Declara qué amenazas quedan sin controlar.",
+    "conexion": "Se apoya en las clases 193 y 196 y se complementa con la clase 201."
+  },
+  {
+    "n": 198,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué afirmaciones sostiene un estudio cualitativo bien hecho y cuáles exceden su alcance",
+    "proposito": "Diseñar investigación cualitativa con rigor: selección justificada de casos, recolección sistemática, análisis trazable y criterios de calidad propios de la tradición.",
+    "decision": "determinar qué caso o casos permiten responder tu pregunta y qué podrás afirmar con ellos",
+    "entregable": "un diseño cualitativo con selección justificada, técnicas de recolección y criterios de rigor declarados",
+    "conceptos": [
+      [
+        "Selección teórica",
+        "elección de casos por su capacidad de informar sobre el fenómeno, no por representatividad estadística"
+      ],
+      [
+        "Saturación",
+        "punto en que nuevos datos dejan de aportar información relevante a las categorías"
+      ],
+      [
+        "Trazabilidad",
+        "posibilidad de seguir el camino desde los datos hasta las conclusiones"
+      ],
+      [
+        "Reflexividad",
+        "examen explícito del efecto del investigador sobre el campo y sobre la interpretación"
+      ]
+    ],
+    "desarrollo": "La investigación cualitativa no busca generalizar a poblaciones sino comprender mecanismos, significados y procesos en contextos concretos. Sus criterios de calidad son propios: selección justificada, recolección sistemática, análisis trazable, búsqueda deliberada de casos que contradigan la interpretación y reflexividad sobre la posición del investigador. Aplicarle criterios cuantitativos —tamaño muestral, representatividad— es un error categorial frecuente.",
+    "practica": "El diseño declara por qué esos casos, con qué técnicas se recogerán los datos, cómo se registrarán y cómo se analizarán. La búsqueda activa de evidencia discrepante es el control de calidad más potente: si el investigador solo encuentra confirmaciones, probablemente no las buscó.",
+    "limites": "El estudio cualitativo no permite estimar prevalencia ni efecto promedio, y su transferibilidad a otros contextos la juzga el lector a partir de la descripción, no el investigador. Además, el análisis es interpretativo y por eso exige documentar el camino: sin trazabilidad, no hay forma de distinguir hallazgo de impresión.",
+    "errores": [
+      "Generalizar a poblaciones a partir de un estudio de casos.",
+      "Presentar citas seleccionadas como evidencia sin mostrar el procedimiento de análisis."
+    ],
+    "criterios": [
+      "la selección de casos está justificada por su aporte a la pregunta;",
+      "el diseño incluye búsqueda deliberada de evidencia discrepante y reflexividad;"
+    ],
+    "preguntas": [
+      "¿Por qué estos casos y no otros?",
+      "¿Qué dato encontraste que contradice tu interpretación?",
+      "¿Cómo afecta tu posición en la institución lo que las personas te dicen?"
+    ],
+    "lecturas": [
+      [
+        "Yin, R. (2018). *Case Study Research and Applications*.",
+        "diseño de estudios de caso con criterios de calidad y de inferencia."
+      ],
+      [
+        "Lincoln, Y. & Guba, E. (1985). *Naturalistic Inquiry*.",
+        "propone credibilidad, transferibilidad, dependibilidad y confirmabilidad como criterios de rigor."
+      ]
+    ],
+    "inclusion": "La investigación cualitativa da voz a quienes los promedios invisibilizan, y por eso arrastra una responsabilidad adicional: representar sin exotizar, sin extraer y sin exponer a personas que quedan identificables pese al anonimato declarado.",
+    "reto": "Diseña tu estudio y realiza dos recolecciones. Busca deliberadamente un caso que contradiga tu interpretación inicial y documenta qué cambió.",
+    "conexion": "Complementa la clase 197 y aporta el método de análisis de la clase 202."
+  },
+  {
+    "n": 199,
+    "evidencia": "CONSISTENTE",
+    "foco": "cuándo combinar métodos aporta y cuándo solo duplica el trabajo",
+    "proposito": "Diseñar investigación con métodos mixtos cuando la pregunta lo justifica, con integración explícita entre componentes y no como yuxtaposición de dos estudios.",
+    "decision": "determinar qué aporta la combinación de métodos que ninguno de los dos aportaría por separado",
+    "entregable": "un diseño mixto con su justificación, su secuencia y el punto explícito de integración de los componentes",
+    "conceptos": [
+      [
+        "Diseño mixto",
+        "investigación que combina componentes cuantitativos y cualitativos con integración explícita"
+      ],
+      [
+        "Secuencia",
+        "orden de los componentes: exploratorio, explicativo o convergente"
+      ],
+      [
+        "Integración",
+        "punto y forma en que los resultados de ambos componentes se combinan para producir una conclusión"
+      ],
+      [
+        "Yuxtaposición",
+        "error de presentar dos estudios paralelos sin integración real"
+      ]
+    ],
+    "desarrollo": "Los métodos mixtos aportan cuando la pregunta tiene dos partes que ningún método responde solo: cuánto ocurre y por qué ocurre, o qué efecto tiene y cómo lo experimentan quienes lo reciben. El error más frecuente es la yuxtaposición: dos estudios pegados sin integración, donde el componente cualitativo funciona como ilustración anecdótica del cuantitativo.",
+    "practica": "El diseño debe declarar el punto de integración desde el inicio: si el componente cualitativo informa el instrumento cuantitativo, si explica sus resultados, o si ambos se comparan para buscar convergencias y discrepancias. Las discrepancias entre componentes son el hallazgo más valioso de un diseño mixto y el que más se omite en los informes.",
+    "limites": "Los diseños mixtos exigen competencia en ambas tradiciones y consumen más recursos. Si la pregunta se responde bien con un solo método, mezclar agrega costo sin aportar. Y la integración auténtica es difícil: la mayoría de las tesis que se declaran mixtas presentan dos capítulos separados.",
+    "errores": [
+      "Presentar dos estudios paralelos sin punto de integración declarado.",
+      "Usar el componente cualitativo solo como ilustración anecdótica del cuantitativo."
+    ],
+    "criterios": [
+      "el diseño declara secuencia y punto de integración desde el inicio;",
+      "el informe reporta las discrepancias entre componentes y no solo las convergencias;"
+    ],
+    "preguntas": [
+      "¿Qué responde la combinación que ningún método responde solo?",
+      "¿En qué momento exacto se integran tus componentes?",
+      "¿Qué harás si ambos componentes se contradicen?"
+    ],
+    "lecturas": [
+      [
+        "Creswell, J. & Plano Clark, V. (2018). *Designing and Conducting Mixed Methods Research*.",
+        "tipología de diseños mixtos con sus puntos de integración."
+      ],
+      [
+        "Bryman, A. (2007). *Barriers to Integrating Quantitative and Qualitative Research*.",
+        "documenta por qué la integración falla en la práctica y cómo evitarlo."
+      ]
+    ],
+    "inclusion": "La combinación permite contrastar lo que los indicadores muestran con lo que las personas afectadas describen, que es especialmente valioso cuando los datos administrativos invisibilizan a determinados grupos.",
+    "reto": "Diseña un estudio mixto declarando el punto de integración. Simula una discrepancia entre componentes y escribe cómo la interpretarías.",
+    "conexion": "Integra las clases 197 y 198 y prepara el diseño del proyecto de la clase 204."
+  },
+  {
+    "n": 200,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué el tamaño de la muestra importa menos que cómo se seleccionó",
+    "proposito": "Diseñar el muestreo según la pregunta y el método: probabilístico cuando se busca estimar en una población, intencionado cuando se busca comprender un fenómeno.",
+    "decision": "determinar qué estrategia de muestreo corresponde a tu pregunta y qué sesgos introduce",
+    "entregable": "el diseño de muestreo de tu investigación con su justificación, sus sesgos previstos y sus límites de inferencia",
+    "conceptos": [
+      [
+        "Muestreo probabilístico",
+        "selección con probabilidad conocida que permite inferencia estadística a la población"
+      ],
+      [
+        "Muestreo intencionado",
+        "selección deliberada de casos por su relevancia para la pregunta"
+      ],
+      [
+        "Sesgo de selección",
+        "distorsión producida cuando quienes participan difieren sistemáticamente de quienes no"
+      ],
+      [
+        "Potencia estadística",
+        "probabilidad de detectar un efecto existente; depende del tamaño de muestra y del efecto esperado"
+      ]
+    ],
+    "desarrollo": "Una muestra grande mal seleccionada produce estimaciones precisas de algo equivocado. El sesgo de selección es el problema central: quienes aceptan participar, quienes responden la encuesta o quienes permanecen hasta el final del estudio difieren de quienes no lo hacen, y esa diferencia suele estar relacionada con lo que se investiga. Declararlo y estimar su dirección es parte del análisis, no una limitación menor.",
+    "practica": "En investigación educativa la aleatorización pura es rara: se trabaja con cursos completos, con establecimientos que aceptan participar y con estudiantes cuyos apoderados autorizan. Documentar quién quedó fuera y por qué es lo que permite interpretar correctamente los resultados. Y en estudios cuantitativos, el cálculo de potencia debe hacerse antes: un estudio sin potencia suficiente no puede concluir nada, ni siquiera la ausencia de efecto.",
+    "limites": "El cálculo de potencia exige estimar el tamaño de efecto esperado, y esas estimaciones suelen provenir de literatura sesgada hacia efectos grandes. Además, en muchos contextos educativos el tamaño posible está fijado por la realidad: entonces corresponde declarar qué se puede y qué no se puede concluir con ese tamaño.",
+    "errores": [
+      "Interpretar un resultado no significativo como ausencia de efecto en un estudio sin potencia suficiente.",
+      "Omitir la descripción de quiénes quedaron fuera de la muestra y por qué."
+    ],
+    "criterios": [
+      "la estrategia de muestreo corresponde al tipo de inferencia que se pretende;",
+      "se documenta quién quedó fuera y qué sesgo puede introducir;"
+    ],
+    "preguntas": [
+      "¿En qué se diferencian los que participaron de los que no?",
+      "¿Qué efecto mínimo podrías detectar con tu muestra?",
+      "¿A qué población puedes inferir realmente?"
+    ],
+    "lecturas": [
+      [
+        "Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*.",
+        "trata validez externa y problemas de selección con precisión."
+      ],
+      [
+        "Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences*.",
+        "base del análisis de potencia y de la interpretación de tamaños de efecto."
+      ]
+    ],
+    "inclusion": "Los estudios que excluyen sistemáticamente a estudiantes con necesidades de apoyo, con inasistencia alta o de zonas rurales producen conocimiento que después se les aplica sin haberlos incluido. Declarar la exclusión es el mínimo; corregirla es el objetivo.",
+    "reto": "Documenta el muestreo real de tu estudio, incluidos los que no participaron. Estima en qué dirección podría sesgar tus resultados.",
+    "conexion": "Condiciona la interpretación de las clases 197 y 201."
+  },
+  {
+    "n": 201,
+    "evidencia": "ROBUSTA",
+    "foco": "cómo reportar resultados cuantitativos sin decir más de lo que los datos sostienen",
+    "proposito": "Analizar y reportar datos cuantitativos con corrección: descripción antes que inferencia, tamaños de efecto con intervalos, y interpretación proporcional a la evidencia.",
+    "decision": "determinar qué análisis corresponde a tu diseño y qué puedes afirmar con sus resultados",
+    "entregable": "el análisis de un conjunto de datos educativos con descripción, tamaño de efecto, intervalo e interpretación",
+    "conceptos": [
+      [
+        "Estadística descriptiva",
+        "resumen de los datos observados: distribución, tendencia central, dispersión"
+      ],
+      [
+        "Tamaño de efecto",
+        "magnitud de la diferencia o de la relación, independiente del tamaño de muestra"
+      ],
+      [
+        "Intervalo de confianza",
+        "rango de valores compatibles con los datos; comunica incertidumbre mejor que un valor único"
+      ],
+      [
+        "Significación estadística",
+        "probabilidad de observar estos datos si no hubiera efecto; no indica importancia ni magnitud"
+      ]
+    ],
+    "desarrollo": "El error de interpretación más extendido en investigación educativa es tratar la significación estadística como sinónimo de importancia. Un efecto trivial puede ser significativo con una muestra grande, y un efecto relevante puede no serlo con una muestra pequeña. Reportar tamaños de efecto con intervalos de confianza y describir la distribución antes de inferir corrige la mayor parte de esos errores.",
+    "practica": "El orden de trabajo importa: mirar los datos primero —distribuciones, valores extremos, datos faltantes—, describir, y solo después inferir. Los datos faltantes merecen atención explícita: en educación rara vez faltan al azar, y quienes no responden suelen ser precisamente los casos de interés.",
+    "limites": "El análisis correcto no rescata un diseño débil: ninguna técnica estadística convierte una comparación sesgada en evidencia causal. Y la práctica de probar múltiples análisis hasta encontrar uno significativo invalida la interpretación, aunque cada análisis por separado sea correcto.",
+    "errores": [
+      "Reportar significación estadística sin tamaño de efecto ni intervalo de confianza.",
+      "Probar múltiples análisis y reportar solo el que resultó significativo."
+    ],
+    "criterios": [
+      "el reporte incluye descripción, tamaño de efecto e intervalo de confianza;",
+      "el tratamiento de los datos faltantes está declarado y justificado;"
+    ],
+    "preguntas": [
+      "¿Cuál es la magnitud del efecto y qué significa en la práctica?",
+      "¿Qué pasó con los casos que no tienen datos?",
+      "¿Cuántos análisis probaste antes de reportar este?"
+    ],
+    "lecturas": [
+      [
+        "Cumming, G. (2012). *Understanding the New Statistics*.",
+        "enfoque basado en estimación y en intervalos, más informativo que la prueba de hipótesis."
+      ],
+      [
+        "Wasserstein, R. & Lazar, N. (2016). *The ASA Statement on p-Values*.",
+        "declaración oficial sobre qué indica y qué no indica un valor p."
+      ]
+    ],
+    "inclusion": "Los análisis desagregados por subgrupo revelan efectos heterogéneos que el promedio oculta. Reportarlos, con la cautela que exige su menor potencia, es parte del compromiso con la equidad en investigación.",
+    "reto": "Analiza un conjunto de datos reportando descripción, tamaño de efecto e intervalo. Escribe la conclusión que el resultado sostiene, y la que no.",
+    "conexion": "Se apoya en las clases 197 y 200 y aporta la lectura crítica que exige la clase 143."
+  },
+  {
+    "n": 202,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se analiza material cualitativo de modo que otro pueda seguir el camino hasta las conclusiones",
+    "proposito": "Realizar análisis temático con procedimiento explícito: familiarización, codificación, construcción de temas, revisión y definición, con trazabilidad completa.",
+    "decision": "determinar el procedimiento de análisis y cómo documentarás el camino desde los datos hasta los temas",
+    "entregable": "un análisis temático documentado con sistema de códigos, temas construidos y trazabilidad hasta los datos",
+    "conceptos": [
+      [
+        "Código",
+        "etiqueta que identifica un segmento de datos con significado relevante para la pregunta"
+      ],
+      [
+        "Tema",
+        "patrón de significado construido a partir de códigos, que responde a la pregunta de investigación"
+      ],
+      [
+        "Trazabilidad",
+        "posibilidad de recorrer el camino desde una afirmación hasta los datos que la sostienen"
+      ],
+      [
+        "Codificación inductiva y deductiva",
+        "construcción de códigos desde los datos o desde un marco previo"
+      ]
+    ],
+    "desarrollo": "El análisis temático es el procedimiento cualitativo más usado y peor aplicado: con frecuencia se declara sin haberlo ejecutado, presentando citas escogidas como si fueran hallazgos. El procedimiento real tiene fases —familiarización, codificación sistemática de todo el material, construcción de temas, revisión contra los datos y definición— y produce un sistema de códigos documentado que permite auditar el camino.",
+    "practica": "La documentación es el control de calidad: un libro de códigos con definiciones, ejemplos y decisiones tomadas durante el proceso. Y la revisión contra los datos es la fase que más se omite: cada tema debe volver a contrastarse con el material completo para verificar que lo representa y no solo que resulta atractivo.",
+    "limites": "El análisis temático es flexible y esa flexibilidad exige declarar decisiones: si es inductivo o deductivo, si busca significados latentes o manifiestos, y desde qué posición epistemológica se interpreta. Sin esas declaraciones, el método se vuelve una etiqueta que no informa nada sobre lo que efectivamente se hizo.",
+    "errores": [
+      "Presentar citas seleccionadas como resultados sin mostrar el sistema de códigos.",
+      "Construir temas sin volver a contrastarlos contra el material completo."
+    ],
+    "criterios": [
+      "existe un libro de códigos con definiciones, ejemplos y decisiones documentadas;",
+      "cada tema se contrastó contra el conjunto de los datos y no solo contra los casos que lo apoyan;"
+    ],
+    "preguntas": [
+      "¿Podría otra persona seguir el camino desde tus datos hasta tus temas?",
+      "¿Qué segmento de datos no encaja en ninguno de tus temas?",
+      "¿Es tu análisis inductivo o estabas buscando lo que tu marco predecía?"
+    ],
+    "lecturas": [
+      [
+        "Braun, V. & Clarke, V. (2006). *Using Thematic Analysis in Psychology*.",
+        "el procedimiento por fases más usado; léelo completo antes de declarar que lo aplicaste."
+      ],
+      [
+        "Miles, M., Huberman, A. & Saldaña (2014). *Qualitative Data Analysis*.",
+        "repertorio de estrategias de codificación y de despliegue de datos."
+      ]
+    ],
+    "inclusion": "El análisis debe cuidar que las voces de participantes menos elocuentes o menos numerosos no desaparezcan bajo los temas dominantes. Registrar los casos discrepantes protege esa diversidad y mejora el análisis.",
+    "reto": "Codifica un conjunto de datos con libro de códigos documentado. Pide a un colega que codifique una parte y compara las diferencias.",
+    "conexion": "Es el método de análisis de la clase 198 y se integra en el proyecto de la clase 204."
+  },
+  {
+    "n": 203,
+    "evidencia": "MARCO-NORMATIVO",
+    "foco": "qué obligaciones éticas y qué prácticas de reproducibilidad exige investigar con estudiantes",
+    "proposito": "Cumplir los estándares éticos de investigación con personas —consentimiento, asentimiento, resguardo, beneficio— e incorporar prácticas de ciencia abierta que hagan verificable el trabajo.",
+    "decision": "determinar qué resguardos éticos y qué prácticas de reproducibilidad exige tu investigación",
+    "entregable": "el protocolo ético y de reproducibilidad de tu investigación, con documentos de consentimiento y plan de datos",
+    "conceptos": [
+      [
+        "Consentimiento informado",
+        "autorización libre e informada de quien participa o de su representante legal"
+      ],
+      [
+        "Asentimiento",
+        "acuerdo del menor de edad, además de la autorización de su adulto responsable"
+      ],
+      [
+        "Resguardo de datos",
+        "medidas de anonimización, almacenamiento y acceso a la información recogida"
+      ],
+      [
+        "Preregistro",
+        "publicación anticipada de hipótesis y plan de análisis para evitar la reinterpretación posterior"
+      ]
+    ],
+    "desarrollo": "Investigar en educación implica trabajar con menores de edad, dentro de instituciones con relaciones de poder y con datos sensibles. Eso exige consentimiento del adulto responsable, asentimiento del propio estudiante, resguardo efectivo de los datos y una evaluación honesta del beneficio: nadie debería participar en un estudio que no le reporta ningún beneficio, ni directo ni al grupo al que pertenece.",
+    "practica": "El protocolo debe incluir documentos comprensibles —no formularios legales incomprensibles—, plan de anonimización, almacenamiento seguro, plazos de conservación y destrucción, y la aprobación del comité correspondiente cuando se requiere. Y las prácticas de reproducibilidad —preregistro, publicación de instrumentos, disponibilidad de datos anonimizados cuando es posible— fortalecen la credibilidad de un campo golpeado por problemas de replicación.",
+    "limites": "El rol dual docente-investigador plantea un problema específico: el estudiante puede sentir que negarse afecta su relación o su calificación. Ese riesgo exige resguardos adicionales —consentimiento gestionado por un tercero, disociación entre participación y evaluación— que muchas investigaciones de aula omiten.",
+    "errores": [
+      "Obtener consentimiento con documentos que las familias no pueden comprender.",
+      "Investigar con los propios estudiantes sin resguardar el efecto del rol dual sobre su libertad de negarse."
+    ],
+    "criterios": [
+      "los documentos de consentimiento y asentimiento son comprensibles para sus destinatarios;",
+      "el plan de datos declara anonimización, almacenamiento, acceso y plazo de conservación;"
+    ],
+    "preguntas": [
+      "¿Puede un estudiante negarse a participar sin ningún costo para él?",
+      "¿Qué beneficio obtiene quien participa en tu estudio?",
+      "¿Dónde estarán tus datos en tres años y quién podrá acceder?"
+    ],
+    "lecturas": [
+      [
+        "Informe Belmont y declaraciones internacionales sobre investigación con seres humanos (edición vigente).",
+        "principios de respeto, beneficencia y justicia que fundan los comités de ética."
+      ],
+      [
+        "Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*.",
+        "muestra por qué las prácticas de reproducibilidad dejaron de ser opcionales."
+      ]
+    ],
+    "inclusion": "El consentimiento debe ser accesible: traducido cuando corresponde, en lenguaje claro y en formatos alternativos. Un consentimiento que no se comprende no es consentimiento, y afecta primero a las familias con menos escolaridad.",
+    "reto": "Redacta tus documentos de consentimiento y pruébalos con dos personas del perfil real de tus participantes. Corrige todo lo que no entendieron.",
+    "conexion": "Rige toda la parte 16 y se apoya en la clase 004. Sus exigencias se profundizan en la parte 17."
+  },
+  {
+    "n": 204,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se construye una investigación completa que se pueda defender ante una comisión exigente",
+    "proposito": "Integrar la parte diseñando y ejecutando una investigación educativa completa de nivel magíster, con pregunta delimitada, diseño coherente, análisis trazable y límites declarados.",
+    "decision": "determinar el conjunto completo de decisiones de tu investigación y qué podrás afirmar con ella",
+    "entregable": "un informe de investigación completo con pregunta, marco, diseño, análisis, resultados y limitaciones",
+    "conceptos": [
+      [
+        "Coherencia interna",
+        "correspondencia entre pregunta, marco, diseño, análisis y conclusiones"
+      ],
+      [
+        "Alcance declarado",
+        "afirmación explícita de a qué contexto y población se aplican los hallazgos"
+      ],
+      [
+        "Limitación",
+        "restricción del estudio que condiciona sus conclusiones; se declara, no se disimula"
+      ],
+      [
+        "Contribución",
+        "aporte concreto al conocimiento o a la práctica que el estudio produce"
+      ]
+    ],
+    "desarrollo": "El proyecto integrador exige coherencia de principio a fin: una pregunta que el diseño pueda responder, un análisis que corresponda a los datos y conclusiones que no excedan la evidencia. La sección de limitaciones es la prueba de honestidad del trabajo: cuando se escribe como trámite —«el tamaño de muestra fue reducido»— no cumple su función; cuando declara qué afirmaciones quedan sin sostén, fortalece el trabajo.",
+    "practica": "El informe debe permitir que otra persona evalúe cada decisión: por qué esa pregunta, ese diseño, esa muestra, ese análisis. Y debe distinguir con claridad hallazgo de interpretación y de recomendación, que es la separación que más frecuentemente se pierde en las tesis educativas.",
+    "limites": "Una investigación de magíster produce evidencia acotada: un contexto, un período, una muestra limitada. Su valor está en la calidad de sus decisiones y en la honestidad de sus límites, no en la magnitud de sus conclusiones. Presentarla como generalizable es el error que más credibilidad quita a un trabajo por lo demás sólido.",
+    "errores": [
+      "Extender las conclusiones más allá de lo que el diseño y la muestra permiten.",
+      "Escribir las limitaciones como trámite sin declarar qué afirmaciones quedan sin sostén."
+    ],
+    "criterios": [
+      "la coherencia entre pregunta, diseño, análisis y conclusiones es verificable por un lector externo;",
+      "las limitaciones declaran explícitamente qué no se puede afirmar con este estudio;"
+    ],
+    "preguntas": [
+      "¿Qué afirmación de tu conclusión no está sostenida por tus datos?",
+      "¿A qué contexto se aplican realmente tus hallazgos?",
+      "¿Qué haría distinto si empezaras de nuevo?"
+    ],
+    "lecturas": [
+      [
+        "Creswell, J. & Creswell, J. D. (2018). *Research Design*.",
+        "estructura de un informe completo y criterios de coherencia interna."
+      ],
+      [
+        "Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente).",
+        "tratamiento de la argumentación y de la relación entre evidencia y afirmación."
+      ]
+    ],
+    "inclusion": "El informe debe declarar quiénes quedaron fuera del estudio y qué consecuencias tiene para la interpretación. Esa declaración es la que impide que los hallazgos se apliquen a poblaciones que nunca fueron incluidas.",
+    "reto": "Somete tu informe a la revisión de un colega con instrucción explícita de buscar afirmaciones no sostenidas. Corrige cada una que encuentre.",
+    "conexion": "Cierra la parte 16 integrando sus once clases previas y es el antecedente directo de la parte 17."
+  }
 ]

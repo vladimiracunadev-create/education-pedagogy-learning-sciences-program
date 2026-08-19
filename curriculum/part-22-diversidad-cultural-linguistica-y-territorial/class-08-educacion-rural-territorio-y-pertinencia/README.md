@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Moll, L. et al. (1992). *Funds of Knowledge for Teaching*. | el marco que convierte el saber local en recurso curricular con estatus. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*. | el modelo latinoamericano diseñado desde las condiciones rurales y no adaptado a ellas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente). | el modelo latinoamericano diseñado desde las condiciones rurales y no adaptado a ellas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Moll, L. et al. (1992). *Funds of Knowledge for Teaching*. **Uso en esta clase:** el marco que convierte el saber local en recurso curricular con estatus. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*. **Uso en esta clase:** el modelo latinoamericano diseñado desde las condiciones rurales y no adaptado a ellas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente). **Uso en esta clase:** el modelo latinoamericano diseñado desde las condiciones rurales y no adaptado a ellas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

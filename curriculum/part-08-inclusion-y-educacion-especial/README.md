@@ -82,9 +82,9 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **CAST. *Universal Design for Learning Guidelines* (versión 3.0, 2024).** — el marco operativo del DUA con sus tres principios y sus pautas; usa la versión vigente, no resúmenes de segunda mano.
+- **CAST. *Universal Design for Learning Guidelines* (versión 3.0, 2024) (edición vigente).** — el marco operativo del DUA con sus tres principios y sus pautas; usa la versión vigente, no resúmenes de segunda mano.
 - **Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.** — instrumento de autoevaluación institucional: convierte «ser inclusivo» en indicadores revisables.
-- **Mineduc. *Decreto 83/2015* (adecuaciones curriculares) y *Decreto 170/2009* (NEE).** — marco chileno vigente que define instrumentos, plazos y responsabilidades; verifica siempre la versión actualizada.
+- **Mineduc. *Decreto 83/2015* (adecuaciones curriculares) y *Decreto 170/2009* (NEE) (edición vigente).** — marco chileno vigente que define instrumentos, plazos y responsabilidades; verifica siempre la versión actualizada.
 - **Organización Mundial de la Salud (2001). *Clasificación Internacional del Funcionamiento, de la Discapacidad y de la Salud*.** — sostiene el enfoque de funcionamiento en contexto que reemplaza al enfoque de déficit.
 
 ## ✅ Evidencia mínima para dar la parte por cerrada

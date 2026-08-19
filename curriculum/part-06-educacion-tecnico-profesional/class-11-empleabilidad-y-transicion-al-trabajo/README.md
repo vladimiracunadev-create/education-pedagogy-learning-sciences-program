@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| OCDE. *Learning for Jobs* y estudios de transición educación-trabajo. | evidencia comparada sobre qué facilita la inserción laboral de egresados técnicos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Subsecretaría de Educación Superior (Chile). *Sistemas de información sobre empleabilidad e ingresos*. | fuente verificable para contrastar expectativas con datos reales de trayectorias. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *Learning for Jobs* y estudios de transición educación-trabajo (edición vigente). | evidencia comparada sobre qué facilita la inserción laboral de egresados técnicos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Subsecretaría de Educación Superior (Chile). *Sistemas de información sobre empleabilidad e ingresos* (edición vigente). | fuente verificable para contrastar expectativas con datos reales de trayectorias. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Baldwin, T. & Ford, J. K. (1988). *Transfer of Training: A Review and Directions for Future Research*. | el marco clásico sobre transferencia, que explica por qué formar no basta para emplear. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Learning for Jobs* y estudios de transición educación-trabajo. **Uso en esta clase:** evidencia comparada sobre qué facilita la inserción laboral de egresados técnicos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Subsecretaría de Educación Superior (Chile). *Sistemas de información sobre empleabilidad e ingresos*. **Uso en esta clase:** fuente verificable para contrastar expectativas con datos reales de trayectorias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Learning for Jobs* y estudios de transición educación-trabajo (edición vigente). **Uso en esta clase:** evidencia comparada sobre qué facilita la inserción laboral de egresados técnicos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Subsecretaría de Educación Superior (Chile). *Sistemas de información sobre empleabilidad e ingresos* (edición vigente). **Uso en esta clase:** fuente verificable para contrastar expectativas con datos reales de trayectorias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Baldwin, T. & Ford, J. K. (1988). *Transfer of Training: A Review and Directions for Future Research*. **Uso en esta clase:** el marco clásico sobre transferencia, que explica por qué formar no basta para emplear. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

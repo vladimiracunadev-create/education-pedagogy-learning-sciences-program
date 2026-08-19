@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. | propone criterios de calidad aplicables a portafolios y evaluación de competencias. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc. *Orientaciones para la evaluación en la formación diferenciada técnico-profesional*. | referencia chilena sobre instrumentos y evidencias esperadas en el nivel. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Orientaciones para la evaluación en la formación diferenciada técnico-profesional* (edición vigente). | referencia chilena sobre instrumentos y evidencias esperadas en el nivel. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. **Uso en esta clase:** propone criterios de calidad aplicables a portafolios y evaluación de competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para la evaluación en la formación diferenciada técnico-profesional*. **Uso en esta clase:** referencia chilena sobre instrumentos y evidencias esperadas en el nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Orientaciones para la evaluación en la formación diferenciada técnico-profesional* (edición vigente). **Uso en esta clase:** referencia chilena sobre instrumentos y evidencias esperadas en el nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

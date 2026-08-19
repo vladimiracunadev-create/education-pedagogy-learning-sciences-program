@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación*. | define qué se espera del perfil de egreso y de su verificación en el sistema chileno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación* (edición vigente). | define qué se espera del perfil de egreso y de su verificación en el sistema chileno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. | conecta perfil, resultados de aprendizaje y evaluación con la lógica del alineamiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación*. **Uso en esta clase:** define qué se espera del perfil de egreso y de su verificación en el sistema chileno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación* (edición vigente). **Uso en esta clase:** define qué se espera del perfil de egreso y de su verificación en el sistema chileno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** conecta perfil, resultados de aprendizaje y evaluación con la lógica del alineamiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

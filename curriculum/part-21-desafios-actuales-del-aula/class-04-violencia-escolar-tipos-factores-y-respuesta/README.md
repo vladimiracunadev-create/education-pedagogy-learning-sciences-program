@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Olweus, D. (1993). *Bullying at School*. | los criterios operacionales que permiten distinguir acoso de conflicto. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Superintendencia de Educación de Chile. *Circulares sobre convivencia escolar*. | las obligaciones institucionales, plazos y protocolos vigentes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Superintendencia de Educación de Chile. *Circulares sobre convivencia escolar* (edición vigente). | las obligaciones institucionales, plazos y protocolos vigentes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Olweus, D. (1993). *Bullying at School*. **Uso en esta clase:** los criterios operacionales que permiten distinguir acoso de conflicto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Superintendencia de Educación de Chile. *Circulares sobre convivencia escolar*. **Uso en esta clase:** las obligaciones institucionales, plazos y protocolos vigentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Superintendencia de Educación de Chile. *Circulares sobre convivencia escolar* (edición vigente). **Uso en esta clase:** las obligaciones institucionales, plazos y protocolos vigentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Sword, H. (2012). *Stylish Academic Writing*. | evidencia sobre qué hace legible un texto académico y cómo escribirlo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. | tratamiento de la argumentación y de la relación entre afirmación y evidencia. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). | tratamiento de la argumentación y de la relación entre afirmación y evidencia. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Sword, H. (2012). *Stylish Academic Writing*. **Uso en esta clase:** evidencia sobre qué hace legible un texto académico y cómo escribirlo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. **Uso en esta clase:** tratamiento de la argumentación y de la relación entre afirmación y evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** tratamiento de la argumentación y de la relación entre afirmación y evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

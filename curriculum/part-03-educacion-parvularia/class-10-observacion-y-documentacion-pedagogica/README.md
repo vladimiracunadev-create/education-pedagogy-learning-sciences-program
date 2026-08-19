@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*. | fundamenta la documentación pedagógica como práctica de investigación del propio equipo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc. *Orientaciones para la evaluación en educación parvularia*. | define en Chile el enfoque y los instrumentos esperados en el nivel. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Orientaciones para la evaluación en educación parvularia* (edición vigente). | define en Chile el enfoque y los instrumentos esperados en el nivel. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*. **Uso en esta clase:** fundamenta la documentación pedagógica como práctica de investigación del propio equipo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para la evaluación en educación parvularia*. **Uso en esta clase:** define en Chile el enfoque y los instrumentos esperados en el nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Orientaciones para la evaluación en educación parvularia* (edición vigente). **Uso en esta clase:** define en Chile el enfoque y los instrumentos esperados en el nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

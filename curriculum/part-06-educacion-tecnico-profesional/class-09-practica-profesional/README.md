@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Mineduc. *Reglamento y orientaciones sobre práctica profesional en educación media técnico-profesional*. | define duración, requisitos y responsabilidades vigentes en Chile. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Reglamento y orientaciones sobre práctica profesional en educación media técnico-profesional* (edición vigente). | define duración, requisitos y responsabilidades vigentes en Chile. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Billett, S. (2011). *Curriculum and Pedagogic Bases for Effectively Integrating Practice-Based Experiences*. | evidencia sobre qué hace formativa una experiencia laboral integrada al currículo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Reglamento y orientaciones sobre práctica profesional en educación media técnico-profesional*. **Uso en esta clase:** define duración, requisitos y responsabilidades vigentes en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Reglamento y orientaciones sobre práctica profesional en educación media técnico-profesional* (edición vigente). **Uso en esta clase:** define duración, requisitos y responsabilidades vigentes en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Billett, S. (2011). *Curriculum and Pedagogic Bases for Effectively Integrating Practice-Based Experiences*. **Uso en esta clase:** evidencia sobre qué hace formativa una experiencia laboral integrada al currículo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

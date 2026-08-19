@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Embretson, S. & Reise, S. (2000). *Item Response Theory for Psychologists*. | introducción accesible y rigurosa a los modelos y sus supuestos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Agencia de Calidad de la Educación (Chile). *Informes técnicos de las evaluaciones nacionales*. | material real para practicar la lectura crítica con datos del propio sistema. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Agencia de Calidad de la Educación (Chile). *Informes técnicos de las evaluaciones nacionales* (edición vigente). | material real para practicar la lectura crítica con datos del propio sistema. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Embretson, S. & Reise, S. (2000). *Item Response Theory for Psychologists*. **Uso en esta clase:** introducción accesible y rigurosa a los modelos y sus supuestos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Agencia de Calidad de la Educación (Chile). *Informes técnicos de las evaluaciones nacionales*. **Uso en esta clase:** material real para practicar la lectura crítica con datos del propio sistema. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Agencia de Calidad de la Educación (Chile). *Informes técnicos de las evaluaciones nacionales* (edición vigente). **Uso en esta clase:** material real para practicar la lectura crítica con datos del propio sistema. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

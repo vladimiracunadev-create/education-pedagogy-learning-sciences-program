@@ -1,361 +1,666 @@
 [
-{"n":181,"evidencia":"CONSISTENTE",
- "foco":"qué práctica directiva tiene el mayor efecto documentado sobre el aprendizaje de los estudiantes",
- "proposito":"Ejercer liderazgo pedagógico centrado en el aprendizaje: participar del desarrollo profesional del equipo, garantizar condiciones de enseñanza y sostener el foco frente a las urgencias administrativas.",
- "decision":"determinar en qué prácticas de liderazgo vas a invertir tu tiempo, sabiendo que no alcanza para todas",
- "entregable":"un análisis del uso real de tu tiempo directivo con una redistribución hacia prácticas de mayor efecto",
- "conceptos":[
-  ["Liderazgo pedagógico","conjunto de prácticas directivas centradas en la calidad de la enseñanza y del aprendizaje"],
-  ["Efecto indirecto","influencia del liderazgo sobre el aprendizaje a través de las condiciones y del trabajo docente"],
-  ["Participación en el aprendizaje docente","práctica directiva de aprender junto al equipo, no solo de organizarlo"],
-  ["Foco","capacidad de sostener pocas prioridades frente a la presión de lo urgente"]],
- "desarrollo":"La investigación sobre liderazgo escolar converge en un resultado útil: su efecto sobre el aprendizaje es real e indirecto, y la práctica con mayor magnitud documentada es la participación del directivo en el aprendizaje profesional de sus docentes. No supervisarlo desde fuera: participar. Le siguen el establecimiento de metas, la garantía de condiciones de enseñanza y la protección del tiempo pedagógico.",
- "practica":"El análisis del uso del tiempo es incómodo y revelador: la mayoría de los equipos directivos descubre que dedica menos del veinte por ciento de su tiempo a prácticas pedagógicas. Redistribuir exige delegar o eliminar tareas administrativas, lo que a su vez exige decisiones sobre estructura y no solo sobre voluntad.",
- "limites":"Los efectos del liderazgo son moderados y dependen del contexto: en escuelas en crisis las prácticas que funcionan son distintas de las que sirven en escuelas estables. Y la evidencia proviene mayormente de estudios correlacionales y de síntesis con definiciones heterogéneas de liderazgo.",
- "errores":[
-  "Ejercer liderazgo pedagógico solo mediante instrucciones y supervisión externa.",
-  "Declarar prioridades pedagógicas sin liberar tiempo real para sostenerlas."],
- "criterios":[
-  "el análisis se basa en registro real del tiempo y no en estimación;",
-  "la redistribución identifica qué se deja de hacer para liberar tiempo;"],
- "preguntas":[
-  "¿Qué porcentaje de tu semana pasada dedicaste a prácticas pedagógicas?",
-  "¿Qué aprendiste junto a tus docentes este mes?",
-  "¿Qué dejarás de hacer para sostener tu prioridad pedagógica?"],
- "lecturas":[
-  ["Robinson, V. (2011). *Student-Centered Leadership*.","ordena por efecto las prácticas de liderazgo y sitúa arriba la participación en el aprendizaje docente."],
-  ["Leithwood, K. et al. (2020). *Seven Strong Claims about Successful School Leadership Revisited*.","actualiza lo que se sabe con evidencia sobre liderazgo escolar."]],
- "inclusion":"El liderazgo pedagógico incluye garantizar que los apoyos lleguen a los estudiantes que los necesitan. Revisar la distribución real de recursos y de tiempo profesional entre estudiantes es una práctica directiva de equidad.",
- "reto":"Registra tu uso del tiempo durante dos semanas. Redistribuye al menos cinco horas hacia prácticas pedagógicas y evalúa qué dejaste de hacer.",
- "conexion":"Abre la parte 15 y se apoya en la clase 010. Ordena las prioridades de las clases 183 a 189."},
-
-{"n":182,"evidencia":"CONSISTENTE",
- "foco":"por qué una buena estrategia fracasa cuando choca con la cultura de la organización",
- "proposito":"Diagnosticar y trabajar la cultura organizacional educativa: supuestos compartidos, normas informales y confianza, que determinan qué cambios son posibles.",
- "decision":"determinar qué supuesto cultural debe moverse antes de intentar el cambio que quieres introducir",
- "entregable":"un diagnóstico de cultura organizacional con evidencia y una estrategia de cambio ajustada a lo que permite",
- "conceptos":[
-  ["Cultura organizacional","supuestos compartidos, mayormente implícitos, sobre cómo se hacen las cosas aquí"],
-  ["Norma informal","regla no escrita que gobierna la conducta cotidiana con más fuerza que el reglamento"],
-  ["Confianza relacional","calidad de las expectativas mutuas entre docentes, directivos, estudiantes y familias"],
-  ["Resistencia","respuesta organizacional al cambio; suele proteger algo que el cambio pone en riesgo"]],
- "desarrollo":"Una estrategia que contradice la cultura se abandona, aunque tenga evidencia y financiamiento. Por eso el diagnóstico cultural precede al diseño del cambio: qué se premia informalmente, qué ocurre cuando alguien innova, qué se puede admitir en una reunión y qué no. La resistencia, además, rara vez es irracional: suele proteger algo —tiempo, autonomía, seguridad— que conviene identificar antes de intentar vencerla.",
- "practica":"El diagnóstico se hace con evidencia observable y conversaciones, no con encuestas de clima. Y la estrategia se ajusta: empezar por cambios que la cultura tolera, mostrar resultados, usar esos resultados para ampliar el margen. La confianza es el recurso que se acumula o se gasta en cada uno de esos intentos.",
- "limites":"La cultura se describe mejor de lo que se manipula: no hay recetas para cambiarla y los plazos son largos. Además, los estudios que la vinculan con resultados son correlacionales. Sirve como marco estratégico de decisión, no como explicación causal de los resultados de una institución.",
- "errores":[
-  "Introducir un cambio que contradice la cultura sin haber trabajado antes el supuesto que lo bloquea.",
-  "Interpretar toda resistencia como falta de compromiso en vez de como protección de algo concreto."],
- "criterios":[
-  "el diagnóstico se apoya en evidencia observada y no solo en percepciones declaradas;",
-  "la estrategia identifica qué protege la resistencia esperada;"],
- "preguntas":[
-  "¿Qué pasa en tu institución cuando alguien reconoce un error?",
-  "¿Qué protege la resistencia que anticipas?",
-  "¿Qué cambio tolera hoy tu cultura y cuál no?"],
- "lecturas":[
-  ["Schein, E. (2010). *Organizational Culture and Leadership*.","modelo de niveles de cultura aplicable al diagnóstico institucional."],
-  ["Bryk, A. & Schneider, B. (2002). *Trust in Schools*.","evidencia longitudinal sobre confianza relacional como condición de mejora."]],
- "inclusion":"La cultura define también qué estudiantes son considerados propios de la institución. Detectar supuestos sobre el estudiante esperado es condición para que cualquier política de inclusión deje de ser declarativa.",
- "reto":"Documenta tres situaciones donde la cultura decidió por sobre la norma escrita. Diseña un cambio que trabaje el supuesto detectado.",
- "conexion":"Aplica la clase 010 al nivel institucional y condiciona el éxito de las clases 189 y 190."},
-
-{"n":183,"evidencia":"CONSISTENTE",
- "foco":"cómo observar clases sin que la observación destruya la confianza que la hace útil",
- "proposito":"Diseñar sistemas de observación de clases con foco acordado, instrumento explícito, uso declarado de la información y separación entre desarrollo profesional y evaluación.",
- "decision":"determinar el foco, el instrumento y el uso de la información antes de entrar a la primera sala",
- "entregable":"un protocolo de observación con foco, instrumento, acuerdos de uso y procedimiento de retroalimentación",
- "conceptos":[
-  ["Foco de observación","aspecto acotado de la práctica que se observará; observar todo equivale a no observar nada"],
-  ["Instrumento","pauta que define qué se registra y con qué criterios, para reducir el juicio arbitrario"],
-  ["Uso declarado","acuerdo explícito sobre para qué se usará la información y quién la verá"],
-  ["Separación de propósitos","distinción entre observación para desarrollo y observación para evaluación del desempeño"]],
- "desarrollo":"La observación de clases es una de las prácticas de mayor potencial y de mayor riesgo relacional. Su potencial: hacer visible la enseñanza real y permitir una conversación fundada. Su riesgo: si el docente no sabe qué se observa, para qué se usará y quién lo verá, la observación produce clases actuadas y desconfianza. La separación entre desarrollo y evaluación es la decisión más importante del diseño.",
- "practica":"El protocolo se acuerda antes con el equipo: qué se observará, con qué instrumento, con qué frecuencia, quién accede a los registros y qué ocurre con ellos. Un foco acotado —por ejemplo, verificación de comprensión— produce conversaciones útiles; una pauta que evalúa treinta aspectos produce juicios generales y defensas.",
- "limites":"La confiabilidad de las observaciones de aula es limitada: distintos observadores puntúan distinto y una sola clase no representa la práctica de un docente. Los sistemas serios usan varias observaciones, formación de observadores y calibración. Usar una observación aislada para decisiones de alto impacto es técnicamente insostenible.",
- "errores":[
-  "Observar sin acuerdo previo sobre foco, uso y confidencialidad de la información.",
-  "Tomar decisiones de evaluación de desempeño con una única observación."],
- "criterios":[
-  "el protocolo declara foco, instrumento, frecuencia y uso de la información;",
-  "distingue explícitamente observación para desarrollo de observación para evaluación;"],
- "preguntas":[
-  "¿Sabe el docente qué vas a observar y para qué se usará?",
-  "¿Cuántas observaciones necesitas para afirmar algo sobre una práctica?",
-  "¿Qué ocurre con tus registros después de la conversación?"],
- "lecturas":[
-  ["Danielson, C. *Framework for Teaching*.","instrumento ampliamente usado; conviene conocerlo junto con la evidencia sobre su confiabilidad."],
-  ["Ho, A. & Kane, T. (2013). *The Reliability of Classroom Observations by School Personnel*.","documenta cuántas observaciones y qué condiciones se requieren para obtener medidas confiables."]],
- "inclusion":"Los sesgos del observador operan también en la observación de aula: docentes de determinados perfiles reciben sistemáticamente puntuaciones distintas. La formación de observadores y la calibración reducen ese efecto y deben documentarse.",
- "reto":"Acuerda un protocolo con tu equipo y realiza tres observaciones con el mismo foco. Contrasta tus registros con los de otro observador.",
- "conexion":"Es condición de la clase 184 y se apoya en el criterio técnico de la parte 11."},
-
-{"n":184,"evidencia":"CONSISTENTE",
- "foco":"cómo dar retroalimentación a un colega adulto sin que la conversación se convierta en defensa",
- "proposito":"Conducir conversaciones de retroalimentación docente basadas en evidencia observada, con foco en la práctica, acuerdos verificables y seguimiento.",
- "decision":"determinar qué evidencia presentarás y qué acuerdo buscas de la conversación",
- "entregable":"el guion y el registro de una conversación de retroalimentación con acuerdo y fecha de seguimiento",
- "conceptos":[
-  ["Retroalimentación basada en evidencia","conversación anclada en lo observado y no en impresiones generales"],
-  ["Foco en la práctica","centrar la conversación en decisiones docentes concretas y no en atributos de la persona"],
-  ["Acuerdo verificable","compromiso específico con indicador y plazo"],
-  ["Seguimiento","instancia posterior en que se revisa el acuerdo, sin la cual la conversación se disuelve"]],
- "desarrollo":"La retroalimentación a docentes fracasa por las mismas razones que la retroalimentación a estudiantes: se dirige a la persona, es general y no tiene seguimiento. La versión que funciona presenta evidencia concreta —lo que se observó, con datos—, pregunta antes de afirmar, se centra en una decisión pedagógica específica y termina con un acuerdo verificable y una fecha.",
- "practica":"La estructura de la conversación importa: empezar con la lectura del propio docente sobre la clase, presentar la evidencia observada, contrastar, acordar una acción y fijar el seguimiento. Preguntar antes de afirmar no es una técnica de cortesía: la mayoría de las veces el docente ya identificó el problema y la conversación avanza mucho más rápido.",
- "limites":"El coaching instruccional muestra efectos positivos en programas bien implementados, con caída al escalar. Y su eficacia depende de que la persona que retroalimenta tenga credibilidad pedagógica: un directivo que no puede explicar cómo haría la clase pierde autoridad técnica en la conversación.",
- "errores":[
-  "Retroalimentar con impresiones generales sin evidencia observada.",
-  "Cerrar la conversación sin acuerdo verificable ni fecha de seguimiento."],
- "criterios":[
-  "la conversación se ancla en evidencia observada y en una decisión pedagógica específica;",
-  "termina con acuerdo verificable, indicador y fecha de seguimiento;"],
- "preguntas":[
-  "¿Qué evidencia concreta llevas a la conversación?",
-  "¿Cuánto habla el docente y cuánto hablas tú?",
-  "¿Cuándo revisarán juntos si el acuerdo se cumplió?"],
- "lecturas":[
-  ["Knight, J. (2007). *Instructional Coaching*.","protocolos de conversación y estructura de acompañamiento con docentes."],
-  ["Kraft, M., Blazar, D. & Hogan, D. (2018). *The Effect of Teacher Coaching*.","evidencia de efecto y advertencia sobre la caída al escalar los programas."]],
- "inclusion":"Los docentes que enseñan en los cursos más difíciles suelen recibir más críticas y menos apoyo. Considerar las condiciones reales de cada contexto es parte de una retroalimentación justa y técnicamente correcta.",
- "reto":"Conduce una conversación con guion y evidencia. Registra la proporción de tiempo en que habló cada uno y verifica el acuerdo a las tres semanas.",
- "conexion":"Depende de la clase 183 y aplica los principios de la clase 139 a adultos profesionales."},
-
-{"n":185,"evidencia":"CONSISTENTE",
- "foco":"qué distingue una comunidad profesional de aprendizaje de una reunión de coordinación más",
- "proposito":"Instalar comunidades profesionales de aprendizaje con las condiciones que las hacen funcionar: foco en el aprendizaje de los estudiantes, trabajo con evidencia, tiempo protegido y normas de colaboración.",
- "decision":"determinar qué condición falta en tus instancias colectivas para que produzcan aprendizaje profesional",
- "entregable":"el diseño de una comunidad profesional con foco, evidencia, tiempo protegido y producto verificable por ciclo",
- "conceptos":[
-  ["Comunidad profesional de aprendizaje","grupo docente que indaga colectivamente sobre el aprendizaje de sus estudiantes"],
-  ["Trabajo con evidencia","uso de trabajos de estudiantes y datos reales como material de la conversación"],
-  ["Tiempo protegido","espacio en la jornada destinado exclusivamente al trabajo colectivo"],
-  ["Producto del ciclo","resultado concreto —instrumento, secuencia, acuerdo— que deja cada período de trabajo"]],
- "desarrollo":"La mayoría de las reuniones docentes se ocupa de coordinación administrativa. Una comunidad profesional de aprendizaje se distingue por su material: trabajos de estudiantes, datos de una evaluación, registros de clase. La conversación deja de ser sobre opiniones y pasa a ser sobre evidencia, que es lo que permite acordar acciones y verificar su efecto.",
- "practica":"El diseño exige tres condiciones concretas: tiempo en la jornada —no después de la jornada—, foco definido por ciclo y un producto verificable al final. Sin producto, el trabajo colectivo se percibe como conversación sin consecuencia y la asistencia decae, con razón.",
- "limites":"La evidencia sobre comunidades profesionales es favorable en desarrollo profesional y más débil e indirecta en aprendizaje de los estudiantes. Además, su implementación es muy variable: el mismo nombre cubre desde indagación rigurosa hasta reuniones renombradas. La condición material —tiempo protegido— es la que más frecuentemente falta.",
- "errores":[
-  "Instalar la comunidad sin tiempo protegido en la jornada laboral.",
-  "Trabajar sobre opiniones y no sobre evidencia del aprendizaje de los estudiantes."],
- "criterios":[
-  "cada ciclo trabaja con evidencia real de aprendizaje y produce un resultado verificable;",
-  "el tiempo está protegido dentro de la jornada y no depende de la disposición individual;"],
- "preguntas":[
-  "¿Qué material concreto se pone sobre la mesa en tus reuniones?",
-  "¿Qué produjo tu equipo el último trimestre?",
-  "¿De dónde sale el tiempo para este trabajo?"],
- "lecturas":[
-  ["Vescio, V., Ross, D. & Adams, A. (2008). *A Review of Research on the Impact of Professional Learning Communities*.","revisa la evidencia disponible y sus limitaciones."],
-  ["Bryk, A. et al. (2015). *Learning to Improve*.","modelo de indagación colectiva por ciclos con evidencia, aplicable a comunidades docentes."]],
- "inclusion":"Las comunidades que trabajan con evidencia desagregada detectan qué estudiantes están quedando fuera de forma sistemática, que es información que ningún promedio institucional entrega.",
- "reto":"Conduce un ciclo completo con evidencia real y un producto definido. Evalúa si el producto cambió alguna práctica de aula.",
- "conexion":"Se apoya en las clases 181 y 184 y alimenta el ciclo de mejora de la clase 189."},
-
-{"n":186,"evidencia":"PRACTICA-PROFESIONAL",
- "foco":"por qué la mayoría de los planes estratégicos educativos no cambia nada",
- "proposito":"Construir planificación estratégica institucional que efectivamente oriente decisiones: diagnóstico con datos, pocas prioridades, metas verificables, responsables y seguimiento real.",
- "decision":"determinar qué pocas prioridades sostendrá tu institución y qué dejará de hacer para lograrlo",
- "entregable":"un plan estratégico con diagnóstico, tres prioridades máximas, metas verificables y sistema de seguimiento",
- "conceptos":[
-  ["Prioridad estratégica","foco que concentra recursos y atención; su número debe ser pequeño para ser real"],
-  ["Meta verificable","resultado esperado con indicador, línea base, plazo y responsable"],
-  ["Línea base","valor inicial del indicador, sin el cual no se puede afirmar mejora"],
-  ["Seguimiento","instancia periódica que revisa avance y ajusta, con consecuencias sobre las decisiones"]],
- "desarrollo":"Los planes estratégicos fracasan por tres razones recurrentes: demasiadas prioridades, metas sin línea base ni indicador, y ausencia de seguimiento con consecuencias. El resultado es un documento que se escribe para cumplir un requisito y que nadie usa para decidir. Un plan útil tiene pocas prioridades, metas que se pueden verificar y una instancia periódica donde se decide con sus datos.",
- "practica":"La disciplina más difícil es decidir qué no se hará: una institución que declara ocho prioridades no tiene ninguna. Y cada meta necesita línea base: sin ella, cualquier resultado se puede narrar como avance. El seguimiento debe tener consecuencias sobre asignación de tiempo y recursos, o se convierte en un reporte más.",
- "limites":"No hay evidencia sólida sobre modelos de planificación estratégica en educación: es conocimiento profesional y de gestión. Lo que sí está documentado es que las instituciones que sostienen pocas prioridades durante varios años obtienen mejores resultados que las que cambian de foco cada año.",
- "errores":[
-  "Declarar más prioridades de las que la institución puede sostener a la vez.",
-  "Fijar metas sin línea base, con lo que ningún resultado es verificable."],
- "criterios":[
-  "el plan tiene tres prioridades como máximo, con metas, línea base y responsables;",
-  "declara explícitamente qué se dejará de hacer para sostenerlas;"],
- "preguntas":[
-  "¿Cuántas prioridades declara hoy tu institución y cuántas puede sostener?",
-  "¿Cuál es la línea base de tu meta principal?",
-  "¿Qué decisión concreta cambió el último seguimiento?"],
- "lecturas":[
-  ["Fullan, M. (2011). *Choosing the Wrong Drivers for Whole System Reform*.","analiza por qué ciertas estrategias de mejora no producen efecto y cuáles sí."],
-  ["Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo*.","marco chileno de planificación institucional con sus requisitos formales."]],
- "inclusion":"Un plan con foco de equidad declara metas desagregadas: qué ocurrirá con los estudiantes que hoy están más abajo. Sin desagregación, un promedio institucional puede mejorar mientras la brecha interna aumenta.",
- "reto":"Reduce el plan de tu institución a tres prioridades con línea base. Presenta la propuesta al equipo y registra qué resistencias aparecen.",
- "conexion":"Se apoya en las clases 011 y 188 y culmina en la clase 192."},
-
-{"n":187,"evidencia":"PRACTICA-PROFESIONAL",
- "foco":"cómo conducir un equipo docente cuando no se controla ni el sueldo ni la permanencia",
- "proposito":"Gestionar equipos educativos con las herramientas reales disponibles: claridad de rol, distribución justa de la carga, desarrollo profesional, conversaciones difíciles y reconocimiento.",
- "decision":"determinar qué palanca de gestión tienes efectivamente disponible para el problema de equipo que enfrentas",
- "entregable":"un plan de gestión de equipo con distribución de carga, desarrollo y protocolo de conversaciones difíciles",
- "conceptos":[
-  ["Claridad de rol","definición explícita de funciones, decisiones y expectativas de cada integrante"],
-  ["Carga distribuida","reparto justo y transparente del trabajo, incluidas las tareas invisibles"],
-  ["Conversación difícil","intercambio sobre desempeño o conducta que la mayoría de los directivos posterga"],
-  ["Reconocimiento","valoración específica del trabajo bien hecho; una de las pocas palancas siempre disponibles"]],
- "desarrollo":"En educación, muchas palancas clásicas de gestión —remuneración, contratación, desvinculación— están limitadas por la normativa y por la estructura institucional. Las que quedan disponibles son potentes y poco usadas: claridad de rol, distribución justa de la carga, oportunidades reales de desarrollo, conversaciones honestas y reconocimiento específico del trabajo bien hecho.",
- "practica":"La distribución de la carga es la fuente más frecuente de conflicto y la menos transparente: las tareas invisibles —jefaturas de curso, atención de apoderados, suplencias— se acumulan en las mismas personas. Hacerla explícita y revisarla en equipo resuelve más problemas de clima que cualquier actividad de integración.",
- "limites":"La gestión de equipos en educación está condicionada por la normativa laboral y por la estructura del sistema, que varían por país y por dependencia. Y no hay evidencia experimental sobre prácticas de gestión educativa: es conocimiento profesional que exige ajuste al contexto.",
- "errores":[
-  "Postergar las conversaciones difíciles hasta que el problema afecta a los estudiantes.",
-  "Distribuir la carga de forma opaca, concentrando lo invisible en las mismas personas."],
- "criterios":[
-  "la distribución de carga es explícita e incluye las tareas invisibles;",
-  "existe un protocolo para conversaciones difíciles con registro y seguimiento;"],
- "preguntas":[
-  "¿Quién carga con las tareas invisibles de tu equipo?",
-  "¿Qué conversación difícil llevas meses postergando?",
-  "¿Cuándo reconociste por última vez un trabajo específico bien hecho?"],
- "lecturas":[
-  ["Hargreaves, A. & O'Connor, M. (2018). *Collaborative Professionalism*.","distingue colaboración real de coordinación y aporta criterios de conducción de equipos."],
-  ["Robinson, V. (2011). *Student-Centered Leadership*.","incluye las conversaciones sobre desempeño como práctica directiva central."]],
- "inclusion":"La distribución de tareas invisibles suele tener sesgo de género y de antigüedad. Hacerla explícita es una medida de equidad interna con efectos directos sobre el clima laboral.",
- "reto":"Levanta la distribución real de carga de tu equipo, incluidas las tareas invisibles. Preséntala y acuerda una redistribución.",
- "conexion":"Se apoya en la clase 009 y sostiene la implementación de las clases 185 y 189."},
-
-{"n":188,"evidencia":"CONSISTENTE",
- "foco":"qué indicadores institucionales informan decisiones y cuáles solo llenan informes",
- "proposito":"Construir sistemas de indicadores educativos que orienten decisiones: pocos, con línea base, desagregados, con límites declarados y conectados a una acción posible.",
- "decision":"determinar qué indicadores usará tu institución para decidir y cuáles dejará de recolectar",
- "entregable":"un tablero institucional con indicadores, desagregación, límites y la decisión asociada a cada uno",
- "conceptos":[
-  ["Indicador de resultado","medida del logro alcanzado; informa pero no explica"],
-  ["Indicador de proceso","medida de lo que la institución hace; permite intervenir a tiempo"],
-  ["Desagregación","descomposición del indicador por grupos para revelar brechas internas"],
-  ["Efecto de indicador","distorsión de la conducta institucional producida por lo que se mide"]],
- "desarrollo":"Los sistemas educativos recolectan muchos datos y usan pocos. Un tablero útil tiene pocos indicadores, combina resultado y proceso, se desagrega para mostrar brechas y declara sus límites. La desagregación es la decisión más importante: un promedio institucional puede mejorar mientras el grupo más rezagado empeora, y esa es exactamente la información que una institución con foco en equidad necesita.",
- "practica":"Cada indicador debe tener una decisión asociada: si baja la asistencia de un grupo, se activa un protocolo; si sube la reprobación en una asignatura, se revisa su enseñanza. Los indicadores sin decisión asociada se recolectan por inercia y consumen tiempo que rendiría más en otra parte.",
- "limites":"Todo indicador induce conducta: lo que se mide se prioriza y lo que no se mide se abandona. Los sistemas de rendición de cuentas de alta consecuencia producen efectos documentados de estrechamiento curricular y de selección de estudiantes. Diseñar indicadores incluye anticipar esos efectos.",
- "errores":[
-  "Recolectar indicadores sin decisión asociada, por requerimiento administrativo.",
-  "Reportar solo promedios institucionales y ocultar las brechas internas."],
- "criterios":[
-  "cada indicador declara su decisión asociada, su límite y su desagregación;",
-  "el tablero combina indicadores de resultado y de proceso;"],
- "preguntas":[
-  "¿Qué indicador recolectas y nadie usa para decidir?",
-  "¿Qué muestra tu indicador principal al desagregarlo?",
-  "¿Qué conducta está induciendo lo que mides?"],
- "lecturas":[
-  ["Agencia de Calidad de la Educación (Chile). *Otros Indicadores de Calidad e informes técnicos*.","ejemplo institucional de ampliación de indicadores más allá del puntaje."],
-  ["OCDE. *Education at a Glance*.","definiciones y notas metodológicas útiles para construir indicadores comparables."]],
- "inclusion":"Sin desagregación, la equidad es indemostrable. Todo tablero con pretensión de equidad debe poder responder qué pasó con los estudiantes que estaban más abajo y con los grupos históricamente desfavorecidos.",
- "reto":"Revisa los indicadores que tu institución recolecta y elimina los que no tienen decisión asociada. Desagrega el principal y presenta lo que revela.",
- "conexion":"Aplica la clase 011 al nivel institucional y alimenta las clases 186 y 189."},
-
-{"n":189,"evidencia":"CONSISTENTE",
- "foco":"por qué los ciclos cortos de mejora funcionan mejor que las reformas internas de gran escala",
- "proposito":"Conducir mejora escolar mediante ciclos de indagación: problema específico, hipótesis de cambio, prueba acotada, medición y decisión, en vez de reformas simultáneas y ambiciosas.",
- "decision":"determinar qué cambio acotado vas a probar primero y cómo medirás si funcionó",
- "entregable":"un ciclo de mejora ejecutado con problema, hipótesis, intervención acotada, medición y decisión documentada",
- "conceptos":[
-  ["Ciclo de mejora","secuencia corta de probar, medir y ajustar sobre un problema específico"],
-  ["Problema específico","dificultad delimitada y observable, distinta de un objetivo general"],
-  ["Prueba acotada","implementación en pequeña escala antes de extender a toda la institución"],
-  ["Decisión documentada","conclusión del ciclo: se adopta, se ajusta o se abandona, con su fundamento"]],
- "desarrollo":"La mejora sostenida se produce por acumulación de ciclos cortos, no por reformas simultáneas. La lógica es directa: un problema específico, una hipótesis sobre qué lo causa, un cambio acotado, una medición y una decisión. Probar en pequeño antes de extender evita el patrón habitual de implementar a escala completa una idea que no funcionaba y agotar al equipo en el intento.",
- "practica":"El ciclo exige delimitar bien: «mejorar la comprensión lectora» no es un problema específico; «los estudiantes de séptimo no identifican la idea principal en textos expositivos» sí lo es. Y exige medir con instrumentos simples y comparables. La decisión final debe ser explícita, incluida la de abandonar, que es la más difícil de tomar y la que más aprendizaje produce.",
- "limites":"La mejora continua aplicada a educación tiene evidencia prometedora y no concluyente, y su implementación exige capacidades que muchos equipos no tienen: delimitar problemas, medir y decidir con datos. Sin desarrollo de esas capacidades, los ciclos se convierten en un formato vacío.",
- "errores":[
-  "Iniciar múltiples cambios simultáneos y no poder atribuir ningún resultado.",
-  "Extender a toda la institución un cambio que no fue probado en pequeña escala."],
- "criterios":[
-  "el problema está delimitado y es observable con un instrumento simple;",
-  "el ciclo termina con una decisión explícita y documentada;"],
- "preguntas":[
-  "¿Cuál es el problema específico, en una frase verificable?",
-  "¿En qué escala probarás antes de extender?",
-  "¿Qué resultado te haría abandonar la idea?"],
- "lecturas":[
-  ["Bryk, A. et al. (2015). *Learning to Improve*.","modelo de mejora continua aplicado a escuelas, con ciclos y redes de aprendizaje."],
-  ["Fullan, M. (2011). *Choosing the Wrong Drivers*.","advierte sobre las estrategias de reforma que consumen energía sin producir mejora."]],
- "inclusion":"Los ciclos deben medir su efecto de forma desagregada: una mejora promedio puede coexistir con un deterioro en el grupo que motivó la intervención. Sin ese control, la mejora institucional puede ampliar la brecha.",
- "reto":"Ejecuta un ciclo completo en ocho semanas con problema delimitado y medición. Documenta la decisión final, incluso si es abandonar.",
- "conexion":"Integra las clases 185, 187 y 188 y es el método del proyecto de la clase 192."},
-
-{"n":190,"evidencia":"EN-DEBATE",
- "foco":"cómo distinguir una innovación que vale la pena de una moda que consumirá dos años del equipo",
- "proposito":"Evaluar y conducir innovación educativa con criterio: evidencia disponible, ajuste al problema real, capacidad institucional y costo de oportunidad.",
- "decision":"determinar si una innovación propuesta merece la energía institucional que consumirá",
- "entregable":"una evaluación de una innovación con evidencia, ajuste al problema, capacidad requerida y costo de oportunidad",
- "conceptos":[
-  ["Innovación","cambio deliberado en la práctica con expectativa de mejora; no toda novedad lo es"],
-  ["Costo de oportunidad","lo que la institución deja de hacer por dedicar energía a esta innovación"],
-  ["Capacidad institucional","condiciones y competencias necesarias para implementar con fidelidad"],
-  ["Fidelidad de implementación","grado en que lo ejecutado corresponde a lo diseñado; explica muchos fracasos atribuidos al método"]],
- "desarrollo":"El campo educativo adopta y abandona innovaciones con un ciclo rápido y costoso: cada iniciativa consume energía, credibilidad y tiempo del equipo. Evaluar una innovación exige cuatro preguntas: qué evidencia tiene, qué problema real resuelve en esta institución, qué capacidad exige y qué se dejará de hacer para implementarla. La cuarta es la que casi nunca se hace y la que más explica el agotamiento de los equipos.",
- "practica":"La evaluación se documenta y se discute antes de comprometer recursos. Y la implementación debe considerar la fidelidad: la mayoría de las innovaciones que fracasan no fueron probadas en su versión real, sino en una adaptación local que perdió sus componentes activos. Declarar qué es irrenunciable del diseño original es parte de la decisión.",
- "limites":"La evidencia sobre innovaciones específicas es heterogénea y muchas veces proviene de sus propios promotores. Y existe una tensión legítima: exigir evidencia completa antes de innovar paralizaría la práctica, mientras que innovar sin criterio consume el sistema. La posición defendible es probar acotado y medir.",
- "errores":[
-  "Adoptar una innovación sin evaluar la capacidad institucional que exige.",
-  "Adaptar el diseño hasta perder los componentes que lo hacían funcionar."],
- "criterios":[
-  "la evaluación declara evidencia, capacidad requerida y costo de oportunidad;",
-  "identifica los componentes irrenunciables del diseño original;"],
- "preguntas":[
-  "¿Qué problema real de tu institución resuelve esta innovación?",
-  "¿Qué dejará de hacer tu equipo para implementarla?",
-  "¿Qué parte del diseño no se puede adaptar sin perder su efecto?"],
- "lecturas":[
-  ["Century, J. & Cassata, A. (2016). *Implementation Research: Finding Common Ground*.","sistematiza fidelidad de implementación y adaptación en innovaciones educativas."],
-  ["Fullan, M. (2007). *The New Meaning of Educational Change*.","análisis clásico sobre por qué las innovaciones prenden o se disuelven en las escuelas."]],
- "inclusion":"Las innovaciones que exigen recursos adicionales de las familias o de los estudiantes amplían brechas. Evaluar su costo para quienes tienen menos es parte de la decisión institucional.",
- "reto":"Evalúa una innovación en curso o propuesta con los cuatro criterios. Presenta la evaluación al equipo y toma una decisión documentada.",
- "conexion":"Se apoya en la clase 182 y usa el método de la clase 189 para probar antes de escalar."},
-
-{"n":191,"evidencia":"MARCO-NORMATIVO",
- "foco":"qué decisiones directivas tienen consecuencias éticas que no se resuelven con el reglamento",
- "proposito":"Ejercer la dirección con criterio ético: transparencia, equidad en la asignación de recursos, protección de los más vulnerables, manejo de información sensible y conflicto de interés.",
- "decision":"determinar cómo decidirás ante un conflicto entre intereses institucionales y derechos de un estudiante",
- "entregable":"un análisis de tres dilemas directivos reales con la decisión fundamentada y su registro",
- "conceptos":[
-  ["Conflicto de interés","situación en que un interés personal o institucional puede afectar la imparcialidad de la decisión"],
-  ["Equidad en la asignación","distribución de recursos y de atención en función de la necesidad y no de la presión"],
-  ["Manejo de información sensible","resguardo de datos de estudiantes y de trabajadores en decisiones directivas"],
-  ["Transparencia","comunicación de los criterios de decisión a quienes son afectados por ella"]],
- "desarrollo":"La dirección educativa enfrenta dilemas que el reglamento no resuelve: expulsar a un estudiante disruptivo protege al grupo y puede vulnerar su derecho a la educación; asignar los mejores docentes a los cursos con evaluación externa mejora resultados y perjudica a otros estudiantes; atender a la familia que reclama con más fuerza desplaza a la que no reclama. Ninguno se resuelve con una regla: exigen criterio, fundamento y registro.",
- "practica":"El método consiste en explicitar el conflicto, identificar los derechos e intereses en juego, evaluar alternativas con su impacto sobre los más vulnerables, decidir y registrar el fundamento. El registro protege a la institución y, sobre todo, obliga a formular por escrito una justificación que muchas decisiones apresuradas no resistirían.",
- "limites":"El marco normativo fija pisos y no resuelve la ponderación: cumplir la norma no equivale a decidir bien. Y el ejercicio directivo está condicionado por presiones reales —sostenedor, matrícula, resultados— que no desaparecen por reconocerlas. Explicitarlas permite decidir con conciencia del costo.",
- "errores":[
-  "Asignar recursos según la presión recibida y no según la necesidad detectada.",
-  "Tomar decisiones con impacto sobre derechos sin registrar el fundamento."],
- "criterios":[
-  "cada dilema identifica derechos e intereses en juego y evalúa el impacto sobre los más vulnerables;",
-  "la decisión queda registrada con su fundamento y sus alternativas descartadas;"],
- "preguntas":[
-  "¿Qué decisión tuya de este mes no resistiría una revisión externa?",
-  "¿Quién recibe más recursos: quien más los necesita o quien más presiona?",
-  "¿Qué información sensible circula en tu equipo sin necesidad?"],
- "lecturas":[
-  ["Starratt, R. (2004). *Ethical Leadership*.","marco de ética directiva aplicado a instituciones educativas."],
-  ["Mineduc. *Marco para la Buena Dirección y el Liderazgo Escolar*.","estándares chilenos del ejercicio directivo, incluidas sus dimensiones éticas."]],
- "inclusion":"La prueba ética de una decisión directiva es su efecto sobre los estudiantes con menos capacidad de reclamar. Cuando una medida los perjudica y nadie protesta, esa ausencia de protesta no es señal de acierto.",
- "reto":"Documenta tres decisiones directivas con su fundamento y su impacto sobre los estudiantes más vulnerables. Revísalas con un par externo.",
- "conexion":"Aplica la clase 004 al nivel institucional y condiciona las decisiones de las clases 186 a 190."},
-
-{"n":192,"evidencia":"CONSISTENTE",
- "foco":"cómo se construye un plan de mejora que el equipo pueda ejecutar y que produzca evidencia",
- "proposito":"Integrar la parte construyendo un plan de mejora institucional completo: diagnóstico con datos, prioridades acotadas, ciclos de mejora, indicadores desagregados y sistema de seguimiento.",
- "decision":"determinar el plan completo de mejora y cómo se verificará su efecto sin depender de percepciones",
- "entregable":"un plan de mejora institucional con diagnóstico, prioridades, ciclos, indicadores desagregados y seguimiento",
- "conceptos":[
-  ["Plan de mejora","instrumento que articula diagnóstico, prioridades, acciones e indicadores institucionales"],
-  ["Capacidad de ejecución","condiciones reales del equipo para sostener las acciones comprometidas"],
-  ["Indicador desagregado","medida que muestra el efecto sobre distintos grupos de estudiantes"],
-  ["Sostenibilidad","posibilidad de mantener el plan más allá del entusiasmo inicial y del cambio de personas"]],
- "desarrollo":"El proyecto integrador exige articular todo lo anterior con un criterio dominante: la capacidad real de ejecución. Un plan que excede lo que el equipo puede sostener produce incumplimiento, desgaste y pérdida de credibilidad para el siguiente intento. Por eso el plan se dimensiona a partir del tiempo y las capacidades disponibles, no a partir de lo deseable.",
- "practica":"El plan se organiza en pocas prioridades, cada una desagregada en ciclos de mejora con responsables y plazos, con indicadores que se puedan desagregar por grupo. El sistema de seguimiento define quién revisa, cada cuánto y con qué consecuencia sobre las decisiones de recursos y tiempo.",
- "limites":"Un plan bien diseñado no garantiza mejora: depende de la implementación, del contexto y de factores externos a la institución. Su valor es hacer explícitas las decisiones y producir evidencia sobre lo que se intentó, que es la base para el ciclo siguiente.",
- "errores":[
-  "Comprometer más acciones de las que el equipo puede ejecutar con su tiempo real.",
-  "Definir indicadores sin desagregación, con lo que la equidad se vuelve indemostrable."],
- "criterios":[
-  "el plan está dimensionado a la capacidad real de ejecución del equipo;",
-  "los indicadores se desagregan por grupo y tienen línea base;"],
- "preguntas":[
-  "¿Cuántas horas de trabajo del equipo compromete tu plan y de dónde salen?",
-  "¿Qué mostrará tu indicador principal desagregado?",
-  "¿Qué sobrevive de tu plan si cambian tres personas del equipo?"],
- "lecturas":[
-  ["Bryk, A. et al. (2015). *Learning to Improve*.","método de mejora por ciclos aplicable a la estructura del plan."],
-  ["Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo*.","marco chileno con sus requisitos formales y su lógica de ciclos."]],
- "inclusion":"El plan debe declarar explícitamente qué hará por los estudiantes que hoy están más abajo, con metas propias y seguimiento propio. Sin eso, la mejora institucional tiende a beneficiar primero a quienes ya estaban mejor.",
- "reto":"Construye el plan, ejecuta un ciclo y presenta la evidencia al equipo y al sostenedor. Documenta qué se ajustó a partir de los datos.",
- "conexion":"Cierra la parte 15 integrando sus once clases previas y se conecta con las partes 16 y 17."}
+  {
+    "n": 181,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué práctica directiva tiene el mayor efecto documentado sobre el aprendizaje de los estudiantes",
+    "proposito": "Ejercer liderazgo pedagógico centrado en el aprendizaje: participar del desarrollo profesional del equipo, garantizar condiciones de enseñanza y sostener el foco frente a las urgencias administrativas.",
+    "decision": "determinar en qué prácticas de liderazgo vas a invertir tu tiempo, sabiendo que no alcanza para todas",
+    "entregable": "un análisis del uso real de tu tiempo directivo con una redistribución hacia prácticas de mayor efecto",
+    "conceptos": [
+      [
+        "Liderazgo pedagógico",
+        "conjunto de prácticas directivas centradas en la calidad de la enseñanza y del aprendizaje"
+      ],
+      [
+        "Efecto indirecto",
+        "influencia del liderazgo sobre el aprendizaje a través de las condiciones y del trabajo docente"
+      ],
+      [
+        "Participación en el aprendizaje docente",
+        "práctica directiva de aprender junto al equipo, no solo de organizarlo"
+      ],
+      [
+        "Foco",
+        "capacidad de sostener pocas prioridades frente a la presión de lo urgente"
+      ]
+    ],
+    "desarrollo": "La investigación sobre liderazgo escolar converge en un resultado útil: su efecto sobre el aprendizaje es real e indirecto, y la práctica con mayor magnitud documentada es la participación del directivo en el aprendizaje profesional de sus docentes. No supervisarlo desde fuera: participar. Le siguen el establecimiento de metas, la garantía de condiciones de enseñanza y la protección del tiempo pedagógico.",
+    "practica": "El análisis del uso del tiempo es incómodo y revelador: la mayoría de los equipos directivos descubre que dedica menos del veinte por ciento de su tiempo a prácticas pedagógicas. Redistribuir exige delegar o eliminar tareas administrativas, lo que a su vez exige decisiones sobre estructura y no solo sobre voluntad.",
+    "limites": "Los efectos del liderazgo son moderados y dependen del contexto: en escuelas en crisis las prácticas que funcionan son distintas de las que sirven en escuelas estables. Y la evidencia proviene mayormente de estudios correlacionales y de síntesis con definiciones heterogéneas de liderazgo.",
+    "errores": [
+      "Ejercer liderazgo pedagógico solo mediante instrucciones y supervisión externa.",
+      "Declarar prioridades pedagógicas sin liberar tiempo real para sostenerlas."
+    ],
+    "criterios": [
+      "el análisis se basa en registro real del tiempo y no en estimación;",
+      "la redistribución identifica qué se deja de hacer para liberar tiempo;"
+    ],
+    "preguntas": [
+      "¿Qué porcentaje de tu semana pasada dedicaste a prácticas pedagógicas?",
+      "¿Qué aprendiste junto a tus docentes este mes?",
+      "¿Qué dejarás de hacer para sostener tu prioridad pedagógica?"
+    ],
+    "lecturas": [
+      [
+        "Robinson, V. (2011). *Student-Centered Leadership*.",
+        "ordena por efecto las prácticas de liderazgo y sitúa arriba la participación en el aprendizaje docente."
+      ],
+      [
+        "Leithwood, K. et al. (2020). *Seven Strong Claims about Successful School Leadership Revisited*.",
+        "actualiza lo que se sabe con evidencia sobre liderazgo escolar."
+      ]
+    ],
+    "inclusion": "El liderazgo pedagógico incluye garantizar que los apoyos lleguen a los estudiantes que los necesitan. Revisar la distribución real de recursos y de tiempo profesional entre estudiantes es una práctica directiva de equidad.",
+    "reto": "Registra tu uso del tiempo durante dos semanas. Redistribuye al menos cinco horas hacia prácticas pedagógicas y evalúa qué dejaste de hacer.",
+    "conexion": "Abre la parte 15 y se apoya en la clase 010. Ordena las prioridades de las clases 183 a 189."
+  },
+  {
+    "n": 182,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué una buena estrategia fracasa cuando choca con la cultura de la organización",
+    "proposito": "Diagnosticar y trabajar la cultura organizacional educativa: supuestos compartidos, normas informales y confianza, que determinan qué cambios son posibles.",
+    "decision": "determinar qué supuesto cultural debe moverse antes de intentar el cambio que quieres introducir",
+    "entregable": "un diagnóstico de cultura organizacional con evidencia y una estrategia de cambio ajustada a lo que permite",
+    "conceptos": [
+      [
+        "Cultura organizacional",
+        "supuestos compartidos, mayormente implícitos, sobre cómo se hacen las cosas aquí"
+      ],
+      [
+        "Norma informal",
+        "regla no escrita que gobierna la conducta cotidiana con más fuerza que el reglamento"
+      ],
+      [
+        "Confianza relacional",
+        "calidad de las expectativas mutuas entre docentes, directivos, estudiantes y familias"
+      ],
+      [
+        "Resistencia",
+        "respuesta organizacional al cambio; suele proteger algo que el cambio pone en riesgo"
+      ]
+    ],
+    "desarrollo": "Una estrategia que contradice la cultura se abandona, aunque tenga evidencia y financiamiento. Por eso el diagnóstico cultural precede al diseño del cambio: qué se premia informalmente, qué ocurre cuando alguien innova, qué se puede admitir en una reunión y qué no. La resistencia, además, rara vez es irracional: suele proteger algo —tiempo, autonomía, seguridad— que conviene identificar antes de intentar vencerla.",
+    "practica": "El diagnóstico se hace con evidencia observable y conversaciones, no con encuestas de clima. Y la estrategia se ajusta: empezar por cambios que la cultura tolera, mostrar resultados, usar esos resultados para ampliar el margen. La confianza es el recurso que se acumula o se gasta en cada uno de esos intentos.",
+    "limites": "La cultura se describe mejor de lo que se manipula: no hay recetas para cambiarla y los plazos son largos. Además, los estudios que la vinculan con resultados son correlacionales. Sirve como marco estratégico de decisión, no como explicación causal de los resultados de una institución.",
+    "errores": [
+      "Introducir un cambio que contradice la cultura sin haber trabajado antes el supuesto que lo bloquea.",
+      "Interpretar toda resistencia como falta de compromiso en vez de como protección de algo concreto."
+    ],
+    "criterios": [
+      "el diagnóstico se apoya en evidencia observada y no solo en percepciones declaradas;",
+      "la estrategia identifica qué protege la resistencia esperada;"
+    ],
+    "preguntas": [
+      "¿Qué pasa en tu institución cuando alguien reconoce un error?",
+      "¿Qué protege la resistencia que anticipas?",
+      "¿Qué cambio tolera hoy tu cultura y cuál no?"
+    ],
+    "lecturas": [
+      [
+        "Schein, E. (2010). *Organizational Culture and Leadership*.",
+        "modelo de niveles de cultura aplicable al diagnóstico institucional."
+      ],
+      [
+        "Bryk, A. & Schneider, B. (2002). *Trust in Schools*.",
+        "evidencia longitudinal sobre confianza relacional como condición de mejora."
+      ]
+    ],
+    "inclusion": "La cultura define también qué estudiantes son considerados propios de la institución. Detectar supuestos sobre el estudiante esperado es condición para que cualquier política de inclusión deje de ser declarativa.",
+    "reto": "Documenta tres situaciones donde la cultura decidió por sobre la norma escrita. Diseña un cambio que trabaje el supuesto detectado.",
+    "conexion": "Aplica la clase 010 al nivel institucional y condiciona el éxito de las clases 189 y 190."
+  },
+  {
+    "n": 183,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo observar clases sin que la observación destruya la confianza que la hace útil",
+    "proposito": "Diseñar sistemas de observación de clases con foco acordado, instrumento explícito, uso declarado de la información y separación entre desarrollo profesional y evaluación.",
+    "decision": "determinar el foco, el instrumento y el uso de la información antes de entrar a la primera sala",
+    "entregable": "un protocolo de observación con foco, instrumento, acuerdos de uso y procedimiento de retroalimentación",
+    "conceptos": [
+      [
+        "Foco de observación",
+        "aspecto acotado de la práctica que se observará; observar todo equivale a no observar nada"
+      ],
+      [
+        "Instrumento",
+        "pauta que define qué se registra y con qué criterios, para reducir el juicio arbitrario"
+      ],
+      [
+        "Uso declarado",
+        "acuerdo explícito sobre para qué se usará la información y quién la verá"
+      ],
+      [
+        "Separación de propósitos",
+        "distinción entre observación para desarrollo y observación para evaluación del desempeño"
+      ]
+    ],
+    "desarrollo": "La observación de clases es una de las prácticas de mayor potencial y de mayor riesgo relacional. Su potencial: hacer visible la enseñanza real y permitir una conversación fundada. Su riesgo: si el docente no sabe qué se observa, para qué se usará y quién lo verá, la observación produce clases actuadas y desconfianza. La separación entre desarrollo y evaluación es la decisión más importante del diseño.",
+    "practica": "El protocolo se acuerda antes con el equipo: qué se observará, con qué instrumento, con qué frecuencia, quién accede a los registros y qué ocurre con ellos. Un foco acotado —por ejemplo, verificación de comprensión— produce conversaciones útiles; una pauta que evalúa treinta aspectos produce juicios generales y defensas.",
+    "limites": "La confiabilidad de las observaciones de aula es limitada: distintos observadores puntúan distinto y una sola clase no representa la práctica de un docente. Los sistemas serios usan varias observaciones, formación de observadores y calibración. Usar una observación aislada para decisiones de alto impacto es técnicamente insostenible.",
+    "errores": [
+      "Observar sin acuerdo previo sobre foco, uso y confidencialidad de la información.",
+      "Tomar decisiones de evaluación de desempeño con una única observación."
+    ],
+    "criterios": [
+      "el protocolo declara foco, instrumento, frecuencia y uso de la información;",
+      "distingue explícitamente observación para desarrollo de observación para evaluación;"
+    ],
+    "preguntas": [
+      "¿Sabe el docente qué vas a observar y para qué se usará?",
+      "¿Cuántas observaciones necesitas para afirmar algo sobre una práctica?",
+      "¿Qué ocurre con tus registros después de la conversación?"
+    ],
+    "lecturas": [
+      [
+        "Danielson, C. *Framework for Teaching* (edición vigente).",
+        "instrumento ampliamente usado; conviene conocerlo junto con la evidencia sobre su confiabilidad."
+      ],
+      [
+        "Ho, A. & Kane, T. (2013). *The Reliability of Classroom Observations by School Personnel*.",
+        "documenta cuántas observaciones y qué condiciones se requieren para obtener medidas confiables."
+      ]
+    ],
+    "inclusion": "Los sesgos del observador operan también en la observación de aula: docentes de determinados perfiles reciben sistemáticamente puntuaciones distintas. La formación de observadores y la calibración reducen ese efecto y deben documentarse.",
+    "reto": "Acuerda un protocolo con tu equipo y realiza tres observaciones con el mismo foco. Contrasta tus registros con los de otro observador.",
+    "conexion": "Es condición de la clase 184 y se apoya en el criterio técnico de la parte 11."
+  },
+  {
+    "n": 184,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo dar retroalimentación a un colega adulto sin que la conversación se convierta en defensa",
+    "proposito": "Conducir conversaciones de retroalimentación docente basadas en evidencia observada, con foco en la práctica, acuerdos verificables y seguimiento.",
+    "decision": "determinar qué evidencia presentarás y qué acuerdo buscas de la conversación",
+    "entregable": "el guion y el registro de una conversación de retroalimentación con acuerdo y fecha de seguimiento",
+    "conceptos": [
+      [
+        "Retroalimentación basada en evidencia",
+        "conversación anclada en lo observado y no en impresiones generales"
+      ],
+      [
+        "Foco en la práctica",
+        "centrar la conversación en decisiones docentes concretas y no en atributos de la persona"
+      ],
+      [
+        "Acuerdo verificable",
+        "compromiso específico con indicador y plazo"
+      ],
+      [
+        "Seguimiento",
+        "instancia posterior en que se revisa el acuerdo, sin la cual la conversación se disuelve"
+      ]
+    ],
+    "desarrollo": "La retroalimentación a docentes fracasa por las mismas razones que la retroalimentación a estudiantes: se dirige a la persona, es general y no tiene seguimiento. La versión que funciona presenta evidencia concreta —lo que se observó, con datos—, pregunta antes de afirmar, se centra en una decisión pedagógica específica y termina con un acuerdo verificable y una fecha.",
+    "practica": "La estructura de la conversación importa: empezar con la lectura del propio docente sobre la clase, presentar la evidencia observada, contrastar, acordar una acción y fijar el seguimiento. Preguntar antes de afirmar no es una técnica de cortesía: la mayoría de las veces el docente ya identificó el problema y la conversación avanza mucho más rápido.",
+    "limites": "El coaching instruccional muestra efectos positivos en programas bien implementados, con caída al escalar. Y su eficacia depende de que la persona que retroalimenta tenga credibilidad pedagógica: un directivo que no puede explicar cómo haría la clase pierde autoridad técnica en la conversación.",
+    "errores": [
+      "Retroalimentar con impresiones generales sin evidencia observada.",
+      "Cerrar la conversación sin acuerdo verificable ni fecha de seguimiento."
+    ],
+    "criterios": [
+      "la conversación se ancla en evidencia observada y en una decisión pedagógica específica;",
+      "termina con acuerdo verificable, indicador y fecha de seguimiento;"
+    ],
+    "preguntas": [
+      "¿Qué evidencia concreta llevas a la conversación?",
+      "¿Cuánto habla el docente y cuánto hablas tú?",
+      "¿Cuándo revisarán juntos si el acuerdo se cumplió?"
+    ],
+    "lecturas": [
+      [
+        "Knight, J. (2007). *Instructional Coaching*.",
+        "protocolos de conversación y estructura de acompañamiento con docentes."
+      ],
+      [
+        "Kraft, M., Blazar, D. & Hogan, D. (2018). *The Effect of Teacher Coaching*.",
+        "evidencia de efecto y advertencia sobre la caída al escalar los programas."
+      ]
+    ],
+    "inclusion": "Los docentes que enseñan en los cursos más difíciles suelen recibir más críticas y menos apoyo. Considerar las condiciones reales de cada contexto es parte de una retroalimentación justa y técnicamente correcta.",
+    "reto": "Conduce una conversación con guion y evidencia. Registra la proporción de tiempo en que habló cada uno y verifica el acuerdo a las tres semanas.",
+    "conexion": "Depende de la clase 183 y aplica los principios de la clase 139 a adultos profesionales."
+  },
+  {
+    "n": 185,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué distingue una comunidad profesional de aprendizaje de una reunión de coordinación más",
+    "proposito": "Instalar comunidades profesionales de aprendizaje con las condiciones que las hacen funcionar: foco en el aprendizaje de los estudiantes, trabajo con evidencia, tiempo protegido y normas de colaboración.",
+    "decision": "determinar qué condición falta en tus instancias colectivas para que produzcan aprendizaje profesional",
+    "entregable": "el diseño de una comunidad profesional con foco, evidencia, tiempo protegido y producto verificable por ciclo",
+    "conceptos": [
+      [
+        "Comunidad profesional de aprendizaje",
+        "grupo docente que indaga colectivamente sobre el aprendizaje de sus estudiantes"
+      ],
+      [
+        "Trabajo con evidencia",
+        "uso de trabajos de estudiantes y datos reales como material de la conversación"
+      ],
+      [
+        "Tiempo protegido",
+        "espacio en la jornada destinado exclusivamente al trabajo colectivo"
+      ],
+      [
+        "Producto del ciclo",
+        "resultado concreto —instrumento, secuencia, acuerdo— que deja cada período de trabajo"
+      ]
+    ],
+    "desarrollo": "La mayoría de las reuniones docentes se ocupa de coordinación administrativa. Una comunidad profesional de aprendizaje se distingue por su material: trabajos de estudiantes, datos de una evaluación, registros de clase. La conversación deja de ser sobre opiniones y pasa a ser sobre evidencia, que es lo que permite acordar acciones y verificar su efecto.",
+    "practica": "El diseño exige tres condiciones concretas: tiempo en la jornada —no después de la jornada—, foco definido por ciclo y un producto verificable al final. Sin producto, el trabajo colectivo se percibe como conversación sin consecuencia y la asistencia decae, con razón.",
+    "limites": "La evidencia sobre comunidades profesionales es favorable en desarrollo profesional y más débil e indirecta en aprendizaje de los estudiantes. Además, su implementación es muy variable: el mismo nombre cubre desde indagación rigurosa hasta reuniones renombradas. La condición material —tiempo protegido— es la que más frecuentemente falta.",
+    "errores": [
+      "Instalar la comunidad sin tiempo protegido en la jornada laboral.",
+      "Trabajar sobre opiniones y no sobre evidencia del aprendizaje de los estudiantes."
+    ],
+    "criterios": [
+      "cada ciclo trabaja con evidencia real de aprendizaje y produce un resultado verificable;",
+      "el tiempo está protegido dentro de la jornada y no depende de la disposición individual;"
+    ],
+    "preguntas": [
+      "¿Qué material concreto se pone sobre la mesa en tus reuniones?",
+      "¿Qué produjo tu equipo el último trimestre?",
+      "¿De dónde sale el tiempo para este trabajo?"
+    ],
+    "lecturas": [
+      [
+        "Vescio, V., Ross, D. & Adams, A. (2008). *A Review of Research on the Impact of Professional Learning Communities*.",
+        "revisa la evidencia disponible y sus limitaciones."
+      ],
+      [
+        "Bryk, A. et al. (2015). *Learning to Improve*.",
+        "modelo de indagación colectiva por ciclos con evidencia, aplicable a comunidades docentes."
+      ]
+    ],
+    "inclusion": "Las comunidades que trabajan con evidencia desagregada detectan qué estudiantes están quedando fuera de forma sistemática, que es información que ningún promedio institucional entrega.",
+    "reto": "Conduce un ciclo completo con evidencia real y un producto definido. Evalúa si el producto cambió alguna práctica de aula.",
+    "conexion": "Se apoya en las clases 181 y 184 y alimenta el ciclo de mejora de la clase 189."
+  },
+  {
+    "n": 186,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "por qué la mayoría de los planes estratégicos educativos no cambia nada",
+    "proposito": "Construir planificación estratégica institucional que efectivamente oriente decisiones: diagnóstico con datos, pocas prioridades, metas verificables, responsables y seguimiento real.",
+    "decision": "determinar qué pocas prioridades sostendrá tu institución y qué dejará de hacer para lograrlo",
+    "entregable": "un plan estratégico con diagnóstico, tres prioridades máximas, metas verificables y sistema de seguimiento",
+    "conceptos": [
+      [
+        "Prioridad estratégica",
+        "foco que concentra recursos y atención; su número debe ser pequeño para ser real"
+      ],
+      [
+        "Meta verificable",
+        "resultado esperado con indicador, línea base, plazo y responsable"
+      ],
+      [
+        "Línea base",
+        "valor inicial del indicador, sin el cual no se puede afirmar mejora"
+      ],
+      [
+        "Seguimiento",
+        "instancia periódica que revisa avance y ajusta, con consecuencias sobre las decisiones"
+      ]
+    ],
+    "desarrollo": "Los planes estratégicos fracasan por tres razones recurrentes: demasiadas prioridades, metas sin línea base ni indicador, y ausencia de seguimiento con consecuencias. El resultado es un documento que se escribe para cumplir un requisito y que nadie usa para decidir. Un plan útil tiene pocas prioridades, metas que se pueden verificar y una instancia periódica donde se decide con sus datos.",
+    "practica": "La disciplina más difícil es decidir qué no se hará: una institución que declara ocho prioridades no tiene ninguna. Y cada meta necesita línea base: sin ella, cualquier resultado se puede narrar como avance. El seguimiento debe tener consecuencias sobre asignación de tiempo y recursos, o se convierte en un reporte más.",
+    "limites": "No hay evidencia sólida sobre modelos de planificación estratégica en educación: es conocimiento profesional y de gestión. Lo que sí está documentado es que las instituciones que sostienen pocas prioridades durante varios años obtienen mejores resultados que las que cambian de foco cada año.",
+    "errores": [
+      "Declarar más prioridades de las que la institución puede sostener a la vez.",
+      "Fijar metas sin línea base, con lo que ningún resultado es verificable."
+    ],
+    "criterios": [
+      "el plan tiene tres prioridades como máximo, con metas, línea base y responsables;",
+      "declara explícitamente qué se dejará de hacer para sostenerlas;"
+    ],
+    "preguntas": [
+      "¿Cuántas prioridades declara hoy tu institución y cuántas puede sostener?",
+      "¿Cuál es la línea base de tu meta principal?",
+      "¿Qué decisión concreta cambió el último seguimiento?"
+    ],
+    "lecturas": [
+      [
+        "Fullan, M. (2011). *Choosing the Wrong Drivers for Whole System Reform*.",
+        "analiza por qué ciertas estrategias de mejora no producen efecto y cuáles sí."
+      ],
+      [
+        "Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente).",
+        "marco chileno de planificación institucional con sus requisitos formales."
+      ]
+    ],
+    "inclusion": "Un plan con foco de equidad declara metas desagregadas: qué ocurrirá con los estudiantes que hoy están más abajo. Sin desagregación, un promedio institucional puede mejorar mientras la brecha interna aumenta.",
+    "reto": "Reduce el plan de tu institución a tres prioridades con línea base. Presenta la propuesta al equipo y registra qué resistencias aparecen.",
+    "conexion": "Se apoya en las clases 011 y 188 y culmina en la clase 192."
+  },
+  {
+    "n": 187,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "cómo conducir un equipo docente cuando no se controla ni el sueldo ni la permanencia",
+    "proposito": "Gestionar equipos educativos con las herramientas reales disponibles: claridad de rol, distribución justa de la carga, desarrollo profesional, conversaciones difíciles y reconocimiento.",
+    "decision": "determinar qué palanca de gestión tienes efectivamente disponible para el problema de equipo que enfrentas",
+    "entregable": "un plan de gestión de equipo con distribución de carga, desarrollo y protocolo de conversaciones difíciles",
+    "conceptos": [
+      [
+        "Claridad de rol",
+        "definición explícita de funciones, decisiones y expectativas de cada integrante"
+      ],
+      [
+        "Carga distribuida",
+        "reparto justo y transparente del trabajo, incluidas las tareas invisibles"
+      ],
+      [
+        "Conversación difícil",
+        "intercambio sobre desempeño o conducta que la mayoría de los directivos posterga"
+      ],
+      [
+        "Reconocimiento",
+        "valoración específica del trabajo bien hecho; una de las pocas palancas siempre disponibles"
+      ]
+    ],
+    "desarrollo": "En educación, muchas palancas clásicas de gestión —remuneración, contratación, desvinculación— están limitadas por la normativa y por la estructura institucional. Las que quedan disponibles son potentes y poco usadas: claridad de rol, distribución justa de la carga, oportunidades reales de desarrollo, conversaciones honestas y reconocimiento específico del trabajo bien hecho.",
+    "practica": "La distribución de la carga es la fuente más frecuente de conflicto y la menos transparente: las tareas invisibles —jefaturas de curso, atención de apoderados, suplencias— se acumulan en las mismas personas. Hacerla explícita y revisarla en equipo resuelve más problemas de clima que cualquier actividad de integración.",
+    "limites": "La gestión de equipos en educación está condicionada por la normativa laboral y por la estructura del sistema, que varían por país y por dependencia. Y no hay evidencia experimental sobre prácticas de gestión educativa: es conocimiento profesional que exige ajuste al contexto.",
+    "errores": [
+      "Postergar las conversaciones difíciles hasta que el problema afecta a los estudiantes.",
+      "Distribuir la carga de forma opaca, concentrando lo invisible en las mismas personas."
+    ],
+    "criterios": [
+      "la distribución de carga es explícita e incluye las tareas invisibles;",
+      "existe un protocolo para conversaciones difíciles con registro y seguimiento;"
+    ],
+    "preguntas": [
+      "¿Quién carga con las tareas invisibles de tu equipo?",
+      "¿Qué conversación difícil llevas meses postergando?",
+      "¿Cuándo reconociste por última vez un trabajo específico bien hecho?"
+    ],
+    "lecturas": [
+      [
+        "Hargreaves, A. & O'Connor, M. (2018). *Collaborative Professionalism*.",
+        "distingue colaboración real de coordinación y aporta criterios de conducción de equipos."
+      ],
+      [
+        "Robinson, V. (2011). *Student-Centered Leadership*.",
+        "incluye las conversaciones sobre desempeño como práctica directiva central."
+      ]
+    ],
+    "inclusion": "La distribución de tareas invisibles suele tener sesgo de género y de antigüedad. Hacerla explícita es una medida de equidad interna con efectos directos sobre el clima laboral.",
+    "reto": "Levanta la distribución real de carga de tu equipo, incluidas las tareas invisibles. Preséntala y acuerda una redistribución.",
+    "conexion": "Se apoya en la clase 009 y sostiene la implementación de las clases 185 y 189."
+  },
+  {
+    "n": 188,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué indicadores institucionales informan decisiones y cuáles solo llenan informes",
+    "proposito": "Construir sistemas de indicadores educativos que orienten decisiones: pocos, con línea base, desagregados, con límites declarados y conectados a una acción posible.",
+    "decision": "determinar qué indicadores usará tu institución para decidir y cuáles dejará de recolectar",
+    "entregable": "un tablero institucional con indicadores, desagregación, límites y la decisión asociada a cada uno",
+    "conceptos": [
+      [
+        "Indicador de resultado",
+        "medida del logro alcanzado; informa pero no explica"
+      ],
+      [
+        "Indicador de proceso",
+        "medida de lo que la institución hace; permite intervenir a tiempo"
+      ],
+      [
+        "Desagregación",
+        "descomposición del indicador por grupos para revelar brechas internas"
+      ],
+      [
+        "Efecto de indicador",
+        "distorsión de la conducta institucional producida por lo que se mide"
+      ]
+    ],
+    "desarrollo": "Los sistemas educativos recolectan muchos datos y usan pocos. Un tablero útil tiene pocos indicadores, combina resultado y proceso, se desagrega para mostrar brechas y declara sus límites. La desagregación es la decisión más importante: un promedio institucional puede mejorar mientras el grupo más rezagado empeora, y esa es exactamente la información que una institución con foco en equidad necesita.",
+    "practica": "Cada indicador debe tener una decisión asociada: si baja la asistencia de un grupo, se activa un protocolo; si sube la reprobación en una asignatura, se revisa su enseñanza. Los indicadores sin decisión asociada se recolectan por inercia y consumen tiempo que rendiría más en otra parte.",
+    "limites": "Todo indicador induce conducta: lo que se mide se prioriza y lo que no se mide se abandona. Los sistemas de rendición de cuentas de alta consecuencia producen efectos documentados de estrechamiento curricular y de selección de estudiantes. Diseñar indicadores incluye anticipar esos efectos.",
+    "errores": [
+      "Recolectar indicadores sin decisión asociada, por requerimiento administrativo.",
+      "Reportar solo promedios institucionales y ocultar las brechas internas."
+    ],
+    "criterios": [
+      "cada indicador declara su decisión asociada, su límite y su desagregación;",
+      "el tablero combina indicadores de resultado y de proceso;"
+    ],
+    "preguntas": [
+      "¿Qué indicador recolectas y nadie usa para decidir?",
+      "¿Qué muestra tu indicador principal al desagregarlo?",
+      "¿Qué conducta está induciendo lo que mides?"
+    ],
+    "lecturas": [
+      [
+        "Agencia de Calidad de la Educación (Chile). *Otros Indicadores de Calidad e informes técnicos* (edición vigente).",
+        "ejemplo institucional de ampliación de indicadores más allá del puntaje."
+      ],
+      [
+        "OCDE. *Education at a Glance* (edición vigente).",
+        "definiciones y notas metodológicas útiles para construir indicadores comparables."
+      ],
+      [
+        "Muller, J. (2018). *The Tyranny of Metrics*.",
+        "advierte qué ocurre cuando el indicador reemplaza al propósito que debía representar."
+      ]
+    ],
+    "inclusion": "Sin desagregación, la equidad es indemostrable. Todo tablero con pretensión de equidad debe poder responder qué pasó con los estudiantes que estaban más abajo y con los grupos históricamente desfavorecidos.",
+    "reto": "Revisa los indicadores que tu institución recolecta y elimina los que no tienen decisión asociada. Desagrega el principal y presenta lo que revela.",
+    "conexion": "Aplica la clase 011 al nivel institucional y alimenta las clases 186 y 189."
+  },
+  {
+    "n": 189,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué los ciclos cortos de mejora funcionan mejor que las reformas internas de gran escala",
+    "proposito": "Conducir mejora escolar mediante ciclos de indagación: problema específico, hipótesis de cambio, prueba acotada, medición y decisión, en vez de reformas simultáneas y ambiciosas.",
+    "decision": "determinar qué cambio acotado vas a probar primero y cómo medirás si funcionó",
+    "entregable": "un ciclo de mejora ejecutado con problema, hipótesis, intervención acotada, medición y decisión documentada",
+    "conceptos": [
+      [
+        "Ciclo de mejora",
+        "secuencia corta de probar, medir y ajustar sobre un problema específico"
+      ],
+      [
+        "Problema específico",
+        "dificultad delimitada y observable, distinta de un objetivo general"
+      ],
+      [
+        "Prueba acotada",
+        "implementación en pequeña escala antes de extender a toda la institución"
+      ],
+      [
+        "Decisión documentada",
+        "conclusión del ciclo: se adopta, se ajusta o se abandona, con su fundamento"
+      ]
+    ],
+    "desarrollo": "La mejora sostenida se produce por acumulación de ciclos cortos, no por reformas simultáneas. La lógica es directa: un problema específico, una hipótesis sobre qué lo causa, un cambio acotado, una medición y una decisión. Probar en pequeño antes de extender evita el patrón habitual de implementar a escala completa una idea que no funcionaba y agotar al equipo en el intento.",
+    "practica": "El ciclo exige delimitar bien: «mejorar la comprensión lectora» no es un problema específico; «los estudiantes de séptimo no identifican la idea principal en textos expositivos» sí lo es. Y exige medir con instrumentos simples y comparables. La decisión final debe ser explícita, incluida la de abandonar, que es la más difícil de tomar y la que más aprendizaje produce.",
+    "limites": "La mejora continua aplicada a educación tiene evidencia prometedora y no concluyente, y su implementación exige capacidades que muchos equipos no tienen: delimitar problemas, medir y decidir con datos. Sin desarrollo de esas capacidades, los ciclos se convierten en un formato vacío.",
+    "errores": [
+      "Iniciar múltiples cambios simultáneos y no poder atribuir ningún resultado.",
+      "Extender a toda la institución un cambio que no fue probado en pequeña escala."
+    ],
+    "criterios": [
+      "el problema está delimitado y es observable con un instrumento simple;",
+      "el ciclo termina con una decisión explícita y documentada;"
+    ],
+    "preguntas": [
+      "¿Cuál es el problema específico, en una frase verificable?",
+      "¿En qué escala probarás antes de extender?",
+      "¿Qué resultado te haría abandonar la idea?"
+    ],
+    "lecturas": [
+      [
+        "Bryk, A. et al. (2015). *Learning to Improve*.",
+        "modelo de mejora continua aplicado a escuelas, con ciclos y redes de aprendizaje."
+      ],
+      [
+        "Fullan, M. (2011). *Choosing the Wrong Drivers*.",
+        "advierte sobre las estrategias de reforma que consumen energía sin producir mejora."
+      ]
+    ],
+    "inclusion": "Los ciclos deben medir su efecto de forma desagregada: una mejora promedio puede coexistir con un deterioro en el grupo que motivó la intervención. Sin ese control, la mejora institucional puede ampliar la brecha.",
+    "reto": "Ejecuta un ciclo completo en ocho semanas con problema delimitado y medición. Documenta la decisión final, incluso si es abandonar.",
+    "conexion": "Integra las clases 185, 187 y 188 y es el método del proyecto de la clase 192."
+  },
+  {
+    "n": 190,
+    "evidencia": "EN-DEBATE",
+    "foco": "cómo distinguir una innovación que vale la pena de una moda que consumirá dos años del equipo",
+    "proposito": "Evaluar y conducir innovación educativa con criterio: evidencia disponible, ajuste al problema real, capacidad institucional y costo de oportunidad.",
+    "decision": "determinar si una innovación propuesta merece la energía institucional que consumirá",
+    "entregable": "una evaluación de una innovación con evidencia, ajuste al problema, capacidad requerida y costo de oportunidad",
+    "conceptos": [
+      [
+        "Innovación",
+        "cambio deliberado en la práctica con expectativa de mejora; no toda novedad lo es"
+      ],
+      [
+        "Costo de oportunidad",
+        "lo que la institución deja de hacer por dedicar energía a esta innovación"
+      ],
+      [
+        "Capacidad institucional",
+        "condiciones y competencias necesarias para implementar con fidelidad"
+      ],
+      [
+        "Fidelidad de implementación",
+        "grado en que lo ejecutado corresponde a lo diseñado; explica muchos fracasos atribuidos al método"
+      ]
+    ],
+    "desarrollo": "El campo educativo adopta y abandona innovaciones con un ciclo rápido y costoso: cada iniciativa consume energía, credibilidad y tiempo del equipo. Evaluar una innovación exige cuatro preguntas: qué evidencia tiene, qué problema real resuelve en esta institución, qué capacidad exige y qué se dejará de hacer para implementarla. La cuarta es la que casi nunca se hace y la que más explica el agotamiento de los equipos.",
+    "practica": "La evaluación se documenta y se discute antes de comprometer recursos. Y la implementación debe considerar la fidelidad: la mayoría de las innovaciones que fracasan no fueron probadas en su versión real, sino en una adaptación local que perdió sus componentes activos. Declarar qué es irrenunciable del diseño original es parte de la decisión.",
+    "limites": "La evidencia sobre innovaciones específicas es heterogénea y muchas veces proviene de sus propios promotores. Y existe una tensión legítima: exigir evidencia completa antes de innovar paralizaría la práctica, mientras que innovar sin criterio consume el sistema. La posición defendible es probar acotado y medir.",
+    "errores": [
+      "Adoptar una innovación sin evaluar la capacidad institucional que exige.",
+      "Adaptar el diseño hasta perder los componentes que lo hacían funcionar."
+    ],
+    "criterios": [
+      "la evaluación declara evidencia, capacidad requerida y costo de oportunidad;",
+      "identifica los componentes irrenunciables del diseño original;"
+    ],
+    "preguntas": [
+      "¿Qué problema real de tu institución resuelve esta innovación?",
+      "¿Qué dejará de hacer tu equipo para implementarla?",
+      "¿Qué parte del diseño no se puede adaptar sin perder su efecto?"
+    ],
+    "lecturas": [
+      [
+        "Century, J. & Cassata, A. (2016). *Implementation Research: Finding Common Ground*.",
+        "sistematiza fidelidad de implementación y adaptación en innovaciones educativas."
+      ],
+      [
+        "Fullan, M. (2007). *The New Meaning of Educational Change*.",
+        "análisis clásico sobre por qué las innovaciones prenden o se disuelven en las escuelas."
+      ]
+    ],
+    "inclusion": "Las innovaciones que exigen recursos adicionales de las familias o de los estudiantes amplían brechas. Evaluar su costo para quienes tienen menos es parte de la decisión institucional.",
+    "reto": "Evalúa una innovación en curso o propuesta con los cuatro criterios. Presenta la evaluación al equipo y toma una decisión documentada.",
+    "conexion": "Se apoya en la clase 182 y usa el método de la clase 189 para probar antes de escalar."
+  },
+  {
+    "n": 191,
+    "evidencia": "MARCO-NORMATIVO",
+    "foco": "qué decisiones directivas tienen consecuencias éticas que no se resuelven con el reglamento",
+    "proposito": "Ejercer la dirección con criterio ético: transparencia, equidad en la asignación de recursos, protección de los más vulnerables, manejo de información sensible y conflicto de interés.",
+    "decision": "determinar cómo decidirás ante un conflicto entre intereses institucionales y derechos de un estudiante",
+    "entregable": "un análisis de tres dilemas directivos reales con la decisión fundamentada y su registro",
+    "conceptos": [
+      [
+        "Conflicto de interés",
+        "situación en que un interés personal o institucional puede afectar la imparcialidad de la decisión"
+      ],
+      [
+        "Equidad en la asignación",
+        "distribución de recursos y de atención en función de la necesidad y no de la presión"
+      ],
+      [
+        "Manejo de información sensible",
+        "resguardo de datos de estudiantes y de trabajadores en decisiones directivas"
+      ],
+      [
+        "Transparencia",
+        "comunicación de los criterios de decisión a quienes son afectados por ella"
+      ]
+    ],
+    "desarrollo": "La dirección educativa enfrenta dilemas que el reglamento no resuelve: expulsar a un estudiante disruptivo protege al grupo y puede vulnerar su derecho a la educación; asignar los mejores docentes a los cursos con evaluación externa mejora resultados y perjudica a otros estudiantes; atender a la familia que reclama con más fuerza desplaza a la que no reclama. Ninguno se resuelve con una regla: exigen criterio, fundamento y registro.",
+    "practica": "El método consiste en explicitar el conflicto, identificar los derechos e intereses en juego, evaluar alternativas con su impacto sobre los más vulnerables, decidir y registrar el fundamento. El registro protege a la institución y, sobre todo, obliga a formular por escrito una justificación que muchas decisiones apresuradas no resistirían.",
+    "limites": "El marco normativo fija pisos y no resuelve la ponderación: cumplir la norma no equivale a decidir bien. Y el ejercicio directivo está condicionado por presiones reales —sostenedor, matrícula, resultados— que no desaparecen por reconocerlas. Explicitarlas permite decidir con conciencia del costo.",
+    "errores": [
+      "Asignar recursos según la presión recibida y no según la necesidad detectada.",
+      "Tomar decisiones con impacto sobre derechos sin registrar el fundamento."
+    ],
+    "criterios": [
+      "cada dilema identifica derechos e intereses en juego y evalúa el impacto sobre los más vulnerables;",
+      "la decisión queda registrada con su fundamento y sus alternativas descartadas;"
+    ],
+    "preguntas": [
+      "¿Qué decisión tuya de este mes no resistiría una revisión externa?",
+      "¿Quién recibe más recursos: quien más los necesita o quien más presiona?",
+      "¿Qué información sensible circula en tu equipo sin necesidad?"
+    ],
+    "lecturas": [
+      [
+        "Starratt, R. (2004). *Ethical Leadership*.",
+        "marco de ética directiva aplicado a instituciones educativas."
+      ],
+      [
+        "Mineduc. *Marco para la Buena Dirección y el Liderazgo Escolar* (edición vigente).",
+        "estándares chilenos del ejercicio directivo, incluidas sus dimensiones éticas."
+      ]
+    ],
+    "inclusion": "La prueba ética de una decisión directiva es su efecto sobre los estudiantes con menos capacidad de reclamar. Cuando una medida los perjudica y nadie protesta, esa ausencia de protesta no es señal de acierto.",
+    "reto": "Documenta tres decisiones directivas con su fundamento y su impacto sobre los estudiantes más vulnerables. Revísalas con un par externo.",
+    "conexion": "Aplica la clase 004 al nivel institucional y condiciona las decisiones de las clases 186 a 190."
+  },
+  {
+    "n": 192,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se construye un plan de mejora que el equipo pueda ejecutar y que produzca evidencia",
+    "proposito": "Integrar la parte construyendo un plan de mejora institucional completo: diagnóstico con datos, prioridades acotadas, ciclos de mejora, indicadores desagregados y sistema de seguimiento.",
+    "decision": "determinar el plan completo de mejora y cómo se verificará su efecto sin depender de percepciones",
+    "entregable": "un plan de mejora institucional con diagnóstico, prioridades, ciclos, indicadores desagregados y seguimiento",
+    "conceptos": [
+      [
+        "Plan de mejora",
+        "instrumento que articula diagnóstico, prioridades, acciones e indicadores institucionales"
+      ],
+      [
+        "Capacidad de ejecución",
+        "condiciones reales del equipo para sostener las acciones comprometidas"
+      ],
+      [
+        "Indicador desagregado",
+        "medida que muestra el efecto sobre distintos grupos de estudiantes"
+      ],
+      [
+        "Sostenibilidad",
+        "posibilidad de mantener el plan más allá del entusiasmo inicial y del cambio de personas"
+      ]
+    ],
+    "desarrollo": "El proyecto integrador exige articular todo lo anterior con un criterio dominante: la capacidad real de ejecución. Un plan que excede lo que el equipo puede sostener produce incumplimiento, desgaste y pérdida de credibilidad para el siguiente intento. Por eso el plan se dimensiona a partir del tiempo y las capacidades disponibles, no a partir de lo deseable.",
+    "practica": "El plan se organiza en pocas prioridades, cada una desagregada en ciclos de mejora con responsables y plazos, con indicadores que se puedan desagregar por grupo. El sistema de seguimiento define quién revisa, cada cuánto y con qué consecuencia sobre las decisiones de recursos y tiempo.",
+    "limites": "Un plan bien diseñado no garantiza mejora: depende de la implementación, del contexto y de factores externos a la institución. Su valor es hacer explícitas las decisiones y producir evidencia sobre lo que se intentó, que es la base para el ciclo siguiente.",
+    "errores": [
+      "Comprometer más acciones de las que el equipo puede ejecutar con su tiempo real.",
+      "Definir indicadores sin desagregación, con lo que la equidad se vuelve indemostrable."
+    ],
+    "criterios": [
+      "el plan está dimensionado a la capacidad real de ejecución del equipo;",
+      "los indicadores se desagregan por grupo y tienen línea base;"
+    ],
+    "preguntas": [
+      "¿Cuántas horas de trabajo del equipo compromete tu plan y de dónde salen?",
+      "¿Qué mostrará tu indicador principal desagregado?",
+      "¿Qué sobrevive de tu plan si cambian tres personas del equipo?"
+    ],
+    "lecturas": [
+      [
+        "Bryk, A. et al. (2015). *Learning to Improve*.",
+        "método de mejora por ciclos aplicable a la estructura del plan."
+      ],
+      [
+        "Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente).",
+        "marco chileno con sus requisitos formales y su lógica de ciclos."
+      ]
+    ],
+    "inclusion": "El plan debe declarar explícitamente qué hará por los estudiantes que hoy están más abajo, con metas propias y seguimiento propio. Sin eso, la mejora institucional tiende a beneficiar primero a quienes ya estaban mejor.",
+    "reto": "Construye el plan, ejecuta un ciclo y presenta la evidencia al equipo y al sostenedor. Documenta qué se ajustó a partir de los datos.",
+    "conexion": "Cierra la parte 15 integrando sus once clases previas y se conecta con las partes 16 y 17."
+  }
 ]

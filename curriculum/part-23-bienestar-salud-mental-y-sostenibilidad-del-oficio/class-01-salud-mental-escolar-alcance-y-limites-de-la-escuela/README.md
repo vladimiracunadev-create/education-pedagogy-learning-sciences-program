@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Ministerio de Educación de Chile. *Orientaciones sobre salud mental en la comunidad educativa*. | el alcance institucional y las obligaciones vigentes del establecimiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Ministerio de Educación de Chile. *Orientaciones sobre salud mental en la comunidad educativa* (edición vigente). | el alcance institucional y las obligaciones vigentes del establecimiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*. | revisión sobre qué puede razonablemente esperarse de las intervenciones escolares. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ministerio de Educación de Chile. *Orientaciones sobre salud mental en la comunidad educativa*. **Uso en esta clase:** el alcance institucional y las obligaciones vigentes del establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ministerio de Educación de Chile. *Orientaciones sobre salud mental en la comunidad educativa* (edición vigente). **Uso en esta clase:** el alcance institucional y las obligaciones vigentes del establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*. **Uso en esta clase:** revisión sobre qué puede razonablemente esperarse de las intervenciones escolares. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

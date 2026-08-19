@@ -11,18 +11,18 @@ repositorio.
 |---|---:|
 | Partes del currículo | 25 |
 | Clases | 300 |
-| Palabras en las clases | 1.176.335 |
+| Palabras en las clases | 1.178.711 |
 | Conceptos con definición operacional | 1.200 |
 | Señales observables exigidas | 900 |
-| Obras distintas citadas en clase | 438 |
-| Citas bibliográficas en clase | 600 |
+| Obras distintas citadas en clase | 451 |
+| Citas bibliográficas en clase | 622 |
 | Diagramas mermaid | 325 |
 | Preguntas de comprobación | 900 |
 | Evidencias de aprendizaje | 300 |
 | Proyectos integradores de parte | 25 |
 | Proyectos integradores mayores | 5 |
 | Guías de carrera por rol | 14 |
-| Documentos transversales | 17 |
+| Documentos transversales | 18 |
 | Casos profesionales | 8 |
 | Laboratorios | 10 |
 | Plantillas de trabajo | 4 |

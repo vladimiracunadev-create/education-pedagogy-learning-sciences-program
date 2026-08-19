@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*. | respalda espaciado y recuperación, que son los mecanismos que justifican el formato. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Hug, T. (ed.). *Didactics of Microlearning*. | revisa el campo, sus definiciones y sus límites conceptuales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Hug, T. (ed.) (2007). *Didactics of Microlearning*. | revisa el campo, sus definiciones y sus límites conceptuales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*. **Uso en esta clase:** respalda espaciado y recuperación, que son los mecanismos que justifican el formato. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hug, T. (ed.). *Didactics of Microlearning*. **Uso en esta clase:** revisa el campo, sus definiciones y sus límites conceptuales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Hug, T. (ed.) (2007). *Didactics of Microlearning*. **Uso en esta clase:** revisa el campo, sus definiciones y sus límites conceptuales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

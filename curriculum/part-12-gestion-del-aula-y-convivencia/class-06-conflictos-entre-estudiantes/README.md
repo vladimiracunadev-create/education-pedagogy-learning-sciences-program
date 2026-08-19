@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Olweus, D. *Bullying at School* y programas derivados. | distingue hostigamiento de conflicto y aporta criterios operativos de identificación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc / Superintendencia de Educación. *Orientaciones y protocolos de convivencia escolar*. | define el procedimiento obligatorio en Chile ante situaciones tipificadas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Olweus, D. (1993). *Bullying at School: What We Know and What We Can Do*. | distingue hostigamiento de conflicto y aporta criterios operativos de identificación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc / Superintendencia de Educación. *Orientaciones y protocolos de convivencia escolar* (edición vigente). | define el procedimiento obligatorio en Chile ante situaciones tipificadas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Olweus, D. *Bullying at School* y programas derivados. **Uso en esta clase:** distingue hostigamiento de conflicto y aporta criterios operativos de identificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc / Superintendencia de Educación. *Orientaciones y protocolos de convivencia escolar*. **Uso en esta clase:** define el procedimiento obligatorio en Chile ante situaciones tipificadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Olweus, D. (1993). *Bullying at School: What We Know and What We Can Do*. **Uso en esta clase:** distingue hostigamiento de conflicto y aporta criterios operativos de identificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc / Superintendencia de Educación. *Orientaciones y protocolos de convivencia escolar* (edición vigente). **Uso en esta clase:** define el procedimiento obligatorio en Chile ante situaciones tipificadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

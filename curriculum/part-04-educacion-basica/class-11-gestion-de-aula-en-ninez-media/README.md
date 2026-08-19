@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Kounin, J. (1970). *Discipline and Group Management in Classrooms*. | origen del hallazgo sobre prevención y percepción simultánea; sigue siendo la mejor descripción del mecanismo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Evertson, C. & Emmer, E. *Classroom Management for Elementary Teachers*. | manual operativo de rutinas, transiciones y comienzo del año escolar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Evertson, C. & Emmer, E. *Classroom Management for Elementary Teachers* (edición vigente). | manual operativo de rutinas, transiciones y comienzo del año escolar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Kounin, J. (1970). *Discipline and Group Management in Classrooms*. **Uso en esta clase:** origen del hallazgo sobre prevención y percepción simultánea; sigue siendo la mejor descripción del mecanismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Evertson, C. & Emmer, E. *Classroom Management for Elementary Teachers*. **Uso en esta clase:** manual operativo de rutinas, transiciones y comienzo del año escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Evertson, C. & Emmer, E. *Classroom Management for Elementary Teachers* (edición vigente). **Uso en esta clase:** manual operativo de rutinas, transiciones y comienzo del año escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

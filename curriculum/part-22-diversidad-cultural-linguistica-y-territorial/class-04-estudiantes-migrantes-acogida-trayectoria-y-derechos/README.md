@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. | explica por qué el diagnóstico en la lengua de instrucción subestima sistemáticamente el conocimiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Ministerio de Educación de Chile. *Orientaciones para la inclusión de estudiantes migrantes*. | derechos de matrícula, reconocimiento de estudios y obligaciones del establecimiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Ministerio de Educación de Chile. *Orientaciones para la inclusión de estudiantes migrantes* (edición vigente). | derechos de matrícula, reconocimiento de estudios y obligaciones del establecimiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. **Uso en esta clase:** explica por qué el diagnóstico en la lengua de instrucción subestima sistemáticamente el conocimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ministerio de Educación de Chile. *Orientaciones para la inclusión de estudiantes migrantes*. **Uso en esta clase:** derechos de matrícula, reconocimiento de estudios y obligaciones del establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ministerio de Educación de Chile. *Orientaciones para la inclusión de estudiantes migrantes* (edición vigente). **Uso en esta clase:** derechos de matrícula, reconocimiento de estudios y obligaciones del establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

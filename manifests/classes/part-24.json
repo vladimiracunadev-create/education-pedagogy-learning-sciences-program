@@ -7,10 +7,22 @@
     "decision": "determinar qué mecanismo explica el resultado del sistema que te interesa y qué condición lo sostiene",
     "entregable": "una ficha de sistema con mecanismo, contexto, evidencia disponible y condición de transferencia",
     "conceptos": [
-      ["Mecanismo", "proceso concreto por el cual una política o práctica produce el resultado observado"],
-      ["Equivalencia funcional", "criterio comparativo que busca elementos que cumplen la misma función, aunque tengan formas distintas"],
-      ["Condición de transferencia", "requisito del contexto original sin el cual el mecanismo no opera en otro lugar"],
-      ["Efecto de fachada", "elemento visible de un sistema que se importa con facilidad y que no explica su resultado"]
+      [
+        "Mecanismo",
+        "proceso concreto por el cual una política o práctica produce el resultado observado"
+      ],
+      [
+        "Equivalencia funcional",
+        "criterio comparativo que busca elementos que cumplen la misma función, aunque tengan formas distintas"
+      ],
+      [
+        "Condición de transferencia",
+        "requisito del contexto original sin el cual el mecanismo no opera en otro lugar"
+      ],
+      [
+        "Efecto de fachada",
+        "elemento visible de un sistema que se importa con facilidad y que no explica su resultado"
+      ]
     ],
     "desarrollo": "La educación comparada tiene una regla que la conversación pública ignora: lo que se ve de un sistema —la jornada, las pruebas, la tecnología, el mobiliario— rara vez es lo que produce sus resultados. Lo que suele producirlos es menos visible y más difícil de trasladar: cómo se selecciona y forma a los docentes, cuánta estabilidad tiene la política, y qué condiciones sociales rodean a la escuela. Importar la fachada y omitir el mecanismo es el patrón más repetido de las reformas fallidas.",
     "practica": "La ficha de análisis obliga a tres pasos. Primero, identificar el mecanismo propuesto y verificar si existe evidencia que lo conecte con el resultado o si es una atribución posterior. Segundo, describir el contexto que lo sostiene: formación docente, estabilidad política, condiciones sociales, tamaño del sistema. Tercero, declarar la condición de transferencia: qué tendría que existir aquí para que el mecanismo opere, y qué ocurre si no existe.",
@@ -29,8 +41,14 @@
       "¿Cuántos sistemas aplicaron lo mismo sin obtener el resultado?"
     ],
     "lecturas": [
-      ["Crehan, L. (2016). *Cleverlands*.", "recorre los sistemas de mejor resultado buscando el mecanismo detrás de la fachada."],
-      ["Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*.", "muestra que la importación de políticas responde muchas veces a razones internas y no a evidencia."]
+      [
+        "Crehan, L. (2016). *Cleverlands*.",
+        "recorre los sistemas de mejor resultado buscando el mecanismo detrás de la fachada."
+      ],
+      [
+        "Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*.",
+        "muestra que la importación de políticas responde muchas veces a razones internas y no a evidencia."
+      ]
     ],
     "inclusion": "Los sistemas de referencia suelen operar en sociedades con menor desigualdad y con protección social más densa. Omitir esa diferencia traslada a la escuela la responsabilidad de resultados que dependen de condiciones que no controla.",
     "reto": "Elige un sistema que se cite con frecuencia en tu entorno. Completa la ficha y presenta qué condición local haría fracasar el traslado.",
@@ -44,10 +62,22 @@
     "decision": "determinar qué afirmación sobre tu sistema está respaldada por el resultado y cuál lo excede",
     "entregable": "una lectura crítica de un resultado internacional con sus límites y sus inferencias válidas declaradas",
     "conceptos": [
-      ["Prueba internacional de rendimiento", "instrumento comparado que mide desempeño en dominios acotados, con muestreo y escala propios"],
-      ["Comparabilidad", "condición de que el instrumento mida lo mismo en contextos y lenguas distintas, que nunca se cumple del todo"],
-      ["Margen de error", "rango dentro del cual se ubica el resultado real; hace que muchas diferencias de ranking no sean significativas"],
-      ["Inferencia excedida", "conclusión que va más allá de lo que el diseño del instrumento permite afirmar"]
+      [
+        "Prueba internacional de rendimiento",
+        "instrumento comparado que mide desempeño en dominios acotados, con muestreo y escala propios"
+      ],
+      [
+        "Comparabilidad",
+        "condición de que el instrumento mida lo mismo en contextos y lenguas distintas, que nunca se cumple del todo"
+      ],
+      [
+        "Margen de error",
+        "rango dentro del cual se ubica el resultado real; hace que muchas diferencias de ranking no sean significativas"
+      ],
+      [
+        "Inferencia excedida",
+        "conclusión que va más allá de lo que el diseño del instrumento permite afirmar"
+      ]
     ],
     "desarrollo": "Las pruebas internacionales son instrumentos técnicamente serios y la discusión pública los usa mal. Miden desempeño en dominios acotados, con muestras y escalas definidas, y permiten comparar tendencias en el tiempo mejor que posiciones puntuales. Lo que no permiten es atribuir causas: un país que sube puede haberlo hecho por cambios demográficos, por variaciones de cobertura o por factores ajenos a su política educativa. Y buena parte de las diferencias de ranking cae dentro del margen de error.",
     "practica": "Una lectura profesional revisa cuatro cosas antes de concluir: qué mide exactamente la prueba y qué deja fuera, quién está en la muestra —la cobertura escolar cambia quién rinde—, cuál es el margen de error de la comparación que se está haciendo, y si la tendencia en el tiempo es consistente. Con eso, muchas afirmaciones habituales del debate público se caen solas, y las que sobreviven son más útiles.",
@@ -66,8 +96,18 @@
       "¿Qué aprendizaje importante de tu currículum no mide esta prueba?"
     ],
     "lecturas": [
-      ["OCDE. *PISA: marco técnico y de evaluación*.", "los supuestos, el diseño muestral y los límites declarados por el propio instrumento."],
-      ["AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.", "el criterio de uso previsto aplicado a instrumentos comparados de gran escala."]
+      [
+        "OCDE. *PISA: marco técnico y de evaluación* (edición vigente).",
+        "los supuestos, el diseño muestral y los límites declarados por el propio instrumento."
+      ],
+      [
+        "AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.",
+        "el criterio de uso previsto aplicado a instrumentos comparados de gran escala."
+      ],
+      [
+        "Goldstein, H. (2004). *International Comparisons of Student Attainment: Some Issues Arising from the PISA Study*.",
+        "la crítica metodológica que delimita qué se puede concluir de una comparación internacional."
+      ]
     ],
     "inclusion": "Los resultados desagregados por nivel socioeconómico informan más que el promedio nacional: dos países con el mismo puntaje pueden diferir por completo en cuánto pesa el origen social sobre el aprendizaje.",
     "reto": "Toma una afirmación pública reciente sobre resultados internacionales y verifícala con los cuatro criterios. Escribe qué se sostiene y qué no.",
@@ -81,10 +121,22 @@
     "decision": "determinar qué elemento del caso finlandés es transferible a tu contexto y bajo qué condición",
     "entregable": "una ficha del caso finlandés con mecanismo, condición y decisión de transferencia fundamentada",
     "conceptos": [
-      ["Selección docente", "exigencia de ingreso a la formación inicial, elemento central del caso y el menos comentado"],
-      ["Estabilidad de política", "continuidad de las orientaciones a lo largo de décadas y de gobiernos sucesivos"],
-      ["Confianza profesional", "margen de decisión otorgado a los docentes, sostenido por su formación y su prestigio social"],
-      ["Contexto social", "nivel de desigualdad, protección social y homogeneidad cultural que rodean al sistema"]
+      [
+        "Selección docente",
+        "exigencia de ingreso a la formación inicial, elemento central del caso y el menos comentado"
+      ],
+      [
+        "Estabilidad de política",
+        "continuidad de las orientaciones a lo largo de décadas y de gobiernos sucesivos"
+      ],
+      [
+        "Confianza profesional",
+        "margen de decisión otorgado a los docentes, sostenido por su formación y su prestigio social"
+      ],
+      [
+        "Contexto social",
+        "nivel de desigualdad, protección social y homogeneidad cultural que rodean al sistema"
+      ]
     ],
     "desarrollo": "Finlandia se convirtió en referencia tras sus resultados en las primeras mediciones internacionales, y la difusión posterior seleccionó los elementos más llamativos: pocas pruebas, jornada corta, inicio tardío de la escolaridad. Los análisis más cuidadosos apuntan a otros factores: una formación inicial docente altamente selectiva y de nivel de posgrado, décadas de continuidad en la política educativa, y un contexto social con baja desigualdad y protección social amplia.",
     "practica": "La transferencia honesta se pregunta qué elemento puede replicarse y a qué costo. Elevar la selectividad de la formación inicial docente es posible, exige décadas y tiene condiciones —prestigio, salario, condiciones de trabajo— que van juntas. Eliminar pruebas estandarizadas sin construir antes la capacidad profesional que sustituye esa información produce un vacío, no un sistema finlandés. Esa distinción es exactamente el contenido de la decisión.",
@@ -103,8 +155,14 @@
       "¿Qué información reemplazaría a la que hoy entregan las pruebas estandarizadas?"
     ],
     "lecturas": [
-      ["Sahlberg, P. (2011). *Finnish Lessons*.", "la fuente que originó buena parte del relato; leída completa muestra lo que el relato omitió."],
-      ["Crehan, L. (2016). *Cleverlands*.", "contrasta el caso con otros sistemas y ayuda a separar mecanismo de circunstancia."]
+      [
+        "Sahlberg, P. (2011). *Finnish Lessons*.",
+        "la fuente que originó buena parte del relato; leída completa muestra lo que el relato omitió."
+      ],
+      [
+        "Crehan, L. (2016). *Cleverlands*.",
+        "contrasta el caso con otros sistemas y ayuda a separar mecanismo de circunstancia."
+      ]
     ],
     "inclusion": "La baja desigualdad de resultados finlandesa se apoya en un sistema de protección social que reduce las diferencias antes de que lleguen a la escuela. Omitirlo convierte un logro social en un mérito exclusivamente pedagógico.",
     "reto": "Completa la ficha del caso finlandés y elige un elemento transferible. Escribe su costo, su plazo y las condiciones que exigiría aquí.",
@@ -118,10 +176,22 @@
     "decision": "determinar qué elemento de la cadena singapurense podría adoptarse sin los demás y con qué riesgo",
     "entregable": "una ficha del caso con la cadena completa y la evaluación de transferencia por elemento",
     "conceptos": [
-      ["Cadena de coherencia", "alineación entre currículum, formación docente, material y evaluación, que opera como sistema"],
-      ["Enfoque concreto-pictórico-abstracto", "progresión de representaciones característica del método de matemática singapurense"],
-      ["Desarrollo profesional estructurado", "sistema de formación continua con tiempo protegido y foco en el contenido a enseñar"],
-      ["Adopción parcial", "importación de un elemento sin los demás componentes de la cadena que lo sostienen"]
+      [
+        "Cadena de coherencia",
+        "alineación entre currículum, formación docente, material y evaluación, que opera como sistema"
+      ],
+      [
+        "Enfoque concreto-pictórico-abstracto",
+        "progresión de representaciones característica del método de matemática singapurense"
+      ],
+      [
+        "Desarrollo profesional estructurado",
+        "sistema de formación continua con tiempo protegido y foco en el contenido a enseñar"
+      ],
+      [
+        "Adopción parcial",
+        "importación de un elemento sin los demás componentes de la cadena que lo sostienen"
+      ]
     ],
     "desarrollo": "Singapur sostiene resultados altos en matemática de manera consistente y su caso tiene una ventaja para el análisis: el mecanismo propuesto es relativamente concreto. Hay un currículum con progresión cuidada, material alineado, formación docente centrada en el contenido que se enseña y desarrollo profesional continuo con tiempo protegido. Los cuatro elementos operan como cadena; el método de enseñanza que se exporta bajo el nombre del país es solo uno de ellos.",
     "practica": "El análisis de transferencia examina la cadena por partes. Adoptar el material sin la formación docente asociada produce docentes usando un texto cuya lógica no dominan. Adoptar el enfoque de representaciones sin ajustar la progresión curricular genera incoherencia con el resto del programa. La conclusión práctica no es que sea intransferible, sino que la adopción parcial tiene riesgos identificables que deben declararse antes de decidir.",
@@ -140,8 +210,14 @@
       "¿Qué costos sobre bienestar estudiantil reconoce el propio sistema?"
     ],
     "lecturas": [
-      ["Crehan, L. (2016). *Cleverlands*.", "describe la cadena singapurense desde dentro, con sus condiciones y sus costos."],
-      ["Ball, D., Thames, M. & Phelps, G. (2008). *Content Knowledge for Teaching*.", "fundamenta por qué la formación centrada en el contenido a enseñar es el eslabón crítico."]
+      [
+        "Crehan, L. (2016). *Cleverlands*.",
+        "describe la cadena singapurense desde dentro, con sus condiciones y sus costos."
+      ],
+      [
+        "Ball, D., Thames, M. & Phelps, G. (2008). *Content Knowledge for Teaching*.",
+        "fundamenta por qué la formación centrada en el contenido a enseñar es el eslabón crítico."
+      ]
     ],
     "inclusion": "La enseñanza particular extendida fuera del sistema escolar introduce una desigualdad que los resultados agregados no muestran y que conviene declarar antes de proponer el caso como modelo de equidad.",
     "reto": "Completa la ficha con la cadena de cuatro elementos. Evalúa qué ocurriría al adoptar solo el material y escribe el riesgo previsto.",
@@ -155,10 +231,22 @@
     "decision": "determinar qué del caso estonio se explica por su política educativa y qué por su contexto",
     "entregable": "una ficha del caso con hipótesis explicativas y evaluación de la evidencia de cada una",
     "conceptos": [
-      ["Equidad de resultados", "grado en que el origen social predice el desempeño; indicador más informativo que el promedio"],
-      ["Digitalización educativa", "incorporación sistémica de tecnología en gestión y enseñanza, frecuentemente sobreatribuida como causa"],
-      ["Escuela común", "estructura sin selección temprana, asociada consistentemente con menor desigualdad de resultados"],
-      ["Hipótesis explicativa", "conjetura sobre la causa de un resultado, que debe evaluarse por la evidencia que la respalda"]
+      [
+        "Equidad de resultados",
+        "grado en que el origen social predice el desempeño; indicador más informativo que el promedio"
+      ],
+      [
+        "Digitalización educativa",
+        "incorporación sistémica de tecnología en gestión y enseñanza, frecuentemente sobreatribuida como causa"
+      ],
+      [
+        "Escuela común",
+        "estructura sin selección temprana, asociada consistentemente con menor desigualdad de resultados"
+      ],
+      [
+        "Hipótesis explicativa",
+        "conjetura sobre la causa de un resultado, que debe evaluarse por la evidencia que la respalda"
+      ]
     ],
     "desarrollo": "Estonia obtiene resultados altos con una desigualdad de resultados baja y con un gasto por estudiante moderado, lo que la convierte en un caso interesante para sistemas con restricciones presupuestarias. La atribución más difundida es su digitalización, que es visible y fácil de contar. Las hipótesis con más respaldo son otras: estructura sin selección temprana, docentes con formación universitaria sólida, y una tradición de valoración social de la educación anterior a cualquier reforma reciente.",
     "practica": "El ejercicio profesional consiste en listar las hipótesis explicativas del caso y evaluar cada una por su evidencia. La digitalización mejoró la gestión y la disponibilidad de datos, y su efecto directo sobre aprendizaje es mucho menos claro. La ausencia de selección temprana tiene respaldo comparado más consistente. Distinguirlas cambia por completo qué se propondría adoptar.",
@@ -177,8 +265,14 @@
       "¿Cuánto del resultado es anterior a las reformas que se citan?"
     ],
     "lecturas": [
-      ["OCDE. *Informes país sobre sistemas educativos*.", "descripción estructural del sistema con datos comparables."],
-      ["Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*.", "advierte sobre la construcción de casos ejemplares y sus usos políticos."]
+      [
+        "OCDE. *Informes país sobre sistemas educativos* (edición vigente).",
+        "descripción estructural del sistema con datos comparables."
+      ],
+      [
+        "Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*.",
+        "advierte sobre la construcción de casos ejemplares y sus usos políticos."
+      ]
     ],
     "inclusion": "La equidad de resultados —cuánto predice el origen social el desempeño— es el indicador que más importa para un sistema segregado como el chileno, y suele quedar fuera de la conversación sobre modelos.",
     "reto": "Completa la ficha con tres hipótesis y su evidencia. Determina cuál sería relevante para el problema de equidad de tu sistema.",
@@ -192,10 +286,22 @@
     "decision": "determinar si tu establecimiento puede sostener un ciclo de lesson study y con qué condiciones",
     "entregable": "el diseño de un ciclo completo de lesson study con roles, tiempos y producto documentado",
     "conceptos": [
-      ["Lesson study", "ciclo colaborativo en que un grupo de docentes planifica, observa y analiza una clase para mejorar la enseñanza"],
-      ["Clase de investigación", "clase planificada colectivamente y observada con foco en el aprendizaje de los estudiantes, no en el desempeño del docente"],
-      ["Foco en el aprendizaje", "orientación de la observación hacia lo que hacen y comprenden los estudiantes"],
-      ["Producto documentado", "registro del ciclo que permite acumular conocimiento profesional más allá de los participantes"]
+      [
+        "Lesson study",
+        "ciclo colaborativo en que un grupo de docentes planifica, observa y analiza una clase para mejorar la enseñanza"
+      ],
+      [
+        "Clase de investigación",
+        "clase planificada colectivamente y observada con foco en el aprendizaje de los estudiantes, no en el desempeño del docente"
+      ],
+      [
+        "Foco en el aprendizaje",
+        "orientación de la observación hacia lo que hacen y comprenden los estudiantes"
+      ],
+      [
+        "Producto documentado",
+        "registro del ciclo que permite acumular conocimiento profesional más allá de los participantes"
+      ]
     ],
     "desarrollo": "El lesson study es probablemente el dispositivo de desarrollo profesional más estudiado fuera de su país de origen, y por buenas razones: ocurre dentro del trabajo, se centra en una clase concreta y produce conocimiento acumulable. Su rasgo distintivo es el foco: se observa el aprendizaje de los estudiantes, no el desempeño del docente que conduce. Esa distinción, que parece menor, es la que hace posible la exposición pública de la propia práctica sin que se viva como evaluación.",
     "practica": "El ciclo tiene fases definidas: definir un problema de aprendizaje, estudiar el contenido y la literatura disponible, planificar colectivamente una clase, ejecutarla mientras el grupo observa a los estudiantes, analizar la evidencia recogida y documentar el resultado. La condición crítica es el tiempo: sin horas protegidas para las fases de estudio y análisis, el ciclo se degrada a una observación de clase seguida de comentarios generales.",
@@ -214,8 +320,14 @@
       "¿Qué producto queda del ciclo para quienes no participaron?"
     ],
     "lecturas": [
-      ["Lewis, C. (2002). *Lesson Study: A Handbook of Teacher-Led Instructional Change*.", "el dispositivo descrito con detalle suficiente para juzgar su transferibilidad."],
-      ["Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*.", "las condiciones que la evidencia asocia con desarrollo profesional que cambia la práctica."]
+      [
+        "Lewis, C. (2002). *Lesson Study: A Handbook of Teacher-Led Instructional Change*.",
+        "el dispositivo descrito con detalle suficiente para juzgar su transferibilidad."
+      ],
+      [
+        "Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*.",
+        "las condiciones que la evidencia asocia con desarrollo profesional que cambia la práctica."
+      ]
     ],
     "inclusion": "La observación centrada en el aprendizaje permite ver qué estudiantes quedan fuera de la clase, que es información que la observación centrada en el docente sistemáticamente no captura.",
     "reto": "Diseña y ejecuta un ciclo completo con tu equipo, con las fases de estudio y análisis. Documenta el producto y compártelo con quienes no participaron.",
@@ -229,10 +341,22 @@
     "decision": "determinar qué estructura de trabajo entre pares es sostenible en tu establecimiento",
     "entregable": "un diseño de estructura de trabajo entre pares con tiempo, foco y producto declarados",
     "conceptos": [
-      ["Grupo de enseñanza e investigación", "estructura permanente de docentes de una misma asignatura que trabaja sobre su enseñanza"],
-      ["Práctica deliberada", "trabajo focalizado en un aspecto específico del desempeño, con retroalimentación y repetición"],
-      ["Mentoría estructurada", "acompañamiento de docentes con menos experiencia por parte de pares reconocidos, con roles definidos"],
-      ["Tiempo lectivo reducido", "condición estructural que libera horas para el trabajo colectivo dentro de la jornada"]
+      [
+        "Grupo de enseñanza e investigación",
+        "estructura permanente de docentes de una misma asignatura que trabaja sobre su enseñanza"
+      ],
+      [
+        "Práctica deliberada",
+        "trabajo focalizado en un aspecto específico del desempeño, con retroalimentación y repetición"
+      ],
+      [
+        "Mentoría estructurada",
+        "acompañamiento de docentes con menos experiencia por parte de pares reconocidos, con roles definidos"
+      ],
+      [
+        "Tiempo lectivo reducido",
+        "condición estructural que libera horas para el trabajo colectivo dentro de la jornada"
+      ]
     ],
     "desarrollo": "El sistema escolar de Shanghái organiza el trabajo docente de un modo poco frecuente: grupos permanentes por asignatura, tiempo lectivo comparativamente reducido, observación mutua frecuente y mentoría estructurada para los docentes nuevos. La formación no es un evento externo sino parte de la jornada. Ese diseño es el mecanismo más citado para explicar sus resultados, con la cautela habitual: la atribución es plausible y no está establecida causalmente.",
     "practica": "La transferencia depende casi por completo de una variable: cuántas horas lectivas tiene un docente. Con una carga lectiva alta no hay estructura colaborativa que se sostenga, por buena que sea su lógica. Donde existe margen, los elementos adoptables son concretos: grupos permanentes por asignatura con foco declarado, observación mutua frecuente y de bajo riesgo, y mentoría con roles y tiempo asignado para quienes llegan.",
@@ -251,8 +375,14 @@
       "¿Qué recibe un docente nuevo en su primer semestre?"
     ],
     "lecturas": [
-      ["Zhao, Y. (2014). *Who's Afraid of the Big Bad Dragon?*", "el costo de los sistemas de alto rendimiento, escrito desde dentro de esa tradición."],
-      ["Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*.", "qué características tiene el desarrollo profesional que efectivamente cambia la práctica."]
+      [
+        "Zhao, Y. (2014). *Who's Afraid of the Big Bad Dragon?*",
+        "el costo de los sistemas de alto rendimiento, escrito desde dentro de esa tradición."
+      ],
+      [
+        "Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*.",
+        "qué características tiene el desarrollo profesional que efectivamente cambia la práctica."
+      ]
     ],
     "inclusion": "Los sistemas de alta presión académica producen costos que se distribuyen de manera desigual y que afectan especialmente a estudiantes sin apoyo familiar para sostener el ritmo exigido.",
     "reto": "Calcula las horas no lectivas reales de tu equipo. Diseña la estructura entre pares que ese tiempo permite sostener y proponla a dirección.",
@@ -266,10 +396,22 @@
     "decision": "determinar qué condición de sostenibilidad falta en las iniciativas de mejora de tu contexto",
     "entregable": "un análisis de una iniciativa local con las condiciones de sostenibilidad evaluadas",
     "conceptos": [
-      ["Mejora sistémica", "cambio sostenido que alcanza a todas las escuelas de un sistema y no solo a un grupo piloto"],
-      ["Construcción de capacidad", "desarrollo de las competencias necesarias para ejecutar lo que la política exige"],
-      ["Foco estratégico", "concentración en pocas prioridades sostenidas, frente a la acumulación de iniciativas simultáneas"],
-      ["Presión y apoyo", "combinación de exigencia de resultados con provisión de medios para alcanzarlos"]
+      [
+        "Mejora sistémica",
+        "cambio sostenido que alcanza a todas las escuelas de un sistema y no solo a un grupo piloto"
+      ],
+      [
+        "Construcción de capacidad",
+        "desarrollo de las competencias necesarias para ejecutar lo que la política exige"
+      ],
+      [
+        "Foco estratégico",
+        "concentración en pocas prioridades sostenidas, frente a la acumulación de iniciativas simultáneas"
+      ],
+      [
+        "Presión y apoyo",
+        "combinación de exigencia de resultados con provisión de medios para alcanzarlos"
+      ]
     ],
     "desarrollo": "Ontario es citado como caso de mejora sistémica por una razón poco espectacular: sostuvo pocas prioridades durante muchos años, invirtió en capacidad antes de exigir resultados, y evitó la acumulación de iniciativas simultáneas que caracteriza a la mayoría de las reformas. La combinación de presión y apoyo —exigir y proveer al mismo tiempo— es el principio más citado y el más difícil de sostener políticamente, porque la construcción de capacidad no produce resultados visibles en un período electoral.",
     "practica": "El análisis de una iniciativa local con estos criterios suele ser revelador: cuántas prioridades simultáneas tiene el establecimiento o el sistema, cuánta inversión en capacidad precedió a la exigencia, y cuántos años lleva la orientación actual sin cambiar. La mayoría de las iniciativas falla en las tres. Identificarlo permite proponer menos cosas y sostenerlas más tiempo, que es la conclusión práctica del caso.",
@@ -288,8 +430,14 @@
       "¿Cuántos años lleva vigente la orientación actual sin cambios de rumbo?"
     ],
     "lecturas": [
-      ["Fullan, M. (2010). *All Systems Go*.", "la formulación del enfoque de mejora sistémica con sus principios operativos."],
-      ["Bryk, A. et al. (2015). *Learning to Improve*.", "método de mejora que prueba en pequeño antes de escalar, complementario a este enfoque."]
+      [
+        "Fullan, M. (2010). *All Systems Go*.",
+        "la formulación del enfoque de mejora sistémica con sus principios operativos."
+      ],
+      [
+        "Bryk, A. et al. (2015). *Learning to Improve*.",
+        "método de mejora que prueba en pequeño antes de escalar, complementario a este enfoque."
+      ]
     ],
     "inclusion": "La mejora sistémica se distingue de la mejora promedio en que persigue reducir la dispersión entre escuelas. Sin esa meta explícita, un sistema puede mejorar en promedio y aumentar su desigualdad interna.",
     "reto": "Analiza una iniciativa de mejora de tu establecimiento con los tres criterios. Propone qué eliminar para poder sostener lo que queda.",
@@ -303,10 +451,22 @@
     "decision": "determinar qué de estas dos trayectorias es común y podría ser el mecanismo relevante",
     "entregable": "una comparación de dos reformas con elementos comunes, diferencias y conclusiones fundamentadas",
     "conceptos": [
-      ["Trayectoria de reforma", "secuencia de decisiones y su orden, que suele importar más que las decisiones aisladas"],
-      ["Postergación de la selección", "retraso de la separación de estudiantes en vías distintas, asociado con mejores resultados de equidad"],
-      ["Autonomía con rendición de cuentas", "combinación de margen de decisión escolar con mecanismos de responsabilidad por resultados"],
-      ["Elemento común", "coincidencia entre casos distintos, que aumenta la plausibilidad de un mecanismo"]
+      [
+        "Trayectoria de reforma",
+        "secuencia de decisiones y su orden, que suele importar más que las decisiones aisladas"
+      ],
+      [
+        "Postergación de la selección",
+        "retraso de la separación de estudiantes en vías distintas, asociado con mejores resultados de equidad"
+      ],
+      [
+        "Autonomía con rendición de cuentas",
+        "combinación de margen de decisión escolar con mecanismos de responsabilidad por resultados"
+      ],
+      [
+        "Elemento común",
+        "coincidencia entre casos distintos, que aumenta la plausibilidad de un mecanismo"
+      ]
     ],
     "desarrollo": "Portugal y Polonia mejoraron sus resultados en mediciones internacionales durante períodos comparables, con reformas de contenido bastante distinto. Comparar casos que difieren es más informativo que estudiar uno solo: lo que aparece en ambos es candidato a mecanismo, y lo que aparece en uno solo es probablemente contextual. En estos dos casos, la postergación de la separación de estudiantes en vías distintas aparece en ambos, aunque implementada de maneras diferentes.",
     "practica": "El ejercicio comparativo se hace en tabla: qué hizo cada sistema, en qué orden, en qué contexto y con qué resultado. Luego se marcan coincidencias y diferencias. Ese procedimiento simple protege de la conclusión precipitada: una política presente en un solo caso exitoso no tiene más respaldo que la coincidencia, mientras que una presente en varios casos distintos merece atención.",
@@ -325,8 +485,14 @@
       "¿Qué cambió en la cobertura escolar durante el período comparado?"
     ],
     "lecturas": [
-      ["OCDE. *Informes país y estudios temáticos sobre reformas educativas*.", "descripción de trayectorias con datos comparables entre sistemas."],
-      ["Hanushek, E. & Woessmann, L. (2006). *Does Educational Tracking Affect Performance and Inequality?*", "la evidencia comparada sobre el efecto de separar tempranamente a los estudiantes."]
+      [
+        "OCDE. *Informes país y estudios temáticos sobre reformas educativas* (edición vigente).",
+        "descripción de trayectorias con datos comparables entre sistemas."
+      ],
+      [
+        "Hanushek, E. & Woessmann, L. (2006). *Does Educational Tracking Affect Performance and Inequality?*",
+        "la evidencia comparada sobre el efecto de separar tempranamente a los estudiantes."
+      ]
     ],
     "inclusion": "La postergación de la separación en vías distintas es una de las decisiones estructurales con efecto más consistente sobre la equidad, y es también una de las menos discutidas en el debate escolar cotidiano.",
     "reto": "Construye la tabla comparativa de dos reformas. Marca elementos comunes y escribe qué conclusión permite y cuál no permite esa comparación.",
@@ -340,10 +506,22 @@
     "decision": "determinar qué elemento de estos modelos resuelve un problema real de tu contexto",
     "entregable": "una ficha de modelo regional con mecanismo, evidencia y decisión de adopción fundamentada",
     "conceptos": [
-      ["Modelo de bajo costo", "diseño pedagógico concebido para operar con recursos limitados, y no adaptado a ellos después"],
-      ["Guía de aprendizaje", "material estructurado que permite al estudiante avanzar con autonomía y al docente atender por grupos"],
-      ["Promoción flexible", "avance según dominio y no según calendario, adecuado a trayectorias interrumpidas"],
-      ["Gobierno estudiantil", "estructura de participación que distribuye responsabilidades reales dentro de la escuela"]
+      [
+        "Modelo de bajo costo",
+        "diseño pedagógico concebido para operar con recursos limitados, y no adaptado a ellos después"
+      ],
+      [
+        "Guía de aprendizaje",
+        "material estructurado que permite al estudiante avanzar con autonomía y al docente atender por grupos"
+      ],
+      [
+        "Promoción flexible",
+        "avance según dominio y no según calendario, adecuado a trayectorias interrumpidas"
+      ],
+      [
+        "Gobierno estudiantil",
+        "estructura de participación que distribuye responsabilidades reales dentro de la escuela"
+      ]
     ],
     "desarrollo": "Escuela Nueva se desarrolló en Colombia para escuelas rurales multigrado y se difundió a decenas de países, incluidas adaptaciones urbanas. Su interés para la región es doble: fue diseñado desde las restricciones y no adaptado a ellas después, y cuenta con evaluaciones que muestran resultados favorables en contextos rurales, con la cautela de que buena parte fueron realizadas por equipos vinculados al propio modelo.",
     "practica": "Los componentes son concretos y separables: guías de aprendizaje que permiten autonomía del estudiante y atención por grupos del docente, promoción flexible según dominio, biblioteca de aula y estructuras de participación estudiantil. Cada uno resuelve un problema identificable: la imposibilidad de dictar clases paralelas en multigrado, las trayectorias interrumpidas, el acceso a material. La adopción por componente es viable y es como se ha difundido efectivamente.",
@@ -362,8 +540,14 @@
       "¿Qué formación exige la guía para que no sea un cuadernillo más?"
     ],
     "lecturas": [
-      ["Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*.", "el modelo descrito por quien lo desarrolló, con su lógica de diseño."],
-      ["Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*.", "por qué la circulación de modelos depende de factores que no son de evidencia."]
+      [
+        "Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente).",
+        "el modelo descrito por quien lo desarrolló, con su lógica de diseño."
+      ],
+      [
+        "Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*.",
+        "por qué la circulación de modelos depende de factores que no son de evidencia."
+      ]
     ],
     "inclusion": "Los modelos diseñados desde la restricción suelen ser más pertinentes para las escuelas con menos recursos que las propuestas concebidas en sistemas con condiciones que aquí no existen.",
     "reto": "Elige un componente del modelo y evalúa su pertinencia para un establecimiento concreto. Escribe qué exigiría implementarlo con calidad.",
@@ -377,10 +561,22 @@
     "decision": "determinar qué rasgo del sistema chileno explica el problema que te preocupa y de dónde proviene",
     "entregable": "un análisis del sistema chileno con rasgos comparados, origen y efecto documentado",
     "conceptos": [
-      ["Financiamiento por estudiante", "mecanismo que asigna recursos según matrícula, rasgo distintivo del sistema chileno en perspectiva comparada"],
-      ["Mixtura público-privada", "coexistencia de provisión estatal, particular subvencionada y particular pagada en proporciones inusuales"],
-      ["Aseguramiento de la calidad", "conjunto de instituciones de evaluación, fiscalización y apoyo creado en la última década"],
-      ["Importación parcial", "adopción de un mecanismo sin las condiciones institucionales que lo acompañaban en su origen"]
+      [
+        "Financiamiento por estudiante",
+        "mecanismo que asigna recursos según matrícula, rasgo distintivo del sistema chileno en perspectiva comparada"
+      ],
+      [
+        "Mixtura público-privada",
+        "coexistencia de provisión estatal, particular subvencionada y particular pagada en proporciones inusuales"
+      ],
+      [
+        "Aseguramiento de la calidad",
+        "conjunto de instituciones de evaluación, fiscalización y apoyo creado en la última década"
+      ],
+      [
+        "Importación parcial",
+        "adopción de un mecanismo sin las condiciones institucionales que lo acompañaban en su origen"
+      ]
     ],
     "desarrollo": "El sistema escolar chileno tiene rasgos que en perspectiva comparada resultan poco frecuentes: financiamiento por estudiante con elección de establecimiento, participación privada subvencionada de gran escala, y una arquitectura de aseguramiento de la calidad construida posteriormente para corregir efectos del diseño anterior. Varios de esos rasgos fueron importados de propuestas de política elaboradas en otros contextos, y su implementación local difirió de los modelos originales en aspectos sustantivos.",
     "practica": "El análisis útil rastrea el origen de cada rasgo y examina su efecto documentado. Ese ejercicio produce una conclusión incómoda y valiosa: buena parte de lo que hoy se discute como problema pedagógico —presión por resultados, segregación, competencia entre establecimientos, rotación docente— tiene raíz en decisiones de diseño del sistema y no en las prácticas de los docentes. Reconocerlo no exime de responsabilidad profesional; delimita dónde puede actuar cada uno.",
@@ -399,8 +595,14 @@
       "¿Dónde está tu margen real de acción sobre ese problema?"
     ],
     "lecturas": [
-      ["Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.", "la evidencia sobre uno de los efectos más documentados del diseño del sistema."],
-      ["Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*.", "marco para analizar cómo y por qué se importan políticas educativas."]
+      [
+        "Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.",
+        "la evidencia sobre uno de los efectos más documentados del diseño del sistema."
+      ],
+      [
+        "Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*.",
+        "marco para analizar cómo y por qué se importan políticas educativas."
+      ]
     ],
     "inclusion": "La segregación del sistema chileno es el rasgo que más condiciona las posibilidades de cualquier establecimiento, y opera antes de que cualquier decisión pedagógica se tome.",
     "reto": "Elige un problema de tu establecimiento y rastrea qué parte proviene del diseño del sistema. Delimita tu margen real de acción y escríbelo.",
@@ -414,10 +616,22 @@
     "decision": "determinar qué propones adoptar, con qué condiciones y qué descartas explícitamente",
     "entregable": "una propuesta de adaptación con mecanismo, condiciones locales, descartes justificados y plan de verificación",
     "conceptos": [
-      ["Propuesta de adaptación", "documento que traduce un mecanismo externo a condiciones locales, con sus renuncias explícitas"],
-      ["Descarte justificado", "elemento del modelo original que no se adopta, con la razón declarada"],
-      ["Condición de fracaso", "circunstancia local previsible que impediría que el mecanismo funcione"],
-      ["Prueba en pequeño", "implementación acotada que permite verificar antes de comprometer al sistema completo"]
+      [
+        "Propuesta de adaptación",
+        "documento que traduce un mecanismo externo a condiciones locales, con sus renuncias explícitas"
+      ],
+      [
+        "Descarte justificado",
+        "elemento del modelo original que no se adopta, con la razón declarada"
+      ],
+      [
+        "Condición de fracaso",
+        "circunstancia local previsible que impediría que el mecanismo funcione"
+      ],
+      [
+        "Prueba en pequeño",
+        "implementación acotada que permite verificar antes de comprometer al sistema completo"
+      ]
     ],
     "desarrollo": "El cierre de la parte es también el cierre del programa: producir una propuesta que un equipo pueda discutir, aprobar o rechazar con fundamento. Las propuestas de adopción de modelos externos fracasan por dos razones opuestas: entusiasmo sin condiciones, que importa la fachada, y escepticismo sin análisis, que descarta todo por principio. Una propuesta seria hace explícito lo que toma, lo que deja y lo que podría salir mal.",
     "practica": "La propuesta integra las once clases anteriores: el mecanismo identificado con la ficha de análisis, la evidencia disponible con su nivel de certeza, las condiciones locales verificadas, los descartes con su razón, la condición de fracaso previsible y el plan de prueba en pequeño antes de escalar. Ese último punto es el que distingue una propuesta profesional: se compromete a probar antes de comprometer a toda la institución.",
@@ -436,8 +650,14 @@
       "¿Cómo pruebas en pequeño antes de comprometer al establecimiento completo?"
     ],
     "lecturas": [
-      ["Bryk, A. et al. (2015). *Learning to Improve*.", "el método de probar en ciclos cortos antes de escalar, aplicable a cualquier adopción."],
-      ["Crehan, L. (2016). *Cleverlands*.", "el ejercicio de separar mecanismo de contexto, que esta propuesta debe reproducir."]
+      [
+        "Bryk, A. et al. (2015). *Learning to Improve*.",
+        "el método de probar en ciclos cortos antes de escalar, aplicable a cualquier adopción."
+      ],
+      [
+        "Crehan, L. (2016). *Cleverlands*.",
+        "el ejercicio de separar mecanismo de contexto, que esta propuesta debe reproducir."
+      ]
     ],
     "inclusion": "Toda adopción distribuye beneficios de manera desigual. La propuesta debe declarar a quién favorece y a quién exige más, y qué se hace con los segundos.",
     "reto": "Escribe la propuesta completa con los seis elementos. Preséntala a un equipo directivo y registra la objeción más fuerte que recibas.",

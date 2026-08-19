@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*. | modelo de cómo pasar de estudio a decisión de aula sin sobreinterpretar; útil como plantilla de justificación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Education Endowment Foundation. *Teaching and Learning Toolkit*. | síntesis de evidencia por intervención con costo, solidez y efecto declarados; obliga a citar magnitudes, no impresiones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Education Endowment Foundation. *Teaching and Learning Toolkit* (edición vigente). | síntesis de evidencia por intervención con costo, solidez y efecto declarados; obliga a citar magnitudes, no impresiones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*. **Uso en esta clase:** modelo de cómo pasar de estudio a decisión de aula sin sobreinterpretar; útil como plantilla de justificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Education Endowment Foundation. *Teaching and Learning Toolkit*. **Uso en esta clase:** síntesis de evidencia por intervención con costo, solidez y efecto declarados; obliga a citar magnitudes, no impresiones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Education Endowment Foundation. *Teaching and Learning Toolkit* (edición vigente). **Uso en esta clase:** síntesis de evidencia por intervención con costo, solidez y efecto declarados; obliga a citar magnitudes, no impresiones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

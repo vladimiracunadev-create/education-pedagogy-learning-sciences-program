@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. | la distinción que ordena todas las decisiones de esta clase, con su evidencia original. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Gibbons, P. *Scaffolding Language, Scaffolding Learning*. | el andamiaje lingüístico traducido a decisiones concretas de aula por asignatura. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Gibbons, P. *Scaffolding Language, Scaffolding Learning* (edición vigente). | el andamiaje lingüístico traducido a decisiones concretas de aula por asignatura. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. **Uso en esta clase:** la distinción que ordena todas las decisiones de esta clase, con su evidencia original. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Gibbons, P. *Scaffolding Language, Scaffolding Learning*. **Uso en esta clase:** el andamiaje lingüístico traducido a decisiones concretas de aula por asignatura. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Gibbons, P. *Scaffolding Language, Scaffolding Learning* (edición vigente). **Uso en esta clase:** el andamiaje lingüístico traducido a decisiones concretas de aula por asignatura. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| OCDE. *Informes país sobre sistemas educativos*. | descripción estructural del sistema con datos comparables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *Informes país sobre sistemas educativos* (edición vigente). | descripción estructural del sistema con datos comparables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. | advierte sobre la construcción de casos ejemplares y sus usos políticos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Informes país sobre sistemas educativos*. **Uso en esta clase:** descripción estructural del sistema con datos comparables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Informes país sobre sistemas educativos* (edición vigente). **Uso en esta clase:** descripción estructural del sistema con datos comparables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** advierte sobre la construcción de casos ejemplares y sus usos políticos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

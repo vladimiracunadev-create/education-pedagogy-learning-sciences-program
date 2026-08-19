@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Creswell, J. & Creswell, J. D. (2018). *Research Design*. | estructura de un informe completo y criterios de coherencia interna. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. | tratamiento de la argumentación y de la relación entre evidencia y afirmación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). | tratamiento de la argumentación y de la relación entre evidencia y afirmación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Creswell, J. & Creswell, J. D. (2018). *Research Design*. **Uso en esta clase:** estructura de un informe completo y criterios de coherencia interna. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. **Uso en esta clase:** tratamiento de la argumentación y de la relación entre evidencia y afirmación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** tratamiento de la argumentación y de la relación entre evidencia y afirmación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Emmer, E. & Evertson, C. *Classroom Management for Secondary Teachers*. | manual operativo específico para enseñanza media, con escalas y procedimientos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc / Superintendencia de Educación. *Normativa sobre convivencia escolar y reglamentos internos*. | define el marco chileno que respalda o limita cada nivel de intervención. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Emmer, E. & Evertson, C. *Classroom Management for Secondary Teachers* (edición vigente). | manual operativo específico para enseñanza media, con escalas y procedimientos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc / Superintendencia de Educación. *Normativa sobre convivencia escolar y reglamentos internos* (edición vigente). | define el marco chileno que respalda o limita cada nivel de intervención. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Emmer, E. & Evertson, C. *Classroom Management for Secondary Teachers*. **Uso en esta clase:** manual operativo específico para enseñanza media, con escalas y procedimientos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc / Superintendencia de Educación. *Normativa sobre convivencia escolar y reglamentos internos*. **Uso en esta clase:** define el marco chileno que respalda o limita cada nivel de intervención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Emmer, E. & Evertson, C. *Classroom Management for Secondary Teachers* (edición vigente). **Uso en esta clase:** manual operativo específico para enseñanza media, con escalas y procedimientos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc / Superintendencia de Educación. *Normativa sobre convivencia escolar y reglamentos internos* (edición vigente). **Uso en esta clase:** define el marco chileno que respalda o limita cada nivel de intervención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

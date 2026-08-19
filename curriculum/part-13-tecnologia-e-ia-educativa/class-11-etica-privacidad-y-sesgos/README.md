@@ -149,7 +149,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. | principios éticos con desarrollo específico para educación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Normativa chilena de protección de datos personales y orientaciones del Mineduc sobre uso de plataformas. | marco de obligaciones aplicables; verifica su versión vigente antes de decidir. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Normativa chilena de protección de datos personales y orientaciones del Mineduc sobre uso de plataformas (edición vigente). | marco de obligaciones aplicables; verifica su versión vigente antes de decidir. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| O'Neil, C. (2016). *Weapons of Math Destruction*. | muestra cómo un sistema automatizado reproduce y amplifica desigualdades sin proponérselo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +335,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. **Uso en esta clase:** principios éticos con desarrollo específico para educación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Normativa chilena de protección de datos personales y orientaciones del Mineduc sobre uso de plataformas. **Uso en esta clase:** marco de obligaciones aplicables; verifica su versión vigente antes de decidir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Normativa chilena de protección de datos personales y orientaciones del Mineduc sobre uso de plataformas (edición vigente). **Uso en esta clase:** marco de obligaciones aplicables; verifica su versión vigente antes de decidir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- O'Neil, C. (2016). *Weapons of Math Destruction*. **Uso en esta clase:** muestra cómo un sistema automatizado reproduce y amplifica desigualdades sin proponérselo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

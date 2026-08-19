@@ -1,361 +1,662 @@
 [
-{"n":133,"evidencia":"CONSISTENTE",
- "foco":"para qué sirve una evaluación diagnóstica que nadie usa para cambiar la planificación",
- "proposito":"Diseñar evaluación diagnóstica útil: acotada a los prerrequisitos que condicionan la unidad, interpretable en el momento y conectada con una decisión de enseñanza.",
- "decision":"determinar qué prerrequisitos vas a medir y qué harás con cada resultado posible",
- "entregable":"un instrumento diagnóstico breve con la decisión de enseñanza asociada a cada patrón de resultado",
- "conceptos":[
-  ["Evaluación diagnóstica","recogida de información previa sobre conocimiento y dificultades que condicionan la unidad"],
-  ["Prerrequisito crítico","conocimiento sin el cual la unidad no puede comprenderse"],
-  ["Patrón de resultado","combinación típica de aciertos y errores que sugiere una decisión distinta"],
-  ["Decisión asociada","acción de enseñanza definida de antemano para cada resultado posible"]],
- "desarrollo":"Muchos diagnósticos escolares son largos, generales y sin consecuencia: se aplican en marzo, se archivan y la planificación sigue igual. Un diagnóstico útil es breve, se enfoca en los dos o tres prerrequisitos que realmente condicionan la unidad, y tiene decisiones asociadas escritas antes de aplicarlo. Si ningún resultado posible cambiaría tu planificación, no vale la pena aplicarlo.",
- "practica":"El diseño empieza identificando el prerrequisito crítico —lo que si falta hace imposible la unidad— y construyendo pocas preguntas que lo revelen, incluidos distractores que expongan errores específicos. Después se escriben las decisiones: si más del treinta por ciento falla en esto, se dedica una sesión a recuperarlo antes de avanzar.",
- "limites":"El diagnóstico mide un momento y con pocos ítems, de modo que su precisión individual es limitada: sirve mejor para decidir sobre el grupo que para clasificar personas. Y no debe usarse para bajar expectativas: detectar un vacío indica qué enseñar, no de qué es capaz el estudiante.",
- "errores":[
-  "Aplicar un diagnóstico extenso sin decisiones asociadas y archivarlo.",
-  "Usar el resultado diagnóstico para reducir la exigencia de un estudiante en vez de para enseñarle lo que falta."],
- "criterios":[
-  "cada patrón de resultado tiene su decisión de enseñanza escrita antes de aplicar;",
-  "el instrumento se enfoca en prerrequisitos críticos y es breve;"],
- "preguntas":[
-  "¿Qué resultado de tu diagnóstico cambiaría tu planificación, y cómo?",
-  "¿Qué prerrequisito estás suponiendo sin haberlo medido nunca?",
-  "¿Qué hiciste el año pasado con los resultados del diagnóstico?"],
- "lecturas":[
-  ["Ausubel, D. (1968). *Educational Psychology: A Cognitive View*.","fundamenta por qué el conocimiento previo es el factor que más condiciona el aprendizaje nuevo."],
-  ["Wiliam, D. (2011). *Embedded Formative Assessment*.","aporta técnicas breves de recogida de evidencia aplicables al diagnóstico inicial."]],
- "inclusion":"Un diagnóstico bien diseñado detecta vacíos de oportunidad y no capacidades: distinguir esas dos lecturas es lo que impide que el instrumento se convierta en un mecanismo de segregación temprana dentro del curso.",
- "reto":"Diseña un diagnóstico breve con decisiones escritas de antemano. Aplícalo y ejecuta la decisión que corresponda, aunque implique retrasar la planificación.",
- "conexion":"Abre la parte 11 y se apoya en la clase 114 sobre prerrequisitos y secuenciación."},
-
-{"n":134,"evidencia":"ROBUSTA",
- "foco":"qué distingue técnicamente la evaluación formativa de una prueba corta con nota baja",
- "proposito":"Dominar la evaluación formativa en su definición técnica: recogida de evidencia que efectivamente modifica la enseñanza o el aprendizaje, con instrumentos proporcionales y sin consecuencia calificatoria.",
- "decision":"determinar qué evidencia recogerás y qué decisión de enseñanza modificará",
- "entregable":"un sistema formativo de asignatura con instrumentos, periodicidad y las decisiones que cada resultado activa",
- "conceptos":[
-  ["Evaluación formativa","proceso en que la evidencia recogida se usa para adaptar la enseñanza o el aprendizaje"],
-  ["Baja consecuencia","condición de que el instrumento no afecte la calificación, para que revele el estado real"],
-  ["Retroalimentación accionable","información que el estudiante puede usar en un trabajo posterior"],
-  ["Decisión instruccional","cambio concreto en la enseñanza derivado de la evidencia"]],
- "desarrollo":"La definición técnica de evaluación formativa incluye el uso: si la evidencia no modifica nada, la evaluación no fue formativa aunque se haya llamado así. Esa precisión importa porque la mayor parte de lo que se rotula como formativo en las instituciones son pruebas cortas calificadas, que no cumplen la condición y además distorsionan la información al activar la conducta estratégica del estudiante.",
- "practica":"Un sistema formativo define pocos instrumentos —verificación en clase, tareas breves con retroalimentación, tarjetas de salida—, su periodicidad y qué decisión activa cada resultado. La ausencia de calificación es lo que permite que el estudiante muestre lo que realmente no entiende, y es también lo primero que las instituciones piden eliminar.",
- "limites":"Los efectos reportados para la evaluación formativa varían mucho y algunas cifras muy citadas provienen de síntesis con problemas metodológicos. El efecto es real y depende de la calidad de las decisiones docentes: la evidencia recogida no enseña por sí sola. Y su implementación consume tiempo de clase que hay que planificar.",
- "errores":[
-  "Calificar los instrumentos formativos y perder la información que buscaban obtener.",
-  "Recoger evidencia sistemáticamente sin que ninguna decisión de enseñanza cambie."],
- "criterios":[
-  "cada instrumento tiene una decisión instruccional asociada y documentada;",
-  "los instrumentos formativos no tienen consecuencia calificatoria;"],
- "preguntas":[
-  "¿Qué decisión tomaste el mes pasado a partir de evidencia formativa?",
-  "¿Qué te impide dejar sin nota los instrumentos formativos?",
-  "¿Qué muestran tus estudiantes cuando saben que no hay nota en juego?"],
- "lecturas":[
-  ["Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*.","la revisión que instaló el concepto con evidencia; conviene leer también sus críticas metodológicas."],
-  ["Wiliam, D. (2011). *Embedded Formative Assessment*.","define la evaluación formativa por su uso y aporta técnicas concretas de aula."]],
- "inclusion":"La evaluación sin consecuencia permite a los estudiantes con más ansiedad evaluativa mostrar lo que saben, y al docente detectar dificultades que la evaluación calificada oculta tras el bloqueo.",
- "reto":"Implementa tu sistema formativo durante un mes registrando cada decisión que produjo. Analiza cuántas veces la evidencia contradijo tu impresión.",
- "conexion":"Es la versión técnica de la clase 058 y sostiene la lógica de las clases 139 y 144."},
-
-{"n":135,"evidencia":"CONSISTENTE",
- "foco":"qué exigencias técnicas aparecen cuando una evaluación tiene consecuencias para la persona",
- "proposito":"Diseñar evaluación sumativa defendible: representatividad del contenido, condiciones equivalentes, criterios públicos y decisiones proporcionales a la calidad de la evidencia.",
- "decision":"determinar qué evidencia sumativa justifica la decisión que vas a tomar sobre cada estudiante",
- "entregable":"un plan de evaluación sumativa con tabla de especificaciones, ponderaciones justificadas y política de recuperación",
- "conceptos":[
-  ["Evaluación sumativa","valoración del logro al final de un período, con consecuencias para el estudiante"],
-  ["Tabla de especificaciones","matriz que asegura que la evaluación representa el contenido y los niveles enseñados"],
-  ["Ponderación","peso relativo de cada evaluación en la calificación final y su justificación"],
-  ["Proporcionalidad","correspondencia entre la consecuencia de la decisión y la calidad de la evidencia disponible"]],
- "desarrollo":"Cuanto mayor es la consecuencia de una evaluación, mayor es la exigencia técnica que debe cumplir. Una decisión de promoción basada en una sola prueba de una hora es desproporcionada respecto de la evidencia que sostiene: el error de medida de un instrumento único es alto y las condiciones de aplicación afectan el resultado. La tabla de especificaciones es el instrumento básico que asegura que se evalúa lo enseñado y en la proporción en que se enseñó.",
- "practica":"El plan define qué se evalúa, con qué peso, con qué instrumento y en qué momento, y declara la política de recuperación por adelantado. Las ponderaciones deben justificarse por importancia del aprendizaje y no por costumbre. Y las condiciones de aplicación deben ser equivalentes para todos, incluidas las adecuaciones que no alteran la inferencia.",
- "limites":"Ninguna evaluación sumativa mide todo lo aprendido: mide una muestra, en un momento y en un formato. Reconocerlo obliga a tomar decisiones de alto impacto con más de una fuente de evidencia y a resistir la tentación de tratar la calificación como una propiedad del estudiante.",
- "errores":[
-  "Tomar decisiones de promoción con una sola medición.",
-  "Ponderar por costumbre institucional y no por importancia del aprendizaje evaluado."],
- "criterios":[
-  "existe tabla de especificaciones que muestra representatividad del contenido enseñado;",
-  "las ponderaciones y la política de recuperación están justificadas y publicadas antes;"],
- "preguntas":[
-  "¿Qué proporción de lo enseñado representa tu evaluación final?",
-  "¿Qué decisión estás tomando con qué cantidad de evidencia?",
-  "¿Por qué esa ponderación y no otra?"],
- "lecturas":[
-  ["AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.","fija el estándar técnico según la consecuencia de la decisión."],
-  ["Brookhart, S. (2013). *Grading and Group Work*.","analiza problemas frecuentes de calificación y sus soluciones técnicas."]],
- "inclusion":"Las adecuaciones de acceso en evaluación sumativa —tiempo adicional, formato alternativo, apoyo técnico— no invalidan la inferencia cuando no alteran el constructo evaluado. Negarlas por temor a la injusticia produce exactamente la injusticia que se quería evitar.",
- "reto":"Construye la tabla de especificaciones de tu evaluación final y compárala con lo efectivamente enseñado. Corrige los desequilibrios que encuentres.",
- "conexion":"Se apoya en la clase 117 y su exigencia técnica se desarrolla en las clases 140 a 143."},
-
-{"n":136,"evidencia":"CONSISTENTE",
- "foco":"cómo mantener la validez cuando la tarea de evaluación se parece al mundo real",
- "proposito":"Diseñar evaluación de desempeño auténtico con control de las amenazas a la validez: dependencia de recursos, apoyo externo no declarado, variabilidad del evaluador y condiciones desiguales.",
- "decision":"determinar qué amenaza a la validez introduce tu tarea auténtica y cómo la controlarás",
- "entregable":"una tarea de desempeño auténtico con análisis de amenazas a la validez y sus controles",
- "conceptos":[
-  ["Tarea de desempeño","actividad compleja que exige integrar conocimientos en un producto o ejecución"],
-  ["Amenaza a la validez","factor que hace que la tarea mida algo distinto de lo que se pretende"],
-  ["Varianza irrelevante","diferencias en el resultado producidas por factores ajenos al aprendizaje evaluado"],
-  ["Control","medida que reduce el efecto de una amenaza sin destruir la autenticidad de la tarea"]],
- "desarrollo":"La evaluación auténtica gana relevancia y arriesga validez. Las amenazas son conocidas: la tarea puede medir los recursos del hogar, el tiempo disponible, el apoyo de terceros o la habilidad de presentación, más que el aprendizaje. Y con la disponibilidad de herramientas generativas, la autoría del producto entregado dejó de poder suponerse.",
- "practica":"Los controles son concretos: producir partes del trabajo en clase, exigir defensa oral breve, evaluar el proceso además del producto, calibrar entre evaluadores y declarar de antemano qué apoyos son admisibles. Ninguno elimina la amenaza, pero en conjunto permiten sostener la inferencia con razonable confianza.",
- "limites":"Cada control tiene costo: en tiempo, en trabajo docente y a veces en autenticidad. La decisión razonable depende de la consecuencia de la evaluación: para una tarea formativa, controles ligeros; para una que decide titulación, controles fuertes. Aplicar controles máximos a todo es inviable.",
- "errores":[
-  "Evaluar un producto extenso sin ninguna evidencia de proceso ni de autoría.",
-  "Eliminar la autenticidad para asegurar el control, con lo que se pierde el propósito de la tarea."],
- "criterios":[
-  "el análisis identifica al menos dos amenazas concretas con su control;",
-  "existe evidencia de proceso o de autoría además del producto final;"],
- "preguntas":[
-  "¿Qué está midiendo tu tarea además del aprendizaje?",
-  "¿Cómo sabes que el trabajo es del estudiante?",
-  "¿Qué control puedes aplicar sin destruir la autenticidad?"],
- "lecturas":[
-  ["Messick, S. (1994). *The Interplay of Evidence and Consequences in the Validation of Performance Assessments*.","analiza validez y varianza irrelevante en evaluación de desempeño."],
-  ["Wiggins, G. (1998). *Educative Assessment*.","criterios de diseño de tareas auténticas defendibles."]],
- "inclusion":"La dependencia de recursos es la amenaza con mayor impacto en equidad: tareas que exigen materiales, conectividad o apoyo familiar miden origen social. Producir en clase y ofrecer materiales elimina buena parte de esa varianza.",
- "reto":"Analiza una tarea auténtica tuya e identifica qué mide además del aprendizaje. Aplica un control y compara la distribución de resultados.",
- "conexion":"Profundiza la clase 071 y se apoya en la clase 140."},
-
-{"n":137,"evidencia":"CONSISTENTE",
- "foco":"cómo se escribe un ítem que discrimine comprensión y no habilidad para resolver pruebas",
- "proposito":"Construir ítems técnicamente correctos: enunciado claro, una sola respuesta defendible, distractores plausibles y ausencia de claves involuntarias.",
- "decision":"determinar qué formato de ítem corresponde al desempeño que quieres evaluar",
- "entregable":"un conjunto de ítems construidos y revisados por pares, con el análisis de sus defectos corregidos",
- "conceptos":[
-  ["Ítem","unidad mínima de una prueba: enunciado, tarea y criterio de corrección"],
-  ["Distractor plausible","alternativa incorrecta que resulta atractiva para quien tiene un error conceptual específico"],
-  ["Clave involuntaria","rasgo del ítem que permite acertar sin saber el contenido"],
-  ["Formato de respuesta","selección, respuesta corta, desarrollo o desempeño; cada uno mide cosas distintas"]],
- "desarrollo":"Un ítem defectuoso mide otra cosa: la longitud de la alternativa correcta, la concordancia gramatical, la exclusión por absurdo o la simple habilidad de rendir pruebas. Los defectos son conocidos y evitables: alternativas de longitud desigual, uso de «todas las anteriores», negaciones no señaladas, enunciados ambiguos y distractores que nadie elegiría. Revisar contra esa lista mejora cualquier instrumento en una hora de trabajo.",
- "practica":"La construcción parte del desempeño: si el objetivo es explicar, un ítem de selección múltiple no sirve. Los distractores se construyen a partir de errores reales observados en los estudiantes, no inventados, y por eso las evaluaciones mejoran cuando se construyen después de haber enseñado y registrado los errores del curso.",
- "limites":"Ningún formato es superior en abstracto: la selección múltiple mide bien reconocimiento y aplicación acotada y mal producción y argumentación; el desarrollo mide producción y tiene baja consistencia entre correctores. La elección del formato es una decisión de validez, no de comodidad.",
- "errores":[
-  "Construir distractores inventados en vez de basarlos en errores reales del curso.",
-  "Elegir el formato por facilidad de corrección y no por el desempeño que se quiere evaluar."],
- "criterios":[
-  "los distractores corresponden a errores conceptuales observados;",
-  "el conjunto fue revisado por otra persona contra una lista de defectos frecuentes;"],
- "preguntas":[
-  "¿Qué error revelaría cada distractor de tu ítem?",
-  "¿Podría alguien acertar sin saber el contenido?",
-  "¿El formato elegido mide el desempeño que declaraste?"],
- "lecturas":[
-  ["Haladyna, T., Downing, S. & Rodriguez, M. (2002). *A Review of Multiple-Choice Item-Writing Guidelines*.","la lista de verificación estándar para construcción de ítems."],
-  ["AERA, APA & NCME (2014). *Standards*.","fija los requisitos técnicos según el uso previsto del instrumento."]],
- "inclusion":"Los ítems con lenguaje innecesariamente complejo o con contextos culturalmente específicos introducen varianza irrelevante que perjudica a estudiantes que aprenden en segunda lengua o de otros contextos. Simplificar el lenguaje sin simplificar el contenido es una corrección de validez.",
- "reto":"Revisa una prueba tuya contra la lista de defectos frecuentes. Corrige los ítems defectuosos y compara los resultados con la versión anterior.",
- "conexion":"Alimenta la clase 142, donde los ítems se analizan con datos reales de aplicación."},
-
-{"n":138,"evidencia":"CONSISTENTE",
- "foco":"qué hace que una rúbrica mejore la consistencia y qué la convierte en decoración",
- "proposito":"Construir rúbricas y escalas técnicamente sólidas, calibrar su uso entre evaluadores y decidir cuándo conviene una rúbrica analítica y cuándo una holística.",
- "decision":"determinar el tipo de rúbrica y los descriptores que sostendrán la consistencia de tu evaluación",
- "entregable":"una rúbrica calibrada con evidencia de acuerdo entre evaluadores y su análisis de desacuerdos",
- "conceptos":[
-  ["Rúbrica analítica","instrumento que evalúa criterios por separado; útil para retroalimentar"],
-  ["Rúbrica holística","juicio global por niveles; más rápida y menos informativa para el estudiante"],
-  ["Descriptor","descripción del desempeño en un nivel; debe ser observable y no comparativo"],
-  ["Calibración","proceso de acuerdo entre evaluadores sobre la aplicación de los descriptores"]],
- "desarrollo":"Las rúbricas mejoran la consistencia solo si sus descriptores son observables. Los niveles definidos por adverbios —«excelente», «adecuado», «insuficiente»— trasladan el juicio al evaluador y producen una apariencia de objetividad sin ganancia real. La calibración es el procedimiento que revela el problema: si dos evaluadores discrepan sistemáticamente en un criterio, ese descriptor está mal escrito.",
- "practica":"El procedimiento incluye construir la rúbrica antes, entregarla al estudiante, calibrar con trabajos reales y reescribir los descriptores conflictivos. La elección entre analítica y holística depende del uso: para retroalimentar, analítica; para calificar rápido un volumen alto con criterios bien internalizados, holística.",
- "limites":"Una rúbrica muy detallada puede convertir un desempeño complejo en una lista de verificación y premiar el cumplimiento formal sobre la calidad global. Y ningún instrumento elimina el juicio profesional: la rúbrica lo estructura y lo hace comunicable, no lo sustituye.",
- "errores":[
-  "Definir niveles con adverbios en vez de con desempeños observables.",
-  "Aplicar una rúbrica sin calibrar y atribuir a los estudiantes la variación entre correctores."],
- "criterios":[
-  "los descriptores son observables y no comparativos entre estudiantes;",
-  "hay evidencia de calibración con análisis de los desacuerdos;"],
- "preguntas":[
-  "¿Qué diferencia observable hay entre el nivel 3 y el nivel 4 de tu rúbrica?",
-  "¿En qué criterio discrepan más dos correctores?",
-  "¿Tu rúbrica premia calidad o cumplimiento de una lista?"],
- "lecturas":[
-  ["Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics*.","evidencia sobre consistencia, validez y consecuencias del uso de rúbricas."],
-  ["Brookhart, S. (2013). *How to Create and Use Rubrics*.","guía práctica de construcción con ejemplos de descriptores observables."]],
- "inclusion":"Las rúbricas explícitas y entregadas antes reducen la ventaja de quienes conocen los códigos implícitos del trabajo académico, y permiten a cualquier estudiante autoevaluarse antes de entregar.",
- "reto":"Calibra tu rúbrica con un colega sobre cinco trabajos. Reescribe los descriptores que produjeron desacuerdo y vuelve a calibrar.",
- "conexion":"Profundiza la clase 077 y sostiene la evaluación de desempeño de la clase 136."},
-
-{"n":139,"evidencia":"ROBUSTA",
- "foco":"por qué buena parte de la retroalimentación no produce ningún efecto y alguna incluso empeora el desempeño",
- "proposito":"Diseñar retroalimentación efectiva: dirigida a la tarea y no a la persona, entregada a tiempo, específica, accionable y con oportunidad real de usarla.",
- "decision":"determinar cuándo y cómo entregarás la retroalimentación para que el estudiante pueda usarla",
- "entregable":"un rediseño del sistema de retroalimentación de una asignatura con evidencia de su uso por los estudiantes",
- "conceptos":[
-  ["Retroalimentación sobre la tarea","información sobre el trabajo y cómo mejorarlo, distinta del juicio sobre la persona"],
-  ["Oportunidad de uso","instancia posterior donde el estudiante puede aplicar lo señalado"],
-  ["Efecto de la calificación","fenómeno por el que la nota anula la atención al comentario"],
-  ["Retroalimentación accionable","indicación concreta que el estudiante sabe cómo ejecutar"]],
- "desarrollo":"La investigación sobre retroalimentación muestra efectos promedio positivos y una variabilidad enorme, incluidos casos de efecto negativo. Dos hallazgos son de aplicación inmediata: la retroalimentación dirigida a la persona —elogio o crítica sobre su capacidad— no mejora y puede perjudicar; y entregar nota y comentario juntos anula el efecto del comentario, porque la atención va a la nota.",
- "practica":"El rediseño más simple y más eficaz consiste en separar en el tiempo el comentario de la calificación, y exigir una acción con el comentario antes de entregar la nota. Además, la retroalimentación debe ser específica y accionable: «mejora la coherencia» no orienta; «cada párrafo debe empezar con la idea y seguir con el ejemplo» sí.",
- "limites":"La retroalimentación abundante no es mejor: sobrecarga y produce abandono. Y su efecto depende de que el estudiante tenga el conocimiento para interpretarla y una oportunidad real de aplicarla; sin trabajo posterior, el mejor comentario del mundo no cambia nada.",
- "errores":[
-  "Entregar comentario y calificación al mismo tiempo.",
-  "Dirigir la retroalimentación a la persona —«eres desordenado»— en vez de a la tarea."],
- "criterios":[
-  "existe una oportunidad real de usar la retroalimentación antes de la calificación final;",
-  "hay evidencia de que los estudiantes efectivamente la usaron;"],
- "preguntas":[
-  "¿Qué hicieron tus estudiantes con tu último comentario?",
-  "¿Cuánto tiempo dedicas a corregir y cuánto de eso cambia algo?",
-  "¿Tu comentario habla de la tarea o de la persona?"],
- "lecturas":[
-  ["Hattie, J. & Timperley, H. (2007). *The Power of Feedback*.","modelo por niveles de retroalimentación y evidencia sobre cuáles funcionan."],
-  ["Kluger, A. & DeNisi, A. (1996). *The Effects of Feedback Interventions on Performance*.","documenta que una proporción relevante de intervenciones de retroalimentación empeora el desempeño."]],
- "inclusion":"La retroalimentación específica y accionable es especialmente decisiva para estudiantes sin apoyo académico externo: es la única guía que reciben sobre cómo mejorar, mientras otros la obtienen en casa.",
- "reto":"Separa comentario y nota durante una unidad, con una entrega intermedia obligatoria. Compara la calidad de la versión final con la de la unidad anterior.",
- "conexion":"Se apoya en la clase 134 y es la práctica que hace efectiva la evaluación formativa."},
-
-{"n":140,"evidencia":"ROBUSTA",
- "foco":"por qué la validez no es una propiedad del instrumento sino de lo que se afirma con sus resultados",
- "proposito":"Construir un argumento de validez para una evaluación: qué se pretende inferir, qué evidencia lo respalda, qué amenazas existen y qué consecuencias tiene su uso.",
- "decision":"determinar qué afirmación puedes sostener con los resultados de tu evaluación y cuál no",
- "entregable":"un argumento de validez de una evaluación con sus fuentes de evidencia y sus limitaciones declaradas",
- "conceptos":[
-  ["Validez","grado en que la evidencia respalda la interpretación y el uso propuestos de los puntajes"],
-  ["Constructo","aquello que se pretende medir; casi nunca es directamente observable"],
-  ["Subrepresentación","situación en que la evaluación cubre solo parte del constructo declarado"],
-  ["Consecuencia del uso","efectos del uso de los resultados, que forman parte del juicio de validez"]],
- "desarrollo":"Decir que una prueba «es válida» es un error conceptual: lo que puede ser válido es la interpretación que se hace de sus resultados para un uso determinado. La misma prueba puede sostener una inferencia y no otra. El argumento de validez consiste en explicitar qué se quiere afirmar, reunir evidencia que lo respalde —contenido, procesos, relaciones, consecuencias— y reconocer las amenazas que quedan sin controlar.",
- "practica":"El ejercicio práctico es escribir la afirmación completa: «los resultados de esta evaluación permiten afirmar que el estudiante puede resolver problemas de este tipo, en estas condiciones, con este nivel de exigencia». Formulada así, la mayoría de las afirmaciones habituales resulta excesiva, y esa constatación cambia el uso que se les da.",
- "limites":"La validación es un proceso continuo y nunca concluye: siempre hay evidencia adicional que podría reunirse. En el contexto escolar, el nivel de exigencia debe ser proporcional a la consecuencia: no se pide el mismo respaldo a un control de lectura que a una evaluación que decide la titulación.",
- "errores":[
-  "Afirmar que un instrumento es válido en abstracto, sin referencia a interpretación ni uso.",
-  "Ignorar la subrepresentación: evaluar una parte del constructo y afirmar sobre el todo."],
- "criterios":[
-  "el argumento declara la afirmación exacta que se pretende sostener;",
-  "las amenazas no controladas están explicitadas junto con sus consecuencias;"],
- "preguntas":[
-  "¿Qué afirmas exactamente sobre un estudiante con este resultado?",
-  "¿Qué parte del constructo declarado no evalúa tu instrumento?",
-  "¿Qué consecuencia tiene el uso que le das a estos puntajes?"],
- "lecturas":[
-  ["Messick, S. (1989). *Validity*.","el capítulo que integra interpretación, uso y consecuencias en un solo concepto de validez."],
-  ["Kane, M. (2013). *Validating the Interpretations and Uses of Test Scores*. Journal of Educational Measurement, 50(1).","desarrolla el enfoque de argumento de validez, directamente aplicable a evaluaciones propias."]],
- "inclusion":"El análisis de validez incluye preguntar si el instrumento mide lo mismo en todos los grupos. Cuando un ítem funciona distinto para estudiantes con la misma capacidad pero distinto origen, la inferencia deja de ser válida para ellos.",
- "reto":"Escribe el argumento de validez de tu evaluación más importante. Identifica la afirmación que hoy haces y que la evidencia no sostiene.",
- "conexion":"Es el concepto central de la parte 11 y condiciona las clases 135, 136 y 144."},
-
-{"n":141,"evidencia":"ROBUSTA",
- "foco":"cuánto de la diferencia entre dos calificaciones es aprendizaje y cuánto es error de medida",
- "proposito":"Comprender la confiabilidad y el error de medida, y su consecuencia práctica: qué diferencias entre puntajes son interpretables y cuáles están dentro del ruido.",
- "decision":"determinar si la diferencia de puntaje que estás interpretando supera el error de medida",
- "entregable":"un análisis de confiabilidad de una evaluación propia con la interpretación correcta de sus diferencias",
- "conceptos":[
-  ["Confiabilidad","consistencia de la medición; grado en que el resultado se repetiría en condiciones equivalentes"],
-  ["Error estándar de medida","margen de incertidumbre asociado a un puntaje individual"],
-  ["Consistencia interna","grado en que los ítems de una prueba miden lo mismo; se estima con coeficientes"],
-  ["Acuerdo entre correctores","consistencia entre personas que evalúan el mismo desempeño"]],
- "desarrollo":"Todo puntaje incluye error. La consecuencia práctica es incómoda: diferencias pequeñas entre estudiantes, o entre dos aplicaciones al mismo estudiante, pueden no significar nada. Interpretar una diferencia de dos décimas como progreso o como superioridad es un error técnico común y con consecuencias reales, porque sobre esas diferencias se toman decisiones de selección, agrupamiento y promoción.",
- "practica":"El trabajo consiste en estimar la consistencia del instrumento y el acuerdo entre correctores cuando hay juicio humano, y usar esa información para decidir. La regla operativa: no interpretar diferencias menores que el error de medida, y no tomar decisiones importantes con una sola aplicación.",
- "limites":"Los coeficientes de consistencia interna se usan mal con frecuencia: dependen del número de ítems y de la homogeneidad del contenido, y un valor alto no prueba que la prueba mida una sola cosa ni que mida lo correcto. Existen alternativas más adecuadas, y en cualquier caso la confiabilidad es condición necesaria y no suficiente de la validez.",
- "errores":[
-  "Interpretar diferencias de puntaje menores que el error de medida.",
-  "Usar un coeficiente de consistencia interna como prueba de calidad del instrumento."],
- "criterios":[
-  "el análisis reporta una estimación de consistencia y su interpretación correcta;",
-  "las decisiones propuestas consideran el error de medida;"],
- "preguntas":[
-  "¿Qué diferencia de puntaje estás tratando como significativa?",
-  "¿Cuánto varía la nota del mismo trabajo entre dos correctores?",
-  "¿Qué decisión estás tomando con una sola medición?"],
- "lecturas":[
-  ["AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.","define confiabilidad y error de medida y su relación con el uso de los puntajes."],
-  ["McNeish, D. (2018). *Thanks Coefficient Alpha, We'll Take It From Here*. Psychological Methods, 23(3).","expone los problemas del alfa y las alternativas disponibles."]],
- "inclusion":"Las decisiones de selección basadas en diferencias mínimas afectan de forma desproporcionada a quienes están cerca del punto de corte, que suelen ser estudiantes en desventaja. Reconocer el error de medida es una exigencia de justicia además de técnica.",
- "reto":"Estima el acuerdo entre correctores de una evaluación con juicio humano. Analiza qué decisiones tomabas con diferencias que están dentro del error.",
- "conexion":"Complementa la clase 140 y sostiene la interpretación técnica de la clase 143."},
-
-{"n":142,"evidencia":"ROBUSTA",
- "foco":"qué te dicen los datos de una prueba aplicada sobre la calidad de sus preguntas",
- "proposito":"Analizar técnicamente una prueba aplicada: dificultad, discriminación, comportamiento de distractores y detección de ítems defectuosos, para corregir el instrumento.",
- "decision":"determinar qué ítems de tu prueba deben corregirse o eliminarse y por qué",
- "entregable":"el análisis de ítems de una prueba real con decisiones de corrección fundamentadas en los datos",
- "conceptos":[
-  ["Índice de dificultad","proporción de estudiantes que responde correctamente un ítem"],
-  ["Índice de discriminación","capacidad del ítem de diferenciar entre quienes dominan y quienes no el contenido"],
-  ["Análisis de distractores","revisión de qué alternativas incorrectas fueron elegidas y por quiénes"],
-  ["Ítem defectuoso","pregunta con discriminación nula o negativa, que introduce ruido en el puntaje"]],
- "desarrollo":"Una prueba aplicada contiene información valiosa sobre sí misma. Un ítem que casi todos responden bien aporta poca información; uno que casi nadie responde bien puede estar mal formulado o evaluar algo no enseñado; y uno con discriminación negativa —que los mejores fallan más que los peores— casi siempre está mal construido o tiene clave incorrecta. Detectar esos casos toma minutos y mejora el instrumento de inmediato.",
- "practica":"El análisis se puede hacer con una planilla: proporción de aciertos por ítem, comparación entre el tercio superior y el inferior, y frecuencia de elección de cada distractor. Los distractores que nadie elige no aportan nada; los que atraen a los estudiantes de mejor desempeño indican ambigüedad. Con esa información se corrige la prueba para su próxima aplicación.",
- "limites":"Con grupos pequeños los índices son inestables y deben interpretarse con cautela: en un curso de treinta, las diferencias entre tercios son muy sensibles a pocos casos. Además, la dificultad óptima depende del propósito: una prueba de dominio puede y debe tener ítems fáciles si el criterio es que todos los logren.",
- "errores":[
-  "Eliminar un ítem difícil sin revisar si el problema fue de enseñanza y no de construcción.",
-  "Interpretar índices de un curso pequeño como si fueran estables."],
- "criterios":[
-  "el análisis reporta dificultad, discriminación y comportamiento de distractores;",
-  "cada decisión de corrección está fundamentada en los datos y no en la impresión;"],
- "preguntas":[
-  "¿Qué ítem tuyo tiene discriminación negativa y por qué?",
-  "¿Qué distractor no eligió nadie y qué dice eso del ítem?",
-  "¿Un ítem que casi todos fallaron estaba mal hecho o mal enseñado?"],
- "lecturas":[
-  ["Crocker, L. & Algina (1986). *Introduction to Classical and Modern Test Theory*.","tratamiento estándar del análisis de ítems en teoría clásica."],
-  ["Haladyna, T. (2004). *Developing and Validating Multiple-Choice Test Items*.","conecta construcción y análisis de ítems con criterios prácticos."]],
- "inclusion":"El análisis por subgrupos permite detectar ítems que funcionan distinto para estudiantes con la misma competencia pero distinto origen o lengua. Revisarlo es parte del control de sesgo en cualquier instrumento con consecuencias.",
- "reto":"Analiza los ítems de una prueba aplicada. Corrige los defectuosos y compara los índices en la siguiente aplicación.",
- "conexion":"Cierra el ciclo de la clase 137 y prepara los conceptos de la clase 143."},
-
-{"n":143,"evidencia":"ROBUSTA",
- "foco":"qué permite hacer la teoría de respuesta al ítem que la teoría clásica no puede",
- "proposito":"Comprender los fundamentos de la teoría clásica y de la teoría de respuesta al ítem para leer críticamente informes técnicos de evaluaciones estandarizadas nacionales e internacionales.",
- "decision":"determinar qué se puede concluir de un informe técnico de una evaluación estandarizada y qué no",
- "entregable":"la lectura crítica de un informe técnico real con las conclusiones que sostiene y las que lo exceden",
- "conceptos":[
-  ["Teoría clásica","modelo en que el puntaje observado es la suma de puntaje verdadero y error; sus índices dependen de la muestra"],
-  ["Teoría de respuesta al ítem","modelo que estima habilidad de la persona y parámetros del ítem en una misma escala"],
-  ["Invarianza","propiedad por la cual los parámetros no dependen de la muestra particular usada"],
-  ["Equating","procedimiento que hace comparables puntajes de formas distintas de una prueba"]],
- "desarrollo":"La teoría clásica es simple y suficiente para el trabajo de aula, con una limitación importante: sus índices dependen de la muestra, de modo que la dificultad de un ítem cambia según a quién se aplicó. La teoría de respuesta al ítem sitúa habilidad y dificultad en una misma escala y permite comparar entre formas distintas y entre años, que es lo que hace posible afirmar que un sistema mejoró.",
- "practica":"El uso profesional para la mayoría de los docentes no es aplicar estos modelos sino leer informes que los usan. Saber qué significa un puntaje en escala, qué es el equating y qué supone la invarianza permite interpretar los resultados nacionales sin comprar la lectura simplificada del titular ni descartarlos por desconfianza.",
- "limites":"Los modelos tienen supuestos fuertes —unidimensionalidad, independencia local— que rara vez se cumplen del todo, y su violación afecta las conclusiones. Además, la sofisticación técnica no corrige problemas de validez: una prueba técnicamente impecable puede estar midiendo un constructo mal definido.",
- "errores":[
-  "Interpretar puntajes en escala como si fueran porcentajes de logro.",
-  "Suponer que la sofisticación técnica del modelo garantiza la validez del constructo."],
- "criterios":[
-  "la lectura distingue conclusiones respaldadas por el informe de interpretaciones que lo exceden;",
-  "identifica al menos un supuesto del modelo y su posible incumplimiento;"],
- "preguntas":[
-  "¿Qué significa realmente el puntaje que están comparando entre años?",
-  "¿Qué supuesto del modelo podría no cumplirse en esta población?",
-  "¿Qué afirmación del informe de prensa no está en el informe técnico?"],
- "lecturas":[
-  ["Embretson, S. & Reise, S. (2000). *Item Response Theory for Psychologists*.","introducción accesible y rigurosa a los modelos y sus supuestos."],
-  ["Agencia de Calidad de la Educación (Chile). *Informes técnicos de las evaluaciones nacionales*.","material real para practicar la lectura crítica con datos del propio sistema."]],
- "inclusion":"Los análisis de funcionamiento diferencial de ítems son la herramienta técnica para detectar sesgo cultural o lingüístico en pruebas de gran escala. Saber que existen permite exigir su reporte en cualquier evaluación con consecuencias.",
- "reto":"Lee el informe técnico de una evaluación nacional y contrasta sus conclusiones con la cobertura de prensa. Documenta las tres afirmaciones que la prensa no puede sostener.",
- "conexion":"Cierra la formación técnica de la parte y se conecta con la clase 011 sobre indicadores de calidad."},
-
-{"n":144,"evidencia":"CONSISTENTE",
- "foco":"cómo se construye un sistema de evaluación coherente en vez de una colección de instrumentos",
- "proposito":"Integrar la parte diseñando el sistema de evaluación completo de una asignatura: propósitos, instrumentos, calendario, criterios, retroalimentación y argumento de validez.",
- "decision":"determinar el conjunto de decisiones de evaluación de tu asignatura y su justificación técnica",
- "entregable":"el sistema de evaluación completo de una asignatura, con argumento de validez y análisis de su primera aplicación",
- "conceptos":[
-  ["Sistema de evaluación","conjunto articulado de propósitos, instrumentos y decisiones a lo largo de un curso"],
-  ["Coherencia evaluativa","correspondencia entre resultados declarados, instrumentos y decisiones tomadas"],
-  ["Carga evaluativa","tiempo total que la evaluación consume al estudiante y al docente"],
-  ["Justicia procedimental","condiciones —criterios públicos, reglas conocidas, vías de revisión— que hacen defendible el sistema"]],
- "desarrollo":"Un sistema de evaluación no es la suma de sus instrumentos: es una decisión sobre qué se mide, cuándo, con qué consecuencia y qué información devuelve a quién. Los sistemas mal diseñados concentran todo al final, evalúan lo mismo tres veces, dejan aprendizajes declarados sin medir y consumen más tiempo del que aportan. La coherencia se comprueba recorriendo la asignatura completa.",
- "practica":"El diseño articula lo diagnóstico, lo formativo y lo sumativo con propósitos distintos y sin confundirlos; calendariza para que la retroalimentación llegue a tiempo de ser usada; y declara criterios y vías de revisión. La carga evaluativa debe calcularse: en muchos programas la evaluación consume más tiempo del estudiante que el estudio.",
- "limites":"Un sistema bien diseñado mejora la calidad de la información y no garantiza aprendizaje. Y toda evaluación tiene efectos secundarios: orienta el estudio, define lo que se considera importante y produce ansiedad. Diseñar es también decidir qué efectos secundarios se está dispuesto a aceptar.",
- "errores":[
-  "Acumular instrumentos sin revisar la carga total ni la redundancia entre ellos.",
-  "Diseñar el sistema sin declarar criterios públicos ni vías de revisión."],
- "criterios":[
-  "el sistema cubre todos los resultados declarados sin redundancia innecesaria;",
-  "incluye argumento de validez para las evaluaciones con mayor consecuencia;"],
- "preguntas":[
-  "¿Qué resultado de tu asignatura no se evalúa nunca?",
-  "¿Cuánto tiempo del estudiante consume tu sistema de evaluación?",
-  "¿Qué vía tiene un estudiante para impugnar una calificación en tu curso?"],
- "lecturas":[
-  ["AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.","referencia técnica para sostener el sistema en sus componentes de mayor consecuencia."],
-  ["Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*.","articula evaluación y retroalimentación como sistema y no como eventos separados."]],
- "inclusion":"Un sistema justo declara de antemano las adecuaciones disponibles, sus condiciones y su procedimiento, de modo que el estudiante no dependa de la buena voluntad del docente de turno para acceder a ellas.",
- "reto":"Diseña el sistema completo, aplícalo un semestre y analiza su primera aplicación: cobertura, carga, uso de la retroalimentación y decisiones tomadas.",
- "conexion":"Cierra la parte 11 integrando sus once clases previas y se conecta con las partes 09, 14 y 15."}
+  {
+    "n": 133,
+    "evidencia": "CONSISTENTE",
+    "foco": "para qué sirve una evaluación diagnóstica que nadie usa para cambiar la planificación",
+    "proposito": "Diseñar evaluación diagnóstica útil: acotada a los prerrequisitos que condicionan la unidad, interpretable en el momento y conectada con una decisión de enseñanza.",
+    "decision": "determinar qué prerrequisitos vas a medir y qué harás con cada resultado posible",
+    "entregable": "un instrumento diagnóstico breve con la decisión de enseñanza asociada a cada patrón de resultado",
+    "conceptos": [
+      [
+        "Evaluación diagnóstica",
+        "recogida de información previa sobre conocimiento y dificultades que condicionan la unidad"
+      ],
+      [
+        "Prerrequisito crítico",
+        "conocimiento sin el cual la unidad no puede comprenderse"
+      ],
+      [
+        "Patrón de resultado",
+        "combinación típica de aciertos y errores que sugiere una decisión distinta"
+      ],
+      [
+        "Decisión asociada",
+        "acción de enseñanza definida de antemano para cada resultado posible"
+      ]
+    ],
+    "desarrollo": "Muchos diagnósticos escolares son largos, generales y sin consecuencia: se aplican en marzo, se archivan y la planificación sigue igual. Un diagnóstico útil es breve, se enfoca en los dos o tres prerrequisitos que realmente condicionan la unidad, y tiene decisiones asociadas escritas antes de aplicarlo. Si ningún resultado posible cambiaría tu planificación, no vale la pena aplicarlo.",
+    "practica": "El diseño empieza identificando el prerrequisito crítico —lo que si falta hace imposible la unidad— y construyendo pocas preguntas que lo revelen, incluidos distractores que expongan errores específicos. Después se escriben las decisiones: si más del treinta por ciento falla en esto, se dedica una sesión a recuperarlo antes de avanzar.",
+    "limites": "El diagnóstico mide un momento y con pocos ítems, de modo que su precisión individual es limitada: sirve mejor para decidir sobre el grupo que para clasificar personas. Y no debe usarse para bajar expectativas: detectar un vacío indica qué enseñar, no de qué es capaz el estudiante.",
+    "errores": [
+      "Aplicar un diagnóstico extenso sin decisiones asociadas y archivarlo.",
+      "Usar el resultado diagnóstico para reducir la exigencia de un estudiante en vez de para enseñarle lo que falta."
+    ],
+    "criterios": [
+      "cada patrón de resultado tiene su decisión de enseñanza escrita antes de aplicar;",
+      "el instrumento se enfoca en prerrequisitos críticos y es breve;"
+    ],
+    "preguntas": [
+      "¿Qué resultado de tu diagnóstico cambiaría tu planificación, y cómo?",
+      "¿Qué prerrequisito estás suponiendo sin haberlo medido nunca?",
+      "¿Qué hiciste el año pasado con los resultados del diagnóstico?"
+    ],
+    "lecturas": [
+      [
+        "Ausubel, D. (1968). *Educational Psychology: A Cognitive View*.",
+        "fundamenta por qué el conocimiento previo es el factor que más condiciona el aprendizaje nuevo."
+      ],
+      [
+        "Wiliam, D. (2011). *Embedded Formative Assessment*.",
+        "aporta técnicas breves de recogida de evidencia aplicables al diagnóstico inicial."
+      ]
+    ],
+    "inclusion": "Un diagnóstico bien diseñado detecta vacíos de oportunidad y no capacidades: distinguir esas dos lecturas es lo que impide que el instrumento se convierta en un mecanismo de segregación temprana dentro del curso.",
+    "reto": "Diseña un diagnóstico breve con decisiones escritas de antemano. Aplícalo y ejecuta la decisión que corresponda, aunque implique retrasar la planificación.",
+    "conexion": "Abre la parte 11 y se apoya en la clase 114 sobre prerrequisitos y secuenciación."
+  },
+  {
+    "n": 134,
+    "evidencia": "ROBUSTA",
+    "foco": "qué distingue técnicamente la evaluación formativa de una prueba corta con nota baja",
+    "proposito": "Dominar la evaluación formativa en su definición técnica: recogida de evidencia que efectivamente modifica la enseñanza o el aprendizaje, con instrumentos proporcionales y sin consecuencia calificatoria.",
+    "decision": "determinar qué evidencia recogerás y qué decisión de enseñanza modificará",
+    "entregable": "un sistema formativo de asignatura con instrumentos, periodicidad y las decisiones que cada resultado activa",
+    "conceptos": [
+      [
+        "Evaluación formativa",
+        "proceso en que la evidencia recogida se usa para adaptar la enseñanza o el aprendizaje"
+      ],
+      [
+        "Baja consecuencia",
+        "condición de que el instrumento no afecte la calificación, para que revele el estado real"
+      ],
+      [
+        "Retroalimentación accionable",
+        "información que el estudiante puede usar en un trabajo posterior"
+      ],
+      [
+        "Decisión instruccional",
+        "cambio concreto en la enseñanza derivado de la evidencia"
+      ]
+    ],
+    "desarrollo": "La definición técnica de evaluación formativa incluye el uso: si la evidencia no modifica nada, la evaluación no fue formativa aunque se haya llamado así. Esa precisión importa porque la mayor parte de lo que se rotula como formativo en las instituciones son pruebas cortas calificadas, que no cumplen la condición y además distorsionan la información al activar la conducta estratégica del estudiante.",
+    "practica": "Un sistema formativo define pocos instrumentos —verificación en clase, tareas breves con retroalimentación, tarjetas de salida—, su periodicidad y qué decisión activa cada resultado. La ausencia de calificación es lo que permite que el estudiante muestre lo que realmente no entiende, y es también lo primero que las instituciones piden eliminar.",
+    "limites": "Los efectos reportados para la evaluación formativa varían mucho y algunas cifras muy citadas provienen de síntesis con problemas metodológicos. El efecto es real y depende de la calidad de las decisiones docentes: la evidencia recogida no enseña por sí sola. Y su implementación consume tiempo de clase que hay que planificar.",
+    "errores": [
+      "Calificar los instrumentos formativos y perder la información que buscaban obtener.",
+      "Recoger evidencia sistemáticamente sin que ninguna decisión de enseñanza cambie."
+    ],
+    "criterios": [
+      "cada instrumento tiene una decisión instruccional asociada y documentada;",
+      "los instrumentos formativos no tienen consecuencia calificatoria;"
+    ],
+    "preguntas": [
+      "¿Qué decisión tomaste el mes pasado a partir de evidencia formativa?",
+      "¿Qué te impide dejar sin nota los instrumentos formativos?",
+      "¿Qué muestran tus estudiantes cuando saben que no hay nota en juego?"
+    ],
+    "lecturas": [
+      [
+        "Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*.",
+        "la revisión que instaló el concepto con evidencia; conviene leer también sus críticas metodológicas."
+      ],
+      [
+        "Wiliam, D. (2011). *Embedded Formative Assessment*.",
+        "define la evaluación formativa por su uso y aporta técnicas concretas de aula."
+      ]
+    ],
+    "inclusion": "La evaluación sin consecuencia permite a los estudiantes con más ansiedad evaluativa mostrar lo que saben, y al docente detectar dificultades que la evaluación calificada oculta tras el bloqueo.",
+    "reto": "Implementa tu sistema formativo durante un mes registrando cada decisión que produjo. Analiza cuántas veces la evidencia contradijo tu impresión.",
+    "conexion": "Es la versión técnica de la clase 058 y sostiene la lógica de las clases 139 y 144."
+  },
+  {
+    "n": 135,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué exigencias técnicas aparecen cuando una evaluación tiene consecuencias para la persona",
+    "proposito": "Diseñar evaluación sumativa defendible: representatividad del contenido, condiciones equivalentes, criterios públicos y decisiones proporcionales a la calidad de la evidencia.",
+    "decision": "determinar qué evidencia sumativa justifica la decisión que vas a tomar sobre cada estudiante",
+    "entregable": "un plan de evaluación sumativa con tabla de especificaciones, ponderaciones justificadas y política de recuperación",
+    "conceptos": [
+      [
+        "Evaluación sumativa",
+        "valoración del logro al final de un período, con consecuencias para el estudiante"
+      ],
+      [
+        "Tabla de especificaciones",
+        "matriz que asegura que la evaluación representa el contenido y los niveles enseñados"
+      ],
+      [
+        "Ponderación",
+        "peso relativo de cada evaluación en la calificación final y su justificación"
+      ],
+      [
+        "Proporcionalidad",
+        "correspondencia entre la consecuencia de la decisión y la calidad de la evidencia disponible"
+      ]
+    ],
+    "desarrollo": "Cuanto mayor es la consecuencia de una evaluación, mayor es la exigencia técnica que debe cumplir. Una decisión de promoción basada en una sola prueba de una hora es desproporcionada respecto de la evidencia que sostiene: el error de medida de un instrumento único es alto y las condiciones de aplicación afectan el resultado. La tabla de especificaciones es el instrumento básico que asegura que se evalúa lo enseñado y en la proporción en que se enseñó.",
+    "practica": "El plan define qué se evalúa, con qué peso, con qué instrumento y en qué momento, y declara la política de recuperación por adelantado. Las ponderaciones deben justificarse por importancia del aprendizaje y no por costumbre. Y las condiciones de aplicación deben ser equivalentes para todos, incluidas las adecuaciones que no alteran la inferencia.",
+    "limites": "Ninguna evaluación sumativa mide todo lo aprendido: mide una muestra, en un momento y en un formato. Reconocerlo obliga a tomar decisiones de alto impacto con más de una fuente de evidencia y a resistir la tentación de tratar la calificación como una propiedad del estudiante.",
+    "errores": [
+      "Tomar decisiones de promoción con una sola medición.",
+      "Ponderar por costumbre institucional y no por importancia del aprendizaje evaluado."
+    ],
+    "criterios": [
+      "existe tabla de especificaciones que muestra representatividad del contenido enseñado;",
+      "las ponderaciones y la política de recuperación están justificadas y publicadas antes;"
+    ],
+    "preguntas": [
+      "¿Qué proporción de lo enseñado representa tu evaluación final?",
+      "¿Qué decisión estás tomando con qué cantidad de evidencia?",
+      "¿Por qué esa ponderación y no otra?"
+    ],
+    "lecturas": [
+      [
+        "AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.",
+        "fija el estándar técnico según la consecuencia de la decisión."
+      ],
+      [
+        "Brookhart, S. (2013). *Grading and Group Work*.",
+        "analiza problemas frecuentes de calificación y sus soluciones técnicas."
+      ]
+    ],
+    "inclusion": "Las adecuaciones de acceso en evaluación sumativa —tiempo adicional, formato alternativo, apoyo técnico— no invalidan la inferencia cuando no alteran el constructo evaluado. Negarlas por temor a la injusticia produce exactamente la injusticia que se quería evitar.",
+    "reto": "Construye la tabla de especificaciones de tu evaluación final y compárala con lo efectivamente enseñado. Corrige los desequilibrios que encuentres.",
+    "conexion": "Se apoya en la clase 117 y su exigencia técnica se desarrolla en las clases 140 a 143."
+  },
+  {
+    "n": 136,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo mantener la validez cuando la tarea de evaluación se parece al mundo real",
+    "proposito": "Diseñar evaluación de desempeño auténtico con control de las amenazas a la validez: dependencia de recursos, apoyo externo no declarado, variabilidad del evaluador y condiciones desiguales.",
+    "decision": "determinar qué amenaza a la validez introduce tu tarea auténtica y cómo la controlarás",
+    "entregable": "una tarea de desempeño auténtico con análisis de amenazas a la validez y sus controles",
+    "conceptos": [
+      [
+        "Tarea de desempeño",
+        "actividad compleja que exige integrar conocimientos en un producto o ejecución"
+      ],
+      [
+        "Amenaza a la validez",
+        "factor que hace que la tarea mida algo distinto de lo que se pretende"
+      ],
+      [
+        "Varianza irrelevante",
+        "diferencias en el resultado producidas por factores ajenos al aprendizaje evaluado"
+      ],
+      [
+        "Control",
+        "medida que reduce el efecto de una amenaza sin destruir la autenticidad de la tarea"
+      ]
+    ],
+    "desarrollo": "La evaluación auténtica gana relevancia y arriesga validez. Las amenazas son conocidas: la tarea puede medir los recursos del hogar, el tiempo disponible, el apoyo de terceros o la habilidad de presentación, más que el aprendizaje. Y con la disponibilidad de herramientas generativas, la autoría del producto entregado dejó de poder suponerse.",
+    "practica": "Los controles son concretos: producir partes del trabajo en clase, exigir defensa oral breve, evaluar el proceso además del producto, calibrar entre evaluadores y declarar de antemano qué apoyos son admisibles. Ninguno elimina la amenaza, pero en conjunto permiten sostener la inferencia con razonable confianza.",
+    "limites": "Cada control tiene costo: en tiempo, en trabajo docente y a veces en autenticidad. La decisión razonable depende de la consecuencia de la evaluación: para una tarea formativa, controles ligeros; para una que decide titulación, controles fuertes. Aplicar controles máximos a todo es inviable.",
+    "errores": [
+      "Evaluar un producto extenso sin ninguna evidencia de proceso ni de autoría.",
+      "Eliminar la autenticidad para asegurar el control, con lo que se pierde el propósito de la tarea."
+    ],
+    "criterios": [
+      "el análisis identifica al menos dos amenazas concretas con su control;",
+      "existe evidencia de proceso o de autoría además del producto final;"
+    ],
+    "preguntas": [
+      "¿Qué está midiendo tu tarea además del aprendizaje?",
+      "¿Cómo sabes que el trabajo es del estudiante?",
+      "¿Qué control puedes aplicar sin destruir la autenticidad?"
+    ],
+    "lecturas": [
+      [
+        "Messick, S. (1994). *The Interplay of Evidence and Consequences in the Validation of Performance Assessments*.",
+        "analiza validez y varianza irrelevante en evaluación de desempeño."
+      ],
+      [
+        "Wiggins, G. (1998). *Educative Assessment*.",
+        "criterios de diseño de tareas auténticas defendibles."
+      ]
+    ],
+    "inclusion": "La dependencia de recursos es la amenaza con mayor impacto en equidad: tareas que exigen materiales, conectividad o apoyo familiar miden origen social. Producir en clase y ofrecer materiales elimina buena parte de esa varianza.",
+    "reto": "Analiza una tarea auténtica tuya e identifica qué mide además del aprendizaje. Aplica un control y compara la distribución de resultados.",
+    "conexion": "Profundiza la clase 071 y se apoya en la clase 140."
+  },
+  {
+    "n": 137,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se escribe un ítem que discrimine comprensión y no habilidad para resolver pruebas",
+    "proposito": "Construir ítems técnicamente correctos: enunciado claro, una sola respuesta defendible, distractores plausibles y ausencia de claves involuntarias.",
+    "decision": "determinar qué formato de ítem corresponde al desempeño que quieres evaluar",
+    "entregable": "un conjunto de ítems construidos y revisados por pares, con el análisis de sus defectos corregidos",
+    "conceptos": [
+      [
+        "Ítem",
+        "unidad mínima de una prueba: enunciado, tarea y criterio de corrección"
+      ],
+      [
+        "Distractor plausible",
+        "alternativa incorrecta que resulta atractiva para quien tiene un error conceptual específico"
+      ],
+      [
+        "Clave involuntaria",
+        "rasgo del ítem que permite acertar sin saber el contenido"
+      ],
+      [
+        "Formato de respuesta",
+        "selección, respuesta corta, desarrollo o desempeño; cada uno mide cosas distintas"
+      ]
+    ],
+    "desarrollo": "Un ítem defectuoso mide otra cosa: la longitud de la alternativa correcta, la concordancia gramatical, la exclusión por absurdo o la simple habilidad de rendir pruebas. Los defectos son conocidos y evitables: alternativas de longitud desigual, uso de «todas las anteriores», negaciones no señaladas, enunciados ambiguos y distractores que nadie elegiría. Revisar contra esa lista mejora cualquier instrumento en una hora de trabajo.",
+    "practica": "La construcción parte del desempeño: si el objetivo es explicar, un ítem de selección múltiple no sirve. Los distractores se construyen a partir de errores reales observados en los estudiantes, no inventados, y por eso las evaluaciones mejoran cuando se construyen después de haber enseñado y registrado los errores del curso.",
+    "limites": "Ningún formato es superior en abstracto: la selección múltiple mide bien reconocimiento y aplicación acotada y mal producción y argumentación; el desarrollo mide producción y tiene baja consistencia entre correctores. La elección del formato es una decisión de validez, no de comodidad.",
+    "errores": [
+      "Construir distractores inventados en vez de basarlos en errores reales del curso.",
+      "Elegir el formato por facilidad de corrección y no por el desempeño que se quiere evaluar."
+    ],
+    "criterios": [
+      "los distractores corresponden a errores conceptuales observados;",
+      "el conjunto fue revisado por otra persona contra una lista de defectos frecuentes;"
+    ],
+    "preguntas": [
+      "¿Qué error revelaría cada distractor de tu ítem?",
+      "¿Podría alguien acertar sin saber el contenido?",
+      "¿El formato elegido mide el desempeño que declaraste?"
+    ],
+    "lecturas": [
+      [
+        "Haladyna, T., Downing, S. & Rodriguez, M. (2002). *A Review of Multiple-Choice Item-Writing Guidelines*.",
+        "la lista de verificación estándar para construcción de ítems."
+      ],
+      [
+        "AERA, APA & NCME (2014). *Standards*.",
+        "fija los requisitos técnicos según el uso previsto del instrumento."
+      ]
+    ],
+    "inclusion": "Los ítems con lenguaje innecesariamente complejo o con contextos culturalmente específicos introducen varianza irrelevante que perjudica a estudiantes que aprenden en segunda lengua o de otros contextos. Simplificar el lenguaje sin simplificar el contenido es una corrección de validez.",
+    "reto": "Revisa una prueba tuya contra la lista de defectos frecuentes. Corrige los ítems defectuosos y compara los resultados con la versión anterior.",
+    "conexion": "Alimenta la clase 142, donde los ítems se analizan con datos reales de aplicación."
+  },
+  {
+    "n": 138,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué hace que una rúbrica mejore la consistencia y qué la convierte en decoración",
+    "proposito": "Construir rúbricas y escalas técnicamente sólidas, calibrar su uso entre evaluadores y decidir cuándo conviene una rúbrica analítica y cuándo una holística.",
+    "decision": "determinar el tipo de rúbrica y los descriptores que sostendrán la consistencia de tu evaluación",
+    "entregable": "una rúbrica calibrada con evidencia de acuerdo entre evaluadores y su análisis de desacuerdos",
+    "conceptos": [
+      [
+        "Rúbrica analítica",
+        "instrumento que evalúa criterios por separado; útil para retroalimentar"
+      ],
+      [
+        "Rúbrica holística",
+        "juicio global por niveles; más rápida y menos informativa para el estudiante"
+      ],
+      [
+        "Descriptor",
+        "descripción del desempeño en un nivel; debe ser observable y no comparativo"
+      ],
+      [
+        "Calibración",
+        "proceso de acuerdo entre evaluadores sobre la aplicación de los descriptores"
+      ]
+    ],
+    "desarrollo": "Las rúbricas mejoran la consistencia solo si sus descriptores son observables. Los niveles definidos por adverbios —«excelente», «adecuado», «insuficiente»— trasladan el juicio al evaluador y producen una apariencia de objetividad sin ganancia real. La calibración es el procedimiento que revela el problema: si dos evaluadores discrepan sistemáticamente en un criterio, ese descriptor está mal escrito.",
+    "practica": "El procedimiento incluye construir la rúbrica antes, entregarla al estudiante, calibrar con trabajos reales y reescribir los descriptores conflictivos. La elección entre analítica y holística depende del uso: para retroalimentar, analítica; para calificar rápido un volumen alto con criterios bien internalizados, holística.",
+    "limites": "Una rúbrica muy detallada puede convertir un desempeño complejo en una lista de verificación y premiar el cumplimiento formal sobre la calidad global. Y ningún instrumento elimina el juicio profesional: la rúbrica lo estructura y lo hace comunicable, no lo sustituye.",
+    "errores": [
+      "Definir niveles con adverbios en vez de con desempeños observables.",
+      "Aplicar una rúbrica sin calibrar y atribuir a los estudiantes la variación entre correctores."
+    ],
+    "criterios": [
+      "los descriptores son observables y no comparativos entre estudiantes;",
+      "hay evidencia de calibración con análisis de los desacuerdos;"
+    ],
+    "preguntas": [
+      "¿Qué diferencia observable hay entre el nivel 3 y el nivel 4 de tu rúbrica?",
+      "¿En qué criterio discrepan más dos correctores?",
+      "¿Tu rúbrica premia calidad o cumplimiento de una lista?"
+    ],
+    "lecturas": [
+      [
+        "Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics*.",
+        "evidencia sobre consistencia, validez y consecuencias del uso de rúbricas."
+      ],
+      [
+        "Brookhart, S. (2013). *How to Create and Use Rubrics*.",
+        "guía práctica de construcción con ejemplos de descriptores observables."
+      ]
+    ],
+    "inclusion": "Las rúbricas explícitas y entregadas antes reducen la ventaja de quienes conocen los códigos implícitos del trabajo académico, y permiten a cualquier estudiante autoevaluarse antes de entregar.",
+    "reto": "Calibra tu rúbrica con un colega sobre cinco trabajos. Reescribe los descriptores que produjeron desacuerdo y vuelve a calibrar.",
+    "conexion": "Profundiza la clase 077 y sostiene la evaluación de desempeño de la clase 136."
+  },
+  {
+    "n": 139,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué buena parte de la retroalimentación no produce ningún efecto y alguna incluso empeora el desempeño",
+    "proposito": "Diseñar retroalimentación efectiva: dirigida a la tarea y no a la persona, entregada a tiempo, específica, accionable y con oportunidad real de usarla.",
+    "decision": "determinar cuándo y cómo entregarás la retroalimentación para que el estudiante pueda usarla",
+    "entregable": "un rediseño del sistema de retroalimentación de una asignatura con evidencia de su uso por los estudiantes",
+    "conceptos": [
+      [
+        "Retroalimentación sobre la tarea",
+        "información sobre el trabajo y cómo mejorarlo, distinta del juicio sobre la persona"
+      ],
+      [
+        "Oportunidad de uso",
+        "instancia posterior donde el estudiante puede aplicar lo señalado"
+      ],
+      [
+        "Efecto de la calificación",
+        "fenómeno por el que la nota anula la atención al comentario"
+      ],
+      [
+        "Retroalimentación accionable",
+        "indicación concreta que el estudiante sabe cómo ejecutar"
+      ]
+    ],
+    "desarrollo": "La investigación sobre retroalimentación muestra efectos promedio positivos y una variabilidad enorme, incluidos casos de efecto negativo. Dos hallazgos son de aplicación inmediata: la retroalimentación dirigida a la persona —elogio o crítica sobre su capacidad— no mejora y puede perjudicar; y entregar nota y comentario juntos anula el efecto del comentario, porque la atención va a la nota.",
+    "practica": "El rediseño más simple y más eficaz consiste en separar en el tiempo el comentario de la calificación, y exigir una acción con el comentario antes de entregar la nota. Además, la retroalimentación debe ser específica y accionable: «mejora la coherencia» no orienta; «cada párrafo debe empezar con la idea y seguir con el ejemplo» sí.",
+    "limites": "La retroalimentación abundante no es mejor: sobrecarga y produce abandono. Y su efecto depende de que el estudiante tenga el conocimiento para interpretarla y una oportunidad real de aplicarla; sin trabajo posterior, el mejor comentario del mundo no cambia nada.",
+    "errores": [
+      "Entregar comentario y calificación al mismo tiempo.",
+      "Dirigir la retroalimentación a la persona —«eres desordenado»— en vez de a la tarea."
+    ],
+    "criterios": [
+      "existe una oportunidad real de usar la retroalimentación antes de la calificación final;",
+      "hay evidencia de que los estudiantes efectivamente la usaron;"
+    ],
+    "preguntas": [
+      "¿Qué hicieron tus estudiantes con tu último comentario?",
+      "¿Cuánto tiempo dedicas a corregir y cuánto de eso cambia algo?",
+      "¿Tu comentario habla de la tarea o de la persona?"
+    ],
+    "lecturas": [
+      [
+        "Hattie, J. & Timperley, H. (2007). *The Power of Feedback*.",
+        "modelo por niveles de retroalimentación y evidencia sobre cuáles funcionan."
+      ],
+      [
+        "Kluger, A. & DeNisi, A. (1996). *The Effects of Feedback Interventions on Performance*.",
+        "documenta que una proporción relevante de intervenciones de retroalimentación empeora el desempeño."
+      ]
+    ],
+    "inclusion": "La retroalimentación específica y accionable es especialmente decisiva para estudiantes sin apoyo académico externo: es la única guía que reciben sobre cómo mejorar, mientras otros la obtienen en casa.",
+    "reto": "Separa comentario y nota durante una unidad, con una entrega intermedia obligatoria. Compara la calidad de la versión final con la de la unidad anterior.",
+    "conexion": "Se apoya en la clase 134 y es la práctica que hace efectiva la evaluación formativa."
+  },
+  {
+    "n": 140,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué la validez no es una propiedad del instrumento sino de lo que se afirma con sus resultados",
+    "proposito": "Construir un argumento de validez para una evaluación: qué se pretende inferir, qué evidencia lo respalda, qué amenazas existen y qué consecuencias tiene su uso.",
+    "decision": "determinar qué afirmación puedes sostener con los resultados de tu evaluación y cuál no",
+    "entregable": "un argumento de validez de una evaluación con sus fuentes de evidencia y sus limitaciones declaradas",
+    "conceptos": [
+      [
+        "Validez",
+        "grado en que la evidencia respalda la interpretación y el uso propuestos de los puntajes"
+      ],
+      [
+        "Constructo",
+        "aquello que se pretende medir; casi nunca es directamente observable"
+      ],
+      [
+        "Subrepresentación",
+        "situación en que la evaluación cubre solo parte del constructo declarado"
+      ],
+      [
+        "Consecuencia del uso",
+        "efectos del uso de los resultados, que forman parte del juicio de validez"
+      ]
+    ],
+    "desarrollo": "Decir que una prueba «es válida» es un error conceptual: lo que puede ser válido es la interpretación que se hace de sus resultados para un uso determinado. La misma prueba puede sostener una inferencia y no otra. El argumento de validez consiste en explicitar qué se quiere afirmar, reunir evidencia que lo respalde —contenido, procesos, relaciones, consecuencias— y reconocer las amenazas que quedan sin controlar.",
+    "practica": "El ejercicio práctico es escribir la afirmación completa: «los resultados de esta evaluación permiten afirmar que el estudiante puede resolver problemas de este tipo, en estas condiciones, con este nivel de exigencia». Formulada así, la mayoría de las afirmaciones habituales resulta excesiva, y esa constatación cambia el uso que se les da.",
+    "limites": "La validación es un proceso continuo y nunca concluye: siempre hay evidencia adicional que podría reunirse. En el contexto escolar, el nivel de exigencia debe ser proporcional a la consecuencia: no se pide el mismo respaldo a un control de lectura que a una evaluación que decide la titulación.",
+    "errores": [
+      "Afirmar que un instrumento es válido en abstracto, sin referencia a interpretación ni uso.",
+      "Ignorar la subrepresentación: evaluar una parte del constructo y afirmar sobre el todo."
+    ],
+    "criterios": [
+      "el argumento declara la afirmación exacta que se pretende sostener;",
+      "las amenazas no controladas están explicitadas junto con sus consecuencias;"
+    ],
+    "preguntas": [
+      "¿Qué afirmas exactamente sobre un estudiante con este resultado?",
+      "¿Qué parte del constructo declarado no evalúa tu instrumento?",
+      "¿Qué consecuencia tiene el uso que le das a estos puntajes?"
+    ],
+    "lecturas": [
+      [
+        "Messick, S. (1989). *Validity*.",
+        "el capítulo que integra interpretación, uso y consecuencias en un solo concepto de validez."
+      ],
+      [
+        "Kane, M. (2013). *Validating the Interpretations and Uses of Test Scores*. Journal of Educational Measurement, 50(1).",
+        "desarrolla el enfoque de argumento de validez, directamente aplicable a evaluaciones propias."
+      ]
+    ],
+    "inclusion": "El análisis de validez incluye preguntar si el instrumento mide lo mismo en todos los grupos. Cuando un ítem funciona distinto para estudiantes con la misma capacidad pero distinto origen, la inferencia deja de ser válida para ellos.",
+    "reto": "Escribe el argumento de validez de tu evaluación más importante. Identifica la afirmación que hoy haces y que la evidencia no sostiene.",
+    "conexion": "Es el concepto central de la parte 11 y condiciona las clases 135, 136 y 144."
+  },
+  {
+    "n": 141,
+    "evidencia": "ROBUSTA",
+    "foco": "cuánto de la diferencia entre dos calificaciones es aprendizaje y cuánto es error de medida",
+    "proposito": "Comprender la confiabilidad y el error de medida, y su consecuencia práctica: qué diferencias entre puntajes son interpretables y cuáles están dentro del ruido.",
+    "decision": "determinar si la diferencia de puntaje que estás interpretando supera el error de medida",
+    "entregable": "un análisis de confiabilidad de una evaluación propia con la interpretación correcta de sus diferencias",
+    "conceptos": [
+      [
+        "Confiabilidad",
+        "consistencia de la medición; grado en que el resultado se repetiría en condiciones equivalentes"
+      ],
+      [
+        "Error estándar de medida",
+        "margen de incertidumbre asociado a un puntaje individual"
+      ],
+      [
+        "Consistencia interna",
+        "grado en que los ítems de una prueba miden lo mismo; se estima con coeficientes"
+      ],
+      [
+        "Acuerdo entre correctores",
+        "consistencia entre personas que evalúan el mismo desempeño"
+      ]
+    ],
+    "desarrollo": "Todo puntaje incluye error. La consecuencia práctica es incómoda: diferencias pequeñas entre estudiantes, o entre dos aplicaciones al mismo estudiante, pueden no significar nada. Interpretar una diferencia de dos décimas como progreso o como superioridad es un error técnico común y con consecuencias reales, porque sobre esas diferencias se toman decisiones de selección, agrupamiento y promoción.",
+    "practica": "El trabajo consiste en estimar la consistencia del instrumento y el acuerdo entre correctores cuando hay juicio humano, y usar esa información para decidir. La regla operativa: no interpretar diferencias menores que el error de medida, y no tomar decisiones importantes con una sola aplicación.",
+    "limites": "Los coeficientes de consistencia interna se usan mal con frecuencia: dependen del número de ítems y de la homogeneidad del contenido, y un valor alto no prueba que la prueba mida una sola cosa ni que mida lo correcto. Existen alternativas más adecuadas, y en cualquier caso la confiabilidad es condición necesaria y no suficiente de la validez.",
+    "errores": [
+      "Interpretar diferencias de puntaje menores que el error de medida.",
+      "Usar un coeficiente de consistencia interna como prueba de calidad del instrumento."
+    ],
+    "criterios": [
+      "el análisis reporta una estimación de consistencia y su interpretación correcta;",
+      "las decisiones propuestas consideran el error de medida;"
+    ],
+    "preguntas": [
+      "¿Qué diferencia de puntaje estás tratando como significativa?",
+      "¿Cuánto varía la nota del mismo trabajo entre dos correctores?",
+      "¿Qué decisión estás tomando con una sola medición?"
+    ],
+    "lecturas": [
+      [
+        "AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.",
+        "define confiabilidad y error de medida y su relación con el uso de los puntajes."
+      ],
+      [
+        "McNeish, D. (2018). *Thanks Coefficient Alpha, We'll Take It From Here*. Psychological Methods, 23(3).",
+        "expone los problemas del alfa y las alternativas disponibles."
+      ]
+    ],
+    "inclusion": "Las decisiones de selección basadas en diferencias mínimas afectan de forma desproporcionada a quienes están cerca del punto de corte, que suelen ser estudiantes en desventaja. Reconocer el error de medida es una exigencia de justicia además de técnica.",
+    "reto": "Estima el acuerdo entre correctores de una evaluación con juicio humano. Analiza qué decisiones tomabas con diferencias que están dentro del error.",
+    "conexion": "Complementa la clase 140 y sostiene la interpretación técnica de la clase 143."
+  },
+  {
+    "n": 142,
+    "evidencia": "ROBUSTA",
+    "foco": "qué te dicen los datos de una prueba aplicada sobre la calidad de sus preguntas",
+    "proposito": "Analizar técnicamente una prueba aplicada: dificultad, discriminación, comportamiento de distractores y detección de ítems defectuosos, para corregir el instrumento.",
+    "decision": "determinar qué ítems de tu prueba deben corregirse o eliminarse y por qué",
+    "entregable": "el análisis de ítems de una prueba real con decisiones de corrección fundamentadas en los datos",
+    "conceptos": [
+      [
+        "Índice de dificultad",
+        "proporción de estudiantes que responde correctamente un ítem"
+      ],
+      [
+        "Índice de discriminación",
+        "capacidad del ítem de diferenciar entre quienes dominan y quienes no el contenido"
+      ],
+      [
+        "Análisis de distractores",
+        "revisión de qué alternativas incorrectas fueron elegidas y por quiénes"
+      ],
+      [
+        "Ítem defectuoso",
+        "pregunta con discriminación nula o negativa, que introduce ruido en el puntaje"
+      ]
+    ],
+    "desarrollo": "Una prueba aplicada contiene información valiosa sobre sí misma. Un ítem que casi todos responden bien aporta poca información; uno que casi nadie responde bien puede estar mal formulado o evaluar algo no enseñado; y uno con discriminación negativa —que los mejores fallan más que los peores— casi siempre está mal construido o tiene clave incorrecta. Detectar esos casos toma minutos y mejora el instrumento de inmediato.",
+    "practica": "El análisis se puede hacer con una planilla: proporción de aciertos por ítem, comparación entre el tercio superior y el inferior, y frecuencia de elección de cada distractor. Los distractores que nadie elige no aportan nada; los que atraen a los estudiantes de mejor desempeño indican ambigüedad. Con esa información se corrige la prueba para su próxima aplicación.",
+    "limites": "Con grupos pequeños los índices son inestables y deben interpretarse con cautela: en un curso de treinta, las diferencias entre tercios son muy sensibles a pocos casos. Además, la dificultad óptima depende del propósito: una prueba de dominio puede y debe tener ítems fáciles si el criterio es que todos los logren.",
+    "errores": [
+      "Eliminar un ítem difícil sin revisar si el problema fue de enseñanza y no de construcción.",
+      "Interpretar índices de un curso pequeño como si fueran estables."
+    ],
+    "criterios": [
+      "el análisis reporta dificultad, discriminación y comportamiento de distractores;",
+      "cada decisión de corrección está fundamentada en los datos y no en la impresión;"
+    ],
+    "preguntas": [
+      "¿Qué ítem tuyo tiene discriminación negativa y por qué?",
+      "¿Qué distractor no eligió nadie y qué dice eso del ítem?",
+      "¿Un ítem que casi todos fallaron estaba mal hecho o mal enseñado?"
+    ],
+    "lecturas": [
+      [
+        "Crocker, L. & Algina (1986). *Introduction to Classical and Modern Test Theory*.",
+        "tratamiento estándar del análisis de ítems en teoría clásica."
+      ],
+      [
+        "Haladyna, T. (2004). *Developing and Validating Multiple-Choice Test Items*.",
+        "conecta construcción y análisis de ítems con criterios prácticos."
+      ]
+    ],
+    "inclusion": "El análisis por subgrupos permite detectar ítems que funcionan distinto para estudiantes con la misma competencia pero distinto origen o lengua. Revisarlo es parte del control de sesgo en cualquier instrumento con consecuencias.",
+    "reto": "Analiza los ítems de una prueba aplicada. Corrige los defectuosos y compara los índices en la siguiente aplicación.",
+    "conexion": "Cierra el ciclo de la clase 137 y prepara los conceptos de la clase 143."
+  },
+  {
+    "n": 143,
+    "evidencia": "ROBUSTA",
+    "foco": "qué permite hacer la teoría de respuesta al ítem que la teoría clásica no puede",
+    "proposito": "Comprender los fundamentos de la teoría clásica y de la teoría de respuesta al ítem para leer críticamente informes técnicos de evaluaciones estandarizadas nacionales e internacionales.",
+    "decision": "determinar qué se puede concluir de un informe técnico de una evaluación estandarizada y qué no",
+    "entregable": "la lectura crítica de un informe técnico real con las conclusiones que sostiene y las que lo exceden",
+    "conceptos": [
+      [
+        "Teoría clásica",
+        "modelo en que el puntaje observado es la suma de puntaje verdadero y error; sus índices dependen de la muestra"
+      ],
+      [
+        "Teoría de respuesta al ítem",
+        "modelo que estima habilidad de la persona y parámetros del ítem en una misma escala"
+      ],
+      [
+        "Invarianza",
+        "propiedad por la cual los parámetros no dependen de la muestra particular usada"
+      ],
+      [
+        "Equating",
+        "procedimiento que hace comparables puntajes de formas distintas de una prueba"
+      ]
+    ],
+    "desarrollo": "La teoría clásica es simple y suficiente para el trabajo de aula, con una limitación importante: sus índices dependen de la muestra, de modo que la dificultad de un ítem cambia según a quién se aplicó. La teoría de respuesta al ítem sitúa habilidad y dificultad en una misma escala y permite comparar entre formas distintas y entre años, que es lo que hace posible afirmar que un sistema mejoró.",
+    "practica": "El uso profesional para la mayoría de los docentes no es aplicar estos modelos sino leer informes que los usan. Saber qué significa un puntaje en escala, qué es el equating y qué supone la invarianza permite interpretar los resultados nacionales sin comprar la lectura simplificada del titular ni descartarlos por desconfianza.",
+    "limites": "Los modelos tienen supuestos fuertes —unidimensionalidad, independencia local— que rara vez se cumplen del todo, y su violación afecta las conclusiones. Además, la sofisticación técnica no corrige problemas de validez: una prueba técnicamente impecable puede estar midiendo un constructo mal definido.",
+    "errores": [
+      "Interpretar puntajes en escala como si fueran porcentajes de logro.",
+      "Suponer que la sofisticación técnica del modelo garantiza la validez del constructo."
+    ],
+    "criterios": [
+      "la lectura distingue conclusiones respaldadas por el informe de interpretaciones que lo exceden;",
+      "identifica al menos un supuesto del modelo y su posible incumplimiento;"
+    ],
+    "preguntas": [
+      "¿Qué significa realmente el puntaje que están comparando entre años?",
+      "¿Qué supuesto del modelo podría no cumplirse en esta población?",
+      "¿Qué afirmación del informe de prensa no está en el informe técnico?"
+    ],
+    "lecturas": [
+      [
+        "Embretson, S. & Reise, S. (2000). *Item Response Theory for Psychologists*.",
+        "introducción accesible y rigurosa a los modelos y sus supuestos."
+      ],
+      [
+        "Agencia de Calidad de la Educación (Chile). *Informes técnicos de las evaluaciones nacionales* (edición vigente).",
+        "material real para practicar la lectura crítica con datos del propio sistema."
+      ]
+    ],
+    "inclusion": "Los análisis de funcionamiento diferencial de ítems son la herramienta técnica para detectar sesgo cultural o lingüístico en pruebas de gran escala. Saber que existen permite exigir su reporte en cualquier evaluación con consecuencias.",
+    "reto": "Lee el informe técnico de una evaluación nacional y contrasta sus conclusiones con la cobertura de prensa. Documenta las tres afirmaciones que la prensa no puede sostener.",
+    "conexion": "Cierra la formación técnica de la parte y se conecta con la clase 011 sobre indicadores de calidad."
+  },
+  {
+    "n": 144,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se construye un sistema de evaluación coherente en vez de una colección de instrumentos",
+    "proposito": "Integrar la parte diseñando el sistema de evaluación completo de una asignatura: propósitos, instrumentos, calendario, criterios, retroalimentación y argumento de validez.",
+    "decision": "determinar el conjunto de decisiones de evaluación de tu asignatura y su justificación técnica",
+    "entregable": "el sistema de evaluación completo de una asignatura, con argumento de validez y análisis de su primera aplicación",
+    "conceptos": [
+      [
+        "Sistema de evaluación",
+        "conjunto articulado de propósitos, instrumentos y decisiones a lo largo de un curso"
+      ],
+      [
+        "Coherencia evaluativa",
+        "correspondencia entre resultados declarados, instrumentos y decisiones tomadas"
+      ],
+      [
+        "Carga evaluativa",
+        "tiempo total que la evaluación consume al estudiante y al docente"
+      ],
+      [
+        "Justicia procedimental",
+        "condiciones —criterios públicos, reglas conocidas, vías de revisión— que hacen defendible el sistema"
+      ]
+    ],
+    "desarrollo": "Un sistema de evaluación no es la suma de sus instrumentos: es una decisión sobre qué se mide, cuándo, con qué consecuencia y qué información devuelve a quién. Los sistemas mal diseñados concentran todo al final, evalúan lo mismo tres veces, dejan aprendizajes declarados sin medir y consumen más tiempo del que aportan. La coherencia se comprueba recorriendo la asignatura completa.",
+    "practica": "El diseño articula lo diagnóstico, lo formativo y lo sumativo con propósitos distintos y sin confundirlos; calendariza para que la retroalimentación llegue a tiempo de ser usada; y declara criterios y vías de revisión. La carga evaluativa debe calcularse: en muchos programas la evaluación consume más tiempo del estudiante que el estudio.",
+    "limites": "Un sistema bien diseñado mejora la calidad de la información y no garantiza aprendizaje. Y toda evaluación tiene efectos secundarios: orienta el estudio, define lo que se considera importante y produce ansiedad. Diseñar es también decidir qué efectos secundarios se está dispuesto a aceptar.",
+    "errores": [
+      "Acumular instrumentos sin revisar la carga total ni la redundancia entre ellos.",
+      "Diseñar el sistema sin declarar criterios públicos ni vías de revisión."
+    ],
+    "criterios": [
+      "el sistema cubre todos los resultados declarados sin redundancia innecesaria;",
+      "incluye argumento de validez para las evaluaciones con mayor consecuencia;"
+    ],
+    "preguntas": [
+      "¿Qué resultado de tu asignatura no se evalúa nunca?",
+      "¿Cuánto tiempo del estudiante consume tu sistema de evaluación?",
+      "¿Qué vía tiene un estudiante para impugnar una calificación en tu curso?"
+    ],
+    "lecturas": [
+      [
+        "AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.",
+        "referencia técnica para sostener el sistema en sus componentes de mayor consecuencia."
+      ],
+      [
+        "Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*.",
+        "articula evaluación y retroalimentación como sistema y no como eventos separados."
+      ]
+    ],
+    "inclusion": "Un sistema justo declara de antemano las adecuaciones disponibles, sus condiciones y su procedimiento, de modo que el estudiante no dependa de la buena voluntad del docente de turno para acceder a ellas.",
+    "reto": "Diseña el sistema completo, aplícalo un semestre y analiza su primera aplicación: cobertura, carga, uso de la retroalimentación y decisiones tomadas.",
+    "conexion": "Cierra la parte 11 integrando sus once clases previas y se conecta con las partes 09, 14 y 15."
+  }
 ]

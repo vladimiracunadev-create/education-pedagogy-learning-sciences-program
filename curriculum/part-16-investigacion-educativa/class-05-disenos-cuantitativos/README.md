@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*. | la referencia sobre amenazas a la validez y sobre qué controla cada diseño. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| What Works Clearinghouse. *Standards Handbook*. | criterios operativos para juzgar si un estudio sostiene una afirmación causal. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| What Works Clearinghouse. *Standards Handbook* (edición vigente). | criterios operativos para juzgar si un estudio sostiene una afirmación causal. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*. **Uso en esta clase:** la referencia sobre amenazas a la validez y sobre qué controla cada diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- What Works Clearinghouse. *Standards Handbook*. **Uso en esta clase:** criterios operativos para juzgar si un estudio sostiene una afirmación causal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- What Works Clearinghouse. *Standards Handbook* (edición vigente). **Uso en esta clase:** criterios operativos para juzgar si un estudio sostiene una afirmación causal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

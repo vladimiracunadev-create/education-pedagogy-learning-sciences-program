@@ -84,9 +84,9 @@ flowchart TB
 ## 📕 Lecturas de referencia de la parte
 
 - **Kounin, J. (1970). *Discipline and Group Management in Classrooms*.** — origen del hallazgo sobre prevención y percepción simultánea del grupo; sigue siendo la mejor descripción del mecanismo.
-- **Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers*.** — el manual operativo más completo: rutinas, transiciones y comienzo del año escolar.
-- **Mineduc / Superintendencia de Educación. *Política Nacional de Convivencia Educativa* y normativa sobre reglamentos internos.** — marco chileno vigente: obligaciones, protocolos y debido proceso.
-- **Ley 20.536 sobre violencia escolar y su normativa asociada.** — define responsabilidades del establecimiento; verifica su versión consolidada antes de aplicarla.
+- **Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers* (edición vigente).** — el manual operativo más completo: rutinas, transiciones y comienzo del año escolar.
+- **Mineduc / Superintendencia de Educación. *Política Nacional de Convivencia Educativa* y normativa sobre reglamentos internos (edición vigente).** — marco chileno vigente: obligaciones, protocolos y debido proceso.
+- **Ley 20.536 sobre violencia escolar y su normativa asociada (edición vigente).** — define responsabilidades del establecimiento; verifica su versión consolidada antes de aplicarla.
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

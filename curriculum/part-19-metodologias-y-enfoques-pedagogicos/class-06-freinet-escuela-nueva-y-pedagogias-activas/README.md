@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Freinet, C. *Técnicas Freinet de la Escuela Moderna*. | los dispositivos descritos por su autor, con su lógica de funcionamiento explícita. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Freinet, C. *Técnicas Freinet de la Escuela Moderna* (edición vigente). | los dispositivos descritos por su autor, con su lógica de funcionamiento explícita. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Dewey, J. (1916). *Democracy and Education*. | el fundamento filosófico de la actividad con propósito, que estas técnicas operacionalizan. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Freinet, C. *Técnicas Freinet de la Escuela Moderna*. **Uso en esta clase:** los dispositivos descritos por su autor, con su lógica de funcionamiento explícita. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Freinet, C. *Técnicas Freinet de la Escuela Moderna* (edición vigente). **Uso en esta clase:** los dispositivos descritos por su autor, con su lógica de funcionamiento explícita. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Dewey, J. (1916). *Democracy and Education*. **Uso en esta clase:** el fundamento filosófico de la actividad con propósito, que estas técnicas operacionalizan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

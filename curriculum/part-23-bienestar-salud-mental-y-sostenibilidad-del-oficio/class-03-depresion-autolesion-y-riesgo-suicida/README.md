@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Ministerio de Salud y Ministerio de Educación de Chile. *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales*. | el protocolo de referencia con sus pasos y obligaciones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Ministerio de Salud y Ministerio de Educación de Chile. *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales* (edición vigente). | el protocolo de referencia con sus pasos y obligaciones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Zalsman, G. et al. (2016). *Suicide Prevention Strategies Revisited*. | revisión de qué estrategias preventivas cuentan con evidencia y cuáles no. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ministerio de Salud y Ministerio de Educación de Chile. *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales*. **Uso en esta clase:** el protocolo de referencia con sus pasos y obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ministerio de Salud y Ministerio de Educación de Chile. *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales* (edición vigente). **Uso en esta clase:** el protocolo de referencia con sus pasos y obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Zalsman, G. et al. (2016). *Suicide Prevention Strategies Revisited*. **Uso en esta clase:** revisión de qué estrategias preventivas cuentan con evidencia y cuáles no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

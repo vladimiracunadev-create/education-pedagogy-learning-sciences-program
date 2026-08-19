@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*. | define la pertinencia cultural sin renunciar a la exigencia académica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile. | el marco institucional vigente y sus orientaciones curriculares. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile (edición vigente). | el marco institucional vigente y sus orientaciones curriculares. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*. **Uso en esta clase:** define la pertinencia cultural sin renunciar a la exigencia académica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile. **Uso en esta clase:** el marco institucional vigente y sus orientaciones curriculares. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco institucional vigente y sus orientaciones curriculares. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Mineduc. *Orientaciones para el trabajo colaborativo y la codocencia* (Programa de Integración Escolar). | define en Chile cómo se articulan docente de aula y profesionales de apoyo, con tiempos y funciones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Orientaciones para el trabajo colaborativo y la codocencia* (Programa de Integración Escolar) (edición vigente). | define en Chile cómo se articulan docente de aula y profesionales de apoyo, con tiempos y funciones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Hargreaves, A. & O'Connor, M. (2018). *Collaborative Professionalism*. | distingue colaboración real de reuniones frecuentes; útil para diseñar el trabajo conjunto y no solo declararlo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Orientaciones para el trabajo colaborativo y la codocencia* (Programa de Integración Escolar). **Uso en esta clase:** define en Chile cómo se articulan docente de aula y profesionales de apoyo, con tiempos y funciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Orientaciones para el trabajo colaborativo y la codocencia* (Programa de Integración Escolar) (edición vigente). **Uso en esta clase:** define en Chile cómo se articulan docente de aula y profesionales de apoyo, con tiempos y funciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Hargreaves, A. & O'Connor, M. (2018). *Collaborative Professionalism*. **Uso en esta clase:** distingue colaboración real de reuniones frecuentes; útil para diseñar el trabajo conjunto y no solo declararlo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

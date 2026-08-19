@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Wineburg, S. & McGrew, S. (2019). *Lateral Reading and the Nature of Expertise*. Teachers College Record. | muestra experimentalmente qué estrategia usan los verificadores profesionales y por qué la escuela enseña otra. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| UNESCO. *Marco de competencias digitales para docentes y estudiantes*. | referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| UNESCO. *Marco de competencias digitales para docentes y estudiantes* (edición vigente). | referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Wineburg, S. & McGrew, S. (2019). *Lateral Reading and the Nature of Expertise*. Teachers College Record. **Uso en esta clase:** muestra experimentalmente qué estrategia usan los verificadores profesionales y por qué la escuela enseña otra. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO. *Marco de competencias digitales para docentes y estudiantes*. **Uso en esta clase:** referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO. *Marco de competencias digitales para docentes y estudiantes* (edición vigente). **Uso en esta clase:** referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

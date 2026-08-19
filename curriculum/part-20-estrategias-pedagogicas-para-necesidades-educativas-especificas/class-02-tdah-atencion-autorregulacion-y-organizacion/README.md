@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*. | el modelo de autorregulación y sus implicancias directas para el diseño del aula. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| DuPaul, G. & Stoner, G. *ADHD in the Schools*. | el manual de intervenciones escolares con evidencia, organizado por tipo de apoyo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| DuPaul, G. & Stoner, G. *ADHD in the Schools* (edición vigente). | el manual de intervenciones escolares con evidencia, organizado por tipo de apoyo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*. **Uso en esta clase:** el modelo de autorregulación y sus implicancias directas para el diseño del aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- DuPaul, G. & Stoner, G. *ADHD in the Schools*. **Uso en esta clase:** el manual de intervenciones escolares con evidencia, organizado por tipo de apoyo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- DuPaul, G. & Stoner, G. *ADHD in the Schools* (edición vigente). **Uso en esta clase:** el manual de intervenciones escolares con evidencia, organizado por tipo de apoyo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

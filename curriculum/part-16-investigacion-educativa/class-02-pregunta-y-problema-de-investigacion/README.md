@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. | el mejor tratamiento del paso de un tema a una pregunta investigable. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). | el mejor tratamiento del paso de un tema a una pregunta investigable. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Maxwell, J. (2013). *Qualitative Research Design: An Interactive Approach*. | modelo interactivo que conecta propósito, pregunta, método y validez. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. **Uso en esta clase:** el mejor tratamiento del paso de un tema a una pregunta investigable. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** el mejor tratamiento del paso de un tema a una pregunta investigable. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Maxwell, J. (2013). *Qualitative Research Design: An Interactive Approach*. **Uso en esta clase:** modelo interactivo que conecta propósito, pregunta, método y validez. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

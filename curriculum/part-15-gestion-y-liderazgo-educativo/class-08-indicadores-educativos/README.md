@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Agencia de Calidad de la Educación (Chile). *Otros Indicadores de Calidad e informes técnicos*. | ejemplo institucional de ampliación de indicadores más allá del puntaje. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| OCDE. *Education at a Glance*. | definiciones y notas metodológicas útiles para construir indicadores comparables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Agencia de Calidad de la Educación (Chile). *Otros Indicadores de Calidad e informes técnicos* (edición vigente). | ejemplo institucional de ampliación de indicadores más allá del puntaje. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *Education at a Glance* (edición vigente). | definiciones y notas metodológicas útiles para construir indicadores comparables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Muller, J. (2018). *The Tyranny of Metrics*. | advierte qué ocurre cuando el indicador reemplaza al propósito que debía representar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Agencia de Calidad de la Educación (Chile). *Otros Indicadores de Calidad e informes técnicos*. **Uso en esta clase:** ejemplo institucional de ampliación de indicadores más allá del puntaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- OCDE. *Education at a Glance*. **Uso en esta clase:** definiciones y notas metodológicas útiles para construir indicadores comparables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Agencia de Calidad de la Educación (Chile). *Otros Indicadores de Calidad e informes técnicos* (edición vigente). **Uso en esta clase:** ejemplo institucional de ampliación de indicadores más allá del puntaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Education at a Glance* (edición vigente). **Uso en esta clase:** definiciones y notas metodológicas útiles para construir indicadores comparables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Muller, J. (2018). *The Tyranny of Metrics*. **Uso en esta clase:** advierte qué ocurre cuando el indicador reemplaza al propósito que debía representar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

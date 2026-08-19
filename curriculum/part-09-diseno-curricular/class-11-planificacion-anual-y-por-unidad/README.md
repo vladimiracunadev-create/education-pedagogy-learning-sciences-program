@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Mineduc. *Priorización curricular y orientaciones de planificación*. | referencia chilena sobre criterios de priorización de aprendizajes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Priorización curricular y orientaciones de planificación* (edición vigente). | referencia chilena sobre criterios de priorización de aprendizajes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. | aporta el criterio de distinguir lo esencial de lo deseable y de lo familiar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Priorización curricular y orientaciones de planificación*. **Uso en esta clase:** referencia chilena sobre criterios de priorización de aprendizajes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Priorización curricular y orientaciones de planificación* (edición vigente). **Uso en esta clase:** referencia chilena sobre criterios de priorización de aprendizajes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. **Uso en esta clase:** aporta el criterio de distinguir lo esencial de lo deseable y de lo familiar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Biesta, G. (2010). *Good Education in an Age of Measurement*. | argumenta que medir bien no responde qué es buena educación; el contrapeso necesario a los tableros. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Agencia de Calidad de la Educación (Chile). *Informes técnicos y Otros Indicadores de Calidad*. | muestra un intento institucional de ampliar la definición de calidad más allá del puntaje; léelo con sus notas técnicas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Agencia de Calidad de la Educación (Chile). *Informes técnicos y Otros Indicadores de Calidad* (edición vigente). | muestra un intento institucional de ampliar la definición de calidad más allá del puntaje; léelo con sus notas técnicas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Biesta, G. (2010). *Good Education in an Age of Measurement*. **Uso en esta clase:** argumenta que medir bien no responde qué es buena educación; el contrapeso necesario a los tableros. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Agencia de Calidad de la Educación (Chile). *Informes técnicos y Otros Indicadores de Calidad*. **Uso en esta clase:** muestra un intento institucional de ampliar la definición de calidad más allá del puntaje; léelo con sus notas técnicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Agencia de Calidad de la Educación (Chile). *Informes técnicos y Otros Indicadores de Calidad* (edición vigente). **Uso en esta clase:** muestra un intento institucional de ampliar la definición de calidad más allá del puntaje; léelo con sus notas técnicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

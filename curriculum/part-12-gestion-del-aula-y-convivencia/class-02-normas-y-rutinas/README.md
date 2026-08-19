@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers*. | protocolos de enseñanza de normas y rutinas para el comienzo del año. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers* (edición vigente). | protocolos de enseñanza de normas y rutinas para el comienzo del año. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Simonsen, B. et al. (2008). *Evidence-Based Practices in Classroom Management*. | revisión de prácticas con respaldo empírico, incluidas normas y rutinas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers*. **Uso en esta clase:** protocolos de enseñanza de normas y rutinas para el comienzo del año. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers* (edición vigente). **Uso en esta clase:** protocolos de enseñanza de normas y rutinas para el comienzo del año. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Simonsen, B. et al. (2008). *Evidence-Based Practices in Classroom Management*. **Uso en esta clase:** revisión de prácticas con respaldo empírico, incluidas normas y rutinas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

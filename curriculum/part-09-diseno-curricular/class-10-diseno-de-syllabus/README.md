@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. | modelo de syllabus alineado con resultados y evaluación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Sistema de créditos transferibles (SCT-Chile) y marcos de créditos internacionales. | base para estimar carga de trabajo del estudiante en horas reales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Sistema de créditos transferibles (SCT-Chile) y marcos de créditos internacionales (edición vigente). | base para estimar carga de trabajo del estudiante en horas reales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** modelo de syllabus alineado con resultados y evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sistema de créditos transferibles (SCT-Chile) y marcos de créditos internacionales. **Uso en esta clase:** base para estimar carga de trabajo del estudiante en horas reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Sistema de créditos transferibles (SCT-Chile) y marcos de créditos internacionales (edición vigente). **Uso en esta clase:** base para estimar carga de trabajo del estudiante en horas reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

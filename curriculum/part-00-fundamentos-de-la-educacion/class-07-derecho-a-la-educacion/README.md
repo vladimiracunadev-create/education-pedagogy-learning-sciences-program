@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Naciones Unidas (1989). *Convención sobre los Derechos del Niño*, arts. 28 y 29. | fija el contenido del derecho a la educación y el criterio de interés superior; es derecho vigente en Chile. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Biblioteca del Congreso Nacional de Chile. *Ley General de Educación* y *Ley de Inclusión Escolar*. | texto consolidado y vigente; consulta siempre la versión a la fecha en que aplicarás la medida. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Biblioteca del Congreso Nacional de Chile. *Ley General de Educación* y *Ley de Inclusión Escolar* (edición vigente). | texto consolidado y vigente; consulta siempre la versión a la fecha en que aplicarás la medida. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Naciones Unidas (1989). *Convención sobre los Derechos del Niño*, arts. 28 y 29. **Uso en esta clase:** fija el contenido del derecho a la educación y el criterio de interés superior; es derecho vigente en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Biblioteca del Congreso Nacional de Chile. *Ley General de Educación* y *Ley de Inclusión Escolar*. **Uso en esta clase:** texto consolidado y vigente; consulta siempre la versión a la fecha en que aplicarás la medida. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biblioteca del Congreso Nacional de Chile. *Ley General de Educación* y *Ley de Inclusión Escolar* (edición vigente). **Uso en esta clase:** texto consolidado y vigente; consulta siempre la versión a la fecha en que aplicarás la medida. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

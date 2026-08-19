@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. | el modelo de indicadores revisables aplicado a la planificación de apoyos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Decreto 83/2015, Ministerio de Educación de Chile. | el marco normativo del plan de adecuaciones y su exigencia de revisión. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). | el marco normativo del plan de adecuaciones y su exigencia de revisión. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** el modelo de indicadores revisables aplicado a la planificación de apoyos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Decreto 83/2015, Ministerio de Educación de Chile. **Uso en esta clase:** el marco normativo del plan de adecuaciones y su exigencia de revisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco normativo del plan de adecuaciones y su exigencia de revisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

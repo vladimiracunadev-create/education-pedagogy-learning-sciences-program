@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Informe Belmont y declaraciones internacionales sobre investigación con seres humanos. | principios de respeto, beneficencia y justicia que fundan los comités de ética. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Informe Belmont y declaraciones internacionales sobre investigación con seres humanos (edición vigente). | principios de respeto, beneficencia y justicia que fundan los comités de ética. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*. | muestra por qué las prácticas de reproducibilidad dejaron de ser opcionales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Informe Belmont y declaraciones internacionales sobre investigación con seres humanos. **Uso en esta clase:** principios de respeto, beneficencia y justicia que fundan los comités de ética. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Informe Belmont y declaraciones internacionales sobre investigación con seres humanos (edición vigente). **Uso en esta clase:** principios de respeto, beneficencia y justicia que fundan los comités de ética. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*. **Uso en esta clase:** muestra por qué las prácticas de reproducibilidad dejaron de ser opcionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

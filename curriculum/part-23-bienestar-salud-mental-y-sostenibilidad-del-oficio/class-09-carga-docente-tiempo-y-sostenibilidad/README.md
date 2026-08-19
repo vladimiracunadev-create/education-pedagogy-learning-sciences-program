@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. | sitúa la sobrecarga entre los determinantes organizacionales del desgaste. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| OCDE. *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje*. | datos comparados sobre distribución del tiempo de trabajo docente. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje* (edición vigente). | datos comparados sobre distribución del tiempo de trabajo docente. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. **Uso en esta clase:** sitúa la sobrecarga entre los determinantes organizacionales del desgaste. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- OCDE. *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje*. **Uso en esta clase:** datos comparados sobre distribución del tiempo de trabajo docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje* (edición vigente). **Uso en esta clase:** datos comparados sobre distribución del tiempo de trabajo docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

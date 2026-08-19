@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Zehr, H. *The Little Book of Restorative Justice*. | los principios del enfoque con sus condiciones y sus límites explícitos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Zehr, H. *The Little Book of Restorative Justice* (edición vigente). | los principios del enfoque con sus condiciones y sus límites explícitos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Salmivalli, C. (2010). *Bullying and the Peer Group*. | fundamenta por qué el enfoque restaurativo no aplica a situaciones de acoso sostenido. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Zehr, H. *The Little Book of Restorative Justice*. **Uso en esta clase:** los principios del enfoque con sus condiciones y sus límites explícitos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Zehr, H. *The Little Book of Restorative Justice* (edición vigente). **Uso en esta clase:** los principios del enfoque con sus condiciones y sus límites explícitos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Salmivalli, C. (2010). *Bullying and the Peer Group*. **Uso en esta clase:** fundamenta por qué el enfoque restaurativo no aplica a situaciones de acoso sostenido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

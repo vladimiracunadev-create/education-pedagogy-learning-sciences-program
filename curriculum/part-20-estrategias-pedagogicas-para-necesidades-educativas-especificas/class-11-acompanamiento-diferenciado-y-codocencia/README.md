@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Friend, M. & Cook, L. *Interactions: Collaboration Skills for School Professionals*. | los modelos de codocencia con sus condiciones de funcionamiento y sus fallas típicas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Decreto 170/2009, Ministerio de Educación de Chile. | el marco de los programas de integración escolar y las horas de coordinación exigidas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Friend, M. & Cook, L. *Interactions: Collaboration Skills for School Professionals* (edición vigente). | los modelos de codocencia con sus condiciones de funcionamiento y sus fallas típicas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Decreto 170/2009, Ministerio de Educación de Chile (edición vigente). | el marco de los programas de integración escolar y las horas de coordinación exigidas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Friend, M. & Cook, L. *Interactions: Collaboration Skills for School Professionals*. **Uso en esta clase:** los modelos de codocencia con sus condiciones de funcionamiento y sus fallas típicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Decreto 170/2009, Ministerio de Educación de Chile. **Uso en esta clase:** el marco de los programas de integración escolar y las horas de coordinación exigidas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Friend, M. & Cook, L. *Interactions: Collaboration Skills for School Professionals* (edición vigente). **Uso en esta clase:** los modelos de codocencia con sus condiciones de funcionamiento y sus fallas típicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Decreto 170/2009, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco de los programas de integración escolar y las horas de coordinación exigidas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

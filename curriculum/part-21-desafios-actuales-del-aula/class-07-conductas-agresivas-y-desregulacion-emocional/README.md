@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Greene, R. (2014). *Lost at School*. | el modelo de resolución colaborativa que reencuadra la conducta como habilidad ausente. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Colvin, G. & Sugai, G. *Managing the Cycle of Acting-Out Behavior in the Classroom*. | la descripción operativa del ciclo de escalada y de la intervención por fase. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Colvin, G. & Sugai, G. *Managing the Cycle of Acting-Out Behavior in the Classroom* (edición vigente). | la descripción operativa del ciclo de escalada y de la intervención por fase. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Greene, R. (2014). *Lost at School*. **Uso en esta clase:** el modelo de resolución colaborativa que reencuadra la conducta como habilidad ausente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Colvin, G. & Sugai, G. *Managing the Cycle of Acting-Out Behavior in the Classroom*. **Uso en esta clase:** la descripción operativa del ciclo de escalada y de la intervención por fase. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Colvin, G. & Sugai, G. *Managing the Cycle of Acting-Out Behavior in the Classroom* (edición vigente). **Uso en esta clase:** la descripción operativa del ciclo de escalada y de la intervención por fase. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

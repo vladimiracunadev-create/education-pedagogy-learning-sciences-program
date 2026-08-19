@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Meirieu, P. *Frankenstein educador* y trabajos sobre autoridad pedagógica. | distingue autoridad de autoritarismo y sitúa el problema en la relación educativa. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Meirieu, P. (1996). *Frankenstein educador*. | distingue autoridad de autoritarismo y sitúa el problema en la relación educativa. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Marzano, R. (2003). *Classroom Management That Works*. | sistematiza prácticas de relación y consistencia con evidencia observacional. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Meirieu, P. *Frankenstein educador* y trabajos sobre autoridad pedagógica. **Uso en esta clase:** distingue autoridad de autoritarismo y sitúa el problema en la relación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Meirieu, P. (1996). *Frankenstein educador*. **Uso en esta clase:** distingue autoridad de autoritarismo y sitúa el problema en la relación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Marzano, R. (2003). *Classroom Management That Works*. **Uso en esta clase:** sistematiza prácticas de relación y consistencia con evidencia observacional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

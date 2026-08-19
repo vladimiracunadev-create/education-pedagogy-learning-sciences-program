@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. | tratamiento de la construcción de problemas y de su justificación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). | tratamiento de la construcción de problemas y de su justificación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Dunleavy, P. (2003). *Authoring a PhD*. | orientación específica sobre delimitación y estructura del trabajo doctoral. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. **Uso en esta clase:** tratamiento de la construcción de problemas y de su justificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** tratamiento de la construcción de problemas y de su justificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Dunleavy, P. (2003). *Authoring a PhD*. **Uso en esta clase:** orientación específica sobre delimitación y estructura del trabajo doctoral. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

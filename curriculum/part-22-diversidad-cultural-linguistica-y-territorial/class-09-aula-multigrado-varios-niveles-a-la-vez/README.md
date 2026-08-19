@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*. | el diseño multigrado más documentado de América Latina, con sus materiales y su lógica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente). | el diseño multigrado más documentado de América Latina, con sus materiales y su lógica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Slavin, R. (2014). *Cooperative Learning and Academic Achievement*. | las condiciones bajo las cuales la tutoría entre pares produce aprendizaje en ambos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural*. **Uso en esta clase:** el diseño multigrado más documentado de América Latina, con sus materiales y su lógica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente). **Uso en esta clase:** el diseño multigrado más documentado de América Latina, con sus materiales y su lógica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Slavin, R. (2014). *Cooperative Learning and Academic Achievement*. **Uso en esta clase:** las condiciones bajo las cuales la tutoría entre pares produce aprendizaje en ambos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

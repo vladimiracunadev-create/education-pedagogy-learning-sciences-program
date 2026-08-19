@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Starratt, R. (2004). *Ethical Leadership*. | marco de ética directiva aplicado a instituciones educativas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc. *Marco para la Buena Dirección y el Liderazgo Escolar*. | estándares chilenos del ejercicio directivo, incluidas sus dimensiones éticas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Marco para la Buena Dirección y el Liderazgo Escolar* (edición vigente). | estándares chilenos del ejercicio directivo, incluidas sus dimensiones éticas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Starratt, R. (2004). *Ethical Leadership*. **Uso en esta clase:** marco de ética directiva aplicado a instituciones educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Marco para la Buena Dirección y el Liderazgo Escolar*. **Uso en esta clase:** estándares chilenos del ejercicio directivo, incluidas sus dimensiones éticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Marco para la Buena Dirección y el Liderazgo Escolar* (edición vigente). **Uso en esta clase:** estándares chilenos del ejercicio directivo, incluidas sus dimensiones éticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

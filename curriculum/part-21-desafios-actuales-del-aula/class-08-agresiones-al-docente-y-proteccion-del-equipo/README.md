@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Superintendencia de Educación de Chile. *Normativa sobre convivencia escolar y deberes del sostenedor*. | las obligaciones institucionales frente a hechos que afectan a trabajadores. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Superintendencia de Educación de Chile. *Normativa sobre convivencia escolar y deberes del sostenedor* (edición vigente). | las obligaciones institucionales frente a hechos que afectan a trabajadores. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. | conecta el desamparo institucional con el desgaste profesional posterior. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Superintendencia de Educación de Chile. *Normativa sobre convivencia escolar y deberes del sostenedor*. **Uso en esta clase:** las obligaciones institucionales frente a hechos que afectan a trabajadores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Superintendencia de Educación de Chile. *Normativa sobre convivencia escolar y deberes del sostenedor* (edición vigente). **Uso en esta clase:** las obligaciones institucionales frente a hechos que afectan a trabajadores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. **Uso en esta clase:** conecta el desamparo institucional con el desgaste profesional posterior. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

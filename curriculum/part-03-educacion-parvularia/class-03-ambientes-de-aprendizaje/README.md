@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Malaguzzi, L. y experiencia de Reggio Emilia. *El ambiente como tercer educador*. | fundamenta el espacio como agente pedagógico, con ejemplos de organización y documentación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Harms, T., Clifford, R. & Cryer, D. *Early Childhood Environment Rating Scale (ECERS)*. | instrumento estandarizado de evaluación de ambientes; útil como lista de verificación crítica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Edwards, C., Gandini, L. & Forman, G. (eds.) (1998). *The Hundred Languages of Children*. | fundamenta el espacio como agente pedagógico, con ejemplos de organización y documentación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Harms, T., Clifford, R. & Cryer, D. *Early Childhood Environment Rating Scale (ECERS)* (edición vigente). | instrumento estandarizado de evaluación de ambientes; útil como lista de verificación crítica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Malaguzzi, L. y experiencia de Reggio Emilia. *El ambiente como tercer educador*. **Uso en esta clase:** fundamenta el espacio como agente pedagógico, con ejemplos de organización y documentación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Harms, T., Clifford, R. & Cryer, D. *Early Childhood Environment Rating Scale (ECERS)*. **Uso en esta clase:** instrumento estandarizado de evaluación de ambientes; útil como lista de verificación crítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Edwards, C., Gandini, L. & Forman, G. (eds.) (1998). *The Hundred Languages of Children*. **Uso en esta clase:** fundamenta el espacio como agente pedagógico, con ejemplos de organización y documentación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Harms, T., Clifford, R. & Cryer, D. *Early Childhood Environment Rating Scale (ECERS)* (edición vigente). **Uso en esta clase:** instrumento estandarizado de evaluación de ambientes; útil como lista de verificación crítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

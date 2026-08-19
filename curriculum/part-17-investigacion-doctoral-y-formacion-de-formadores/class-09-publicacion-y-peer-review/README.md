@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Committee on Publication Ethics (COPE). *Guidelines*. | estándares sobre autoría, conflictos y mala conducta en publicación científica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Declaration on Research Assessment (DORA). | posición sobre el uso responsable de métricas en la evaluación de la investigación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Committee on Publication Ethics (COPE). *Guidelines* (edición vigente). | estándares sobre autoría, conflictos y mala conducta en publicación científica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Declaration on Research Assessment (DORA) (edición vigente). | posición sobre el uso responsable de métricas en la evaluación de la investigación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Ioannidis, J. (2005). *Why Most Published Research Findings Are False*. | obliga a leer la literatura publicada con criterio y no como verdad establecida. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Committee on Publication Ethics (COPE). *Guidelines*. **Uso en esta clase:** estándares sobre autoría, conflictos y mala conducta en publicación científica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Declaration on Research Assessment (DORA). **Uso en esta clase:** posición sobre el uso responsable de métricas en la evaluación de la investigación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Committee on Publication Ethics (COPE). *Guidelines* (edición vigente). **Uso en esta clase:** estándares sobre autoría, conflictos y mala conducta en publicación científica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Declaration on Research Assessment (DORA) (edición vigente). **Uso en esta clase:** posición sobre el uso responsable de métricas en la evaluación de la investigación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ioannidis, J. (2005). *Why Most Published Research Findings Are False*. **Uso en esta clase:** obliga a leer la literatura publicada con criterio y no como verdad establecida. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

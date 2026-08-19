@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Baker, R. & Inventado, P. *Educational Data Mining and Learning Analytics*. | panorama de métodos y de sus aplicaciones en investigación educativa. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Baker, R. & Inventado, P. (2014). *Educational Data Mining and Learning Analytics*. | panorama de métodos y de sus aplicaciones en investigación educativa. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*. | marco ético para investigación con datos de estudiantes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Baker, R. & Inventado, P. *Educational Data Mining and Learning Analytics*. **Uso en esta clase:** panorama de métodos y de sus aplicaciones en investigación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Baker, R. & Inventado, P. (2014). *Educational Data Mining and Learning Analytics*. **Uso en esta clase:** panorama de métodos y de sus aplicaciones en investigación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*. **Uso en esta clase:** marco ético para investigación con datos de estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

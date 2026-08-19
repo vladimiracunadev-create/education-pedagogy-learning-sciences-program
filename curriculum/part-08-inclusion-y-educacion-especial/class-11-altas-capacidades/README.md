@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Assouline, S. et al. (2015). *A Nation Empowered: Evidence Trumps the Excuses Holding Back America's Brightest Students*. | síntesis de la evidencia sobre aceleración y sus efectos reales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Renzulli, J. *The Schoolwide Enrichment Model*. | modelo operativo de enriquecimiento aplicable dentro del aula común. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Renzulli, J. *The Schoolwide Enrichment Model* (edición vigente). | modelo operativo de enriquecimiento aplicable dentro del aula común. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Assouline, S. et al. (2015). *A Nation Empowered: Evidence Trumps the Excuses Holding Back America's Brightest Students*. **Uso en esta clase:** síntesis de la evidencia sobre aceleración y sus efectos reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Renzulli, J. *The Schoolwide Enrichment Model*. **Uso en esta clase:** modelo operativo de enriquecimiento aplicable dentro del aula común. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Renzulli, J. *The Schoolwide Enrichment Model* (edición vigente). **Uso en esta clase:** modelo operativo de enriquecimiento aplicable dentro del aula común. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Ministerio de Educación de Chile. *Orientaciones para la elaboración de protocolos de actuación*. | el marco de actuación institucional y sus obligaciones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Ministerio de Educación de Chile. *Orientaciones para la elaboración de protocolos de actuación* (edición vigente). | el marco de actuación institucional y sus obligaciones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. | el efecto de la adversidad sostenida sobre el funcionamiento escolar, sin convertirlo en excusa. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ministerio de Educación de Chile. *Orientaciones para la elaboración de protocolos de actuación*. **Uso en esta clase:** el marco de actuación institucional y sus obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ministerio de Educación de Chile. *Orientaciones para la elaboración de protocolos de actuación* (edición vigente). **Uso en esta clase:** el marco de actuación institucional y sus obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. **Uso en esta clase:** el efecto de la adversidad sostenida sobre el funcionamiento escolar, sin convertirlo en excusa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

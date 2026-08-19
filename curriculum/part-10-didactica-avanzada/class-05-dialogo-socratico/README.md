@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Alexander, R. (2020). *A Dialogic Teaching Companion*. | marco y repertorio de enseñanza dialógica con criterios observables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Michaels, S. & O'Connor, C. *Talk Science Primer*. | protocolos concretos de conducción de discusión con encadenamiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Michaels, S. & O'Connor, C. (2012). *Talk Science Primer*. | protocolos concretos de conducción de discusión con encadenamiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Alexander, R. (2020). *A Dialogic Teaching Companion*. **Uso en esta clase:** marco y repertorio de enseñanza dialógica con criterios observables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Michaels, S. & O'Connor, C. *Talk Science Primer*. **Uso en esta clase:** protocolos concretos de conducción de discusión con encadenamiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Michaels, S. & O'Connor, C. (2012). *Talk Science Primer*. **Uso en esta clase:** protocolos concretos de conducción de discusión con encadenamiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

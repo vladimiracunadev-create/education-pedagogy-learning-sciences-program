@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Graham, S. & Perin, D. (2007). *Writing Next*. | la síntesis que ordena qué prácticas de escritura tienen respaldo y con qué magnitud. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Graham, S. & Harris, K. *Self-Regulated Strategy Development*. | el modelo de enseñanza explícita del proceso de escribir con andamiaje decreciente. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Graham, S. & Harris, K. (2005). *Writing Better: Effective Strategies for Teaching Students with Learning Difficulties*. | el modelo de enseñanza explícita del proceso de escribir con andamiaje decreciente. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Graham, S. & Perin, D. (2007). *Writing Next*. **Uso en esta clase:** la síntesis que ordena qué prácticas de escritura tienen respaldo y con qué magnitud. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Graham, S. & Harris, K. *Self-Regulated Strategy Development*. **Uso en esta clase:** el modelo de enseñanza explícita del proceso de escribir con andamiaje decreciente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Graham, S. & Harris, K. (2005). *Writing Better: Effective Strategies for Teaching Students with Learning Difficulties*. **Uso en esta clase:** el modelo de enseñanza explícita del proceso de escribir con andamiaje decreciente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

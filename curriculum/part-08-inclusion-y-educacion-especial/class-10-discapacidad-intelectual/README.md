@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| AAIDD. *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports*. | define la discapacidad intelectual desde los apoyos necesarios y no desde el déficit. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| AAIDD. *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports* (edición vigente). | define la discapacidad intelectual desde los apoyos necesarios y no desde el déficit. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Browder, D. & Spooner, F. (2011). *Teaching Students with Moderate and Severe Disabilities*. | enseñanza académica con evidencia para estudiantes con necesidades de apoyo extensas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- AAIDD. *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports*. **Uso en esta clase:** define la discapacidad intelectual desde los apoyos necesarios y no desde el déficit. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- AAIDD. *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports* (edición vigente). **Uso en esta clase:** define la discapacidad intelectual desde los apoyos necesarios y no desde el déficit. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Browder, D. & Spooner, F. (2011). *Teaching Students with Moderate and Severe Disabilities*. **Uso en esta clase:** enseñanza académica con evidencia para estudiantes con necesidades de apoyo extensas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

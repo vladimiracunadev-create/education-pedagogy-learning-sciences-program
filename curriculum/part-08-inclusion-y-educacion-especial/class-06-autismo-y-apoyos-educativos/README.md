@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Ley 21.545 (Chile, 2023) sobre atención integral de personas con trastorno del espectro autista. | define obligaciones del sistema educativo; verifica su reglamentación vigente. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| National Autism Center / National Clearinghouse. *Reportes sobre prácticas basadas en evidencia*. | clasifican intervenciones por nivel de respaldo; útiles para descartar ofertas sin evidencia. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Ley 21.545 (Chile, 2023) sobre atención integral de personas con trastorno del espectro autista (edición vigente). | define obligaciones del sistema educativo; verifica su reglamentación vigente. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| National Autism Center / National Clearinghouse. *Reportes sobre prácticas basadas en evidencia* (edición vigente). | clasifican intervenciones por nivel de respaldo; útiles para descartar ofertas sin evidencia. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Lord, C., Elsabbagh, M., Baird, G. & Veenstra-Vanderweele, J. (2018). *Autism Spectrum Disorder*, The Lancet. | revisión que ordena lo que se sabe sobre el espectro y advierte sobre intervenciones sin respaldo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ley 21.545 (Chile, 2023) sobre atención integral de personas con trastorno del espectro autista. **Uso en esta clase:** define obligaciones del sistema educativo; verifica su reglamentación vigente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- National Autism Center / National Clearinghouse. *Reportes sobre prácticas basadas en evidencia*. **Uso en esta clase:** clasifican intervenciones por nivel de respaldo; útiles para descartar ofertas sin evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ley 21.545 (Chile, 2023) sobre atención integral de personas con trastorno del espectro autista (edición vigente). **Uso en esta clase:** define obligaciones del sistema educativo; verifica su reglamentación vigente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- National Autism Center / National Clearinghouse. *Reportes sobre prácticas basadas en evidencia* (edición vigente). **Uso en esta clase:** clasifican intervenciones por nivel de respaldo; útiles para descartar ofertas sin evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Lord, C., Elsabbagh, M., Baird, G. & Veenstra-Vanderweele, J. (2018). *Autism Spectrum Disorder*, The Lancet. **Uso en esta clase:** revisión que ordena lo que se sabe sobre el espectro y advierte sobre intervenciones sin respaldo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*. | modelo de supervisión con acuerdos, etapas y criterios. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Committee on Publication Ethics (COPE). *Guidelines*. | criterios sobre autoría y contribución aplicables también a la relación de dirección. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Committee on Publication Ethics (COPE). *Guidelines* (edición vigente). | criterios sobre autoría y contribución aplicables también a la relación de dirección. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*. **Uso en esta clase:** modelo de supervisión con acuerdos, etapas y criterios. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Committee on Publication Ethics (COPE). *Guidelines*. **Uso en esta clase:** criterios sobre autoría y contribución aplicables también a la relación de dirección. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Committee on Publication Ethics (COPE). *Guidelines* (edición vigente). **Uso en esta clase:** criterios sobre autoría y contribución aplicables también a la relación de dirección. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Young, M. (2013). *Overcoming the Crisis in Curriculum Theory: A Knowledge-Based Approach*. | la crítica más consistente al desplazamiento del conocimiento disciplinar; obligatoria para discutir con seriedad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Le Boterf, G. *Construir las competencias individuales y colectivas*. | formulación operativa del enfoque por competencias en formación profesional. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Le Boterf, G. *Construir las competencias individuales y colectivas* (edición vigente). | formulación operativa del enfoque por competencias en formación profesional. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Young, M. (2013). *Overcoming the Crisis in Curriculum Theory: A Knowledge-Based Approach*. **Uso en esta clase:** la crítica más consistente al desplazamiento del conocimiento disciplinar; obligatoria para discutir con seriedad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Le Boterf, G. *Construir las competencias individuales y colectivas*. **Uso en esta clase:** formulación operativa del enfoque por competencias en formación profesional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Le Boterf, G. *Construir las competencias individuales y colectivas* (edición vigente). **Uso en esta clase:** formulación operativa del enfoque por competencias en formación profesional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

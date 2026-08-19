@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Wang, M.-T. & Degol, J. (2016). *School Climate: A Review of the Construct, Measurement, and Impact*. | sistematiza qué es el clima, cómo se mide y qué efectos tiene documentados. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Pianta, R. et al. *Classroom Assessment Scoring System (CLASS)*. | instrumento observacional que operacionaliza el clima en interacciones concretas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Pianta, R. et al. *Classroom Assessment Scoring System (CLASS)* (edición vigente). | instrumento observacional que operacionaliza el clima en interacciones concretas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Wang, M.-T. & Degol, J. (2016). *School Climate: A Review of the Construct, Measurement, and Impact*. **Uso en esta clase:** sistematiza qué es el clima, cómo se mide y qué efectos tiene documentados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Pianta, R. et al. *Classroom Assessment Scoring System (CLASS)*. **Uso en esta clase:** instrumento observacional que operacionaliza el clima en interacciones concretas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Pianta, R. et al. *Classroom Assessment Scoring System (CLASS)* (edición vigente). **Uso en esta clase:** instrumento observacional que operacionaliza el clima en interacciones concretas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

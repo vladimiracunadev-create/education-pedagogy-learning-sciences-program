@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*. | separa intervención específica de apoyo de acceso, que la escuela suele confundir. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Decreto 83/2015, Ministerio de Educación de Chile. | define adecuaciones de acceso y su alcance en la evaluación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). | define adecuaciones de acceso y su alcance en la evaluación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*. **Uso en esta clase:** separa intervención específica de apoyo de acceso, que la escuela suele confundir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Decreto 83/2015, Ministerio de Educación de Chile. **Uso en esta clase:** define adecuaciones de acceso y su alcance en la evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** define adecuaciones de acceso y su alcance en la evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

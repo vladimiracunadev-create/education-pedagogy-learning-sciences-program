@@ -148,7 +148,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Mineduc. *Decreto 170/2009* y *Decreto 83/2015*. | definen en Chile evaluación diagnóstica, apoyos y adecuaciones curriculares vigentes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Decreto 170/2009* y *Decreto 83/2015* (edición vigente). | definen en Chile evaluación diagnóstica, apoyos y adecuaciones curriculares vigentes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | Florian, L. (2014). *What Counts as Evidence of Inclusive Education?* | discute el uso pedagógico de las categorías diagnósticas y sus riesgos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
@@ -333,7 +333,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Decreto 170/2009* y *Decreto 83/2015*. **Uso en esta clase:** definen en Chile evaluación diagnóstica, apoyos y adecuaciones curriculares vigentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Decreto 170/2009* y *Decreto 83/2015* (edición vigente). **Uso en esta clase:** definen en Chile evaluación diagnóstica, apoyos y adecuaciones curriculares vigentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - Florian, L. (2014). *What Counts as Evidence of Inclusive Education?* **Uso en esta clase:** discute el uso pedagógico de las categorías diagnósticas y sus riesgos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·

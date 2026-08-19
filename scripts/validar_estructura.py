@@ -237,6 +237,75 @@ def metricas() -> dict[str, int]:
     }
 
 
+# Marcas de fuente institucional o normativa: útiles y necesarias, pero no
+# sustituyen a un libro o a un artículo cuando la clase afirma algo sobre
+# cómo se aprende o cómo se enseña.
+INSTITUCIONALES = (
+    "mineduc", "ministerio", "biblioteca del congreso", "agencia de calidad",
+    "superintendencia", "ocde", "unesco", "unicef", "organización", "organizacion",
+    "comisión europea", "comision europea", "banco mundial", "foro económico",
+    "education endowment", "casel", "cast", "ley ", "decreto ", "convención",
+    "convencion", "national autism", "programa de educación", "sistema de créditos",
+    "sistema de creditos", "normativa", "informe belmont", "declaration on research",
+    "tuning", "aera", "who", "oit", "unevoc", "w3c", "aaidd", "comisión nacional",
+    "comision nacional", "subsecretaría", "subsecretaria", "center on the developing",
+    "international center for academic", "committee on publication", "what works clearinghouse",
+)
+
+# Una fuente sirve para volver a ella. Se exige año de publicación o, para los
+# documentos vivos, la marca explícita de que se cita la versión en curso.
+ANIO = re.compile(r"\((?:\d{4}[a-z]?|eds?\.,? ?\d{4}|edición vigente|version vigente)\)")
+VIGENTE = "edición vigente"
+
+
+def es_institucional(cita: str) -> bool:
+    minuscula = cita.strip().lower()
+    return any(minuscula.startswith(marca) for marca in INSTITUCIONALES)
+
+
+def validar_fuentes(fallos: list[str]) -> int:
+    """Cada clase debe declarar fuentes identificables y volver a ellas debe ser posible.
+
+    Tres reglas, en orden de importancia:
+
+    1. toda cita permite localizar la obra: tiene año o declara versión vigente;
+    2. ninguna clase se apoya solo en documentos institucionales: al menos un
+       libro o artículo respalda lo que la clase afirma;
+    3. toda obra citada aparece en el índice generado de obras citadas.
+    """
+    citas = 0
+    indice = (RAIZ / "docs" / "OBRAS_CITADAS.md")
+    texto_indice = indice.read_text(encoding="utf-8") if indice.exists() else ""
+    if not texto_indice:
+        error(fallos, "falta docs/OBRAS_CITADAS.md: ejecuta scripts/generar_indice.py")
+
+    for archivo in sorted((MANIFIESTOS / "classes").glob("*.json")):
+        for registro in json.loads(archivo.read_text(encoding="utf-8")):
+            numero = registro["n"]
+            lecturas = registro.get("lecturas", [])
+            if not 2 <= len(lecturas) <= 3:
+                error(fallos, f"clase {numero:03d}: cita {len(lecturas)} obras y debe citar 2 o 3")
+            academicas = 0
+            for cita, lente in lecturas:
+                citas += 1
+                cita = cita.strip()
+                if not ANIO.search(cita):
+                    error(fallos, f"clase {numero:03d}: cita sin año ni «{VIGENTE}» → {cita[:70]}")
+                if len(lente.strip()) < 25:
+                    error(fallos, f"clase {numero:03d}: el lente de «{cita[:40]}» no explica qué aporta")
+                if not es_institucional(cita):
+                    academicas += 1
+                if texto_indice and cita.rstrip(".") not in texto_indice:
+                    error(fallos, f"clase {numero:03d}: obra ausente del índice → {cita[:60]}")
+            if lecturas and academicas == 0:
+                error(
+                    fallos,
+                    f"clase {numero:03d}: se apoya solo en fuentes institucionales; "
+                    "falta un libro o artículo",
+                )
+    return citas
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--resumen", action="store_true", help="imprime métricas del repositorio")
@@ -252,6 +321,7 @@ def main() -> int:
     guias = validar_rutas_por_rol(fallos)
     enlaces = validar_enlaces(fallos)
     validar_manifiestos(fallos)
+    citas = validar_fuentes(fallos)
 
     if fallos:
         print(f"FALLÓ: {len(fallos)} problema(s) de estructura.")
@@ -262,7 +332,7 @@ def main() -> int:
         return 1
 
     print(f"OK: {len(partes)} partes, {len(clases)} clases, {guias} guías de rol, "
-          f"{enlaces} enlaces internos verificados.")
+          f"{citas} citas con fuente, {enlaces} enlaces internos verificados.")
     if args.resumen:
         for clave, valor in metricas().items():
             print(f"  {clave}: {valor:,}".replace(",", "."))

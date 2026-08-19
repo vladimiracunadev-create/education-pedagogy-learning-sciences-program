@@ -57,12 +57,30 @@
       "el plan lector del establecimiento, ejecutable por un docente que llega nuevo."
     ],
     "contextos": [
-      ["Nivel de transición en jardín", "el trabajo es oral y fonológico, no de lápiz y papel"],
-      ["Primero y segundo básico", "es la ventana donde la enseñanza sistemática rinde más"],
-      ["Tercero y cuarto básico", "hay que enseñar a leer y avanzar en contenido al mismo tiempo"],
-      ["Curso con lectores muy dispares", "la respuesta es agrupamiento flexible, no una sola clase para todos"],
-      ["Escuela rural multigrado", "la práctica de fluidez se organiza en parejas y turnos"],
-      ["Educación media con deuda lectora", "se interviene por componentes, sin infantilizar el material"]
+      [
+        "Nivel de transición en jardín",
+        "el trabajo es oral y fonológico, no de lápiz y papel"
+      ],
+      [
+        "Primero y segundo básico",
+        "es la ventana donde la enseñanza sistemática rinde más"
+      ],
+      [
+        "Tercero y cuarto básico",
+        "hay que enseñar a leer y avanzar en contenido al mismo tiempo"
+      ],
+      [
+        "Curso con lectores muy dispares",
+        "la respuesta es agrupamiento flexible, no una sola clase para todos"
+      ],
+      [
+        "Escuela rural multigrado",
+        "la práctica de fluidez se organiza en parejas y turnos"
+      ],
+      [
+        "Educación media con deuda lectora",
+        "se interviene por componentes, sin infantilizar el material"
+      ]
     ]
   },
   {
@@ -123,12 +141,30 @@
       "la decisión metodológica final con su plan de verificación."
     ],
     "contextos": [
-      ["Curso con base débil en el contenido", "la guía alta no es conservadurismo: es lo que la evidencia indica"],
-      ["Curso avanzado o electivo", "aquí la guía excesiva estorba y conviene abrir"],
-      ["Asignatura procedimental o taller", "modelamiento y práctica deliberada antes que proyecto abierto"],
-      ["Establecimiento que adopta un enfoque institucional", "hay que negociar condiciones, no solo aceptar la decisión"],
-      ["Formación de adultos", "la experiencia previa cambia el punto de partida de cualquier método"],
-      ["Aula con recursos limitados", "el costo de implementación es parte del criterio, no un detalle"]
+      [
+        "Curso con base débil en el contenido",
+        "la guía alta no es conservadurismo: es lo que la evidencia indica"
+      ],
+      [
+        "Curso avanzado o electivo",
+        "aquí la guía excesiva estorba y conviene abrir"
+      ],
+      [
+        "Asignatura procedimental o taller",
+        "modelamiento y práctica deliberada antes que proyecto abierto"
+      ],
+      [
+        "Establecimiento que adopta un enfoque institucional",
+        "hay que negociar condiciones, no solo aceptar la decisión"
+      ],
+      [
+        "Formación de adultos",
+        "la experiencia previa cambia el punto de partida de cualquier método"
+      ],
+      [
+        "Aula con recursos limitados",
+        "el costo de implementación es parte del criterio, no un detalle"
+      ]
     ]
   },
   {
@@ -170,7 +206,7 @@
         "el TDAH como problema de autorregulación y no de voluntad, con implicancias directas de aula."
       ],
       [
-        "Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down*.",
+        "Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down* (edición vigente).",
         "perfil de aprendizaje específico —fortaleza visual, memoria verbal a corto plazo más frágil— y qué hacer con él."
       ],
       [
@@ -189,12 +225,30 @@
       "el plan de apoyo completo con evidencia de seguimiento y decisión de ajuste."
     ],
     "contextos": [
-      ["Aula común con un solo docente", "hay que priorizar apoyos que no exijan un adulto extra"],
-      ["Aula con programa de integración", "el problema suele ser de coordinación, no de conocimiento"],
-      ["Educación parvularia", "el apoyo se juega en la rutina y el ambiente, no en la ficha"],
-      ["Educación media", "la autonomía y la identidad del estudiante entran en la decisión"],
-      ["Educación técnico-profesional", "el taller exige resolver acceso y seguridad al mismo tiempo"],
-      ["Educación superior", "los apoyos se negocian con el estudiante adulto, que decide qué declara"]
+      [
+        "Aula común con un solo docente",
+        "hay que priorizar apoyos que no exijan un adulto extra"
+      ],
+      [
+        "Aula con programa de integración",
+        "el problema suele ser de coordinación, no de conocimiento"
+      ],
+      [
+        "Educación parvularia",
+        "el apoyo se juega en la rutina y el ambiente, no en la ficha"
+      ],
+      [
+        "Educación media",
+        "la autonomía y la identidad del estudiante entran en la decisión"
+      ],
+      [
+        "Educación técnico-profesional",
+        "el taller exige resolver acceso y seguridad al mismo tiempo"
+      ],
+      [
+        "Educación superior",
+        "los apoyos se negocian con el estudiante adulto, que decide qué declara"
+      ]
     ]
   },
   {
@@ -255,12 +309,30 @@
       "el plan de convivencia con tres indicadores y su responsable de medición."
     ],
     "contextos": [
-      ["Curso de segundo ciclo básico", "la intervención temprana todavía cambia la trayectoria"],
-      ["Curso de educación media", "la legitimidad del procedimiento decide si funciona"],
-      ["Establecimiento sin equipo psicosocial", "hay que resolver con red externa y protocolo claro"],
-      ["Aula numerosa", "las respuestas individuales no escalan: se diseña para el grupo"],
-      ["Educación técnico-profesional", "el taller agrega riesgo físico a cualquier escalada"],
-      ["Contexto de alta vulnerabilidad", "la derivación es parte del trabajo, no una excepción"]
+      [
+        "Curso de segundo ciclo básico",
+        "la intervención temprana todavía cambia la trayectoria"
+      ],
+      [
+        "Curso de educación media",
+        "la legitimidad del procedimiento decide si funciona"
+      ],
+      [
+        "Establecimiento sin equipo psicosocial",
+        "hay que resolver con red externa y protocolo claro"
+      ],
+      [
+        "Aula numerosa",
+        "las respuestas individuales no escalan: se diseña para el grupo"
+      ],
+      [
+        "Educación técnico-profesional",
+        "el taller agrega riesgo físico a cualquier escalada"
+      ],
+      [
+        "Contexto de alta vulnerabilidad",
+        "la derivación es parte del trabajo, no una excepción"
+      ]
     ]
   },
   {
@@ -321,12 +393,30 @@
       "el plan de pertinencia cultural y territorial con uso declarado de recursos."
     ],
     "contextos": [
-      ["Escuela urbana con alta matrícula migrante", "la acogida lingüística no puede depender de un docente voluntario"],
-      ["Escuela con población mapuche o aymara", "la lengua y el territorio son contenido, no decoración"],
-      ["Escuela rural multigrado", "la planificación por tarea común es la única sostenible"],
-      ["Liceo técnico-profesional", "la pertinencia se juega también en el vínculo con el territorio productivo"],
-      ["Establecimiento particular subvencionado", "el financiamiento condiciona lo que se puede sostener en el tiempo"],
-      ["Educación de adultos", "la trayectoria interrumpida es la norma y no la excepción"]
+      [
+        "Escuela urbana con alta matrícula migrante",
+        "la acogida lingüística no puede depender de un docente voluntario"
+      ],
+      [
+        "Escuela con población mapuche o aymara",
+        "la lengua y el territorio son contenido, no decoración"
+      ],
+      [
+        "Escuela rural multigrado",
+        "la planificación por tarea común es la única sostenible"
+      ],
+      [
+        "Liceo técnico-profesional",
+        "la pertinencia se juega también en el vínculo con el territorio productivo"
+      ],
+      [
+        "Establecimiento particular subvencionado",
+        "el financiamiento condiciona lo que se puede sostener en el tiempo"
+      ],
+      [
+        "Educación de adultos",
+        "la trayectoria interrumpida es la norma y no la excepción"
+      ]
     ]
   },
   {
@@ -387,12 +477,30 @@
       "el plan de bienestar escolar con compromisos institucionales verificables."
     ],
     "contextos": [
-      ["Curso de educación media", "es donde aparecen la mayoría de los cuadros de mayor riesgo"],
-      ["Educación básica", "la señal suele ser conductual antes que verbal"],
-      ["Establecimiento sin dupla psicosocial", "el protocolo debe apoyarse en red externa desde el diseño"],
-      ["Equipo con alta rotación", "el bienestar se pierde primero en la transmisión de lo acordado"],
-      ["Educación superior", "el estudiante es adulto y decide qué declara y qué apoyo acepta"],
-      ["Comunidad tras una crisis", "la postvención tiene reglas propias y plazos que no se improvisan"]
+      [
+        "Curso de educación media",
+        "es donde aparecen la mayoría de los cuadros de mayor riesgo"
+      ],
+      [
+        "Educación básica",
+        "la señal suele ser conductual antes que verbal"
+      ],
+      [
+        "Establecimiento sin dupla psicosocial",
+        "el protocolo debe apoyarse en red externa desde el diseño"
+      ],
+      [
+        "Equipo con alta rotación",
+        "el bienestar se pierde primero en la transmisión de lo acordado"
+      ],
+      [
+        "Educación superior",
+        "el estudiante es adulto y decide qué declara y qué apoyo acepta"
+      ],
+      [
+        "Comunidad tras una crisis",
+        "la postvención tiene reglas propias y plazos que no se improvisan"
+      ]
     ]
   },
   {
@@ -453,12 +561,30 @@
       "la propuesta de adaptación fundamentada, con lo descartado explicitado."
     ],
     "contextos": [
-      ["Equipo directivo evaluando una reforma interna", "la pregunta es qué condición local haría fracasar el traslado"],
-      ["Docente de aula", "el interés está en la práctica concreta, no en la política del país"],
-      ["Formación inicial docente", "los sistemas de referencia se estudian por su modelo de formación"],
-      ["Investigación educativa", "la comparación exige equivalencia funcional antes que semejanza"],
-      ["Sostenedor o municipio", "la escala local decide qué es realmente adoptable"],
-      ["Discusión pública", "la exigencia es no usar un país como eslogan"]
+      [
+        "Equipo directivo evaluando una reforma interna",
+        "la pregunta es qué condición local haría fracasar el traslado"
+      ],
+      [
+        "Docente de aula",
+        "el interés está en la práctica concreta, no en la política del país"
+      ],
+      [
+        "Formación inicial docente",
+        "los sistemas de referencia se estudian por su modelo de formación"
+      ],
+      [
+        "Investigación educativa",
+        "la comparación exige equivalencia funcional antes que semejanza"
+      ],
+      [
+        "Sostenedor o municipio",
+        "la escala local decide qué es realmente adoptable"
+      ],
+      [
+        "Discusión pública",
+        "la exigencia es no usar un país como eslogan"
+      ]
     ]
   }
 ]

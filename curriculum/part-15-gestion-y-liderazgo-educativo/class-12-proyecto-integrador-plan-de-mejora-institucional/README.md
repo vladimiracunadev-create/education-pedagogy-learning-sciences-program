@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Bryk, A. et al. (2015). *Learning to Improve*. | método de mejora por ciclos aplicable a la estructura del plan. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo*. | marco chileno con sus requisitos formales y su lógica de ciclos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente). | marco chileno con sus requisitos formales y su lógica de ciclos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** método de mejora por ciclos aplicable a la estructura del plan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo*. **Uso en esta clase:** marco chileno con sus requisitos formales y su lógica de ciclos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente). **Uso en esta clase:** marco chileno con sus requisitos formales y su lógica de ciclos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

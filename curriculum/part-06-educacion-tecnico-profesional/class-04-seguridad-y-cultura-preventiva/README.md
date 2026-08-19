@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Organización Internacional del Trabajo. *Directrices sobre sistemas de gestión de la seguridad y salud en el trabajo*. | marco internacional de referencia para la jerarquía de medidas de control. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Superintendencia de Seguridad Social y normativa chilena de seguridad y salud en el trabajo. | obligaciones vigentes aplicables a establecimientos y a estudiantes en práctica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Organización Internacional del Trabajo. *Directrices sobre sistemas de gestión de la seguridad y salud en el trabajo* (edición vigente). | marco internacional de referencia para la jerarquía de medidas de control. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Superintendencia de Seguridad Social y normativa chilena de seguridad y salud en el trabajo (edición vigente). | obligaciones vigentes aplicables a establecimientos y a estudiantes en práctica. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Reason, J. (1997). *Managing the Risks of Organizational Accidents*. | el modelo de accidentes organizacionales que explica por qué la seguridad es cultura y no cartel. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Organización Internacional del Trabajo. *Directrices sobre sistemas de gestión de la seguridad y salud en el trabajo*. **Uso en esta clase:** marco internacional de referencia para la jerarquía de medidas de control. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Superintendencia de Seguridad Social y normativa chilena de seguridad y salud en el trabajo. **Uso en esta clase:** obligaciones vigentes aplicables a establecimientos y a estudiantes en práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Organización Internacional del Trabajo. *Directrices sobre sistemas de gestión de la seguridad y salud en el trabajo* (edición vigente). **Uso en esta clase:** marco internacional de referencia para la jerarquía de medidas de control. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Superintendencia de Seguridad Social y normativa chilena de seguridad y salud en el trabajo (edición vigente). **Uso en esta clase:** obligaciones vigentes aplicables a establecimientos y a estudiantes en práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Reason, J. (1997). *Managing the Risks of Organizational Accidents*. **Uso en esta clase:** el modelo de accidentes organizacionales que explica por qué la seguridad es cultura y no cartel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

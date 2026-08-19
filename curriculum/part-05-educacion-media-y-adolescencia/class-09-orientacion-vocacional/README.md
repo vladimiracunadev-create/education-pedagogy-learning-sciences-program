@@ -149,7 +149,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | OCDE (2021). *Career Readiness in the Pandemic* y estudios sobre orientación temprana. | identifica qué actividades de orientación se asocian con mejores resultados laborales posteriores. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc / Subsecretaría de Educación Superior. *Sistemas públicos de información sobre programas y empleabilidad*. | fuente verificable para trabajar con datos reales de trayectorias en Chile. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc / Subsecretaría de Educación Superior. *Sistemas públicos de información sobre programas y empleabilidad* (edición vigente). | fuente verificable para trabajar con datos reales de trayectorias en Chile. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Hooley, T., Sultana, R. & Thomsen, R. (2018). *Career Guidance for Social Justice*. | cuestiona la orientación centrada solo en la elección individual y muestra su dimensión social. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +335,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - OCDE (2021). *Career Readiness in the Pandemic* y estudios sobre orientación temprana. **Uso en esta clase:** identifica qué actividades de orientación se asocian con mejores resultados laborales posteriores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc / Subsecretaría de Educación Superior. *Sistemas públicos de información sobre programas y empleabilidad*. **Uso en esta clase:** fuente verificable para trabajar con datos reales de trayectorias en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc / Subsecretaría de Educación Superior. *Sistemas públicos de información sobre programas y empleabilidad* (edición vigente). **Uso en esta clase:** fuente verificable para trabajar con datos reales de trayectorias en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Hooley, T., Sultana, R. & Thomsen, R. (2018). *Career Guidance for Social Justice*. **Uso en esta clase:** cuestiona la orientación centrada solo en la elección individual y muestra su dimensión social. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

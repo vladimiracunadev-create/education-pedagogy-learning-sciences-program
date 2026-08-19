@@ -414,6 +414,113 @@ def construir_glosario(curriculo, clases) -> str:
 
 
 # --------------------------------------------------------------------------- #
+# docs/OBRAS_CITADAS.md
+# --------------------------------------------------------------------------- #
+
+INSTITUCIONALES = (
+    "mineduc", "ministerio", "biblioteca del congreso", "agencia de calidad",
+    "superintendencia", "ocde", "unesco", "unicef", "organización", "organizacion",
+    "comisión europea", "comision europea", "banco mundial", "foro económico",
+    "education endowment", "casel", "cast", "ley ", "decreto ", "convención",
+    "convencion", "national autism", "programa de educación", "sistema de créditos",
+    "sistema de creditos", "normativa", "informe belmont", "declaration on research",
+    "tuning", "aera", "who", "oit", "unevoc",
+)
+
+
+def es_institucional(cita: str) -> bool:
+    """Distingue una fuente institucional o normativa de un libro o artículo."""
+    minuscula = cita.strip().lower()
+    return any(minuscula.startswith(marca) for marca in INSTITUCIONALES)
+
+
+def construir_obras_citadas(curriculo, packs, clases) -> str:
+    """Índice exhaustivo de lo que citan las clases, generado desde los manifiestos.
+
+    Existe para que ninguna obra citada quede fuera del registro: la bibliografía
+    curada se escribe a mano y puede quedarse atrás, este índice no.
+    """
+    por_numero = {c["global_class"]: c for c in curriculo}
+    obras: dict[str, dict] = {}
+    for numero, registro in sorted(clases.items()):
+        for cita, lente in registro["lecturas"]:
+            entrada = obras.setdefault(cita.strip(), {"lentes": [], "clases": []})
+            entrada["clases"].append(por_numero[numero])
+            if lente.strip() not in entrada["lentes"]:
+                entrada["lentes"].append(lente.strip())
+    for pack in packs:
+        for cita, lente in pack["lecturas"]:
+            entrada = obras.setdefault(cita.strip(), {"lentes": [], "clases": []})
+            if lente.strip() not in entrada["lentes"]:
+                entrada["lentes"].append(lente.strip())
+
+    academicas = [o for o in obras if not es_institucional(o)]
+    institucionales = [o for o in obras if es_institucional(o)]
+    citas = sum(len(v["clases"]) for v in obras.values())
+
+    lineas = [
+        "# Obras citadas, clase por clase",
+        "",
+        f"Las **{len(obras)} obras** que el programa cita en sus clases y en sus partes: "
+        f"**{len(academicas)} libros y artículos** y **{len(institucionales)} fuentes "
+        f"institucionales o normativas**, con **{citas} citas** en total.",
+        "",
+        "Se genera con `python scripts/generar_indice.py` a partir de los manifiestos, de modo "
+        "que **ninguna obra citada puede quedar fuera de este índice**. Cada entrada declara el "
+        "lente que aporta la obra y enlaza a las clases que la usan. La "
+        "[bibliografía comentada](BIBLIOGRAFIA.md) organiza las mismas obras por área y explica "
+        "el criterio de selección; las [fuentes oficiales](FUENTES.md) explican cómo leer las "
+        "normativas.",
+        "",
+        "> [!IMPORTANT]",
+        "> El programa no reproduce el texto de ninguna obra citada: la redacción es",
+        "> original y la cita orienta la lectura directa de la fuente.",
+        "",
+    ]
+
+    def bloque(titulo: str, seleccion: list[str], nota: str) -> list[str]:
+        salida = [f"## {titulo}", "", nota, ""]
+        for cita in sorted(seleccion, key=lambda c: c.lower()):
+            datos = obras[cita]
+            salida.append(f"### {cita.rstrip('.')}")
+            salida.append("")
+            for lente in datos["lentes"]:
+                salida.append(f"- *Aporta:* {lente}")
+            if datos["clases"]:
+                enlaces = ", ".join(
+                    f"[{c['global_class']:03d}](../curriculum/{c['part_slug']}/{c['slug']}/README.md)"
+                    for c in datos["clases"]
+                )
+                salida.append(f"- *Citada en:* {enlaces}")
+            else:
+                salida.append("- *Citada en:* lectura de parte, no de clase individual")
+            salida.append("")
+        return salida
+
+    lineas += bloque(
+        "Libros y artículos",
+        academicas,
+        "Obras de autor: libros, síntesis de evidencia y artículos de investigación.",
+    )
+    lineas += bloque(
+        "Fuentes institucionales y normativas",
+        institucionales,
+        "Marcos, leyes y orientaciones oficiales. Cambian con el tiempo: la versión vigente en "
+        "su sitio oficial siempre manda sobre lo que diga este programa.",
+    )
+
+    lineas += [
+        "---",
+        "",
+        "| Anterior | Índice | Siguiente |",
+        "|---|---|---|",
+        "| [Bibliografía](BIBLIOGRAFIA.md) | [Programa](../README.md) · "
+        "[Documentos](../FILE_INDEX.md) | [Fuentes oficiales](FUENTES.md) |",
+        "",
+    ]
+    return chr(10).join(lineas)
+
+# --------------------------------------------------------------------------- #
 # SYLLABUS.md
 # --------------------------------------------------------------------------- #
 
@@ -474,6 +581,7 @@ def main() -> int:
         RAIZ / "SYLLABUS.md": construir_syllabus(curriculo, packs, clases, etapas),
         RAIZ / "MANIFEST.md": construir_manifiesto(curriculo, packs, clases),
         RAIZ / "docs" / "GLOSARIO.md": construir_glosario(curriculo, clases),
+        RAIZ / "docs" / "OBRAS_CITADAS.md": construir_obras_citadas(curriculo, packs, clases),
         RAIZ / "catalog.json": json.dumps(
             construir_catalogo(curriculo, packs, clases, etapas),
             ensure_ascii=False, indent=1) + "\n",
@@ -485,12 +593,12 @@ def main() -> int:
         if desviados:
             print(f"FALLÓ: desactualizados {desviados}. Ejecuta python scripts/generar_indice.py")
             return 1
-        print("OK: STATUS, SYLLABUS, MANIFEST, FILE_INDEX, docs/GLOSARIO y catalog.json están al día.")
+        print("OK: STATUS, SYLLABUS, MANIFEST, FILE_INDEX, GLOSARIO, OBRAS_CITADAS y catalog.json están al día.")
         return 0
 
     for ruta, contenido in salidas.items():
         ruta.write_text(contenido, encoding="utf-8", newline="\n")
-    print("OK: STATUS, SYLLABUS, MANIFEST, FILE_INDEX, docs/GLOSARIO y catalog.json regenerados.")
+    print("OK: STATUS, SYLLABUS, MANIFEST, FILE_INDEX, GLOSARIO, OBRAS_CITADAS y catalog.json regenerados.")
     return 0
 
 

@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Ley 20.422 (Chile) sobre igualdad de oportunidades e inclusión social de personas con discapacidad. | marco de obligaciones y de ajustes razonables exigibles. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| W3C. *Web Content Accessibility Guidelines (WCAG)*. | criterios técnicos de accesibilidad aplicables a todo material digital educativo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Ley 20.422 (Chile) sobre igualdad de oportunidades e inclusión social de personas con discapacidad (edición vigente). | marco de obligaciones y de ajustes razonables exigibles. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| W3C. *Web Content Accessibility Guidelines (WCAG)* (edición vigente). | criterios técnicos de accesibilidad aplicables a todo material digital educativo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. | convierte la accesibilidad en indicadores revisables por la comunidad escolar. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ley 20.422 (Chile) sobre igualdad de oportunidades e inclusión social de personas con discapacidad. **Uso en esta clase:** marco de obligaciones y de ajustes razonables exigibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- W3C. *Web Content Accessibility Guidelines (WCAG)*. **Uso en esta clase:** criterios técnicos de accesibilidad aplicables a todo material digital educativo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ley 20.422 (Chile) sobre igualdad de oportunidades e inclusión social de personas con discapacidad (edición vigente). **Uso en esta clase:** marco de obligaciones y de ajustes razonables exigibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- W3C. *Web Content Accessibility Guidelines (WCAG)* (edición vigente). **Uso en esta clase:** criterios técnicos de accesibilidad aplicables a todo material digital educativo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** convierte la accesibilidad en indicadores revisables por la comunidad escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

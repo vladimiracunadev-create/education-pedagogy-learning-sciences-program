@@ -35,7 +35,7 @@
 | `chile-education-system/` | 9 | marco institucional y normativo chileno |
 | `curriculum/` | 325 | las 25 partes y sus 300 clases, generadas desde `manifests/` |
 | `datasets/` | 2 | datos sintéticos para practicar análisis |
-| `docs/` | 17 | documentos transversales: metodología, guías, bibliografía, marcos y protocolos |
+| `docs/` | 18 | documentos transversales: metodología, guías, bibliografía, marcos y protocolos |
 | `international-education/` | 1 | comparación internacional de sistemas educativos |
 | `labs/` | 13 | laboratorios y simuladores de práctica |
 | `manifests/` | 35 | fuente única de verdad del currículo: nada se edita a mano en `curriculum/` |
@@ -493,6 +493,7 @@
 | [`docs/MARCO_CHILE.md`](docs/MARCO_CHILE.md) | Marco institucional y normativo chileno |
 | [`docs/METODOLOGIA.md`](docs/METODOLOGIA.md) | Metodología del programa |
 | [`docs/MIGRACION_A_CAPACITACION.md`](docs/MIGRACION_A_CAPACITACION.md) | Migración a capacitación |
+| [`docs/OBRAS_CITADAS.md`](docs/OBRAS_CITADAS.md) | Obras citadas, clase por clase |
 | [`docs/PREGUNTAS_FRECUENTES.md`](docs/PREGUNTAS_FRECUENTES.md) | Preguntas frecuentes |
 | [`docs/RUTAS_DE_APRENDIZAJE.md`](docs/RUTAS_DE_APRENDIZAJE.md) | Rutas de aprendizaje |
 | [`docs/SISTEMA_DE_EVALUACION.md`](docs/SISTEMA_DE_EVALUACION.md) | Sistema de evaluación del programa |

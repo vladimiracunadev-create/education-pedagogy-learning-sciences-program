@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| International Center for Academic Integrity. *Fundamental Values of Academic Integrity*. | marco de referencia sobre valores y políticas institucionales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| International Center for Academic Integrity. *Fundamental Values of Academic Integrity* (edición vigente). | marco de referencia sobre valores y políticas institucionales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | UNESCO (2023). *Guidance for Generative AI in Education and Research*. | orientaciones internacionales para políticas institucionales de uso de IA. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Bretag, T. (ed.) (2016). *Handbook of Academic Integrity* (edición vigente). | trata la integridad como diseño institucional y no como vigilancia del estudiante. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- International Center for Academic Integrity. *Fundamental Values of Academic Integrity*. **Uso en esta clase:** marco de referencia sobre valores y políticas institucionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- International Center for Academic Integrity. *Fundamental Values of Academic Integrity* (edición vigente). **Uso en esta clase:** marco de referencia sobre valores y políticas institucionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** orientaciones internacionales para políticas institucionales de uso de IA. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bretag, T. (ed.) (2016). *Handbook of Academic Integrity* (edición vigente). **Uso en esta clase:** trata la integridad como diseño institucional y no como vigilancia del estudiante. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

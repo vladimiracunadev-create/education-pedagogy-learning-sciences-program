@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo*. | el desplazamiento desde el déficit hacia el sistema de apoyos, con criterios operativos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Decreto 83/2015, Ministerio de Educación de Chile. | el marco normativo de adecuaciones curriculares de acceso y significativas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo* (edición vigente). | el desplazamiento desde el déficit hacia el sistema de apoyos, con criterios operativos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). | el marco normativo de adecuaciones curriculares de acceso y significativas. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo*. **Uso en esta clase:** el desplazamiento desde el déficit hacia el sistema de apoyos, con criterios operativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Decreto 83/2015, Ministerio de Educación de Chile. **Uso en esta clase:** el marco normativo de adecuaciones curriculares de acceso y significativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo* (edición vigente). **Uso en esta clase:** el desplazamiento desde el déficit hacia el sistema de apoyos, con criterios operativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco normativo de adecuaciones curriculares de acceso y significativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

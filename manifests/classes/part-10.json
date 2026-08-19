@@ -1,361 +1,662 @@
 [
-{"n":121,"evidencia":"CONSISTENTE",
- "foco":"qué sabe un buen profesor de matemática que no sabe un buen matemático",
- "proposito":"Desarrollar conocimiento pedagógico del contenido: el saber sobre cómo un contenido específico se vuelve enseñable, qué errores produce siempre y en qué orden conviene presentarlo.",
- "decision":"determinar qué representación, analogía o secuencia hace enseñable el contenido que dominas",
- "entregable":"una ficha de conocimiento pedagógico de un contenido con errores típicos, representaciones y secuencia recomendada",
- "conceptos":[
-  ["Conocimiento pedagógico del contenido","saber sobre cómo enseñar un contenido específico, distinto del contenido y de la pedagogía general"],
-  ["Representación","forma de presentar una idea —analogía, modelo, ejemplo, diagrama— que la hace accesible"],
-  ["Error típico","equivocación que el contenido produce de forma sistemática en quienes lo aprenden"],
-  ["Punto ciego del experto","dificultad del especialista para ver qué pasos necesita quien no sabe"]],
- "desarrollo":"Dominar una disciplina no basta para enseñarla, y en parte estorba: el experto tiene su conocimiento tan automatizado que olvida los pasos intermedios. El conocimiento pedagógico del contenido es el saber específico que llena ese vacío: qué analogía funciona para este concepto, qué error aparece siempre, qué ejemplo hace visible la distinción, en qué orden conviene presentar los casos.",
- "practica":"Este conocimiento se construye con registro sistemático. Después de cada clase, anotar qué error apareció, qué explicación funcionó y cuál no, qué pregunta reveló la confusión. En tres años eso produce un repertorio propio que ninguna formación entrega. Compartirlo entre colegas de la misma asignatura multiplica su valor y es la forma más eficiente de desarrollo profesional disponible.",
- "limites":"Es conocimiento específico de contenido: no se transfiere entre asignaturas ni entre niveles. Un docente excelente en un tema puede ser novato en otro del mismo curso. Y su construcción es lenta: no hay atajo formativo que sustituya la experiencia registrada y analizada.",
- "errores":[
-  "Explicar desde la lógica del experto, saltando los pasos que el novato necesita.",
-  "No registrar los errores típicos y volver a sorprenderse con los mismos cada año."],
- "criterios":[
-  "la ficha documenta errores típicos observados y no supuestos;",
-  "incluye al menos dos representaciones alternativas del mismo contenido;"],
- "preguntas":[
-  "¿Qué error comete tu curso todos los años en este contenido?",
-  "¿Qué paso te saltas porque para ti es obvio?",
-  "¿Qué representación te ha funcionado mejor y por qué?"],
- "lecturas":[
-  ["Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*.","el artículo fundacional del conocimiento pedagógico del contenido."],
-  ["Ball, D., Thames, M. & Phelps, G. (2008). *Content Knowledge for Teaching: What Makes It Special?*","desarrolla el concepto con precisión y con evidencia en el caso de la matemática escolar."]],
- "inclusion":"Conocer los errores típicos permite anticiparlos y prevenirlos, lo que beneficia sobre todo a estudiantes que no tienen quién los corrija fuera de la escuela y que, sin esa anticipación, consolidan el error durante meses.",
- "reto":"Registra durante una unidad los errores de tus estudiantes en un contenido específico. Construye la ficha y compártela con un colega de la misma asignatura.",
- "conexion":"Abre la parte 10 y sostiene las clases 122 y 123. Se apoya en la clase 015 sobre concepciones previas."},
-
-{"n":122,"evidencia":"ROBUSTA",
- "foco":"qué distingue una explicación que se entiende de una que solo suena clara",
- "proposito":"Construir explicaciones efectivas: propósito explícito, conexión con lo conocido, segmentación, ejemplos, señalización de lo importante y verificación de comprensión.",
- "decision":"determinar cómo estructurar la explicación de un contenido difícil para que resista la primera verificación",
- "entregable":"una explicación diseñada con su estructura, sus ejemplos y su verificación de comprensión inmediata",
- "conceptos":[
-  ["Segmentación","división de la explicación en partes con pausas de procesamiento entre ellas"],
-  ["Señalización","marcado explícito de lo importante para dirigir la atención del estudiante"],
-  ["Conexión con lo previo","anclaje del contenido nuevo en conocimiento que el estudiante ya posee"],
-  ["Verificación inmediata","comprobación de comprensión antes de avanzar, sobre todo el curso y no sobre algunos"]],
- "desarrollo":"La claridad de una explicación no la juzga quien la da: la juzga quien la recibe. Las explicaciones que funcionan comparten rasgos verificables: parten de algo conocido, avanzan en segmentos con pausas, marcan explícitamente lo importante, usan ejemplos concretos antes de la formulación general y comprueban comprensión antes de seguir. Todo eso se puede diseñar; no depende de carisma.",
- "practica":"El diseño concreto consiste en escribir la explicación antes de darla: qué se dice primero, dónde va el ejemplo, dónde se detiene, qué pregunta verifica. Parece excesivo y deja de serlo cuando se comprueba cuántas explicaciones improvisadas fallan en el mismo punto todos los años. La verificación inmediata es la parte que más rinde y la que más se omite.",
- "limites":"Una explicación excelente no basta para aprender: sin práctica posterior, el contenido se olvida. Y hay contenidos donde la explicación previa es contraproducente porque elimina el problema que el estudiante debía enfrentar. La decisión sobre cuándo explicar y cuándo dejar explorar depende del conocimiento previo del grupo.",
- "errores":[
-  "Explicar más despacio y con más palabras cuando el problema es de estructura, no de velocidad.",
-  "Preguntar «¿se entendió?» y tomar el silencio como comprensión."],
- "criterios":[
-  "la explicación está segmentada con verificación intermedia diseñada;",
-  "conecta explícitamente con conocimiento previo comprobado del grupo;"],
- "preguntas":[
-  "¿Con qué conocimiento previo conectas esta explicación, y lo verificaste?",
-  "¿Dónde se pierden tus estudiantes siempre en esta explicación?",
-  "¿Qué pregunta te diría que comprendieron, sin que baste con decir que sí?"],
- "lecturas":[
-  ["Rosenshine, B. (2012). *Principles of Instruction*.","principios de explicación derivados de la investigación sobre docentes eficaces."],
-  ["Mayer, R. (2021). *Multimedia Learning*.","aporta segmentación, señalización y principios de diseño con evidencia experimental."]],
- "inclusion":"La segmentación y la señalización benefician especialmente a estudiantes con dificultades atencionales o que aprenden en una segunda lengua, y no perjudican a nadie: son mejoras universales del diseño de la explicación.",
- "reto":"Escribe la explicación de un contenido difícil antes de darla. Aplícala con verificación intermedia y compara los resultados con el año anterior.",
- "conexion":"Aplica las clases 017 y 019 y sostiene la secuencia completa de las clases 126 a 128."},
-
-{"n":123,"evidencia":"ROBUSTA",
- "foco":"por qué un contraejemplo bien elegido enseña más que tres ejemplos adicionales",
- "proposito":"Usar ejemplos, contraejemplos y comparación explícita para construir conceptos precisos y evitar generalizaciones erróneas.",
- "decision":"determinar qué contraejemplo hace visible el límite del concepto que enseñas",
- "entregable":"un conjunto de ejemplos y contraejemplos secuenciados para un concepto, con la comparación explícita entre ellos",
- "conceptos":[
-  ["Ejemplo","caso que cumple todas las condiciones del concepto"],
-  ["Contraejemplo","caso que no cumple alguna condición y hace visible el límite del concepto"],
-  ["Variabilidad de superficie","cambio en rasgos irrelevantes que impide asociar el concepto a características accidentales"],
-  ["Comparación explícita","yuxtaposición deliberada de casos para que el estudiante identifique la diferencia estructural"]],
- "desarrollo":"Los estudiantes forman conceptos por inducción sobre los casos que ven, de modo que la selección de ejemplos determina el concepto que construyen. Si todos los triángulos que ven son equiláteros y están apoyados en su base, construirán un concepto erróneo. Los contraejemplos —casos que parecen cumplir y no cumplen— son lo que fija el límite, y la comparación explícita entre casos es uno de los procedimientos con mejor evidencia para producir comprensión estructural.",
- "practica":"El diseño requiere elegir los casos con criterio: ejemplos variados en superficie, contraejemplos cercanos —no absurdos— y una actividad que obligue a comparar y a formular la diferencia. Los contraejemplos lejanos no enseñan nada; los cercanos, los que casi cumplen, son los que producen la discriminación fina que el concepto exige.",
- "limites":"Demasiados casos simultáneos saturan la memoria de trabajo y producen confusión en vez de precisión. Y la comparación exige que el estudiante tenga suficiente conocimiento base para percibir la diferencia: presentada demasiado temprano, no se ve. La secuencia y la dosificación son parte del diseño.",
- "errores":[
-  "Usar siempre ejemplos prototípicos y producir conceptos asociados a rasgos accidentales.",
-  "Elegir contraejemplos tan lejanos que no obligan a ninguna discriminación."],
- "criterios":[
-  "los ejemplos varían en superficie manteniendo la estructura del concepto;",
-  "hay al menos un contraejemplo cercano con comparación explícita diseñada;"],
- "preguntas":[
-  "¿Qué rasgo accidental podrían estar asociando tus estudiantes al concepto?",
-  "¿Qué caso casi cumple y no cumple?",
-  "¿Dónde comparan explícitamente dos casos en tu clase?"],
- "lecturas":[
-  ["Rittle-Johnson, B. & Star, J. (2007). *Does Comparing Solution Methods Facilitate Conceptual and Procedural Knowledge?*","evidencia experimental sobre el efecto de la comparación explícita."],
-  ["Marton, F. & Booth, S. (1997). *Learning and Awareness*.","fundamenta la variación como mecanismo por el que se discrimina lo esencial de lo accidental."]],
- "inclusion":"La variedad de superficie debe incluir contextos culturalmente diversos: si todos los ejemplos provienen del mismo mundo social, una parte del curso no reconocerá la estructura por falta de familiaridad con el envoltorio.",
- "reto":"Diseña la secuencia de ejemplos y contraejemplos de un concepto. Aplícala y evalúa con casos nuevos si el concepto quedó bien delimitado.",
- "conexion":"Se apoya en las clases 015 y 023 y alimenta la clase 132."},
-
-{"n":124,"evidencia":"CONSISTENTE",
- "foco":"cómo verificar la comprensión de todo el curso y no solo de quienes levantan la mano",
- "proposito":"Formular preguntas que produzcan pensamiento y que revelen el estado de comprensión del curso completo, con técnicas que distribuyan la participación.",
- "decision":"determinar qué preguntas harás y cómo asegurarás respuesta de todos y no solo de algunos",
- "entregable":"un repertorio de preguntas de una unidad por nivel cognitivo, con la técnica de respuesta asociada a cada una",
- "conceptos":[
-  ["Pregunta de verificación","interrogante diseñada para revelar comprensión o su ausencia"],
-  ["Tiempo de espera","pausa tras la pregunta antes de aceptar respuesta; aumenta la calidad y la cantidad de participación"],
-  ["Respuesta simultánea","técnica que obliga a responder a todo el curso a la vez y hace visible el estado general"],
-  ["Distractor diagnóstico","opción incorrecta diseñada para revelar un error conceptual específico"]],
- "desarrollo":"La mayoría de las preguntas de aula se responde por los mismos estudiantes y en menos de un segundo. Dos cambios simples tienen efectos documentados: aumentar el tiempo de espera a tres segundos, que mejora la extensión y la calidad de las respuestas, y usar técnicas de respuesta simultánea, que hacen visible lo que la mano levantada oculta. La pregunta con distractores diagnósticos es la herramienta más eficiente para detectar errores conceptuales en segundos.",
- "practica":"Preparar preguntas es parte del diseño de la clase, no una improvisación. Un repertorio útil combina preguntas de verificación factual, de aplicación y de explicación, cada una con su técnica de respuesta. Y la regla más difícil de sostener: preguntar antes de explicar más, en vez de repetir la explicación cuando algo no se entendió.",
- "limites":"Las preguntas de alto nivel no siempre son mejores: con contenido nuevo, preguntar por aplicación antes de asegurar la base produce frustración y respuestas vacías. La progresión importa. Y las técnicas de respuesta simultánea requieren un clima donde equivocarse no tenga costo social, que hay que construir antes.",
- "errores":[
-  "Aceptar la respuesta del primero que levanta la mano como indicador de la comprensión del curso.",
-  "Formular preguntas de aplicación antes de haber asegurado la comprensión básica."],
- "criterios":[
-  "el repertorio asocia cada pregunta a una técnica de respuesta que involucra a todo el curso;",
-  "incluye al menos dos preguntas con distractores diagnósticos de errores conocidos;"],
- "preguntas":[
-  "¿Cuánto tiempo esperas realmente después de preguntar?",
-  "¿Qué proporción de tu curso responde efectivamente en una clase?",
-  "¿Qué error conceptual revelaría tu distractor?"],
- "lecturas":[
-  ["Rowe, M. B. (1986). *Wait Time: Slowing Down May Be a Way of Speeding Up*.","el estudio clásico sobre tiempo de espera y sus efectos en la participación."],
-  ["Wiliam, D. (2011). *Embedded Formative Assessment*.","técnicas de respuesta simultánea y de diseño de preguntas diagnósticas."]],
- "inclusion":"Las técnicas de respuesta simultánea evitan que la participación dependa de la confianza para hablar en público y hacen visibles a estudiantes que de otro modo pasan semanas sin que nadie sepa qué entendieron.",
- "reto":"Aplica tiempo de espera y respuesta simultánea durante dos semanas. Registra qué proporción del curso participa antes y después.",
- "conexion":"Es el instrumento de verificación de la clase 122 y se articula con la clase 058."},
-
-{"n":125,"evidencia":"PRACTICA-PROFESIONAL",
- "foco":"cómo conducir una discusión donde el pensamiento avance y no solo se acumulen opiniones",
- "proposito":"Conducir diálogo pedagógico con estructura: preguntas encadenadas, exigencia de fundamento, construcción sobre lo dicho por otros y cierre que sistematiza lo aprendido.",
- "decision":"determinar cómo estructurar la discusión para que produzca comprensión y no solo participación",
- "entregable":"el guion de una discusión con preguntas encadenadas, reglas de intervención y cierre conceptual previsto",
- "conceptos":[
-  ["Diálogo pedagógico","conversación estructurada orientada a construir comprensión colectiva"],
-  ["Encadenamiento","conexión de cada intervención con la anterior para que la discusión progrese"],
-  ["Exigencia de fundamento","norma de que toda afirmación se acompaña de una razón o de evidencia"],
-  ["Cierre conceptual","sistematización final que fija lo aprendido y evita que la discusión se disuelva"]],
- "desarrollo":"Una discusión sin estructura produce una sucesión de opiniones donde cada estudiante habla del tema sin escuchar al anterior. El diálogo que enseña tiene reglas: se responde a lo dicho, se pide fundamento, se contrastan posiciones y se cierra sistematizando. La tradición del diálogo socrático aporta la idea de la pregunta que expone la contradicción; la investigación sobre enseñanza dialógica aporta las condiciones para que ocurra en un curso completo.",
- "practica":"El guion previo es lo que distingue una discusión conducida de una conversación. Incluye la pregunta de apertura, las preguntas de profundización previstas, las reglas de intervención y el cierre. Durante la discusión, el trabajo del docente es encadenar —«¿estás de acuerdo con lo que dijo ella y por qué?»— y no responder cada intervención por su cuenta.",
- "limites":"La evidencia sobre enseñanza dialógica es prometedora y heterogénea, y depende mucho de la formación del docente y del tiempo disponible. Además, en cursos numerosos la discusión plenaria involucra a pocos: sin trabajo previo en parejas o grupos, la mayoría solo escucha. Y sin conocimiento base, la discusión es intercambio de impresiones.",
- "errores":[
-  "Responder cada intervención en vez de encadenar entre estudiantes.",
-  "Terminar la discusión sin cierre conceptual, con lo que cada uno se queda con su versión."],
- "criterios":[
-  "el guion prevé preguntas de profundización y un cierre conceptual explícito;",
-  "las reglas exigen fundamentar y responder a lo dicho por otros;"],
- "preguntas":[
-  "¿Cuántas intervenciones de tu última discusión se conectaron con la anterior?",
-  "¿Qué quedó sistematizado al final y quién lo escribió?",
-  "¿Qué conocimiento base necesitaban para que la discusión fuera algo más que opiniones?"],
- "lecturas":[
-  ["Alexander, R. (2020). *A Dialogic Teaching Companion*.","marco y repertorio de enseñanza dialógica con criterios observables."],
-  ["Michaels, S. & O'Connor, C. *Talk Science Primer*.","protocolos concretos de conducción de discusión con encadenamiento."]],
- "inclusion":"Las discusiones plenarias favorecen a quienes tienen más capital verbal. El trabajo previo en parejas, los turnos asignados y la aceptación de respuestas en lenguaje cotidiano amplían quiénes participan realmente.",
- "reto":"Conduce una discusión con guion y registra quién habló y cuántas intervenciones se encadenaron. Rediseña las reglas a partir de ese registro.",
- "conexion":"Se articula con las clases 067 y 124 y aporta el cierre conceptual que la clase 066 exige."},
-
-{"n":126,"evidencia":"ROBUSTA",
- "foco":"por qué mostrar el resultado terminado enseña menos que mostrar el proceso de llegar a él",
- "proposito":"Modelar procedimientos y razonamientos haciendo visible el pensamiento experto —decisiones, dudas, correcciones— que normalmente permanece oculto.",
- "decision":"determinar qué parte del proceso experto debes hacer visible para que tus estudiantes puedan imitarlo",
- "entregable":"el guion de un modelamiento con pensamiento en voz alta, incluidas las decisiones y los errores previstos",
- "conceptos":[
-  ["Modelamiento","demostración del procedimiento por parte del docente con explicación de sus decisiones"],
-  ["Pensamiento en voz alta","verbalización del razonamiento interno mientras se ejecuta la tarea"],
-  ["Ejemplo trabajado","problema resuelto paso a paso que reduce la carga del novato"],
-  ["Desvanecimiento","retirada progresiva del modelo a medida que el estudiante puede ejecutar solo"]],
- "desarrollo":"El experto ejecuta sin verbalizar y el novato ve solo el resultado, no las decisiones que lo produjeron: por qué se descartó una alternativa, dónde se detuvo a comprobar, qué hizo cuando se equivocó. Hacer visible ese proceso —hablar mientras se resuelve, incluyendo las dudas— es una de las prácticas con mejor respaldo, y es la base del efecto documentado de los ejemplos trabajados.",
- "practica":"El guion de modelamiento incluye lo que se dirá en cada paso, dónde se hará una pausa, qué error se cometerá deliberadamente para mostrar la corrección. Ese último recurso es potente: los estudiantes aprenden que equivocarse y comprobar forma parte del procedimiento experto, no de la incompetencia.",
- "limites":"El modelamiento pierde eficacia con estudiantes que ya dominan el procedimiento: el efecto de los ejemplos trabajados se invierte con la experticia. Además, observar produce la ilusión de saber hacer: sin práctica inmediata, el modelamiento no se convierte en competencia.",
- "errores":[
-  "Mostrar el procedimiento terminado sin verbalizar las decisiones que lo produjeron.",
-  "Prolongar el modelamiento con estudiantes que ya deberían estar practicando."],
- "criterios":[
-  "el guion verbaliza decisiones y no solo pasos de ejecución;",
-  "incluye práctica inmediata posterior con corrección;"],
- "preguntas":[
-  "¿Qué decisión tuya al resolver es invisible para tus estudiantes?",
-  "¿Dónde te equivocarías a propósito para mostrar cómo se comprueba?",
-  "¿Cuándo deberías dejar de modelar con este grupo?"],
- "lecturas":[
-  ["Collins, A., Brown, J. S. & Newman, S. (1989). *Cognitive Apprenticeship*.","formula el modelamiento, el andamiaje y el desvanecimiento como sistema de enseñanza."],
-  ["Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*.","aporta la evidencia sobre ejemplos trabajados y su reversión por experticia."]],
- "inclusion":"Hacer visible el proceso experto beneficia especialmente a estudiantes sin modelos académicos en su entorno, que de otro modo suponen que los demás resuelven sin esfuerzo y atribuyen su dificultad a incapacidad propia.",
- "reto":"Modela un procedimiento pensando en voz alta y grábate. Revisa cuántas decisiones verbalizaste y cuántas diste por obvias.",
- "conexion":"Es el primer paso de la secuencia de las clases 127 y 128, y aplica la clase 019."},
-
-{"n":127,"evidencia":"ROBUSTA",
- "foco":"cómo se decide cuánto apoyo dar y, sobre todo, cuándo quitarlo",
- "proposito":"Diseñar andamiaje ajustado al desempeño real y con criterio explícito de retiro, evitando tanto la dependencia como el abandono prematuro.",
- "decision":"determinar el criterio que activará el retiro de cada apoyo que ofreces",
- "entregable":"una secuencia con tres niveles de andamiaje y el criterio observable de retiro de cada uno",
- "conceptos":[
-  ["Andamiaje","apoyo temporal ajustado que permite un desempeño todavía no autónomo"],
-  ["Ajuste","correspondencia entre el apoyo ofrecido y el desempeño observado, no el esperado"],
-  ["Desvanecimiento","retirada progresiva del apoyo conforme aumenta el dominio"],
-  ["Dependencia inducida","situación en que el apoyo permanente impide el desarrollo de la autonomía"]],
- "desarrollo":"El andamiaje tiene tres propiedades que lo distinguen de la simple ayuda: es contingente al desempeño observado, es temporal y tiene criterio de retiro. La ayuda que se da siempre igual, independiente de cómo va el estudiante, no es andamiaje: es una muleta. Y el apoyo que nunca se retira produce dependencia, que en la práctica se observa como estudiantes que solo trabajan cuando el docente está al lado.",
- "practica":"Escribir el criterio de retiro junto con el apoyo es lo que convierte la intuición en decisión profesional: «se retira la plantilla cuando complete dos tareas sin errores en la estructura». Sin ese criterio, el apoyo permanece por inercia y nadie nota el problema hasta la evaluación final, cuando el estudiante ya no tiene el andamio.",
- "limites":"El andamiaje contingente exige observar de cerca, lo que en cursos numerosos es difícil de sostener para todos. La alternativa realista es andamiaje diferenciado por grupos y no individual, con criterios de retiro por grupo. Reconocer esa restricción evita diseños ideales que nadie ejecuta.",
- "errores":[
-  "Ofrecer siempre el mismo apoyo sin relación con el desempeño observado.",
-  "Retirar el andamiaje por calendario y no por criterio de dominio."],
- "criterios":[
-  "cada nivel de andamiaje declara su criterio observable de retiro;",
-  "existe al menos una instancia de desempeño sin apoyo antes de la evaluación;"],
- "preguntas":[
-  "¿Qué apoyo tuyo lleva meses sin cambiar?",
-  "¿Cómo sabrías que un estudiante ya no lo necesita?",
-  "¿Qué estudiantes solo trabajan cuando estás al lado, y qué dice eso de tu andamiaje?"],
- "lecturas":[
-  ["Wood, D., Bruner, J. & Ross, G. (1976). *The Role of Tutoring in Problem Solving*.","define el andamiaje con criterios observables de ajuste y retiro."],
-  ["van de Pol, J., Volman, M. & Beishuizen, J. (2010). *Scaffolding in Teacher–Student Interaction*.","revisión que sistematiza contingencia, desvanecimiento y transferencia de responsabilidad."]],
- "inclusion":"El andamiaje es el mecanismo que permite exigir el mismo objetivo a todos: cambia la vía y no la meta. Su registro y revisión evitan que un apoyo se convierta en una etiqueta permanente sobre el estudiante.",
- "reto":"Diseña tres niveles de andamiaje con criterio de retiro y aplícalos un mes. Registra cuántos estudiantes avanzaron de nivel y cuántos apoyos no lograste retirar.",
- "conexion":"Aplica la clase 016 y ordena la transición entre las clases 126 y 128."},
-
-{"n":128,"evidencia":"ROBUSTA",
- "foco":"por qué la práctica sin corrección inmediata consolida errores en vez de aprendizajes",
- "proposito":"Diseñar la transición de práctica guiada a práctica independiente con corrección oportuna, dosificación adecuada y distribución en el tiempo.",
- "decision":"determinar cuándo tu grupo está listo para practicar sin corrección inmediata",
- "entregable":"un diseño de práctica con fase guiada, criterio de paso e independiente, con corrección planificada",
- "conceptos":[
-  ["Práctica guiada","ejecución del estudiante con verificación y corrección inmediata del docente"],
-  ["Práctica independiente","ejecución autónoma, cuando el desempeño ya es correcto de forma consistente"],
-  ["Corrección oportuna","retroalimentación entregada antes de que el error se consolide"],
-  ["Dosificación","cantidad y distribución de la práctica necesaria para automatizar sin saturar"]],
- "desarrollo":"El error más costoso en la enseñanza de procedimientos es dejar practicar demasiado pronto sin corrección: el estudiante repite el procedimiento equivocado hasta automatizarlo, y desaprenderlo cuesta mucho más que aprenderlo bien la primera vez. La regla derivada de la investigación sobre docentes eficaces es simple: no se pasa a práctica independiente hasta que el desempeño guiado es correcto de forma consistente.",
- "practica":"El diseño explicita el criterio de paso —por ejemplo, tres ejecuciones correctas seguidas— y organiza la corrección: quién corrige, cuándo y cómo, considerando que un docente no puede revisar treinta ejecuciones simultáneas. Autocorrección con pauta, corrección entre pares con criterios y muestreo del docente son alternativas viables. Y la práctica se distribuye en el tiempo en vez de concentrarse.",
- "limites":"La práctica excesiva sin variación produce ejecución rígida que no transfiere. Y la corrección inmediata, útil al inicio, puede volverse contraproducente después: en fases avanzadas, demorar la retroalimentación favorece la retención. Ajustar el momento de la corrección según la fase es parte del oficio.",
- "errores":[
-  "Enviar a práctica independiente antes de comprobar desempeño correcto consistente.",
-  "Concentrar toda la práctica en una sesión y no volver sobre el procedimiento."],
- "criterios":[
-  "el diseño declara el criterio de paso a práctica independiente;",
-  "la corrección está planificada y es viable con el número real de estudiantes;"],
- "preguntas":[
-  "¿Cuántas ejecuciones correctas necesitas ver antes de soltar?",
-  "¿Quién corrige la práctica de treinta estudiantes y cómo?",
-  "¿Cuándo vuelven a practicar este procedimiento?"],
- "lecturas":[
-  ["Rosenshine, B. (2012). *Principles of Instruction*.","establece la secuencia de práctica guiada e independiente con sus criterios."],
-  ["Soderstrom, N. & Bjork, R. (2015). *Learning versus Performance*.","distingue desempeño inmediato de aprendizaje duradero; clave para dosificar y distribuir."]],
- "inclusion":"Los estudiantes sin apoyo en casa dependen enteramente de que la práctica corregida ocurra en clase. Enviar práctica sin corrección como tarea domiciliaria amplía la brecha en vez de reducirla.",
- "reto":"Aplica un criterio explícito de paso a práctica independiente durante una unidad. Compara la cantidad de errores consolidados con la unidad anterior.",
- "conexion":"Cierra la secuencia de las clases 126 y 127 y se apoya en la clase 020."},
-
-{"n":129,"evidencia":"ROBUSTA",
- "foco":"qué condiciones convierten un trabajo en grupo en aprendizaje colaborativo real",
- "proposito":"Diseñar aprendizaje colaborativo con las condiciones que la evidencia identifica: interdependencia positiva, responsabilidad individual, interacción promotora, habilidades sociales y evaluación del proceso.",
- "decision":"determinar qué condición de la colaboración falta en tu diseño de trabajo grupal",
- "entregable":"un diseño de trabajo colaborativo con interdependencia y responsabilidad individual explícitas",
- "conceptos":[
-  ["Interdependencia positiva","estructura en que el logro de uno requiere el logro de los demás"],
-  ["Responsabilidad individual","exigencia de que cada integrante responda por su aprendizaje, no solo el grupo por el producto"],
-  ["Interacción promotora","dinámica en que los integrantes se explican, se corrigen y se apoyan efectivamente"],
-  ["Habilidades de colaboración","conductas concretas —escuchar, pedir aclaración, distribuir— que se enseñan explícitamente"]],
- "desarrollo":"Poner a los estudiantes en grupos no produce aprendizaje colaborativo: produce reparto de tareas, donde uno hace, otro copia y otro se desconecta. La investigación identifica condiciones específicas que hacen la diferencia, y la más determinante es la combinación de interdependencia positiva con responsabilidad individual: la tarea debe requerir a todos y cada uno debe responder por lo aprendido.",
- "practica":"Diseñar estas condiciones exige decisiones concretas: información distribuida entre integrantes, roles con función real, evaluación individual del contenido además del producto grupal, y enseñanza explícita de las conductas de colaboración. Los grupos de tres a cuatro funcionan mejor que los grandes, donde la desconexión es más fácil.",
- "limites":"El aprendizaje colaborativo tiene evidencia sólida cuando se cumplen sus condiciones y resultados pobres cuando no. También tiene costos: consume más tiempo que la instrucción directa para el mismo contenido, de modo que conviene reservarlo para objetivos que lo justifiquen —explicar, argumentar, resolver problemas complejos— y no para todo.",
- "errores":[
-  "Evaluar solo el producto grupal, con lo que se premia el reparto y no el aprendizaje.",
-  "Suponer que las habilidades de colaboración están disponibles sin haberlas enseñado."],
- "criterios":[
-  "la tarea exige genuinamente a todos los integrantes para completarse;",
-  "existe evaluación individual del aprendizaje además del producto del grupo;"],
- "preguntas":[
-  "¿Podría un integrante completar la tarea solo? Si sí, no hay interdependencia.",
-  "¿Cómo sabes qué aprendió cada uno?",
-  "¿Qué conducta de colaboración enseñaste explícitamente este semestre?"],
- "lecturas":[
-  ["Johnson, D. & Johnson, R. (2009). *An Educational Psychology Success Story*.","define las cinco condiciones del aprendizaje cooperativo con la evidencia acumulada."],
-  ["Slavin, R. (2014). *Cooperative Learning and Academic Achievement*.","revisa qué estructuras cooperativas producen efectos y cuáles no."]],
- "inclusion":"Sin condiciones explícitas, el trabajo grupal reproduce las jerarquías del curso: los mismos deciden, los mismos ejecutan y los mismos quedan al margen. Roles asignados y responsabilidad individual corrigen esa dinámica.",
- "reto":"Rediseña un trabajo grupal con interdependencia y responsabilidad individual. Compara el aprendizaje individual con el de la versión anterior.",
- "conexion":"Se apoya en la clase 016 y condiciona el diseño de las clases 065 y 132."},
-
-{"n":130,"evidencia":"EN-DEBATE",
- "foco":"qué hace funcionar el aula invertida y por qué fracasa cuando nadie estudia el material previo",
- "proposito":"Diseñar aula invertida con sus condiciones de funcionamiento: material previo breve y verificado, tiempo de clase dedicado a práctica y aplicación, y mecanismo real que asegure la preparación.",
- "decision":"determinar qué mecanismo asegurará que el material previo se estudie antes de la sesión",
- "entregable":"un diseño de aula invertida con material previo, verificación de preparación y uso justificado del tiempo presencial",
- "conceptos":[
-  ["Aula invertida","modelo que traslada la primera exposición al contenido fuera de la sesión y usa el tiempo presencial para práctica"],
-  ["Material previo","recurso breve y estructurado que el estudiante trabaja antes de la clase"],
-  ["Verificación de preparación","mecanismo que comprueba y hace consecuente el trabajo previo"],
-  ["Uso del tiempo presencial","actividades que aprovechan la presencia del docente y de los pares"]],
- "desarrollo":"El aula invertida tiene una lógica sólida: si la exposición puede consumirse de forma asincrónica, el tiempo presencial se reserva para lo que requiere al docente y a los pares —práctica corregida, resolución de dificultades, discusión—. La condición crítica es que el material previo se trabaje efectivamente, y ahí fracasa la mayoría de las implementaciones. Sin verificación con consecuencia, entre la mitad y dos tercios llega sin preparación.",
- "practica":"El diseño requiere material breve —no una clase grabada de cincuenta minutos—, con preguntas incorporadas, y una verificación al inicio de la sesión que tenga alguna consecuencia. Y el tiempo presencial debe cambiar realmente: si se vuelve a explicar lo mismo, el modelo se anula y los estudiantes aprenden que no vale la pena prepararse.",
- "limites":"Los metaanálisis muestran efectos positivos pequeños a moderados, con alta heterogeneidad y dependientes del diseño. El modelo traslada carga de trabajo al estudiante y penaliza a quienes tienen menos tiempo o peor conectividad, lo que puede aumentar desigualdades si no se compensa.",
- "errores":[
-  "Grabar la clase completa y llamarlo aula invertida.",
-  "Repetir la explicación en la sesión presencial, con lo que se elimina el incentivo a prepararse."],
- "criterios":[
-  "el material previo es breve, estructurado y con preguntas incorporadas;",
-  "existe verificación de preparación con consecuencia al inicio de la sesión;"],
- "preguntas":[
-  "¿Qué proporción de tu curso llega realmente preparada?",
-  "¿Qué haces en la sesión que no podrías hacer sin la preparación previa?",
-  "¿Quién no puede estudiar el material previo por sus condiciones, y cómo lo compensas?"],
- "lecturas":[
-  ["Abeysekera, L. & Dawson, P. (2015). *Motivation and Cognitive Load in the Flipped Classroom*.","analiza los mecanismos que explicarían el efecto y sus condiciones."],
-  ["van Alten, D. et al. (2019). *Effects of Flipping the Classroom on Learning: A Meta-Analysis*.","síntesis con efectos, heterogeneidad y variables moderadoras."]],
- "inclusion":"El modelo supone tiempo y conectividad fuera de la jornada. En contextos con desigualdad de acceso, ofrecer el material también en formato descargable o en tiempo de escuela evita que el diseño excluya a quienes menos recursos tienen.",
- "reto":"Implementa una unidad invertida con verificación de preparación. Mide qué proporción llega preparada y ajusta el mecanismo hasta superar el ochenta por ciento.",
- "conexion":"Se apoya en las clases 122 y 128 y su implementación técnica se trabaja en la parte 13."},
-
-{"n":131,"evidencia":"CONSISTENTE",
- "foco":"qué implica realmente enseñar para el dominio cuando el calendario no se puede mover",
- "proposito":"Aplicar la lógica del aprendizaje para el dominio: criterio de logro fijo, tiempo variable, evaluación formativa frecuente y enseñanza correctiva antes de avanzar.",
- "decision":"determinar qué harás con quienes no alcanzan el criterio, dentro de las restricciones reales de tu calendario",
- "entregable":"un diseño de unidad con criterio de dominio, evaluación formativa y enseñanza correctiva planificada",
- "conceptos":[
-  ["Aprendizaje para el dominio","enfoque que fija el nivel de logro y permite variar el tiempo hasta alcanzarlo"],
-  ["Enseñanza correctiva","enseñanza distinta —no repetición— dirigida a quienes no alcanzaron el criterio"],
-  ["Evaluación formativa frecuente","comprobación periódica que identifica a tiempo a quienes no logran el criterio"],
-  ["Actividad de enriquecimiento","trabajo con mayor exigencia para quienes ya alcanzaron el criterio"]],
- "desarrollo":"La lógica del dominio invierte la variable que se deja libre: en vez de fijar el tiempo y aceptar resultados dispares, fija el resultado y permite variar el tiempo. Su evidencia es favorable, sobre todo para estudiantes con menor desempeño previo. Su dificultad es organizacional: los calendarios escolares y universitarios están construidos sobre tiempo fijo, y sin margen para el tiempo variable el enfoque se convierte en una declaración.",
- "practica":"La implementación realista trabaja dentro de la restricción: unidades más cortas con evaluación formativa al cierre, enseñanza correctiva para quienes no alcanzan el criterio mientras el resto realiza enriquecimiento, y un segundo intento con instrumento equivalente. La clave es que la enseñanza correctiva sea distinta de la original: repetir lo mismo más lento no funciona.",
- "limites":"El enfoque exige tiempo docente adicional y materiales alternativos, y su efecto depende de la calidad de la enseñanza correctiva. Además, en cursos con currículo extenso y evaluación externa, detenerse hasta el dominio puede comprometer la cobertura. Es una decisión de priorización que conviene tomar explícitamente y no por omisión.",
- "errores":[
-  "Ofrecer como enseñanza correctiva la misma explicación repetida.",
-  "Declarar aprendizaje para el dominio sin ninguna holgura real de tiempo en la planificación."],
- "criterios":[
-  "el diseño incluye enseñanza correctiva distinta de la enseñanza original;",
-  "prevé actividad de enriquecimiento para quienes ya alcanzaron el criterio;"],
- "preguntas":[
-  "¿Qué haces hoy con quien no alcanzó el criterio, además de anotar la nota?",
-  "¿En qué se diferencia tu enseñanza correctiva de la original?",
-  "¿Qué holgura real tiene tu calendario para esto?"],
- "lecturas":[
-  ["Bloom, B. (1968). *Learning for Mastery*.","la formulación original del enfoque y su fundamento."],
-  ["Guskey, T. (2010). *Lessons of Mastery Learning*. Educational Leadership, 68(2).","revisa qué se implementa mal y qué condiciones hacen funcionar el enfoque."]],
- "inclusion":"El aprendizaje para el dominio beneficia especialmente a estudiantes con menor desempeño previo, que en el modelo de tiempo fijo acumulan vacíos. Es una de las estructuras de enseñanza más equitativas disponibles, y también una de las más exigentes de sostener.",
- "reto":"Aplica el enfoque en una unidad corta con enseñanza correctiva real. Compara la proporción de estudiantes que alcanza el criterio con la unidad anterior.",
- "conexion":"Se apoya en las clases 058 y 128 y anticipa el problema de la parte 11 sobre evaluación con consecuencias."},
-
-{"n":132,"evidencia":"ROBUSTA",
- "foco":"cómo se articulan todas las técnicas de la parte en una secuencia que se sostiene en el tiempo real de clase",
- "proposito":"Integrar la parte diseñando y ejecutando una secuencia didáctica completa que combine explicación, modelamiento, andamiaje, práctica, verificación y colaboración con criterio.",
- "decision":"determinar la secuencia completa de decisiones didácticas y su justificación técnica",
- "entregable":"una secuencia didáctica completa ejecutada, con registro de implementación y análisis de sus resultados",
- "conceptos":[
-  ["Secuencia didáctica","conjunto ordenado de decisiones de enseñanza para un contenido determinado"],
-  ["Justificación técnica","fundamento de cada decisión en un mecanismo de aprendizaje documentado"],
-  ["Registro de implementación","documentación de lo que efectivamente ocurrió, incluidas las desviaciones"],
-  ["Análisis de resultados","comparación entre lo esperado y lo obtenido, con hipótesis sobre las diferencias"]],
- "desarrollo":"La secuencia integradora exige elegir: no todas las técnicas caben en una unidad, y usarlas todas produce clases sobrecargadas. La competencia profesional consiste en escoger las que corresponden al contenido, al grupo y al tiempo disponible, y justificar cada elección. Un docente experto no usa más técnicas: usa las adecuadas y las ejecuta bien.",
- "practica":"El trabajo incluye diseñar, ejecutar y registrar. El registro de implementación es lo que permite interpretar los resultados: una secuencia que no funcionó puede haber estado mal diseñada o mal ejecutada, y sin registro no se puede distinguir. Ese es el mismo criterio que la parte 16 exige a cualquier investigación.",
- "limites":"Una secuencia aplicada una vez, con un grupo, no prueba nada sobre la eficacia de las técnicas: hay efecto de novedad, esfuerzo adicional y particularidades del grupo. Lo que produce es evidencia sobre tu propia práctica, suficiente para decidir la siguiente iteración y no para generalizar.",
- "errores":[
-  "Incorporar todas las técnicas de la parte y sobrecargar la secuencia.",
-  "Interpretar el resultado sin registro de implementación."],
- "criterios":[
-  "cada decisión didáctica está justificada por un mecanismo y por el contexto del grupo;",
-  "el registro de implementación documenta desviaciones y permite interpretar el resultado;"],
- "preguntas":[
-  "¿Qué técnica descartaste y por qué?",
-  "¿Qué se desvió de lo planificado y cómo afectó el resultado?",
-  "¿Qué cambiarías en la próxima iteración y qué evidencia lo sostiene?"],
- "lecturas":[
-  ["Rosenshine, B. (2012). *Principles of Instruction*.","marco de referencia para justificar y ordenar las decisiones de la secuencia."],
-  ["Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*.","modelo de justificación de decisiones didácticas a partir de la investigación."]],
- "inclusion":"El análisis de resultados debe desagregarse: una secuencia que funcionó en promedio puede haber dejado fuera al mismo tercio de siempre. Mirar quién no aprendió es la parte que convierte el ejercicio en mejora real.",
- "reto":"Ejecuta la secuencia, registra la implementación y analiza los resultados por estudiante. Escribe qué cambiarás y por qué antes de la siguiente iteración.",
- "conexion":"Cierra la parte 10 integrando sus once clases previas y se conecta con las partes 11 y 16."}
+  {
+    "n": 121,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué sabe un buen profesor de matemática que no sabe un buen matemático",
+    "proposito": "Desarrollar conocimiento pedagógico del contenido: el saber sobre cómo un contenido específico se vuelve enseñable, qué errores produce siempre y en qué orden conviene presentarlo.",
+    "decision": "determinar qué representación, analogía o secuencia hace enseñable el contenido que dominas",
+    "entregable": "una ficha de conocimiento pedagógico de un contenido con errores típicos, representaciones y secuencia recomendada",
+    "conceptos": [
+      [
+        "Conocimiento pedagógico del contenido",
+        "saber sobre cómo enseñar un contenido específico, distinto del contenido y de la pedagogía general"
+      ],
+      [
+        "Representación",
+        "forma de presentar una idea —analogía, modelo, ejemplo, diagrama— que la hace accesible"
+      ],
+      [
+        "Error típico",
+        "equivocación que el contenido produce de forma sistemática en quienes lo aprenden"
+      ],
+      [
+        "Punto ciego del experto",
+        "dificultad del especialista para ver qué pasos necesita quien no sabe"
+      ]
+    ],
+    "desarrollo": "Dominar una disciplina no basta para enseñarla, y en parte estorba: el experto tiene su conocimiento tan automatizado que olvida los pasos intermedios. El conocimiento pedagógico del contenido es el saber específico que llena ese vacío: qué analogía funciona para este concepto, qué error aparece siempre, qué ejemplo hace visible la distinción, en qué orden conviene presentar los casos.",
+    "practica": "Este conocimiento se construye con registro sistemático. Después de cada clase, anotar qué error apareció, qué explicación funcionó y cuál no, qué pregunta reveló la confusión. En tres años eso produce un repertorio propio que ninguna formación entrega. Compartirlo entre colegas de la misma asignatura multiplica su valor y es la forma más eficiente de desarrollo profesional disponible.",
+    "limites": "Es conocimiento específico de contenido: no se transfiere entre asignaturas ni entre niveles. Un docente excelente en un tema puede ser novato en otro del mismo curso. Y su construcción es lenta: no hay atajo formativo que sustituya la experiencia registrada y analizada.",
+    "errores": [
+      "Explicar desde la lógica del experto, saltando los pasos que el novato necesita.",
+      "No registrar los errores típicos y volver a sorprenderse con los mismos cada año."
+    ],
+    "criterios": [
+      "la ficha documenta errores típicos observados y no supuestos;",
+      "incluye al menos dos representaciones alternativas del mismo contenido;"
+    ],
+    "preguntas": [
+      "¿Qué error comete tu curso todos los años en este contenido?",
+      "¿Qué paso te saltas porque para ti es obvio?",
+      "¿Qué representación te ha funcionado mejor y por qué?"
+    ],
+    "lecturas": [
+      [
+        "Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*.",
+        "el artículo fundacional del conocimiento pedagógico del contenido."
+      ],
+      [
+        "Ball, D., Thames, M. & Phelps, G. (2008). *Content Knowledge for Teaching: What Makes It Special?*",
+        "desarrolla el concepto con precisión y con evidencia en el caso de la matemática escolar."
+      ]
+    ],
+    "inclusion": "Conocer los errores típicos permite anticiparlos y prevenirlos, lo que beneficia sobre todo a estudiantes que no tienen quién los corrija fuera de la escuela y que, sin esa anticipación, consolidan el error durante meses.",
+    "reto": "Registra durante una unidad los errores de tus estudiantes en un contenido específico. Construye la ficha y compártela con un colega de la misma asignatura.",
+    "conexion": "Abre la parte 10 y sostiene las clases 122 y 123. Se apoya en la clase 015 sobre concepciones previas."
+  },
+  {
+    "n": 122,
+    "evidencia": "ROBUSTA",
+    "foco": "qué distingue una explicación que se entiende de una que solo suena clara",
+    "proposito": "Construir explicaciones efectivas: propósito explícito, conexión con lo conocido, segmentación, ejemplos, señalización de lo importante y verificación de comprensión.",
+    "decision": "determinar cómo estructurar la explicación de un contenido difícil para que resista la primera verificación",
+    "entregable": "una explicación diseñada con su estructura, sus ejemplos y su verificación de comprensión inmediata",
+    "conceptos": [
+      [
+        "Segmentación",
+        "división de la explicación en partes con pausas de procesamiento entre ellas"
+      ],
+      [
+        "Señalización",
+        "marcado explícito de lo importante para dirigir la atención del estudiante"
+      ],
+      [
+        "Conexión con lo previo",
+        "anclaje del contenido nuevo en conocimiento que el estudiante ya posee"
+      ],
+      [
+        "Verificación inmediata",
+        "comprobación de comprensión antes de avanzar, sobre todo el curso y no sobre algunos"
+      ]
+    ],
+    "desarrollo": "La claridad de una explicación no la juzga quien la da: la juzga quien la recibe. Las explicaciones que funcionan comparten rasgos verificables: parten de algo conocido, avanzan en segmentos con pausas, marcan explícitamente lo importante, usan ejemplos concretos antes de la formulación general y comprueban comprensión antes de seguir. Todo eso se puede diseñar; no depende de carisma.",
+    "practica": "El diseño concreto consiste en escribir la explicación antes de darla: qué se dice primero, dónde va el ejemplo, dónde se detiene, qué pregunta verifica. Parece excesivo y deja de serlo cuando se comprueba cuántas explicaciones improvisadas fallan en el mismo punto todos los años. La verificación inmediata es la parte que más rinde y la que más se omite.",
+    "limites": "Una explicación excelente no basta para aprender: sin práctica posterior, el contenido se olvida. Y hay contenidos donde la explicación previa es contraproducente porque elimina el problema que el estudiante debía enfrentar. La decisión sobre cuándo explicar y cuándo dejar explorar depende del conocimiento previo del grupo.",
+    "errores": [
+      "Explicar más despacio y con más palabras cuando el problema es de estructura, no de velocidad.",
+      "Preguntar «¿se entendió?» y tomar el silencio como comprensión."
+    ],
+    "criterios": [
+      "la explicación está segmentada con verificación intermedia diseñada;",
+      "conecta explícitamente con conocimiento previo comprobado del grupo;"
+    ],
+    "preguntas": [
+      "¿Con qué conocimiento previo conectas esta explicación, y lo verificaste?",
+      "¿Dónde se pierden tus estudiantes siempre en esta explicación?",
+      "¿Qué pregunta te diría que comprendieron, sin que baste con decir que sí?"
+    ],
+    "lecturas": [
+      [
+        "Rosenshine, B. (2012). *Principles of Instruction*.",
+        "principios de explicación derivados de la investigación sobre docentes eficaces."
+      ],
+      [
+        "Mayer, R. (2021). *Multimedia Learning*.",
+        "aporta segmentación, señalización y principios de diseño con evidencia experimental."
+      ]
+    ],
+    "inclusion": "La segmentación y la señalización benefician especialmente a estudiantes con dificultades atencionales o que aprenden en una segunda lengua, y no perjudican a nadie: son mejoras universales del diseño de la explicación.",
+    "reto": "Escribe la explicación de un contenido difícil antes de darla. Aplícala con verificación intermedia y compara los resultados con el año anterior.",
+    "conexion": "Aplica las clases 017 y 019 y sostiene la secuencia completa de las clases 126 a 128."
+  },
+  {
+    "n": 123,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué un contraejemplo bien elegido enseña más que tres ejemplos adicionales",
+    "proposito": "Usar ejemplos, contraejemplos y comparación explícita para construir conceptos precisos y evitar generalizaciones erróneas.",
+    "decision": "determinar qué contraejemplo hace visible el límite del concepto que enseñas",
+    "entregable": "un conjunto de ejemplos y contraejemplos secuenciados para un concepto, con la comparación explícita entre ellos",
+    "conceptos": [
+      [
+        "Ejemplo",
+        "caso que cumple todas las condiciones del concepto"
+      ],
+      [
+        "Contraejemplo",
+        "caso que no cumple alguna condición y hace visible el límite del concepto"
+      ],
+      [
+        "Variabilidad de superficie",
+        "cambio en rasgos irrelevantes que impide asociar el concepto a características accidentales"
+      ],
+      [
+        "Comparación explícita",
+        "yuxtaposición deliberada de casos para que el estudiante identifique la diferencia estructural"
+      ]
+    ],
+    "desarrollo": "Los estudiantes forman conceptos por inducción sobre los casos que ven, de modo que la selección de ejemplos determina el concepto que construyen. Si todos los triángulos que ven son equiláteros y están apoyados en su base, construirán un concepto erróneo. Los contraejemplos —casos que parecen cumplir y no cumplen— son lo que fija el límite, y la comparación explícita entre casos es uno de los procedimientos con mejor evidencia para producir comprensión estructural.",
+    "practica": "El diseño requiere elegir los casos con criterio: ejemplos variados en superficie, contraejemplos cercanos —no absurdos— y una actividad que obligue a comparar y a formular la diferencia. Los contraejemplos lejanos no enseñan nada; los cercanos, los que casi cumplen, son los que producen la discriminación fina que el concepto exige.",
+    "limites": "Demasiados casos simultáneos saturan la memoria de trabajo y producen confusión en vez de precisión. Y la comparación exige que el estudiante tenga suficiente conocimiento base para percibir la diferencia: presentada demasiado temprano, no se ve. La secuencia y la dosificación son parte del diseño.",
+    "errores": [
+      "Usar siempre ejemplos prototípicos y producir conceptos asociados a rasgos accidentales.",
+      "Elegir contraejemplos tan lejanos que no obligan a ninguna discriminación."
+    ],
+    "criterios": [
+      "los ejemplos varían en superficie manteniendo la estructura del concepto;",
+      "hay al menos un contraejemplo cercano con comparación explícita diseñada;"
+    ],
+    "preguntas": [
+      "¿Qué rasgo accidental podrían estar asociando tus estudiantes al concepto?",
+      "¿Qué caso casi cumple y no cumple?",
+      "¿Dónde comparan explícitamente dos casos en tu clase?"
+    ],
+    "lecturas": [
+      [
+        "Rittle-Johnson, B. & Star, J. (2007). *Does Comparing Solution Methods Facilitate Conceptual and Procedural Knowledge?*",
+        "evidencia experimental sobre el efecto de la comparación explícita."
+      ],
+      [
+        "Marton, F. & Booth, S. (1997). *Learning and Awareness*.",
+        "fundamenta la variación como mecanismo por el que se discrimina lo esencial de lo accidental."
+      ]
+    ],
+    "inclusion": "La variedad de superficie debe incluir contextos culturalmente diversos: si todos los ejemplos provienen del mismo mundo social, una parte del curso no reconocerá la estructura por falta de familiaridad con el envoltorio.",
+    "reto": "Diseña la secuencia de ejemplos y contraejemplos de un concepto. Aplícala y evalúa con casos nuevos si el concepto quedó bien delimitado.",
+    "conexion": "Se apoya en las clases 015 y 023 y alimenta la clase 132."
+  },
+  {
+    "n": 124,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo verificar la comprensión de todo el curso y no solo de quienes levantan la mano",
+    "proposito": "Formular preguntas que produzcan pensamiento y que revelen el estado de comprensión del curso completo, con técnicas que distribuyan la participación.",
+    "decision": "determinar qué preguntas harás y cómo asegurarás respuesta de todos y no solo de algunos",
+    "entregable": "un repertorio de preguntas de una unidad por nivel cognitivo, con la técnica de respuesta asociada a cada una",
+    "conceptos": [
+      [
+        "Pregunta de verificación",
+        "interrogante diseñada para revelar comprensión o su ausencia"
+      ],
+      [
+        "Tiempo de espera",
+        "pausa tras la pregunta antes de aceptar respuesta; aumenta la calidad y la cantidad de participación"
+      ],
+      [
+        "Respuesta simultánea",
+        "técnica que obliga a responder a todo el curso a la vez y hace visible el estado general"
+      ],
+      [
+        "Distractor diagnóstico",
+        "opción incorrecta diseñada para revelar un error conceptual específico"
+      ]
+    ],
+    "desarrollo": "La mayoría de las preguntas de aula se responde por los mismos estudiantes y en menos de un segundo. Dos cambios simples tienen efectos documentados: aumentar el tiempo de espera a tres segundos, que mejora la extensión y la calidad de las respuestas, y usar técnicas de respuesta simultánea, que hacen visible lo que la mano levantada oculta. La pregunta con distractores diagnósticos es la herramienta más eficiente para detectar errores conceptuales en segundos.",
+    "practica": "Preparar preguntas es parte del diseño de la clase, no una improvisación. Un repertorio útil combina preguntas de verificación factual, de aplicación y de explicación, cada una con su técnica de respuesta. Y la regla más difícil de sostener: preguntar antes de explicar más, en vez de repetir la explicación cuando algo no se entendió.",
+    "limites": "Las preguntas de alto nivel no siempre son mejores: con contenido nuevo, preguntar por aplicación antes de asegurar la base produce frustración y respuestas vacías. La progresión importa. Y las técnicas de respuesta simultánea requieren un clima donde equivocarse no tenga costo social, que hay que construir antes.",
+    "errores": [
+      "Aceptar la respuesta del primero que levanta la mano como indicador de la comprensión del curso.",
+      "Formular preguntas de aplicación antes de haber asegurado la comprensión básica."
+    ],
+    "criterios": [
+      "el repertorio asocia cada pregunta a una técnica de respuesta que involucra a todo el curso;",
+      "incluye al menos dos preguntas con distractores diagnósticos de errores conocidos;"
+    ],
+    "preguntas": [
+      "¿Cuánto tiempo esperas realmente después de preguntar?",
+      "¿Qué proporción de tu curso responde efectivamente en una clase?",
+      "¿Qué error conceptual revelaría tu distractor?"
+    ],
+    "lecturas": [
+      [
+        "Rowe, M. B. (1986). *Wait Time: Slowing Down May Be a Way of Speeding Up*.",
+        "el estudio clásico sobre tiempo de espera y sus efectos en la participación."
+      ],
+      [
+        "Wiliam, D. (2011). *Embedded Formative Assessment*.",
+        "técnicas de respuesta simultánea y de diseño de preguntas diagnósticas."
+      ]
+    ],
+    "inclusion": "Las técnicas de respuesta simultánea evitan que la participación dependa de la confianza para hablar en público y hacen visibles a estudiantes que de otro modo pasan semanas sin que nadie sepa qué entendieron.",
+    "reto": "Aplica tiempo de espera y respuesta simultánea durante dos semanas. Registra qué proporción del curso participa antes y después.",
+    "conexion": "Es el instrumento de verificación de la clase 122 y se articula con la clase 058."
+  },
+  {
+    "n": 125,
+    "evidencia": "PRACTICA-PROFESIONAL",
+    "foco": "cómo conducir una discusión donde el pensamiento avance y no solo se acumulen opiniones",
+    "proposito": "Conducir diálogo pedagógico con estructura: preguntas encadenadas, exigencia de fundamento, construcción sobre lo dicho por otros y cierre que sistematiza lo aprendido.",
+    "decision": "determinar cómo estructurar la discusión para que produzca comprensión y no solo participación",
+    "entregable": "el guion de una discusión con preguntas encadenadas, reglas de intervención y cierre conceptual previsto",
+    "conceptos": [
+      [
+        "Diálogo pedagógico",
+        "conversación estructurada orientada a construir comprensión colectiva"
+      ],
+      [
+        "Encadenamiento",
+        "conexión de cada intervención con la anterior para que la discusión progrese"
+      ],
+      [
+        "Exigencia de fundamento",
+        "norma de que toda afirmación se acompaña de una razón o de evidencia"
+      ],
+      [
+        "Cierre conceptual",
+        "sistematización final que fija lo aprendido y evita que la discusión se disuelva"
+      ]
+    ],
+    "desarrollo": "Una discusión sin estructura produce una sucesión de opiniones donde cada estudiante habla del tema sin escuchar al anterior. El diálogo que enseña tiene reglas: se responde a lo dicho, se pide fundamento, se contrastan posiciones y se cierra sistematizando. La tradición del diálogo socrático aporta la idea de la pregunta que expone la contradicción; la investigación sobre enseñanza dialógica aporta las condiciones para que ocurra en un curso completo.",
+    "practica": "El guion previo es lo que distingue una discusión conducida de una conversación. Incluye la pregunta de apertura, las preguntas de profundización previstas, las reglas de intervención y el cierre. Durante la discusión, el trabajo del docente es encadenar —«¿estás de acuerdo con lo que dijo ella y por qué?»— y no responder cada intervención por su cuenta.",
+    "limites": "La evidencia sobre enseñanza dialógica es prometedora y heterogénea, y depende mucho de la formación del docente y del tiempo disponible. Además, en cursos numerosos la discusión plenaria involucra a pocos: sin trabajo previo en parejas o grupos, la mayoría solo escucha. Y sin conocimiento base, la discusión es intercambio de impresiones.",
+    "errores": [
+      "Responder cada intervención en vez de encadenar entre estudiantes.",
+      "Terminar la discusión sin cierre conceptual, con lo que cada uno se queda con su versión."
+    ],
+    "criterios": [
+      "el guion prevé preguntas de profundización y un cierre conceptual explícito;",
+      "las reglas exigen fundamentar y responder a lo dicho por otros;"
+    ],
+    "preguntas": [
+      "¿Cuántas intervenciones de tu última discusión se conectaron con la anterior?",
+      "¿Qué quedó sistematizado al final y quién lo escribió?",
+      "¿Qué conocimiento base necesitaban para que la discusión fuera algo más que opiniones?"
+    ],
+    "lecturas": [
+      [
+        "Alexander, R. (2020). *A Dialogic Teaching Companion*.",
+        "marco y repertorio de enseñanza dialógica con criterios observables."
+      ],
+      [
+        "Michaels, S. & O'Connor, C. (2012). *Talk Science Primer*.",
+        "protocolos concretos de conducción de discusión con encadenamiento."
+      ]
+    ],
+    "inclusion": "Las discusiones plenarias favorecen a quienes tienen más capital verbal. El trabajo previo en parejas, los turnos asignados y la aceptación de respuestas en lenguaje cotidiano amplían quiénes participan realmente.",
+    "reto": "Conduce una discusión con guion y registra quién habló y cuántas intervenciones se encadenaron. Rediseña las reglas a partir de ese registro.",
+    "conexion": "Se articula con las clases 067 y 124 y aporta el cierre conceptual que la clase 066 exige."
+  },
+  {
+    "n": 126,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué mostrar el resultado terminado enseña menos que mostrar el proceso de llegar a él",
+    "proposito": "Modelar procedimientos y razonamientos haciendo visible el pensamiento experto —decisiones, dudas, correcciones— que normalmente permanece oculto.",
+    "decision": "determinar qué parte del proceso experto debes hacer visible para que tus estudiantes puedan imitarlo",
+    "entregable": "el guion de un modelamiento con pensamiento en voz alta, incluidas las decisiones y los errores previstos",
+    "conceptos": [
+      [
+        "Modelamiento",
+        "demostración del procedimiento por parte del docente con explicación de sus decisiones"
+      ],
+      [
+        "Pensamiento en voz alta",
+        "verbalización del razonamiento interno mientras se ejecuta la tarea"
+      ],
+      [
+        "Ejemplo trabajado",
+        "problema resuelto paso a paso que reduce la carga del novato"
+      ],
+      [
+        "Desvanecimiento",
+        "retirada progresiva del modelo a medida que el estudiante puede ejecutar solo"
+      ]
+    ],
+    "desarrollo": "El experto ejecuta sin verbalizar y el novato ve solo el resultado, no las decisiones que lo produjeron: por qué se descartó una alternativa, dónde se detuvo a comprobar, qué hizo cuando se equivocó. Hacer visible ese proceso —hablar mientras se resuelve, incluyendo las dudas— es una de las prácticas con mejor respaldo, y es la base del efecto documentado de los ejemplos trabajados.",
+    "practica": "El guion de modelamiento incluye lo que se dirá en cada paso, dónde se hará una pausa, qué error se cometerá deliberadamente para mostrar la corrección. Ese último recurso es potente: los estudiantes aprenden que equivocarse y comprobar forma parte del procedimiento experto, no de la incompetencia.",
+    "limites": "El modelamiento pierde eficacia con estudiantes que ya dominan el procedimiento: el efecto de los ejemplos trabajados se invierte con la experticia. Además, observar produce la ilusión de saber hacer: sin práctica inmediata, el modelamiento no se convierte en competencia.",
+    "errores": [
+      "Mostrar el procedimiento terminado sin verbalizar las decisiones que lo produjeron.",
+      "Prolongar el modelamiento con estudiantes que ya deberían estar practicando."
+    ],
+    "criterios": [
+      "el guion verbaliza decisiones y no solo pasos de ejecución;",
+      "incluye práctica inmediata posterior con corrección;"
+    ],
+    "preguntas": [
+      "¿Qué decisión tuya al resolver es invisible para tus estudiantes?",
+      "¿Dónde te equivocarías a propósito para mostrar cómo se comprueba?",
+      "¿Cuándo deberías dejar de modelar con este grupo?"
+    ],
+    "lecturas": [
+      [
+        "Collins, A., Brown, J. S. & Newman, S. (1989). *Cognitive Apprenticeship*.",
+        "formula el modelamiento, el andamiaje y el desvanecimiento como sistema de enseñanza."
+      ],
+      [
+        "Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*.",
+        "aporta la evidencia sobre ejemplos trabajados y su reversión por experticia."
+      ]
+    ],
+    "inclusion": "Hacer visible el proceso experto beneficia especialmente a estudiantes sin modelos académicos en su entorno, que de otro modo suponen que los demás resuelven sin esfuerzo y atribuyen su dificultad a incapacidad propia.",
+    "reto": "Modela un procedimiento pensando en voz alta y grábate. Revisa cuántas decisiones verbalizaste y cuántas diste por obvias.",
+    "conexion": "Es el primer paso de la secuencia de las clases 127 y 128, y aplica la clase 019."
+  },
+  {
+    "n": 127,
+    "evidencia": "ROBUSTA",
+    "foco": "cómo se decide cuánto apoyo dar y, sobre todo, cuándo quitarlo",
+    "proposito": "Diseñar andamiaje ajustado al desempeño real y con criterio explícito de retiro, evitando tanto la dependencia como el abandono prematuro.",
+    "decision": "determinar el criterio que activará el retiro de cada apoyo que ofreces",
+    "entregable": "una secuencia con tres niveles de andamiaje y el criterio observable de retiro de cada uno",
+    "conceptos": [
+      [
+        "Andamiaje",
+        "apoyo temporal ajustado que permite un desempeño todavía no autónomo"
+      ],
+      [
+        "Ajuste",
+        "correspondencia entre el apoyo ofrecido y el desempeño observado, no el esperado"
+      ],
+      [
+        "Desvanecimiento",
+        "retirada progresiva del apoyo conforme aumenta el dominio"
+      ],
+      [
+        "Dependencia inducida",
+        "situación en que el apoyo permanente impide el desarrollo de la autonomía"
+      ]
+    ],
+    "desarrollo": "El andamiaje tiene tres propiedades que lo distinguen de la simple ayuda: es contingente al desempeño observado, es temporal y tiene criterio de retiro. La ayuda que se da siempre igual, independiente de cómo va el estudiante, no es andamiaje: es una muleta. Y el apoyo que nunca se retira produce dependencia, que en la práctica se observa como estudiantes que solo trabajan cuando el docente está al lado.",
+    "practica": "Escribir el criterio de retiro junto con el apoyo es lo que convierte la intuición en decisión profesional: «se retira la plantilla cuando complete dos tareas sin errores en la estructura». Sin ese criterio, el apoyo permanece por inercia y nadie nota el problema hasta la evaluación final, cuando el estudiante ya no tiene el andamio.",
+    "limites": "El andamiaje contingente exige observar de cerca, lo que en cursos numerosos es difícil de sostener para todos. La alternativa realista es andamiaje diferenciado por grupos y no individual, con criterios de retiro por grupo. Reconocer esa restricción evita diseños ideales que nadie ejecuta.",
+    "errores": [
+      "Ofrecer siempre el mismo apoyo sin relación con el desempeño observado.",
+      "Retirar el andamiaje por calendario y no por criterio de dominio."
+    ],
+    "criterios": [
+      "cada nivel de andamiaje declara su criterio observable de retiro;",
+      "existe al menos una instancia de desempeño sin apoyo antes de la evaluación;"
+    ],
+    "preguntas": [
+      "¿Qué apoyo tuyo lleva meses sin cambiar?",
+      "¿Cómo sabrías que un estudiante ya no lo necesita?",
+      "¿Qué estudiantes solo trabajan cuando estás al lado, y qué dice eso de tu andamiaje?"
+    ],
+    "lecturas": [
+      [
+        "Wood, D., Bruner, J. & Ross, G. (1976). *The Role of Tutoring in Problem Solving*.",
+        "define el andamiaje con criterios observables de ajuste y retiro."
+      ],
+      [
+        "van de Pol, J., Volman, M. & Beishuizen, J. (2010). *Scaffolding in Teacher–Student Interaction*.",
+        "revisión que sistematiza contingencia, desvanecimiento y transferencia de responsabilidad."
+      ]
+    ],
+    "inclusion": "El andamiaje es el mecanismo que permite exigir el mismo objetivo a todos: cambia la vía y no la meta. Su registro y revisión evitan que un apoyo se convierta en una etiqueta permanente sobre el estudiante.",
+    "reto": "Diseña tres niveles de andamiaje con criterio de retiro y aplícalos un mes. Registra cuántos estudiantes avanzaron de nivel y cuántos apoyos no lograste retirar.",
+    "conexion": "Aplica la clase 016 y ordena la transición entre las clases 126 y 128."
+  },
+  {
+    "n": 128,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué la práctica sin corrección inmediata consolida errores en vez de aprendizajes",
+    "proposito": "Diseñar la transición de práctica guiada a práctica independiente con corrección oportuna, dosificación adecuada y distribución en el tiempo.",
+    "decision": "determinar cuándo tu grupo está listo para practicar sin corrección inmediata",
+    "entregable": "un diseño de práctica con fase guiada, criterio de paso e independiente, con corrección planificada",
+    "conceptos": [
+      [
+        "Práctica guiada",
+        "ejecución del estudiante con verificación y corrección inmediata del docente"
+      ],
+      [
+        "Práctica independiente",
+        "ejecución autónoma, cuando el desempeño ya es correcto de forma consistente"
+      ],
+      [
+        "Corrección oportuna",
+        "retroalimentación entregada antes de que el error se consolide"
+      ],
+      [
+        "Dosificación",
+        "cantidad y distribución de la práctica necesaria para automatizar sin saturar"
+      ]
+    ],
+    "desarrollo": "El error más costoso en la enseñanza de procedimientos es dejar practicar demasiado pronto sin corrección: el estudiante repite el procedimiento equivocado hasta automatizarlo, y desaprenderlo cuesta mucho más que aprenderlo bien la primera vez. La regla derivada de la investigación sobre docentes eficaces es simple: no se pasa a práctica independiente hasta que el desempeño guiado es correcto de forma consistente.",
+    "practica": "El diseño explicita el criterio de paso —por ejemplo, tres ejecuciones correctas seguidas— y organiza la corrección: quién corrige, cuándo y cómo, considerando que un docente no puede revisar treinta ejecuciones simultáneas. Autocorrección con pauta, corrección entre pares con criterios y muestreo del docente son alternativas viables. Y la práctica se distribuye en el tiempo en vez de concentrarse.",
+    "limites": "La práctica excesiva sin variación produce ejecución rígida que no transfiere. Y la corrección inmediata, útil al inicio, puede volverse contraproducente después: en fases avanzadas, demorar la retroalimentación favorece la retención. Ajustar el momento de la corrección según la fase es parte del oficio.",
+    "errores": [
+      "Enviar a práctica independiente antes de comprobar desempeño correcto consistente.",
+      "Concentrar toda la práctica en una sesión y no volver sobre el procedimiento."
+    ],
+    "criterios": [
+      "el diseño declara el criterio de paso a práctica independiente;",
+      "la corrección está planificada y es viable con el número real de estudiantes;"
+    ],
+    "preguntas": [
+      "¿Cuántas ejecuciones correctas necesitas ver antes de soltar?",
+      "¿Quién corrige la práctica de treinta estudiantes y cómo?",
+      "¿Cuándo vuelven a practicar este procedimiento?"
+    ],
+    "lecturas": [
+      [
+        "Rosenshine, B. (2012). *Principles of Instruction*.",
+        "establece la secuencia de práctica guiada e independiente con sus criterios."
+      ],
+      [
+        "Soderstrom, N. & Bjork, R. (2015). *Learning versus Performance*.",
+        "distingue desempeño inmediato de aprendizaje duradero; clave para dosificar y distribuir."
+      ]
+    ],
+    "inclusion": "Los estudiantes sin apoyo en casa dependen enteramente de que la práctica corregida ocurra en clase. Enviar práctica sin corrección como tarea domiciliaria amplía la brecha en vez de reducirla.",
+    "reto": "Aplica un criterio explícito de paso a práctica independiente durante una unidad. Compara la cantidad de errores consolidados con la unidad anterior.",
+    "conexion": "Cierra la secuencia de las clases 126 y 127 y se apoya en la clase 020."
+  },
+  {
+    "n": 129,
+    "evidencia": "ROBUSTA",
+    "foco": "qué condiciones convierten un trabajo en grupo en aprendizaje colaborativo real",
+    "proposito": "Diseñar aprendizaje colaborativo con las condiciones que la evidencia identifica: interdependencia positiva, responsabilidad individual, interacción promotora, habilidades sociales y evaluación del proceso.",
+    "decision": "determinar qué condición de la colaboración falta en tu diseño de trabajo grupal",
+    "entregable": "un diseño de trabajo colaborativo con interdependencia y responsabilidad individual explícitas",
+    "conceptos": [
+      [
+        "Interdependencia positiva",
+        "estructura en que el logro de uno requiere el logro de los demás"
+      ],
+      [
+        "Responsabilidad individual",
+        "exigencia de que cada integrante responda por su aprendizaje, no solo el grupo por el producto"
+      ],
+      [
+        "Interacción promotora",
+        "dinámica en que los integrantes se explican, se corrigen y se apoyan efectivamente"
+      ],
+      [
+        "Habilidades de colaboración",
+        "conductas concretas —escuchar, pedir aclaración, distribuir— que se enseñan explícitamente"
+      ]
+    ],
+    "desarrollo": "Poner a los estudiantes en grupos no produce aprendizaje colaborativo: produce reparto de tareas, donde uno hace, otro copia y otro se desconecta. La investigación identifica condiciones específicas que hacen la diferencia, y la más determinante es la combinación de interdependencia positiva con responsabilidad individual: la tarea debe requerir a todos y cada uno debe responder por lo aprendido.",
+    "practica": "Diseñar estas condiciones exige decisiones concretas: información distribuida entre integrantes, roles con función real, evaluación individual del contenido además del producto grupal, y enseñanza explícita de las conductas de colaboración. Los grupos de tres a cuatro funcionan mejor que los grandes, donde la desconexión es más fácil.",
+    "limites": "El aprendizaje colaborativo tiene evidencia sólida cuando se cumplen sus condiciones y resultados pobres cuando no. También tiene costos: consume más tiempo que la instrucción directa para el mismo contenido, de modo que conviene reservarlo para objetivos que lo justifiquen —explicar, argumentar, resolver problemas complejos— y no para todo.",
+    "errores": [
+      "Evaluar solo el producto grupal, con lo que se premia el reparto y no el aprendizaje.",
+      "Suponer que las habilidades de colaboración están disponibles sin haberlas enseñado."
+    ],
+    "criterios": [
+      "la tarea exige genuinamente a todos los integrantes para completarse;",
+      "existe evaluación individual del aprendizaje además del producto del grupo;"
+    ],
+    "preguntas": [
+      "¿Podría un integrante completar la tarea solo? Si sí, no hay interdependencia.",
+      "¿Cómo sabes qué aprendió cada uno?",
+      "¿Qué conducta de colaboración enseñaste explícitamente este semestre?"
+    ],
+    "lecturas": [
+      [
+        "Johnson, D. & Johnson, R. (2009). *An Educational Psychology Success Story*.",
+        "define las cinco condiciones del aprendizaje cooperativo con la evidencia acumulada."
+      ],
+      [
+        "Slavin, R. (2014). *Cooperative Learning and Academic Achievement*.",
+        "revisa qué estructuras cooperativas producen efectos y cuáles no."
+      ]
+    ],
+    "inclusion": "Sin condiciones explícitas, el trabajo grupal reproduce las jerarquías del curso: los mismos deciden, los mismos ejecutan y los mismos quedan al margen. Roles asignados y responsabilidad individual corrigen esa dinámica.",
+    "reto": "Rediseña un trabajo grupal con interdependencia y responsabilidad individual. Compara el aprendizaje individual con el de la versión anterior.",
+    "conexion": "Se apoya en la clase 016 y condiciona el diseño de las clases 065 y 132."
+  },
+  {
+    "n": 130,
+    "evidencia": "EN-DEBATE",
+    "foco": "qué hace funcionar el aula invertida y por qué fracasa cuando nadie estudia el material previo",
+    "proposito": "Diseñar aula invertida con sus condiciones de funcionamiento: material previo breve y verificado, tiempo de clase dedicado a práctica y aplicación, y mecanismo real que asegure la preparación.",
+    "decision": "determinar qué mecanismo asegurará que el material previo se estudie antes de la sesión",
+    "entregable": "un diseño de aula invertida con material previo, verificación de preparación y uso justificado del tiempo presencial",
+    "conceptos": [
+      [
+        "Aula invertida",
+        "modelo que traslada la primera exposición al contenido fuera de la sesión y usa el tiempo presencial para práctica"
+      ],
+      [
+        "Material previo",
+        "recurso breve y estructurado que el estudiante trabaja antes de la clase"
+      ],
+      [
+        "Verificación de preparación",
+        "mecanismo que comprueba y hace consecuente el trabajo previo"
+      ],
+      [
+        "Uso del tiempo presencial",
+        "actividades que aprovechan la presencia del docente y de los pares"
+      ]
+    ],
+    "desarrollo": "El aula invertida tiene una lógica sólida: si la exposición puede consumirse de forma asincrónica, el tiempo presencial se reserva para lo que requiere al docente y a los pares —práctica corregida, resolución de dificultades, discusión—. La condición crítica es que el material previo se trabaje efectivamente, y ahí fracasa la mayoría de las implementaciones. Sin verificación con consecuencia, entre la mitad y dos tercios llega sin preparación.",
+    "practica": "El diseño requiere material breve —no una clase grabada de cincuenta minutos—, con preguntas incorporadas, y una verificación al inicio de la sesión que tenga alguna consecuencia. Y el tiempo presencial debe cambiar realmente: si se vuelve a explicar lo mismo, el modelo se anula y los estudiantes aprenden que no vale la pena prepararse.",
+    "limites": "Los metaanálisis muestran efectos positivos pequeños a moderados, con alta heterogeneidad y dependientes del diseño. El modelo traslada carga de trabajo al estudiante y penaliza a quienes tienen menos tiempo o peor conectividad, lo que puede aumentar desigualdades si no se compensa.",
+    "errores": [
+      "Grabar la clase completa y llamarlo aula invertida.",
+      "Repetir la explicación en la sesión presencial, con lo que se elimina el incentivo a prepararse."
+    ],
+    "criterios": [
+      "el material previo es breve, estructurado y con preguntas incorporadas;",
+      "existe verificación de preparación con consecuencia al inicio de la sesión;"
+    ],
+    "preguntas": [
+      "¿Qué proporción de tu curso llega realmente preparada?",
+      "¿Qué haces en la sesión que no podrías hacer sin la preparación previa?",
+      "¿Quién no puede estudiar el material previo por sus condiciones, y cómo lo compensas?"
+    ],
+    "lecturas": [
+      [
+        "Abeysekera, L. & Dawson, P. (2015). *Motivation and Cognitive Load in the Flipped Classroom*.",
+        "analiza los mecanismos que explicarían el efecto y sus condiciones."
+      ],
+      [
+        "van Alten, D. et al. (2019). *Effects of Flipping the Classroom on Learning: A Meta-Analysis*.",
+        "síntesis con efectos, heterogeneidad y variables moderadoras."
+      ]
+    ],
+    "inclusion": "El modelo supone tiempo y conectividad fuera de la jornada. En contextos con desigualdad de acceso, ofrecer el material también en formato descargable o en tiempo de escuela evita que el diseño excluya a quienes menos recursos tienen.",
+    "reto": "Implementa una unidad invertida con verificación de preparación. Mide qué proporción llega preparada y ajusta el mecanismo hasta superar el ochenta por ciento.",
+    "conexion": "Se apoya en las clases 122 y 128 y su implementación técnica se trabaja en la parte 13."
+  },
+  {
+    "n": 131,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué implica realmente enseñar para el dominio cuando el calendario no se puede mover",
+    "proposito": "Aplicar la lógica del aprendizaje para el dominio: criterio de logro fijo, tiempo variable, evaluación formativa frecuente y enseñanza correctiva antes de avanzar.",
+    "decision": "determinar qué harás con quienes no alcanzan el criterio, dentro de las restricciones reales de tu calendario",
+    "entregable": "un diseño de unidad con criterio de dominio, evaluación formativa y enseñanza correctiva planificada",
+    "conceptos": [
+      [
+        "Aprendizaje para el dominio",
+        "enfoque que fija el nivel de logro y permite variar el tiempo hasta alcanzarlo"
+      ],
+      [
+        "Enseñanza correctiva",
+        "enseñanza distinta —no repetición— dirigida a quienes no alcanzaron el criterio"
+      ],
+      [
+        "Evaluación formativa frecuente",
+        "comprobación periódica que identifica a tiempo a quienes no logran el criterio"
+      ],
+      [
+        "Actividad de enriquecimiento",
+        "trabajo con mayor exigencia para quienes ya alcanzaron el criterio"
+      ]
+    ],
+    "desarrollo": "La lógica del dominio invierte la variable que se deja libre: en vez de fijar el tiempo y aceptar resultados dispares, fija el resultado y permite variar el tiempo. Su evidencia es favorable, sobre todo para estudiantes con menor desempeño previo. Su dificultad es organizacional: los calendarios escolares y universitarios están construidos sobre tiempo fijo, y sin margen para el tiempo variable el enfoque se convierte en una declaración.",
+    "practica": "La implementación realista trabaja dentro de la restricción: unidades más cortas con evaluación formativa al cierre, enseñanza correctiva para quienes no alcanzan el criterio mientras el resto realiza enriquecimiento, y un segundo intento con instrumento equivalente. La clave es que la enseñanza correctiva sea distinta de la original: repetir lo mismo más lento no funciona.",
+    "limites": "El enfoque exige tiempo docente adicional y materiales alternativos, y su efecto depende de la calidad de la enseñanza correctiva. Además, en cursos con currículo extenso y evaluación externa, detenerse hasta el dominio puede comprometer la cobertura. Es una decisión de priorización que conviene tomar explícitamente y no por omisión.",
+    "errores": [
+      "Ofrecer como enseñanza correctiva la misma explicación repetida.",
+      "Declarar aprendizaje para el dominio sin ninguna holgura real de tiempo en la planificación."
+    ],
+    "criterios": [
+      "el diseño incluye enseñanza correctiva distinta de la enseñanza original;",
+      "prevé actividad de enriquecimiento para quienes ya alcanzaron el criterio;"
+    ],
+    "preguntas": [
+      "¿Qué haces hoy con quien no alcanzó el criterio, además de anotar la nota?",
+      "¿En qué se diferencia tu enseñanza correctiva de la original?",
+      "¿Qué holgura real tiene tu calendario para esto?"
+    ],
+    "lecturas": [
+      [
+        "Bloom, B. (1968). *Learning for Mastery*.",
+        "la formulación original del enfoque y su fundamento."
+      ],
+      [
+        "Guskey, T. (2010). *Lessons of Mastery Learning*. Educational Leadership, 68(2).",
+        "revisa qué se implementa mal y qué condiciones hacen funcionar el enfoque."
+      ]
+    ],
+    "inclusion": "El aprendizaje para el dominio beneficia especialmente a estudiantes con menor desempeño previo, que en el modelo de tiempo fijo acumulan vacíos. Es una de las estructuras de enseñanza más equitativas disponibles, y también una de las más exigentes de sostener.",
+    "reto": "Aplica el enfoque en una unidad corta con enseñanza correctiva real. Compara la proporción de estudiantes que alcanza el criterio con la unidad anterior.",
+    "conexion": "Se apoya en las clases 058 y 128 y anticipa el problema de la parte 11 sobre evaluación con consecuencias."
+  },
+  {
+    "n": 132,
+    "evidencia": "ROBUSTA",
+    "foco": "cómo se articulan todas las técnicas de la parte en una secuencia que se sostiene en el tiempo real de clase",
+    "proposito": "Integrar la parte diseñando y ejecutando una secuencia didáctica completa que combine explicación, modelamiento, andamiaje, práctica, verificación y colaboración con criterio.",
+    "decision": "determinar la secuencia completa de decisiones didácticas y su justificación técnica",
+    "entregable": "una secuencia didáctica completa ejecutada, con registro de implementación y análisis de sus resultados",
+    "conceptos": [
+      [
+        "Secuencia didáctica",
+        "conjunto ordenado de decisiones de enseñanza para un contenido determinado"
+      ],
+      [
+        "Justificación técnica",
+        "fundamento de cada decisión en un mecanismo de aprendizaje documentado"
+      ],
+      [
+        "Registro de implementación",
+        "documentación de lo que efectivamente ocurrió, incluidas las desviaciones"
+      ],
+      [
+        "Análisis de resultados",
+        "comparación entre lo esperado y lo obtenido, con hipótesis sobre las diferencias"
+      ]
+    ],
+    "desarrollo": "La secuencia integradora exige elegir: no todas las técnicas caben en una unidad, y usarlas todas produce clases sobrecargadas. La competencia profesional consiste en escoger las que corresponden al contenido, al grupo y al tiempo disponible, y justificar cada elección. Un docente experto no usa más técnicas: usa las adecuadas y las ejecuta bien.",
+    "practica": "El trabajo incluye diseñar, ejecutar y registrar. El registro de implementación es lo que permite interpretar los resultados: una secuencia que no funcionó puede haber estado mal diseñada o mal ejecutada, y sin registro no se puede distinguir. Ese es el mismo criterio que la parte 16 exige a cualquier investigación.",
+    "limites": "Una secuencia aplicada una vez, con un grupo, no prueba nada sobre la eficacia de las técnicas: hay efecto de novedad, esfuerzo adicional y particularidades del grupo. Lo que produce es evidencia sobre tu propia práctica, suficiente para decidir la siguiente iteración y no para generalizar.",
+    "errores": [
+      "Incorporar todas las técnicas de la parte y sobrecargar la secuencia.",
+      "Interpretar el resultado sin registro de implementación."
+    ],
+    "criterios": [
+      "cada decisión didáctica está justificada por un mecanismo y por el contexto del grupo;",
+      "el registro de implementación documenta desviaciones y permite interpretar el resultado;"
+    ],
+    "preguntas": [
+      "¿Qué técnica descartaste y por qué?",
+      "¿Qué se desvió de lo planificado y cómo afectó el resultado?",
+      "¿Qué cambiarías en la próxima iteración y qué evidencia lo sostiene?"
+    ],
+    "lecturas": [
+      [
+        "Rosenshine, B. (2012). *Principles of Instruction*.",
+        "marco de referencia para justificar y ordenar las decisiones de la secuencia."
+      ],
+      [
+        "Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*.",
+        "modelo de justificación de decisiones didácticas a partir de la investigación."
+      ]
+    ],
+    "inclusion": "El análisis de resultados debe desagregarse: una secuencia que funcionó en promedio puede haber dejado fuera al mismo tercio de siempre. Mirar quién no aprendió es la parte que convierte el ejercicio en mejora real.",
+    "reto": "Ejecuta la secuencia, registra la implementación y analiza los resultados por estudiante. Escribe qué cambiarás y por qué antes de la siguiente iteración.",
+    "conexion": "Cierra la parte 10 integrando sus once clases previas y se conecta con las partes 11 y 16."
+  }
 ]

@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Mineduc. *Normativa y orientaciones sobre formación dual en Chile*. | define requisitos, convenios y responsabilidades vigentes de la modalidad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| UNESCO-UNEVOC / OCDE. *Estudios comparados sobre aprendizaje dual y transición al empleo*. | evidencia internacional sobre condiciones que hacen funcionar el modelo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Normativa y orientaciones sobre formación dual en Chile* (edición vigente). | define requisitos, convenios y responsabilidades vigentes de la modalidad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| UNESCO-UNEVOC / OCDE. *Estudios comparados sobre aprendizaje dual y transición al empleo* (edición vigente). | evidencia internacional sobre condiciones que hacen funcionar el modelo. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Billett, S. (2011). *Vocational Education: Purposes, Traditions and Prospects*. | sitúa el aprendizaje dual en la tradición de la formación en el puesto de trabajo y sus tensiones. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Normativa y orientaciones sobre formación dual en Chile*. **Uso en esta clase:** define requisitos, convenios y responsabilidades vigentes de la modalidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO-UNEVOC / OCDE. *Estudios comparados sobre aprendizaje dual y transición al empleo*. **Uso en esta clase:** evidencia internacional sobre condiciones que hacen funcionar el modelo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Normativa y orientaciones sobre formación dual en Chile* (edición vigente). **Uso en esta clase:** define requisitos, convenios y responsabilidades vigentes de la modalidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO-UNEVOC / OCDE. *Estudios comparados sobre aprendizaje dual y transición al empleo* (edición vigente). **Uso en esta clase:** evidencia internacional sobre condiciones que hacen funcionar el modelo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Billett, S. (2011). *Vocational Education: Purposes, Traditions and Prospects*. **Uso en esta clase:** sitúa el aprendizaje dual en la tradición de la formación en el puesto de trabajo y sus tensiones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

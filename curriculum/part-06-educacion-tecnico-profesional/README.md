@@ -86,8 +86,8 @@ flowchart TB
 
 - **Lave, J. & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*.** — explica por qué el taller enseña más que el contenido del taller: se aprende a ser parte de una comunidad de oficio.
 - **Schön, D. (1983). *The Reflective Practitioner*.** — fundamenta la reflexión en la acción, que es el mecanismo real de aprendizaje en formación práctica.
-- **Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional* y Marco de Cualificaciones TP.** — define especialidades, perfiles de egreso y estándares vigentes en Chile.
-- **UNESCO-UNEVOC. *Informes sobre educación y formación técnica y profesional*.** — comparación internacional de modelos duales y de transición al empleo.
+- **Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional* y Marco de Cualificaciones TP (edición vigente).** — define especialidades, perfiles de egreso y estándares vigentes en Chile.
+- **UNESCO-UNEVOC. *Informes sobre educación y formación técnica y profesional* (edición vigente).** — comparación internacional de modelos duales y de transición al empleo.
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

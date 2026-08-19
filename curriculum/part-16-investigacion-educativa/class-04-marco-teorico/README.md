@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Maxwell, J. (2013). *Qualitative Research Design*. | explica el marco teórico como herramienta de diseño y no como requisito formal. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Merton, R. *Teorías de alcance intermedio*. | fundamenta el nivel de teorización que resulta productivo en investigación social aplicada. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Merton, R. (1968). *Social Theory and Social Structure*. | fundamenta el nivel de teorización que resulta productivo en investigación social aplicada. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Maxwell, J. (2013). *Qualitative Research Design*. **Uso en esta clase:** explica el marco teórico como herramienta de diseño y no como requisito formal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Merton, R. *Teorías de alcance intermedio*. **Uso en esta clase:** fundamenta el nivel de teorización que resulta productivo en investigación social aplicada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Merton, R. (1968). *Social Theory and Social Structure*. **Uso en esta clase:** fundamenta el nivel de teorización que resulta productivo en investigación social aplicada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

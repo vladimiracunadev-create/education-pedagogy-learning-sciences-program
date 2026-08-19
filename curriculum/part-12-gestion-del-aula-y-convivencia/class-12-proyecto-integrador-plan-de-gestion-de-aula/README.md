@@ -148,8 +148,8 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Evertson, C. & Emmer, E. *Classroom Management*. | modelo completo de planificación de la gestión desde el comienzo del año. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc. *Política Nacional de Convivencia Educativa*. | marco chileno que enmarca el plan del docente en la política institucional. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Evertson, C. & Emmer, E. *Classroom Management* (edición vigente). | modelo completo de planificación de la gestión desde el comienzo del año. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Política Nacional de Convivencia Educativa* (edición vigente). | marco chileno que enmarca el plan del docente en la política institucional. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +333,8 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Evertson, C. & Emmer, E. *Classroom Management*. **Uso en esta clase:** modelo completo de planificación de la gestión desde el comienzo del año. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Política Nacional de Convivencia Educativa*. **Uso en esta clase:** marco chileno que enmarca el plan del docente en la política institucional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Evertson, C. & Emmer, E. *Classroom Management* (edición vigente). **Uso en esta clase:** modelo completo de planificación de la gestión desde el comienzo del año. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Política Nacional de Convivencia Educativa* (edición vigente). **Uso en esta clase:** marco chileno que enmarca el plan del docente en la política institucional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

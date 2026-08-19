@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| Biblioteca del Congreso Nacional de Chile. *LeyChile*. | fuente oficial de normativa consolidada; usa siempre la versión vigente a la fecha en que aplicarás la norma. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc, Agencia de Calidad y Superintendencia de Educación. *Sitios institucionales*. | definen competencias, procedimientos y vías de reclamo del sistema de aseguramiento de la calidad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Biblioteca del Congreso Nacional de Chile. *LeyChile* (edición vigente). | fuente oficial de normativa consolidada; usa siempre la versión vigente a la fecha en que aplicarás la norma. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc, Agencia de Calidad y Superintendencia de Educación. *Sitios institucionales* (edición vigente). | definen competencias, procedimientos y vías de reclamo del sistema de aseguramiento de la calidad. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. | convierte el mapa institucional en un análisis de sus efectos reales sobre los estudiantes. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Biblioteca del Congreso Nacional de Chile. *LeyChile*. **Uso en esta clase:** fuente oficial de normativa consolidada; usa siempre la versión vigente a la fecha en que aplicarás la norma. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc, Agencia de Calidad y Superintendencia de Educación. *Sitios institucionales*. **Uso en esta clase:** definen competencias, procedimientos y vías de reclamo del sistema de aseguramiento de la calidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biblioteca del Congreso Nacional de Chile. *LeyChile* (edición vigente). **Uso en esta clase:** fuente oficial de normativa consolidada; usa siempre la versión vigente a la fecha en que aplicarás la norma. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc, Agencia de Calidad y Superintendencia de Educación. *Sitios institucionales* (edición vigente). **Uso en esta clase:** definen competencias, procedimientos y vías de reclamo del sistema de aseguramiento de la calidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. **Uso en esta clase:** convierte el mapa institucional en un análisis de sus efectos reales sobre los estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

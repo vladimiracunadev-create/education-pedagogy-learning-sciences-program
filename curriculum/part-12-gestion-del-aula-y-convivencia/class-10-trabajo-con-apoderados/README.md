@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Epstein, J. (2011). *School, Family, and Community Partnerships*. | marco de trabajo con familias y tipos de participación con evidencia. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Superintendencia de Educación (Chile). *Orientaciones sobre comunicación con las familias y resguardo de información*. | define obligaciones y buenas prácticas aplicables en el sistema chileno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Superintendencia de Educación (Chile). *Orientaciones sobre comunicación con las familias y resguardo de información* (edición vigente). | define obligaciones y buenas prácticas aplicables en el sistema chileno. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Epstein, J. (2011). *School, Family, and Community Partnerships*. **Uso en esta clase:** marco de trabajo con familias y tipos de participación con evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Superintendencia de Educación (Chile). *Orientaciones sobre comunicación con las familias y resguardo de información*. **Uso en esta clase:** define obligaciones y buenas prácticas aplicables en el sistema chileno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Superintendencia de Educación (Chile). *Orientaciones sobre comunicación con las familias y resguardo de información* (edición vigente). **Uso en esta clase:** define obligaciones y buenas prácticas aplicables en el sistema chileno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| OCDE. *PISA: marco técnico y de evaluación*. | los supuestos, el diseño muestral y los límites declarados por el propio instrumento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *PISA: marco técnico y de evaluación* (edición vigente). | los supuestos, el diseño muestral y los límites declarados por el propio instrumento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 | AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. | el criterio de uso previsto aplicado a instrumentos comparados de gran escala. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Goldstein, H. (2004). *International Comparisons of Student Attainment: Some Issues Arising from the PISA Study*. | la crítica metodológica que delimita qué se puede concluir de una comparación internacional. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *PISA: marco técnico y de evaluación*. **Uso en esta clase:** los supuestos, el diseño muestral y los límites declarados por el propio instrumento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *PISA: marco técnico y de evaluación* (edición vigente). **Uso en esta clase:** los supuestos, el diseño muestral y los límites declarados por el propio instrumento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 - AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. **Uso en esta clase:** el criterio de uso previsto aplicado a instrumentos comparados de gran escala. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Goldstein, H. (2004). *International Comparisons of Student Attainment: Some Issues Arising from the PISA Study*. **Uso en esta clase:** la crítica metodológica que delimita qué se puede concluir de una comparación internacional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

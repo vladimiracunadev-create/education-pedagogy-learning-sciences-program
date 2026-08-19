@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Fullan, M. (2011). *Choosing the Wrong Drivers for Whole System Reform*. | analiza por qué ciertas estrategias de mejora no producen efecto y cuáles sí. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo*. | marco chileno de planificación institucional con sus requisitos formales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente). | marco chileno de planificación institucional con sus requisitos formales. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Fullan, M. (2011). *Choosing the Wrong Drivers for Whole System Reform*. **Uso en esta clase:** analiza por qué ciertas estrategias de mejora no producen efecto y cuáles sí. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo*. **Uso en esta clase:** marco chileno de planificación institucional con sus requisitos formales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente). **Uso en esta clase:** marco chileno de planificación institucional con sus requisitos formales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

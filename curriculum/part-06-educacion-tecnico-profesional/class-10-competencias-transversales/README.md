@@ -148,8 +148,9 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
-| OCDE. *Skills for Jobs* y estudios sobre competencias transversales. | documenta la demanda del sector y los problemas de medición de estas competencias. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Tuning / Marco de cualificaciones. *Descriptores de competencias transversales*. | ejemplos de traducción de competencias genéricas a desempeños graduables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| OCDE. *Skills for Jobs* y estudios sobre competencias transversales (edición vigente). | documenta la demanda del sector y los problemas de medición de estas competencias. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Tuning / Marco de cualificaciones. *Descriptores de competencias transversales* (edición vigente). | ejemplos de traducción de competencias genéricas a desempeños graduables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Pellegrino, J. & Hilton, M. (eds.) (2012). *Education for Life and Work*. | la síntesis que separa lo que se sabe sobre competencias transversales de lo que se declara. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -333,8 +334,9 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Skills for Jobs* y estudios sobre competencias transversales. **Uso en esta clase:** documenta la demanda del sector y los problemas de medición de estas competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Tuning / Marco de cualificaciones. *Descriptores de competencias transversales*. **Uso en esta clase:** ejemplos de traducción de competencias genéricas a desempeños graduables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Skills for Jobs* y estudios sobre competencias transversales (edición vigente). **Uso en esta clase:** documenta la demanda del sector y los problemas de medición de estas competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Tuning / Marco de cualificaciones. *Descriptores de competencias transversales* (edición vigente). **Uso en esta clase:** ejemplos de traducción de competencias genéricas a desempeños graduables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Pellegrino, J. & Hilton, M. (eds.) (2012). *Education for Life and Work*. **Uso en esta clase:** la síntesis que separa lo que se sabe sobre competencias transversales de lo que se declara. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

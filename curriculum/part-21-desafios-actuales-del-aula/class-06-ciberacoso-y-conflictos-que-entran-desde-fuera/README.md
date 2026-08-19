@@ -149,7 +149,7 @@ después de leer, escribe una discrepancia real entre al menos dos fuentes.
 | Fuente | Lente que aporta | Pregunta crítica |
 |---|---|---|
 | Kowalski, R. et al. (2014). *Bullying in the Digital Age*. | síntesis de lo que se sabe sobre ciberacoso y de la debilidad de las intervenciones disponibles. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
-| Superintendencia de Educación de Chile. *Orientaciones sobre convivencia digital*. | el marco de competencia institucional y de obligaciones aplicables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Superintendencia de Educación de Chile. *Orientaciones sobre convivencia digital* (edición vigente). | el marco de competencia institucional y de obligaciones aplicables. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
 
 La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
 tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
@@ -334,7 +334,7 @@ norma cambió después de la fecha de esta clase, gana la norma.
 ## 📗 Fuentes y verificación
 
 - Kowalski, R. et al. (2014). *Bullying in the Digital Age*. **Uso en esta clase:** síntesis de lo que se sabe sobre ciberacoso y de la debilidad de las intervenciones disponibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Superintendencia de Educación de Chile. *Orientaciones sobre convivencia digital*. **Uso en esta clase:** el marco de competencia institucional y de obligaciones aplicables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Superintendencia de Educación de Chile. *Orientaciones sobre convivencia digital* (edición vigente). **Uso en esta clase:** el marco de competencia institucional y de obligaciones aplicables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·

@@ -1,361 +1,662 @@
 [
-{"n":25,"evidencia":"ROBUSTA",
- "foco":"por qué las condiciones de los primeros años dejan huella y por qué eso no autoriza a hablar de destinos irreversibles",
- "proposito":"Situar el desarrollo temprano como período de alta sensibilidad —no de determinación— y reconocer qué factores lo protegen o lo comprometen, con la precisión que la divulgación suele perder.",
- "decision":"determinar qué condiciones del entorno educativo temprano vas a priorizar cuando no puedes intervenir en todas",
- "entregable":"un análisis de un contexto de primera infancia real que identifique factores protectores y de riesgo, con acciones priorizadas",
- "conceptos":[
-  ["Período sensible","ventana en que un sistema es especialmente receptivo a cierta experiencia; no equivale a ventana que se cierra"],
-  ["Estrés tóxico","activación intensa y prolongada del sistema de estrés sin apoyo adulto amortiguador"],
-  ["Interacción contingente","intercambio en que el adulto responde de forma ajustada y oportuna a la señal del niño"],
-  ["Plasticidad","capacidad del sistema nervioso de reorganizarse con la experiencia; disminuye pero no desaparece con la edad"]],
- "desarrollo":"La evidencia sobre desarrollo temprano converge en un punto: la calidad de la interacción con adultos sensibles y estables es el factor más consistente asociado a resultados posteriores, por encima de los materiales, la estimulación programada o los recursos tecnológicos. También está bien establecido que la adversidad severa y sostenida, sin adulto amortiguador, afecta el desarrollo. Ambos hallazgos tienen una implicación educativa directa: el recurso más importante de una sala cuna es el adulto disponible, no el equipamiento.",
- "practica":"Para un equipo educativo esto significa proteger las condiciones que hacen posible la interacción sensible: proporción adulto-niño, estabilidad del personal, tiempo real de contacto individual, y rutinas de cuidado tratadas como oportunidades pedagógicas y no como trámites. Cuando hay que priorizar con recursos escasos, esas variables preceden a cualquier innovación curricular.",
- "limites":"La divulgación exagera este campo con frecuencia. No es cierto que existan ventanas que se cierran de forma irreversible a los tres años para la mayoría de las capacidades, ni que la estimulación intensiva temprana produzca ventajas duraderas por sí sola. La adversidad temprana aumenta el riesgo; no determina el resultado. Afirmar lo contrario ante una familia es incorrecto y además dañino.",
- "errores":[
-  "Hablar de ventanas que se cierran y de daños irreversibles ante familias, sin respaldo.",
-  "Priorizar equipamiento y programas de estimulación por sobre la proporción adulto-niño y la estabilidad del equipo."],
- "criterios":[
-  "el análisis identifica factores protectores y de riesgo con evidencia observada en el contexto;",
-  "las acciones priorizadas atacan primero las condiciones de interacción y estabilidad;"],
- "preguntas":[
-  "¿Cuánto tiempo de interacción individual recibe realmente cada niño en tu contexto?",
-  "¿Qué afirmación sobre el cerebro infantil has escuchado que no resistiría una verificación?",
-  "¿Qué harías primero si solo pudieras mejorar una condición del ambiente temprano?"],
- "lecturas":[
-  ["Shonkoff, J. & Phillips, D. (eds.) (2000). *From Neurons to Neighborhoods*.","la síntesis de referencia; distingue con cuidado lo establecido de lo sugerido."],
-  ["Center on the Developing Child, Harvard. *Working Papers* sobre estrés tóxico y funciones ejecutivas.","material técnico riguroso y accesible; útil para comunicar a equipos y familias sin exagerar."]],
- "inclusion":"Los factores de riesgo se concentran en las familias con menos apoyo, y las intervenciones mal diseñadas culpabilizan a los cuidadores en vez de sostenerlos. Toda acción debe evaluarse por si aumenta o disminuye la carga sobre quien ya está sobrecargado.",
- "reto":"Observa una jornada completa en un contexto de primera infancia y registra cuántas interacciones contingentes recibe un niño concreto. Propón una modificación de rutina que aumente ese número sin recursos adicionales.",
- "conexion":"Es la base de la parte 03 y se conecta con la clase 030 sobre apego. Su tratamiento de la evidencia anticipa el criterio que la parte 16 exige a cualquier afirmación causal."},
-
-{"n":26,"evidencia":"ROBUSTA",
- "foco":"por qué el movimiento y la experiencia sensorial no son un complemento del aprendizaje temprano sino su vehículo",
- "proposito":"Comprender la trayectoria motora y sensorial y sus implicancias educativas: el cuerpo es el instrumento con el que se explora, se regula y se aprende durante los primeros años, y sigue importando después.",
- "decision":"determinar qué condiciones motoras y sensoriales debe cumplir el ambiente para que la actividad que diseñaste sea posible",
- "entregable":"una revisión de un espacio educativo con ajustes motores y sensoriales fundamentados",
- "conceptos":[
-  ["Motricidad gruesa y fina","control de grandes grupos musculares y de movimientos precisos; siguen trayectorias distintas"],
-  ["Integración sensorial","procesamiento y organización de la información de los sentidos para responder al entorno"],
-  ["Regulación sensorial","capacidad de mantener un nivel de activación adecuado ante la estimulación del ambiente"],
-  ["Exploración autónoma","actividad iniciada por el propio niño; principal fuente de aprendizaje motor y espacial temprano"]],
- "desarrollo":"El desarrollo motor sigue regularidades robustas en su secuencia y amplia variabilidad en sus tiempos. Lo relevante para la educación es que el movimiento no es solo un logro a alcanzar: es el medio por el cual el niño accede a la información del mundo. Un niño que ya se desplaza recibe experiencias cualitativamente distintas de uno que aún no, y esa diferencia repercute en su desarrollo espacial, social y lingüístico.",
- "practica":"El diseño del ambiente decide qué exploración es posible. Superficies, alturas, distancias, materiales, nivel de ruido y de estímulo visual determinan qué conductas aparecen. Un espacio saturado impide la regulación; uno pobre impide la exploración. La revisión sistemática del espacio, con criterios explícitos, produce más cambios en la conducta del grupo que la mayoría de las intervenciones directas sobre los niños.",
- "limites":"Los hitos motores tienen rangos amplios y su cumplimiento en fecha no predice desempeño posterior salvo en desviaciones marcadas. Conviene desconfiar de programas comerciales que prometen mejorar el aprendizaje mediante secuencias motoras específicas: la evidencia de transferencia a habilidades académicas es débil. Lo que sí está respaldado es el efecto general de la actividad física sobre salud, sueño y disponibilidad para aprender.",
- "errores":[
-  "Interpretar una variación normal en el ritmo motor como señal de alerta.",
-  "Adoptar programas que prometen mejorar la lectura mediante ejercicios motores específicos."],
- "criterios":[
-  "los ajustes propuestos se justifican por la conducta que habilitan y no por preferencia estética;",
-  "se distingue el rango normal de variación de la señal que amerita derivación;"],
- "preguntas":[
-  "¿Qué conducta de exploración impide hoy la organización de tu espacio?",
-  "¿Qué nivel de estímulo sensorial tiene tu sala y a quién está dejando fuera?",
-  "¿Qué signo motor te llevaría a derivar y con qué fundamento?"],
- "lecturas":[
-  ["Adolph, K. & Franchak, J. (2017). *The Development of Motor Behavior*.","revisión actual sobre variabilidad, aprendizaje motor y su relación con la exploración."],
-  ["Organización Mundial de la Salud (2019). *Directrices sobre actividad física, comportamientos sedentarios y sueño en menores de 5 años*.","recomendaciones respaldadas y verificables para el diseño de rutinas del nivel."]],
- "inclusion":"Las diferencias sensoriales y motoras son una de las principales fuentes de exclusión invisible: un ambiente que solo funciona para el perfil sensorial promedio deja fuera a niños que podrían participar plenamente con ajustes menores y de bajo costo.",
- "reto":"Recorre un espacio educativo con la altura visual de un niño y registra tres barreras que no habías visto. Corrige una y observa qué conducta nueva aparece.",
- "conexion":"Sostiene la parte 03 (ambientes y corporalidad) y la parte 08 (accesibilidad física y sensorial)."},
-
-{"n":27,"evidencia":"ROBUSTA",
- "foco":"por qué la cantidad y la calidad del lenguaje que un niño escucha predicen su trayectoria escolar posterior",
- "proposito":"Comprender la adquisición del lenguaje y su papel como predictor educativo, y convertir esa comprensión en prácticas concretas de interacción verbal dentro de la sala.",
- "decision":"determinar cómo vas a aumentar deliberadamente la cantidad y la calidad del lenguaje dirigido a cada niño",
- "entregable":"un plan de interacción verbal con estrategias específicas y un registro de su aplicación durante una semana",
- "conceptos":[
-  ["Lenguaje dirigido al niño","habla que un adulto ajusta y dirige específicamente al niño; predice desarrollo mejor que el habla ambiental"],
-  ["Intercambio conversacional","turno completo de ida y vuelta entre adulto y niño; unidad con mayor valor predictivo"],
-  ["Vocabulario receptivo y expresivo","palabras que se comprenden y palabras que se producen; avanzan a ritmos distintos"],
-  ["Conciencia fonológica","capacidad de identificar y manipular los sonidos del habla; predictor directo de la lectura inicial"]],
- "desarrollo":"El lenguaje se adquiere en interacción, no por exposición pasiva: lo que predice el desarrollo no es la cantidad de palabras en el ambiente sino los intercambios conversacionales dirigidos al niño. La diferencia entre contextos en esta variable es grande y aparece temprano, y se asocia con el vocabulario posterior y con la comprensión lectora. Es, además, una de las pocas variables que un equipo educativo puede modificar directamente con formación y sin recursos adicionales.",
- "practica":"Las estrategias con respaldo son concretas: nombrar lo que ocurre, ampliar el enunciado del niño en vez de corregirlo, hacer preguntas abiertas y esperar la respuesta, sostener turnos en vez de encadenar instrucciones. Registrar cuántos intercambios completos tiene cada niño en una jornada suele revelar que los más callados casi no reciben ninguno, y ese solo dato cambia la práctica de un equipo.",
- "limites":"La magnitud de la brecha léxica temprana ha sido revisada y los datos originales muy citados fueron cuestionados metodológicamente; la existencia de la diferencia se sostiene, su tamaño exacto no. Además, el bilingüismo no retrasa el desarrollo del lenguaje, aunque distribuya el vocabulario entre dos lenguas: evaluar solo en una lengua produce falsos diagnósticos de retraso.",
- "errores":[
-  "Evaluar el lenguaje de un niño bilingüe considerando solo una de sus lenguas.",
-  "Aumentar la cantidad de habla del adulto sin generar turnos reales del niño."],
- "criterios":[
-  "el plan define estrategias observables y no intenciones generales;",
-  "el registro muestra distribución de intercambios por niño, no solo total del grupo;"],
- "preguntas":[
-  "¿Cuántos intercambios conversacionales completos tuvo hoy el niño más callado de tu grupo?",
-  "¿Cuánto de tu habla son instrucciones y cuánto son turnos de conversación?",
-  "¿Cómo distinguirías un retraso del lenguaje de una distribución bilingüe del vocabulario?"],
- "lecturas":[
-  ["Romeo, R. et al. (2018). *Beyond the 30-Million-Word Gap: Children's Conversational Exposure*. Psychological Science, 29(5).","muestra que los turnos conversacionales, y no el número de palabras, explican la asociación con el desarrollo."],
-  ["Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*.","conecta lenguaje oral temprano con lectura posterior; base de la prevención de dificultades lectoras."]],
- "inclusion":"Los niños que menos hablan reciben menos lenguaje, y así se amplía la brecha. Un plan de interacción verbal debe garantizar de forma deliberada turnos para quienes no los reclaman, incluidos los niños con dificultades de comunicación y los que aprenden en una segunda lengua.",
- "reto":"Registra durante tres jornadas los intercambios de cinco niños distintos. Diseña una modificación de rutina que iguale esa distribución y verifica su efecto.",
- "conexion":"Es la base de la clase 040 (alfabetización emergente) y de la parte 04, donde el vocabulario oral explica buena parte de la comprensión lectora."},
-
-{"n":28,"evidencia":"CONSISTENTE",
- "foco":"qué conserva y qué corrige la investigación actual respecto de las etapas clásicas del desarrollo cognitivo",
- "proposito":"Usar el desarrollo cognitivo como marco de expectativas realistas sin caer en la aplicación rígida de etapas, que subestima lo que los niños pueden hacer con apoyo y sobreestima la homogeneidad por edad.",
- "decision":"determinar qué demanda cognitiva es razonable para la edad de tu grupo y qué apoyo la hace accesible",
- "entregable":"una misma tarea graduada para tres edades distintas, con la demanda cognitiva declarada en cada versión",
- "conceptos":[
-  ["Razonamiento concreto y abstracto","operar sobre objetos y situaciones presentes frente a operar sobre símbolos y posibilidades"],
-  ["Descentración","capacidad de considerar un punto de vista distinto del propio"],
-  ["Teoría de la mente","comprensión de que otros tienen creencias, deseos e intenciones distintos de los propios"],
-  ["Desarrollo por dominio","avance desigual: un mismo niño puede razonar de forma avanzada en un ámbito y elemental en otro"]],
- "desarrollo":"Las etapas clásicas describen bien una progresión general y mal la variabilidad real. La investigación posterior mostró que los niños pequeños son capaces de más de lo que las tareas piagetianas originales revelaban —el formato de la tarea escondía la competencia— y que el desarrollo no avanza en bloque sino por dominios, dependiendo del conocimiento previo específico. Un niño experto en un tema razona sobre él mejor que un adulto novato.",
- "practica":"La consecuencia práctica es doble. Primero: no bajar la demanda por edad, sino ajustar el formato, el soporte y el contexto de la tarea. Segundo: no suponer homogeneidad por curso; dentro de un mismo grupo la distancia en razonamiento sobre un contenido específico depende más de lo que cada uno sabe del tema que de su fecha de nacimiento.",
- "limites":"Las etapas siguen siendo útiles como referencia gruesa y peligrosas como criterio de decisión individual. Usar la edad para concluir que algo «no corresponde» es uno de los errores más costosos del oficio, porque se autoconfirma: nunca se ofrece la tarea, luego nunca se observa la capacidad. La regla es ofrecer, observar y ajustar, en ese orden.",
- "errores":[
-  "Descartar una tarea por la edad sin haber probado un formato accesible.",
-  "Suponer que un curso completo comparte el mismo nivel de razonamiento por tener la misma edad."],
- "criterios":[
-  "cada versión de la tarea declara qué demanda cognitiva mantiene y cuál modifica;",
-  "el ajuste se hace en formato y soporte, no bajando el objetivo de aprendizaje;"],
- "preguntas":[
-  "¿Qué tarea has descartado por edad sin haberla probado con otro formato?",
-  "¿En qué dominio específico razona mejor que tú algún estudiante de tu curso?",
-  "¿Qué evidencia usarías para ajustar la demanda en vez de la edad como criterio?"],
- "lecturas":[
-  ["Siegler, R. (1996). *Emerging Minds: The Process of Change in Children's Thinking*.","muestra el desarrollo como variabilidad y selección de estrategias, no como sucesión de etapas fijas."],
-  ["Gopnik, A. (2016). *The Gardener and the Carpenter*.","síntesis accesible de la investigación reciente sobre cognición infantil y sus implicancias para adultos que enseñan."]],
- "inclusion":"El criterio de edad se usa con frecuencia para justificar expectativas más bajas con estudiantes con discapacidad intelectual o trayectorias interrumpidas. La misma regla se aplica: ofrecer, observar y ajustar el soporte, nunca reducir de entrada la demanda por una categoría.",
- "reto":"Toma una tarea que consideres imposible para una edad menor. Rediséñala con otro formato, aplícala y documenta qué pudieron hacer realmente.",
- "conexion":"Corrige el uso ingenuo de las etapas en las partes 03, 04 y 05, y se apoya en la clase 015 sobre concepciones previas."},
-
-{"n":29,"evidencia":"CONSISTENTE",
- "foco":"por qué la regulación emocional es una capacidad que se enseña y no un rasgo de carácter que se exige",
- "proposito":"Comprender el desarrollo socioemocional como aprendizaje: reconocer, nombrar y regular emociones, y sostener relaciones, son capacidades que se construyen con mediación adulta.",
- "decision":"determinar qué capacidad socioemocional específica vas a enseñar de forma explícita y cómo la evaluarás",
- "entregable":"una secuencia de enseñanza explícita de una habilidad socioemocional, con indicadores observables",
- "conceptos":[
-  ["Regulación emocional","capacidad de modular la intensidad y la expresión de la propia emoción según el contexto"],
-  ["Corregulación","apoyo del adulto que permite al niño regularse antes de poder hacerlo solo"],
-  ["Competencia social","conjunto de habilidades para iniciar, sostener y reparar relaciones con pares"],
-  ["Clima emocional del aula","tono afectivo predominante en la interacción; condiciona la disposición a aprender"]],
- "desarrollo":"La regulación emocional se desarrolla primero como corregulación: el adulto presta su calma y su lenguaje hasta que el niño puede hacerlo solo. Exigir autorregulación a quien todavía depende de la corregulación produce escalada, no aprendizaje. La evidencia sobre programas de aprendizaje socioemocional muestra efectos positivos en conducta, clima y también en resultados académicos, aunque su magnitud depende fuertemente de la calidad de la implementación.",
- "practica":"Enseñar una habilidad socioemocional sigue la misma lógica que enseñar cualquier contenido: definirla en conducta observable, modelarla, practicarla en situaciones reales, retroalimentar y sostenerla en el tiempo. «Pedir ayuda cuando no entiendo» o «esperar mi turno para hablar en una discusión» son objetivos enseñables; «ser respetuoso» no lo es hasta que se traduce en conductas concretas.",
- "limites":"Los programas socioemocionales adoptados como paquete y aplicados con baja fidelidad rinden poco, y su evaluación suele apoyarse en autorreportes. Además, tratar como déficit individual lo que responde a condiciones del ambiente —hacinamiento, violencia, inestabilidad— desplaza la responsabilidad hacia el niño. La habilidad se enseña y el contexto se corrige; hacer solo lo primero es insuficiente.",
- "errores":[
-  "Exigir autorregulación en edades o situaciones en que aún se requiere corregulación.",
-  "Definir objetivos socioemocionales con etiquetas de valor en vez de conductas observables."],
- "criterios":[
-  "la habilidad está definida como conducta observable y practicable;",
-  "la secuencia incluye modelamiento, práctica y retroalimentación, no solo conversación;"],
- "preguntas":[
-  "¿Qué conducta concreta esperas cuando pides «respeto» a tu grupo?",
-  "¿Qué haces tú para corregular antes de exigir que se regulen solos?",
-  "¿Qué condición del ambiente está produciendo la conducta que atribuyes al estudiante?"],
- "lecturas":[
-  ["Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*. Child Development, 82(1).","metaanálisis de referencia; declara efectos y también la dependencia de la implementación."],
-  ["Denham, S. (1998). *Emotional Development in Young Children*.","describe la secuencia del desarrollo emocional con criterios observables para el trabajo educativo."]],
- "inclusion":"Las expectativas sobre expresión emocional están culturalmente situadas, y lo que una institución lee como desregulación puede ser una norma familiar distinta. Antes de intervenir conviene distinguir diferencia cultural, dificultad de regulación y respuesta razonable a un contexto adverso.",
- "reto":"Escoge una conducta socioemocional que reclames a menudo. Conviértela en objetivo enseñable, enséñala durante tres semanas y mide su frecuencia antes y después.",
- "conexion":"Sostiene la parte 12 (clima y convivencia) y se apoya en la clase 030. En la parte 03 aparece como núcleo del nivel parvulario."},
-
-{"n":30,"evidencia":"ROBUSTA",
- "foco":"qué explica el apego sobre la conducta escolar y qué se le atribuye sin fundamento",
- "proposito":"Usar la teoría del apego para interpretar conductas de dependencia, evitación o desafío en contextos educativos, sin convertirla en diagnóstico ni en explicación universal.",
- "decision":"determinar cómo responder a una conducta de vínculo sin reforzar la inseguridad ni negar la necesidad",
- "entregable":"un análisis de dos conductas de vínculo observadas y la respuesta educativa fundamentada para cada una",
- "conceptos":[
-  ["Apego","vínculo afectivo con un cuidador que organiza la búsqueda de proximidad y seguridad"],
-  ["Base segura","función del adulto que permite al niño explorar sabiendo que hay retorno disponible"],
-  ["Patrón de apego","forma característica de responder ante la separación y el reencuentro; describe la relación, no al niño"],
-  ["Figura significativa alternativa","adulto no cuidador principal que puede cumplir funciones de sostén y ampliar la seguridad"]],
- "desarrollo":"La contribución central de la teoría es que la seguridad no compite con la exploración: la habilita. Un niño con una base segura explora más, no menos. En contextos educativos esto se traduce en que la disponibilidad predecible del adulto —no la permisividad— es lo que permite que un niño se arriesgue a intentar, equivocarse y pedir ayuda. La docente o el docente pueden funcionar como figura significativa alternativa, y para algunos estudiantes esa función es determinante.",
- "practica":"La aplicación consiste en responder de forma predecible y no personalizada al conflicto: sostener el límite sin retirar el vínculo. Un estudiante que provoca rechazo suele estar comprobando si el adulto se irá; responder con distancia confirma su hipótesis. La consistencia a lo largo de semanas hace más que cualquier conversación aislada, y es también lo más difícil de sostener cuando la conducta es desafiante.",
- "limites":"El apego describe una relación específica, no un rasgo permanente del niño ni una explicación de todo su comportamiento. Los patrones pueden diferir entre cuidadores y cambiar con el tiempo. Ningún profesional educativo debe diagnosticar apego ni comunicar categorías a las familias: eso corresponde a evaluación clínica especializada, y su uso informal produce estigma sobre los cuidadores.",
- "errores":[
-  "Usar categorías de apego como diagnóstico o comunicarlas a la familia.",
-  "Retirar el vínculo como sanción ante una conducta desafiante."],
- "criterios":[
-  "el análisis describe conductas observadas y no atribuye categorías clínicas;",
-  "la respuesta propuesta sostiene el límite manteniendo la disponibilidad del adulto;"],
- "preguntas":[
-  "¿Qué haces cuando un estudiante parece buscar tu rechazo?",
-  "¿Qué señales de disponibilidad predecible ofrece tu práctica cotidiana?",
-  "¿Dónde está el límite entre interpretar una conducta y diagnosticar a una familia?"],
- "lecturas":[
-  ["Bowlby, J. (1988). *A Secure Base*.","la formulación clínica de la base segura y su relación con la exploración; muy aplicable al aula."],
-  ["Sroufe, A. et al. (2005). *The Development of the Person*.","estudio longitudinal de treinta años; documenta continuidad y cambio, y desmiente el determinismo."]],
- "inclusion":"Los estudiantes en cuidado alternativo, con familias en crisis o con historias de vulneración son quienes más dependen de la función de figura significativa alternativa. Sostener esa función con límites claros es una intervención educativa legítima; suplantar a la familia o emitir juicios sobre ella, no.",
- "reto":"Elige un estudiante con quien el vínculo esté tenso. Define tres conductas de disponibilidad predecible, sostenlas cuatro semanas sin excepción y registra qué cambia.",
- "conexion":"Complementa las clases 025 y 029 y sostiene la parte 12, donde la reparación del vínculo es parte del manejo de conflictos."},
-
-{"n":31,"evidencia":"CONSISTENTE",
- "foco":"por qué entre los 6 y los 12 años la comparación con los pares se vuelve el principal organizador de la autoimagen escolar",
- "proposito":"Comprender la niñez media como período en que se consolidan hábitos de trabajo, autoconcepto académico y posición en el grupo, y actuar sobre esas tres cosas antes de que se estabilicen.",
- "decision":"determinar qué intervención de este período evitará que un autoconcepto académico negativo se consolide",
- "entregable":"un plan de trabajo para un estudiante con autoconcepto académico deteriorado, con acciones y evidencia de seguimiento",
- "conceptos":[
-  ["Autoconcepto académico","idea que el estudiante tiene sobre su propia capacidad en un dominio escolar"],
-  ["Comparación social","proceso de evaluar la propia capacidad en referencia al desempeño de los pares"],
-  ["Estatus entre pares","posición del estudiante en la estructura social del curso; predice bienestar y participación"],
-  ["Hábito de trabajo","conjunto de rutinas de estudio y organización que se consolidan en este período"]],
- "desarrollo":"En la niñez media el estudiante empieza a evaluarse comparándose, y esa comparación se vuelve estable. Un niño que durante dos años recibe evidencia de que es «el que no entiende matemática» construye un autoconcepto que después resiste incluso al éxito posterior. La consecuencia práctica es que este período es la última oportunidad barata para intervenir: más tarde, corregir el autoconcepto exige mucho más que corregir el aprendizaje.",
- "practica":"Tres decisiones tienen alto rendimiento: hacer visible el progreso individual en vez del ranking, garantizar experiencias de competencia auténtica a quienes tienen menos, y cuidar la asignación pública de roles en el aula, que consolida estatus. También importa lo que no se hace: agrupar de forma fija y visible por nivel produce efectos sobre el autoconcepto que suelen superar las ganancias de la homogeneidad.",
- "limites":"La relación entre autoconcepto y rendimiento es recíproca y su dirección causal se discute; intervenir solo sobre la autoestima sin mejorar el desempeño no produce efectos duraderos. Lo que sí está razonablemente respaldado es que la experiencia repetida de logro auténtico modifica el autoconcepto, y no al revés.",
- "errores":[
-  "Reforzar la autoestima con elogio no justificado por el desempeño real.",
-  "Mantener agrupamientos fijos y visibles por nivel sin evaluar su efecto sobre el autoconcepto."],
- "criterios":[
-  "el plan produce evidencia de logro auténtico y no solo mensajes de aliento;",
-  "el seguimiento registra cambios en desempeño y en participación, no solo en actitud percibida;"],
- "preguntas":[
-  "¿Qué estudiante de tu curso ya se describe a sí mismo como incapaz en tu asignatura?",
-  "¿Qué prácticas tuyas hacen pública la comparación entre estudiantes?",
-  "¿Qué evidencia de logro real puede obtener esta semana quien menos avanza?"],
- "lecturas":[
-  ["Eccles, J. (1999). *The Development of Children Ages 6 to 14*. The Future of Children, 9(2).","síntesis del período con foco en escuela, motivación y autoconcepto."],
-  ["Marsh, H. & Craven, R. (2006). *Reciprocal Effects of Self-Concept and Performance*.","documenta la relación recíproca y desmonta la idea de intervenir la autoestima por sí sola."]],
- "inclusion":"Los estudiantes que reciben apoyos visibles corren riesgo de que ese apoyo se convierta en marca de estatus. Diseñar los apoyos como opciones disponibles para todo el curso protege el autoconcepto sin reducir el soporte.",
- "reto":"Identifica un estudiante con autoconcepto deteriorado y diseña cuatro semanas de logros auténticos crecientes. Registra qué dice de sí mismo al inicio y al final.",
- "conexion":"Prepara la parte 04 y anticipa la clase 032. Se apoya en la clase 022 sobre expectativa de éxito."},
-
-{"n":32,"evidencia":"ROBUSTA",
- "foco":"por qué la adolescencia combina alta capacidad de aprendizaje con alta sensibilidad social, y qué implica eso para enseñar",
- "proposito":"Sustituir la caricatura de la adolescencia como etapa de déficit por una comprensión de su reorganización real: mayor sensibilidad a pares y a estatus, mayor búsqueda de autonomía y un período de plasticidad significativa.",
- "decision":"determinar cómo ajustar la relación pedagógica para que el contenido no compita con la necesidad de autonomía y pertenencia",
- "entregable":"el rediseño de una práctica de aula que reduzca la exposición al ridículo público y aumente la autonomía real",
- "conceptos":[
-  ["Sensibilidad social","mayor reactividad a la evaluación de los pares y al estatus dentro del grupo"],
-  ["Búsqueda de autonomía","necesidad creciente de decidir por sí mismo; se opone al control percibido como arbitrario"],
-  ["Toma de riesgos","conducta más frecuente en presencia de pares que en solitario; no equivale a mala evaluación del riesgo"],
-  ["Plasticidad adolescente","período de reorganización que hace al aprendizaje y a la intervención especialmente efectivos"]],
- "desarrollo":"La investigación reciente reordenó la comprensión de la adolescencia: no es un período de irracionalidad, sino de recalibración de prioridades. La presencia de pares aumenta la toma de riesgos, la evaluación pública tiene un costo emocional mucho mayor que en otras edades, y el control percibido como arbitrario produce resistencia. Al mismo tiempo, es un período de alta plasticidad, en el que intervenciones bien diseñadas producen efectos duraderos.",
- "practica":"Tres ajustes tienen alto rendimiento: eliminar situaciones de exposición al ridículo frente al grupo, ofrecer autonomía real en aspectos que importan —cómo demostrar lo aprendido, en qué orden, con quién trabajar— y explicar las razones de las reglas en vez de imponerlas. Ninguno implica bajar la exigencia; de hecho, permiten subirla, porque la resistencia disminuye cuando la relación no está en disputa.",
- "limites":"La divulgación sobre el «cerebro adolescente inmaduro» se usa con frecuencia para justificar tanto la sobreprotección como el castigo. La evidencia no sostiene que los adolescentes no comprendan el riesgo: lo comprenden y valoran distinto sus recompensas sociales. Tampoco existe una edad exacta de madurez cerebral que autorice conclusiones categóricas sobre responsabilidad.",
- "errores":[
-  "Usar la exposición pública como método de control en un grupo adolescente.",
-  "Explicar toda conducta adolescente por inmadurez cerebral y descartar el análisis de la situación."],
- "criterios":[
-  "el rediseño elimina al menos una situación de exposición pública innecesaria;",
-  "la autonomía ofrecida es real y recae sobre algo que el estudiante valora;"],
- "preguntas":[
-  "¿Qué práctica tuya expone a un estudiante frente al grupo sin necesidad pedagógica?",
-  "¿Qué decisión real puedes ceder sin perder el objetivo de aprendizaje?",
-  "¿Qué regla tuya no has explicado nunca y solo has impuesto?"],
- "lecturas":[
-  ["Steinberg, L. (2014). *Age of Opportunity*.","reinterpreta la adolescencia como período de oportunidad y plasticidad, con la evidencia que lo respalda."],
-  ["Blakemore, S.-J. (2018). *Inventing Ourselves: The Secret Life of the Teenage Brain*.","síntesis rigurosa y prudente sobre desarrollo cerebral adolescente y conducta social."]],
- "inclusion":"La sensibilidad al estatus hace especialmente costosa la exposición de quienes ya están en posición vulnerable: estudiantes con apoyos visibles, con identidades minorizadas o con trayectorias irregulares. El rediseño de prácticas públicas es, en este nivel, una medida de inclusión de primer orden.",
- "reto":"Registra durante una semana cada situación en que un estudiante quedó expuesto ante el grupo. Rediseña las evitables y observa el efecto sobre la participación.",
- "conexion":"Es el fundamento psicológico de toda la parte 05 y se conecta con la parte 12 en el manejo del conflicto sin escalada."},
-
-{"n":33,"evidencia":"CONSISTENTE",
- "foco":"qué cambia en el aprendizaje cuando la persona ya tiene responsabilidades, experiencia laboral y tiempo escaso",
- "proposito":"Comprender la adultez emergente y la adultez como períodos con lógicas propias de aprendizaje: motivación instrumental, experiencia previa abundante, identidad ocupacional en construcción y condiciones de vida que compiten con el estudio.",
- "decision":"determinar qué supuestos de la enseñanza escolar debes abandonar al trabajar con estudiantes adultos",
- "entregable":"una comparación explícita entre el diseño de una misma formación para adolescentes y para adultos, con las decisiones que cambian",
- "conceptos":[
-  ["Adultez emergente","período entre los 18 y los 25 años, con exploración de identidad y trayectorias no lineales"],
-  ["Identidad ocupacional","construcción de sí mismo en relación con el trabajo; organiza la motivación adulta por aprender"],
-  ["Aprendizaje instrumental","orientado a resolver un problema concreto y evaluado por su utilidad inmediata"],
-  ["Conflicto de roles","competencia entre estudio, trabajo y responsabilidades familiares por el mismo tiempo"]],
- "desarrollo":"El adulto que estudia no es un adolescente con más años: negocia su tiempo con obligaciones no negociables, evalúa lo que aprende por su utilidad, y trae experiencia que a veces sostiene el aprendizaje y a veces lo obstaculiza. La adultez emergente, además, se caracteriza por trayectorias no lineales: interrupciones, cambios de rumbo y retorno a los estudios son la norma y no la excepción.",
- "practica":"Diseñar para adultos implica decisiones concretas: partir del problema y no del temario, respetar el tiempo declarado sin encargos encubiertos, permitir aplicar de inmediato lo aprendido, y reconocer explícitamente la experiencia previa como recurso. También implica un cambio en la relación: el adulto acepta ser dirigido en el método pero no ser tratado como si no supiera nada de su propio campo.",
- "limites":"La categoría «adulto» agrupa realidades muy distintas: quien capacita por obligación, quien retoma estudios interrumpidos y quien se perfecciona por interés no comparten motivación ni condiciones. Las prescripciones andragógicas generales fallan al aplicarse sin distinguirlos, y la evidencia empírica que las respalda es más débil de lo que su difusión sugiere.",
- "errores":[
-  "Trasladar formatos escolares —tareas para la casa, control de asistencia como sanción— a formación de adultos.",
-  "Tratar como homogéneo a un grupo adulto con motivaciones y condiciones muy distintas."],
- "criterios":[
-  "la comparación identifica al menos cuatro decisiones de diseño que cambian y por qué;",
-  "el diseño para adultos declara cómo respeta el tiempo real disponible;"],
- "preguntas":[
-  "¿Qué parte de tu diseño supone un tiempo que tus estudiantes adultos no tienen?",
-  "¿Qué experiencia previa de tu grupo estás desaprovechando?",
-  "¿Qué diferencia hay entre los adultos obligados y los voluntarios de tu curso?"],
- "lecturas":[
-  ["Arnett, J. (2000). *Emerging Adulthood*. American Psychologist, 55(5).","define el período y sus rasgos; explica trayectorias educativas no lineales."],
-  ["Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*.","revisa críticamente el campo y separa lo respaldado de lo asumido."]],
- "inclusion":"Los adultos que retoman estudios suelen cargar una historia escolar de fracaso y vergüenza. Diseñar la primera sesión para producir una experiencia temprana de competencia, y evitar cualquier práctica que reproduzca la humillación escolar previa, es determinante para la permanencia.",
- "reto":"Toma un programa que impartes y calcula el tiempo real que exige fuera de sesión. Rediseña para que quepa en el tiempo declarado y observa el efecto en asistencia y entrega.",
- "conexion":"Es el antecedente directo de toda la parte 07 y de la parte 14 en programas de postgrado profesional."},
-
-{"n":34,"evidencia":"CONSISTENTE",
- "foco":"qué se conserva, qué declina y qué mejora en la capacidad de aprender a lo largo de la vida adulta",
- "proposito":"Distinguir los cambios cognitivos reales del envejecimiento de los estereotipos que impiden diseñar formación para personas mayores, y aprovechar lo que efectivamente mejora con la edad.",
- "decision":"determinar qué ajustes de ritmo, formato y apoyo hacen accesible tu formación a participantes mayores",
- "entregable":"el ajuste fundamentado de una formación para un grupo de adultos mayores, con las decisiones documentadas",
- "conceptos":[
-  ["Inteligencia fluida","capacidad de razonar con material nuevo; declina gradualmente con la edad"],
-  ["Inteligencia cristalizada","conocimiento y vocabulario acumulados; se mantiene o aumenta hasta edades avanzadas"],
-  ["Velocidad de procesamiento","rapidez de operación cognitiva; su descenso explica buena parte del cambio observado"],
-  ["Aprendizaje permanente","participación en formación a lo largo de toda la vida, con propósitos que cambian con la etapa"]],
- "desarrollo":"El envejecimiento cognitivo normal no es un deterioro general. Disminuyen la velocidad de procesamiento y algunos aspectos de la memoria de trabajo; se mantienen o mejoran el vocabulario, el conocimiento acumulado y la capacidad de juicio en dominios familiares. Un participante mayor puede aprender lo mismo que uno joven si el diseño le concede tiempo, reduce demandas de velocidad y se apoya en su conocimiento previo.",
- "practica":"Los ajustes útiles son de diseño, no de contenido: dar más tiempo sin señalarlo como concesión, reducir la carga de material nuevo por sesión, apoyarse explícitamente en la experiencia acumulada, cuidar condiciones sensoriales —tamaño de letra, contraste, audio— y evitar formatos que penalicen la rapidez. Ninguno implica simplificar el objetivo.",
- "limites":"La variabilidad entre personas mayores es mayor que en cualquier otro grupo etario, de modo que los promedios describen poco. Los estudios transversales confunden envejecimiento con diferencias entre generaciones —escolaridad, salud, familiaridad tecnológica—, y los programas comerciales de entrenamiento cerebral no muestran transferencia significativa a la vida cotidiana.",
- "errores":[
-  "Simplificar el contenido en vez de ajustar el ritmo y el formato.",
-  "Atribuir a la edad dificultades que provienen de la falta de familiaridad con una herramienta específica."],
- "criterios":[
-  "los ajustes modifican tiempo, formato y apoyo sin reducir el objetivo;",
-  "las condiciones sensoriales del material y del espacio están explícitamente revisadas;"],
- "preguntas":[
-  "¿Qué parte de tu formación penaliza la lentitud sin necesidad?",
-  "¿Qué conocimiento acumulado de tus participantes podrías usar como andamio?",
-  "¿Qué dificultad estás atribuyendo a la edad y en realidad es falta de práctica con la herramienta?"],
- "lecturas":[
-  ["Baltes, P. & Baltes, M. (1990). *Successful Aging: Perspectives from the Behavioral Sciences*.","modelo de selección, optimización y compensación; muy útil para diseñar formación."],
-  ["Salthouse, T. (2010). *Major Issues in Cognitive Aging*.","distingue con rigor qué declina, qué se conserva y qué artefactos introducen los diseños transversales."]],
- "inclusion":"La exclusión digital afecta de forma desproporcionada a personas mayores y se confunde con incapacidad de aprender. Separar la barrera de acceso del proceso de aprendizaje evita conclusiones equivocadas y diseños que se abandonan por frustración inicial.",
- "reto":"Adapta una sesión tuya para un grupo de adultos mayores y aplícala. Registra qué ajustes resultaron indispensables y cuáles beneficiaron también a los participantes más jóvenes.",
- "conexion":"Completa la trayectoria de la parte y se aplica en la parte 07, especialmente en programas de reconversión y de formación continua."},
-
-{"n":35,"evidencia":"EN-DEBATE",
- "foco":"cómo trabajar con la variabilidad real del aula sin caer en categorías que explican poco y etiquetan mucho",
- "proposito":"Analizar las diferencias individuales que sí tienen consecuencias educativas —conocimiento previo, lenguaje, autorregulación, condiciones de vida— y descartar las que la evidencia no respalda, empezando por los estilos de aprendizaje.",
- "decision":"determinar qué diferencia individual de tu grupo justifica realmente un ajuste de enseñanza",
- "entregable":"un perfil de variabilidad de tu curso con las diferencias que exigen ajuste y las que no, con su justificación",
- "conceptos":[
-  ["Variabilidad esperable","dispersión normal de desempeños dentro de cualquier grupo; es el punto de partida del diseño"],
-  ["Conocimiento previo","la diferencia individual con mayor poder explicativo sobre el aprendizaje nuevo"],
-  ["Neuromito","creencia sobre el cerebro ampliamente difundida y refutada por la evidencia"],
-  ["Diferenciación","ajuste de la enseñanza a la variabilidad, sin modificar el objetivo de aprendizaje"]],
- "desarrollo":"De todas las diferencias individuales, la que más explica el aprendizaje nuevo es el conocimiento previo específico sobre el contenido; después vienen lenguaje, autorregulación y condiciones materiales de estudio. Los estilos de aprendizaje, en cambio, han sido puestos a prueba repetidamente: enseñar en la modalidad preferida por el estudiante no mejora su aprendizaje. Sigue siendo la creencia más extendida entre docentes de todo el mundo, y su costo es real, porque desvía tiempo y atención de diferencias que sí importan.",
- "practica":"El trabajo profesional consiste en levantar el perfil de variabilidad que sí opera: quién domina los prerrequisitos, quién aprende en una segunda lengua, quién puede sostener trabajo autónomo, quién tiene condiciones de estudio en casa. Ese perfil se traduce en decisiones de agrupamiento, andamiaje y ritmo. La diferenciación útil ajusta el camino y mantiene la meta; la diferenciación mal entendida rebaja objetivos y consolida la brecha.",
- "limites":"Hay debate legítimo sobre cuánta diferenciación es sostenible: la evidencia muestra que estrategias muy individualizadas son difíciles de implementar con fidelidad y pueden reducir el tiempo de instrucción efectiva. La posición defendible es priorizar unas pocas diferencias con alto poder explicativo y atenderlas bien, en vez de intentar personalizar todo y lograrlo con nadie.",
- "errores":[
-  "Diseñar actividades según estilos de aprendizaje visuales, auditivos o kinestésicos.",
-  "Diferenciar bajando el objetivo en vez de cambiar el soporte y la vía de acceso."],
- "criterios":[
-  "el perfil prioriza diferencias con poder explicativo demostrado;",
-  "se declara al menos una diferencia frecuentemente usada que se descarta y por qué;"],
- "preguntas":[
-  "¿Qué diferencia de tu curso explica realmente los resultados que observas?",
-  "¿Qué práctica tuya se apoya en un neuromito?",
-  "¿Cuánta diferenciación puedes sostener con fidelidad en tu carga real de trabajo?"],
- "lecturas":[
-  ["Pashler, H. et al. (2008). *Learning Styles: Concepts and Evidence*. Psychological Science in the Public Interest, 9(3).","la revisión que muestra la ausencia de evidencia para la hipótesis de emparejamiento; lectura obligada."],
-  ["Tomlinson, C. (2014). *The Differentiated Classroom*.","propuesta operativa de diferenciación; léela junto con la evidencia sobre su implementación real."]],
- "inclusion":"Descartar los estilos de aprendizaje no significa negar la variabilidad: significa dirigir el esfuerzo hacia ajustes con efecto real —accesibilidad, vías alternativas de demostración, andamiaje— que son precisamente los del Diseño Universal para el Aprendizaje.",
- "reto":"Levanta el perfil de variabilidad de un curso real con datos y no con impresiones. Escoge las dos diferencias más determinantes y diseña un ajuste sostenible para cada una.",
- "conexion":"Prepara toda la parte 08 y se apoya en la clase 019, que explica por qué el conocimiento previo modifica la carga cognitiva."},
-
-{"n":36,"evidencia":"CONSISTENTE",
- "foco":"cómo se integran los dominios del desarrollo en la trayectoria de una persona concreta y no de un promedio",
- "proposito":"Integrar la parte construyendo una trayectoria de desarrollo documentada: qué ocurre en cada dominio, cómo interactúan y qué decisiones educativas se derivan en cada momento.",
- "decision":"determinar qué decisiones educativas corresponden a cada tramo de una trayectoria concreta y por qué",
- "entregable":"una trayectoria de desarrollo documentada de un caso real o simulado, con decisiones educativas fundamentadas por tramo",
- "conceptos":[
-  ["Trayectoria de desarrollo","recorrido individual a lo largo del tiempo en varios dominios que interactúan"],
-  ["Interacción entre dominios","efecto de un dominio sobre otro; el lenguaje afecta lo social, lo motor afecta lo cognitivo"],
-  ["Señal de alerta","desviación que amerita observación sistemática o derivación, distinta de la variación esperable"],
-  ["Documentación evolutiva","registro sistemático y fechado de observaciones que permite ver cambio en el tiempo"]],
- "desarrollo":"El proyecto integrador obliga a hacer lo que ninguna clase por separado exige: mirar a una persona completa. Los dominios se presentan por separado por comodidad expositiva, pero interactúan permanentemente: una dificultad de lenguaje no atendida produce efectos sociales, que producen efectos en el autoconcepto y terminan leyéndose como problema de conducta. Reconstruir esa cadena es la competencia profesional que esta parte entrena.",
- "practica":"La trayectoria se construye con registros fechados, no con recuerdos: observaciones breves y sistemáticas, evidencia de desempeño, información de la familia y de otros profesionales cuando corresponde. Cada tramo debe cerrar con una decisión educativa concreta y su fundamento. La prueba de calidad es que otra persona pueda leer la trayectoria y entender por qué se decidió lo que se decidió.",
- "limites":"Una trayectoria es una reconstrucción interpretativa, no un diagnóstico ni una predicción. Documentar bien reduce el error, no lo elimina: el sesgo de confirmación opera con fuerza cuando ya se tiene una hipótesis sobre un estudiante. Por eso conviene registrar también la evidencia que contradice la propia interpretación, y revisar la trayectoria con otra persona.",
- "errores":[
-  "Construir la trayectoria desde el recuerdo y no desde registros fechados.",
-  "Convertir una interpretación en un diagnóstico o en un pronóstico sobre la persona."],
- "criterios":[
-  "cada tramo tiene registro fechado, interpretación y decisión educativa distinguibles entre sí;",
-  "se incluye al menos una evidencia que contradice la interpretación inicial;"],
- "preguntas":[
-  "¿Qué cadena entre dominios explica mejor la situación de tu caso?",
-  "¿Qué evidencia registraste que contradice tu hipótesis?",
-  "¿Qué decisión tomarías distinto si la trayectoria empezara seis meses antes?"],
- "lecturas":[
-  ["Bronfenbrenner, U. (1979). *The Ecology of Human Development*.","marco para integrar dominios y contextos en una sola trayectoria interpretable."],
-  ["Sroufe, A. et al. (2005). *The Development of the Person*.","muestra cómo se documenta y se interpreta una trayectoria longitudinal sin caer en determinismo."]],
- "inclusion":"Las trayectorias de estudiantes con discapacidad o con historias de vulneración suelen documentarse solo por sus déficits. Una trayectoria completa registra también capacidades, intereses y condiciones que funcionaron, porque son la base sobre la que se construye cualquier apoyo.",
- "reto":"Documenta durante un mes la trayectoria de un estudiante real, con al menos ocho registros fechados. Preséntala a un colega y pídele que identifique dónde tu interpretación excede a la evidencia.",
- "conexion":"Cierra la parte 02 y alimenta la parte 08 (planes de apoyo) y la parte 16 (estudio de caso como diseño de investigación)."}
+  {
+    "n": 25,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué las condiciones de los primeros años dejan huella y por qué eso no autoriza a hablar de destinos irreversibles",
+    "proposito": "Situar el desarrollo temprano como período de alta sensibilidad —no de determinación— y reconocer qué factores lo protegen o lo comprometen, con la precisión que la divulgación suele perder.",
+    "decision": "determinar qué condiciones del entorno educativo temprano vas a priorizar cuando no puedes intervenir en todas",
+    "entregable": "un análisis de un contexto de primera infancia real que identifique factores protectores y de riesgo, con acciones priorizadas",
+    "conceptos": [
+      [
+        "Período sensible",
+        "ventana en que un sistema es especialmente receptivo a cierta experiencia; no equivale a ventana que se cierra"
+      ],
+      [
+        "Estrés tóxico",
+        "activación intensa y prolongada del sistema de estrés sin apoyo adulto amortiguador"
+      ],
+      [
+        "Interacción contingente",
+        "intercambio en que el adulto responde de forma ajustada y oportuna a la señal del niño"
+      ],
+      [
+        "Plasticidad",
+        "capacidad del sistema nervioso de reorganizarse con la experiencia; disminuye pero no desaparece con la edad"
+      ]
+    ],
+    "desarrollo": "La evidencia sobre desarrollo temprano converge en un punto: la calidad de la interacción con adultos sensibles y estables es el factor más consistente asociado a resultados posteriores, por encima de los materiales, la estimulación programada o los recursos tecnológicos. También está bien establecido que la adversidad severa y sostenida, sin adulto amortiguador, afecta el desarrollo. Ambos hallazgos tienen una implicación educativa directa: el recurso más importante de una sala cuna es el adulto disponible, no el equipamiento.",
+    "practica": "Para un equipo educativo esto significa proteger las condiciones que hacen posible la interacción sensible: proporción adulto-niño, estabilidad del personal, tiempo real de contacto individual, y rutinas de cuidado tratadas como oportunidades pedagógicas y no como trámites. Cuando hay que priorizar con recursos escasos, esas variables preceden a cualquier innovación curricular.",
+    "limites": "La divulgación exagera este campo con frecuencia. No es cierto que existan ventanas que se cierran de forma irreversible a los tres años para la mayoría de las capacidades, ni que la estimulación intensiva temprana produzca ventajas duraderas por sí sola. La adversidad temprana aumenta el riesgo; no determina el resultado. Afirmar lo contrario ante una familia es incorrecto y además dañino.",
+    "errores": [
+      "Hablar de ventanas que se cierran y de daños irreversibles ante familias, sin respaldo.",
+      "Priorizar equipamiento y programas de estimulación por sobre la proporción adulto-niño y la estabilidad del equipo."
+    ],
+    "criterios": [
+      "el análisis identifica factores protectores y de riesgo con evidencia observada en el contexto;",
+      "las acciones priorizadas atacan primero las condiciones de interacción y estabilidad;"
+    ],
+    "preguntas": [
+      "¿Cuánto tiempo de interacción individual recibe realmente cada niño en tu contexto?",
+      "¿Qué afirmación sobre el cerebro infantil has escuchado que no resistiría una verificación?",
+      "¿Qué harías primero si solo pudieras mejorar una condición del ambiente temprano?"
+    ],
+    "lecturas": [
+      [
+        "Shonkoff, J. & Phillips, D. (eds.) (2000). *From Neurons to Neighborhoods*.",
+        "la síntesis de referencia; distingue con cuidado lo establecido de lo sugerido."
+      ],
+      [
+        "Center on the Developing Child, Harvard. *Working Papers* sobre estrés tóxico y funciones ejecutivas (edición vigente).",
+        "material técnico riguroso y accesible; útil para comunicar a equipos y familias sin exagerar."
+      ]
+    ],
+    "inclusion": "Los factores de riesgo se concentran en las familias con menos apoyo, y las intervenciones mal diseñadas culpabilizan a los cuidadores en vez de sostenerlos. Toda acción debe evaluarse por si aumenta o disminuye la carga sobre quien ya está sobrecargado.",
+    "reto": "Observa una jornada completa en un contexto de primera infancia y registra cuántas interacciones contingentes recibe un niño concreto. Propón una modificación de rutina que aumente ese número sin recursos adicionales.",
+    "conexion": "Es la base de la parte 03 y se conecta con la clase 030 sobre apego. Su tratamiento de la evidencia anticipa el criterio que la parte 16 exige a cualquier afirmación causal."
+  },
+  {
+    "n": 26,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué el movimiento y la experiencia sensorial no son un complemento del aprendizaje temprano sino su vehículo",
+    "proposito": "Comprender la trayectoria motora y sensorial y sus implicancias educativas: el cuerpo es el instrumento con el que se explora, se regula y se aprende durante los primeros años, y sigue importando después.",
+    "decision": "determinar qué condiciones motoras y sensoriales debe cumplir el ambiente para que la actividad que diseñaste sea posible",
+    "entregable": "una revisión de un espacio educativo con ajustes motores y sensoriales fundamentados",
+    "conceptos": [
+      [
+        "Motricidad gruesa y fina",
+        "control de grandes grupos musculares y de movimientos precisos; siguen trayectorias distintas"
+      ],
+      [
+        "Integración sensorial",
+        "procesamiento y organización de la información de los sentidos para responder al entorno"
+      ],
+      [
+        "Regulación sensorial",
+        "capacidad de mantener un nivel de activación adecuado ante la estimulación del ambiente"
+      ],
+      [
+        "Exploración autónoma",
+        "actividad iniciada por el propio niño; principal fuente de aprendizaje motor y espacial temprano"
+      ]
+    ],
+    "desarrollo": "El desarrollo motor sigue regularidades robustas en su secuencia y amplia variabilidad en sus tiempos. Lo relevante para la educación es que el movimiento no es solo un logro a alcanzar: es el medio por el cual el niño accede a la información del mundo. Un niño que ya se desplaza recibe experiencias cualitativamente distintas de uno que aún no, y esa diferencia repercute en su desarrollo espacial, social y lingüístico.",
+    "practica": "El diseño del ambiente decide qué exploración es posible. Superficies, alturas, distancias, materiales, nivel de ruido y de estímulo visual determinan qué conductas aparecen. Un espacio saturado impide la regulación; uno pobre impide la exploración. La revisión sistemática del espacio, con criterios explícitos, produce más cambios en la conducta del grupo que la mayoría de las intervenciones directas sobre los niños.",
+    "limites": "Los hitos motores tienen rangos amplios y su cumplimiento en fecha no predice desempeño posterior salvo en desviaciones marcadas. Conviene desconfiar de programas comerciales que prometen mejorar el aprendizaje mediante secuencias motoras específicas: la evidencia de transferencia a habilidades académicas es débil. Lo que sí está respaldado es el efecto general de la actividad física sobre salud, sueño y disponibilidad para aprender.",
+    "errores": [
+      "Interpretar una variación normal en el ritmo motor como señal de alerta.",
+      "Adoptar programas que prometen mejorar la lectura mediante ejercicios motores específicos."
+    ],
+    "criterios": [
+      "los ajustes propuestos se justifican por la conducta que habilitan y no por preferencia estética;",
+      "se distingue el rango normal de variación de la señal que amerita derivación;"
+    ],
+    "preguntas": [
+      "¿Qué conducta de exploración impide hoy la organización de tu espacio?",
+      "¿Qué nivel de estímulo sensorial tiene tu sala y a quién está dejando fuera?",
+      "¿Qué signo motor te llevaría a derivar y con qué fundamento?"
+    ],
+    "lecturas": [
+      [
+        "Adolph, K. & Franchak, J. (2017). *The Development of Motor Behavior*.",
+        "revisión actual sobre variabilidad, aprendizaje motor y su relación con la exploración."
+      ],
+      [
+        "Organización Mundial de la Salud (2019). *Directrices sobre actividad física, comportamientos sedentarios y sueño en menores de 5 años*.",
+        "recomendaciones respaldadas y verificables para el diseño de rutinas del nivel."
+      ]
+    ],
+    "inclusion": "Las diferencias sensoriales y motoras son una de las principales fuentes de exclusión invisible: un ambiente que solo funciona para el perfil sensorial promedio deja fuera a niños que podrían participar plenamente con ajustes menores y de bajo costo.",
+    "reto": "Recorre un espacio educativo con la altura visual de un niño y registra tres barreras que no habías visto. Corrige una y observa qué conducta nueva aparece.",
+    "conexion": "Sostiene la parte 03 (ambientes y corporalidad) y la parte 08 (accesibilidad física y sensorial)."
+  },
+  {
+    "n": 27,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué la cantidad y la calidad del lenguaje que un niño escucha predicen su trayectoria escolar posterior",
+    "proposito": "Comprender la adquisición del lenguaje y su papel como predictor educativo, y convertir esa comprensión en prácticas concretas de interacción verbal dentro de la sala.",
+    "decision": "determinar cómo vas a aumentar deliberadamente la cantidad y la calidad del lenguaje dirigido a cada niño",
+    "entregable": "un plan de interacción verbal con estrategias específicas y un registro de su aplicación durante una semana",
+    "conceptos": [
+      [
+        "Lenguaje dirigido al niño",
+        "habla que un adulto ajusta y dirige específicamente al niño; predice desarrollo mejor que el habla ambiental"
+      ],
+      [
+        "Intercambio conversacional",
+        "turno completo de ida y vuelta entre adulto y niño; unidad con mayor valor predictivo"
+      ],
+      [
+        "Vocabulario receptivo y expresivo",
+        "palabras que se comprenden y palabras que se producen; avanzan a ritmos distintos"
+      ],
+      [
+        "Conciencia fonológica",
+        "capacidad de identificar y manipular los sonidos del habla; predictor directo de la lectura inicial"
+      ]
+    ],
+    "desarrollo": "El lenguaje se adquiere en interacción, no por exposición pasiva: lo que predice el desarrollo no es la cantidad de palabras en el ambiente sino los intercambios conversacionales dirigidos al niño. La diferencia entre contextos en esta variable es grande y aparece temprano, y se asocia con el vocabulario posterior y con la comprensión lectora. Es, además, una de las pocas variables que un equipo educativo puede modificar directamente con formación y sin recursos adicionales.",
+    "practica": "Las estrategias con respaldo son concretas: nombrar lo que ocurre, ampliar el enunciado del niño en vez de corregirlo, hacer preguntas abiertas y esperar la respuesta, sostener turnos en vez de encadenar instrucciones. Registrar cuántos intercambios completos tiene cada niño en una jornada suele revelar que los más callados casi no reciben ninguno, y ese solo dato cambia la práctica de un equipo.",
+    "limites": "La magnitud de la brecha léxica temprana ha sido revisada y los datos originales muy citados fueron cuestionados metodológicamente; la existencia de la diferencia se sostiene, su tamaño exacto no. Además, el bilingüismo no retrasa el desarrollo del lenguaje, aunque distribuya el vocabulario entre dos lenguas: evaluar solo en una lengua produce falsos diagnósticos de retraso.",
+    "errores": [
+      "Evaluar el lenguaje de un niño bilingüe considerando solo una de sus lenguas.",
+      "Aumentar la cantidad de habla del adulto sin generar turnos reales del niño."
+    ],
+    "criterios": [
+      "el plan define estrategias observables y no intenciones generales;",
+      "el registro muestra distribución de intercambios por niño, no solo total del grupo;"
+    ],
+    "preguntas": [
+      "¿Cuántos intercambios conversacionales completos tuvo hoy el niño más callado de tu grupo?",
+      "¿Cuánto de tu habla son instrucciones y cuánto son turnos de conversación?",
+      "¿Cómo distinguirías un retraso del lenguaje de una distribución bilingüe del vocabulario?"
+    ],
+    "lecturas": [
+      [
+        "Romeo, R. et al. (2018). *Beyond the 30-Million-Word Gap: Children's Conversational Exposure*. Psychological Science, 29(5).",
+        "muestra que los turnos conversacionales, y no el número de palabras, explican la asociación con el desarrollo."
+      ],
+      [
+        "Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*.",
+        "conecta lenguaje oral temprano con lectura posterior; base de la prevención de dificultades lectoras."
+      ]
+    ],
+    "inclusion": "Los niños que menos hablan reciben menos lenguaje, y así se amplía la brecha. Un plan de interacción verbal debe garantizar de forma deliberada turnos para quienes no los reclaman, incluidos los niños con dificultades de comunicación y los que aprenden en una segunda lengua.",
+    "reto": "Registra durante tres jornadas los intercambios de cinco niños distintos. Diseña una modificación de rutina que iguale esa distribución y verifica su efecto.",
+    "conexion": "Es la base de la clase 040 (alfabetización emergente) y de la parte 04, donde el vocabulario oral explica buena parte de la comprensión lectora."
+  },
+  {
+    "n": 28,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué conserva y qué corrige la investigación actual respecto de las etapas clásicas del desarrollo cognitivo",
+    "proposito": "Usar el desarrollo cognitivo como marco de expectativas realistas sin caer en la aplicación rígida de etapas, que subestima lo que los niños pueden hacer con apoyo y sobreestima la homogeneidad por edad.",
+    "decision": "determinar qué demanda cognitiva es razonable para la edad de tu grupo y qué apoyo la hace accesible",
+    "entregable": "una misma tarea graduada para tres edades distintas, con la demanda cognitiva declarada en cada versión",
+    "conceptos": [
+      [
+        "Razonamiento concreto y abstracto",
+        "operar sobre objetos y situaciones presentes frente a operar sobre símbolos y posibilidades"
+      ],
+      [
+        "Descentración",
+        "capacidad de considerar un punto de vista distinto del propio"
+      ],
+      [
+        "Teoría de la mente",
+        "comprensión de que otros tienen creencias, deseos e intenciones distintos de los propios"
+      ],
+      [
+        "Desarrollo por dominio",
+        "avance desigual: un mismo niño puede razonar de forma avanzada en un ámbito y elemental en otro"
+      ]
+    ],
+    "desarrollo": "Las etapas clásicas describen bien una progresión general y mal la variabilidad real. La investigación posterior mostró que los niños pequeños son capaces de más de lo que las tareas piagetianas originales revelaban —el formato de la tarea escondía la competencia— y que el desarrollo no avanza en bloque sino por dominios, dependiendo del conocimiento previo específico. Un niño experto en un tema razona sobre él mejor que un adulto novato.",
+    "practica": "La consecuencia práctica es doble. Primero: no bajar la demanda por edad, sino ajustar el formato, el soporte y el contexto de la tarea. Segundo: no suponer homogeneidad por curso; dentro de un mismo grupo la distancia en razonamiento sobre un contenido específico depende más de lo que cada uno sabe del tema que de su fecha de nacimiento.",
+    "limites": "Las etapas siguen siendo útiles como referencia gruesa y peligrosas como criterio de decisión individual. Usar la edad para concluir que algo «no corresponde» es uno de los errores más costosos del oficio, porque se autoconfirma: nunca se ofrece la tarea, luego nunca se observa la capacidad. La regla es ofrecer, observar y ajustar, en ese orden.",
+    "errores": [
+      "Descartar una tarea por la edad sin haber probado un formato accesible.",
+      "Suponer que un curso completo comparte el mismo nivel de razonamiento por tener la misma edad."
+    ],
+    "criterios": [
+      "cada versión de la tarea declara qué demanda cognitiva mantiene y cuál modifica;",
+      "el ajuste se hace en formato y soporte, no bajando el objetivo de aprendizaje;"
+    ],
+    "preguntas": [
+      "¿Qué tarea has descartado por edad sin haberla probado con otro formato?",
+      "¿En qué dominio específico razona mejor que tú algún estudiante de tu curso?",
+      "¿Qué evidencia usarías para ajustar la demanda en vez de la edad como criterio?"
+    ],
+    "lecturas": [
+      [
+        "Siegler, R. (1996). *Emerging Minds: The Process of Change in Children's Thinking*.",
+        "muestra el desarrollo como variabilidad y selección de estrategias, no como sucesión de etapas fijas."
+      ],
+      [
+        "Gopnik, A. (2016). *The Gardener and the Carpenter*.",
+        "síntesis accesible de la investigación reciente sobre cognición infantil y sus implicancias para adultos que enseñan."
+      ]
+    ],
+    "inclusion": "El criterio de edad se usa con frecuencia para justificar expectativas más bajas con estudiantes con discapacidad intelectual o trayectorias interrumpidas. La misma regla se aplica: ofrecer, observar y ajustar el soporte, nunca reducir de entrada la demanda por una categoría.",
+    "reto": "Toma una tarea que consideres imposible para una edad menor. Rediséñala con otro formato, aplícala y documenta qué pudieron hacer realmente.",
+    "conexion": "Corrige el uso ingenuo de las etapas en las partes 03, 04 y 05, y se apoya en la clase 015 sobre concepciones previas."
+  },
+  {
+    "n": 29,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué la regulación emocional es una capacidad que se enseña y no un rasgo de carácter que se exige",
+    "proposito": "Comprender el desarrollo socioemocional como aprendizaje: reconocer, nombrar y regular emociones, y sostener relaciones, son capacidades que se construyen con mediación adulta.",
+    "decision": "determinar qué capacidad socioemocional específica vas a enseñar de forma explícita y cómo la evaluarás",
+    "entregable": "una secuencia de enseñanza explícita de una habilidad socioemocional, con indicadores observables",
+    "conceptos": [
+      [
+        "Regulación emocional",
+        "capacidad de modular la intensidad y la expresión de la propia emoción según el contexto"
+      ],
+      [
+        "Corregulación",
+        "apoyo del adulto que permite al niño regularse antes de poder hacerlo solo"
+      ],
+      [
+        "Competencia social",
+        "conjunto de habilidades para iniciar, sostener y reparar relaciones con pares"
+      ],
+      [
+        "Clima emocional del aula",
+        "tono afectivo predominante en la interacción; condiciona la disposición a aprender"
+      ]
+    ],
+    "desarrollo": "La regulación emocional se desarrolla primero como corregulación: el adulto presta su calma y su lenguaje hasta que el niño puede hacerlo solo. Exigir autorregulación a quien todavía depende de la corregulación produce escalada, no aprendizaje. La evidencia sobre programas de aprendizaje socioemocional muestra efectos positivos en conducta, clima y también en resultados académicos, aunque su magnitud depende fuertemente de la calidad de la implementación.",
+    "practica": "Enseñar una habilidad socioemocional sigue la misma lógica que enseñar cualquier contenido: definirla en conducta observable, modelarla, practicarla en situaciones reales, retroalimentar y sostenerla en el tiempo. «Pedir ayuda cuando no entiendo» o «esperar mi turno para hablar en una discusión» son objetivos enseñables; «ser respetuoso» no lo es hasta que se traduce en conductas concretas.",
+    "limites": "Los programas socioemocionales adoptados como paquete y aplicados con baja fidelidad rinden poco, y su evaluación suele apoyarse en autorreportes. Además, tratar como déficit individual lo que responde a condiciones del ambiente —hacinamiento, violencia, inestabilidad— desplaza la responsabilidad hacia el niño. La habilidad se enseña y el contexto se corrige; hacer solo lo primero es insuficiente.",
+    "errores": [
+      "Exigir autorregulación en edades o situaciones en que aún se requiere corregulación.",
+      "Definir objetivos socioemocionales con etiquetas de valor en vez de conductas observables."
+    ],
+    "criterios": [
+      "la habilidad está definida como conducta observable y practicable;",
+      "la secuencia incluye modelamiento, práctica y retroalimentación, no solo conversación;"
+    ],
+    "preguntas": [
+      "¿Qué conducta concreta esperas cuando pides «respeto» a tu grupo?",
+      "¿Qué haces tú para corregular antes de exigir que se regulen solos?",
+      "¿Qué condición del ambiente está produciendo la conducta que atribuyes al estudiante?"
+    ],
+    "lecturas": [
+      [
+        "Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*. Child Development, 82(1).",
+        "metaanálisis de referencia; declara efectos y también la dependencia de la implementación."
+      ],
+      [
+        "Denham, S. (1998). *Emotional Development in Young Children*.",
+        "describe la secuencia del desarrollo emocional con criterios observables para el trabajo educativo."
+      ]
+    ],
+    "inclusion": "Las expectativas sobre expresión emocional están culturalmente situadas, y lo que una institución lee como desregulación puede ser una norma familiar distinta. Antes de intervenir conviene distinguir diferencia cultural, dificultad de regulación y respuesta razonable a un contexto adverso.",
+    "reto": "Escoge una conducta socioemocional que reclames a menudo. Conviértela en objetivo enseñable, enséñala durante tres semanas y mide su frecuencia antes y después.",
+    "conexion": "Sostiene la parte 12 (clima y convivencia) y se apoya en la clase 030. En la parte 03 aparece como núcleo del nivel parvulario."
+  },
+  {
+    "n": 30,
+    "evidencia": "ROBUSTA",
+    "foco": "qué explica el apego sobre la conducta escolar y qué se le atribuye sin fundamento",
+    "proposito": "Usar la teoría del apego para interpretar conductas de dependencia, evitación o desafío en contextos educativos, sin convertirla en diagnóstico ni en explicación universal.",
+    "decision": "determinar cómo responder a una conducta de vínculo sin reforzar la inseguridad ni negar la necesidad",
+    "entregable": "un análisis de dos conductas de vínculo observadas y la respuesta educativa fundamentada para cada una",
+    "conceptos": [
+      [
+        "Apego",
+        "vínculo afectivo con un cuidador que organiza la búsqueda de proximidad y seguridad"
+      ],
+      [
+        "Base segura",
+        "función del adulto que permite al niño explorar sabiendo que hay retorno disponible"
+      ],
+      [
+        "Patrón de apego",
+        "forma característica de responder ante la separación y el reencuentro; describe la relación, no al niño"
+      ],
+      [
+        "Figura significativa alternativa",
+        "adulto no cuidador principal que puede cumplir funciones de sostén y ampliar la seguridad"
+      ]
+    ],
+    "desarrollo": "La contribución central de la teoría es que la seguridad no compite con la exploración: la habilita. Un niño con una base segura explora más, no menos. En contextos educativos esto se traduce en que la disponibilidad predecible del adulto —no la permisividad— es lo que permite que un niño se arriesgue a intentar, equivocarse y pedir ayuda. La docente o el docente pueden funcionar como figura significativa alternativa, y para algunos estudiantes esa función es determinante.",
+    "practica": "La aplicación consiste en responder de forma predecible y no personalizada al conflicto: sostener el límite sin retirar el vínculo. Un estudiante que provoca rechazo suele estar comprobando si el adulto se irá; responder con distancia confirma su hipótesis. La consistencia a lo largo de semanas hace más que cualquier conversación aislada, y es también lo más difícil de sostener cuando la conducta es desafiante.",
+    "limites": "El apego describe una relación específica, no un rasgo permanente del niño ni una explicación de todo su comportamiento. Los patrones pueden diferir entre cuidadores y cambiar con el tiempo. Ningún profesional educativo debe diagnosticar apego ni comunicar categorías a las familias: eso corresponde a evaluación clínica especializada, y su uso informal produce estigma sobre los cuidadores.",
+    "errores": [
+      "Usar categorías de apego como diagnóstico o comunicarlas a la familia.",
+      "Retirar el vínculo como sanción ante una conducta desafiante."
+    ],
+    "criterios": [
+      "el análisis describe conductas observadas y no atribuye categorías clínicas;",
+      "la respuesta propuesta sostiene el límite manteniendo la disponibilidad del adulto;"
+    ],
+    "preguntas": [
+      "¿Qué haces cuando un estudiante parece buscar tu rechazo?",
+      "¿Qué señales de disponibilidad predecible ofrece tu práctica cotidiana?",
+      "¿Dónde está el límite entre interpretar una conducta y diagnosticar a una familia?"
+    ],
+    "lecturas": [
+      [
+        "Bowlby, J. (1988). *A Secure Base*.",
+        "la formulación clínica de la base segura y su relación con la exploración; muy aplicable al aula."
+      ],
+      [
+        "Sroufe, A. et al. (2005). *The Development of the Person*.",
+        "estudio longitudinal de treinta años; documenta continuidad y cambio, y desmiente el determinismo."
+      ]
+    ],
+    "inclusion": "Los estudiantes en cuidado alternativo, con familias en crisis o con historias de vulneración son quienes más dependen de la función de figura significativa alternativa. Sostener esa función con límites claros es una intervención educativa legítima; suplantar a la familia o emitir juicios sobre ella, no.",
+    "reto": "Elige un estudiante con quien el vínculo esté tenso. Define tres conductas de disponibilidad predecible, sostenlas cuatro semanas sin excepción y registra qué cambia.",
+    "conexion": "Complementa las clases 025 y 029 y sostiene la parte 12, donde la reparación del vínculo es parte del manejo de conflictos."
+  },
+  {
+    "n": 31,
+    "evidencia": "CONSISTENTE",
+    "foco": "por qué entre los 6 y los 12 años la comparación con los pares se vuelve el principal organizador de la autoimagen escolar",
+    "proposito": "Comprender la niñez media como período en que se consolidan hábitos de trabajo, autoconcepto académico y posición en el grupo, y actuar sobre esas tres cosas antes de que se estabilicen.",
+    "decision": "determinar qué intervención de este período evitará que un autoconcepto académico negativo se consolide",
+    "entregable": "un plan de trabajo para un estudiante con autoconcepto académico deteriorado, con acciones y evidencia de seguimiento",
+    "conceptos": [
+      [
+        "Autoconcepto académico",
+        "idea que el estudiante tiene sobre su propia capacidad en un dominio escolar"
+      ],
+      [
+        "Comparación social",
+        "proceso de evaluar la propia capacidad en referencia al desempeño de los pares"
+      ],
+      [
+        "Estatus entre pares",
+        "posición del estudiante en la estructura social del curso; predice bienestar y participación"
+      ],
+      [
+        "Hábito de trabajo",
+        "conjunto de rutinas de estudio y organización que se consolidan en este período"
+      ]
+    ],
+    "desarrollo": "En la niñez media el estudiante empieza a evaluarse comparándose, y esa comparación se vuelve estable. Un niño que durante dos años recibe evidencia de que es «el que no entiende matemática» construye un autoconcepto que después resiste incluso al éxito posterior. La consecuencia práctica es que este período es la última oportunidad barata para intervenir: más tarde, corregir el autoconcepto exige mucho más que corregir el aprendizaje.",
+    "practica": "Tres decisiones tienen alto rendimiento: hacer visible el progreso individual en vez del ranking, garantizar experiencias de competencia auténtica a quienes tienen menos, y cuidar la asignación pública de roles en el aula, que consolida estatus. También importa lo que no se hace: agrupar de forma fija y visible por nivel produce efectos sobre el autoconcepto que suelen superar las ganancias de la homogeneidad.",
+    "limites": "La relación entre autoconcepto y rendimiento es recíproca y su dirección causal se discute; intervenir solo sobre la autoestima sin mejorar el desempeño no produce efectos duraderos. Lo que sí está razonablemente respaldado es que la experiencia repetida de logro auténtico modifica el autoconcepto, y no al revés.",
+    "errores": [
+      "Reforzar la autoestima con elogio no justificado por el desempeño real.",
+      "Mantener agrupamientos fijos y visibles por nivel sin evaluar su efecto sobre el autoconcepto."
+    ],
+    "criterios": [
+      "el plan produce evidencia de logro auténtico y no solo mensajes de aliento;",
+      "el seguimiento registra cambios en desempeño y en participación, no solo en actitud percibida;"
+    ],
+    "preguntas": [
+      "¿Qué estudiante de tu curso ya se describe a sí mismo como incapaz en tu asignatura?",
+      "¿Qué prácticas tuyas hacen pública la comparación entre estudiantes?",
+      "¿Qué evidencia de logro real puede obtener esta semana quien menos avanza?"
+    ],
+    "lecturas": [
+      [
+        "Eccles, J. (1999). *The Development of Children Ages 6 to 14*. The Future of Children, 9(2).",
+        "síntesis del período con foco en escuela, motivación y autoconcepto."
+      ],
+      [
+        "Marsh, H. & Craven, R. (2006). *Reciprocal Effects of Self-Concept and Performance*.",
+        "documenta la relación recíproca y desmonta la idea de intervenir la autoestima por sí sola."
+      ]
+    ],
+    "inclusion": "Los estudiantes que reciben apoyos visibles corren riesgo de que ese apoyo se convierta en marca de estatus. Diseñar los apoyos como opciones disponibles para todo el curso protege el autoconcepto sin reducir el soporte.",
+    "reto": "Identifica un estudiante con autoconcepto deteriorado y diseña cuatro semanas de logros auténticos crecientes. Registra qué dice de sí mismo al inicio y al final.",
+    "conexion": "Prepara la parte 04 y anticipa la clase 032. Se apoya en la clase 022 sobre expectativa de éxito."
+  },
+  {
+    "n": 32,
+    "evidencia": "ROBUSTA",
+    "foco": "por qué la adolescencia combina alta capacidad de aprendizaje con alta sensibilidad social, y qué implica eso para enseñar",
+    "proposito": "Sustituir la caricatura de la adolescencia como etapa de déficit por una comprensión de su reorganización real: mayor sensibilidad a pares y a estatus, mayor búsqueda de autonomía y un período de plasticidad significativa.",
+    "decision": "determinar cómo ajustar la relación pedagógica para que el contenido no compita con la necesidad de autonomía y pertenencia",
+    "entregable": "el rediseño de una práctica de aula que reduzca la exposición al ridículo público y aumente la autonomía real",
+    "conceptos": [
+      [
+        "Sensibilidad social",
+        "mayor reactividad a la evaluación de los pares y al estatus dentro del grupo"
+      ],
+      [
+        "Búsqueda de autonomía",
+        "necesidad creciente de decidir por sí mismo; se opone al control percibido como arbitrario"
+      ],
+      [
+        "Toma de riesgos",
+        "conducta más frecuente en presencia de pares que en solitario; no equivale a mala evaluación del riesgo"
+      ],
+      [
+        "Plasticidad adolescente",
+        "período de reorganización que hace al aprendizaje y a la intervención especialmente efectivos"
+      ]
+    ],
+    "desarrollo": "La investigación reciente reordenó la comprensión de la adolescencia: no es un período de irracionalidad, sino de recalibración de prioridades. La presencia de pares aumenta la toma de riesgos, la evaluación pública tiene un costo emocional mucho mayor que en otras edades, y el control percibido como arbitrario produce resistencia. Al mismo tiempo, es un período de alta plasticidad, en el que intervenciones bien diseñadas producen efectos duraderos.",
+    "practica": "Tres ajustes tienen alto rendimiento: eliminar situaciones de exposición al ridículo frente al grupo, ofrecer autonomía real en aspectos que importan —cómo demostrar lo aprendido, en qué orden, con quién trabajar— y explicar las razones de las reglas en vez de imponerlas. Ninguno implica bajar la exigencia; de hecho, permiten subirla, porque la resistencia disminuye cuando la relación no está en disputa.",
+    "limites": "La divulgación sobre el «cerebro adolescente inmaduro» se usa con frecuencia para justificar tanto la sobreprotección como el castigo. La evidencia no sostiene que los adolescentes no comprendan el riesgo: lo comprenden y valoran distinto sus recompensas sociales. Tampoco existe una edad exacta de madurez cerebral que autorice conclusiones categóricas sobre responsabilidad.",
+    "errores": [
+      "Usar la exposición pública como método de control en un grupo adolescente.",
+      "Explicar toda conducta adolescente por inmadurez cerebral y descartar el análisis de la situación."
+    ],
+    "criterios": [
+      "el rediseño elimina al menos una situación de exposición pública innecesaria;",
+      "la autonomía ofrecida es real y recae sobre algo que el estudiante valora;"
+    ],
+    "preguntas": [
+      "¿Qué práctica tuya expone a un estudiante frente al grupo sin necesidad pedagógica?",
+      "¿Qué decisión real puedes ceder sin perder el objetivo de aprendizaje?",
+      "¿Qué regla tuya no has explicado nunca y solo has impuesto?"
+    ],
+    "lecturas": [
+      [
+        "Steinberg, L. (2014). *Age of Opportunity*.",
+        "reinterpreta la adolescencia como período de oportunidad y plasticidad, con la evidencia que lo respalda."
+      ],
+      [
+        "Blakemore, S.-J. (2018). *Inventing Ourselves: The Secret Life of the Teenage Brain*.",
+        "síntesis rigurosa y prudente sobre desarrollo cerebral adolescente y conducta social."
+      ]
+    ],
+    "inclusion": "La sensibilidad al estatus hace especialmente costosa la exposición de quienes ya están en posición vulnerable: estudiantes con apoyos visibles, con identidades minorizadas o con trayectorias irregulares. El rediseño de prácticas públicas es, en este nivel, una medida de inclusión de primer orden.",
+    "reto": "Registra durante una semana cada situación en que un estudiante quedó expuesto ante el grupo. Rediseña las evitables y observa el efecto sobre la participación.",
+    "conexion": "Es el fundamento psicológico de toda la parte 05 y se conecta con la parte 12 en el manejo del conflicto sin escalada."
+  },
+  {
+    "n": 33,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué cambia en el aprendizaje cuando la persona ya tiene responsabilidades, experiencia laboral y tiempo escaso",
+    "proposito": "Comprender la adultez emergente y la adultez como períodos con lógicas propias de aprendizaje: motivación instrumental, experiencia previa abundante, identidad ocupacional en construcción y condiciones de vida que compiten con el estudio.",
+    "decision": "determinar qué supuestos de la enseñanza escolar debes abandonar al trabajar con estudiantes adultos",
+    "entregable": "una comparación explícita entre el diseño de una misma formación para adolescentes y para adultos, con las decisiones que cambian",
+    "conceptos": [
+      [
+        "Adultez emergente",
+        "período entre los 18 y los 25 años, con exploración de identidad y trayectorias no lineales"
+      ],
+      [
+        "Identidad ocupacional",
+        "construcción de sí mismo en relación con el trabajo; organiza la motivación adulta por aprender"
+      ],
+      [
+        "Aprendizaje instrumental",
+        "orientado a resolver un problema concreto y evaluado por su utilidad inmediata"
+      ],
+      [
+        "Conflicto de roles",
+        "competencia entre estudio, trabajo y responsabilidades familiares por el mismo tiempo"
+      ]
+    ],
+    "desarrollo": "El adulto que estudia no es un adolescente con más años: negocia su tiempo con obligaciones no negociables, evalúa lo que aprende por su utilidad, y trae experiencia que a veces sostiene el aprendizaje y a veces lo obstaculiza. La adultez emergente, además, se caracteriza por trayectorias no lineales: interrupciones, cambios de rumbo y retorno a los estudios son la norma y no la excepción.",
+    "practica": "Diseñar para adultos implica decisiones concretas: partir del problema y no del temario, respetar el tiempo declarado sin encargos encubiertos, permitir aplicar de inmediato lo aprendido, y reconocer explícitamente la experiencia previa como recurso. También implica un cambio en la relación: el adulto acepta ser dirigido en el método pero no ser tratado como si no supiera nada de su propio campo.",
+    "limites": "La categoría «adulto» agrupa realidades muy distintas: quien capacita por obligación, quien retoma estudios interrumpidos y quien se perfecciona por interés no comparten motivación ni condiciones. Las prescripciones andragógicas generales fallan al aplicarse sin distinguirlos, y la evidencia empírica que las respalda es más débil de lo que su difusión sugiere.",
+    "errores": [
+      "Trasladar formatos escolares —tareas para la casa, control de asistencia como sanción— a formación de adultos.",
+      "Tratar como homogéneo a un grupo adulto con motivaciones y condiciones muy distintas."
+    ],
+    "criterios": [
+      "la comparación identifica al menos cuatro decisiones de diseño que cambian y por qué;",
+      "el diseño para adultos declara cómo respeta el tiempo real disponible;"
+    ],
+    "preguntas": [
+      "¿Qué parte de tu diseño supone un tiempo que tus estudiantes adultos no tienen?",
+      "¿Qué experiencia previa de tu grupo estás desaprovechando?",
+      "¿Qué diferencia hay entre los adultos obligados y los voluntarios de tu curso?"
+    ],
+    "lecturas": [
+      [
+        "Arnett, J. (2000). *Emerging Adulthood*. American Psychologist, 55(5).",
+        "define el período y sus rasgos; explica trayectorias educativas no lineales."
+      ],
+      [
+        "Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*.",
+        "revisa críticamente el campo y separa lo respaldado de lo asumido."
+      ]
+    ],
+    "inclusion": "Los adultos que retoman estudios suelen cargar una historia escolar de fracaso y vergüenza. Diseñar la primera sesión para producir una experiencia temprana de competencia, y evitar cualquier práctica que reproduzca la humillación escolar previa, es determinante para la permanencia.",
+    "reto": "Toma un programa que impartes y calcula el tiempo real que exige fuera de sesión. Rediseña para que quepa en el tiempo declarado y observa el efecto en asistencia y entrega.",
+    "conexion": "Es el antecedente directo de toda la parte 07 y de la parte 14 en programas de postgrado profesional."
+  },
+  {
+    "n": 34,
+    "evidencia": "CONSISTENTE",
+    "foco": "qué se conserva, qué declina y qué mejora en la capacidad de aprender a lo largo de la vida adulta",
+    "proposito": "Distinguir los cambios cognitivos reales del envejecimiento de los estereotipos que impiden diseñar formación para personas mayores, y aprovechar lo que efectivamente mejora con la edad.",
+    "decision": "determinar qué ajustes de ritmo, formato y apoyo hacen accesible tu formación a participantes mayores",
+    "entregable": "el ajuste fundamentado de una formación para un grupo de adultos mayores, con las decisiones documentadas",
+    "conceptos": [
+      [
+        "Inteligencia fluida",
+        "capacidad de razonar con material nuevo; declina gradualmente con la edad"
+      ],
+      [
+        "Inteligencia cristalizada",
+        "conocimiento y vocabulario acumulados; se mantiene o aumenta hasta edades avanzadas"
+      ],
+      [
+        "Velocidad de procesamiento",
+        "rapidez de operación cognitiva; su descenso explica buena parte del cambio observado"
+      ],
+      [
+        "Aprendizaje permanente",
+        "participación en formación a lo largo de toda la vida, con propósitos que cambian con la etapa"
+      ]
+    ],
+    "desarrollo": "El envejecimiento cognitivo normal no es un deterioro general. Disminuyen la velocidad de procesamiento y algunos aspectos de la memoria de trabajo; se mantienen o mejoran el vocabulario, el conocimiento acumulado y la capacidad de juicio en dominios familiares. Un participante mayor puede aprender lo mismo que uno joven si el diseño le concede tiempo, reduce demandas de velocidad y se apoya en su conocimiento previo.",
+    "practica": "Los ajustes útiles son de diseño, no de contenido: dar más tiempo sin señalarlo como concesión, reducir la carga de material nuevo por sesión, apoyarse explícitamente en la experiencia acumulada, cuidar condiciones sensoriales —tamaño de letra, contraste, audio— y evitar formatos que penalicen la rapidez. Ninguno implica simplificar el objetivo.",
+    "limites": "La variabilidad entre personas mayores es mayor que en cualquier otro grupo etario, de modo que los promedios describen poco. Los estudios transversales confunden envejecimiento con diferencias entre generaciones —escolaridad, salud, familiaridad tecnológica—, y los programas comerciales de entrenamiento cerebral no muestran transferencia significativa a la vida cotidiana.",
+    "errores": [
+      "Simplificar el contenido en vez de ajustar el ritmo y el formato.",
+      "Atribuir a la edad dificultades que provienen de la falta de familiaridad con una herramienta específica."
+    ],
+    "criterios": [
+      "los ajustes modifican tiempo, formato y apoyo sin reducir el objetivo;",
+      "las condiciones sensoriales del material y del espacio están explícitamente revisadas;"
+    ],
+    "preguntas": [
+      "¿Qué parte de tu formación penaliza la lentitud sin necesidad?",
+      "¿Qué conocimiento acumulado de tus participantes podrías usar como andamio?",
+      "¿Qué dificultad estás atribuyendo a la edad y en realidad es falta de práctica con la herramienta?"
+    ],
+    "lecturas": [
+      [
+        "Baltes, P. & Baltes, M. (1990). *Successful Aging: Perspectives from the Behavioral Sciences*.",
+        "modelo de selección, optimización y compensación; muy útil para diseñar formación."
+      ],
+      [
+        "Salthouse, T. (2010). *Major Issues in Cognitive Aging*.",
+        "distingue con rigor qué declina, qué se conserva y qué artefactos introducen los diseños transversales."
+      ]
+    ],
+    "inclusion": "La exclusión digital afecta de forma desproporcionada a personas mayores y se confunde con incapacidad de aprender. Separar la barrera de acceso del proceso de aprendizaje evita conclusiones equivocadas y diseños que se abandonan por frustración inicial.",
+    "reto": "Adapta una sesión tuya para un grupo de adultos mayores y aplícala. Registra qué ajustes resultaron indispensables y cuáles beneficiaron también a los participantes más jóvenes.",
+    "conexion": "Completa la trayectoria de la parte y se aplica en la parte 07, especialmente en programas de reconversión y de formación continua."
+  },
+  {
+    "n": 35,
+    "evidencia": "EN-DEBATE",
+    "foco": "cómo trabajar con la variabilidad real del aula sin caer en categorías que explican poco y etiquetan mucho",
+    "proposito": "Analizar las diferencias individuales que sí tienen consecuencias educativas —conocimiento previo, lenguaje, autorregulación, condiciones de vida— y descartar las que la evidencia no respalda, empezando por los estilos de aprendizaje.",
+    "decision": "determinar qué diferencia individual de tu grupo justifica realmente un ajuste de enseñanza",
+    "entregable": "un perfil de variabilidad de tu curso con las diferencias que exigen ajuste y las que no, con su justificación",
+    "conceptos": [
+      [
+        "Variabilidad esperable",
+        "dispersión normal de desempeños dentro de cualquier grupo; es el punto de partida del diseño"
+      ],
+      [
+        "Conocimiento previo",
+        "la diferencia individual con mayor poder explicativo sobre el aprendizaje nuevo"
+      ],
+      [
+        "Neuromito",
+        "creencia sobre el cerebro ampliamente difundida y refutada por la evidencia"
+      ],
+      [
+        "Diferenciación",
+        "ajuste de la enseñanza a la variabilidad, sin modificar el objetivo de aprendizaje"
+      ]
+    ],
+    "desarrollo": "De todas las diferencias individuales, la que más explica el aprendizaje nuevo es el conocimiento previo específico sobre el contenido; después vienen lenguaje, autorregulación y condiciones materiales de estudio. Los estilos de aprendizaje, en cambio, han sido puestos a prueba repetidamente: enseñar en la modalidad preferida por el estudiante no mejora su aprendizaje. Sigue siendo la creencia más extendida entre docentes de todo el mundo, y su costo es real, porque desvía tiempo y atención de diferencias que sí importan.",
+    "practica": "El trabajo profesional consiste en levantar el perfil de variabilidad que sí opera: quién domina los prerrequisitos, quién aprende en una segunda lengua, quién puede sostener trabajo autónomo, quién tiene condiciones de estudio en casa. Ese perfil se traduce en decisiones de agrupamiento, andamiaje y ritmo. La diferenciación útil ajusta el camino y mantiene la meta; la diferenciación mal entendida rebaja objetivos y consolida la brecha.",
+    "limites": "Hay debate legítimo sobre cuánta diferenciación es sostenible: la evidencia muestra que estrategias muy individualizadas son difíciles de implementar con fidelidad y pueden reducir el tiempo de instrucción efectiva. La posición defendible es priorizar unas pocas diferencias con alto poder explicativo y atenderlas bien, en vez de intentar personalizar todo y lograrlo con nadie.",
+    "errores": [
+      "Diseñar actividades según estilos de aprendizaje visuales, auditivos o kinestésicos.",
+      "Diferenciar bajando el objetivo en vez de cambiar el soporte y la vía de acceso."
+    ],
+    "criterios": [
+      "el perfil prioriza diferencias con poder explicativo demostrado;",
+      "se declara al menos una diferencia frecuentemente usada que se descarta y por qué;"
+    ],
+    "preguntas": [
+      "¿Qué diferencia de tu curso explica realmente los resultados que observas?",
+      "¿Qué práctica tuya se apoya en un neuromito?",
+      "¿Cuánta diferenciación puedes sostener con fidelidad en tu carga real de trabajo?"
+    ],
+    "lecturas": [
+      [
+        "Pashler, H. et al. (2008). *Learning Styles: Concepts and Evidence*. Psychological Science in the Public Interest, 9(3).",
+        "la revisión que muestra la ausencia de evidencia para la hipótesis de emparejamiento; lectura obligada."
+      ],
+      [
+        "Tomlinson, C. (2014). *The Differentiated Classroom*.",
+        "propuesta operativa de diferenciación; léela junto con la evidencia sobre su implementación real."
+      ]
+    ],
+    "inclusion": "Descartar los estilos de aprendizaje no significa negar la variabilidad: significa dirigir el esfuerzo hacia ajustes con efecto real —accesibilidad, vías alternativas de demostración, andamiaje— que son precisamente los del Diseño Universal para el Aprendizaje.",
+    "reto": "Levanta el perfil de variabilidad de un curso real con datos y no con impresiones. Escoge las dos diferencias más determinantes y diseña un ajuste sostenible para cada una.",
+    "conexion": "Prepara toda la parte 08 y se apoya en la clase 019, que explica por qué el conocimiento previo modifica la carga cognitiva."
+  },
+  {
+    "n": 36,
+    "evidencia": "CONSISTENTE",
+    "foco": "cómo se integran los dominios del desarrollo en la trayectoria de una persona concreta y no de un promedio",
+    "proposito": "Integrar la parte construyendo una trayectoria de desarrollo documentada: qué ocurre en cada dominio, cómo interactúan y qué decisiones educativas se derivan en cada momento.",
+    "decision": "determinar qué decisiones educativas corresponden a cada tramo de una trayectoria concreta y por qué",
+    "entregable": "una trayectoria de desarrollo documentada de un caso real o simulado, con decisiones educativas fundamentadas por tramo",
+    "conceptos": [
+      [
+        "Trayectoria de desarrollo",
+        "recorrido individual a lo largo del tiempo en varios dominios que interactúan"
+      ],
+      [
+        "Interacción entre dominios",
+        "efecto de un dominio sobre otro; el lenguaje afecta lo social, lo motor afecta lo cognitivo"
+      ],
+      [
+        "Señal de alerta",
+        "desviación que amerita observación sistemática o derivación, distinta de la variación esperable"
+      ],
+      [
+        "Documentación evolutiva",
+        "registro sistemático y fechado de observaciones que permite ver cambio en el tiempo"
+      ]
+    ],
+    "desarrollo": "El proyecto integrador obliga a hacer lo que ninguna clase por separado exige: mirar a una persona completa. Los dominios se presentan por separado por comodidad expositiva, pero interactúan permanentemente: una dificultad de lenguaje no atendida produce efectos sociales, que producen efectos en el autoconcepto y terminan leyéndose como problema de conducta. Reconstruir esa cadena es la competencia profesional que esta parte entrena.",
+    "practica": "La trayectoria se construye con registros fechados, no con recuerdos: observaciones breves y sistemáticas, evidencia de desempeño, información de la familia y de otros profesionales cuando corresponde. Cada tramo debe cerrar con una decisión educativa concreta y su fundamento. La prueba de calidad es que otra persona pueda leer la trayectoria y entender por qué se decidió lo que se decidió.",
+    "limites": "Una trayectoria es una reconstrucción interpretativa, no un diagnóstico ni una predicción. Documentar bien reduce el error, no lo elimina: el sesgo de confirmación opera con fuerza cuando ya se tiene una hipótesis sobre un estudiante. Por eso conviene registrar también la evidencia que contradice la propia interpretación, y revisar la trayectoria con otra persona.",
+    "errores": [
+      "Construir la trayectoria desde el recuerdo y no desde registros fechados.",
+      "Convertir una interpretación en un diagnóstico o en un pronóstico sobre la persona."
+    ],
+    "criterios": [
+      "cada tramo tiene registro fechado, interpretación y decisión educativa distinguibles entre sí;",
+      "se incluye al menos una evidencia que contradice la interpretación inicial;"
+    ],
+    "preguntas": [
+      "¿Qué cadena entre dominios explica mejor la situación de tu caso?",
+      "¿Qué evidencia registraste que contradice tu hipótesis?",
+      "¿Qué decisión tomarías distinto si la trayectoria empezara seis meses antes?"
+    ],
+    "lecturas": [
+      [
+        "Bronfenbrenner, U. (1979). *The Ecology of Human Development*.",
+        "marco para integrar dominios y contextos en una sola trayectoria interpretable."
+      ],
+      [
+        "Sroufe, A. et al. (2005). *The Development of the Person*.",
+        "muestra cómo se documenta y se interpreta una trayectoria longitudinal sin caer en determinismo."
+      ]
+    ],
+    "inclusion": "Las trayectorias de estudiantes con discapacidad o con historias de vulneración suelen documentarse solo por sus déficits. Una trayectoria completa registra también capacidades, intereses y condiciones que funcionaron, porque son la base sobre la que se construye cualquier apoyo.",
+    "reto": "Documenta durante un mes la trayectoria de un estudiante real, con al menos ocho registros fechados. Preséntala a un colega y pídele que identifique dónde tu interpretación excede a la evidencia.",
+    "conexion": "Cierra la parte 02 y alimenta la parte 08 (planes de apoyo) y la parte 16 (estudio de caso como diseño de investigación)."
+  }
 ]
