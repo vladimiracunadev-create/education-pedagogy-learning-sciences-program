@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El ejercicio práctico es escribir la afirmación completa: «los resultados de esta evaluación permiten afirmar que el estudiante puede resolver problemas de este tipo, en estas condiciones, con este nivel de exigencia». Formulada así, la mayoría de las afirmaciones habituales resulta excesiva, y esa constatación cambia el uso que se les da.
+El ejercicio práctico es escribir la afirmación completa: «los resultados de esta evaluación permiten afirmar que el estudiante puede resolver problemas de este tipo, en estas condiciones, con este nivel de exigencia». Formulada así, la mayoría de las afirmaciones habituales resulta excesiva, y esa constatación cambia el uso que se les da. El paso siguiente es listar las amenazas: qué explicación alternativa —falta de tiempo, vocabulario del enunciado, ayuda externa— podría producir el mismo resultado sin el aprendizaje que se quiere inferir.
 
 ### 5. Qué sostiene la evidencia y qué no
 

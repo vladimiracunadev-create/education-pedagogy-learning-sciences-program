@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El uso profesional para la mayoría de los docentes no es aplicar estos modelos sino leer informes que los usan. Saber qué significa un puntaje en escala, qué es el equating y qué supone la invarianza permite interpretar los resultados nacionales sin comprar la lectura simplificada del titular ni descartarlos por desconfianza.
+El uso profesional para la mayoría de los docentes no es aplicar estos modelos sino leer informes que los usan. Saber qué significa un puntaje en escala, qué es el equating y qué supone la invarianza permite interpretar los resultados nacionales sin comprar la lectura simplificada del titular ni descartarlos por desconfianza. Con eso basta para hacer tres preguntas útiles ante cualquier informe: qué se midió, con qué margen de error y qué comparaciones autoriza la escala presentada.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Los modelos tienen supuestos fuertes —unidimensionalidad, independencia local— que rara vez se cumplen del todo, y su violación afecta las conclusiones. Además, la sofisticación técnica no corrige problemas de validez: una prueba técnicamente impecable puede estar midiendo un constructo mal definido.
+Los modelos tienen supuestos fuertes —unidimensionalidad, independencia local— que rara vez se cumplen del todo, y su violación afecta las conclusiones. Además, la sofisticación técnica no corrige problemas de validez: una prueba técnicamente impecable puede estar midiendo un constructo mal definido. Y su aplicación exige tamaños de muestra grandes, de modo que para una evaluación de curso la teoría clásica sigue siendo la herramienta razonable.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 

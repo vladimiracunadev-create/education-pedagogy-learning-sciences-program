@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La construcción parte del desempeño: si el objetivo es explicar, un ítem de selección múltiple no sirve. Los distractores se construyen a partir de errores reales observados en los estudiantes, no inventados, y por eso las evaluaciones mejoran cuando se construyen después de haber enseñado y registrado los errores del curso.
+La construcción parte del desempeño: si el objetivo es explicar, un ítem de selección múltiple no sirve. Los distractores se construyen a partir de errores reales observados en los estudiantes, no inventados, y por eso las evaluaciones mejoran cuando se construyen después de haber enseñado y registrado los errores del curso. Conviene revisar cada ítem con tres preguntas: qué desempeño exige, si se puede acertar sin saber, y si alguien que sabe podría fallar por cómo está redactado.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Ningún formato es superior en abstracto: la selección múltiple mide bien reconocimiento y aplicación acotada y mal producción y argumentación; el desarrollo mide producción y tiene baja consistencia entre correctores. La elección del formato es una decisión de validez, no de comodidad.
+Ningún formato es superior en abstracto: la selección múltiple mide bien reconocimiento y aplicación acotada y mal producción y argumentación; el desarrollo mide producción y tiene baja consistencia entre correctores. La elección del formato es una decisión de validez, no de comodidad. A eso se suma un límite de tiempo: construir buenos ítems de selección múltiple es caro, y por eso rinde acumular un banco propio revisado cada año en vez de improvisar la prueba cada semestre.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

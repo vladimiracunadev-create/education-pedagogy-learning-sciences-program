@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Evaluación formativa** | proceso en que la evidencia recogida se usa para adaptar la enseñanza o el aprendizaje |
 | **Baja consecuencia** | condición de que el instrumento no afecte la calificación, para que revele el estado real |
 | **Retroalimentación accionable** | información que el estudiante puede usar en un trabajo posterior |
-| **Decisión instruccional** | cambio concreto en la enseñanza derivado de la evidencia |
+| **Decisión instruccional** | cambio concreto en la enseñanza —reenseñar, agrupar, avanzar, intervenir— que se deriva de la evidencia recogida |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Evaluación form
 mismo que **Baja consecuencia** —condición de que el instrumento no afecte la calificación, para que revele el estado real—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Retroalimentación accionable** y
 **Decisión instruccional** describen aspectos distintos de la misma situación: el primero
-información que el estudiante puede usar en un trabajo posterior, mientras el segundo cambio concreto en la enseñanza derivado de la evidencia.
+información que el estudiante puede usar en un trabajo posterior, mientras el segundo cambio concreto en la enseñanza —reenseñar, agrupar, avanzar, intervenir— que se deriva de la evidencia recogida.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Un sistema formativo define pocos instrumentos —verificación en clase, tareas breves con retroalimentación, tarjetas de salida—, su periodicidad y qué decisión activa cada resultado. La ausencia de calificación es lo que permite que el estudiante muestre lo que realmente no entiende, y es también lo primero que las instituciones piden eliminar.
+Un sistema formativo define pocos instrumentos —verificación en clase, tareas breves con retroalimentación, tarjetas de salida—, su periodicidad y qué decisión activa cada resultado. La ausencia de calificación es lo que permite que el estudiante muestre lo que realmente no entiende, y es también lo primero que las instituciones piden eliminar. El criterio que distingue lo formativo no es el instrumento sino su uso: si el resultado no cambia la clase siguiente, la evaluación fue sumativa aunque se llame de otra manera.
 
 ### 5. Qué sostiene la evidencia y qué no
 

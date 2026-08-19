@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Sistema de evaluación** | conjunto articulado de propósitos, instrumentos y decisiones a lo largo de un curso |
-| **Coherencia evaluativa** | correspondencia entre resultados declarados, instrumentos y decisiones tomadas |
+| **Coherencia evaluativa** | correspondencia verificable entre los aprendizajes declarados, los instrumentos que los miden y las decisiones que se toman con sus resultados |
 | **Carga evaluativa** | tiempo total que la evaluación consume al estudiante y al docente |
 | **Justicia procedimental** | condiciones —criterios públicos, reglas conocidas, vías de revisión— que hacen defendible el sistema |
 
@@ -88,13 +88,13 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Un sistema de evaluación no es la suma de sus instrumentos: es una decisión sobre qué se mide, cuándo, con qué consecuencia y qué información devuelve a quién. Los sistemas mal diseñados concentran todo al final, evalúan lo mismo tres veces, dejan aprendizajes declarados sin medir y consumen más tiempo del que aportan. La coherencia se comprueba recorriendo la asignatura completa.
+Un sistema de evaluación no es la suma de sus instrumentos: es una decisión sobre qué se mide, cuándo, con qué consecuencia y qué información devuelve a quién. Los sistemas mal diseñados concentran todo al final, evalúan lo mismo tres veces, dejan aprendizajes declarados sin medir y consumen más tiempo del que aportan. La coherencia se comprueba recorriendo la asignatura completa con una tabla de doble entrada: aprendizajes declarados en las filas, instrumentos en las columnas, y toda fila vacía o columna redundante señala una decisión pendiente.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Sistema de evaluación** no es lo
-mismo que **Coherencia evaluativa** —correspondencia entre resultados declarados, instrumentos y decisiones tomadas—, y tratarlos como sinónimos hace
+mismo que **Coherencia evaluativa** —correspondencia verificable entre los aprendizajes declarados, los instrumentos que los miden y las decisiones que se toman con sus resultados—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Carga evaluativa** y
 **Justicia procedimental** describen aspectos distintos de la misma situación: el primero
 tiempo total que la evaluación consume al estudiante y al docente, mientras el segundo condiciones —criterios públicos, reglas conocidas, vías de revisión— que hacen defendible el sistema.
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño articula lo diagnóstico, lo formativo y lo sumativo con propósitos distintos y sin confundirlos; calendariza para que la retroalimentación llegue a tiempo de ser usada; y declara criterios y vías de revisión. La carga evaluativa debe calcularse: en muchos programas la evaluación consume más tiempo del estudiante que el estudio.
+El diseño articula lo diagnóstico, lo formativo y lo sumativo con propósitos distintos y sin confundirlos; calendariza para que la retroalimentación llegue a tiempo de ser usada; y declara criterios y vías de revisión. La carga evaluativa debe calcularse: en muchos programas la evaluación consume más tiempo del estudiante que el estudio. El calendario debe además coordinarse entre asignaturas, porque la sobrecarga que el estudiante experimenta es la suma y no la de cada una por separado.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Un sistema bien diseñado mejora la calidad de la información y no garantiza aprendizaje. Y toda evaluación tiene efectos secundarios: orienta el estudio, define lo que se considera importante y produce ansiedad. Diseñar es también decidir qué efectos secundarios se está dispuesto a aceptar.
+Un sistema bien diseñado mejora la calidad de la información y no garantiza aprendizaje. Y toda evaluación tiene efectos secundarios: orienta el estudio, define lo que se considera importante y produce ansiedad. Diseñar es también decidir qué efectos secundarios se está dispuesto a aceptar. Conviene revisarlos al cierre del período con evidencia y no con impresiones: qué se estudió, qué se dejó fuera y qué se aprendió a hacer solo para la prueba.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Sistema de evaluación** | Conjunto articulado de propósitos, instrumentos y decisiones a lo largo de un curso | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Coherencia evaluativa** | Correspondencia entre resultados declarados, instrumentos y decisiones tomadas | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Coherencia evaluativa** | Correspondencia verificable entre los aprendizajes declarados, los instrumentos que los miden y las decisiones que se toman con sus resultados | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

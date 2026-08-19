@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La evaluación auténtica gana relevancia y arriesga validez. Las amenazas son conocidas: la tarea puede medir los recursos del hogar, el tiempo disponible, el apoyo de terceros o la habilidad de presentación, más que el aprendizaje. Y con la disponibilidad de herramientas generativas, la autoría del producto entregado dejó de poder suponerse.
+La evaluación auténtica gana relevancia y arriesga validez. Las amenazas son conocidas: la tarea puede medir los recursos del hogar, el tiempo disponible, el apoyo de terceros o la habilidad de presentación, más que el aprendizaje. Y con la disponibilidad de herramientas generativas, la autoría del producto entregado dejó de poder suponerse. El problema técnico se llama varianza irrelevante al constructo: la evaluación captura diferencias reales entre estudiantes que nada tienen que ver con lo que se quería medir.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Los controles son concretos: producir partes del trabajo en clase, exigir defensa oral breve, evaluar el proceso además del producto, calibrar entre evaluadores y declarar de antemano qué apoyos son admisibles. Ninguno elimina la amenaza, pero en conjunto permiten sostener la inferencia con razonable confianza.
+Los controles son concretos: producir partes del trabajo en clase, exigir defensa oral breve, evaluar el proceso además del producto, calibrar entre evaluadores y declarar de antemano qué apoyos son admisibles. Ninguno elimina la amenaza, pero en conjunto permiten sostener la inferencia con razonable confianza. Un control barato y poco usado es pedir el registro de decisiones del proceso —qué se descartó y por qué—, que es difícil de simular sin haber hecho el trabajo.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Cada control tiene costo: en tiempo, en trabajo docente y a veces en autenticidad. La decisión razonable depende de la consecuencia de la evaluación: para una tarea formativa, controles ligeros; para una que decide titulación, controles fuertes. Aplicar controles máximos a todo es inviable.
+Cada control tiene costo: en tiempo, en trabajo docente y a veces en autenticidad. La decisión razonable depende de la consecuencia de la evaluación: para una tarea formativa, controles ligeros; para una que decide titulación, controles fuertes. Aplicar controles máximos a todo es inviable y termina degradando la enseñanza en vigilancia. Conviene además reconocer que la autenticidad tiene grados: casi ninguna tarea escolar reproduce del todo las condiciones reales de la práctica profesional.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

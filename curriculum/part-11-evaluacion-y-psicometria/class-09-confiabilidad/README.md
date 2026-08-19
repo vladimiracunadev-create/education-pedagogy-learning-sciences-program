@@ -40,9 +40,9 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Confiabilidad** | consistencia de la medición; grado en que el resultado se repetiría en condiciones equivalentes |
-| **Error estándar de medida** | margen de incertidumbre asociado a un puntaje individual |
+| **Error estándar de medida** | margen de incertidumbre asociado a un puntaje individual, que indica cuánta diferencia es interpretable y cuánta es ruido |
 | **Consistencia interna** | grado en que los ítems de una prueba miden lo mismo; se estima con coeficientes |
-| **Acuerdo entre correctores** | consistencia entre personas que evalúan el mismo desempeño |
+| **Acuerdo entre correctores** | grado de consistencia entre personas distintas que evalúan el mismo desempeño con el mismo instrumento |
 
 ## 🧠 Modelo mental
 
@@ -88,16 +88,16 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Todo puntaje incluye error. La consecuencia práctica es incómoda: diferencias pequeñas entre estudiantes, o entre dos aplicaciones al mismo estudiante, pueden no significar nada. Interpretar una diferencia de dos décimas como progreso o como superioridad es un error técnico común y con consecuencias reales, porque sobre esas diferencias se toman decisiones de selección, agrupamiento y promoción.
+Todo puntaje incluye error. La consecuencia práctica es incómoda: diferencias pequeñas entre estudiantes, o entre dos aplicaciones al mismo estudiante, pueden no significar nada. Interpretar una diferencia de dos décimas como progreso o como superioridad es un error técnico común y con consecuencias reales, porque sobre esas diferencias se toman decisiones de selección, agrupamiento y promoción. El error no desaparece con instrumentos mejores: se reduce y se estima, y la estimación es lo que permite decir cuánta diferencia empieza a ser interpretable.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Confiabilidad** no es lo
-mismo que **Error estándar de medida** —margen de incertidumbre asociado a un puntaje individual—, y tratarlos como sinónimos hace
+mismo que **Error estándar de medida** —margen de incertidumbre asociado a un puntaje individual, que indica cuánta diferencia es interpretable y cuánta es ruido—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Consistencia interna** y
 **Acuerdo entre correctores** describen aspectos distintos de la misma situación: el primero
-grado en que los ítems de una prueba miden lo mismo;, mientras el segundo consistencia entre personas que evalúan el mismo desempeño.
+grado en que los ítems de una prueba miden lo mismo;, mientras el segundo grado de consistencia entre personas distintas que evalúan el mismo desempeño con el mismo instrumento.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El trabajo consiste en estimar la consistencia del instrumento y el acuerdo entre correctores cuando hay juicio humano, y usar esa información para decidir. La regla operativa: no interpretar diferencias menores que el error de medida, y no tomar decisiones importantes con una sola aplicación.
+El trabajo consiste en estimar la consistencia del instrumento y el acuerdo entre correctores cuando hay juicio humano, y usar esa información para decidir. La regla operativa: no interpretar diferencias menores que el error de medida, y no tomar decisiones importantes con una sola aplicación. En evaluaciones con juicio humano, la medida más simple y más reveladora es hacer que dos personas corrijan los mismos diez trabajos y comparar; la magnitud del desacuerdo suele sorprender al equipo.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Confiabilidad** | Consistencia de la medición; grado en que el resultado se repetiría en condiciones equivalentes | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Error estándar de medida** | Margen de incertidumbre asociado a un puntaje individual | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Error estándar de medida** | Margen de incertidumbre asociado a un puntaje individual, que indica cuánta diferencia es interpretable y cuánta es ruido | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

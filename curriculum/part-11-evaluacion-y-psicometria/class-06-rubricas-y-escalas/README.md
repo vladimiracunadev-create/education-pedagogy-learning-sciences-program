@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Rúbrica analítica** | instrumento que evalúa criterios por separado; útil para retroalimentar |
+| **Rúbrica analítica** | instrumento que evalúa cada criterio por separado con descriptores propios; útil para retroalimentar y costosa de aplicar en volumen |
 | **Rúbrica holística** | juicio global por niveles; más rápida y menos informativa para el estudiante |
 | **Descriptor** | descripción del desempeño en un nivel; debe ser observable y no comparativo |
 | **Calibración** | proceso de acuerdo entre evaluadores sobre la aplicación de los descriptores |
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Las rúbricas mejoran la consistencia solo si sus descriptores son observables. Los niveles definidos por adverbios —«excelente», «adecuado», «insuficiente»— trasladan el juicio al evaluador y producen una apariencia de objetividad sin ganancia real. La calibración es el procedimiento que revela el problema: si dos evaluadores discrepan sistemáticamente en un criterio, ese descriptor está mal escrito.
+Las rúbricas mejoran la consistencia solo si sus descriptores son observables. Los niveles definidos por adverbios —«excelente», «adecuado», «insuficiente»— trasladan el juicio al evaluador y producen una apariencia de objetividad sin ganancia real. La calibración es el procedimiento que revela el problema: si dos evaluadores discrepan sistemáticamente en un criterio, ese descriptor está mal escrito. Una prueba rápida de calidad es preguntar qué se vería en un trabajo que cumple el nivel: si la respuesta no describe algo observable, el descriptor todavía no sirve.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El procedimiento incluye construir la rúbrica antes, entregarla al estudiante, calibrar con trabajos reales y reescribir los descriptores conflictivos. La elección entre analítica y holística depende del uso: para retroalimentar, analítica; para calificar rápido un volumen alto con criterios bien internalizados, holística.
+El procedimiento incluye construir la rúbrica antes, entregarla al estudiante, calibrar con trabajos reales y reescribir los descriptores conflictivos. La elección entre analítica y holística depende del uso: para retroalimentar, analítica; para calificar rápido un volumen alto con criterios bien internalizados, holística. La calibración se hace con al menos tres trabajos de niveles distintos y con dos evaluadores en paralelo, y su producto no es un acuerdo verbal sino una rúbrica corregida.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Una rúbrica muy detallada puede convertir un desempeño complejo en una lista de verificación y premiar el cumplimiento formal sobre la calidad global. Y ningún instrumento elimina el juicio profesional: la rúbrica lo estructura y lo hace comunicable, no lo sustituye.
+Una rúbrica muy detallada puede convertir un desempeño complejo en una lista de verificación y premiar el cumplimiento formal sobre la calidad global. Y ningún instrumento elimina el juicio profesional: la rúbrica lo estructura y lo hace comunicable, no lo sustituye. Existe además un efecto documentado sobre la producción del estudiante: criterios muy específicos tienden a estandarizar los trabajos y a reducir la variedad de respuestas legítimas.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Rúbrica analítica** | Instrumento que evalúa criterios por separado; útil para retroalimentar | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Rúbrica analítica** | Instrumento que evalúa cada criterio por separado con descriptores propios; útil para retroalimentar y costosa de aplicar en volumen | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Rúbrica holística** | Juicio global por niveles; más rápida y menos informativa para el estudiante | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-Las rúbricas explícitas y entregadas antes reducen la ventaja de quienes conocen los códigos implícitos del trabajo académico, y permiten a cualquier estudiante autoevaluarse antes de entregar.
+Las rúbricas explícitas y entregadas antes reducen la ventaja de quienes conocen los códigos implícitos del trabajo académico, y permiten a cualquier estudiante autoevaluarse antes de entregar. Ese efecto solo se produce si el lenguaje del instrumento es accesible: una rúbrica escrita en jerga técnica traslada la misma barrera que pretendía eliminar.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

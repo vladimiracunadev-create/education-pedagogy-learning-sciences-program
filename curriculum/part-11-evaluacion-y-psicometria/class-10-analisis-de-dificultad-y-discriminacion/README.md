@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Índice de dificultad** | proporción de estudiantes que responde correctamente un ítem |
+| **Índice de dificultad** | proporción de estudiantes que responde correctamente un ítem; describe a la prueba con este grupo y no una propiedad absoluta del ítem |
 | **Índice de discriminación** | capacidad del ítem de diferenciar entre quienes dominan y quienes no el contenido |
 | **Análisis de distractores** | revisión de qué alternativas incorrectas fueron elegidas y por quiénes |
 | **Ítem defectuoso** | pregunta con discriminación nula o negativa, que introduce ruido en el puntaje |
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Índice de dificultad** | Proporción de estudiantes que responde correctamente un ítem | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Índice de dificultad** | Proporción de estudiantes que responde correctamente un ítem; describe a la prueba con este grupo y no una propiedad absoluta del ítem | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Índice de discriminación** | Capacidad del ítem de diferenciar entre quienes dominan y quienes no el contenido | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

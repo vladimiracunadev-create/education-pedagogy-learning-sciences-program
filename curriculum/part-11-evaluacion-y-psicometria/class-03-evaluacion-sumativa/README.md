@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El plan define qué se evalúa, con qué peso, con qué instrumento y en qué momento, y declara la política de recuperación por adelantado. Las ponderaciones deben justificarse por importancia del aprendizaje y no por costumbre. Y las condiciones de aplicación deben ser equivalentes para todos, incluidas las adecuaciones que no alteran la inferencia.
+El plan define qué se evalúa, con qué peso, con qué instrumento y en qué momento, y declara la política de recuperación por adelantado. Las ponderaciones deben justificarse por importancia del aprendizaje y no por costumbre. Y las condiciones de aplicación deben ser equivalentes para todos, incluidas las adecuaciones que no alteran la inferencia. Publicar el plan al inicio del período cumple una función técnica además de comunicativa: permite que el estudiante distribuya su esfuerzo según lo que la asignatura declara importante.
 
 ### 5. Qué sostiene la evidencia y qué no
 

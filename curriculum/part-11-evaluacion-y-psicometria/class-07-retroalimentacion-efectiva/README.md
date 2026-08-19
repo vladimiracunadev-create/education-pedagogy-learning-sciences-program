@@ -40,9 +40,9 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Retroalimentación sobre la tarea** | información sobre el trabajo y cómo mejorarlo, distinta del juicio sobre la persona |
-| **Oportunidad de uso** | instancia posterior donde el estudiante puede aplicar lo señalado |
+| **Oportunidad de uso** | instancia posterior, planificada de antemano, donde el estudiante puede aplicar lo señalado sobre una tarea equivalente |
 | **Efecto de la calificación** | fenómeno por el que la nota anula la atención al comentario |
-| **Retroalimentación accionable** | indicación concreta que el estudiante sabe cómo ejecutar |
+| **Retroalimentación accionable** | indicación concreta sobre qué hacer distinto, que el estudiante sabe ejecutar sin necesidad de pedir aclaración |
 
 ## 🧠 Modelo mental
 
@@ -88,16 +88,16 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La investigación sobre retroalimentación muestra efectos promedio positivos y una variabilidad enorme, incluidos casos de efecto negativo. Dos hallazgos son de aplicación inmediata: la retroalimentación dirigida a la persona —elogio o crítica sobre su capacidad— no mejora y puede perjudicar; y entregar nota y comentario juntos anula el efecto del comentario, porque la atención va a la nota.
+La investigación sobre retroalimentación muestra efectos promedio positivos y una variabilidad enorme, incluidos casos de efecto negativo. Dos hallazgos son de aplicación inmediata: la retroalimentación dirigida a la persona —elogio o crítica sobre su capacidad— no mejora y puede perjudicar; y entregar nota y comentario juntos anula el efecto del comentario, porque la atención va a la nota. El tercer hallazgo es de diseño: la retroalimentación funciona cuando responde tres preguntas —hacia dónde voy, cómo voy, qué hago ahora— y falla cuando solo responde la segunda.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Retroalimentación sobre la tarea** no es lo
-mismo que **Oportunidad de uso** —instancia posterior donde el estudiante puede aplicar lo señalado—, y tratarlos como sinónimos hace
+mismo que **Oportunidad de uso** —instancia posterior, planificada de antemano, donde el estudiante puede aplicar lo señalado sobre una tarea equivalente—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Efecto de la calificación** y
 **Retroalimentación accionable** describen aspectos distintos de la misma situación: el primero
-fenómeno por el que la nota anula la atención al comentario, mientras el segundo indicación concreta que el estudiante sabe cómo ejecutar.
+fenómeno por el que la nota anula la atención al comentario, mientras el segundo indicación concreta sobre qué hacer distinto, que el estudiante sabe ejecutar sin necesidad de pedir aclaración.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -125,7 +125,7 @@ El rediseño más simple y más eficaz consiste en separar en el tiempo el comen
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La retroalimentación abundante no es mejor: sobrecarga y produce abandono. Y su efecto depende de que el estudiante tenga el conocimiento para interpretarla y una oportunidad real de aplicarla; sin trabajo posterior, el mejor comentario del mundo no cambia nada.
+La retroalimentación abundante no es mejor: sobrecarga y produce abandono. Y su efecto depende de que el estudiante tenga el conocimiento para interpretarla y una oportunidad real de aplicarla; sin trabajo posterior, el mejor comentario del mundo no cambia nada. Conviene además recordar que buena parte de la evidencia proviene de tareas acotadas en condiciones de investigación, y que su traslado a trabajos extensos con semanas de demora entre entrega y devolución está mucho menos documentado.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Retroalimentación sobre la tarea** | Información sobre el trabajo y cómo mejorarlo, distinta del juicio sobre la persona | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Oportunidad de uso** | Instancia posterior donde el estudiante puede aplicar lo señalado | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Oportunidad de uso** | Instancia posterior, planificada de antemano, donde el estudiante puede aplicar lo señalado sobre una tarea equivalente | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

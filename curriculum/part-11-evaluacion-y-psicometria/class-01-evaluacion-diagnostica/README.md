@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Evaluación diagnóstica** | recogida de información previa sobre conocimiento y dificultades que condicionan la unidad |
-| **Prerrequisito crítico** | conocimiento sin el cual la unidad no puede comprenderse |
+| **Prerrequisito crítico** | conocimiento previo sin el cual la unidad no puede comprenderse, distinto del contenido deseable que se puede construir en el camino |
 | **Patrón de resultado** | combinación típica de aciertos y errores que sugiere una decisión distinta |
 | **Decisión asociada** | acción de enseñanza definida de antemano para cada resultado posible |
 
@@ -88,13 +88,13 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Muchos diagnósticos escolares son largos, generales y sin consecuencia: se aplican en marzo, se archivan y la planificación sigue igual. Un diagnóstico útil es breve, se enfoca en los dos o tres prerrequisitos que realmente condicionan la unidad, y tiene decisiones asociadas escritas antes de aplicarlo. Si ningún resultado posible cambiaría tu planificación, no vale la pena aplicarlo.
+Muchos diagnósticos escolares son largos, generales y sin consecuencia: se aplican en marzo, se archivan y la planificación sigue igual. Un diagnóstico útil es breve, se enfoca en los dos o tres prerrequisitos que realmente condicionan la unidad, y tiene decisiones asociadas escritas antes de aplicarlo. Si ningún resultado posible cambiaría tu planificación, no vale la pena aplicarlo. La diferencia con una prueba de nivel es de propósito: el diagnóstico no busca ubicar al estudiante en una escala, busca localizar el punto exacto donde la enseñanza de esta unidad debe empezar.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Evaluación diagnóstica** no es lo
-mismo que **Prerrequisito crítico** —conocimiento sin el cual la unidad no puede comprenderse—, y tratarlos como sinónimos hace
+mismo que **Prerrequisito crítico** —conocimiento previo sin el cual la unidad no puede comprenderse, distinto del contenido deseable que se puede construir en el camino—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Patrón de resultado** y
 **Decisión asociada** describen aspectos distintos de la misma situación: el primero
 combinación típica de aciertos y errores que sugiere una decisión distinta, mientras el segundo acción de enseñanza definida de antemano para cada resultado posible.
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño empieza identificando el prerrequisito crítico —lo que si falta hace imposible la unidad— y construyendo pocas preguntas que lo revelen, incluidos distractores que expongan errores específicos. Después se escriben las decisiones: si más del treinta por ciento falla en esto, se dedica una sesión a recuperarlo antes de avanzar.
+El diseño empieza identificando el prerrequisito crítico —lo que si falta hace imposible la unidad— y construyendo pocas preguntas que lo revelen, incluidos distractores que expongan errores específicos. Después se escriben las decisiones: si más del treinta por ciento falla en esto, se dedica una sesión a recuperarlo antes de avanzar. Conviene aplicarlo con anticipación suficiente para que la decisión sea posible: un diagnóstico aplicado el mismo día en que empieza la unidad no deja margen para cambiar nada.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Evaluación diagnóstica** | Recogida de información previa sobre conocimiento y dificultades que condicionan la unidad | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Prerrequisito crítico** | Conocimiento sin el cual la unidad no puede comprenderse | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Prerrequisito crítico** | Conocimiento previo sin el cual la unidad no puede comprenderse, distinto del contenido deseable que se puede construir en el camino | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

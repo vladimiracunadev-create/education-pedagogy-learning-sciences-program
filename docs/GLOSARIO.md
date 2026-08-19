@@ -53,7 +53,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Acuerdo de supervisión** — documento breve con expectativas, frecuencia y responsabilidades de ambas partes. [Clase 179](../curriculum/part-14-docencia-universitaria/class-11-supervision-inicial-de-investigacion/README.md)
 
-- **Acuerdo entre correctores** — consistencia entre personas que evalúan el mismo desempeño. [Clase 141](../curriculum/part-11-evaluacion-y-psicometria/class-09-confiabilidad/README.md)
+- **Acuerdo entre correctores** — grado de consistencia entre personas distintas que evalúan el mismo desempeño con el mismo instrumento. [Clase 141](../curriculum/part-11-evaluacion-y-psicometria/class-09-confiabilidad/README.md)
 
 - **Acuerdo entre evaluadores** — grado en que dos personas asignan el mismo nivel al mismo desempeño. [Clase 077](../curriculum/part-06-educacion-tecnico-profesional/class-05-rubricas-de-desempeno/README.md)
 
@@ -410,7 +410,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Coherencia del módulo** — correspondencia entre competencia declarada, enseñanza diseñada y evaluación aplicada. [Clase 084](../curriculum/part-06-educacion-tecnico-profesional/class-12-proyecto-integrador-modulo-tp/README.md)
 
-- **Coherencia evaluativa** — correspondencia entre resultados declarados, instrumentos y decisiones tomadas. [Clase 144](../curriculum/part-11-evaluacion-y-psicometria/class-12-proyecto-integrador-sistema-de-evaluacion/README.md)
+- **Coherencia evaluativa** — correspondencia verificable entre los aprendizajes declarados, los instrumentos que los miden y las decisiones que se toman con sus resultados. [Clase 144](../curriculum/part-11-evaluacion-y-psicometria/class-12-proyecto-integrador-sistema-de-evaluacion/README.md)
 
 - **Coherencia interna** — correspondencia entre objetivo, ambiente, mediación y evidencia recogida. [Clase 048](../curriculum/part-03-educacion-parvularia/class-12-proyecto-integrador-experiencia-parvularia/README.md)
 - **Coherencia interna** — correspondencia entre pregunta, marco, diseño, análisis y conclusiones. [Clase 204](../curriculum/part-16-investigacion-educativa/class-12-proyecto-integrador-investigacion-de-nivel-magister/README.md)
@@ -716,7 +716,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Decisión fundamentada** — juicio evaluativo justificado con referencia a criterios y a evidencia del trabajo. [Clase 214](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-10-direccion-y-evaluacion-de-tesis/README.md)
 - **Decisión fundamentada** — elección que declara criterios, evidencia considerada, alternativa descartada y condición de revisión. [Clase 240](../curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-12-proyecto-integrador/README.md)
 
-- **Decisión instruccional** — cambio concreto en la enseñanza derivado de la evidencia. [Clase 134](../curriculum/part-11-evaluacion-y-psicometria/class-02-evaluacion-formativa/README.md)
+- **Decisión instruccional** — cambio concreto en la enseñanza —reenseñar, agrupar, avanzar, intervenir— que se deriva de la evidencia recogida. [Clase 134](../curriculum/part-11-evaluacion-y-psicometria/class-02-evaluacion-formativa/README.md)
 
 - **Decodificación** — conversión de la cadena escrita en lenguaje oral mediante correspondencias entre grafemas y fonemas. [Clase 049](../curriculum/part-04-educacion-basica/class-01-didactica-de-la-lectura/README.md)
 
@@ -984,7 +984,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Equivalencia funcional** — criterio comparativo que busca elementos que cumplen la misma función, aunque tengan formas distintas. [Clase 289](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-01-como-se-lee-un-sistema-educativo-sin-copiarlo/README.md)
 
-- **Error estándar de medida** — margen de incertidumbre asociado a un puntaje individual. [Clase 141](../curriculum/part-11-evaluacion-y-psicometria/class-09-confiabilidad/README.md)
+- **Error estándar de medida** — margen de incertidumbre asociado a un puntaje individual, que indica cuánta diferencia es interpretable y cuánta es ruido. [Clase 141](../curriculum/part-11-evaluacion-y-psicometria/class-09-confiabilidad/README.md)
 
 - **Error típico** — equivocación que el contenido produce de forma sistemática en quienes lo aprenden. [Clase 121](../curriculum/part-10-didactica-avanzada/class-01-conocimiento-pedagogico-del-contenido/README.md)
 
@@ -1273,7 +1273,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Indicador desagregado** — medida que muestra el efecto sobre distintos grupos de estudiantes. [Clase 192](../curriculum/part-15-gestion-y-liderazgo-educativo/class-12-proyecto-integrador-plan-de-mejora-institucional/README.md)
 - **Indicador desagregado** — medida presentada por grupo, que revela lo que el promedio oculta. [Clase 276](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-12-proyecto-integrador/README.md)
 
-- **Índice de dificultad** — proporción de estudiantes que responde correctamente un ítem. [Clase 142](../curriculum/part-11-evaluacion-y-psicometria/class-10-analisis-de-dificultad-y-discriminacion/README.md)
+- **Índice de dificultad** — proporción de estudiantes que responde correctamente un ítem; describe a la prueba con este grupo y no una propiedad absoluta del ítem. [Clase 142](../curriculum/part-11-evaluacion-y-psicometria/class-10-analisis-de-dificultad-y-discriminacion/README.md)
 
 - **Índice de discriminación** — capacidad del ítem de diferenciar entre quienes dominan y quienes no el contenido. [Clase 142](../curriculum/part-11-evaluacion-y-psicometria/class-10-analisis-de-dificultad-y-discriminacion/README.md)
 
@@ -1582,7 +1582,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Ontología** — supuestos sobre la naturaleza de aquello que se estudia. [Clase 193](../curriculum/part-16-investigacion-educativa/class-01-epistemologia-de-la-investigacion/README.md)
 
-- **Oportunidad de uso** — instancia posterior donde el estudiante puede aplicar lo señalado. [Clase 139](../curriculum/part-11-evaluacion-y-psicometria/class-07-retroalimentacion-efectiva/README.md)
+- **Oportunidad de uso** — instancia posterior, planificada de antemano, donde el estudiante puede aplicar lo señalado sobre una tarea equivalente. [Clase 139](../curriculum/part-11-evaluacion-y-psicometria/class-07-retroalimentacion-efectiva/README.md)
 
 - **Orientación a la tarea** — preferencia por aprendizajes organizados en torno a problemas reales y no a materias. [Clase 085](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-01-principios-de-andragogia/README.md)
 
@@ -1734,7 +1734,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Prerrequisito** — conocimiento previo verificado que la secuencia supone en un punto determinado. [Clase 114](../curriculum/part-09-diseno-curricular/class-06-secuenciacion-curricular/README.md)
 
-- **Prerrequisito crítico** — conocimiento sin el cual la unidad no puede comprenderse. [Clase 133](../curriculum/part-11-evaluacion-y-psicometria/class-01-evaluacion-diagnostica/README.md)
+- **Prerrequisito crítico** — conocimiento previo sin el cual la unidad no puede comprenderse, distinto del contenido deseable que se puede construir en el camino. [Clase 133](../curriculum/part-11-evaluacion-y-psicometria/class-01-evaluacion-diagnostica/README.md)
 
 - **Presencia docente** — conjunto de acciones visibles del docente que sostienen el curso y a los estudiantes. [Clase 158](../curriculum/part-13-tecnologia-e-ia-educativa/class-02-lms-y-aulas-virtuales/README.md)
 
@@ -1969,7 +1969,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Retiro protector** — estrategia de dejar de intentar para que el fracaso no informe sobre la propia capacidad. [Clase 254](../curriculum/part-21-desafios-actuales-del-aula/class-02-falta-de-sentido-por-que-estudiar-dejo-de-ser-evidente/README.md)
 
 - **Retroalimentación accionable** — información que el estudiante puede usar en un trabajo posterior. [Clase 134](../curriculum/part-11-evaluacion-y-psicometria/class-02-evaluacion-formativa/README.md)
-- **Retroalimentación accionable** — indicación concreta que el estudiante sabe cómo ejecutar. [Clase 139](../curriculum/part-11-evaluacion-y-psicometria/class-07-retroalimentacion-efectiva/README.md)
+- **Retroalimentación accionable** — indicación concreta sobre qué hacer distinto, que el estudiante sabe ejecutar sin necesidad de pedir aclaración. [Clase 139](../curriculum/part-11-evaluacion-y-psicometria/class-07-retroalimentacion-efectiva/README.md)
 
 - **Retroalimentación basada en evidencia** — conversación anclada en lo observado y no en impresiones generales. [Clase 184](../curriculum/part-15-gestion-y-liderazgo-educativo/class-04-feedback-a-docentes/README.md)
 
@@ -2029,7 +2029,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Rotación docente** — proporción del equipo que se renueva cada año; indicador directo de la sostenibilidad del trabajo. [Clase 287](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-11-cuidado-del-equipo-y-liderazgo-del-bienestar/README.md)
 
 - **Rúbrica analítica** — instrumento que descompone el desempeño en criterios y niveles observables. [Clase 071](../curriculum/part-05-educacion-media-y-adolescencia/class-11-evaluacion-autentica/README.md)
-- **Rúbrica analítica** — instrumento que evalúa criterios por separado; útil para retroalimentar. [Clase 138](../curriculum/part-11-evaluacion-y-psicometria/class-06-rubricas-y-escalas/README.md)
+- **Rúbrica analítica** — instrumento que evalúa cada criterio por separado con descriptores propios; útil para retroalimentar y costosa de aplicar en volumen. [Clase 138](../curriculum/part-11-evaluacion-y-psicometria/class-06-rubricas-y-escalas/README.md)
 
 - **Rúbrica holística** — juicio global por niveles; más rápida y menos informativa para el estudiante. [Clase 138](../curriculum/part-11-evaluacion-y-psicometria/class-06-rubricas-y-escalas/README.md)
 

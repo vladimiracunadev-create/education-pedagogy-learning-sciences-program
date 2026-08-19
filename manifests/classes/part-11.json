@@ -13,7 +13,7 @@
       ],
       [
         "Prerrequisito crítico",
-        "conocimiento sin el cual la unidad no puede comprenderse"
+        "conocimiento previo sin el cual la unidad no puede comprenderse, distinto del contenido deseable que se puede construir en el camino"
       ],
       [
         "Patrón de resultado",
@@ -24,8 +24,8 @@
         "acción de enseñanza definida de antemano para cada resultado posible"
       ]
     ],
-    "desarrollo": "Muchos diagnósticos escolares son largos, generales y sin consecuencia: se aplican en marzo, se archivan y la planificación sigue igual. Un diagnóstico útil es breve, se enfoca en los dos o tres prerrequisitos que realmente condicionan la unidad, y tiene decisiones asociadas escritas antes de aplicarlo. Si ningún resultado posible cambiaría tu planificación, no vale la pena aplicarlo.",
-    "practica": "El diseño empieza identificando el prerrequisito crítico —lo que si falta hace imposible la unidad— y construyendo pocas preguntas que lo revelen, incluidos distractores que expongan errores específicos. Después se escriben las decisiones: si más del treinta por ciento falla en esto, se dedica una sesión a recuperarlo antes de avanzar.",
+    "desarrollo": "Muchos diagnósticos escolares son largos, generales y sin consecuencia: se aplican en marzo, se archivan y la planificación sigue igual. Un diagnóstico útil es breve, se enfoca en los dos o tres prerrequisitos que realmente condicionan la unidad, y tiene decisiones asociadas escritas antes de aplicarlo. Si ningún resultado posible cambiaría tu planificación, no vale la pena aplicarlo. La diferencia con una prueba de nivel es de propósito: el diagnóstico no busca ubicar al estudiante en una escala, busca localizar el punto exacto donde la enseñanza de esta unidad debe empezar.",
+    "practica": "El diseño empieza identificando el prerrequisito crítico —lo que si falta hace imposible la unidad— y construyendo pocas preguntas que lo revelen, incluidos distractores que expongan errores específicos. Después se escriben las decisiones: si más del treinta por ciento falla en esto, se dedica una sesión a recuperarlo antes de avanzar. Conviene aplicarlo con anticipación suficiente para que la decisión sea posible: un diagnóstico aplicado el mismo día en que empieza la unidad no deja margen para cambiar nada.",
     "limites": "El diagnóstico mide un momento y con pocos ítems, de modo que su precisión individual es limitada: sirve mejor para decidir sobre el grupo que para clasificar personas. Y no debe usarse para bajar expectativas: detectar un vacío indica qué enseñar, no de qué es capaz el estudiante.",
     "errores": [
       "Aplicar un diagnóstico extenso sin decisiones asociadas y archivarlo.",
@@ -76,11 +76,11 @@
       ],
       [
         "Decisión instruccional",
-        "cambio concreto en la enseñanza derivado de la evidencia"
+        "cambio concreto en la enseñanza —reenseñar, agrupar, avanzar, intervenir— que se deriva de la evidencia recogida"
       ]
     ],
     "desarrollo": "La definición técnica de evaluación formativa incluye el uso: si la evidencia no modifica nada, la evaluación no fue formativa aunque se haya llamado así. Esa precisión importa porque la mayor parte de lo que se rotula como formativo en las instituciones son pruebas cortas calificadas, que no cumplen la condición y además distorsionan la información al activar la conducta estratégica del estudiante.",
-    "practica": "Un sistema formativo define pocos instrumentos —verificación en clase, tareas breves con retroalimentación, tarjetas de salida—, su periodicidad y qué decisión activa cada resultado. La ausencia de calificación es lo que permite que el estudiante muestre lo que realmente no entiende, y es también lo primero que las instituciones piden eliminar.",
+    "practica": "Un sistema formativo define pocos instrumentos —verificación en clase, tareas breves con retroalimentación, tarjetas de salida—, su periodicidad y qué decisión activa cada resultado. La ausencia de calificación es lo que permite que el estudiante muestre lo que realmente no entiende, y es también lo primero que las instituciones piden eliminar. El criterio que distingue lo formativo no es el instrumento sino su uso: si el resultado no cambia la clase siguiente, la evaluación fue sumativa aunque se llame de otra manera.",
     "limites": "Los efectos reportados para la evaluación formativa varían mucho y algunas cifras muy citadas provienen de síntesis con problemas metodológicos. El efecto es real y depende de la calidad de las decisiones docentes: la evidencia recogida no enseña por sí sola. Y su implementación consume tiempo de clase que hay que planificar.",
     "errores": [
       "Calificar los instrumentos formativos y perder la información que buscaban obtener.",
@@ -135,7 +135,7 @@
       ]
     ],
     "desarrollo": "Cuanto mayor es la consecuencia de una evaluación, mayor es la exigencia técnica que debe cumplir. Una decisión de promoción basada en una sola prueba de una hora es desproporcionada respecto de la evidencia que sostiene: el error de medida de un instrumento único es alto y las condiciones de aplicación afectan el resultado. La tabla de especificaciones es el instrumento básico que asegura que se evalúa lo enseñado y en la proporción en que se enseñó.",
-    "practica": "El plan define qué se evalúa, con qué peso, con qué instrumento y en qué momento, y declara la política de recuperación por adelantado. Las ponderaciones deben justificarse por importancia del aprendizaje y no por costumbre. Y las condiciones de aplicación deben ser equivalentes para todos, incluidas las adecuaciones que no alteran la inferencia.",
+    "practica": "El plan define qué se evalúa, con qué peso, con qué instrumento y en qué momento, y declara la política de recuperación por adelantado. Las ponderaciones deben justificarse por importancia del aprendizaje y no por costumbre. Y las condiciones de aplicación deben ser equivalentes para todos, incluidas las adecuaciones que no alteran la inferencia. Publicar el plan al inicio del período cumple una función técnica además de comunicativa: permite que el estudiante distribuya su esfuerzo según lo que la asignatura declara importante.",
     "limites": "Ninguna evaluación sumativa mide todo lo aprendido: mide una muestra, en un momento y en un formato. Reconocerlo obliga a tomar decisiones de alto impacto con más de una fuente de evidencia y a resistir la tentación de tratar la calificación como una propiedad del estudiante.",
     "errores": [
       "Tomar decisiones de promoción con una sola medición.",
@@ -189,9 +189,9 @@
         "medida que reduce el efecto de una amenaza sin destruir la autenticidad de la tarea"
       ]
     ],
-    "desarrollo": "La evaluación auténtica gana relevancia y arriesga validez. Las amenazas son conocidas: la tarea puede medir los recursos del hogar, el tiempo disponible, el apoyo de terceros o la habilidad de presentación, más que el aprendizaje. Y con la disponibilidad de herramientas generativas, la autoría del producto entregado dejó de poder suponerse.",
-    "practica": "Los controles son concretos: producir partes del trabajo en clase, exigir defensa oral breve, evaluar el proceso además del producto, calibrar entre evaluadores y declarar de antemano qué apoyos son admisibles. Ninguno elimina la amenaza, pero en conjunto permiten sostener la inferencia con razonable confianza.",
-    "limites": "Cada control tiene costo: en tiempo, en trabajo docente y a veces en autenticidad. La decisión razonable depende de la consecuencia de la evaluación: para una tarea formativa, controles ligeros; para una que decide titulación, controles fuertes. Aplicar controles máximos a todo es inviable.",
+    "desarrollo": "La evaluación auténtica gana relevancia y arriesga validez. Las amenazas son conocidas: la tarea puede medir los recursos del hogar, el tiempo disponible, el apoyo de terceros o la habilidad de presentación, más que el aprendizaje. Y con la disponibilidad de herramientas generativas, la autoría del producto entregado dejó de poder suponerse. El problema técnico se llama varianza irrelevante al constructo: la evaluación captura diferencias reales entre estudiantes que nada tienen que ver con lo que se quería medir.",
+    "practica": "Los controles son concretos: producir partes del trabajo en clase, exigir defensa oral breve, evaluar el proceso además del producto, calibrar entre evaluadores y declarar de antemano qué apoyos son admisibles. Ninguno elimina la amenaza, pero en conjunto permiten sostener la inferencia con razonable confianza. Un control barato y poco usado es pedir el registro de decisiones del proceso —qué se descartó y por qué—, que es difícil de simular sin haber hecho el trabajo.",
+    "limites": "Cada control tiene costo: en tiempo, en trabajo docente y a veces en autenticidad. La decisión razonable depende de la consecuencia de la evaluación: para una tarea formativa, controles ligeros; para una que decide titulación, controles fuertes. Aplicar controles máximos a todo es inviable y termina degradando la enseñanza en vigilancia. Conviene además reconocer que la autenticidad tiene grados: casi ninguna tarea escolar reproduce del todo las condiciones reales de la práctica profesional.",
     "errores": [
       "Evaluar un producto extenso sin ninguna evidencia de proceso ni de autoría.",
       "Eliminar la autenticidad para asegurar el control, con lo que se pierde el propósito de la tarea."
@@ -245,8 +245,8 @@
       ]
     ],
     "desarrollo": "Un ítem defectuoso mide otra cosa: la longitud de la alternativa correcta, la concordancia gramatical, la exclusión por absurdo o la simple habilidad de rendir pruebas. Los defectos son conocidos y evitables: alternativas de longitud desigual, uso de «todas las anteriores», negaciones no señaladas, enunciados ambiguos y distractores que nadie elegiría. Revisar contra esa lista mejora cualquier instrumento en una hora de trabajo.",
-    "practica": "La construcción parte del desempeño: si el objetivo es explicar, un ítem de selección múltiple no sirve. Los distractores se construyen a partir de errores reales observados en los estudiantes, no inventados, y por eso las evaluaciones mejoran cuando se construyen después de haber enseñado y registrado los errores del curso.",
-    "limites": "Ningún formato es superior en abstracto: la selección múltiple mide bien reconocimiento y aplicación acotada y mal producción y argumentación; el desarrollo mide producción y tiene baja consistencia entre correctores. La elección del formato es una decisión de validez, no de comodidad.",
+    "practica": "La construcción parte del desempeño: si el objetivo es explicar, un ítem de selección múltiple no sirve. Los distractores se construyen a partir de errores reales observados en los estudiantes, no inventados, y por eso las evaluaciones mejoran cuando se construyen después de haber enseñado y registrado los errores del curso. Conviene revisar cada ítem con tres preguntas: qué desempeño exige, si se puede acertar sin saber, y si alguien que sabe podría fallar por cómo está redactado.",
+    "limites": "Ningún formato es superior en abstracto: la selección múltiple mide bien reconocimiento y aplicación acotada y mal producción y argumentación; el desarrollo mide producción y tiene baja consistencia entre correctores. La elección del formato es una decisión de validez, no de comodidad. A eso se suma un límite de tiempo: construir buenos ítems de selección múltiple es caro, y por eso rinde acumular un banco propio revisado cada año en vez de improvisar la prueba cada semestre.",
     "errores": [
       "Construir distractores inventados en vez de basarlos en errores reales del curso.",
       "Elegir el formato por facilidad de corrección y no por el desempeño que se quiere evaluar."
@@ -284,7 +284,7 @@
     "conceptos": [
       [
         "Rúbrica analítica",
-        "instrumento que evalúa criterios por separado; útil para retroalimentar"
+        "instrumento que evalúa cada criterio por separado con descriptores propios; útil para retroalimentar y costosa de aplicar en volumen"
       ],
       [
         "Rúbrica holística",
@@ -299,9 +299,9 @@
         "proceso de acuerdo entre evaluadores sobre la aplicación de los descriptores"
       ]
     ],
-    "desarrollo": "Las rúbricas mejoran la consistencia solo si sus descriptores son observables. Los niveles definidos por adverbios —«excelente», «adecuado», «insuficiente»— trasladan el juicio al evaluador y producen una apariencia de objetividad sin ganancia real. La calibración es el procedimiento que revela el problema: si dos evaluadores discrepan sistemáticamente en un criterio, ese descriptor está mal escrito.",
-    "practica": "El procedimiento incluye construir la rúbrica antes, entregarla al estudiante, calibrar con trabajos reales y reescribir los descriptores conflictivos. La elección entre analítica y holística depende del uso: para retroalimentar, analítica; para calificar rápido un volumen alto con criterios bien internalizados, holística.",
-    "limites": "Una rúbrica muy detallada puede convertir un desempeño complejo en una lista de verificación y premiar el cumplimiento formal sobre la calidad global. Y ningún instrumento elimina el juicio profesional: la rúbrica lo estructura y lo hace comunicable, no lo sustituye.",
+    "desarrollo": "Las rúbricas mejoran la consistencia solo si sus descriptores son observables. Los niveles definidos por adverbios —«excelente», «adecuado», «insuficiente»— trasladan el juicio al evaluador y producen una apariencia de objetividad sin ganancia real. La calibración es el procedimiento que revela el problema: si dos evaluadores discrepan sistemáticamente en un criterio, ese descriptor está mal escrito. Una prueba rápida de calidad es preguntar qué se vería en un trabajo que cumple el nivel: si la respuesta no describe algo observable, el descriptor todavía no sirve.",
+    "practica": "El procedimiento incluye construir la rúbrica antes, entregarla al estudiante, calibrar con trabajos reales y reescribir los descriptores conflictivos. La elección entre analítica y holística depende del uso: para retroalimentar, analítica; para calificar rápido un volumen alto con criterios bien internalizados, holística. La calibración se hace con al menos tres trabajos de niveles distintos y con dos evaluadores en paralelo, y su producto no es un acuerdo verbal sino una rúbrica corregida.",
+    "limites": "Una rúbrica muy detallada puede convertir un desempeño complejo en una lista de verificación y premiar el cumplimiento formal sobre la calidad global. Y ningún instrumento elimina el juicio profesional: la rúbrica lo estructura y lo hace comunicable, no lo sustituye. Existe además un efecto documentado sobre la producción del estudiante: criterios muy específicos tienden a estandarizar los trabajos y a reducir la variedad de respuestas legítimas.",
     "errores": [
       "Definir niveles con adverbios en vez de con desempeños observables.",
       "Aplicar una rúbrica sin calibrar y atribuir a los estudiantes la variación entre correctores."
@@ -325,7 +325,7 @@
         "guía práctica de construcción con ejemplos de descriptores observables."
       ]
     ],
-    "inclusion": "Las rúbricas explícitas y entregadas antes reducen la ventaja de quienes conocen los códigos implícitos del trabajo académico, y permiten a cualquier estudiante autoevaluarse antes de entregar.",
+    "inclusion": "Las rúbricas explícitas y entregadas antes reducen la ventaja de quienes conocen los códigos implícitos del trabajo académico, y permiten a cualquier estudiante autoevaluarse antes de entregar. Ese efecto solo se produce si el lenguaje del instrumento es accesible: una rúbrica escrita en jerga técnica traslada la misma barrera que pretendía eliminar.",
     "reto": "Calibra tu rúbrica con un colega sobre cinco trabajos. Reescribe los descriptores que produjeron desacuerdo y vuelve a calibrar.",
     "conexion": "Profundiza la clase 077 y sostiene la evaluación de desempeño de la clase 136."
   },
@@ -343,7 +343,7 @@
       ],
       [
         "Oportunidad de uso",
-        "instancia posterior donde el estudiante puede aplicar lo señalado"
+        "instancia posterior, planificada de antemano, donde el estudiante puede aplicar lo señalado sobre una tarea equivalente"
       ],
       [
         "Efecto de la calificación",
@@ -351,12 +351,12 @@
       ],
       [
         "Retroalimentación accionable",
-        "indicación concreta que el estudiante sabe cómo ejecutar"
+        "indicación concreta sobre qué hacer distinto, que el estudiante sabe ejecutar sin necesidad de pedir aclaración"
       ]
     ],
-    "desarrollo": "La investigación sobre retroalimentación muestra efectos promedio positivos y una variabilidad enorme, incluidos casos de efecto negativo. Dos hallazgos son de aplicación inmediata: la retroalimentación dirigida a la persona —elogio o crítica sobre su capacidad— no mejora y puede perjudicar; y entregar nota y comentario juntos anula el efecto del comentario, porque la atención va a la nota.",
+    "desarrollo": "La investigación sobre retroalimentación muestra efectos promedio positivos y una variabilidad enorme, incluidos casos de efecto negativo. Dos hallazgos son de aplicación inmediata: la retroalimentación dirigida a la persona —elogio o crítica sobre su capacidad— no mejora y puede perjudicar; y entregar nota y comentario juntos anula el efecto del comentario, porque la atención va a la nota. El tercer hallazgo es de diseño: la retroalimentación funciona cuando responde tres preguntas —hacia dónde voy, cómo voy, qué hago ahora— y falla cuando solo responde la segunda.",
     "practica": "El rediseño más simple y más eficaz consiste en separar en el tiempo el comentario de la calificación, y exigir una acción con el comentario antes de entregar la nota. Además, la retroalimentación debe ser específica y accionable: «mejora la coherencia» no orienta; «cada párrafo debe empezar con la idea y seguir con el ejemplo» sí.",
-    "limites": "La retroalimentación abundante no es mejor: sobrecarga y produce abandono. Y su efecto depende de que el estudiante tenga el conocimiento para interpretarla y una oportunidad real de aplicarla; sin trabajo posterior, el mejor comentario del mundo no cambia nada.",
+    "limites": "La retroalimentación abundante no es mejor: sobrecarga y produce abandono. Y su efecto depende de que el estudiante tenga el conocimiento para interpretarla y una oportunidad real de aplicarla; sin trabajo posterior, el mejor comentario del mundo no cambia nada. Conviene además recordar que buena parte de la evidencia proviene de tareas acotadas en condiciones de investigación, y que su traslado a trabajos extensos con semanas de demora entre entrega y devolución está mucho menos documentado.",
     "errores": [
       "Entregar comentario y calificación al mismo tiempo.",
       "Dirigir la retroalimentación a la persona —«eres desordenado»— en vez de a la tarea."
@@ -410,7 +410,7 @@
       ]
     ],
     "desarrollo": "Decir que una prueba «es válida» es un error conceptual: lo que puede ser válido es la interpretación que se hace de sus resultados para un uso determinado. La misma prueba puede sostener una inferencia y no otra. El argumento de validez consiste en explicitar qué se quiere afirmar, reunir evidencia que lo respalde —contenido, procesos, relaciones, consecuencias— y reconocer las amenazas que quedan sin controlar.",
-    "practica": "El ejercicio práctico es escribir la afirmación completa: «los resultados de esta evaluación permiten afirmar que el estudiante puede resolver problemas de este tipo, en estas condiciones, con este nivel de exigencia». Formulada así, la mayoría de las afirmaciones habituales resulta excesiva, y esa constatación cambia el uso que se les da.",
+    "practica": "El ejercicio práctico es escribir la afirmación completa: «los resultados de esta evaluación permiten afirmar que el estudiante puede resolver problemas de este tipo, en estas condiciones, con este nivel de exigencia». Formulada así, la mayoría de las afirmaciones habituales resulta excesiva, y esa constatación cambia el uso que se les da. El paso siguiente es listar las amenazas: qué explicación alternativa —falta de tiempo, vocabulario del enunciado, ayuda externa— podría producir el mismo resultado sin el aprendizaje que se quiere inferir.",
     "limites": "La validación es un proceso continuo y nunca concluye: siempre hay evidencia adicional que podría reunirse. En el contexto escolar, el nivel de exigencia debe ser proporcional a la consecuencia: no se pide el mismo respaldo a un control de lectura que a una evaluación que decide la titulación.",
     "errores": [
       "Afirmar que un instrumento es válido en abstracto, sin referencia a interpretación ni uso.",
@@ -453,7 +453,7 @@
       ],
       [
         "Error estándar de medida",
-        "margen de incertidumbre asociado a un puntaje individual"
+        "margen de incertidumbre asociado a un puntaje individual, que indica cuánta diferencia es interpretable y cuánta es ruido"
       ],
       [
         "Consistencia interna",
@@ -461,11 +461,11 @@
       ],
       [
         "Acuerdo entre correctores",
-        "consistencia entre personas que evalúan el mismo desempeño"
+        "grado de consistencia entre personas distintas que evalúan el mismo desempeño con el mismo instrumento"
       ]
     ],
-    "desarrollo": "Todo puntaje incluye error. La consecuencia práctica es incómoda: diferencias pequeñas entre estudiantes, o entre dos aplicaciones al mismo estudiante, pueden no significar nada. Interpretar una diferencia de dos décimas como progreso o como superioridad es un error técnico común y con consecuencias reales, porque sobre esas diferencias se toman decisiones de selección, agrupamiento y promoción.",
-    "practica": "El trabajo consiste en estimar la consistencia del instrumento y el acuerdo entre correctores cuando hay juicio humano, y usar esa información para decidir. La regla operativa: no interpretar diferencias menores que el error de medida, y no tomar decisiones importantes con una sola aplicación.",
+    "desarrollo": "Todo puntaje incluye error. La consecuencia práctica es incómoda: diferencias pequeñas entre estudiantes, o entre dos aplicaciones al mismo estudiante, pueden no significar nada. Interpretar una diferencia de dos décimas como progreso o como superioridad es un error técnico común y con consecuencias reales, porque sobre esas diferencias se toman decisiones de selección, agrupamiento y promoción. El error no desaparece con instrumentos mejores: se reduce y se estima, y la estimación es lo que permite decir cuánta diferencia empieza a ser interpretable.",
+    "practica": "El trabajo consiste en estimar la consistencia del instrumento y el acuerdo entre correctores cuando hay juicio humano, y usar esa información para decidir. La regla operativa: no interpretar diferencias menores que el error de medida, y no tomar decisiones importantes con una sola aplicación. En evaluaciones con juicio humano, la medida más simple y más reveladora es hacer que dos personas corrijan los mismos diez trabajos y comparar; la magnitud del desacuerdo suele sorprender al equipo.",
     "limites": "Los coeficientes de consistencia interna se usan mal con frecuencia: dependen del número de ítems y de la homogeneidad del contenido, y un valor alto no prueba que la prueba mida una sola cosa ni que mida lo correcto. Existen alternativas más adecuadas, y en cualquier caso la confiabilidad es condición necesaria y no suficiente de la validez.",
     "errores": [
       "Interpretar diferencias de puntaje menores que el error de medida.",
@@ -504,7 +504,7 @@
     "conceptos": [
       [
         "Índice de dificultad",
-        "proporción de estudiantes que responde correctamente un ítem"
+        "proporción de estudiantes que responde correctamente un ítem; describe a la prueba con este grupo y no una propiedad absoluta del ítem"
       ],
       [
         "Índice de discriminación",
@@ -575,8 +575,8 @@
       ]
     ],
     "desarrollo": "La teoría clásica es simple y suficiente para el trabajo de aula, con una limitación importante: sus índices dependen de la muestra, de modo que la dificultad de un ítem cambia según a quién se aplicó. La teoría de respuesta al ítem sitúa habilidad y dificultad en una misma escala y permite comparar entre formas distintas y entre años, que es lo que hace posible afirmar que un sistema mejoró.",
-    "practica": "El uso profesional para la mayoría de los docentes no es aplicar estos modelos sino leer informes que los usan. Saber qué significa un puntaje en escala, qué es el equating y qué supone la invarianza permite interpretar los resultados nacionales sin comprar la lectura simplificada del titular ni descartarlos por desconfianza.",
-    "limites": "Los modelos tienen supuestos fuertes —unidimensionalidad, independencia local— que rara vez se cumplen del todo, y su violación afecta las conclusiones. Además, la sofisticación técnica no corrige problemas de validez: una prueba técnicamente impecable puede estar midiendo un constructo mal definido.",
+    "practica": "El uso profesional para la mayoría de los docentes no es aplicar estos modelos sino leer informes que los usan. Saber qué significa un puntaje en escala, qué es el equating y qué supone la invarianza permite interpretar los resultados nacionales sin comprar la lectura simplificada del titular ni descartarlos por desconfianza. Con eso basta para hacer tres preguntas útiles ante cualquier informe: qué se midió, con qué margen de error y qué comparaciones autoriza la escala presentada.",
+    "limites": "Los modelos tienen supuestos fuertes —unidimensionalidad, independencia local— que rara vez se cumplen del todo, y su violación afecta las conclusiones. Además, la sofisticación técnica no corrige problemas de validez: una prueba técnicamente impecable puede estar midiendo un constructo mal definido. Y su aplicación exige tamaños de muestra grandes, de modo que para una evaluación de curso la teoría clásica sigue siendo la herramienta razonable.",
     "errores": [
       "Interpretar puntajes en escala como si fueran porcentajes de logro.",
       "Suponer que la sofisticación técnica del modelo garantiza la validez del constructo."
@@ -618,7 +618,7 @@
       ],
       [
         "Coherencia evaluativa",
-        "correspondencia entre resultados declarados, instrumentos y decisiones tomadas"
+        "correspondencia verificable entre los aprendizajes declarados, los instrumentos que los miden y las decisiones que se toman con sus resultados"
       ],
       [
         "Carga evaluativa",
@@ -629,9 +629,9 @@
         "condiciones —criterios públicos, reglas conocidas, vías de revisión— que hacen defendible el sistema"
       ]
     ],
-    "desarrollo": "Un sistema de evaluación no es la suma de sus instrumentos: es una decisión sobre qué se mide, cuándo, con qué consecuencia y qué información devuelve a quién. Los sistemas mal diseñados concentran todo al final, evalúan lo mismo tres veces, dejan aprendizajes declarados sin medir y consumen más tiempo del que aportan. La coherencia se comprueba recorriendo la asignatura completa.",
-    "practica": "El diseño articula lo diagnóstico, lo formativo y lo sumativo con propósitos distintos y sin confundirlos; calendariza para que la retroalimentación llegue a tiempo de ser usada; y declara criterios y vías de revisión. La carga evaluativa debe calcularse: en muchos programas la evaluación consume más tiempo del estudiante que el estudio.",
-    "limites": "Un sistema bien diseñado mejora la calidad de la información y no garantiza aprendizaje. Y toda evaluación tiene efectos secundarios: orienta el estudio, define lo que se considera importante y produce ansiedad. Diseñar es también decidir qué efectos secundarios se está dispuesto a aceptar.",
+    "desarrollo": "Un sistema de evaluación no es la suma de sus instrumentos: es una decisión sobre qué se mide, cuándo, con qué consecuencia y qué información devuelve a quién. Los sistemas mal diseñados concentran todo al final, evalúan lo mismo tres veces, dejan aprendizajes declarados sin medir y consumen más tiempo del que aportan. La coherencia se comprueba recorriendo la asignatura completa con una tabla de doble entrada: aprendizajes declarados en las filas, instrumentos en las columnas, y toda fila vacía o columna redundante señala una decisión pendiente.",
+    "practica": "El diseño articula lo diagnóstico, lo formativo y lo sumativo con propósitos distintos y sin confundirlos; calendariza para que la retroalimentación llegue a tiempo de ser usada; y declara criterios y vías de revisión. La carga evaluativa debe calcularse: en muchos programas la evaluación consume más tiempo del estudiante que el estudio. El calendario debe además coordinarse entre asignaturas, porque la sobrecarga que el estudiante experimenta es la suma y no la de cada una por separado.",
+    "limites": "Un sistema bien diseñado mejora la calidad de la información y no garantiza aprendizaje. Y toda evaluación tiene efectos secundarios: orienta el estudio, define lo que se considera importante y produce ansiedad. Diseñar es también decidir qué efectos secundarios se está dispuesto a aceptar. Conviene revisarlos al cierre del período con evidencia y no con impresiones: qué se estudió, qué se dejó fuera y qué se aprendió a hacer solo para la prueba.",
     "errores": [
       "Acumular instrumentos sin revisar la carga total ni la redundancia entre ellos.",
       "Diseñar el sistema sin declarar criterios públicos ni vías de revisión."
