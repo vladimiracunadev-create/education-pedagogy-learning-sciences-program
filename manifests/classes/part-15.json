@@ -24,9 +24,9 @@
         "capacidad de sostener pocas prioridades frente a la presión de lo urgente"
       ]
     ],
-    "desarrollo": "La investigación sobre liderazgo escolar converge en un resultado útil: su efecto sobre el aprendizaje es real e indirecto, y la práctica con mayor magnitud documentada es la participación del directivo en el aprendizaje profesional de sus docentes. No supervisarlo desde fuera: participar. Le siguen el establecimiento de metas, la garantía de condiciones de enseñanza y la protección del tiempo pedagógico.",
-    "practica": "El análisis del uso del tiempo es incómodo y revelador: la mayoría de los equipos directivos descubre que dedica menos del veinte por ciento de su tiempo a prácticas pedagógicas. Redistribuir exige delegar o eliminar tareas administrativas, lo que a su vez exige decisiones sobre estructura y no solo sobre voluntad.",
-    "limites": "Los efectos del liderazgo son moderados y dependen del contexto: en escuelas en crisis las prácticas que funcionan son distintas de las que sirven en escuelas estables. Y la evidencia proviene mayormente de estudios correlacionales y de síntesis con definiciones heterogéneas de liderazgo.",
+    "desarrollo": "La investigación sobre liderazgo escolar converge en un resultado útil: su efecto sobre el aprendizaje es real e indirecto, y la práctica con mayor magnitud documentada es la participación del directivo en el aprendizaje profesional de sus docentes. No supervisarlo desde fuera: participar. Le siguen el establecimiento de metas, la garantía de condiciones de enseñanza y la protección del tiempo pedagógico. El mecanismo que explica ese orden es simple: un directivo que estudia junto a su equipo conoce de primera mano qué enseñanza está ocurriendo, y esa información es la que le permite decidir sobre horarios, recursos y acompañamiento. Un directivo que solo revisa planificaciones decide sobre representaciones del trabajo, no sobre el trabajo.",
+    "practica": "El análisis del uso del tiempo es incómodo y revelador: la mayoría de los equipos directivos descubre que dedica menos del veinte por ciento de su tiempo a prácticas pedagógicas. El procedimiento es registrar durante dos semanas cada bloque de treinta minutos, clasificarlo en pedagógico, administrativo, emergente o externo, y recién entonces discutir la redistribución. Redistribuir exige delegar o eliminar tareas administrativas, lo que a su vez exige decisiones sobre estructura y no solo sobre voluntad: qué deja de hacerse, quién asume qué y con qué tiempo asignado.",
+    "limites": "Los efectos del liderazgo son moderados y dependen del contexto: en escuelas en crisis las prácticas que funcionan son distintas de las que sirven en escuelas estables. Y la evidencia proviene mayormente de estudios correlacionales y de síntesis con definiciones heterogéneas de liderazgo, lo que hace difícil separar el efecto de la práctica directiva del de las condiciones que permiten ejercerla. En establecimientos con alta rotación docente, además, buena parte del efecto se pierde cada marzo con el equipo que se va.",
     "errores": [
       "Ejercer liderazgo pedagógico solo mediante instrucciones y supervisión externa.",
       "Declarar prioridades pedagógicas sin liberar tiempo real para sostenerlas."
@@ -80,7 +80,7 @@
       ]
     ],
     "desarrollo": "Una estrategia que contradice la cultura se abandona, aunque tenga evidencia y financiamiento. Por eso el diagnóstico cultural precede al diseño del cambio: qué se premia informalmente, qué ocurre cuando alguien innova, qué se puede admitir en una reunión y qué no. La resistencia, además, rara vez es irracional: suele proteger algo —tiempo, autonomía, seguridad— que conviene identificar antes de intentar vencerla.",
-    "practica": "El diagnóstico se hace con evidencia observable y conversaciones, no con encuestas de clima. Y la estrategia se ajusta: empezar por cambios que la cultura tolera, mostrar resultados, usar esos resultados para ampliar el margen. La confianza es el recurso que se acumula o se gasta en cada uno de esos intentos.",
+    "practica": "El diagnóstico se hace con evidencia observable y conversaciones, no con encuestas de clima: qué se celebra públicamente, qué se tolera en silencio, qué historias se cuentan sobre la institución y quién tiene influencia real más allá del organigrama. Y la estrategia se ajusta: empezar por cambios que la cultura tolera, mostrar resultados, usar esos resultados para ampliar el margen. La confianza es el recurso que se acumula o se gasta en cada uno de esos intentos, y su reposición es lenta: un cambio impuesto que fracasa encarece todos los cambios siguientes.",
     "limites": "La cultura se describe mejor de lo que se manipula: no hay recetas para cambiarla y los plazos son largos. Además, los estudios que la vinculan con resultados son correlacionales. Sirve como marco estratégico de decisión, no como explicación causal de los resultados de una institución.",
     "errores": [
       "Introducir un cambio que contradice la cultura sin haber trabajado antes el supuesto que lo bloquea.",
@@ -135,7 +135,7 @@
       ]
     ],
     "desarrollo": "La observación de clases es una de las prácticas de mayor potencial y de mayor riesgo relacional. Su potencial: hacer visible la enseñanza real y permitir una conversación fundada. Su riesgo: si el docente no sabe qué se observa, para qué se usará y quién lo verá, la observación produce clases actuadas y desconfianza. La separación entre desarrollo y evaluación es la decisión más importante del diseño.",
-    "practica": "El protocolo se acuerda antes con el equipo: qué se observará, con qué instrumento, con qué frecuencia, quién accede a los registros y qué ocurre con ellos. Un foco acotado —por ejemplo, verificación de comprensión— produce conversaciones útiles; una pauta que evalúa treinta aspectos produce juicios generales y defensas.",
+    "practica": "El protocolo se acuerda antes con el equipo: qué se observará, con qué instrumento, con qué frecuencia, quién accede a los registros y qué ocurre con ellos. La distinción decisiva es entre observación para el desarrollo profesional y observación para la evaluación del desempeño: mezclarlas sin declararlo es lo que destruye la confianza. Un foco acotado —por ejemplo, verificación de comprensión— produce conversaciones útiles; una pauta que evalúa treinta aspectos produce juicios generales y defensas.",
     "limites": "La confiabilidad de las observaciones de aula es limitada: distintos observadores puntúan distinto y una sola clase no representa la práctica de un docente. Los sistemas serios usan varias observaciones, formación de observadores y calibración. Usar una observación aislada para decisiones de alto impacto es técnicamente insostenible.",
     "errores": [
       "Observar sin acuerdo previo sobre foco, uso y confidencialidad de la información.",
@@ -182,16 +182,16 @@
       ],
       [
         "Acuerdo verificable",
-        "compromiso específico con indicador y plazo"
+        "compromiso específico entre quien observa y quien enseña, con indicador observable, plazo declarado y fecha de revisión acordada"
       ],
       [
         "Seguimiento",
         "instancia posterior en que se revisa el acuerdo, sin la cual la conversación se disuelve"
       ]
     ],
-    "desarrollo": "La retroalimentación a docentes fracasa por las mismas razones que la retroalimentación a estudiantes: se dirige a la persona, es general y no tiene seguimiento. La versión que funciona presenta evidencia concreta —lo que se observó, con datos—, pregunta antes de afirmar, se centra en una decisión pedagógica específica y termina con un acuerdo verificable y una fecha.",
+    "desarrollo": "La retroalimentación a docentes fracasa por las mismas razones que la retroalimentación a estudiantes: se dirige a la persona, es general y no tiene seguimiento. La versión que funciona presenta evidencia concreta —lo que se observó, con datos—, pregunta antes de afirmar, se centra en una decisión pedagógica específica y termina con un acuerdo verificable y una fecha. La secuencia importa: preguntar primero permite que el docente explique la razón de lo observado, que muchas veces es una restricción que el observador no conocía, y evita corregir una decisión que era correcta para ese contexto.",
     "practica": "La estructura de la conversación importa: empezar con la lectura del propio docente sobre la clase, presentar la evidencia observada, contrastar, acordar una acción y fijar el seguimiento. Preguntar antes de afirmar no es una técnica de cortesía: la mayoría de las veces el docente ya identificó el problema y la conversación avanza mucho más rápido.",
-    "limites": "El coaching instruccional muestra efectos positivos en programas bien implementados, con caída al escalar. Y su eficacia depende de que la persona que retroalimenta tenga credibilidad pedagógica: un directivo que no puede explicar cómo haría la clase pierde autoridad técnica en la conversación.",
+    "limites": "El coaching instruccional muestra efectos positivos en programas bien implementados, con caída al escalar. Y su eficacia depende de que la persona que retroalimenta tenga credibilidad pedagógica: un directivo que no puede explicar cómo haría la clase pierde autoridad técnica en la conversación. A eso se suma una restricción de tiempo raramente reconocida: el ciclo completo —observar, preparar, conversar, seguir— exige del orden de dos horas por docente y por ciclo, y sin ese tiempo protegido el modelo se degrada a una visita con comentarios.",
     "errores": [
       "Retroalimentar con impresiones generales sin evidencia observada.",
       "Cerrar la conversación sin acuerdo verificable ni fecha de seguimiento."
@@ -237,15 +237,15 @@
       ],
       [
         "Tiempo protegido",
-        "espacio en la jornada destinado exclusivamente al trabajo colectivo"
+        "espacio dentro de la jornada laboral destinado exclusivamente al trabajo colectivo, que no se cede ante urgencias administrativas"
       ],
       [
         "Producto del ciclo",
         "resultado concreto —instrumento, secuencia, acuerdo— que deja cada período de trabajo"
       ]
     ],
-    "desarrollo": "La mayoría de las reuniones docentes se ocupa de coordinación administrativa. Una comunidad profesional de aprendizaje se distingue por su material: trabajos de estudiantes, datos de una evaluación, registros de clase. La conversación deja de ser sobre opiniones y pasa a ser sobre evidencia, que es lo que permite acordar acciones y verificar su efecto.",
-    "practica": "El diseño exige tres condiciones concretas: tiempo en la jornada —no después de la jornada—, foco definido por ciclo y un producto verificable al final. Sin producto, el trabajo colectivo se percibe como conversación sin consecuencia y la asistencia decae, con razón.",
+    "desarrollo": "La mayoría de las reuniones docentes se ocupa de coordinación administrativa. Una comunidad profesional de aprendizaje se distingue por su material: trabajos de estudiantes, datos de una evaluación, registros de clase. La conversación deja de ser sobre opiniones y pasa a ser sobre evidencia, que es lo que permite acordar acciones y verificar su efecto. La segunda distinción es el ciclo: la comunidad no se reúne a comentar, se reúne a probar algo acordado y a volver con lo que ocurrió, de modo que cada sesión tiene un antes y un después observables.",
+    "practica": "El diseño exige tres condiciones concretas: tiempo en la jornada —no después de la jornada—, foco definido por ciclo y un producto verificable al final. Sin producto, el trabajo colectivo se percibe como conversación sin consecuencia y la asistencia decae, con razón. Conviene además fijar reglas de conversación: mirar el trabajo del estudiante antes que la intención del docente, y separar la descripción de lo observado del juicio sobre quien enseñó.",
     "limites": "La evidencia sobre comunidades profesionales es favorable en desarrollo profesional y más débil e indirecta en aprendizaje de los estudiantes. Además, su implementación es muy variable: el mismo nombre cubre desde indagación rigurosa hasta reuniones renombradas. La condición material —tiempo protegido— es la que más frecuentemente falta.",
     "errores": [
       "Instalar la comunidad sin tiempo protegido en la jornada laboral.",
@@ -270,7 +270,7 @@
         "modelo de indagación colectiva por ciclos con evidencia, aplicable a comunidades docentes."
       ]
     ],
-    "inclusion": "Las comunidades que trabajan con evidencia desagregada detectan qué estudiantes están quedando fuera de forma sistemática, que es información que ningún promedio institucional entrega.",
+    "inclusion": "Las comunidades que trabajan con evidencia desagregada detectan qué estudiantes están quedando fuera de forma sistemática, que es información que ningún promedio institucional entrega. Mirar los trabajos del tercio más bajo, y no una muestra representativa, es la práctica que convierte la instancia en un instrumento de equidad y no en una revisión de lo que ya funciona.",
     "reto": "Conduce un ciclo completo con evidencia real y un producto definido. Evalúa si el producto cambió alguna práctica de aula.",
     "conexion": "Se apoya en las clases 181 y 184 y alimenta el ciclo de mejora de la clase 189."
   },
@@ -288,7 +288,7 @@
       ],
       [
         "Meta verificable",
-        "resultado esperado con indicador, línea base, plazo y responsable"
+        "resultado esperado que declara indicador, línea base, plazo y responsable, de modo que su cumplimiento no dependa de la interpretación"
       ],
       [
         "Línea base",
@@ -299,9 +299,9 @@
         "instancia periódica que revisa avance y ajusta, con consecuencias sobre las decisiones"
       ]
     ],
-    "desarrollo": "Los planes estratégicos fracasan por tres razones recurrentes: demasiadas prioridades, metas sin línea base ni indicador, y ausencia de seguimiento con consecuencias. El resultado es un documento que se escribe para cumplir un requisito y que nadie usa para decidir. Un plan útil tiene pocas prioridades, metas que se pueden verificar y una instancia periódica donde se decide con sus datos.",
-    "practica": "La disciplina más difícil es decidir qué no se hará: una institución que declara ocho prioridades no tiene ninguna. Y cada meta necesita línea base: sin ella, cualquier resultado se puede narrar como avance. El seguimiento debe tener consecuencias sobre asignación de tiempo y recursos, o se convierte en un reporte más.",
-    "limites": "No hay evidencia sólida sobre modelos de planificación estratégica en educación: es conocimiento profesional y de gestión. Lo que sí está documentado es que las instituciones que sostienen pocas prioridades durante varios años obtienen mejores resultados que las que cambian de foco cada año.",
+    "desarrollo": "Los planes estratégicos fracasan por tres razones recurrentes: demasiadas prioridades, metas sin línea base ni indicador, y ausencia de seguimiento con consecuencias. El resultado es un documento que se escribe para cumplir un requisito y que nadie usa para decidir. Un plan útil tiene pocas prioridades, metas que se pueden verificar y una instancia periódica donde se decide con sus datos. En el sistema chileno esa tensión es visible en los planes de mejoramiento educativo: el instrumento existe, es obligatorio y su calidad varía enormemente según si el equipo lo usa para conducir o para rendir cuenta.",
+    "practica": "La disciplina más difícil es decidir qué no se hará: una institución que declara ocho prioridades no tiene ninguna. Y cada meta necesita línea base: sin ella, cualquier resultado se puede narrar como avance. El seguimiento debe tener consecuencias sobre asignación de tiempo y recursos, o se convierte en un reporte más. Una prueba práctica de calidad del plan es entregárselo a un docente que no participó en su elaboración y preguntarle qué cambia en su semana: si no puede responder, el plan todavía no aterriza.",
+    "limites": "No hay evidencia sólida sobre modelos de planificación estratégica en educación: es conocimiento profesional y de gestión. Lo que sí está documentado es que las instituciones que sostienen pocas prioridades durante varios años obtienen mejores resultados que las que cambian de foco cada año. También está documentado el efecto contrario del exceso de iniciativas simultáneas, que compiten por el mismo tiempo docente y terminan ejecutándose todas a medias.",
     "errores": [
       "Declarar más prioridades de las que la institución puede sostener a la vez.",
       "Fijar metas sin línea base, con lo que ningún resultado es verificable."
@@ -354,9 +354,9 @@
         "valoración específica del trabajo bien hecho; una de las pocas palancas siempre disponibles"
       ]
     ],
-    "desarrollo": "En educación, muchas palancas clásicas de gestión —remuneración, contratación, desvinculación— están limitadas por la normativa y por la estructura institucional. Las que quedan disponibles son potentes y poco usadas: claridad de rol, distribución justa de la carga, oportunidades reales de desarrollo, conversaciones honestas y reconocimiento específico del trabajo bien hecho.",
-    "practica": "La distribución de la carga es la fuente más frecuente de conflicto y la menos transparente: las tareas invisibles —jefaturas de curso, atención de apoderados, suplencias— se acumulan en las mismas personas. Hacerla explícita y revisarla en equipo resuelve más problemas de clima que cualquier actividad de integración.",
-    "limites": "La gestión de equipos en educación está condicionada por la normativa laboral y por la estructura del sistema, que varían por país y por dependencia. Y no hay evidencia experimental sobre prácticas de gestión educativa: es conocimiento profesional que exige ajuste al contexto.",
+    "desarrollo": "En educación, muchas palancas clásicas de gestión —remuneración, contratación, desvinculación— están limitadas por la normativa y por la estructura institucional. Las que quedan disponibles son potentes y poco usadas: claridad de rol, distribución justa de la carga, oportunidades reales de desarrollo, conversaciones honestas y reconocimiento específico del trabajo bien hecho. La evidencia sobre condiciones de trabajo apunta en la misma dirección: autonomía profesional, sentido de eficacia colectiva y percepción de equidad predicen permanencia mejor que cualquier incentivo individual disponible en el sistema escolar.",
+    "practica": "La distribución de la carga es la fuente más frecuente de conflicto y la menos transparente: las tareas invisibles —jefaturas de curso, atención de apoderados, suplencias— se acumulan en las mismas personas. Hacerla explícita y revisarla en equipo resuelve más problemas de clima que cualquier actividad de integración. Un ejercicio directo es construir la matriz de tareas no lectivas por docente y presentarla al consejo: la sola visibilidad redistribuye, porque nadie sostiene públicamente una asignación que no puede justificar.",
+    "limites": "La gestión de equipos en educación está condicionada por la normativa laboral y por la estructura del sistema, que varían por país y por dependencia. Y no hay evidencia experimental sobre prácticas de gestión educativa: es conocimiento profesional que exige ajuste al contexto. Conviene además reconocer un límite de rol: un equipo directivo puede mejorar condiciones locales, y no puede compensar por sí solo salarios, tamaño de curso ni estabilidad contractual, que son decisiones de otro nivel del sistema.",
     "errores": [
       "Postergar las conversaciones difíciles hasta que el problema afecta a los estudiantes.",
       "Distribuir la carga de forma opaca, concentrando lo invisible en las mismas personas."
@@ -394,7 +394,7 @@
     "conceptos": [
       [
         "Indicador de resultado",
-        "medida del logro alcanzado; informa pero no explica"
+        "medida del logro finalmente alcanzado; informa qué ocurrió, pero no explica por qué ni indica dónde intervenir"
       ],
       [
         "Indicador de proceso",
@@ -402,16 +402,16 @@
       ],
       [
         "Desagregación",
-        "descomposición del indicador por grupos para revelar brechas internas"
+        "descomposición del indicador por grupos —nivel socioeconómico, género, curso, condición— para revelar las brechas que el promedio oculta"
       ],
       [
         "Efecto de indicador",
         "distorsión de la conducta institucional producida por lo que se mide"
       ]
     ],
-    "desarrollo": "Los sistemas educativos recolectan muchos datos y usan pocos. Un tablero útil tiene pocos indicadores, combina resultado y proceso, se desagrega para mostrar brechas y declara sus límites. La desagregación es la decisión más importante: un promedio institucional puede mejorar mientras el grupo más rezagado empeora, y esa es exactamente la información que una institución con foco en equidad necesita.",
-    "practica": "Cada indicador debe tener una decisión asociada: si baja la asistencia de un grupo, se activa un protocolo; si sube la reprobación en una asignatura, se revisa su enseñanza. Los indicadores sin decisión asociada se recolectan por inercia y consumen tiempo que rendiría más en otra parte.",
-    "limites": "Todo indicador induce conducta: lo que se mide se prioriza y lo que no se mide se abandona. Los sistemas de rendición de cuentas de alta consecuencia producen efectos documentados de estrechamiento curricular y de selección de estudiantes. Diseñar indicadores incluye anticipar esos efectos.",
+    "desarrollo": "Los sistemas educativos recolectan muchos datos y usan pocos. Un tablero útil tiene pocos indicadores, combina resultado y proceso, se desagrega para mostrar brechas y declara sus límites. La desagregación es la decisión más importante: un promedio institucional puede mejorar mientras el grupo más rezagado empeora, y esa es exactamente la información que una institución con foco en equidad necesita. Conviene además distinguir indicadores de resultado, que informan qué pasó, de indicadores de proceso, que son los únicos sobre los que el equipo puede actuar esta semana.",
+    "practica": "Cada indicador debe tener una decisión asociada: si baja la asistencia de un grupo, se activa un protocolo; si sube la reprobación en una asignatura, se revisa su enseñanza. Los indicadores sin decisión asociada se recolectan por inercia y consumen tiempo que rendiría más en otra parte. Una regla práctica: si nadie puede nombrar la última decisión que se tomó con un indicador, ese indicador sale del tablero.",
+    "limites": "Todo indicador induce conducta: lo que se mide se prioriza y lo que no se mide se abandona. Los sistemas de rendición de cuentas de alta consecuencia producen efectos documentados de estrechamiento curricular y de selección de estudiantes. Diseñar indicadores incluye anticipar esos efectos y, cuando se pueda, medir también aquello que el sistema podría estar sacrificando para mejorar la cifra observada.",
     "errores": [
       "Recolectar indicadores sin decisión asociada, por requerimiento administrativo.",
       "Reportar solo promedios institucionales y ocultar las brechas internas."
@@ -457,7 +457,7 @@
       ],
       [
         "Problema específico",
-        "dificultad delimitada y observable, distinta de un objetivo general"
+        "dificultad delimitada, observable y acotada a un grupo y un plazo, distinta de un objetivo general o de una aspiración institucional"
       ],
       [
         "Prueba acotada",
@@ -470,7 +470,7 @@
     ],
     "desarrollo": "La mejora sostenida se produce por acumulación de ciclos cortos, no por reformas simultáneas. La lógica es directa: un problema específico, una hipótesis sobre qué lo causa, un cambio acotado, una medición y una decisión. Probar en pequeño antes de extender evita el patrón habitual de implementar a escala completa una idea que no funcionaba y agotar al equipo en el intento.",
     "practica": "El ciclo exige delimitar bien: «mejorar la comprensión lectora» no es un problema específico; «los estudiantes de séptimo no identifican la idea principal en textos expositivos» sí lo es. Y exige medir con instrumentos simples y comparables. La decisión final debe ser explícita, incluida la de abandonar, que es la más difícil de tomar y la que más aprendizaje produce.",
-    "limites": "La mejora continua aplicada a educación tiene evidencia prometedora y no concluyente, y su implementación exige capacidades que muchos equipos no tienen: delimitar problemas, medir y decidir con datos. Sin desarrollo de esas capacidades, los ciclos se convierten en un formato vacío.",
+    "limites": "La mejora continua aplicada a educación tiene evidencia prometedora y no concluyente, y su implementación exige capacidades que muchos equipos no tienen: delimitar problemas, medir y decidir con datos. Sin desarrollo de esas capacidades, los ciclos se convierten en un formato vacío que consume reuniones. Hay además un límite de escala: los ciclos cortos sirven para problemas acotados de práctica, y no reemplazan decisiones estructurales —tamaño de curso, dotación, horas no lectivas— que ningún ciclo de mejora local puede resolver.",
     "errores": [
       "Iniciar múltiples cambios simultáneos y no poder atribuir ningún resultado.",
       "Extender a toda la institución un cambio que no fue probado en pequeña escala."
@@ -516,7 +516,7 @@
       ],
       [
         "Capacidad institucional",
-        "condiciones y competencias necesarias para implementar con fidelidad"
+        "conjunto de condiciones, tiempo y competencias que la institución necesita para implementar con fidelidad lo que decide adoptar"
       ],
       [
         "Fidelidad de implementación",
@@ -524,7 +524,7 @@
       ]
     ],
     "desarrollo": "El campo educativo adopta y abandona innovaciones con un ciclo rápido y costoso: cada iniciativa consume energía, credibilidad y tiempo del equipo. Evaluar una innovación exige cuatro preguntas: qué evidencia tiene, qué problema real resuelve en esta institución, qué capacidad exige y qué se dejará de hacer para implementarla. La cuarta es la que casi nunca se hace y la que más explica el agotamiento de los equipos.",
-    "practica": "La evaluación se documenta y se discute antes de comprometer recursos. Y la implementación debe considerar la fidelidad: la mayoría de las innovaciones que fracasan no fueron probadas en su versión real, sino en una adaptación local que perdió sus componentes activos. Declarar qué es irrenunciable del diseño original es parte de la decisión.",
+    "practica": "La evaluación se documenta y se discute antes de comprometer recursos. Y la implementación debe considerar la fidelidad: la mayoría de las innovaciones que fracasan no fueron probadas en su versión real, sino en una adaptación local que perdió sus componentes activos. Declarar qué es irrenunciable del diseño original es parte de la decisión. Conviene también probar en pequeño antes de comprometer al establecimiento completo: un curso, un nivel o un semestre bastan para saber si el supuesto principal se sostiene en este contexto.",
     "limites": "La evidencia sobre innovaciones específicas es heterogénea y muchas veces proviene de sus propios promotores. Y existe una tensión legítima: exigir evidencia completa antes de innovar paralizaría la práctica, mientras que innovar sin criterio consume el sistema. La posición defendible es probar acotado y medir.",
     "errores": [
       "Adoptar una innovación sin evaluar la capacidad institucional que exige.",
@@ -579,8 +579,8 @@
       ]
     ],
     "desarrollo": "La dirección educativa enfrenta dilemas que el reglamento no resuelve: expulsar a un estudiante disruptivo protege al grupo y puede vulnerar su derecho a la educación; asignar los mejores docentes a los cursos con evaluación externa mejora resultados y perjudica a otros estudiantes; atender a la familia que reclama con más fuerza desplaza a la que no reclama. Ninguno se resuelve con una regla: exigen criterio, fundamento y registro.",
-    "practica": "El método consiste en explicitar el conflicto, identificar los derechos e intereses en juego, evaluar alternativas con su impacto sobre los más vulnerables, decidir y registrar el fundamento. El registro protege a la institución y, sobre todo, obliga a formular por escrito una justificación que muchas decisiones apresuradas no resistirían.",
-    "limites": "El marco normativo fija pisos y no resuelve la ponderación: cumplir la norma no equivale a decidir bien. Y el ejercicio directivo está condicionado por presiones reales —sostenedor, matrícula, resultados— que no desaparecen por reconocerlas. Explicitarlas permite decidir con conciencia del costo.",
+    "practica": "El método consiste en explicitar el conflicto, identificar los derechos e intereses en juego, evaluar alternativas con su impacto sobre los más vulnerables, decidir y registrar el fundamento. El registro protege a la institución y, sobre todo, obliga a formular por escrito una justificación que muchas decisiones apresuradas no resistirían. Una prueba útil antes de cerrar: si la decisión se publicara íntegra, con sus razones, ante la comunidad escolar, ¿se sostendría? Cuando la respuesta es no, el problema no es la comunicación sino la decisión.",
+    "limites": "El marco normativo fija pisos y no resuelve la ponderación: cumplir la norma no equivale a decidir bien. Y el ejercicio directivo está condicionado por presiones reales —sostenedor, matrícula, resultados— que no desaparecen por reconocerlas. Explicitarlas permite decidir con conciencia del costo y, cuando corresponde, dejar constancia de que se decidió en contra de una presión, que es lo que protege a quien venga después.",
     "errores": [
       "Asignar recursos según la presión recibida y no según la necesidad detectada.",
       "Tomar decisiones con impacto sobre derechos sin registrar el fundamento."
@@ -618,11 +618,11 @@
     "conceptos": [
       [
         "Plan de mejora",
-        "instrumento que articula diagnóstico, prioridades, acciones e indicadores institucionales"
+        "instrumento que articula diagnóstico, prioridades, acciones, responsables e indicadores institucionales en un horizonte declarado"
       ],
       [
         "Capacidad de ejecución",
-        "condiciones reales del equipo para sostener las acciones comprometidas"
+        "condiciones reales de tiempo, competencias y estabilidad del equipo para sostener las acciones que el plan compromete"
       ],
       [
         "Indicador desagregado",
@@ -633,9 +633,9 @@
         "posibilidad de mantener el plan más allá del entusiasmo inicial y del cambio de personas"
       ]
     ],
-    "desarrollo": "El proyecto integrador exige articular todo lo anterior con un criterio dominante: la capacidad real de ejecución. Un plan que excede lo que el equipo puede sostener produce incumplimiento, desgaste y pérdida de credibilidad para el siguiente intento. Por eso el plan se dimensiona a partir del tiempo y las capacidades disponibles, no a partir de lo deseable.",
-    "practica": "El plan se organiza en pocas prioridades, cada una desagregada en ciclos de mejora con responsables y plazos, con indicadores que se puedan desagregar por grupo. El sistema de seguimiento define quién revisa, cada cuánto y con qué consecuencia sobre las decisiones de recursos y tiempo.",
-    "limites": "Un plan bien diseñado no garantiza mejora: depende de la implementación, del contexto y de factores externos a la institución. Su valor es hacer explícitas las decisiones y producir evidencia sobre lo que se intentó, que es la base para el ciclo siguiente.",
+    "desarrollo": "El proyecto integrador exige articular todo lo anterior con un criterio dominante: la capacidad real de ejecución. Un plan que excede lo que el equipo puede sostener produce incumplimiento, desgaste y pérdida de credibilidad para el siguiente intento. Por eso el plan se dimensiona a partir del tiempo y las capacidades disponibles, no a partir de lo deseable. El diagnóstico que lo abre debe apoyarse en evidencia desagregada y no en percepciones del equipo directivo: la diferencia entre ambos suele ser el hallazgo más útil del proceso.",
+    "practica": "El plan se organiza en pocas prioridades, cada una desagregada en ciclos de mejora con responsables y plazos, con indicadores que se puedan desagregar por grupo. El sistema de seguimiento define quién revisa, cada cuánto y con qué consecuencia sobre las decisiones de recursos y tiempo. Cada acción declara además qué se deja de hacer para hacerla: sin esa columna, el plan agrega trabajo sobre una jornada que ya está completa.",
+    "limites": "Un plan bien diseñado no garantiza mejora: depende de la implementación, del contexto y de factores externos a la institución. Su valor es hacer explícitas las decisiones y producir evidencia sobre lo que se intentó, que es la base para el ciclo siguiente. Y su horizonte es más largo que el año escolar: los indicadores de aprendizaje se mueven en plazos que exceden a un plan anual, de modo que evaluarlo solo por resultados de un año induce cambios de rumbo prematuros.",
     "errores": [
       "Comprometer más acciones de las que el equipo puede ejecutar con su tiempo real.",
       "Definir indicadores sin desagregación, con lo que la equidad se vuelve indemostrable."

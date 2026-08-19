@@ -10,7 +10,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Accesibilidad de la información** — condición de que todo contenido esté disponible en un canal que el estudiante pueda usar. [Clase 247](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-07-discapacidad-visual-y-auditiva-estrategias-de-acceso/README.md)
 
-- **Accesibilidad declarada** — información sobre ajustes disponibles y cómo solicitarlos. [Clase 171](../curriculum/part-14-docencia-universitaria/class-03-syllabus-universitario/README.md)
+- **Accesibilidad declarada** — información explícita sobre qué ajustes están disponibles, cómo se solicitan y ante quién, publicada antes de que el estudiante los necesite. [Clase 171](../curriculum/part-14-docencia-universitaria/class-03-syllabus-universitario/README.md)
 
 - **Acceso físico** — condición del espacio, mobiliario y materiales que permite participar sin depender de terceros. [Clase 248](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-08-discapacidad-motora-y-comunicacion-aumentativa/README.md)
 
@@ -58,7 +58,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Acuerdo entre evaluadores** — grado en que dos personas asignan el mismo nivel al mismo desempeño. [Clase 077](../curriculum/part-06-educacion-tecnico-profesional/class-05-rubricas-de-desempeno/README.md)
 
 - **Acuerdo verificable** — compromiso concreto con responsable, plazo y forma de comprobación. [Clase 154](../curriculum/part-12-gestion-del-aula-y-convivencia/class-10-trabajo-con-apoderados/README.md)
-- **Acuerdo verificable** — compromiso específico con indicador y plazo. [Clase 184](../curriculum/part-15-gestion-y-liderazgo-educativo/class-04-feedback-a-docentes/README.md)
+- **Acuerdo verificable** — compromiso específico entre quien observa y quien enseña, con indicador observable, plazo declarado y fecha de revisión acordada. [Clase 184](../curriculum/part-15-gestion-y-liderazgo-educativo/class-04-feedback-a-docentes/README.md)
 
 - **Acumulación por adición** — dinámica por la cual se agregan tareas sin retirar ninguna, hasta que el conjunto se vuelve inejecutable. [Clase 285](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-09-carga-docente-tiempo-y-sostenibilidad/README.md)
 
@@ -121,7 +121,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Amenaza de estereotipo** — deterioro del desempeño cuando existe riesgo de confirmar un estereotipo sobre el propio grupo. [Clase 062](../curriculum/part-05-educacion-media-y-adolescencia/class-02-identidad-pertenencia-y-motivacion/README.md)
 
-- **Análisis de datos propios** — interpretación de los datos efectivamente obtenidos, incluidos los inesperados. [Clase 174](../curriculum/part-14-docencia-universitaria/class-06-laboratorios/README.md)
+- **Análisis de datos propios** — interpretación de los datos efectivamente obtenidos por el estudiante, incluidos los inesperados, en vez del contraste con un resultado previsto de antemano. [Clase 174](../curriculum/part-14-docencia-universitaria/class-06-laboratorios/README.md)
 
 - **Análisis de distractores** — revisión de qué alternativas incorrectas fueron elegidas y por quiénes. [Clase 142](../curriculum/part-11-evaluacion-y-psicometria/class-10-analisis-de-dificultad-y-discriminacion/README.md)
 
@@ -273,7 +273,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Autorregulación** — ciclo de planificar, ejecutar, monitorear y ajustar el propio aprendizaje. [Clase 021](../curriculum/part-01-ciencias-del-aprendizaje/class-09-metacognicion/README.md)
 
-- **Ayudantía** — apoyo docente ejercido por estudiantes avanzados con formación específica. [Clase 175](../curriculum/part-14-docencia-universitaria/class-07-tutorias-y-ayudantias/README.md)
+- **Ayudantía** — apoyo docente ejercido por estudiantes avanzados, con formación pedagógica específica y con alcance y responsabilidades declaradas. [Clase 175](../curriculum/part-14-docencia-universitaria/class-07-tutorias-y-ayudantias/README.md)
 
 ## B
 
@@ -317,9 +317,9 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Calidad educativa** — juicio sobre el valor de los procesos y resultados educativos; depende de los fines que se declaren. [Clase 011](../curriculum/part-00-fundamentos-de-la-educacion/class-11-calidad-y-equidad-educativa/README.md)
 
-- **Capacidad de ejecución** — condiciones reales del equipo para sostener las acciones comprometidas. [Clase 192](../curriculum/part-15-gestion-y-liderazgo-educativo/class-12-proyecto-integrador-plan-de-mejora-institucional/README.md)
+- **Capacidad de ejecución** — condiciones reales de tiempo, competencias y estabilidad del equipo para sostener las acciones que el plan compromete. [Clase 192](../curriculum/part-15-gestion-y-liderazgo-educativo/class-12-proyecto-integrador-plan-de-mejora-institucional/README.md)
 
-- **Capacidad institucional** — condiciones y competencias necesarias para implementar con fidelidad. [Clase 190](../curriculum/part-15-gestion-y-liderazgo-educativo/class-10-innovacion-educativa/README.md)
+- **Capacidad institucional** — conjunto de condiciones, tiempo y competencias que la institución necesita para implementar con fidelidad lo que decide adoptar. [Clase 190](../curriculum/part-15-gestion-y-liderazgo-educativo/class-10-innovacion-educativa/README.md)
 
 - **Capital cultural** — conjunto de disposiciones, códigos y saberes valorados por la escuela que no todos los hogares proveen. [Clase 008](../curriculum/part-00-fundamentos-de-la-educacion/class-08-rol-social-de-la-escuela/README.md)
 - **Capital cultural** — conjunto de referencias, códigos y disposiciones valoradas por la escuela y distribuidas de manera desigual. [Clase 265](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-01-lo-que-la-escuela-da-por-supuesto/README.md)
@@ -703,7 +703,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Debido proceso** — conjunto de garantías —información, defensa, plazos, proporcionalidad— antes de una sanción. [Clase 007](../curriculum/part-00-fundamentos-de-la-educacion/class-07-derecho-a-la-educacion/README.md)
 - **Debido proceso** — procedimiento justo ante una acusación de falta de integridad. [Clase 152](../curriculum/part-12-gestion-del-aula-y-convivencia/class-08-copias-plagio-e-integridad/README.md)
-- **Debido proceso** — garantías de evidencia, defensa y proporcionalidad ante una acusación. [Clase 177](../curriculum/part-14-docencia-universitaria/class-09-integridad-academica/README.md)
+- **Debido proceso** — conjunto de garantías —evidencia suficiente, derecho a defensa y proporcionalidad de la consecuencia— exigible antes de sancionar una acusación de deshonestidad. [Clase 177](../curriculum/part-14-docencia-universitaria/class-09-integridad-academica/README.md)
 
 - **Decisión asociada** — acción de enseñanza definida de antemano para cada resultado posible. [Clase 133](../curriculum/part-11-evaluacion-y-psicometria/class-01-evaluacion-diagnostica/README.md)
 
@@ -760,7 +760,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Desafío integrador** — tarea extensa que exige contenido disciplinar, autonomía y producto público. [Clase 072](../curriculum/part-05-educacion-media-y-adolescencia/class-12-proyecto-integrador-desafio-de-educacion-media/README.md)
 
-- **Desagregación** — descomposición del indicador por grupos para revelar brechas internas. [Clase 188](../curriculum/part-15-gestion-y-liderazgo-educativo/class-08-indicadores-educativos/README.md)
+- **Desagregación** — descomposición del indicador por grupos —nivel socioeconómico, género, curso, condición— para revelar las brechas que el promedio oculta. [Clase 188](../curriculum/part-15-gestion-y-liderazgo-educativo/class-08-indicadores-educativos/README.md)
 
 - **Desajuste etapa-ambiente** — desencuentro entre lo que la etapa demanda y lo que la escuela ofrece; explica la caída de motivación. [Clase 061](../curriculum/part-05-educacion-media-y-adolescencia/class-01-psicologia-de-la-adolescencia/README.md)
 
@@ -805,7 +805,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Detección** — identificación de señales que ameritan atención, función que sí corresponde a la escuela. [Clase 277](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-01-salud-mental-escolar-alcance-y-limites-de-la-escuela/README.md)
 
-- **Detección temprana** — identificación del atraso cuando todavía es corregible. [Clase 178](../curriculum/part-14-docencia-universitaria/class-10-proyectos-de-titulo/README.md)
+- **Detección temprana** — identificación del atraso mientras todavía es corregible, mediante hitos con fecha y una señal declarada que obliga a conversar. [Clase 178](../curriculum/part-14-docencia-universitaria/class-10-proyectos-de-titulo/README.md)
 
 - **Determinante organizacional** — condición del trabajo —carga, control, reconocimiento, comunidad, justicia— que predice el desgaste. [Clase 286](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-10-desgaste-profesional-y-su-prevencion-institucional/README.md)
 
@@ -1161,7 +1161,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Forma escolar** — conjunto de rasgos —aula, grupo por edad, horario, currículo— que hacen reconocible a una escuela. [Clase 002](../curriculum/part-00-fundamentos-de-la-educacion/class-02-historia-de-la-educacion/README.md)
 
-- **Formación del ayudante** — preparación pedagógica mínima para quien enseña sin ser docente. [Clase 175](../curriculum/part-14-docencia-universitaria/class-07-tutorias-y-ayudantias/README.md)
+- **Formación del ayudante** — preparación mínima de quien enseña sin ser docente: preguntar antes de explicar, exigir intento previo y localizar el punto de ruptura del razonamiento. [Clase 175](../curriculum/part-14-docencia-universitaria/class-07-tutorias-y-ayudantias/README.md)
 
 - **Formación dual** — modalidad en que el estudiante alterna formación en el establecimiento y en un puesto de trabajo real. [Clase 079](../curriculum/part-06-educacion-tecnico-profesional/class-07-aprendizaje-dual/README.md)
 
@@ -1268,7 +1268,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Indicador de proceso** — medida de actividad —accesos, tiempo, entregas— que no equivale a aprendizaje. [Clase 161](../curriculum/part-13-tecnologia-e-ia-educativa/class-05-analitica-de-aprendizaje/README.md)
 - **Indicador de proceso** — medida de lo que la institución hace; permite intervenir a tiempo. [Clase 188](../curriculum/part-15-gestion-y-liderazgo-educativo/class-08-indicadores-educativos/README.md)
 
-- **Indicador de resultado** — medida del logro alcanzado; informa pero no explica. [Clase 188](../curriculum/part-15-gestion-y-liderazgo-educativo/class-08-indicadores-educativos/README.md)
+- **Indicador de resultado** — medida del logro finalmente alcanzado; informa qué ocurrió, pero no explica por qué ni indica dónde intervenir. [Clase 188](../curriculum/part-15-gestion-y-liderazgo-educativo/class-08-indicadores-educativos/README.md)
 
 - **Indicador desagregado** — medida que muestra el efecto sobre distintos grupos de estudiantes. [Clase 192](../curriculum/part-15-gestion-y-liderazgo-educativo/class-12-proyecto-integrador-plan-de-mejora-institucional/README.md)
 - **Indicador desagregado** — medida presentada por grupo, que revela lo que el promedio oculta. [Clase 276](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-12-proyecto-integrador/README.md)
@@ -1474,7 +1474,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Mentoría estructurada** — acompañamiento de docentes con menos experiencia por parte de pares reconocidos, con roles definidos. [Clase 295](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-07-shanghai-practica-deliberada-entre-docentes/README.md)
 
-- **Meta verificable** — resultado esperado con indicador, línea base, plazo y responsable. [Clase 186](../curriculum/part-15-gestion-y-liderazgo-educativo/class-06-planificacion-estrategica/README.md)
+- **Meta verificable** — resultado esperado que declara indicador, línea base, plazo y responsable, de modo que su cumplimiento no dependa de la interpretación. [Clase 186](../curriculum/part-15-gestion-y-liderazgo-educativo/class-06-planificacion-estrategica/README.md)
 
 - **Metaanálisis** — síntesis cuantitativa que combina tamaños de efecto de estudios comparables. [Clase 209](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-05-meta-analisis-y-revision-sistematica/README.md)
 
@@ -1648,7 +1648,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Plan de gestión de aula** — conjunto articulado de decisiones preventivas y de respuesta para un curso. [Clase 156](../curriculum/part-12-gestion-del-aula-y-convivencia/class-12-proyecto-integrador-plan-de-gestion-de-aula/README.md)
 
-- **Plan de mejora** — instrumento que articula diagnóstico, prioridades, acciones e indicadores institucionales. [Clase 192](../curriculum/part-15-gestion-y-liderazgo-educativo/class-12-proyecto-integrador-plan-de-mejora-institucional/README.md)
+- **Plan de mejora** — instrumento que articula diagnóstico, prioridades, acciones, responsables e indicadores institucionales en un horizonte declarado. [Clase 192](../curriculum/part-15-gestion-y-liderazgo-educativo/class-12-proyecto-integrador-plan-de-mejora-institucional/README.md)
 
 - **Plan de mejoramiento educativo** — instrumento que vincula el uso de recursos con acciones y metas declaradas. [Clase 275](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-11-financiamiento-recursos-y-decisiones-pedagogicas/README.md)
 
@@ -1774,7 +1774,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Problema doctoral** — tensión, contradicción o vacío no resuelto que la comunidad del campo reconoce como relevante. [Clase 205](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-01-problema-doctoral-y-originalidad/README.md)
 
-- **Problema específico** — dificultad delimitada y observable, distinta de un objetivo general. [Clase 189](../curriculum/part-15-gestion-y-liderazgo-educativo/class-09-mejora-escolar/README.md)
+- **Problema específico** — dificultad delimitada, observable y acotada a un grupo y un plazo, distinta de un objetivo general o de una aspiración institucional. [Clase 189](../curriculum/part-15-gestion-y-liderazgo-educativo/class-09-mejora-escolar/README.md)
 
 - **Problema mal estructurado** — situación sin una única solución correcta ni un procedimiento evidente; exige decisiones. [Clase 066](../curriculum/part-05-educacion-media-y-adolescencia/class-06-aprendizaje-basado-en-problemas/README.md)
 
@@ -2186,7 +2186,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Tiempo lectivo reducido** — condición estructural que libera horas para el trabajo colectivo dentro de la jornada. [Clase 295](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-07-shanghai-practica-deliberada-entre-docentes/README.md)
 
-- **Tiempo protegido** — espacio en la jornada destinado exclusivamente al trabajo colectivo. [Clase 185](../curriculum/part-15-gestion-y-liderazgo-educativo/class-05-comunidades-profesionales-de-aprendizaje/README.md)
+- **Tiempo protegido** — espacio dentro de la jornada laboral destinado exclusivamente al trabajo colectivo, que no se cede ante urgencias administrativas. [Clase 185](../curriculum/part-15-gestion-y-liderazgo-educativo/class-05-comunidades-profesionales-de-aprendizaje/README.md)
 
 - **Tiempo real disponible** — horas efectivas de clase descontando evaluaciones, actos, interrupciones y ausencias. [Clase 057](../curriculum/part-04-educacion-basica/class-09-planificacion-de-unidades/README.md)
 
@@ -2258,7 +2258,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Uso comunicativo** — empleo de la lengua para transmitir contenido real, no para exhibir estructuras aprendidas. [Clase 270](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-06-ensenanza-de-lenguas-extranjeras/README.md)
 
-- **Uso declarado** — exigencia de explicitar qué herramientas se usaron y cómo. [Clase 177](../curriculum/part-14-docencia-universitaria/class-09-integridad-academica/README.md)
+- **Uso declarado** — exigencia de explicitar qué herramientas se usaron, en qué parte del trabajo y con qué finalidad, como condición de aceptación de la entrega. [Clase 177](../curriculum/part-14-docencia-universitaria/class-09-integridad-academica/README.md)
 - **Uso declarado** — acuerdo explícito sobre para qué se usará la información y quién la verá. [Clase 183](../curriculum/part-15-gestion-y-liderazgo-educativo/class-03-observacion-de-clases/README.md)
 
 - **Uso del tiempo presencial** — actividades que aprovechan la presencia del docente y de los pares. [Clase 130](../curriculum/part-10-didactica-avanzada/class-10-flipped-classroom/README.md)

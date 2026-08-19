@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Laboratorio de receta** | práctica en que el procedimiento está completamente prescrito y el resultado es conocido |
 | **Decisión experimental** | elección que el estudiante debe tomar y justificar durante la práctica |
-| **Análisis de datos propios** | interpretación de los datos efectivamente obtenidos, incluidos los inesperados |
+| **Análisis de datos propios** | interpretación de los datos efectivamente obtenidos por el estudiante, incluidos los inesperados, en vez del contraste con un resultado previsto de antemano |
 | **Incertidumbre** | reconocimiento del error de medición y de sus consecuencias en la conclusión |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Un laboratorio de receta enseña a seguir instrucciones. La evidencia sobre laboratorios universitarios sugiere que las prácticas prescritas aportan poco al aprendizaje conceptual, mientras que aquellas donde el estudiante debe tomar decisiones —qué medir, cómo controlar, cómo interpretar la discrepancia— desarrollan comprensión del razonamiento experimental, que es lo que la disciplina realmente exige.
+Un laboratorio de receta enseña a seguir instrucciones. La evidencia sobre laboratorios universitarios sugiere que las prácticas prescritas aportan poco al aprendizaje conceptual, mientras que aquellas donde el estudiante debe tomar decisiones —qué medir, cómo controlar, cómo interpretar la discrepancia— desarrollan comprensión del razonamiento experimental, que es lo que la disciplina realmente exige. El punto crítico es qué se hace con los datos inesperados: en el formato de receta se descartan como error de ejecución, y en el formato de decisión son precisamente el material de la clase.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Laboratorio de r
 mismo que **Decisión experimental** —elección que el estudiante debe tomar y justificar durante la práctica—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Análisis de datos propios** y
 **Incertidumbre** describen aspectos distintos de la misma situación: el primero
-interpretación de los datos efectivamente obtenidos, incluidos los inesperados, mientras el segundo reconocimiento del error de medición y de sus consecuencias en la conclusión.
+interpretación de los datos efectivamente obtenidos por el estudiante, incluidos los inesperados, en vez del contraste con un resultado previsto de antemano, mientras el segundo reconocimiento del error de medición y de sus consecuencias en la conclusión.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -125,7 +125,7 @@ El rediseño consiste en devolver decisiones: dar el objetivo y no el procedimie
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El rediseño consume más tiempo y exige más apoyo, lo que en cursos numerosos tiene un costo real. Y en fases iniciales, cierta prescripción es necesaria por seguridad y por dominio técnico. La progresión razonable va de procedimientos guiados a decisiones crecientes.
+El rediseño consume más tiempo y exige más apoyo, lo que en cursos numerosos tiene un costo real. Y en fases iniciales, cierta prescripción es necesaria por seguridad y por dominio técnico. La progresión razonable va de procedimientos guiados a decisiones crecientes. También conviene declarar el límite de la evidencia disponible: buena parte proviene de física e ingeniería, y su traslado a laboratorios de biología, química clínica o disciplinas con protocolos normados exige ajuste.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

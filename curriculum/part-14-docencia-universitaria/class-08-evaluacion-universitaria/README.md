@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El sistema típico —dos pruebas y un examen— produce estudio concentrado, mala retención y retroalimentación inútil por tardía. La alternativa distribuida mejora el aprendizaje y colapsa al docente si no se diseña la carga de corrección. La combinación viable incluye instancias breves de baja consecuencia con corrección automática o entre pares, y pocas instancias extensas con retroalimentación docente en profundidad.
+El sistema típico —dos pruebas y un examen— produce estudio concentrado, mala retención y retroalimentación inútil por tardía. La alternativa distribuida mejora el aprendizaje y colapsa al docente si no se diseña la carga de corrección. La combinación viable incluye instancias breves de baja consecuencia con corrección automática o entre pares, y pocas instancias extensas con retroalimentación docente en profundidad. La distribución tiene además un efecto sobre el estudio que la evidencia respalda con claridad: obliga a recuperar contenido varias veces a lo largo del semestre en vez de una sola vez antes del examen.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El cálculo de carga es la decisión central: multiplicar número de estudiantes por minutos de corrección da el número real de horas comprometidas. Con ese dato se diseña: qué se corrige en profundidad, qué se revisa por muestreo, qué se retroalimenta entre pares con rúbrica y qué se autocorrige con pauta.
+El cálculo de carga es la decisión central: multiplicar número de estudiantes por minutos de corrección da el número real de horas comprometidas. Con ese dato se diseña: qué se corrige en profundidad, qué se revisa por muestreo, qué se retroalimenta entre pares con rúbrica y qué se autocorrige con pauta. La regla práctica es fijar el presupuesto de horas de corrección antes de decidir cuántas evaluaciones habrá, y no al revés, que es como se llega a diciembre con trabajos sin devolver.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La retroalimentación entre pares tiene calidad variable y requiere formación y criterios; sin ellos produce comentarios vagos. Y la corrección automática solo sirve para ciertos desempeños. Ningún sistema elimina la necesidad de juicio docente en las evaluaciones con mayor consecuencia.
+La retroalimentación entre pares tiene calidad variable y requiere formación y criterios; sin ellos produce comentarios vagos. Y la corrección automática solo sirve para ciertos desempeños. Ningún sistema elimina la necesidad de juicio docente en las evaluaciones con mayor consecuencia. Conviene además vigilar el efecto contrario de la distribución: multiplicar instancias pequeñas puede generar una sensación de evaluación permanente que aumenta la ansiedad sin agregar aprendizaje.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 
@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-La evaluación concentrada penaliza a estudiantes que trabajan o tienen responsabilidades de cuidado, porque exige disponibilidad total en semanas específicas. La distribución reduce esa barrera estructural.
+La evaluación concentrada penaliza a estudiantes que trabajan o tienen responsabilidades de cuidado, porque exige disponibilidad total en semanas específicas. La distribución reduce esa barrera estructural, siempre que las fechas se publiquen al inicio del semestre y no se agreguen instancias sobre la marcha, que es lo que vuelve imposible organizar el tiempo a quien no dispone de él con holgura.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

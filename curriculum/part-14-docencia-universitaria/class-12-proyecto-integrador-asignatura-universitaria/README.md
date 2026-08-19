@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El proyecto integrador exige que las decisiones de la parte funcionen juntas: alineamiento con el perfil, métodos que exijan procesamiento activo, evaluación distribuida y sostenible, y carga realista. La prueba de calidad es la revisión de pares: entregar el diseño a un colega y responder sus objeciones sin recurrir a la costumbre o a la autoridad disciplinar.
+El proyecto integrador exige que las decisiones de la parte funcionen juntas: alineamiento con el perfil, métodos que exijan procesamiento activo, evaluación distribuida y sostenible, y carga realista. La prueba de calidad es la revisión de pares: entregar el diseño a un colega y responder sus objeciones sin recurrir a la costumbre o a la autoridad disciplinar. La coherencia se verifica en una tabla: cada resultado de aprendizaje declarado debe tener al menos una actividad que lo desarrolle y una evidencia que lo compruebe, y toda fila incompleta señala una decisión pendiente.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El análisis final debe distinguir tres fuentes: resultados de aprendizaje, percepción de los estudiantes y observación del propio docente. Cuando divergen —buena evaluación docente con bajo aprendizaje, por ejemplo— la divergencia es la información más valiosa y la que orienta la siguiente versión.
+El análisis final debe distinguir tres fuentes: resultados de aprendizaje, percepción de los estudiantes y observación del propio docente. Cuando divergen —buena evaluación docente con bajo aprendizaje, por ejemplo— la divergencia es la información más valiosa y la que orienta la siguiente versión. Conviene registrar ese análisis por escrito al cerrar el semestre, cuando todavía se recuerda qué ocurrió: la memoria de marzo siguiente conserva la impresión general y pierde el detalle que permitía corregir.
 
 ### 5. Qué sostiene la evidencia y qué no
 

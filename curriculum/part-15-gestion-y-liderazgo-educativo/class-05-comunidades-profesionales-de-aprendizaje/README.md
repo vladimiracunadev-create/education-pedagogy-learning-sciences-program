@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Comunidad profesional de aprendizaje** | grupo docente que indaga colectivamente sobre el aprendizaje de sus estudiantes |
 | **Trabajo con evidencia** | uso de trabajos de estudiantes y datos reales como material de la conversación |
-| **Tiempo protegido** | espacio en la jornada destinado exclusivamente al trabajo colectivo |
+| **Tiempo protegido** | espacio dentro de la jornada laboral destinado exclusivamente al trabajo colectivo, que no se cede ante urgencias administrativas |
 | **Producto del ciclo** | resultado concreto —instrumento, secuencia, acuerdo— que deja cada período de trabajo |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La mayoría de las reuniones docentes se ocupa de coordinación administrativa. Una comunidad profesional de aprendizaje se distingue por su material: trabajos de estudiantes, datos de una evaluación, registros de clase. La conversación deja de ser sobre opiniones y pasa a ser sobre evidencia, que es lo que permite acordar acciones y verificar su efecto.
+La mayoría de las reuniones docentes se ocupa de coordinación administrativa. Una comunidad profesional de aprendizaje se distingue por su material: trabajos de estudiantes, datos de una evaluación, registros de clase. La conversación deja de ser sobre opiniones y pasa a ser sobre evidencia, que es lo que permite acordar acciones y verificar su efecto. La segunda distinción es el ciclo: la comunidad no se reúne a comentar, se reúne a probar algo acordado y a volver con lo que ocurrió, de modo que cada sesión tiene un antes y un después observables.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Comunidad profes
 mismo que **Trabajo con evidencia** —uso de trabajos de estudiantes y datos reales como material de la conversación—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Tiempo protegido** y
 **Producto del ciclo** describen aspectos distintos de la misma situación: el primero
-espacio en la jornada destinado exclusivamente al trabajo colectivo, mientras el segundo resultado concreto —instrumento, secuencia, acuerdo— que deja cada período de trabajo.
+espacio dentro de la jornada laboral destinado exclusivamente al trabajo colectivo, que no se cede ante urgencias administrativas, mientras el segundo resultado concreto —instrumento, secuencia, acuerdo— que deja cada período de trabajo.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño exige tres condiciones concretas: tiempo en la jornada —no después de la jornada—, foco definido por ciclo y un producto verificable al final. Sin producto, el trabajo colectivo se percibe como conversación sin consecuencia y la asistencia decae, con razón.
+El diseño exige tres condiciones concretas: tiempo en la jornada —no después de la jornada—, foco definido por ciclo y un producto verificable al final. Sin producto, el trabajo colectivo se percibe como conversación sin consecuencia y la asistencia decae, con razón. Conviene además fijar reglas de conversación: mirar el trabajo del estudiante antes que la intención del docente, y separar la descripción de lo observado del juicio sobre quien enseñó.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-Las comunidades que trabajan con evidencia desagregada detectan qué estudiantes están quedando fuera de forma sistemática, que es información que ningún promedio institucional entrega.
+Las comunidades que trabajan con evidencia desagregada detectan qué estudiantes están quedando fuera de forma sistemática, que es información que ningún promedio institucional entrega. Mirar los trabajos del tercio más bajo, y no una muestra representativa, es la práctica que convierte la instancia en un instrumento de equidad y no en una revisión de lo que ya funciona.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

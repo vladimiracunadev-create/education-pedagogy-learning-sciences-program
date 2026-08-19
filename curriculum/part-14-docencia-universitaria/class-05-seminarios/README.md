@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Los roles rotativos —quien presenta, quien objeta, quien conecta con la sesión anterior, quien sintetiza— distribuyen la participación y evitan que dominen los mismos. Y la evaluación debe premiar la contribución intelectual y no el volumen de habla, lo que exige criterios explícitos y registro durante la sesión.
+Los roles rotativos —quien presenta, quien objeta, quien conecta con la sesión anterior, quien sintetiza— distribuyen la participación y evitan que dominen los mismos. Y la evaluación debe premiar la contribución intelectual y no el volumen de habla, lo que exige criterios explícitos y registro durante la sesión. La entrega escrita previa cumple una segunda función: obliga a leer antes y le permite al docente conducir la sesión sabiendo dónde está el desacuerdo del grupo.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-No hay evidencia experimental sólida sobre formatos de seminario: es conocimiento profesional consolidado. Su eficacia depende del tamaño del grupo —sobre quince participantes la discusión real se vuelve difícil— y de la preparación previa, que es la variable crítica.
+No hay evidencia experimental sólida sobre formatos de seminario: es conocimiento profesional consolidado. Su eficacia depende del tamaño del grupo —sobre quince participantes la discusión real se vuelve difícil— y de la preparación previa, que es la variable crítica. Hay además un riesgo persistente de desigualdad en el uso de la palabra, documentado en aulas universitarias, que sin reglas explícitas reproduce jerarquías de género, origen y trayectoria previa.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 
@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-La entrega escrita previa permite participar a estudiantes que no intervienen espontáneamente, y los roles asignados garantizan que todos tengan un espacio definido en la discusión.
+La entrega escrita previa permite participar a estudiantes que no intervienen espontáneamente, y los roles asignados garantizan que todos tengan un espacio definido en la discusión. Registrar quién habla durante dos sesiones suele ser suficiente para hacer visible una distribución que nadie había notado y que ningún llamado general a participar corrige.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

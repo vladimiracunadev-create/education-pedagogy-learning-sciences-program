@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-En educación, muchas palancas clásicas de gestión —remuneración, contratación, desvinculación— están limitadas por la normativa y por la estructura institucional. Las que quedan disponibles son potentes y poco usadas: claridad de rol, distribución justa de la carga, oportunidades reales de desarrollo, conversaciones honestas y reconocimiento específico del trabajo bien hecho.
+En educación, muchas palancas clásicas de gestión —remuneración, contratación, desvinculación— están limitadas por la normativa y por la estructura institucional. Las que quedan disponibles son potentes y poco usadas: claridad de rol, distribución justa de la carga, oportunidades reales de desarrollo, conversaciones honestas y reconocimiento específico del trabajo bien hecho. La evidencia sobre condiciones de trabajo apunta en la misma dirección: autonomía profesional, sentido de eficacia colectiva y percepción de equidad predicen permanencia mejor que cualquier incentivo individual disponible en el sistema escolar.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La distribución de la carga es la fuente más frecuente de conflicto y la menos transparente: las tareas invisibles —jefaturas de curso, atención de apoderados, suplencias— se acumulan en las mismas personas. Hacerla explícita y revisarla en equipo resuelve más problemas de clima que cualquier actividad de integración.
+La distribución de la carga es la fuente más frecuente de conflicto y la menos transparente: las tareas invisibles —jefaturas de curso, atención de apoderados, suplencias— se acumulan en las mismas personas. Hacerla explícita y revisarla en equipo resuelve más problemas de clima que cualquier actividad de integración. Un ejercicio directo es construir la matriz de tareas no lectivas por docente y presentarla al consejo: la sola visibilidad redistribuye, porque nadie sostiene públicamente una asignación que no puede justificar.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La gestión de equipos en educación está condicionada por la normativa laboral y por la estructura del sistema, que varían por país y por dependencia. Y no hay evidencia experimental sobre prácticas de gestión educativa: es conocimiento profesional que exige ajuste al contexto.
+La gestión de equipos en educación está condicionada por la normativa laboral y por la estructura del sistema, que varían por país y por dependencia. Y no hay evidencia experimental sobre prácticas de gestión educativa: es conocimiento profesional que exige ajuste al contexto. Conviene además reconocer un límite de rol: un equipo directivo puede mejorar condiciones locales, y no puede compensar por sí solo salarios, tamaño de curso ni estabilidad contractual, que son decisiones de otro nivel del sistema.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 

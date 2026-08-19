@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El método consiste en explicitar el conflicto, identificar los derechos e intereses en juego, evaluar alternativas con su impacto sobre los más vulnerables, decidir y registrar el fundamento. El registro protege a la institución y, sobre todo, obliga a formular por escrito una justificación que muchas decisiones apresuradas no resistirían.
+El método consiste en explicitar el conflicto, identificar los derechos e intereses en juego, evaluar alternativas con su impacto sobre los más vulnerables, decidir y registrar el fundamento. El registro protege a la institución y, sobre todo, obliga a formular por escrito una justificación que muchas decisiones apresuradas no resistirían. Una prueba útil antes de cerrar: si la decisión se publicara íntegra, con sus razones, ante la comunidad escolar, ¿se sostendría? Cuando la respuesta es no, el problema no es la comunicación sino la decisión.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El marco normativo fija pisos y no resuelve la ponderación: cumplir la norma no equivale a decidir bien. Y el ejercicio directivo está condicionado por presiones reales —sostenedor, matrícula, resultados— que no desaparecen por reconocerlas. Explicitarlas permite decidir con conciencia del costo.
+El marco normativo fija pisos y no resuelve la ponderación: cumplir la norma no equivale a decidir bien. Y el ejercicio directivo está condicionado por presiones reales —sostenedor, matrícula, resultados— que no desaparecen por reconocerlas. Explicitarlas permite decidir con conciencia del costo y, cuando corresponde, dejar constancia de que se decidió en contra de una presión, que es lo que protege a quien venga después.
 
 > **Cómo leer el estado de evidencia `MARCO-NORMATIVO`.** El contenido no se decide por evidencia empírica sino por norma, política pública o marco institucional vigente. Verifica siempre la versión vigente a la fecha en que vas a aplicarlo: la norma cambia y la clase no se actualiza sola.
 

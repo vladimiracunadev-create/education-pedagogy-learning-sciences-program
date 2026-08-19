@@ -39,9 +39,9 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Indicador de resultado** | medida del logro alcanzado; informa pero no explica |
+| **Indicador de resultado** | medida del logro finalmente alcanzado; informa qué ocurrió, pero no explica por qué ni indica dónde intervenir |
 | **Indicador de proceso** | medida de lo que la institución hace; permite intervenir a tiempo |
-| **Desagregación** | descomposición del indicador por grupos para revelar brechas internas |
+| **Desagregación** | descomposición del indicador por grupos —nivel socioeconómico, género, curso, condición— para revelar las brechas que el promedio oculta |
 | **Efecto de indicador** | distorsión de la conducta institucional producida por lo que se mide |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los sistemas educativos recolectan muchos datos y usan pocos. Un tablero útil tiene pocos indicadores, combina resultado y proceso, se desagrega para mostrar brechas y declara sus límites. La desagregación es la decisión más importante: un promedio institucional puede mejorar mientras el grupo más rezagado empeora, y esa es exactamente la información que una institución con foco en equidad necesita.
+Los sistemas educativos recolectan muchos datos y usan pocos. Un tablero útil tiene pocos indicadores, combina resultado y proceso, se desagrega para mostrar brechas y declara sus límites. La desagregación es la decisión más importante: un promedio institucional puede mejorar mientras el grupo más rezagado empeora, y esa es exactamente la información que una institución con foco en equidad necesita. Conviene además distinguir indicadores de resultado, que informan qué pasó, de indicadores de proceso, que son los únicos sobre los que el equipo puede actuar esta semana.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Indicador de res
 mismo que **Indicador de proceso** —medida de lo que la institución hace; permite intervenir a tiempo—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Desagregación** y
 **Efecto de indicador** describen aspectos distintos de la misma situación: el primero
-descomposición del indicador por grupos para revelar brechas internas, mientras el segundo distorsión de la conducta institucional producida por lo que se mide.
+descomposición del indicador por grupos —nivel socioeconómico, género, curso, condición— para revelar las brechas que el promedio oculta, mientras el segundo distorsión de la conducta institucional producida por lo que se mide.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Cada indicador debe tener una decisión asociada: si baja la asistencia de un grupo, se activa un protocolo; si sube la reprobación en una asignatura, se revisa su enseñanza. Los indicadores sin decisión asociada se recolectan por inercia y consumen tiempo que rendiría más en otra parte.
+Cada indicador debe tener una decisión asociada: si baja la asistencia de un grupo, se activa un protocolo; si sube la reprobación en una asignatura, se revisa su enseñanza. Los indicadores sin decisión asociada se recolectan por inercia y consumen tiempo que rendiría más en otra parte. Una regla práctica: si nadie puede nombrar la última decisión que se tomó con un indicador, ese indicador sale del tablero.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Todo indicador induce conducta: lo que se mide se prioriza y lo que no se mide se abandona. Los sistemas de rendición de cuentas de alta consecuencia producen efectos documentados de estrechamiento curricular y de selección de estudiantes. Diseñar indicadores incluye anticipar esos efectos.
+Todo indicador induce conducta: lo que se mide se prioriza y lo que no se mide se abandona. Los sistemas de rendición de cuentas de alta consecuencia producen efectos documentados de estrechamiento curricular y de selección de estudiantes. Diseñar indicadores incluye anticipar esos efectos y, cuando se pueda, medir también aquello que el sistema podría estar sacrificando para mejorar la cifra observada.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Indicador de resultado** | Medida del logro alcanzado; informa pero no explica | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Indicador de resultado** | Medida del logro finalmente alcanzado; informa qué ocurrió, pero no explica por qué ni indica dónde intervenir | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Indicador de proceso** | Medida de lo que la institución hace; permite intervenir a tiempo | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

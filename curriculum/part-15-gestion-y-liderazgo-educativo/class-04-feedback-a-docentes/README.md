@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Retroalimentación basada en evidencia** | conversación anclada en lo observado y no en impresiones generales |
 | **Foco en la práctica** | centrar la conversación en decisiones docentes concretas y no en atributos de la persona |
-| **Acuerdo verificable** | compromiso específico con indicador y plazo |
+| **Acuerdo verificable** | compromiso específico entre quien observa y quien enseña, con indicador observable, plazo declarado y fecha de revisión acordada |
 | **Seguimiento** | instancia posterior en que se revisa el acuerdo, sin la cual la conversación se disuelve |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La retroalimentación a docentes fracasa por las mismas razones que la retroalimentación a estudiantes: se dirige a la persona, es general y no tiene seguimiento. La versión que funciona presenta evidencia concreta —lo que se observó, con datos—, pregunta antes de afirmar, se centra en una decisión pedagógica específica y termina con un acuerdo verificable y una fecha.
+La retroalimentación a docentes fracasa por las mismas razones que la retroalimentación a estudiantes: se dirige a la persona, es general y no tiene seguimiento. La versión que funciona presenta evidencia concreta —lo que se observó, con datos—, pregunta antes de afirmar, se centra en una decisión pedagógica específica y termina con un acuerdo verificable y una fecha. La secuencia importa: preguntar primero permite que el docente explique la razón de lo observado, que muchas veces es una restricción que el observador no conocía, y evita corregir una decisión que era correcta para ese contexto.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Retroalimentaci�
 mismo que **Foco en la práctica** —centrar la conversación en decisiones docentes concretas y no en atributos de la persona—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Acuerdo verificable** y
 **Seguimiento** describen aspectos distintos de la misma situación: el primero
-compromiso específico con indicador y plazo, mientras el segundo instancia posterior en que se revisa el acuerdo, sin la cual la conversación se disuelve.
+compromiso específico entre quien observa y quien enseña, con indicador observable, plazo declarado y fecha de revisión acordada, mientras el segundo instancia posterior en que se revisa el acuerdo, sin la cual la conversación se disuelve.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -125,7 +125,7 @@ La estructura de la conversación importa: empezar con la lectura del propio doc
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El coaching instruccional muestra efectos positivos en programas bien implementados, con caída al escalar. Y su eficacia depende de que la persona que retroalimenta tenga credibilidad pedagógica: un directivo que no puede explicar cómo haría la clase pierde autoridad técnica en la conversación.
+El coaching instruccional muestra efectos positivos en programas bien implementados, con caída al escalar. Y su eficacia depende de que la persona que retroalimenta tenga credibilidad pedagógica: un directivo que no puede explicar cómo haría la clase pierde autoridad técnica en la conversación. A eso se suma una restricción de tiempo raramente reconocida: el ciclo completo —observar, preparar, conversar, seguir— exige del orden de dos horas por docente y por ciclo, y sin ese tiempo protegido el modelo se degrada a una visita con comentarios.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

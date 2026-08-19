@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Prioridad estratégica** | foco que concentra recursos y atención; su número debe ser pequeño para ser real |
-| **Meta verificable** | resultado esperado con indicador, línea base, plazo y responsable |
+| **Meta verificable** | resultado esperado que declara indicador, línea base, plazo y responsable, de modo que su cumplimiento no dependa de la interpretación |
 | **Línea base** | valor inicial del indicador, sin el cual no se puede afirmar mejora |
 | **Seguimiento** | instancia periódica que revisa avance y ajusta, con consecuencias sobre las decisiones |
 
@@ -88,13 +88,13 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los planes estratégicos fracasan por tres razones recurrentes: demasiadas prioridades, metas sin línea base ni indicador, y ausencia de seguimiento con consecuencias. El resultado es un documento que se escribe para cumplir un requisito y que nadie usa para decidir. Un plan útil tiene pocas prioridades, metas que se pueden verificar y una instancia periódica donde se decide con sus datos.
+Los planes estratégicos fracasan por tres razones recurrentes: demasiadas prioridades, metas sin línea base ni indicador, y ausencia de seguimiento con consecuencias. El resultado es un documento que se escribe para cumplir un requisito y que nadie usa para decidir. Un plan útil tiene pocas prioridades, metas que se pueden verificar y una instancia periódica donde se decide con sus datos. En el sistema chileno esa tensión es visible en los planes de mejoramiento educativo: el instrumento existe, es obligatorio y su calidad varía enormemente según si el equipo lo usa para conducir o para rendir cuenta.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Prioridad estratégica** no es lo
-mismo que **Meta verificable** —resultado esperado con indicador, línea base, plazo y responsable—, y tratarlos como sinónimos hace
+mismo que **Meta verificable** —resultado esperado que declara indicador, línea base, plazo y responsable, de modo que su cumplimiento no dependa de la interpretación—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Línea base** y
 **Seguimiento** describen aspectos distintos de la misma situación: el primero
 valor inicial del indicador, sin el cual no se puede afirmar mejora, mientras el segundo instancia periódica que revisa avance y ajusta, con consecuencias sobre las decisiones.
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La disciplina más difícil es decidir qué no se hará: una institución que declara ocho prioridades no tiene ninguna. Y cada meta necesita línea base: sin ella, cualquier resultado se puede narrar como avance. El seguimiento debe tener consecuencias sobre asignación de tiempo y recursos, o se convierte en un reporte más.
+La disciplina más difícil es decidir qué no se hará: una institución que declara ocho prioridades no tiene ninguna. Y cada meta necesita línea base: sin ella, cualquier resultado se puede narrar como avance. El seguimiento debe tener consecuencias sobre asignación de tiempo y recursos, o se convierte en un reporte más. Una prueba práctica de calidad del plan es entregárselo a un docente que no participó en su elaboración y preguntarle qué cambia en su semana: si no puede responder, el plan todavía no aterriza.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-No hay evidencia sólida sobre modelos de planificación estratégica en educación: es conocimiento profesional y de gestión. Lo que sí está documentado es que las instituciones que sostienen pocas prioridades durante varios años obtienen mejores resultados que las que cambian de foco cada año.
+No hay evidencia sólida sobre modelos de planificación estratégica en educación: es conocimiento profesional y de gestión. Lo que sí está documentado es que las instituciones que sostienen pocas prioridades durante varios años obtienen mejores resultados que las que cambian de foco cada año. También está documentado el efecto contrario del exceso de iniciativas simultáneas, que compiten por el mismo tiempo docente y terminan ejecutándose todas a medias.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Prioridad estratégica** | Foco que concentra recursos y atención; su número debe ser pequeño para ser real | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Meta verificable** | Resultado esperado con indicador, línea base, plazo y responsable | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Meta verificable** | Resultado esperado que declara indicador, línea base, plazo y responsable, de modo que su cumplimiento no dependa de la interpretación | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

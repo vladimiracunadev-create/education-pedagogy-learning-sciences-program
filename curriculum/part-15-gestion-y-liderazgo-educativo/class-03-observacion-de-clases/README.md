@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El protocolo se acuerda antes con el equipo: qué se observará, con qué instrumento, con qué frecuencia, quién accede a los registros y qué ocurre con ellos. Un foco acotado —por ejemplo, verificación de comprensión— produce conversaciones útiles; una pauta que evalúa treinta aspectos produce juicios generales y defensas.
+El protocolo se acuerda antes con el equipo: qué se observará, con qué instrumento, con qué frecuencia, quién accede a los registros y qué ocurre con ellos. La distinción decisiva es entre observación para el desarrollo profesional y observación para la evaluación del desempeño: mezclarlas sin declararlo es lo que destruye la confianza. Un foco acotado —por ejemplo, verificación de comprensión— produce conversaciones útiles; una pauta que evalúa treinta aspectos produce juicios generales y defensas.
 
 ### 5. Qué sostiene la evidencia y qué no
 

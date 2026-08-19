@@ -41,8 +41,8 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Integridad académica** | conjunto de normas sobre autoría, honestidad y atribución en el trabajo académico |
 | **Evaluación resistente** | tarea que no puede resolverse sin el aprendizaje que declara evaluar |
-| **Uso declarado** | exigencia de explicitar qué herramientas se usaron y cómo |
-| **Debido proceso** | garantías de evidencia, defensa y proporcionalidad ante una acusación |
+| **Uso declarado** | exigencia de explicitar qué herramientas se usaron, en qué parte del trabajo y con qué finalidad, como condición de aceptación de la entrega |
+| **Debido proceso** | conjunto de garantías —evidencia suficiente, derecho a defensa y proporcionalidad de la consecuencia— exigible antes de sancionar una acusación de deshonestidad |
 
 ## 🧠 Modelo mental
 
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-En educación superior la integridad se sostenía en gran parte sobre la verificación de autoría del texto, y esa base se debilitó. Las respuestas viables combinan tres líneas: evaluaciones donde el producto exige aprendizaje verificable —defensa oral, trabajo sobre datos propios, producción supervisada—, políticas explícitas de uso declarado, y formación en las razones de la integridad, no solo en sus sanciones.
+En educación superior la integridad se sostenía en gran parte sobre la verificación de autoría del texto, y esa base se debilitó. Las respuestas viables combinan tres líneas: evaluaciones donde el producto exige aprendizaje verificable —defensa oral, trabajo sobre datos propios, producción supervisada—, políticas explícitas de uso declarado, y formación en las razones de la integridad, no solo en sus sanciones. La evidencia disponible sobre deshonestidad académica apunta además a factores de diseño: la presión por la nota, la percepción de que otros lo hacen y la sensación de que la tarea no tiene sentido predicen la conducta mejor que cualquier rasgo personal.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Integridad acad�
 mismo que **Evaluación resistente** —tarea que no puede resolverse sin el aprendizaje que declara evaluar—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Uso declarado** y
 **Debido proceso** describen aspectos distintos de la misma situación: el primero
-exigencia de explicitar qué herramientas se usaron y cómo, mientras el segundo garantías de evidencia, defensa y proporcionalidad ante una acusación.
+exigencia de explicitar qué herramientas se usaron, en qué parte del trabajo y con qué finalidad, como condición de aceptación de la entrega, mientras el segundo conjunto de garantías —evidencia suficiente, derecho a defensa y proporcionalidad de la consecuencia— exigible antes de sancionar una acusación de deshonestidad.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La política de asignatura debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos. Y el procedimiento ante sospecha debe respetar debido proceso: los detectores automáticos no constituyen evidencia suficiente y su uso como prueba ha producido acusaciones injustas con consecuencias graves.
+La política de asignatura debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos. Y el procedimiento ante sospecha debe respetar debido proceso: los detectores automáticos no constituyen evidencia suficiente y su uso como prueba ha producido acusaciones injustas con consecuencias graves. Ante una sospecha, el procedimiento defendible es una conversación sobre el proceso de trabajo —cómo llegó a esta decisión, qué descartó, qué haría distinto— que un estudiante que hizo el trabajo puede sostener sin dificultad.
 
 ### 5. Qué sostiene la evidencia y qué no
 

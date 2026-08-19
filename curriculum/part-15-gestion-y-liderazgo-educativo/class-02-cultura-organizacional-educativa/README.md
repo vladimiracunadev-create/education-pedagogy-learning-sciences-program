@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diagnóstico se hace con evidencia observable y conversaciones, no con encuestas de clima. Y la estrategia se ajusta: empezar por cambios que la cultura tolera, mostrar resultados, usar esos resultados para ampliar el margen. La confianza es el recurso que se acumula o se gasta en cada uno de esos intentos.
+El diagnóstico se hace con evidencia observable y conversaciones, no con encuestas de clima: qué se celebra públicamente, qué se tolera en silencio, qué historias se cuentan sobre la institución y quién tiene influencia real más allá del organigrama. Y la estrategia se ajusta: empezar por cambios que la cultura tolera, mostrar resultados, usar esos resultados para ampliar el margen. La confianza es el recurso que se acumula o se gasta en cada uno de esos intentos, y su reposición es lenta: un cambio impuesto que fracasa encarece todos los cambios siguientes.
 
 ### 5. Qué sostiene la evidencia y qué no
 

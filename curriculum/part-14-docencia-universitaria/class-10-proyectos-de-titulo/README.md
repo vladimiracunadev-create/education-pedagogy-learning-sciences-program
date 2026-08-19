@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Proyecto de título** | trabajo final que integra y demuestra los desempeños del perfil de egreso |
 | **Alcance** | extensión y ambición del proyecto; su mala definición es la causa principal de atraso |
 | **Hito de avance** | punto de control con entrega y retroalimentación en fecha definida |
-| **Detección temprana** | identificación del atraso cuando todavía es corregible |
+| **Detección temprana** | identificación del atraso mientras todavía es corregible, mediante hitos con fecha y una señal declarada que obliga a conversar |
 
 ## 🧠 Modelo mental
 
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El atraso en la etapa de titulación tiene causas conocidas y en gran medida evitables: alcance sobredimensionado, ausencia de hitos intermedios, supervisión irregular y criterios de aprobación implícitos. Los tres primeros dependen del diseño del proceso y no del estudiante; el cuarto produce reescrituras interminables porque el estándar se descubre solo al final.
+El atraso en la etapa de titulación tiene causas conocidas y en gran medida evitables: alcance sobredimensionado, ausencia de hitos intermedios, supervisión irregular y criterios de aprobación implícitos. Los tres primeros dependen del diseño del proceso y no del estudiante; el cuarto produce reescrituras interminables porque el estándar se descubre solo al final. A eso se agrega un factor de contexto que conviene nombrar: la mayoría de quienes se atrasan ya está trabajando, y el proyecto compite con una jornada laboral completa.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Proyecto de tít
 mismo que **Alcance** —extensión y ambición del proyecto; su mala definición es la causa principal de atraso—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Hito de avance** y
 **Detección temprana** describen aspectos distintos de la misma situación: el primero
-punto de control con entrega y retroalimentación en fecha definida, mientras el segundo identificación del atraso cuando todavía es corregible.
+punto de control con entrega y retroalimentación en fecha definida, mientras el segundo identificación del atraso mientras todavía es corregible, mediante hitos con fecha y una señal declarada que obliga a conversar.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Un proceso bien diseñado acota el alcance por escrito al inicio, fija hitos con entregas y fechas, exige regularidad en la supervisión y publica los criterios de aprobación desde el primer día. Y define una señal de alerta: dos hitos incumplidos activan una conversación formal, no un silencio de tres meses.
+Un proceso bien diseñado acota el alcance por escrito al inicio, fija hitos con entregas y fechas, exige regularidad en la supervisión y publica los criterios de aprobación desde el primer día. Y define una señal de alerta: dos hitos incumplidos activan una conversación formal, no un silencio de tres meses. Entregar ejemplos de trabajos aprobados en distintos niveles de logro es la medida más simple para que el estándar deje de ser tácito.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El diseño reduce el atraso evitable y no elimina las causas externas: trabajo, salud, situación económica. Además, la calidad de la supervisión varía mucho entre docentes, y ese es un problema de gestión institucional más que de proceso.
+El diseño reduce el atraso evitable y no elimina las causas externas: trabajo, salud, situación económica. Además, la calidad de la supervisión varía mucho entre docentes, y ese es un problema de gestión institucional más que de proceso. Conviene reconocer también un límite del acotamiento: un alcance demasiado estrecho garantiza el término y puede empobrecer el aprendizaje que la titulación debía acreditar.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 

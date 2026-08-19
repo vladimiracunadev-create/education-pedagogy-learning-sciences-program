@@ -40,9 +40,9 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Tutoría** | enseñanza individual o en grupo muy pequeño, con alta capacidad de ajuste al estudiante |
-| **Ayudantía** | apoyo docente ejercido por estudiantes avanzados con formación específica |
+| **Ayudantía** | apoyo docente ejercido por estudiantes avanzados, con formación pedagógica específica y con alcance y responsabilidades declaradas |
 | **Pregunta en vez de solución** | práctica de guiar el razonamiento en lugar de entregar la respuesta |
-| **Formación del ayudante** | preparación pedagógica mínima para quien enseña sin ser docente |
+| **Formación del ayudante** | preparación mínima de quien enseña sin ser docente: preguntar antes de explicar, exigir intento previo y localizar el punto de ruptura del razonamiento |
 
 ## 🧠 Modelo mental
 
@@ -88,16 +88,16 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La enseñanza en grupos muy pequeños está entre las intervenciones con mayor efecto documentado, precisamente por su capacidad de ajuste: el tutor puede detectar el error específico y trabajar sobre él. Ese potencial se desperdicia cuando el tutor resuelve el problema frente al estudiante, que es la conducta espontánea de quien domina la materia y no tiene formación pedagógica.
+La enseñanza en grupos muy pequeños está entre las intervenciones con mayor efecto documentado, precisamente por su capacidad de ajuste: el tutor puede detectar el error específico y trabajar sobre él. Ese potencial se desperdicia cuando el tutor resuelve el problema frente al estudiante, que es la conducta espontánea de quien domina la materia y no tiene formación pedagógica. El experto sufre además la maldición del conocimiento: los pasos que automatizó le resultan evidentes y los omite justo donde el estudiante se pierde.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Tutoría** no es lo
-mismo que **Ayudantía** —apoyo docente ejercido por estudiantes avanzados con formación específica—, y tratarlos como sinónimos hace
+mismo que **Ayudantía** —apoyo docente ejercido por estudiantes avanzados, con formación pedagógica específica y con alcance y responsabilidades declaradas—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Pregunta en vez de solución** y
 **Formación del ayudante** describen aspectos distintos de la misma situación: el primero
-práctica de guiar el razonamiento en lugar de entregar la respuesta, mientras el segundo preparación pedagógica mínima para quien enseña sin ser docente.
+práctica de guiar el razonamiento en lugar de entregar la respuesta, mientras el segundo preparación mínima de quien enseña sin ser docente:.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La formación mínima del ayudante enseña tres cosas: preguntar antes de explicar, hacer que el estudiante intente antes de mostrar, y detectar el punto exacto donde se rompe el razonamiento. Con dos sesiones de formación y un protocolo simple, la calidad de la ayudantía cambia de forma perceptible.
+La formación mínima del ayudante enseña tres cosas: preguntar antes de explicar, hacer que el estudiante intente antes de mostrar, y detectar el punto exacto donde se rompe el razonamiento. Con dos sesiones de formación y un protocolo simple, la calidad de la ayudantía cambia de forma perceptible. Conviene agregar una cuarta: qué hacer cuando el estudiante llega sin haber intentado nada, que es la situación donde la ayudantía se convierte en resolución de guías y deja de enseñar.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El efecto documentado corresponde a tutoría bien implementada y sostenida; sesiones esporádicas y sin estructura rinden mucho menos. Y la ayudantía depende de la disponibilidad y la formación de estudiantes avanzados, que varía entre instituciones y semestres.
+El efecto documentado corresponde a tutoría bien implementada y sostenida; sesiones esporádicas y sin estructura rinden mucho menos. Y la ayudantía depende de la disponibilidad y la formación de estudiantes avanzados, que varía entre instituciones y semestres. Existe además un riesgo de equidad: quienes más asisten a ayudantías suelen ser quienes ya tienen mejor rendimiento y horarios disponibles, de modo que el apoyo puede ampliar la brecha en vez de cerrarla.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Tutoría** | Enseñanza individual o en grupo muy pequeño, con alta capacidad de ajuste al estudiante | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Ayudantía** | Apoyo docente ejercido por estudiantes avanzados con formación específica | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Ayudantía** | Apoyo docente ejercido por estudiantes avanzados, con formación pedagógica específica y con alcance y responsabilidades declaradas | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

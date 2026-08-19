@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La mayoría de los programas universitarios acumula contenido: cada docente agrega lo que considera importante y nadie quita nada. El resultado son asignaturas imposibles de cubrir con profundidad, donde el estudiante recorre todo superficialmente. Diseñar bien exige la decisión más difícil: qué se saca. Y el criterio para sacar es la contribución al perfil, no el gusto disciplinar.
+La mayoría de los programas universitarios acumula contenido: cada docente agrega lo que considera importante y nadie quita nada. El resultado son asignaturas imposibles de cubrir con profundidad, donde el estudiante recorre todo superficialmente. Diseñar bien exige la decisión más difícil: qué se saca. Y el criterio para sacar es la contribución al perfil, no el gusto disciplinar. El alineamiento constructivo ofrece el procedimiento: se parte del resultado de aprendizaje declarado, se define con qué evidencia se comprobará y solo entonces se decide qué contenido y qué método hacen falta para llegar ahí.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ El diseño parte del perfil y del mapa curricular: qué debe aportar esta asigna
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La autonomía docente y la tradición disciplinar hacen que estas decisiones sean políticas además de técnicas: quitar contenido genera resistencia real. Un diseño bien fundamentado facilita la conversación pero no la evita, y en muchas instituciones la decisión requiere acuerdo colectivo.
+La autonomía docente y la tradición disciplinar hacen que estas decisiones sean políticas además de técnicas: quitar contenido genera resistencia real. Un diseño bien fundamentado facilita la conversación pero no la evita, y en muchas instituciones la decisión requiere acuerdo colectivo. A eso se suma la presión de las acreditaciones y de los cuerpos profesionales, que a veces fijan contenidos mínimos difíciles de compatibilizar con la profundidad que el mismo perfil declara buscar.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

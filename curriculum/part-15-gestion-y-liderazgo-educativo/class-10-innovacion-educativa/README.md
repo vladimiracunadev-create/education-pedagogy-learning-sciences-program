@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Innovación** | cambio deliberado en la práctica con expectativa de mejora; no toda novedad lo es |
 | **Costo de oportunidad** | lo que la institución deja de hacer por dedicar energía a esta innovación |
-| **Capacidad institucional** | condiciones y competencias necesarias para implementar con fidelidad |
+| **Capacidad institucional** | conjunto de condiciones, tiempo y competencias que la institución necesita para implementar con fidelidad lo que decide adoptar |
 | **Fidelidad de implementación** | grado en que lo ejecutado corresponde a lo diseñado; explica muchos fracasos atribuidos al método |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Innovación** no
 mismo que **Costo de oportunidad** —lo que la institución deja de hacer por dedicar energía a esta innovación—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Capacidad institucional** y
 **Fidelidad de implementación** describen aspectos distintos de la misma situación: el primero
-condiciones y competencias necesarias para implementar con fidelidad, mientras el segundo grado en que lo ejecutado corresponde a lo diseñado;.
+conjunto de condiciones, tiempo y competencias que la institución necesita para implementar con fidelidad lo que decide adoptar, mientras el segundo grado en que lo ejecutado corresponde a lo diseñado;.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La evaluación se documenta y se discute antes de comprometer recursos. Y la implementación debe considerar la fidelidad: la mayoría de las innovaciones que fracasan no fueron probadas en su versión real, sino en una adaptación local que perdió sus componentes activos. Declarar qué es irrenunciable del diseño original es parte de la decisión.
+La evaluación se documenta y se discute antes de comprometer recursos. Y la implementación debe considerar la fidelidad: la mayoría de las innovaciones que fracasan no fueron probadas en su versión real, sino en una adaptación local que perdió sus componentes activos. Declarar qué es irrenunciable del diseño original es parte de la decisión. Conviene también probar en pequeño antes de comprometer al establecimiento completo: un curso, un nivel o un semestre bastan para saber si el supuesto principal se sostiene en este contexto.
 
 ### 5. Qué sostiene la evidencia y qué no
 

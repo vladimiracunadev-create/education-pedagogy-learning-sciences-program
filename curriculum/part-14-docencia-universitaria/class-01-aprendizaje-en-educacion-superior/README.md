@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El análisis identifica las condiciones concretas: cuántas páginas por semana, cuántas evaluaciones simultáneas, qué exige realmente la prueba, cuándo llega la retroalimentación. Corregir una o dos suele bastar para cambiar la estrategia de estudio del grupo, y produce más efecto que cualquier exhortación a estudiar mejor.
+El análisis identifica las condiciones concretas: cuántas páginas por semana, cuántas evaluaciones simultáneas, qué exige realmente la prueba, cuándo llega la retroalimentación. El estudiante lee esas señales con precisión y ajusta su estrategia: si la evaluación premia reconocer definiciones, estudiar en profundidad es una mala inversión de su tiempo y actúa en consecuencia. Corregir una o dos de esas condiciones suele bastar para cambiar la estrategia de estudio del grupo, y produce más efecto que cualquier exhortación a estudiar mejor.
 
 ### 5. Qué sostiene la evidencia y qué no
 

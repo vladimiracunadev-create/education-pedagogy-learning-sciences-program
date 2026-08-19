@@ -39,8 +39,8 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Plan de mejora** | instrumento que articula diagnóstico, prioridades, acciones e indicadores institucionales |
-| **Capacidad de ejecución** | condiciones reales del equipo para sostener las acciones comprometidas |
+| **Plan de mejora** | instrumento que articula diagnóstico, prioridades, acciones, responsables e indicadores institucionales en un horizonte declarado |
+| **Capacidad de ejecución** | condiciones reales de tiempo, competencias y estabilidad del equipo para sostener las acciones que el plan compromete |
 | **Indicador desagregado** | medida que muestra el efecto sobre distintos grupos de estudiantes |
 | **Sostenibilidad** | posibilidad de mantener el plan más allá del entusiasmo inicial y del cambio de personas |
 
@@ -88,13 +88,13 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El proyecto integrador exige articular todo lo anterior con un criterio dominante: la capacidad real de ejecución. Un plan que excede lo que el equipo puede sostener produce incumplimiento, desgaste y pérdida de credibilidad para el siguiente intento. Por eso el plan se dimensiona a partir del tiempo y las capacidades disponibles, no a partir de lo deseable.
+El proyecto integrador exige articular todo lo anterior con un criterio dominante: la capacidad real de ejecución. Un plan que excede lo que el equipo puede sostener produce incumplimiento, desgaste y pérdida de credibilidad para el siguiente intento. Por eso el plan se dimensiona a partir del tiempo y las capacidades disponibles, no a partir de lo deseable. El diagnóstico que lo abre debe apoyarse en evidencia desagregada y no en percepciones del equipo directivo: la diferencia entre ambos suele ser el hallazgo más útil del proceso.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Plan de mejora** no es lo
-mismo que **Capacidad de ejecución** —condiciones reales del equipo para sostener las acciones comprometidas—, y tratarlos como sinónimos hace
+mismo que **Capacidad de ejecución** —condiciones reales de tiempo, competencias y estabilidad del equipo para sostener las acciones que el plan compromete—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Indicador desagregado** y
 **Sostenibilidad** describen aspectos distintos de la misma situación: el primero
 medida que muestra el efecto sobre distintos grupos de estudiantes, mientras el segundo posibilidad de mantener el plan más allá del entusiasmo inicial y del cambio de personas.
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El plan se organiza en pocas prioridades, cada una desagregada en ciclos de mejora con responsables y plazos, con indicadores que se puedan desagregar por grupo. El sistema de seguimiento define quién revisa, cada cuánto y con qué consecuencia sobre las decisiones de recursos y tiempo.
+El plan se organiza en pocas prioridades, cada una desagregada en ciclos de mejora con responsables y plazos, con indicadores que se puedan desagregar por grupo. El sistema de seguimiento define quién revisa, cada cuánto y con qué consecuencia sobre las decisiones de recursos y tiempo. Cada acción declara además qué se deja de hacer para hacerla: sin esa columna, el plan agrega trabajo sobre una jornada que ya está completa.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Un plan bien diseñado no garantiza mejora: depende de la implementación, del contexto y de factores externos a la institución. Su valor es hacer explícitas las decisiones y producir evidencia sobre lo que se intentó, que es la base para el ciclo siguiente.
+Un plan bien diseñado no garantiza mejora: depende de la implementación, del contexto y de factores externos a la institución. Su valor es hacer explícitas las decisiones y producir evidencia sobre lo que se intentó, que es la base para el ciclo siguiente. Y su horizonte es más largo que el año escolar: los indicadores de aprendizaje se mueven en plazos que exceden a un plan anual, de modo que evaluarlo solo por resultados de un año induce cambios de rumbo prematuros.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 
@@ -180,8 +180,8 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Plan de mejora** | Instrumento que articula diagnóstico, prioridades, acciones e indicadores institucionales | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Capacidad de ejecución** | Condiciones reales del equipo para sostener las acciones comprometidas | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Plan de mejora** | Instrumento que articula diagnóstico, prioridades, acciones, responsables e indicadores institucionales en un horizonte declarado | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Capacidad de ejecución** | Condiciones reales de tiempo, competencias y estabilidad del equipo para sostener las acciones que el plan compromete | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

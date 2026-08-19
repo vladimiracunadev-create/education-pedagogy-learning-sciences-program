@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Ciclo de mejora** | secuencia corta de probar, medir y ajustar sobre un problema específico |
-| **Problema específico** | dificultad delimitada y observable, distinta de un objetivo general |
+| **Problema específico** | dificultad delimitada, observable y acotada a un grupo y un plazo, distinta de un objetivo general o de una aspiración institucional |
 | **Prueba acotada** | implementación en pequeña escala antes de extender a toda la institución |
 | **Decisión documentada** | conclusión del ciclo: se adopta, se ajusta o se abandona, con su fundamento |
 
@@ -94,7 +94,7 @@ La mejora sostenida se produce por acumulación de ciclos cortos, no por reforma
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Ciclo de mejora** no es lo
-mismo que **Problema específico** —dificultad delimitada y observable, distinta de un objetivo general—, y tratarlos como sinónimos hace
+mismo que **Problema específico** —dificultad delimitada, observable y acotada a un grupo y un plazo, distinta de un objetivo general o de una aspiración institucional—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Prueba acotada** y
 **Decisión documentada** describen aspectos distintos de la misma situación: el primero
 implementación en pequeña escala antes de extender a toda la institución, mientras el segundo conclusión del ciclo:.
@@ -125,7 +125,7 @@ El ciclo exige delimitar bien: «mejorar la comprensión lectora» no es un prob
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La mejora continua aplicada a educación tiene evidencia prometedora y no concluyente, y su implementación exige capacidades que muchos equipos no tienen: delimitar problemas, medir y decidir con datos. Sin desarrollo de esas capacidades, los ciclos se convierten en un formato vacío.
+La mejora continua aplicada a educación tiene evidencia prometedora y no concluyente, y su implementación exige capacidades que muchos equipos no tienen: delimitar problemas, medir y decidir con datos. Sin desarrollo de esas capacidades, los ciclos se convierten en un formato vacío que consume reuniones. Hay además un límite de escala: los ciclos cortos sirven para problemas acotados de práctica, y no reemplazan decisiones estructurales —tamaño de curso, dotación, horas no lectivas— que ningún ciclo de mejora local puede resolver.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Ciclo de mejora** | Secuencia corta de probar, medir y ajustar sobre un problema específico | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Problema específico** | Dificultad delimitada y observable, distinta de un objetivo general | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Problema específico** | Dificultad delimitada, observable y acotada a un grupo y un plazo, distinta de un objetivo general o de una aspiración institucional | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

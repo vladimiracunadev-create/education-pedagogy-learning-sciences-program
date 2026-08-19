@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La investigación sobre liderazgo escolar converge en un resultado útil: su efecto sobre el aprendizaje es real e indirecto, y la práctica con mayor magnitud documentada es la participación del directivo en el aprendizaje profesional de sus docentes. No supervisarlo desde fuera: participar. Le siguen el establecimiento de metas, la garantía de condiciones de enseñanza y la protección del tiempo pedagógico.
+La investigación sobre liderazgo escolar converge en un resultado útil: su efecto sobre el aprendizaje es real e indirecto, y la práctica con mayor magnitud documentada es la participación del directivo en el aprendizaje profesional de sus docentes. No supervisarlo desde fuera: participar. Le siguen el establecimiento de metas, la garantía de condiciones de enseñanza y la protección del tiempo pedagógico. El mecanismo que explica ese orden es simple: un directivo que estudia junto a su equipo conoce de primera mano qué enseñanza está ocurriendo, y esa información es la que le permite decidir sobre horarios, recursos y acompañamiento. Un directivo que solo revisa planificaciones decide sobre representaciones del trabajo, no sobre el trabajo.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El análisis del uso del tiempo es incómodo y revelador: la mayoría de los equipos directivos descubre que dedica menos del veinte por ciento de su tiempo a prácticas pedagógicas. Redistribuir exige delegar o eliminar tareas administrativas, lo que a su vez exige decisiones sobre estructura y no solo sobre voluntad.
+El análisis del uso del tiempo es incómodo y revelador: la mayoría de los equipos directivos descubre que dedica menos del veinte por ciento de su tiempo a prácticas pedagógicas. El procedimiento es registrar durante dos semanas cada bloque de treinta minutos, clasificarlo en pedagógico, administrativo, emergente o externo, y recién entonces discutir la redistribución. Redistribuir exige delegar o eliminar tareas administrativas, lo que a su vez exige decisiones sobre estructura y no solo sobre voluntad: qué deja de hacerse, quién asume qué y con qué tiempo asignado.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Los efectos del liderazgo son moderados y dependen del contexto: en escuelas en crisis las prácticas que funcionan son distintas de las que sirven en escuelas estables. Y la evidencia proviene mayormente de estudios correlacionales y de síntesis con definiciones heterogéneas de liderazgo.
+Los efectos del liderazgo son moderados y dependen del contexto: en escuelas en crisis las prácticas que funcionan son distintas de las que sirven en escuelas estables. Y la evidencia proviene mayormente de estudios correlacionales y de síntesis con definiciones heterogéneas de liderazgo, lo que hace difícil separar el efecto de la práctica directiva del de las condiciones que permiten ejercerla. En establecimientos con alta rotación docente, además, buena parte del efecto se pierde cada marzo con el equipo que se va.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

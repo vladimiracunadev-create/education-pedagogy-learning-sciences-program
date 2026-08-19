@@ -25,7 +25,7 @@
       ]
     ],
     "desarrollo": "El enfoque de estudio no es un rasgo del estudiante sino una respuesta a las condiciones del curso. Carga excesiva, evaluaciones que premian la reproducción y ausencia de retroalimentación empujan hacia el enfoque superficial, incluso a estudiantes capaces de trabajo profundo. Esa es la conclusión práctica más útil de la investigación sobre aprendizaje en educación superior: se diseña el enfoque, no se exige.",
-    "practica": "El análisis identifica las condiciones concretas: cuántas páginas por semana, cuántas evaluaciones simultáneas, qué exige realmente la prueba, cuándo llega la retroalimentación. Corregir una o dos suele bastar para cambiar la estrategia de estudio del grupo, y produce más efecto que cualquier exhortación a estudiar mejor.",
+    "practica": "El análisis identifica las condiciones concretas: cuántas páginas por semana, cuántas evaluaciones simultáneas, qué exige realmente la prueba, cuándo llega la retroalimentación. El estudiante lee esas señales con precisión y ajusta su estrategia: si la evaluación premia reconocer definiciones, estudiar en profundidad es una mala inversión de su tiempo y actúa en consecuencia. Corregir una o dos de esas condiciones suele bastar para cambiar la estrategia de estudio del grupo, y produce más efecto que cualquier exhortación a estudiar mejor.",
     "limites": "La distinción entre enfoques es una herramienta descriptiva y no una tipología de personas: el mismo estudiante varía entre asignaturas y a lo largo del semestre. Y los instrumentos que la miden son autorreportes, con sus limitaciones. Úsala para revisar el diseño, no para clasificar estudiantes.",
     "errores": [
       "Atribuir el estudio memorístico a la actitud del estudiante sin revisar qué premia la evaluación.",
@@ -79,9 +79,9 @@
         "articulación con las asignaturas previas y posteriores de la carrera"
       ]
     ],
-    "desarrollo": "La mayoría de los programas universitarios acumula contenido: cada docente agrega lo que considera importante y nadie quita nada. El resultado son asignaturas imposibles de cubrir con profundidad, donde el estudiante recorre todo superficialmente. Diseñar bien exige la decisión más difícil: qué se saca. Y el criterio para sacar es la contribución al perfil, no el gusto disciplinar.",
+    "desarrollo": "La mayoría de los programas universitarios acumula contenido: cada docente agrega lo que considera importante y nadie quita nada. El resultado son asignaturas imposibles de cubrir con profundidad, donde el estudiante recorre todo superficialmente. Diseñar bien exige la decisión más difícil: qué se saca. Y el criterio para sacar es la contribución al perfil, no el gusto disciplinar. El alineamiento constructivo ofrece el procedimiento: se parte del resultado de aprendizaje declarado, se define con qué evidencia se comprobará y solo entonces se decide qué contenido y qué método hacen falta para llegar ahí.",
     "practica": "El diseño parte del perfil y del mapa curricular: qué debe aportar esta asignatura, qué traen los estudiantes de las previas y qué necesitan las posteriores. Con eso se decide el temario y no al revés. Después se calcula la carga y se ajusta hasta que sea realista, porque un programa que exige el doble del tiempo declarado produce enfoque superficial garantizado.",
-    "limites": "La autonomía docente y la tradición disciplinar hacen que estas decisiones sean políticas además de técnicas: quitar contenido genera resistencia real. Un diseño bien fundamentado facilita la conversación pero no la evita, y en muchas instituciones la decisión requiere acuerdo colectivo.",
+    "limites": "La autonomía docente y la tradición disciplinar hacen que estas decisiones sean políticas además de técnicas: quitar contenido genera resistencia real. Un diseño bien fundamentado facilita la conversación pero no la evita, y en muchas instituciones la decisión requiere acuerdo colectivo. A eso se suma la presión de las acreditaciones y de los cuerpos profesionales, que a veces fijan contenidos mínimos difíciles de compatibilizar con la profundidad que el mismo perfil declara buscar.",
     "errores": [
       "Diseñar desde el temario heredado sin revisar su contribución al perfil.",
       "Declarar una carga en créditos que no corresponde al tiempo real exigido."
@@ -131,12 +131,12 @@
       ],
       [
         "Accesibilidad declarada",
-        "información sobre ajustes disponibles y cómo solicitarlos"
+        "información explícita sobre qué ajustes están disponibles, cómo se solicitan y ante quién, publicada antes de que el estudiante los necesite"
       ]
     ],
     "desarrollo": "Un syllabus universitario cumple tres funciones: informar al estudiante para que decida y se organice, comprometer al docente con reglas explícitas y documentar la asignatura para la institución. La tercera suele desplazar a las dos primeras, y el resultado es un documento formalmente completo que ningún estudiante usa. La prueba de calidad es que un estudiante pueda planificar su semestre con él.",
-    "practica": "La revisión por un estudiante real es el mejor control de calidad: revela qué no se entiende, qué falta y qué sobra. Y la bibliografía debe indicar para qué sirve cada texto y qué se espera que se lea efectivamente, porque una lista extensa sin jerarquía comunica que nada es realmente obligatorio.",
-    "limites": "El syllabus no reemplaza la comunicación durante el semestre ni impide ajustes justificados. Y su extensión tiene rendimientos decrecientes: los documentos muy largos se usan como defensa administrativa y no como herramienta para el estudiante.",
+    "practica": "La revisión por un estudiante real es el mejor control de calidad: revela qué no se entiende, qué falta y qué sobra. Y la bibliografía debe indicar para qué sirve cada texto y qué se espera que se lea efectivamente, porque una lista extensa sin jerarquía comunica que nada es realmente obligatorio. El syllabus debe además hacer explícita la carga: horas estimadas de trabajo autónomo por semana, contrastadas con los créditos declarados, que es donde suele aparecer la primera incoherencia del diseño.",
+    "limites": "El syllabus no reemplaza la comunicación durante el semestre ni impide ajustes justificados. Y su extensión tiene rendimientos decrecientes: los documentos muy largos se usan como defensa administrativa y no como herramienta para el estudiante. Conviene distinguir dos audiencias que hoy conviven en el mismo documento: la institucional, que exige formato y trazabilidad, y la del estudiante, que necesita saber qué hacer esta semana.",
     "errores": [
       "Publicar una bibliografía extensa sin indicar qué se lee efectivamente y para qué.",
       "Omitir la información sobre ajustes de accesibilidad y cómo solicitarlos."
@@ -190,8 +190,8 @@
       ]
     ],
     "desarrollo": "Una síntesis muy citada de estudios en educación superior en ciencias e ingeniería mostró que el aprendizaje activo mejora el rendimiento y reduce la reprobación respecto de la exposición continua. La conclusión operativa no es eliminar la cátedra sino romperla: exponer diez o quince minutos, plantear una pregunta conceptual, hacer que los estudiantes la discutan y respondan, y continuar con la información que esa respuesta reveló.",
-    "practica": "El rediseño más simple y eficaz es la instrucción entre pares: pregunta conceptual con distractores diagnósticos, respuesta individual, discusión breve entre estudiantes, segunda respuesta. En cursos numerosos funciona con cualquier sistema de respuesta, incluidas tarjetas de papel. Y la segunda respuesta le dice al docente si puede avanzar o debe explicar de nuevo.",
-    "limites": "Los efectos dependen de la calidad de las preguntas y de la implementación, no del formato en sí: preguntas triviales producen discusión vacía. Y la evidencia proviene sobre todo de ciencias e ingeniería; en disciplinas con otro tipo de contenido las técnicas deben adaptarse.",
+    "practica": "El rediseño más simple y eficaz es la instrucción entre pares: pregunta conceptual con distractores diagnósticos, respuesta individual, discusión breve entre estudiantes, segunda respuesta. En cursos numerosos funciona con cualquier sistema de respuesta, incluidas tarjetas de papel. Y la segunda respuesta le dice al docente si puede avanzar o debe explicar de nuevo. La calidad de la pregunta es el verdadero trabajo de preparación: los distractores deben corresponder a errores conceptuales reales del campo, de modo que la distribución de respuestas informe qué está fallando.",
+    "limites": "Los efectos dependen de la calidad de las preguntas y de la implementación, no del formato en sí: preguntas triviales producen discusión vacía. Y la evidencia proviene sobre todo de ciencias e ingeniería; en disciplinas con otro tipo de contenido las técnicas deben adaptarse. Tampoco conviene descartar la exposición: para presentar un problema, mostrar el estado de una discusión o modelar el razonamiento de la disciplina, sigue siendo un formato eficiente cuando se alterna con procesamiento activo.",
     "errores": [
       "Intercalar preguntas triviales que no revelan comprensión ni generan discusión.",
       "Mantener cuarenta minutos de exposición continua y agregar una actividad al final."
@@ -245,8 +245,8 @@
       ]
     ],
     "desarrollo": "El seminario fracasa cuando el texto no se lee: la discusión se vuelve intercambio de opiniones generales y los pocos que leyeron dejan de prepararse. La solución no es exhortar sino diseñar: una entrega escrita breve antes de la sesión, roles asignados y una estructura que exija referirse al texto. Con esas tres condiciones el formato funciona incluso con grupos poco habituados.",
-    "practica": "Los roles rotativos —quien presenta, quien objeta, quien conecta con la sesión anterior, quien sintetiza— distribuyen la participación y evitan que dominen los mismos. Y la evaluación debe premiar la contribución intelectual y no el volumen de habla, lo que exige criterios explícitos y registro durante la sesión.",
-    "limites": "No hay evidencia experimental sólida sobre formatos de seminario: es conocimiento profesional consolidado. Su eficacia depende del tamaño del grupo —sobre quince participantes la discusión real se vuelve difícil— y de la preparación previa, que es la variable crítica.",
+    "practica": "Los roles rotativos —quien presenta, quien objeta, quien conecta con la sesión anterior, quien sintetiza— distribuyen la participación y evitan que dominen los mismos. Y la evaluación debe premiar la contribución intelectual y no el volumen de habla, lo que exige criterios explícitos y registro durante la sesión. La entrega escrita previa cumple una segunda función: obliga a leer antes y le permite al docente conducir la sesión sabiendo dónde está el desacuerdo del grupo.",
+    "limites": "No hay evidencia experimental sólida sobre formatos de seminario: es conocimiento profesional consolidado. Su eficacia depende del tamaño del grupo —sobre quince participantes la discusión real se vuelve difícil— y de la preparación previa, que es la variable crítica. Hay además un riesgo persistente de desigualdad en el uso de la palabra, documentado en aulas universitarias, que sin reglas explícitas reproduce jerarquías de género, origen y trayectoria previa.",
     "errores": [
       "Conducir el seminario sin mecanismo de preparación verificada.",
       "Evaluar la participación por cantidad de intervenciones y no por su aporte."
@@ -270,7 +270,7 @@
         "principios de discusión productiva aplicables al formato de seminario."
       ]
     ],
-    "inclusion": "La entrega escrita previa permite participar a estudiantes que no intervienen espontáneamente, y los roles asignados garantizan que todos tengan un espacio definido en la discusión.",
+    "inclusion": "La entrega escrita previa permite participar a estudiantes que no intervienen espontáneamente, y los roles asignados garantizan que todos tengan un espacio definido en la discusión. Registrar quién habla durante dos sesiones suele ser suficiente para hacer visible una distribución que nadie había notado y que ningún llamado general a participar corrige.",
     "reto": "Implementa entrega previa y roles rotativos durante cuatro sesiones. Registra la distribución de la participación antes y después.",
     "conexion": "Se apoya en las clases 067 y 125 y complementa el formato de la clase 172."
   },
@@ -292,16 +292,16 @@
       ],
       [
         "Análisis de datos propios",
-        "interpretación de los datos efectivamente obtenidos, incluidos los inesperados"
+        "interpretación de los datos efectivamente obtenidos por el estudiante, incluidos los inesperados, en vez del contraste con un resultado previsto de antemano"
       ],
       [
         "Incertidumbre",
         "reconocimiento del error de medición y de sus consecuencias en la conclusión"
       ]
     ],
-    "desarrollo": "Un laboratorio de receta enseña a seguir instrucciones. La evidencia sobre laboratorios universitarios sugiere que las prácticas prescritas aportan poco al aprendizaje conceptual, mientras que aquellas donde el estudiante debe tomar decisiones —qué medir, cómo controlar, cómo interpretar la discrepancia— desarrollan comprensión del razonamiento experimental, que es lo que la disciplina realmente exige.",
+    "desarrollo": "Un laboratorio de receta enseña a seguir instrucciones. La evidencia sobre laboratorios universitarios sugiere que las prácticas prescritas aportan poco al aprendizaje conceptual, mientras que aquellas donde el estudiante debe tomar decisiones —qué medir, cómo controlar, cómo interpretar la discrepancia— desarrollan comprensión del razonamiento experimental, que es lo que la disciplina realmente exige. El punto crítico es qué se hace con los datos inesperados: en el formato de receta se descartan como error de ejecución, y en el formato de decisión son precisamente el material de la clase.",
     "practica": "El rediseño consiste en devolver decisiones: dar el objetivo y no el procedimiento completo, exigir predicción previa, pedir que analicen sus propios datos incluidos los anómalos, y evaluar el razonamiento y no la coincidencia con el valor esperado. Esa última decisión es decisiva: mientras se califique por acercarse al valor de tabla, los estudiantes ajustarán los datos.",
-    "limites": "El rediseño consume más tiempo y exige más apoyo, lo que en cursos numerosos tiene un costo real. Y en fases iniciales, cierta prescripción es necesaria por seguridad y por dominio técnico. La progresión razonable va de procedimientos guiados a decisiones crecientes.",
+    "limites": "El rediseño consume más tiempo y exige más apoyo, lo que en cursos numerosos tiene un costo real. Y en fases iniciales, cierta prescripción es necesaria por seguridad y por dominio técnico. La progresión razonable va de procedimientos guiados a decisiones crecientes. También conviene declarar el límite de la evidencia disponible: buena parte proviene de física e ingeniería, y su traslado a laboratorios de biología, química clínica o disciplinas con protocolos normados exige ajuste.",
     "errores": [
       "Calificar por proximidad al valor esperado, lo que incentiva ajustar los datos.",
       "Prescribir todo el procedimiento y esperar que el estudiante comprenda el diseño experimental."
@@ -343,7 +343,7 @@
       ],
       [
         "Ayudantía",
-        "apoyo docente ejercido por estudiantes avanzados con formación específica"
+        "apoyo docente ejercido por estudiantes avanzados, con formación pedagógica específica y con alcance y responsabilidades declaradas"
       ],
       [
         "Pregunta en vez de solución",
@@ -351,12 +351,12 @@
       ],
       [
         "Formación del ayudante",
-        "preparación pedagógica mínima para quien enseña sin ser docente"
+        "preparación mínima de quien enseña sin ser docente: preguntar antes de explicar, exigir intento previo y localizar el punto de ruptura del razonamiento"
       ]
     ],
-    "desarrollo": "La enseñanza en grupos muy pequeños está entre las intervenciones con mayor efecto documentado, precisamente por su capacidad de ajuste: el tutor puede detectar el error específico y trabajar sobre él. Ese potencial se desperdicia cuando el tutor resuelve el problema frente al estudiante, que es la conducta espontánea de quien domina la materia y no tiene formación pedagógica.",
-    "practica": "La formación mínima del ayudante enseña tres cosas: preguntar antes de explicar, hacer que el estudiante intente antes de mostrar, y detectar el punto exacto donde se rompe el razonamiento. Con dos sesiones de formación y un protocolo simple, la calidad de la ayudantía cambia de forma perceptible.",
-    "limites": "El efecto documentado corresponde a tutoría bien implementada y sostenida; sesiones esporádicas y sin estructura rinden mucho menos. Y la ayudantía depende de la disponibilidad y la formación de estudiantes avanzados, que varía entre instituciones y semestres.",
+    "desarrollo": "La enseñanza en grupos muy pequeños está entre las intervenciones con mayor efecto documentado, precisamente por su capacidad de ajuste: el tutor puede detectar el error específico y trabajar sobre él. Ese potencial se desperdicia cuando el tutor resuelve el problema frente al estudiante, que es la conducta espontánea de quien domina la materia y no tiene formación pedagógica. El experto sufre además la maldición del conocimiento: los pasos que automatizó le resultan evidentes y los omite justo donde el estudiante se pierde.",
+    "practica": "La formación mínima del ayudante enseña tres cosas: preguntar antes de explicar, hacer que el estudiante intente antes de mostrar, y detectar el punto exacto donde se rompe el razonamiento. Con dos sesiones de formación y un protocolo simple, la calidad de la ayudantía cambia de forma perceptible. Conviene agregar una cuarta: qué hacer cuando el estudiante llega sin haber intentado nada, que es la situación donde la ayudantía se convierte en resolución de guías y deja de enseñar.",
+    "limites": "El efecto documentado corresponde a tutoría bien implementada y sostenida; sesiones esporádicas y sin estructura rinden mucho menos. Y la ayudantía depende de la disponibilidad y la formación de estudiantes avanzados, que varía entre instituciones y semestres. Existe además un riesgo de equidad: quienes más asisten a ayudantías suelen ser quienes ya tienen mejor rendimiento y horarios disponibles, de modo que el apoyo puede ampliar la brecha en vez de cerrarla.",
     "errores": [
       "Asignar ayudantías por rendimiento académico sin ninguna formación pedagógica.",
       "Permitir que la sesión consista en resolver los ejercicios frente a los estudiantes."
@@ -409,9 +409,9 @@
         "estrategia de revisar en profundidad una parte del trabajo y no todo"
       ]
     ],
-    "desarrollo": "El sistema típico —dos pruebas y un examen— produce estudio concentrado, mala retención y retroalimentación inútil por tardía. La alternativa distribuida mejora el aprendizaje y colapsa al docente si no se diseña la carga de corrección. La combinación viable incluye instancias breves de baja consecuencia con corrección automática o entre pares, y pocas instancias extensas con retroalimentación docente en profundidad.",
-    "practica": "El cálculo de carga es la decisión central: multiplicar número de estudiantes por minutos de corrección da el número real de horas comprometidas. Con ese dato se diseña: qué se corrige en profundidad, qué se revisa por muestreo, qué se retroalimenta entre pares con rúbrica y qué se autocorrige con pauta.",
-    "limites": "La retroalimentación entre pares tiene calidad variable y requiere formación y criterios; sin ellos produce comentarios vagos. Y la corrección automática solo sirve para ciertos desempeños. Ningún sistema elimina la necesidad de juicio docente en las evaluaciones con mayor consecuencia.",
+    "desarrollo": "El sistema típico —dos pruebas y un examen— produce estudio concentrado, mala retención y retroalimentación inútil por tardía. La alternativa distribuida mejora el aprendizaje y colapsa al docente si no se diseña la carga de corrección. La combinación viable incluye instancias breves de baja consecuencia con corrección automática o entre pares, y pocas instancias extensas con retroalimentación docente en profundidad. La distribución tiene además un efecto sobre el estudio que la evidencia respalda con claridad: obliga a recuperar contenido varias veces a lo largo del semestre en vez de una sola vez antes del examen.",
+    "practica": "El cálculo de carga es la decisión central: multiplicar número de estudiantes por minutos de corrección da el número real de horas comprometidas. Con ese dato se diseña: qué se corrige en profundidad, qué se revisa por muestreo, qué se retroalimenta entre pares con rúbrica y qué se autocorrige con pauta. La regla práctica es fijar el presupuesto de horas de corrección antes de decidir cuántas evaluaciones habrá, y no al revés, que es como se llega a diciembre con trabajos sin devolver.",
+    "limites": "La retroalimentación entre pares tiene calidad variable y requiere formación y criterios; sin ellos produce comentarios vagos. Y la corrección automática solo sirve para ciertos desempeños. Ningún sistema elimina la necesidad de juicio docente en las evaluaciones con mayor consecuencia. Conviene además vigilar el efecto contrario de la distribución: multiplicar instancias pequeñas puede generar una sensación de evaluación permanente que aumenta la ansiedad sin agregar aprendizaje.",
     "errores": [
       "Diseñar un sistema distribuido sin calcular la carga real de corrección.",
       "Implementar revisión entre pares sin rúbrica ni formación previa."
@@ -435,7 +435,7 @@
         "principios de evaluación que fortalecen la autorregulación en educación superior."
       ]
     ],
-    "inclusion": "La evaluación concentrada penaliza a estudiantes que trabajan o tienen responsabilidades de cuidado, porque exige disponibilidad total en semanas específicas. La distribución reduce esa barrera estructural.",
+    "inclusion": "La evaluación concentrada penaliza a estudiantes que trabajan o tienen responsabilidades de cuidado, porque exige disponibilidad total en semanas específicas. La distribución reduce esa barrera estructural, siempre que las fechas se publiquen al inicio del semestre y no se agreguen instancias sobre la marcha, que es lo que vuelve imposible organizar el tiempo a quien no dispone de él con holgura.",
     "reto": "Calcula la carga de corrección de tu sistema actual y rediséñalo para distribuirlo sin aumentar tus horas. Verifica el efecto en las entregas.",
     "conexion": "Aplica la parte 11 al contexto universitario y se apoya en la clase 169."
   },
@@ -457,15 +457,15 @@
       ],
       [
         "Uso declarado",
-        "exigencia de explicitar qué herramientas se usaron y cómo"
+        "exigencia de explicitar qué herramientas se usaron, en qué parte del trabajo y con qué finalidad, como condición de aceptación de la entrega"
       ],
       [
         "Debido proceso",
-        "garantías de evidencia, defensa y proporcionalidad ante una acusación"
+        "conjunto de garantías —evidencia suficiente, derecho a defensa y proporcionalidad de la consecuencia— exigible antes de sancionar una acusación de deshonestidad"
       ]
     ],
-    "desarrollo": "En educación superior la integridad se sostenía en gran parte sobre la verificación de autoría del texto, y esa base se debilitó. Las respuestas viables combinan tres líneas: evaluaciones donde el producto exige aprendizaje verificable —defensa oral, trabajo sobre datos propios, producción supervisada—, políticas explícitas de uso declarado, y formación en las razones de la integridad, no solo en sus sanciones.",
-    "practica": "La política de asignatura debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos. Y el procedimiento ante sospecha debe respetar debido proceso: los detectores automáticos no constituyen evidencia suficiente y su uso como prueba ha producido acusaciones injustas con consecuencias graves.",
+    "desarrollo": "En educación superior la integridad se sostenía en gran parte sobre la verificación de autoría del texto, y esa base se debilitó. Las respuestas viables combinan tres líneas: evaluaciones donde el producto exige aprendizaje verificable —defensa oral, trabajo sobre datos propios, producción supervisada—, políticas explícitas de uso declarado, y formación en las razones de la integridad, no solo en sus sanciones. La evidencia disponible sobre deshonestidad académica apunta además a factores de diseño: la presión por la nota, la percepción de que otros lo hacen y la sensación de que la tarea no tiene sentido predicen la conducta mejor que cualquier rasgo personal.",
+    "practica": "La política de asignatura debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos. Y el procedimiento ante sospecha debe respetar debido proceso: los detectores automáticos no constituyen evidencia suficiente y su uso como prueba ha producido acusaciones injustas con consecuencias graves. Ante una sospecha, el procedimiento defendible es una conversación sobre el proceso de trabajo —cómo llegó a esta decisión, qué descartó, qué haría distinto— que un estudiante que hizo el trabajo puede sostener sin dificultad.",
     "limites": "El campo está en transición y no hay consenso sobre qué usos son legítimos. Además, la investigación disponible sobre deshonestidad académica muestra que las causas principales son estructurales —presión, carga, percepción de injusticia— y no solo morales, de modo que reducir la presión suele rendir más que aumentar la vigilancia.",
     "errores": [
       "Usar detectores automáticos como evidencia de una acusación.",
@@ -516,12 +516,12 @@
       ],
       [
         "Detección temprana",
-        "identificación del atraso cuando todavía es corregible"
+        "identificación del atraso mientras todavía es corregible, mediante hitos con fecha y una señal declarada que obliga a conversar"
       ]
     ],
-    "desarrollo": "El atraso en la etapa de titulación tiene causas conocidas y en gran medida evitables: alcance sobredimensionado, ausencia de hitos intermedios, supervisión irregular y criterios de aprobación implícitos. Los tres primeros dependen del diseño del proceso y no del estudiante; el cuarto produce reescrituras interminables porque el estándar se descubre solo al final.",
-    "practica": "Un proceso bien diseñado acota el alcance por escrito al inicio, fija hitos con entregas y fechas, exige regularidad en la supervisión y publica los criterios de aprobación desde el primer día. Y define una señal de alerta: dos hitos incumplidos activan una conversación formal, no un silencio de tres meses.",
-    "limites": "El diseño reduce el atraso evitable y no elimina las causas externas: trabajo, salud, situación económica. Además, la calidad de la supervisión varía mucho entre docentes, y ese es un problema de gestión institucional más que de proceso.",
+    "desarrollo": "El atraso en la etapa de titulación tiene causas conocidas y en gran medida evitables: alcance sobredimensionado, ausencia de hitos intermedios, supervisión irregular y criterios de aprobación implícitos. Los tres primeros dependen del diseño del proceso y no del estudiante; el cuarto produce reescrituras interminables porque el estándar se descubre solo al final. A eso se agrega un factor de contexto que conviene nombrar: la mayoría de quienes se atrasan ya está trabajando, y el proyecto compite con una jornada laboral completa.",
+    "practica": "Un proceso bien diseñado acota el alcance por escrito al inicio, fija hitos con entregas y fechas, exige regularidad en la supervisión y publica los criterios de aprobación desde el primer día. Y define una señal de alerta: dos hitos incumplidos activan una conversación formal, no un silencio de tres meses. Entregar ejemplos de trabajos aprobados en distintos niveles de logro es la medida más simple para que el estándar deje de ser tácito.",
+    "limites": "El diseño reduce el atraso evitable y no elimina las causas externas: trabajo, salud, situación económica. Además, la calidad de la supervisión varía mucho entre docentes, y ese es un problema de gestión institucional más que de proceso. Conviene reconocer también un límite del acotamiento: un alcance demasiado estrecho garantiza el término y puede empobrecer el aprendizaje que la titulación debía acreditar.",
     "errores": [
       "Aceptar alcances sobredimensionados por entusiasmo del estudiante o del supervisor.",
       "Mantener implícitos los criterios de aprobación hasta la entrega final."
@@ -574,7 +574,7 @@
         "desencuentro entre lo que el supervisor asume y lo que el estudiante espera"
       ]
     ],
-    "desarrollo": "La mayor parte de los conflictos de supervisión proviene de expectativas no declaradas: cuánto se reúnen, quién propone, cuánto demora la retroalimentación, qué nivel de autonomía se espera. Un acuerdo breve al inicio previene la mayoría de esos conflictos y hace posible corregir a tiempo cuando la relación no funciona.",
+    "desarrollo": "La mayor parte de los conflictos de supervisión proviene de expectativas no declaradas: cuánto se reúnen, quién propone, cuánto demora la retroalimentación, qué nivel de autonomía se espera. Un acuerdo breve al inicio previene la mayoría de esos conflictos y hace posible corregir a tiempo cuando la relación no funciona. La asimetría de poder agrega una dificultad propia: el estudiante rara vez plantea que la supervisión es insuficiente, porque quien lo supervisa también lo evalúa, de modo que el problema aparece cuando ya es tarde.",
     "practica": "El acuerdo declara frecuencia de reuniones, qué lleva el estudiante a cada una, en qué plazo responde el supervisor, y cómo se evaluará el avance. La autonomía se traspasa por etapas explícitas: al inicio el supervisor propone la estructura, después la revisa, más tarde solo comenta el resultado. Nombrar la etapa evita la frustración de ambos lados.",
     "limites": "No hay evidencia experimental sobre modelos de supervisión: es conocimiento profesional acumulado, con fuerte variación disciplinar y cultural. Lo que sí está documentado es que la calidad de la supervisión es uno de los predictores más importantes de la finalización y de la experiencia del estudiante.",
     "errores": [
@@ -629,8 +629,8 @@
         "ajuste del diseño con la evidencia de cada versión del curso"
       ]
     ],
-    "desarrollo": "El proyecto integrador exige que las decisiones de la parte funcionen juntas: alineamiento con el perfil, métodos que exijan procesamiento activo, evaluación distribuida y sostenible, y carga realista. La prueba de calidad es la revisión de pares: entregar el diseño a un colega y responder sus objeciones sin recurrir a la costumbre o a la autoridad disciplinar.",
-    "practica": "El análisis final debe distinguir tres fuentes: resultados de aprendizaje, percepción de los estudiantes y observación del propio docente. Cuando divergen —buena evaluación docente con bajo aprendizaje, por ejemplo— la divergencia es la información más valiosa y la que orienta la siguiente versión.",
+    "desarrollo": "El proyecto integrador exige que las decisiones de la parte funcionen juntas: alineamiento con el perfil, métodos que exijan procesamiento activo, evaluación distribuida y sostenible, y carga realista. La prueba de calidad es la revisión de pares: entregar el diseño a un colega y responder sus objeciones sin recurrir a la costumbre o a la autoridad disciplinar. La coherencia se verifica en una tabla: cada resultado de aprendizaje declarado debe tener al menos una actividad que lo desarrolle y una evidencia que lo compruebe, y toda fila incompleta señala una decisión pendiente.",
+    "practica": "El análisis final debe distinguir tres fuentes: resultados de aprendizaje, percepción de los estudiantes y observación del propio docente. Cuando divergen —buena evaluación docente con bajo aprendizaje, por ejemplo— la divergencia es la información más valiosa y la que orienta la siguiente versión. Conviene registrar ese análisis por escrito al cerrar el semestre, cuando todavía se recuerda qué ocurrió: la memoria de marzo siguiente conserva la impresión general y pierde el detalle que permitía corregir.",
     "limites": "Una asignatura ejecutada una vez no permite atribuir resultados al diseño: la cohorte, el momento y el propio entusiasmo del docente influyen. Lo que produce es evidencia local suficiente para mejorar, y la base de un trabajo de investigación sobre la propia docencia si se diseña con más rigor.",
     "errores": [
       "Evaluar el éxito de la asignatura solo con la encuesta de satisfacción estudiantil.",

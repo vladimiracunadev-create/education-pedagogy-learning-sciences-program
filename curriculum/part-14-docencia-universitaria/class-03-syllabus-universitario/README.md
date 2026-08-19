@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Syllabus** | documento que establece el acuerdo académico y el plan de trabajo de la asignatura |
 | **Política de curso** | reglas explícitas sobre entregas, atrasos, integridad y uso de herramientas |
 | **Bibliografía justificada** | selección de lecturas con indicación de para qué sirve cada una |
-| **Accesibilidad declarada** | información sobre ajustes disponibles y cómo solicitarlos |
+| **Accesibilidad declarada** | información explícita sobre qué ajustes están disponibles, cómo se solicitan y ante quién, publicada antes de que el estudiante los necesite |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Syllabus** no es
 mismo que **Política de curso** —reglas explícitas sobre entregas, atrasos, integridad y uso de herramientas—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Bibliografía justificada** y
 **Accesibilidad declarada** describen aspectos distintos de la misma situación: el primero
-selección de lecturas con indicación de para qué sirve cada una, mientras el segundo información sobre ajustes disponibles y cómo solicitarlos.
+selección de lecturas con indicación de para qué sirve cada una, mientras el segundo información explícita sobre qué ajustes están disponibles, cómo se solicitan y ante quién, publicada antes de que el estudiante los necesite.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La revisión por un estudiante real es el mejor control de calidad: revela qué no se entiende, qué falta y qué sobra. Y la bibliografía debe indicar para qué sirve cada texto y qué se espera que se lea efectivamente, porque una lista extensa sin jerarquía comunica que nada es realmente obligatorio.
+La revisión por un estudiante real es el mejor control de calidad: revela qué no se entiende, qué falta y qué sobra. Y la bibliografía debe indicar para qué sirve cada texto y qué se espera que se lea efectivamente, porque una lista extensa sin jerarquía comunica que nada es realmente obligatorio. El syllabus debe además hacer explícita la carga: horas estimadas de trabajo autónomo por semana, contrastadas con los créditos declarados, que es donde suele aparecer la primera incoherencia del diseño.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El syllabus no reemplaza la comunicación durante el semestre ni impide ajustes justificados. Y su extensión tiene rendimientos decrecientes: los documentos muy largos se usan como defensa administrativa y no como herramienta para el estudiante.
+El syllabus no reemplaza la comunicación durante el semestre ni impide ajustes justificados. Y su extensión tiene rendimientos decrecientes: los documentos muy largos se usan como defensa administrativa y no como herramienta para el estudiante. Conviene distinguir dos audiencias que hoy conviven en el mismo documento: la institucional, que exige formato y trazabilidad, y la del estudiante, que necesita saber qué hacer esta semana.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 

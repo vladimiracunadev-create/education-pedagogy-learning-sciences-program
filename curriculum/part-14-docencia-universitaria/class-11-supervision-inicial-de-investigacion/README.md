@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La mayor parte de los conflictos de supervisión proviene de expectativas no declaradas: cuánto se reúnen, quién propone, cuánto demora la retroalimentación, qué nivel de autonomía se espera. Un acuerdo breve al inicio previene la mayoría de esos conflictos y hace posible corregir a tiempo cuando la relación no funciona.
+La mayor parte de los conflictos de supervisión proviene de expectativas no declaradas: cuánto se reúnen, quién propone, cuánto demora la retroalimentación, qué nivel de autonomía se espera. Un acuerdo breve al inicio previene la mayoría de esos conflictos y hace posible corregir a tiempo cuando la relación no funciona. La asimetría de poder agrega una dificultad propia: el estudiante rara vez plantea que la supervisión es insuficiente, porque quien lo supervisa también lo evalúa, de modo que el problema aparece cuando ya es tarde.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

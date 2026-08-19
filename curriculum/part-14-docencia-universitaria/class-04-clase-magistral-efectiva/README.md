@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El rediseño más simple y eficaz es la instrucción entre pares: pregunta conceptual con distractores diagnósticos, respuesta individual, discusión breve entre estudiantes, segunda respuesta. En cursos numerosos funciona con cualquier sistema de respuesta, incluidas tarjetas de papel. Y la segunda respuesta le dice al docente si puede avanzar o debe explicar de nuevo.
+El rediseño más simple y eficaz es la instrucción entre pares: pregunta conceptual con distractores diagnósticos, respuesta individual, discusión breve entre estudiantes, segunda respuesta. En cursos numerosos funciona con cualquier sistema de respuesta, incluidas tarjetas de papel. Y la segunda respuesta le dice al docente si puede avanzar o debe explicar de nuevo. La calidad de la pregunta es el verdadero trabajo de preparación: los distractores deben corresponder a errores conceptuales reales del campo, de modo que la distribución de respuestas informe qué está fallando.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Los efectos dependen de la calidad de las preguntas y de la implementación, no del formato en sí: preguntas triviales producen discusión vacía. Y la evidencia proviene sobre todo de ciencias e ingeniería; en disciplinas con otro tipo de contenido las técnicas deben adaptarse.
+Los efectos dependen de la calidad de las preguntas y de la implementación, no del formato en sí: preguntas triviales producen discusión vacía. Y la evidencia proviene sobre todo de ciencias e ingeniería; en disciplinas con otro tipo de contenido las técnicas deben adaptarse. Tampoco conviene descartar la exposición: para presentar un problema, mostrar el estado de una discusión o modelar el razonamiento de la disciplina, sigue siendo un formato eficiente cuando se alterna con procesamiento activo.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 
