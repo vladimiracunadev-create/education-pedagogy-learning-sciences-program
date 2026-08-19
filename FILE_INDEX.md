@@ -41,6 +41,7 @@
 | `notebooks/` | 1 | actividades analíticas reproducibles |
 | `papers/` | 1 | plantilla de revisión crítica de artículos |
 | `projects/` | 6 | proyectos integradores mayores del programa |
+| `rutas/` | 15 | guías de carrera por rol: qué es, día a día, ruta en el programa y credenciales |
 | `scripts/` | 6 | generadores y validadores; todo lo publicado se reconstruye con ellos |
 | `templates/` | 5 | plantillas de trabajo reutilizables |
 | `tests/` | 1 | pruebas estructurales del repositorio |

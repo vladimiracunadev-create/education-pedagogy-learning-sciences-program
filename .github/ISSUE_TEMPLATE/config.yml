@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Preguntas frecuentes
+    url: https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/blob/main/docs/PREGUNTAS_FRECUENTES.md
+    about: Resuelve primero las dudas más comunes sobre el uso del programa.
+  - name: Uso comercial o institucional
+    url: https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/blob/main/LICENSE-CONTENT.md
+    about: El contenido es CC BY-NC-SA 4.0; el uso comercial requiere autorización previa.

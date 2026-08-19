@@ -182,6 +182,58 @@ class PruebaSincronia(unittest.TestCase):
         self.assertEqual(resultado.returncode, 0, resultado.stdout + resultado.stderr)
 
 
+class PruebaRutasPorRol(unittest.TestCase):
+    """Las guías de carrera deben estar completas, enlazadas y ser navegables."""
+
+    SECCIONES = [
+        "## 🧭 Qué es y por qué importa",
+        "## 🗓️ Un día en el puesto",
+        "## 🧠 Qué necesitas saber",
+        "## 📚 Tu ruta en el programa",
+        "## 📈 Progresión",
+        "## ⚠️ Mitos y errores comunes",
+        "## 🚀 Siguientes pasos",
+    ]
+
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.carpeta = RAIZ / "rutas"
+        cls.guias = sorted(p for p in cls.carpeta.glob("*.md") if p.name != "README.md")
+        cls.indice = (cls.carpeta / "README.md").read_text(encoding="utf-8")
+
+    def test_existen_las_guias(self) -> None:
+        self.assertGreaterEqual(len(self.guias), 10)
+
+    def test_secciones_obligatorias(self) -> None:
+        for guia in self.guias:
+            texto = guia.read_text(encoding="utf-8")
+            with self.subTest(rol=guia.stem):
+                for seccion in self.SECCIONES:
+                    self.assertIn(seccion, texto)
+
+    def test_enlazadas_desde_el_indice(self) -> None:
+        for guia in self.guias:
+            with self.subTest(rol=guia.stem):
+                self.assertIn(guia.name, self.indice)
+
+    def test_profundidad_minima(self) -> None:
+        for guia in self.guias:
+            with self.subTest(rol=guia.stem):
+                self.assertGreater(len(guia.read_text(encoding="utf-8").split()), 700)
+
+    def test_navegacion_de_retorno(self) -> None:
+        for guia in self.guias:
+            texto = guia.read_text(encoding="utf-8")
+            with self.subTest(rol=guia.stem):
+                self.assertIn("Volver al índice de rutas", texto)
+
+    def test_enlazadas_desde_el_readme_principal(self) -> None:
+        readme = (RAIZ / "README.md").read_text(encoding="utf-8")
+        for guia in self.guias:
+            with self.subTest(rol=guia.stem):
+                self.assertIn(f"rutas/{guia.name}", readme)
+
+
 class PruebaDocumentacion(unittest.TestCase):
     """Los documentos que el programa promete deben existir y estar enlazados."""
 

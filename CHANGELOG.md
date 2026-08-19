@@ -7,6 +7,35 @@ Versionado semántico: `MAYOR.MENOR.PARCHE`.
 - **MENOR:** se agrega contenido o material de apoyo sin romper la estructura.
 - **PARCHE:** correcciones de contenido, fuentes, enlaces o generadores.
 
+## [1.1.0] — 2026-08-19
+
+### Añadido
+
+- **14 guías de carrera por rol** en `rutas/`: docente de básica, de media, educador/a de
+  párvulos, docente técnico-profesional, educador/a diferencial, jefatura técnico-pedagógica,
+  dirección escolar, formador de adultos, docente universitario, diseñador instruccional,
+  especialista en evaluación, especialista en IA educativa, investigador educativo y formador de
+  formadores. Cada una con qué es el rol, un día en el puesto, qué necesitas saber, la ruta exacta
+  en el programa, credenciales y marco chileno, progresión, mitos del oficio y siguientes pasos.
+- **Índice de rutas** (`rutas/README.md`) con el recorrido recomendado, la evidencia de salida y
+  la credencial de referencia de cada rol.
+- **Validación de las guías de rol en CI**: secciones obligatorias, extensión mínima, enlace desde
+  el índice y navegación de retorno.
+- **Dependabot** para mantener las acciones de GitHub al día, y **zizmor con versión fijada**
+  para que una release nueva de la herramienta no vuelva rojo el CI.
+- **Plantillas de issue y de pull request** alineadas con las exigencias de contribución.
+
+### Cambiado
+
+- **README reconstruido**: portada con cobertura por ciclo y función, anatomía de una clase,
+  estado verificable ampliado, resultado principal por parte, tabla de rutas por rol, distribución
+  de estados de evidencia, material de práctica y sección de migración a LMS.
+- El **sitio publica las rutas por rol** y las incorpora al menú lateral.
+- La **validación de enlaces** cubre ahora `rutas/`, `templates/`, `projects/`, `cases/` y
+  `assessments/`: 3.713 enlaces internos verificados.
+- Los workflows declaran **tiempos máximos por job** y fijan la versión de las herramientas de
+  auditoría, para que el CI no se vuelva rojo por un cambio externo.
+
 ## [1.0.0] — 2026-08-18
 
 Primera versión completa y publicada del programa.

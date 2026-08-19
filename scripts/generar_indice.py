@@ -186,6 +186,7 @@ DESCRIPCIONES = {
     "curriculum": "las 18 partes y sus 216 clases, generadas desde `manifests/`",
     "manifests": "fuente única de verdad del currículo: nada se edita a mano en `curriculum/`",
     "docs": "documentos transversales: metodología, guías, bibliografía, marcos y protocolos",
+    "rutas": "guías de carrera por rol: qué es, día a día, ruta en el programa y credenciales",
     "scripts": "generadores y validadores; todo lo publicado se reconstruye con ellos",
     "tests": "pruebas estructurales del repositorio",
     "cases": "casos profesionales para resolver con el marco del programa",

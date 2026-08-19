@@ -30,6 +30,7 @@ REPO = "https://github.com/vladimiracunadev-create/education-pedagogy-learning-s
 
 SECCIONES = [
     ("docs", "Documentos transversales"),
+    ("rutas", "Rutas por rol"),
     ("curriculum", "Currículo"),
     ("cases", "Casos profesionales"),
     ("projects", "Proyectos integradores"),
@@ -488,10 +489,14 @@ def construir_menu(curriculo: list[dict], base: str) -> str:
         vistas.append(clase["part"])
         partes += (f'<li><a href="{base}curriculum/{clase["part_slug"]}/index.html">'
                    f'{clase["part"]:02d}. {html.escape(clase["part_title"])}</a></li>')
+    roles = "".join(
+        f'<li><a href="{base}rutas/{p.stem}.html">{p.stem.replace("-", " ").capitalize()}</a></li>'
+        for p in sorted((RAIZ / "rutas").glob("*.md")) if p.stem != "README"
+    ) if (RAIZ / "rutas").exists() else ""
     otras = "".join(
         f'<li><a href="{base}{carpeta}/index.html">{nombre}</a></li>'
         for carpeta, nombre in SECCIONES
-        if carpeta not in {"docs", "curriculum"} and (RAIZ / carpeta).exists()
+        if carpeta not in {"docs", "curriculum", "rutas"} and (RAIZ / carpeta).exists()
     )
     return f"""
 <h2>Programa</h2>
@@ -507,6 +512,10 @@ def construir_menu(curriculo: list[dict], base: str) -> str:
 <ul>{docs}</ul>
 <h2>Las 18 partes</h2>
 <ul>{partes}</ul>
+<h2>Rutas por rol</h2>
+<ul>
+  <li><a href="{base}rutas/index.html">Índice de rutas</a></li>
+{roles}</ul>
 <h2>Material de apoyo</h2>
 <ul>{otras}</ul>
 """

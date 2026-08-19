@@ -55,6 +55,16 @@ SECCIONES_PARTE = [
 
 ENLACE = re.compile(r"\[[^\]]*\]\(([^)\s]+)\)")
 
+SECCIONES_ROL = [
+    "## 🧭 Qué es y por qué importa",
+    "## 🗓️ Un día en el puesto",
+    "## 🧠 Qué necesitas saber",
+    "## 📚 Tu ruta en el programa",
+    "## 📈 Progresión",
+    "## ⚠️ Mitos y errores comunes",
+    "## 🚀 Siguientes pasos",
+]
+
 
 def error(mensajes: list[str], texto: str) -> None:
     mensajes.append(texto)
@@ -96,11 +106,46 @@ def validar_secciones(fallos: list[str], partes: list[Path], clases: list[Path])
                 error(fallos, f"{parte.name}/README.md: falta la sección «{seccion}»")
 
 
+def validar_rutas_por_rol(fallos: list[str]) -> int:
+    """Cada guía de rol debe estar completa y enlazada desde el índice de rutas."""
+    carpeta = RAIZ / "rutas"
+    if not carpeta.exists():
+        error(fallos, "falta la carpeta rutas/ con las guías por rol")
+        return 0
+
+    indice = (carpeta / "README.md")
+    if not indice.exists():
+        error(fallos, "rutas/README.md no existe")
+        return 0
+    texto_indice = indice.read_text(encoding="utf-8")
+
+    guias = sorted(p for p in carpeta.glob("*.md") if p.name != "README.md")
+    if len(guias) < 10:
+        error(fallos, f"se esperaban al menos 10 guías de rol y hay {len(guias)}")
+
+    for guia in guias:
+        texto = guia.read_text(encoding="utf-8")
+        relativo = guia.relative_to(RAIZ).as_posix()
+        for seccion in SECCIONES_ROL:
+            if seccion not in texto:
+                error(fallos, f"{relativo}: falta la sección «{seccion}»")
+        if guia.name not in texto_indice:
+            error(fallos, f"{relativo}: no está enlazada desde rutas/README.md")
+        if len(texto.split()) < 700:
+            error(fallos, f"{relativo}: tiene menos de 700 palabras")
+        if "Volver al índice de rutas" not in texto:
+            error(fallos, f"{relativo}: falta la navegación de retorno al índice")
+    return len(guias)
+
+
 def validar_enlaces(fallos: list[str]) -> int:
     """Comprueba que todo enlace relativo del repositorio apunte a algo existente."""
     comprobados = 0
-    for documento in list(RAIZ.glob("*.md")) + sorted(RAIZ.glob("curriculum/**/*.md")) \
-            + sorted(RAIZ.glob("docs/*.md")):
+    carpetas = ("curriculum/**", "docs", "rutas", "templates", "projects", "cases", "assessments")
+    documentos = list(RAIZ.glob("*.md"))
+    for carpeta in carpetas:
+        documentos += sorted(RAIZ.glob(f"{carpeta}/*.md"))
+    for documento in documentos:
         texto = documento.read_text(encoding="utf-8")
         for destino in ENLACE.findall(texto):
             if destino.startswith(("http://", "https://", "mailto:", "#")):
@@ -169,6 +214,7 @@ def metricas() -> dict[str, int]:
                      + sum((p / "README.md").read_text(encoding="utf-8").count("```mermaid")
                            for p in CURRICULO.glob("part-*")),
         "documentos": len(list(RAIZ.glob("docs/*.md"))),
+        "guias_de_rol": len([p for p in RAIZ.glob("rutas/*.md") if p.name != "README.md"]),
     }
 
 
@@ -184,6 +230,7 @@ def main() -> int:
     fallos: list[str] = []
     partes, clases = validar_conteos(fallos)
     validar_secciones(fallos, partes, clases)
+    guias = validar_rutas_por_rol(fallos)
     enlaces = validar_enlaces(fallos)
     validar_manifiestos(fallos)
 
@@ -195,7 +242,8 @@ def main() -> int:
             print(f"  … y {len(fallos) - 40} más.")
         return 1
 
-    print(f"OK: {len(partes)} partes, {len(clases)} clases, {enlaces} enlaces internos verificados.")
+    print(f"OK: {len(partes)} partes, {len(clases)} clases, {guias} guías de rol, "
+          f"{enlaces} enlaces internos verificados.")
     if args.resumen:
         for clave, valor in metricas().items():
             print(f"  {clave}: {valor:,}".replace(",", "."))

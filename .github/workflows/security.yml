@@ -10,8 +10,8 @@ on:
     - cron: "0 6 * * 1"
   workflow_dispatch:
 
-permissions:
-  contents: read
+# Los permisos se declaran por job: ninguno necesita más que lectura.
+permissions: {}
 
 concurrency:
   group: seguridad-${{ github.ref }}
@@ -21,6 +21,9 @@ jobs:
   secretos:
     name: Búsqueda de secretos
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
     steps:
       - name: Checkout con historial completo
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
@@ -36,6 +39,9 @@ jobs:
   workflows:
     name: Auditoría de workflows
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
     steps:
       - name: Checkout
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
@@ -47,15 +53,20 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Versión fijada a propósito: sin pin, una release con auditorías nuevas
+      # deja el CI en rojo sin que nadie haya tocado el repositorio.
       - name: zizmor
         run: |
           python -m pip install --upgrade pip
-          pip install zizmor
-          zizmor .github/workflows/
+          pip install "zizmor==1.29.0"
+          zizmor --persona regular .github/workflows/
 
   datos-personales:
     name: Sin datos personales ni archivos privados
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
     steps:
       - name: Checkout
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5

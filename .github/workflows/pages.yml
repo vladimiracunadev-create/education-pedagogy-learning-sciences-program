@@ -31,6 +31,7 @@ jobs:
   build:
     name: Generar sitio
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: read
     steps:
@@ -65,6 +66,7 @@ jobs:
     name: Publicar
     needs: build
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       pages: write
       id-token: write

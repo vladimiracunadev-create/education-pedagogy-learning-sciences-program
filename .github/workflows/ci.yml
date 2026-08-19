@@ -19,6 +19,7 @@ jobs:
   curriculo:
     name: Currículo, estructura y enlaces
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     strategy:
       fail-fast: false
       matrix:
@@ -65,6 +66,7 @@ jobs:
   markdown:
     name: Markdown lint
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
@@ -84,6 +86,7 @@ jobs:
   sitio:
     name: Build del sitio
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
@@ -112,6 +115,13 @@ jobs:
 
       # Los diagramas se comprueban aquí y no en el job de currículo porque es
       # el HTML emitido, no el Markdown, el que debe llevar el bloque mermaid.
+      - name: Verificar que las rutas por rol se publicaron
+        run: |
+          guias=$(find site/rutas -name '*.html' | wc -l)
+          echo "Guías de rol publicadas: $guias"
+          test "$guias" -ge 15
+          test -f site/rutas/index.html
+
       - name: Verificar que los diagramas llegaron al HTML
         run: |
           con_diagrama=$(grep -rl 'class="mermaid"' site --include='*.html' | wc -l)
@@ -121,6 +131,7 @@ jobs:
   capacitacion:
     name: Paquete de capacitación
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5

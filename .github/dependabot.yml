@@ -1,0 +1,15 @@
+version: 2
+
+updates:
+  # Las acciones se fijan por SHA para que el CI sea reproducible; Dependabot
+  # las mantiene al día abriendo un PR cuando aparece una versión nueva.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    open-pull-requests-limit: 3
+    commit-message:
+      prefix: "ci"
+    labels:
+      - "dependencias"
