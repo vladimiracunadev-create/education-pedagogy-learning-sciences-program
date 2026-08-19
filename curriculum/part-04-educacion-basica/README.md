@@ -85,10 +85,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. Psychological Science in the Public Interest, 19(1).** — la síntesis más citada sobre adquisición de la lectura: qué está resuelto y qué sigue abierto.
-- **Rosenshine, B. (2012). *Principles of Instruction*. American Educator, 36(1).** — diez principios de enseñanza derivados de investigación de aula, cognición y docentes eficaces; la mejor entrada corta a la didáctica basada en evidencia.
-- **Wiliam, D. (2011). *Embedded Formative Assessment*.** — convierte la evaluación formativa en técnicas concretas de aula, no en un discurso sobre evaluación.
-- **Mineduc. *Bases Curriculares de Educación Básica* y Programas de Estudio (edición vigente).** — referencia obligatoria para objetivos, progresión y priorización curricular en Chile.
+- **Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. Psychological Science in the Public Interest, 19(1).** — la síntesis más citada sobre adquisición de la lectura: qué está resuelto y qué sigue abierto. **Localizar:** [DOI 10.1177/1529100618772271](https://doi.org/10.1177/1529100618772271) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#castles-rastle-2018-ending-the-reading-wars-2)
+- **Rosenshine, B. (2012). *Principles of Instruction*. American Educator, 36(1).** — diez principios de enseñanza derivados de investigación de aula, cognición y docentes eficaces; la mejor entrada corta a la didáctica basada en evidencia. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#rosenshine-2012-principles-of-instruction-2) — sin localizador verificado todavía.
+- **Wiliam, D. (2011). *Embedded Formative Assessment*.** — convierte la evaluación formativa en técnicas concretas de aula, no en un discurso sobre evaluación. **Localizar:** [ISBN 9781934009307](https://openlibrary.org/isbn/9781934009307) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#wiliam-2011-embedded-formative-assessment)
+- **Mineduc. *Bases Curriculares de Educación Básica* y Programas de Estudio (edición vigente).** — referencia obligatoria para objetivos, progresión y priorización curricular en Chile. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mineduc-bases-curriculares-de-educacion-basica)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

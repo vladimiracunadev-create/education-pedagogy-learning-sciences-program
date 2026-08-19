@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Eccles, J. et al. (1993). *Development During Adolescence: The Impact of Stage-Environment Fit*. American Psychologist, 48(2).** — explica por qué la motivación cae justo cuando la escuela se vuelve más controladora; base del diagnóstico de esta parte.
-- **Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?*** — revisión que separa las condiciones en que el aprendizaje basado en problemas funciona de aquellas en que no.
-- **Yeager, D. & Dweck, C. (2012). *Mindsets That Promote Resilience*. Educational Psychologist, 47(4).** — léelo junto con las replicaciones posteriores: efecto real pero pequeño y condicionado al contexto escolar.
-- **Wiggins, G. (1998). *Educative Assessment*.** — define evaluación auténtica con criterios exigibles, no como sinónimo de trabajo creativo.
+- **Eccles, J. et al. (1993). *Development During Adolescence: The Impact of Stage-Environment Fit*. American Psychologist, 48(2).** — explica por qué la motivación cae justo cuando la escuela se vuelve más controladora; base del diagnóstico de esta parte. **Localizar:** [DOI 10.1037/0003-066x.48.2.90](https://doi.org/10.1037/0003-066x.48.2.90) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#eccles-1993-development-during-adolescence-the-impact-of)
+- **Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?*** — revisión que separa las condiciones en que el aprendizaje basado en problemas funciona de aquellas en que no. **Localizar:** [DOI 10.1023/b:edpr.0000034022.16470.f3](https://doi.org/10.1023/b:edpr.0000034022.16470.f3) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#hmelo-silver-2004-problem-based-learning-what-and-how)
+- **Yeager, D. & Dweck, C. (2012). *Mindsets That Promote Resilience*. Educational Psychologist, 47(4).** — léelo junto con las replicaciones posteriores: efecto real pero pequeño y condicionado al contexto escolar. **Localizar:** [DOI 10.1080/00461520.2012.722805](https://doi.org/10.1080/00461520.2012.722805) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#yeager-dweck-2012-mindsets-that-promote-resilience)
+- **Wiggins, G. (1998). *Educative Assessment*.** — define evaluación auténtica con criterios exigibles, no como sinónimo de trabajo creativo. **Localizar:** [ISBN 9780787908485](https://openlibrary.org/isbn/9780787908485) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#wiggins-1998-educative-assessment)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

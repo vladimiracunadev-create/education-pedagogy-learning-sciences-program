@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente). **Uso en esta clase:** el modelo descrito por quien lo desarrolló, con su lógica de diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** por qué la circulación de modelos depende de factores que no son de evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Colbert, V. *Escuela Nueva: modelo pedagógico para la educación rural* (edición vigente). **Uso en esta clase:** el modelo descrito por quien lo desarrolló, con su lógica de diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#colbert-escuela-nueva-modelo-pedagogico-para-la) — sin localizador verificado todavía.
+- Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** por qué la circulación de modelos depende de factores que no son de evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780807744932](https://openlibrary.org/isbn/9780807744932) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#steiner-khamsi-2004-the-global-politics-of-educational-borrowing)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

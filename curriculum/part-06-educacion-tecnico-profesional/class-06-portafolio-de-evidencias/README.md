@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. **Uso en esta clase:** propone criterios de calidad aplicables a portafolios y evaluación de competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para la evaluación en la formación diferenciada técnico-profesional* (edición vigente). **Uso en esta clase:** referencia chilena sobre instrumentos y evidencias esperadas en el nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. **Uso en esta clase:** propone criterios de calidad aplicables a portafolios y evaluación de competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.edurev.2007.06.001](https://doi.org/10.1016/j.edurev.2007.06.001) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#baartman-2007-evaluating-assessment-quality-in-competence-based)
+- Mineduc. *Orientaciones para la evaluación en la formación diferenciada técnico-profesional* (edición vigente). **Uso en esta clase:** referencia chilena sobre instrumentos y evidencias esperadas en el nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-orientaciones-para-la-evaluacion-en-la)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

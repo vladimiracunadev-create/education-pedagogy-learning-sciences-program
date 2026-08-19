@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*. **Uso en esta clase:** trata validez externa y problemas de selección con precisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences*. **Uso en esta clase:** base del análisis de potencia y de la interpretación de tamaños de efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*. **Uso en esta clase:** trata validez externa y problemas de selección con precisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780395615560](https://openlibrary.org/isbn/9780395615560) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#shadish-cook-2002-experimental-and-quasi-experimental-designs)
+- Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences*. **Uso en esta clase:** base del análisis de potencia y de la interpretación de tamaños de efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#cohen-1988-statistical-power-analysis-for-the-behavioral) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Lave, J. & Wenger, E. (1991). *Situated Learning*. **Uso en esta clase:** el texto que define participación periférica legítima y explica cómo se aprende un oficio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Billett, S. (2001). *Learning in the Workplace*. **Uso en esta clase:** traduce el enfoque a decisiones de diseño de formación en el puesto de trabajo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Lave, J. & Wenger, E. (1991). *Situated Learning*. **Uso en esta clase:** el texto que define participación periférica legítima y explica cómo se aprende un oficio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781139632270](https://openlibrary.org/isbn/9781139632270) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#lave-wenger-1991-situated-learning)
+- Billett, S. (2001). *Learning in the Workplace*. **Uso en esta clase:** traduce el enfoque a decisiones de diseño de formación en el puesto de trabajo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781000250176](https://openlibrary.org/isbn/9781000250176) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#billett-2001-learning-in-the-workplace)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

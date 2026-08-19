@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** modelo de mejora continua aplicado a escuelas, con ciclos y redes de aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Fullan, M. (2011). *Choosing the Wrong Drivers*. **Uso en esta clase:** advierte sobre las estrategias de reforma que consumen energía sin producir mejora. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** modelo de mejora continua aplicado a escuelas, con ciclos y redes de aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781612507910](https://openlibrary.org/isbn/9781612507910) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryk-2015-learning-to-improve)
+- Fullan, M. (2011). *Choosing the Wrong Drivers*. **Uso en esta clase:** advierte sobre las estrategias de reforma que consumen energía sin producir mejora. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#fullan-2011-choosing-the-wrong-drivers) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

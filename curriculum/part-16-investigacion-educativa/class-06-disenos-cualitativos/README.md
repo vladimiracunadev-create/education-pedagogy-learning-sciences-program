@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Yin, R. (2018). *Case Study Research and Applications*. **Uso en esta clase:** diseño de estudios de caso con criterios de calidad y de inferencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Lincoln, Y. & Guba, E. (1985). *Naturalistic Inquiry*. **Uso en esta clase:** propone credibilidad, transferibilidad, dependibilidad y confirmabilidad como criterios de rigor. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Yin, R. (2018). *Case Study Research and Applications*. **Uso en esta clase:** diseño de estudios de caso con criterios de calidad y de inferencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781544308388](https://openlibrary.org/isbn/9781544308388) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#yin-2018-case-study-research-and-applications)
+- Lincoln, Y. & Guba, E. (1985). *Naturalistic Inquiry*. **Uso en esta clase:** propone credibilidad, transferibilidad, dependibilidad y confirmabilidad como criterios de rigor. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780803924314](https://openlibrary.org/isbn/9780803924314) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#lincoln-guba-1985-naturalistic-inquiry)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

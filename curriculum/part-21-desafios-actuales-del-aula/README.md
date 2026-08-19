@@ -85,10 +85,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Olweus, D. (1993). *Bullying at School*.** — define el fenómeno con criterios operacionales —intención, repetición y asimetría de poder— que siguen ordenando la práctica.
-- **Salmivalli, C. (2010). *Bullying and the Peer Group*.** — muestra que el grupo sostiene el acoso y que intervenir solo sobre agresor y víctima suele fracasar.
-- **Balfanz, R. & Byrnes, V. (2012). *The Importance of Being in School*.** — convierte la asistencia en un indicador temprano accionable y no en una estadística de fin de año.
-- **Greene, R. (2014). *Lost at School*.** — reencuadra la conducta como habilidad ausente y propone una respuesta colaborativa verificable.
+- **Olweus, D. (1993). *Bullying at School*.** — define el fenómeno con criterios operacionales —intención, repetición y asimetría de poder— que siguen ordenando la práctica. **Localizar:** [ISBN 9780631227885](https://openlibrary.org/isbn/9780631227885) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#olweus-1993-bullying-at-school)
+- **Salmivalli, C. (2010). *Bullying and the Peer Group*.** — muestra que el grupo sostiene el acoso y que intervenir solo sobre agresor y víctima suele fracasar. **Localizar:** [DOI 10.1016/j.avb.2009.08.007](https://doi.org/10.1016/j.avb.2009.08.007) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#salmivalli-2010-bullying-and-the-peer-group)
+- **Balfanz, R. & Byrnes, V. (2012). *The Importance of Being in School*.** — convierte la asistencia en un indicador temprano accionable y no en una estadística de fin de año. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#balfanz-byrnes-2012-the-importance-of-being-in-school) — sin localizador verificado todavía.
+- **Greene, R. (2014). *Lost at School*.** — reencuadra la conducta como habilidad ausente y propone una respuesta colaborativa verificable. **Localizar:** [ISBN 9781511359481](https://openlibrary.org/isbn/9781511359481) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#greene-2014-lost-at-school)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Kounin, J. (1970). *Discipline and Group Management in Classrooms*.** — origen del hallazgo sobre prevención y percepción simultánea del grupo; sigue siendo la mejor descripción del mecanismo.
-- **Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers* (edición vigente).** — el manual operativo más completo: rutinas, transiciones y comienzo del año escolar.
-- **Mineduc / Superintendencia de Educación. *Política Nacional de Convivencia Educativa* y normativa sobre reglamentos internos (edición vigente).** — marco chileno vigente: obligaciones, protocolos y debido proceso.
-- **Ley 20.536 sobre violencia escolar y su normativa asociada (edición vigente).** — define responsabilidades del establecimiento; verifica su versión consolidada antes de aplicarla.
+- **Kounin, J. (1970). *Discipline and Group Management in Classrooms*.** — origen del hallazgo sobre prevención y percepción simultánea del grupo; sigue siendo la mejor descripción del mecanismo. **Localizar:** [ISBN 9780030782107](https://openlibrary.org/isbn/9780030782107) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#kounin-1970-discipline-and-group-management-in-classrooms)
+- **Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers* (edición vigente).** — el manual operativo más completo: rutinas, transiciones y comienzo del año escolar. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#evertson-emmer-classroom-management-for-elementary-secondary-teachers) — sin localizador verificado todavía.
+- **Mineduc / Superintendencia de Educación. *Política Nacional de Convivencia Educativa* y normativa sobre reglamentos internos (edición vigente).** — marco chileno vigente: obligaciones, protocolos y debido proceso. **Localizar:** [fuente oficial](https://convivenciaparaciudadania.mineduc.cl/) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mineduc-superintendencia-de-educacion-politica-nacional-de-convivencia-educativa)
+- **Ley 20.536 sobre violencia escolar y su normativa asociada (edición vigente).** — define responsabilidades del establecimiento; verifica su versión consolidada antes de aplicarla. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1030087) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#ley-20-536-sobre-violencia-escolar)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

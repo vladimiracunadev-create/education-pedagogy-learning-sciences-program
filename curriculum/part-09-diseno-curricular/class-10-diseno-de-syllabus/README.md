@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** modelo de syllabus alineado con resultados y evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sistema de créditos transferibles (SCT-Chile) y marcos de créditos internacionales (edición vigente). **Uso en esta clase:** base para estimar carga de trabajo del estudiante en horas reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** modelo de syllabus alineado con resultados y evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780335242764](https://openlibrary.org/isbn/9780335242764) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biggs-tang-2011-teaching-for-quality-learning-at-university)
+- Sistema de créditos transferibles (SCT-Chile) y marcos de créditos internacionales (edición vigente). **Uso en esta clase:** base para estimar carga de trabajo del estudiante en horas reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sistema-de-creditos-transferibles-sct-chile) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

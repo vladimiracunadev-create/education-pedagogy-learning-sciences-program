@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Mineduc (2018). *Bases Curriculares de la Educación Parvularia*.** — marco vigente en Chile: ámbitos, núcleos y objetivos de aprendizaje del nivel; es la referencia que rige tu planificación.
-- **Sylva, K. et al. (2004). *The Effective Provision of Pre-School Education (EPPE) Project*.** — estudio longitudinal británico que vincula calidad del programa con efectos posteriores; enseña a leer el matiz «calidad» antes de «cobertura».
-- **Copple, C. & Bredekamp, S. (eds.) (2009). *Developmentally Appropriate Practice in Early Childhood Programs*. NAEYC.** — marco práctico sobre qué es apropiado a cada edad y por qué; útil para argumentar frente a la presión escolarizante.
-- **Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.** — fundamenta la documentación pedagógica como forma de evaluación y de investigación del equipo.
+- **Mineduc (2018). *Bases Curriculares de la Educación Parvularia*.** — marco vigente en Chile: ámbitos, núcleos y objetivos de aprendizaje del nivel; es la referencia que rige tu planificación. **Localizar:** [fuente oficial](https://parvularia.mineduc.cl/descarga-las-bases-curriculares-la-educacion-parvularia-2018/) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mineduc-2018-bases-curriculares-de-la-educacion-parvularia)
+- **Sylva, K. et al. (2004). *The Effective Provision of Pre-School Education (EPPE) Project*.** — estudio longitudinal británico que vincula calidad del programa con efectos posteriores; enseña a leer el matiz «calidad» antes de «cobertura». **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#sylva-2004-the-effective-provision-of-pre-school) — sin localizador verificado todavía.
+- **Copple, C. & Bredekamp, S. (eds.) (2009). *Developmentally Appropriate Practice in Early Childhood Programs*. NAEYC.** — marco práctico sobre qué es apropiado a cada edad y por qué; útil para argumentar frente a la presión escolarizante. **Localizar:** [ISBN 9781928896647](https://openlibrary.org/isbn/9781928896647) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#copple-bredekamp-2009-developmentally-appropriate-practice-in-early-childhood)
+- **Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.** — fundamenta la documentación pedagógica como forma de evaluación y de investigación del equipo. **Localizar:** [ISBN 9780415345040](https://openlibrary.org/isbn/9780415345040) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#rinaldi-2006-in-dialogue-with-reggio-emilia)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

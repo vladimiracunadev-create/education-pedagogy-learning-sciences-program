@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Zhao, Y. (2014). *Who's Afraid of the Big Bad Dragon?* **Uso en esta clase:** el costo de los sistemas de alto rendimiento, escrito desde dentro de esa tradición. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. **Uso en esta clase:** qué características tiene el desarrollo profesional que efectivamente cambia la práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Zhao, Y. (2014). *Who's Afraid of the Big Bad Dragon?* **Uso en esta clase:** el costo de los sistemas de alto rendimiento, escrito desde dentro de esa tradición. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781501200977](https://openlibrary.org/isbn/9781501200977) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#zhao-2014-who-s-afraid-of-the-big)
+- Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. **Uso en esta clase:** qué características tiene el desarrollo profesional que efectivamente cambia la práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.54300/122.311](https://doi.org/10.54300/122.311) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#darling-hammond-2017-effective-teacher-professional-development-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

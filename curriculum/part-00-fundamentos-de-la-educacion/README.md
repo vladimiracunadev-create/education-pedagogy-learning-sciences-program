@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Dewey, J. (1916). *Democracy and Education*.** — el texto que instala la pregunta por el fin de la educación en la democracia; léelo por su argumento, no por sus recetas.
-- **Freire, P. (1970). *Pedagogía del oprimido*.** — la crítica más influyente en América Latina a la enseñanza como depósito de contenidos; contrástalo con la evidencia sobre instrucción explícita.
-- **Biesta, G. (2010). *Good Education in an Age of Measurement*.** — distingue calificación, socialización y subjetivación como tres funciones distintas de la educación; ordena la discusión sobre calidad.
-- **UNESCO (2015). *Replantear la educación: ¿hacia un bien común mundial?*** — marco internacional vigente sobre educación como bien común; útil para fundamentar políticas y proyectos.
+- **Dewey, J. (1916). *Democracy and Education*.** — el texto que instala la pregunta por el fin de la educación en la democracia; léelo por su argumento, no por sus recetas. **Localizar:** [DOI 10.2307/2178611](https://doi.org/10.2307/2178611) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#dewey-1916-democracy-and-education-2)
+- **Freire, P. (1970). *Pedagogía del oprimido*.** — la crítica más influyente en América Latina a la enseñanza como depósito de contenidos; contrástalo con la evidencia sobre instrucción explícita. **Localizar:** [ISBN 9789871220106](https://openlibrary.org/isbn/9789871220106) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#freire-1970-pedagogia-del-oprimido)
+- **Biesta, G. (2010). *Good Education in an Age of Measurement*.** — distingue calificación, socialización y subjetivación como tres funciones distintas de la educación; ordena la discusión sobre calidad. **Localizar:** [ISBN 9781315634319](https://openlibrary.org/isbn/9781315634319) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#biesta-2010-good-education-in-an-age-of)
+- **UNESCO (2015). *Replantear la educación: ¿hacia un bien común mundial?*** — marco internacional vigente sobre educación como bien común; útil para fundamentar políticas y proyectos. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#unesco-2015-replantear-la-educacion-hacia-un-bien) — sin localizador verificado todavía.
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

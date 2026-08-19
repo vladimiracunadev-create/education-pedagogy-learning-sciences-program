@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** principios de explicación derivados de la investigación sobre docentes eficaces. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mayer, R. (2021). *Multimedia Learning*. **Uso en esta clase:** aporta segmentación, señalización y principios de diseño con evidencia experimental. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** principios de explicación derivados de la investigación sobre docentes eficaces. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rosenshine-2012-principles-of-instruction) — sin localizador verificado todavía.
+- Mayer, R. (2021). *Multimedia Learning*. **Uso en esta clase:** aporta segmentación, señalización y principios de diseño con evidencia experimental. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781316638088](https://openlibrary.org/isbn/9781316638088) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mayer-2021-multimedia-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

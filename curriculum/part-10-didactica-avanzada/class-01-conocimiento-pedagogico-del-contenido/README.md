@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*. **Uso en esta clase:** el artículo fundacional del conocimiento pedagógico del contenido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ball, D., Thames, M. & Phelps, G. (2008). *Content Knowledge for Teaching: What Makes It Special?* **Uso en esta clase:** desarrolla el concepto con precisión y con evidencia en el caso de la matemática escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*. **Uso en esta clase:** el artículo fundacional del conocimiento pedagógico del contenido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/1175860](https://doi.org/10.2307/1175860) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#shulman-1986-those-who-understand-knowledge-growth-in)
+- Ball, D., Thames, M. & Phelps, G. (2008). *Content Knowledge for Teaching: What Makes It Special?* **Uso en esta clase:** desarrolla el concepto con precisión y con evidencia en el caso de la matemática escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/0022487108324554](https://doi.org/10.1177/0022487108324554) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ball-thames-2008-content-knowledge-for-teaching-what-makes)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

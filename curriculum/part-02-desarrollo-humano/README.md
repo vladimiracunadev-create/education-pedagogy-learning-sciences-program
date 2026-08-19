@@ -90,10 +90,10 @@ flowchart LR
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Shonkoff, J. & Phillips, D. (eds.) (2000). *From Neurons to Neighborhoods*. National Research Council.** — la síntesis de referencia sobre desarrollo temprano y su relación con las políticas de infancia.
-- **Vygotsky, L. (1978). *Mind in Society*.** — origen de la zona de desarrollo próximo y de la idea de mediación; léelo antes de usar la expresión en una planificación.
-- **Bronfenbrenner, U. (1979). *The Ecology of Human Development*.** — explica por qué una intervención escolar no puede evaluarse ignorando familia, barrio y política pública.
-- **Steinberg, L. (2014). *Age of Opportunity: Lessons from the New Science of Adolescence*.** — reordena la adolescencia como período de plasticidad y oportunidad, no solo de riesgo.
+- **Shonkoff, J. & Phillips, D. (eds.) (2000). *From Neurons to Neighborhoods*. National Research Council.** — la síntesis de referencia sobre desarrollo temprano y su relación con las políticas de infancia. **Localizar:** [ISBN 9780309134835](https://openlibrary.org/isbn/9780309134835) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#shonkoff-phillips-2000-from-neurons-to-neighborhoods-2)
+- **Vygotsky, L. (1978). *Mind in Society*.** — origen de la zona de desarrollo próximo y de la idea de mediación; léelo antes de usar la expresión en una planificación. **Localizar:** [ISBN 9780674576292](https://openlibrary.org/isbn/9780674576292) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#vygotsky-1978-mind-in-society)
+- **Bronfenbrenner, U. (1979). *The Ecology of Human Development*.** — explica por qué una intervención escolar no puede evaluarse ignorando familia, barrio y política pública. **Localizar:** [ISBN 9780674028845](https://openlibrary.org/isbn/9780674028845) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#bronfenbrenner-1979-the-ecology-of-human-development)
+- **Steinberg, L. (2014). *Age of Opportunity: Lessons from the New Science of Adolescence*.** — reordena la adolescencia como período de plasticidad y oportunidad, no solo de riesgo. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#steinberg-2014-age-of-opportunity-lessons-from-the) — sin localizador verificado todavía.
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

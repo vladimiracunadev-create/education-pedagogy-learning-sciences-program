@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Siegler, R. (1996). *Emerging Minds: The Process of Change in Children's Thinking*. **Uso en esta clase:** muestra el desarrollo como variabilidad y selección de estrategias, no como sucesión de etapas fijas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Gopnik, A. (2016). *The Gardener and the Carpenter*. **Uso en esta clase:** síntesis accesible de la investigación reciente sobre cognición infantil y sus implicancias para adultos que enseñan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Siegler, R. (1996). *Emerging Minds: The Process of Change in Children's Thinking*. **Uso en esta clase:** muestra el desarrollo como variabilidad y selección de estrategias, no como sucesión de etapas fijas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780195077872](https://openlibrary.org/isbn/9780195077872) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#siegler-1996-emerging-minds-the-process-of-change)
+- Gopnik, A. (2016). *The Gardener and the Carpenter*. **Uso en esta clase:** síntesis accesible de la investigación reciente sobre cognición infantil y sus implicancias para adultos que enseñan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781250132253](https://openlibrary.org/isbn/9781250132253) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#gopnik-2016-the-gardener-and-the-carpenter)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

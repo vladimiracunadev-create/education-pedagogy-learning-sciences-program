@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Piaget, J. (1970). *Psicología y epistemología*. **Uso en esta clase:** fuente del par asimilación-acomodación; útil para entender el mecanismo, con las reservas actuales sobre las etapas fijas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*. Educational Psychologist, 41(2). **Uso en esta clase:** el contrapunto obligatorio: distingue la teoría del aprendizaje del método de enseñanza que se le atribuye. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Piaget, J. (1970). *Psicología y epistemología*. **Uso en esta clase:** fuente del par asimilación-acomodación; útil para entender el mecanismo, con las reservas actuales sobre las etapas fijas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#piaget-1970-psicologia-y-epistemologia) — sin localizador verificado todavía.
+- Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*. Educational Psychologist, 41(2). **Uso en esta clase:** el contrapunto obligatorio: distingue la teoría del aprendizaje del método de enseñanza que se le atribuye. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kirschner-sweller-2006-why-minimal-guidance-during-instruction-does)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

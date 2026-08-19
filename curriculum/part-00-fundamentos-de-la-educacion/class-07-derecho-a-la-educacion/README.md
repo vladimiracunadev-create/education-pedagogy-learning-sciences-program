@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Naciones Unidas (1989). *Convención sobre los Derechos del Niño*, arts. 28 y 29. **Uso en esta clase:** fija el contenido del derecho a la educación y el criterio de interés superior; es derecho vigente en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Biblioteca del Congreso Nacional de Chile. *Ley General de Educación* y *Ley de Inclusión Escolar* (edición vigente). **Uso en esta clase:** texto consolidado y vigente; consulta siempre la versión a la fecha en que aplicarás la medida. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Naciones Unidas (1989). *Convención sobre los Derechos del Niño*, arts. 28 y 29. **Uso en esta clase:** fija el contenido del derecho a la educación y el criterio de interés superior; es derecho vigente en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.36576/summa.28039](https://doi.org/10.36576/summa.28039) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#naciones-unidas-1989-convencion-sobre-los-derechos-del-nino)
+- Biblioteca del Congreso Nacional de Chile. *Ley General de Educación* y *Ley de Inclusión Escolar* (edición vigente). **Uso en esta clase:** texto consolidado y vigente; consulta siempre la versión a la fecha en que aplicarás la medida. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1006043) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biblioteca-del-congreso-nacional-de-chile-ley-general-de-educacion)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

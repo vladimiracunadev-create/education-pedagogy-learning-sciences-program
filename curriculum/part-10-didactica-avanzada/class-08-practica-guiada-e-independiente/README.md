@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** establece la secuencia de práctica guiada e independiente con sus criterios. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Soderstrom, N. & Bjork, R. (2015). *Learning versus Performance*. **Uso en esta clase:** distingue desempeño inmediato de aprendizaje duradero; clave para dosificar y distribuir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** establece la secuencia de práctica guiada e independiente con sus criterios. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rosenshine-2012-principles-of-instruction) — sin localizador verificado todavía.
+- Soderstrom, N. & Bjork, R. (2015). *Learning versus Performance*. **Uso en esta clase:** distingue desempeño inmediato de aprendizaje duradero; clave para dosificar y distribuir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1745691615569000](https://doi.org/10.1177/1745691615569000) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#soderstrom-bjork-2015-learning-versus-performance)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

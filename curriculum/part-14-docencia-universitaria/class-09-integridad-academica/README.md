@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bretag, T. (ed.) (2016). *Handbook of Academic Integrity*. **Uso en esta clase:** tratamiento sistemático del campo, sus causas y sus políticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** orientaciones institucionales para políticas de uso y evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bretag, T. (ed.) (2016). *Handbook of Academic Integrity*. **Uso en esta clase:** tratamiento sistemático del campo, sus causas y sus políticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9789812870988](https://openlibrary.org/isbn/9789812870988) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bretag-2016-handbook-of-academic-integrity-2)
+- UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** orientaciones institucionales para políticas de uso y evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-2023-guidance-for-generative-ai-in-education)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

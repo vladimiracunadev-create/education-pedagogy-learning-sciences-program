@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- National Mathematics Advisory Panel (2008). *Foundations for Success*. **Uso en esta clase:** informe que sintetiza la evidencia sobre fluidez, conceptos y resolución de problemas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Siegler, R. et al. (2012). *Early Predictors of High School Mathematics Achievement*. Psychological Science, 23(7). **Uso en esta clase:** muestra el papel predictivo del conocimiento de fracciones y división; orienta prioridades del segundo ciclo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- National Mathematics Advisory Panel (2008). *Foundations for Success*. **Uso en esta clase:** informe que sintetiza la evidencia sobre fluidez, conceptos y resolución de problemas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#national-mathematics-advisory-panel-2008-foundations-for-success) — sin localizador verificado todavía.
+- Siegler, R. et al. (2012). *Early Predictors of High School Mathematics Achievement*. Psychological Science, 23(7). **Uso en esta clase:** muestra el papel predictivo del conocimiento de fracciones y división; orienta prioridades del segundo ciclo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/0956797612440101](https://doi.org/10.1177/0956797612440101) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#siegler-2012-early-predictors-of-high-school-mathematics)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

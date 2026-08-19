@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*. **Uso en esta clase:** condiciones de diseño de experiencias extensas con evidencia de aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wiggins, G. (1998). *Educative Assessment*. **Uso en esta clase:** criterios de evaluación auténtica aplicables al producto y al proceso del desafío. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*. **Uso en esta clase:** condiciones de diseño de experiencias extensas con evidencia de aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#barron-darling-hammond-2008-teaching-for-meaningful-learning) — sin localizador verificado todavía.
+- Wiggins, G. (1998). *Educative Assessment*. **Uso en esta clase:** criterios de evaluación auténtica aplicables al producto y al proceso del desafío. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780787908485](https://openlibrary.org/isbn/9780787908485) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiggins-1998-educative-assessment)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

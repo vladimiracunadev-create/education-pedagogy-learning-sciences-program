@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mayer, R. (2021). *Multimedia Learning* (3.ª ed.). **Uso en esta clase:** los principios con su evidencia experimental y sus condiciones límite. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Clark, R. & Mayer, R. (2016). *e-Learning and the Science of Instruction*. **Uso en esta clase:** traduce los principios a decisiones de diseño de material y de cursos en línea. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mayer, R. (2021). *Multimedia Learning* (3.ª ed.). **Uso en esta clase:** los principios con su evidencia experimental y sus condiciones límite. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781316638088](https://openlibrary.org/isbn/9781316638088) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mayer-2021-multimedia-learning-2)
+- Clark, R. & Mayer, R. (2016). *e-Learning and the Science of Instruction*. **Uso en esta clase:** traduce los principios a decisiones de diseño de material y de cursos en línea. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#clark-mayer-2016-e-learning-and-the-science-of) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

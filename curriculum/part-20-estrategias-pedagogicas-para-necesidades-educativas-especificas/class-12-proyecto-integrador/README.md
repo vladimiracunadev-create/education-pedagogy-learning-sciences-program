@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** el modelo de indicadores revisables aplicado a la planificación de apoyos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco normativo del plan de adecuaciones y su exigencia de revisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** el modelo de indicadores revisables aplicado a la planificación de apoyos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#booth-ainscow-2011-index-for-inclusion) — sin localizador verificado todavía.
+- Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco normativo del plan de adecuaciones y su exigencia de revisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1074511) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#decreto-83-2015-ministerio-de-educacion)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

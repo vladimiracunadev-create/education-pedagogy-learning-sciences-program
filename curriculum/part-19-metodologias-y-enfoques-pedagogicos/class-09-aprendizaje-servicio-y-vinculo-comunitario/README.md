@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Tapia, M. N. (2006). *Aprendizaje y servicio solidario en el sistema educativo y las organizaciones juveniles*. **Uso en esta clase:** la formulación latinoamericana con sus criterios de calidad y sus advertencias sobre asistencialismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Dewey, J. (1916). *Democracy and Education*. **Uso en esta clase:** el fundamento de la experiencia con propósito educativo, que esta metodología intenta operacionalizar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Tapia, M. N. (2006). *Aprendizaje y servicio solidario en el sistema educativo y las organizaciones juveniles*. **Uso en esta clase:** la formulación latinoamericana con sus criterios de calidad y sus advertencias sobre asistencialismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#tapia-2006-aprendizaje-y-servicio-solidario-en-el) — sin localizador verificado todavía.
+- Dewey, J. (1916). *Democracy and Education*. **Uso en esta clase:** el fundamento de la experiencia con propósito educativo, que esta metodología intenta operacionalizar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/2178611](https://doi.org/10.2307/2178611) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#dewey-1916-democracy-and-education-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

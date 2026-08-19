@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Garrison, D., Anderson, T. & Archer, W. (2000). *Critical Inquiry in a Text-Based Environment*. **Uso en esta clase:** modelo de presencia docente, social y cognitiva; sigue siendo el marco más usado. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Means, B. et al. (2013). *The Effectiveness of Online and Blended Learning*. Teachers College Record. **Uso en esta clase:** síntesis que muestra que el diseño y el tiempo explican más que la modalidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Garrison, D., Anderson, T. & Archer, W. (2000). *Critical Inquiry in a Text-Based Environment*. **Uso en esta clase:** modelo de presencia docente, social y cognitiva; sigue siendo el marco más usado. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/s1096-7516(00)00016-6](https://doi.org/10.1016/s1096-7516(00)00016-6) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#garrison-anderson-2000-critical-inquiry-in-a-text-based)
+- Means, B. et al. (2013). *The Effectiveness of Online and Blended Learning*. Teachers College Record. **Uso en esta clase:** síntesis que muestra que el diseño y el tiempo explican más que la modalidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/016146811311500307](https://doi.org/10.1177/016146811311500307) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#means-2013-the-effectiveness-of-online-and-blended)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

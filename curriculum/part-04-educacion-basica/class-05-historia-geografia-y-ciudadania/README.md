@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wineburg, S. (2001). *Historical Thinking and Other Unnatural Acts*. **Uso en esta clase:** muestra experimentalmente en qué se diferencia leer como historiador de leer como estudiante. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hess, D. & McAvoy, P. (2015). *The Political Classroom*. **Uso en esta clase:** evidencia y criterios para conducir deliberación sobre asuntos controversiales en la escuela. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wineburg, S. (2001). *Historical Thinking and Other Unnatural Acts*. **Uso en esta clase:** muestra experimentalmente en qué se diferencia leer como historiador de leer como estudiante. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/1512489](https://doi.org/10.2307/1512489) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wineburg-2001-historical-thinking-and-other-unnatural-acts)
+- Hess, D. & McAvoy, P. (2015). *The Political Classroom*. **Uso en esta clase:** evidencia y criterios para conducir deliberación sobre asuntos controversiales en la escuela. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780415880985](https://openlibrary.org/isbn/9780415880985) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hess-mcavoy-2015-the-political-classroom)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

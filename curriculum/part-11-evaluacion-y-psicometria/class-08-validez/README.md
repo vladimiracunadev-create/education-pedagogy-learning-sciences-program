@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Messick, S. (1989). *Validity*. **Uso en esta clase:** el capítulo que integra interpretación, uso y consecuencias en un solo concepto de validez. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Kane, M. (2013). *Validating the Interpretations and Uses of Test Scores*. Journal of Educational Measurement, 50(1). **Uso en esta clase:** desarrolla el enfoque de argumento de validez, directamente aplicable a evaluaciones propias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Messick, S. (1989). *Validity*. **Uso en esta clase:** el capítulo que integra interpretación, uso y consecuencias en un solo concepto de validez. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1002/j.2330-8516.1987.tb00244.x](https://doi.org/10.1002/j.2330-8516.1987.tb00244.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#messick-1989-validity)
+- Kane, M. (2013). *Validating the Interpretations and Uses of Test Scores*. Journal of Educational Measurement, 50(1). **Uso en esta clase:** desarrolla el enfoque de argumento de validez, directamente aplicable a evaluaciones propias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/jedm.12000](https://doi.org/10.1111/jedm.12000) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kane-2013-validating-the-interpretations-and-uses-of)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Deci, E. & Ryan, R. (2000). *Self-Determination Theory*. **Uso en esta clase:** las tres necesidades psicológicas que sostienen la motivación autónoma. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Yeager, D. et al. (2019). *A National Experiment Reveals Where a Growth Mindset Improves Achievement*. **Uso en esta clase:** el ejemplo mejor documentado de efecto real, pequeño y dependiente del contexto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Deci, E. & Ryan, R. (2000). *Self-Determination Theory*. **Uso en esta clase:** las tres necesidades psicológicas que sostienen la motivación autónoma. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037//0003-066x.55.1.68](https://doi.org/10.1037//0003-066x.55.1.68) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#deci-ryan-2000-self-determination-theory)
+- Yeager, D. et al. (2019). *A National Experiment Reveals Where a Growth Mindset Improves Achievement*. **Uso en esta clase:** el ejemplo mejor documentado de efecto real, pequeño y dependiente del contexto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1038/s41586-019-1466-y](https://doi.org/10.1038/s41586-019-1466-y) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#yeager-2019-a-national-experiment-reveals-where-a)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

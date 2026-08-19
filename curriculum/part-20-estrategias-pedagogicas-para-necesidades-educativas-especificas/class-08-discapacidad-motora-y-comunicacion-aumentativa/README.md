@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Beukelman, D. & Mirenda, P. *Augmentative and Alternative Communication* (edición vigente). **Uso en esta clase:** el manual de referencia sobre sistemas aumentativos y sus condiciones de implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)* (edición vigente). **Uso en esta clase:** el marco que sitúa la participación como resultado de la interacción con el entorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Beukelman, D. & Mirenda, P. *Augmentative and Alternative Communication* (edición vigente). **Uso en esta clase:** el manual de referencia sobre sistemas aumentativos y sus condiciones de implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781598571967](https://openlibrary.org/isbn/9781598571967) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#beukelman-mirenda-augmentative-and-alternative-communication)
+- Organización Mundial de la Salud. *Clasificación Internacional del Funcionamiento (CIF)* (edición vigente). **Uso en esta clase:** el marco que sitúa la participación como resultado de la interacción con el entorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#organizacion-mundial-de-la-salud-clasificacion-internacional-del-funcionamiento)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

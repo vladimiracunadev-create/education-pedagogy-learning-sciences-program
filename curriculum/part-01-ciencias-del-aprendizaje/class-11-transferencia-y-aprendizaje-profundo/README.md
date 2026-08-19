@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Barnett, S. & Ceci, S. (2002). *When and Where Do We Apply What We Learn? A Taxonomy for Far Transfer*. Psychological Bulletin, 128(4). **Uso en esta clase:** ordena el debate con una taxonomía; útil para no discutir sobre transferencia sin decir cuál. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Gick, M. & Holyoak, K. (1983). *Schema Induction and Analogical Transfer*. **Uso en esta clase:** los experimentos clásicos que muestran cuán poco transfiere una solución si no se hace explícita la analogía. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Barnett, S. & Ceci, S. (2002). *When and Where Do We Apply What We Learn? A Taxonomy for Far Transfer*. Psychological Bulletin, 128(4). **Uso en esta clase:** ordena el debate con una taxonomía; útil para no discutir sobre transferencia sin decir cuál. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/0033-2909.128.4.612](https://doi.org/10.1037/0033-2909.128.4.612) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#barnett-ceci-2002-when-and-where-do-we-apply)
+- Gick, M. & Holyoak, K. (1983). *Schema Induction and Analogical Transfer*. **Uso en esta clase:** los experimentos clásicos que muestran cuán poco transfiere una solución si no se hace explícita la analogía. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/0010-0285(83)90002-6](https://doi.org/10.1016/0010-0285(83)90002-6) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#gick-holyoak-1983-schema-induction-and-analogical-transfer)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

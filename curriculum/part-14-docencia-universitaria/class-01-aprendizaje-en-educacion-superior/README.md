@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Marton, F. & Säljö, R. (1976). *On Qualitative Differences in Learning*. **Uso en esta clase:** el estudio que introduce la distinción entre enfoque profundo y superficial. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ramsden, P. (2003). *Learning to Teach in Higher Education*. **Uso en esta clase:** conecta la investigación sobre enfoques con decisiones concretas de diseño docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Marton, F. & Säljö, R. (1976). *On Qualitative Differences in Learning*. **Uso en esta clase:** el estudio que introduce la distinción entre enfoque profundo y superficial. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.2044-8279.1976.tb02980.x](https://doi.org/10.1111/j.2044-8279.1976.tb02980.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#marton-saljo-1976-on-qualitative-differences-in-learning)
+- Ramsden, P. (2003). *Learning to Teach in Higher Education*. **Uso en esta clase:** conecta la investigación sobre enfoques con decisiones concretas de diseño docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781134412068](https://openlibrary.org/isbn/9781134412068) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ramsden-2003-learning-to-teach-in-higher-education)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

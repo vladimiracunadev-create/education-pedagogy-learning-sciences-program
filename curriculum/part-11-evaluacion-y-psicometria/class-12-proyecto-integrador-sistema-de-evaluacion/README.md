@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. **Uso en esta clase:** referencia técnica para sostener el sistema en sus componentes de mayor consecuencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*. **Uso en esta clase:** articula evaluación y retroalimentación como sistema y no como eventos separados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. **Uso en esta clase:** referencia técnica para sostener el sistema en sus componentes de mayor consecuencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.testingstandards.net/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#aera-ncme-2014-standards-for-educational-and-psychological-testing)
+- Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*. **Uso en esta clase:** articula evaluación y retroalimentación como sistema y no como eventos separados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/02602938.2012.691462](https://doi.org/10.1080/02602938.2012.691462) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#boud-molloy-2013-rethinking-models-of-feedback-for-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

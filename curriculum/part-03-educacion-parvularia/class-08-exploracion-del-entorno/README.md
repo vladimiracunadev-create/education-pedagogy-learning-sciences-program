@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc (2018). *Bases Curriculares de la Educación Parvularia*, ámbito Interacción y Comprensión del Entorno. **Uso en esta clase:** define los objetivos de exploración del entorno natural, social y cultural. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Harlen, W. (2015). *Working with Big Ideas of Science Education*. **Uso en esta clase:** orienta qué ideas conviene construir desde la infancia y cómo evitar explicaciones prematuras. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc (2018). *Bases Curriculares de la Educación Parvularia*, ámbito Interacción y Comprensión del Entorno. **Uso en esta clase:** define los objetivos de exploración del entorno natural, social y cultural. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://parvularia.mineduc.cl/descarga-las-bases-curriculares-la-educacion-parvularia-2018/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-2018-bases-curriculares-de-la-educacion-parvularia-3)
+- Harlen, W. (2015). *Working with Big Ideas of Science Education*. **Uso en esta clase:** orienta qué ideas conviene construir desde la infancia y cómo evitar explicaciones prematuras. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#harlen-2015-working-with-big-ideas-of-science) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

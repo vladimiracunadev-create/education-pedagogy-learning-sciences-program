@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Graham, S. & Perin, D. (2007). *Writing Next*. **Uso en esta clase:** la síntesis que ordena qué prácticas de escritura tienen respaldo y con qué magnitud. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Graham, S. & Harris, K. (2005). *Writing Better: Effective Strategies for Teaching Students with Learning Difficulties*. **Uso en esta clase:** el modelo de enseñanza explícita del proceso de escribir con andamiaje decreciente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Graham, S. & Perin, D. (2007). *Writing Next*. **Uso en esta clase:** la síntesis que ordena qué prácticas de escritura tienen respaldo y con qué magnitud. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#graham-perin-2007-writing-next) — sin localizador verificado todavía.
+- Graham, S. & Harris, K. (2005). *Writing Better: Effective Strategies for Teaching Students with Learning Difficulties*. **Uso en esta clase:** el modelo de enseñanza explícita del proceso de escribir con andamiaje decreciente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#graham-harris-2005-writing-better-effective-strategies-for-teaching) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

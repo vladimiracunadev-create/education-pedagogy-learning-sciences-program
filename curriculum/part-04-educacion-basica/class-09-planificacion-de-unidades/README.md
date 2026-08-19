@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. **Uso en esta clase:** el procedimiento de diseño inverso, aplicable directamente a la unidad escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Programas de Estudio* vigentes (edición vigente). **Uso en esta clase:** referencia obligatoria de objetivos y progresión; base sobre la que se planifica en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. **Uso en esta clase:** el procedimiento de diseño inverso, aplicable directamente a la unidad escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiggins-mctighe-2005-understanding-by-design) — sin localizador verificado todavía.
+- Mineduc. *Programas de Estudio* vigentes (edición vigente). **Uso en esta clase:** referencia obligatoria de objetivos y progresión; base sobre la que se planifica en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-programas-de-estudio)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

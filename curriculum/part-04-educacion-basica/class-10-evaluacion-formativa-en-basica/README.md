@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** convierte la evaluación formativa en técnicas concretas con condiciones de uso. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Black, P. & Wiliam, D. (1998). *Inside the Black Box*. **Uso en esta clase:** el texto que instaló la práctica; conviene leerlo junto con las revisiones críticas posteriores sobre magnitudes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** convierte la evaluación formativa en técnicas concretas con condiciones de uso. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781934009307](https://openlibrary.org/isbn/9781934009307) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiliam-2011-embedded-formative-assessment)
+- Black, P. & Wiliam, D. (1998). *Inside the Black Box*. **Uso en esta clase:** el texto que instaló la práctica; conviene leerlo junto con las revisiones críticas posteriores sobre magnitudes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780708713815](https://openlibrary.org/isbn/9780708713815) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#black-wiliam-1998-inside-the-black-box)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

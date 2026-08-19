@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Weisberg, D., Hirsh-Pasek, K. & Golinkoff, R. (2013). *Guided Play: Where Curricular Goals Meet a Playful Pedagogy*. **Uso en esta clase:** define el juego guiado y sintetiza la evidencia que lo distingue del juego libre y de la instrucción. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Vygotsky, L. (1978). *Mind in Society*, cap. sobre el juego. **Uso en esta clase:** explica por qué el juego simbólico opera como zona de desarrollo próximo del propio niño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Weisberg, D., Hirsh-Pasek, K. & Golinkoff, R. (2013). *Guided Play: Where Curricular Goals Meet a Playful Pedagogy*. **Uso en esta clase:** define el juego guiado y sintetiza la evidencia que lo distingue del juego libre y de la instrucción. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/mbe.12015](https://doi.org/10.1111/mbe.12015) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#weisberg-hirsh-pasek-2013-guided-play-where-curricular-goals-meet)
+- Vygotsky, L. (1978). *Mind in Society*, cap. sobre el juego. **Uso en esta clase:** explica por qué el juego simbólico opera como zona de desarrollo próximo del propio niño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780674576292](https://openlibrary.org/isbn/9780674576292) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#vygotsky-1978-mind-in-society-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

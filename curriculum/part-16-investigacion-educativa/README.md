@@ -85,10 +85,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs for Generalized Causal Inference*.** — la referencia sobre amenazas a la validez; enseña a leer qué puede y qué no puede afirmar un diseño.
-- **Creswell, J. & Creswell, J. D. (2018). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches*.** — buena entrada comparada a los tres enfoques con criterios de elección explícitos.
-- **Braun, V. & Clarke, V. (2006). *Using Thematic Analysis in Psychology*. Qualitative Research in Psychology, 3(2).** — el procedimiento de análisis temático más usado y peor aplicado; léelo antes de decir que hiciste análisis temático.
-- **Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*. Science, 349(6251).** — el estudio que obliga a leer con cautela cualquier hallazgo único no replicado.
+- **Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs for Generalized Causal Inference*.** — la referencia sobre amenazas a la validez; enseña a leer qué puede y qué no puede afirmar un diseño. **Localizar:** [ISBN 9780395615560](https://openlibrary.org/isbn/9780395615560) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#shadish-cook-2002-experimental-and-quasi-experimental-designs-for)
+- **Creswell, J. & Creswell, J. D. (2018). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches*.** — buena entrada comparada a los tres enfoques con criterios de elección explícitos. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#creswell-creswell-2018-research-design-qualitative-quantitative-and-mixed) — sin localizador verificado todavía.
+- **Braun, V. & Clarke, V. (2006). *Using Thematic Analysis in Psychology*. Qualitative Research in Psychology, 3(2).** — el procedimiento de análisis temático más usado y peor aplicado; léelo antes de decir que hiciste análisis temático. **Localizar:** [DOI 10.1191/1478088706qp063oa](https://doi.org/10.1191/1478088706qp063oa) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#braun-clarke-2006-using-thematic-analysis-in-psychology-2)
+- **Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*. Science, 349(6251).** — el estudio que obliga a leer con cautela cualquier hallazgo único no replicado. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#open-science-collaboration-2015-estimating-the-reproducibility-of-psychological-2) — sin localizador verificado todavía.
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

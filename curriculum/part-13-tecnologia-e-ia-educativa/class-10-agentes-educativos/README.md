@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. **Uso en esta clase:** principios de supervisión humana y responsabilidad aplicables a sistemas autónomos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- OCDE. *Principios sobre inteligencia artificial* (edición vigente). **Uso en esta clase:** marco internacional sobre transparencia, robustez y rendición de cuentas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Baker, R. & Inventado, P. (2014). *Educational Data Mining and Learning Analytics*. **Uso en esta clase:** describe qué pueden y qué no pueden inferir los sistemas que observan el aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. **Uso en esta clase:** principios de supervisión humana y responsabilidad aplicables a sistemas autónomos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/es/artificial-intelligence/recommendation-ethics) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-2021-recomendacion-sobre-la-etica-de-la)
+- OCDE. *Principios sobre inteligencia artificial* (edición vigente). **Uso en esta clase:** marco internacional sobre transparencia, robustez y rendición de cuentas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://oecd.ai/en/ai-principles) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-principios-sobre-inteligencia-artificial)
+- Baker, R. & Inventado, P. (2014). *Educational Data Mining and Learning Analytics*. **Uso en esta clase:** describe qué pueden y qué no pueden inferir los sistemas que observan el aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/978-1-4614-3305-7_4](https://doi.org/10.1007/978-1-4614-3305-7_4) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#baker-inventado-2014-educational-data-mining-and-learning-analytics)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

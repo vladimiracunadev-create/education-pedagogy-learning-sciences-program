@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Petticrew, M. & Roberts, H. (2006). *Systematic Reviews in the Social Sciences*. **Uso en esta clase:** metodología de revisión sistemática aplicable también a revisiones más acotadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Boote, D. & Beile, P. (2005). *Scholars Before Researchers*. **Uso en esta clase:** argumenta y operacionaliza qué hace buena a una revisión de literatura de tesis. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Petticrew, M. & Roberts, H. (2006). *Systematic Reviews in the Social Sciences*. **Uso en esta clase:** metodología de revisión sistemática aplicable también a revisiones más acotadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781405121101](https://openlibrary.org/isbn/9781405121101) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#petticrew-roberts-2006-systematic-reviews-in-the-social-sciences)
+- Boote, D. & Beile, P. (2005). *Scholars Before Researchers*. **Uso en esta clase:** argumenta y operacionaliza qué hace buena a una revisión de literatura de tesis. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/0013189x034006003](https://doi.org/10.3102/0013189x034006003) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#boote-beile-2005-scholars-before-researchers)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

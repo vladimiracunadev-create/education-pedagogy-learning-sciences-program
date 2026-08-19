@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers* (edición vigente). **Uso en esta clase:** protocolos de enseñanza de normas y rutinas para el comienzo del año. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Simonsen, B. et al. (2008). *Evidence-Based Practices in Classroom Management*. **Uso en esta clase:** revisión de prácticas con respaldo empírico, incluidas normas y rutinas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers* (edición vigente). **Uso en esta clase:** protocolos de enseñanza de normas y rutinas para el comienzo del año. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#evertson-emmer-classroom-management-for-elementary-secondary-teachers) — sin localizador verificado todavía.
+- Simonsen, B. et al. (2008). *Evidence-Based Practices in Classroom Management*. **Uso en esta clase:** revisión de prácticas con respaldo empírico, incluidas normas y rutinas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#simonsen-2008-evidence-based-practices-in-classroom-management)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

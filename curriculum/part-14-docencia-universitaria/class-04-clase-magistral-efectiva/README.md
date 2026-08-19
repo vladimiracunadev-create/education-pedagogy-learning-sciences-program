@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Freeman, S. et al. (2014). *Active Learning Increases Student Performance*. PNAS, 111(23). **Uso en esta clase:** el metaanálisis que reordenó la discusión sobre la cátedra universitaria. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mazur, E. (1997). *Peer Instruction: A User's Manual*. **Uso en esta clase:** el método de instrucción entre pares con su implementación paso a paso. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Freeman, S. et al. (2014). *Active Learning Increases Student Performance*. PNAS, 111(23). **Uso en esta clase:** el metaanálisis que reordenó la discusión sobre la cátedra universitaria. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#freeman-2014-active-learning-increases-student-performance)
+- Mazur, E. (1997). *Peer Instruction: A User's Manual*. **Uso en esta clase:** el método de instrucción entre pares con su implementación paso a paso. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1119/1.19265](https://doi.org/10.1119/1.19265) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mazur-1997-peer-instruction-a-user-s-manual)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

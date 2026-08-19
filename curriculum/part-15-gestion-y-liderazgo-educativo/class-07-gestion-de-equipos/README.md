@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Hargreaves, A. & O'Connor, M. (2018). *Collaborative Professionalism*. **Uso en esta clase:** distingue colaboración real de coordinación y aporta criterios de conducción de equipos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Robinson, V. (2011). *Student-Centered Leadership*. **Uso en esta clase:** incluye las conversaciones sobre desempeño como práctica directiva central. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Hargreaves, A. & O'Connor, M. (2018). *Collaborative Professionalism*. **Uso en esta clase:** distingue colaboración real de coordinación y aporta criterios de conducción de equipos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781506328157](https://openlibrary.org/isbn/9781506328157) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hargreaves-o-connor-2018-collaborative-professionalism)
+- Robinson, V. (2011). *Student-Centered Leadership*. **Uso en esta clase:** incluye las conversaciones sobre desempeño como práctica directiva central. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780470874134](https://openlibrary.org/isbn/9780470874134) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#robinson-2011-student-centered-leadership)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

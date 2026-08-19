@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*. **Uso en esta clase:** propone sistemas de retroalimentación sostenibles y centrados en el uso del estudiante. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Nicol, D. & Macfarlane-Dick (2006). *Formative Assessment and Self-Regulated Learning*. **Uso en esta clase:** principios de evaluación que fortalecen la autorregulación en educación superior. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*. **Uso en esta clase:** propone sistemas de retroalimentación sostenibles y centrados en el uso del estudiante. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/02602938.2012.691462](https://doi.org/10.1080/02602938.2012.691462) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#boud-molloy-2013-rethinking-models-of-feedback-for-learning)
+- Nicol, D. & Macfarlane-Dick (2006). *Formative Assessment and Self-Regulated Learning*. **Uso en esta clase:** principios de evaluación que fortalecen la autorregulación en educación superior. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/03075070600572090](https://doi.org/10.1080/03075070600572090) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#nicol-macfarlane-dick-2006-formative-assessment-and-self-regulated-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

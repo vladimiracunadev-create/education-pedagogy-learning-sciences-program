@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. **Uso en esta clase:** define confiabilidad y error de medida y su relación con el uso de los puntajes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- McNeish, D. (2018). *Thanks Coefficient Alpha, We'll Take It From Here*. Psychological Methods, 23(3). **Uso en esta clase:** expone los problemas del alfa y las alternativas disponibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. **Uso en esta clase:** define confiabilidad y error de medida y su relación con el uso de los puntajes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.testingstandards.net/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#aera-ncme-2014-standards-for-educational-and-psychological-testing)
+- McNeish, D. (2018). *Thanks Coefficient Alpha, We'll Take It From Here*. Psychological Methods, 23(3). **Uso en esta clase:** expone los problemas del alfa y las alternativas disponibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/met0000144](https://doi.org/10.1037/met0000144) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mcneish-2018-thanks-coefficient-alpha-we-ll-take)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

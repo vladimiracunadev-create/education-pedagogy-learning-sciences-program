@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- AAIDD. *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports* (edición vigente). **Uso en esta clase:** define la discapacidad intelectual desde los apoyos necesarios y no desde el déficit. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Browder, D. & Spooner, F. (2011). *Teaching Students with Moderate and Severe Disabilities*. **Uso en esta clase:** enseñanza académica con evidencia para estudiantes con necesidades de apoyo extensas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- AAIDD. *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports* (edición vigente). **Uso en esta clase:** define la discapacidad intelectual desde los apoyos necesarios y no desde el déficit. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#aaidd-intellectual-disability-definition-diagnosis-classification-and) — sin localizador verificado todavía.
+- Browder, D. & Spooner, F. (2011). *Teaching Students with Moderate and Severe Disabilities*. **Uso en esta clase:** enseñanza académica con evidencia para estudiantes con necesidades de apoyo extensas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781606239919](https://openlibrary.org/isbn/9781606239919) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#browder-spooner-2011-teaching-students-with-moderate-and-severe)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

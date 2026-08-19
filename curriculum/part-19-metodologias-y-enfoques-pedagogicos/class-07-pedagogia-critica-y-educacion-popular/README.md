@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Freire, P. (1970). *Pedagogía del oprimido*. **Uso en esta clase:** la formulación original de la crítica y del diálogo problematizador, con su lenguaje propio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Biesta, G. (2010). *Good Education in an Age of Measurement*. **Uso en esta clase:** recupera la pregunta por la finalidad sin renunciar al rigor ni caer en el eslogan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Freire, P. (1970). *Pedagogía del oprimido*. **Uso en esta clase:** la formulación original de la crítica y del diálogo problematizador, con su lenguaje propio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9789871220106](https://openlibrary.org/isbn/9789871220106) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#freire-1970-pedagogia-del-oprimido)
+- Biesta, G. (2010). *Good Education in an Age of Measurement*. **Uso en esta clase:** recupera la pregunta por la finalidad sin renunciar al rigor ni caer en el eslogan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781315634319](https://openlibrary.org/isbn/9781315634319) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biesta-2010-good-education-in-an-age-of)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

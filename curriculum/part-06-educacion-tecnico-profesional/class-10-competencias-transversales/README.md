@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Skills for Jobs* y estudios sobre competencias transversales (edición vigente). **Uso en esta clase:** documenta la demanda del sector y los problemas de medición de estas competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Tuning / Marco de cualificaciones. *Descriptores de competencias transversales* (edición vigente). **Uso en esta clase:** ejemplos de traducción de competencias genéricas a desempeños graduables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Pellegrino, J. & Hilton, M. (eds.) (2012). *Education for Life and Work*. **Uso en esta clase:** la síntesis que separa lo que se sabe sobre competencias transversales de lo que se declara. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Skills for Jobs* y estudios sobre competencias transversales (edición vigente). **Uso en esta clase:** documenta la demanda del sector y los problemas de medición de estas competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-skills-for-jobs) — sin localizador verificado todavía.
+- Tuning / Marco de cualificaciones. *Descriptores de competencias transversales* (edición vigente). **Uso en esta clase:** ejemplos de traducción de competencias genéricas a desempeños graduables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.tuningacademy.org/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#tuning-marco-de-cualificaciones-descriptores-de-competencias-transversales)
+- Pellegrino, J. & Hilton, M. (eds.) (2012). *Education for Life and Work*. **Uso en esta clase:** la síntesis que separa lo que se sabe sobre competencias transversales de lo que se declara. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#pellegrino-hilton-2012-education-for-life-and-work) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

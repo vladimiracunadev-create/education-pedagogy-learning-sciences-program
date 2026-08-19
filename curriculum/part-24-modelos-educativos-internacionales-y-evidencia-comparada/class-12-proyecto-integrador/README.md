@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** el método de probar en ciclos cortos antes de escalar, aplicable a cualquier adopción. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Crehan, L. (2016). *Cleverlands*. **Uso en esta clase:** el ejercicio de separar mecanismo de contexto, que esta propuesta debe reproducir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** el método de probar en ciclos cortos antes de escalar, aplicable a cualquier adopción. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781612507910](https://openlibrary.org/isbn/9781612507910) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryk-2015-learning-to-improve)
+- Crehan, L. (2016). *Cleverlands*. **Uso en esta clase:** el ejercicio de separar mecanismo de contexto, que esta propuesta debe reproducir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781783524914](https://openlibrary.org/isbn/9781783524914) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#crehan-2016-cleverlands)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

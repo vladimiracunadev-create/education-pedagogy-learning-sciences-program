@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. **Uso en esta clase:** trata el efecto de saturación de las estrategias con el detalle que la práctica escolar suele ignorar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Seidenberg, M. (2017). *Language at the Speed of Sight*. **Uso en esta clase:** explica por qué el conocimiento pesa más que la técnica en la comprensión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. **Uso en esta clase:** trata el efecto de saturación de las estrategias con el detalle que la práctica escolar suele ignorar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1529100618772271](https://doi.org/10.1177/1529100618772271) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#castles-rastle-2018-ending-the-reading-wars)
+- Seidenberg, M. (2017). *Language at the Speed of Sight*. **Uso en esta clase:** explica por qué el conocimiento pesa más que la técnica en la comprensión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780465080656](https://openlibrary.org/isbn/9780465080656) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#seidenberg-2017-language-at-the-speed-of-sight)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

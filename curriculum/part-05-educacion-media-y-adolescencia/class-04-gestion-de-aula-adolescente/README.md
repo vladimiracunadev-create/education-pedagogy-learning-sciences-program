@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Emmer, E. & Evertson, C. *Classroom Management for Secondary Teachers* (edición vigente). **Uso en esta clase:** manual operativo específico para enseñanza media, con escalas y procedimientos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc / Superintendencia de Educación. *Normativa sobre convivencia escolar y reglamentos internos* (edición vigente). **Uso en esta clase:** define el marco chileno que respalda o limita cada nivel de intervención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Emmer, E. & Evertson, C. *Classroom Management for Secondary Teachers* (edición vigente). **Uso en esta clase:** manual operativo específico para enseñanza media, con escalas y procedimientos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780205308378](https://openlibrary.org/isbn/9780205308378) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#emmer-evertson-classroom-management-for-secondary-teachers)
+- Mineduc / Superintendencia de Educación. *Normativa sobre convivencia escolar y reglamentos internos* (edición vigente). **Uso en esta clase:** define el marco chileno que respalda o limita cada nivel de intervención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.supereduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-superintendencia-de-educacion-normativa-sobre-convivencia-escolar-y-regl)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

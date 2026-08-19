@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Assouline, S. et al. (2015). *A Nation Empowered: Evidence Trumps the Excuses Holding Back America's Brightest Students*. **Uso en esta clase:** síntesis de la evidencia sobre aceleración y sus efectos reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Renzulli, J. *The Schoolwide Enrichment Model* (edición vigente). **Uso en esta clase:** modelo operativo de enriquecimiento aplicable dentro del aula común. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Assouline, S. et al. (2015). *A Nation Empowered: Evidence Trumps the Excuses Holding Back America's Brightest Students*. **Uso en esta clase:** síntesis de la evidencia sobre aceleración y sus efectos reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#assouline-2015-a-nation-empowered-evidence-trumps-the) — sin localizador verificado todavía.
+- Renzulli, J. *The Schoolwide Enrichment Model* (edición vigente). **Uso en esta clase:** modelo operativo de enriquecimiento aplicable dentro del aula común. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780936386348](https://openlibrary.org/isbn/9780936386348) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#renzulli-the-schoolwide-enrichment-model)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

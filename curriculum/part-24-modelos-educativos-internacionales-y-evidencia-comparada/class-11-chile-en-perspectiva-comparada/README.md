@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. **Uso en esta clase:** la evidencia sobre uno de los efectos más documentados del diseño del sistema. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** marco para analizar cómo y por qué se importan políticas educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. **Uso en esta clase:** la evidencia sobre uno de los efectos más documentados del diseño del sistema. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.4067/s0718-07052013000100019](https://doi.org/10.4067/s0718-07052013000100019) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bellei-2013-el-estudio-de-la-segregacion-socioeconomica)
+- Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** marco para analizar cómo y por qué se importan políticas educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780807744932](https://openlibrary.org/isbn/9780807744932) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#steiner-khamsi-2004-the-global-politics-of-educational-borrowing)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

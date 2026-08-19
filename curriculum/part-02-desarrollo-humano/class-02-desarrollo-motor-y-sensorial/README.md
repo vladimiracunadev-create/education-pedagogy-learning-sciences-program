@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Adolph, K. & Franchak, J. (2017). *The Development of Motor Behavior*. **Uso en esta clase:** revisión actual sobre variabilidad, aprendizaje motor y su relación con la exploración. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Organización Mundial de la Salud (2019). *Directrices sobre actividad física, comportamientos sedentarios y sueño en menores de 5 años*. **Uso en esta clase:** recomendaciones respaldadas y verificables para el diseño de rutinas del nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Adolph, K. & Franchak, J. (2017). *The Development of Motor Behavior*. **Uso en esta clase:** revisión actual sobre variabilidad, aprendizaje motor y su relación con la exploración. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1002/wcs.1430](https://doi.org/10.1002/wcs.1430) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#adolph-franchak-2017-the-development-of-motor-behavior)
+- Organización Mundial de la Salud (2019). *Directrices sobre actividad física, comportamientos sedentarios y sueño en menores de 5 años*. **Uso en esta clase:** recomendaciones respaldadas y verificables para el diseño de rutinas del nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.who.int/publications/i/item/9789241550536) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#organizacion-mundial-de-la-salud-2019-directrices-sobre-actividad-fisica-comport)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

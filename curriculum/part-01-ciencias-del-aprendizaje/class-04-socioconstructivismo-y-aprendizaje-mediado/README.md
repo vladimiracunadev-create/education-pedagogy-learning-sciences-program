@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Vygotsky, L. (1978). *Mind in Society*. **Uso en esta clase:** fuente directa de la zona de desarrollo próximo y de la mediación; conviene leer el original antes que sus resúmenes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wood, D., Bruner, J. & Ross, G. (1976). *The Role of Tutoring in Problem Solving*. **Uso en esta clase:** el artículo que introduce el andamiaje con criterios observables de ajuste y retiro. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Vygotsky, L. (1978). *Mind in Society*. **Uso en esta clase:** fuente directa de la zona de desarrollo próximo y de la mediación; conviene leer el original antes que sus resúmenes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780674576292](https://openlibrary.org/isbn/9780674576292) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#vygotsky-1978-mind-in-society)
+- Wood, D., Bruner, J. & Ross, G. (1976). *The Role of Tutoring in Problem Solving*. **Uso en esta clase:** el artículo que introduce el andamiaje con criterios observables de ajuste y retiro. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wood-bruner-1976-the-role-of-tutoring-in-problem)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

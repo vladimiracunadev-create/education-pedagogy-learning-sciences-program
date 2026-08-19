@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Collins, A., Brown, J. S. & Newman, S. (1989). *Cognitive Apprenticeship*. **Uso en esta clase:** formula el modelamiento, el andamiaje y el desvanecimiento como sistema de enseñanza. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*. **Uso en esta clase:** aporta la evidencia sobre ejemplos trabajados y su reversión por experticia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Collins, A., Brown, J. S. & Newman, S. (1989). *Cognitive Apprenticeship*. **Uso en esta clase:** formula el modelamiento, el andamiaje y el desvanecimiento como sistema de enseñanza. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.5840/thinking19888129](https://doi.org/10.5840/thinking19888129) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#collins-brown-1989-cognitive-apprenticeship)
+- Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*. **Uso en esta clase:** aporta la evidencia sobre ejemplos trabajados y su reversión por experticia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781135065805](https://openlibrary.org/isbn/9781135065805) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sweller-ayres-2011-cognitive-load-theory)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

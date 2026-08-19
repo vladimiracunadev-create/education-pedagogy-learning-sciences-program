@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Biggs, J. (1996). *Enhancing Teaching through Constructive Alignment*. Higher Education, 32. **Uso en esta clase:** el artículo que formula el concepto y su procedimiento de aplicación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*. **Uso en esta clase:** permite comparar niveles cognitivos entre resultado, actividad y evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biggs, J. (1996). *Enhancing Teaching through Constructive Alignment*. Higher Education, 32. **Uso en esta clase:** el artículo que formula el concepto y su procedimiento de aplicación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/bf00138871](https://doi.org/10.1007/bf00138871) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biggs-1996-enhancing-teaching-through-constructive-alignment)
+- Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*. **Uso en esta clase:** permite comparar niveles cognitivos entre resultado, actividad y evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780321084057](https://openlibrary.org/isbn/9780321084057) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#anderson-krathwohl-2001-a-taxonomy-for-learning-teaching-and)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

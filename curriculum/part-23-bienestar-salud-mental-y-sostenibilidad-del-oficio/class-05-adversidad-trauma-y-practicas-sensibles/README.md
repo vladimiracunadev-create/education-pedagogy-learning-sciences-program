@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. **Uso en esta clase:** explica el efecto de la adversidad sobre la conducta escolar sin convertirlo en destino. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Masten, A. (2014). *Ordinary Magic: Resilience in Development*. **Uso en esta clase:** muestra que los factores protectores son comunes y accesibles, no excepcionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. **Uso en esta clase:** explica el efecto de la adversidad sobre la conducta escolar sin convertirlo en destino. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780465056521](https://openlibrary.org/isbn/9780465056521) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#perry-szalavitz-2006-the-boy-who-was-raised-as)
+- Masten, A. (2014). *Ordinary Magic: Resilience in Development*. **Uso en esta clase:** muestra que los factores protectores son comunes y accesibles, no excepcionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#masten-2014-ordinary-magic-resilience-in-development) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

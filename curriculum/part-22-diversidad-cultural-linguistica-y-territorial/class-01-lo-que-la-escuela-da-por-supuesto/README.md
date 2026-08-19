@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Moll, L. et al. (1992). *Funds of Knowledge for Teaching*. **Uso en esta clase:** convierte el saber familiar en recurso de enseñanza en vez de en obstáculo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bourdieu, P. & Passeron, J.-C. (1970). *La reproducción*. **Uso en esta clase:** explica el mecanismo por el cual la escuela premia un capital cultural que no distribuye. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Moll, L. et al. (1992). *Funds of Knowledge for Teaching*. **Uso en esta clase:** convierte el saber familiar en recurso de enseñanza en vez de en obstáculo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/00405849209543534](https://doi.org/10.1080/00405849209543534) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#moll-1992-funds-of-knowledge-for-teaching)
+- Bourdieu, P. & Passeron, J.-C. (1970). *La reproducción*. **Uso en esta clase:** explica el mecanismo por el cual la escuela premia un capital cultural que no distribuye. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bourdieu-passeron-1970-la-reproduccion) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

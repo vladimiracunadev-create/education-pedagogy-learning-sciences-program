@@ -86,10 +86,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*.** — el argumento más fuerte contra la guía mínima; hay que leerlo junto a sus réplicas, no en lugar de ellas.
-- **Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*** — distingue descubrimiento puro de descubrimiento guiado, que es la distinción que decide el resultado.
-- **Freire, P. (1970). *Pedagogía del oprimido*.** — obliga a preguntar para qué y para quién se enseña, algo que ningún método técnico responde.
-- **Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.** — muestra una tradición viva por dentro, con sus condiciones institucionales a la vista.
+- **Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*.** — el argumento más fuerte contra la guía mínima; hay que leerlo junto a sus réplicas, no en lugar de ellas. **Localizar:** [DOI 10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#kirschner-sweller-2006-why-minimal-guidance-during-instruction-does-2)
+- **Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?*** — distingue descubrimiento puro de descubrimiento guiado, que es la distinción que decide el resultado. **Localizar:** [DOI 10.1037/0003-066x.59.1.14](https://doi.org/10.1037/0003-066x.59.1.14) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mayer-2004-should-there-be-a-three-strikes)
+- **Freire, P. (1970). *Pedagogía del oprimido*.** — obliga a preguntar para qué y para quién se enseña, algo que ningún método técnico responde. **Localizar:** [ISBN 9789871220106](https://openlibrary.org/isbn/9789871220106) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#freire-1970-pedagogia-del-oprimido)
+- **Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.** — muestra una tradición viva por dentro, con sus condiciones institucionales a la vista. **Localizar:** [ISBN 9780415345040](https://openlibrary.org/isbn/9780415345040) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#rinaldi-2006-in-dialogue-with-reggio-emilia)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

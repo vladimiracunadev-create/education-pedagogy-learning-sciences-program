@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- VanLehn, K. (2011). *The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems*. **Uso en esta clase:** compara efectos con rigor y ordena expectativas sobre lo que estos sistemas logran. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Koedinger, K. & Aleven, V. (2007). *Exploring the Assistance Dilemma*. **Uso en esta clase:** analiza cuánta ayuda debe dar un sistema y cuándo la ayuda excesiva perjudica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- VanLehn, K. (2011). *The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems*. **Uso en esta clase:** compara efectos con rigor y ordena expectativas sobre lo que estos sistemas logran. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/00461520.2011.611369](https://doi.org/10.1080/00461520.2011.611369) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#vanlehn-2011-the-relative-effectiveness-of-human-tutoring)
+- Koedinger, K. & Aleven, V. (2007). *Exploring the Assistance Dilemma*. **Uso en esta clase:** analiza cuánta ayuda debe dar un sistema y cuándo la ayuda excesiva perjudica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/s10648-007-9049-0](https://doi.org/10.1007/s10648-007-9049-0) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#koedinger-aleven-2007-exploring-the-assistance-dilemma)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

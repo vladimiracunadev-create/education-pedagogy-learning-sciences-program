@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Angrist, J. & Pischke, J.-S. (2009). *Mostly Harmless Econometrics*. **Uso en esta clase:** tratamiento accesible de diseños de identificación causal aplicables a datos educativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Murnane, R. & Willett, J. (2011). *Methods Matter*. **Uso en esta clase:** aplica estos diseños específicamente a preguntas de investigación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Angrist, J. & Pischke, J.-S. (2009). *Mostly Harmless Econometrics*. **Uso en esta clase:** tratamiento accesible de diseños de identificación causal aplicables a datos educativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780691120355](https://openlibrary.org/isbn/9780691120355) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#angrist-pischke-2009-mostly-harmless-econometrics)
+- Murnane, R. & Willett, J. (2011). *Methods Matter*. **Uso en esta clase:** aplica estos diseños específicamente a preguntas de investigación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780199753864](https://openlibrary.org/isbn/9780199753864) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#murnane-willett-2011-methods-matter)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Informe Belmont y declaraciones internacionales sobre investigación con seres humanos (edición vigente). **Uso en esta clase:** principios de respeto, beneficencia y justicia que fundan los comités de ética. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*. **Uso en esta clase:** muestra por qué las prácticas de reproducibilidad dejaron de ser opcionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Informe Belmont y declaraciones internacionales sobre investigación con seres humanos (edición vigente). **Uso en esta clase:** principios de respeto, beneficencia y justicia que fundan los comités de ética. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#informe-belmont-y-declaraciones-internacionales-sobre) — sin localizador verificado todavía.
+- Open Science Collaboration (2015). *Estimating the Reproducibility of Psychological Science*. **Uso en esta clase:** muestra por qué las prácticas de reproducibilidad dejaron de ser opcionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#open-science-collaboration-2015-estimating-the-reproducibility-of-psychological) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

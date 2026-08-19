@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach* (edición vigente). **Uso en esta clase:** referencia estándar; útil para los fundamentos conceptuales sin depender de una tecnología concreta. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. **Uso en esta clase:** marco internacional de principios aplicables a decisiones institucionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach* (edición vigente). **Uso en esta clase:** referencia estándar; útil para los fundamentos conceptuales sin depender de una tecnología concreta. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#russell-norvig-artificial-intelligence-a-modern-approach) — sin localizador verificado todavía.
+- UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. **Uso en esta clase:** marco internacional de principios aplicables a decisiones institucionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/es/artificial-intelligence/recommendation-ethics) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-2021-recomendacion-sobre-la-etica-de-la)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

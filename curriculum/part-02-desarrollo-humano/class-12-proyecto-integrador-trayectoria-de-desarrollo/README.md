@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bronfenbrenner, U. (1979). *The Ecology of Human Development*. **Uso en esta clase:** marco para integrar dominios y contextos en una sola trayectoria interpretable. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sroufe, A. et al. (2005). *The Development of the Person*. **Uso en esta clase:** muestra cómo se documenta y se interpreta una trayectoria longitudinal sin caer en determinismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bronfenbrenner, U. (1979). *The Ecology of Human Development*. **Uso en esta clase:** marco para integrar dominios y contextos en una sola trayectoria interpretable. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780674028845](https://openlibrary.org/isbn/9780674028845) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bronfenbrenner-1979-the-ecology-of-human-development)
+- Sroufe, A. et al. (2005). *The Development of the Person*. **Uso en esta clase:** muestra cómo se documenta y se interpreta una trayectoria longitudinal sin caer en determinismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781593859138](https://openlibrary.org/isbn/9781593859138) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sroufe-2005-the-development-of-the-person)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

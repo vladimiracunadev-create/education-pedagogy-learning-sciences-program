@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** desarrolla objetivos y criterios de éxito como técnica de aula con evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sadler, D. R. (1989). *Formative Assessment and the Design of Instructional Systems*. **Uso en esta clase:** explica por qué el estudiante necesita el criterio para poder cerrar la brecha de aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** desarrolla objetivos y criterios de éxito como técnica de aula con evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781934009307](https://openlibrary.org/isbn/9781934009307) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiliam-2011-embedded-formative-assessment)
+- Sadler, D. R. (1989). *Formative Assessment and the Design of Instructional Systems*. **Uso en esta clase:** explica por qué el estudiante necesita el criterio para poder cerrar la brecha de aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/bf00117714](https://doi.org/10.1007/bf00117714) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sadler-1989-formative-assessment-and-the-design-of)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

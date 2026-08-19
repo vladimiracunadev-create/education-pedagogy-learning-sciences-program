@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ginott, H. (1972). *Teacher and Child*. **Uso en esta clase:** origen del lenguaje descriptivo aplicado a la relación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Marzano, R. (2003). *Classroom Management That Works*. **Uso en esta clase:** sistematiza prácticas de comunicación y relación con evidencia observacional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ginott, H. (1972). *Teacher and Child*. **Uso en esta clase:** origen del lenguaje descriptivo aplicado a la relación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780025433403](https://openlibrary.org/isbn/9780025433403) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ginott-1972-teacher-and-child)
+- Marzano, R. (2003). *Classroom Management That Works*. **Uso en esta clase:** sistematiza prácticas de comunicación y relación con evidencia observacional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780871208651](https://openlibrary.org/isbn/9780871208651) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#marzano-2003-classroom-management-that-works)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

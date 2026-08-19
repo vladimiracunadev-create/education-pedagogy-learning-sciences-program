@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Pashler, H. et al. (2008). *Learning Styles: Concepts and Evidence*. Psychological Science in the Public Interest, 9(3). **Uso en esta clase:** la revisión que muestra la ausencia de evidencia para la hipótesis de emparejamiento; lectura obligada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Tomlinson, C. (2014). *The Differentiated Classroom*. **Uso en esta clase:** propuesta operativa de diferenciación; léela junto con la evidencia sobre su implementación real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Pashler, H. et al. (2008). *Learning Styles: Concepts and Evidence*. Psychological Science in the Public Interest, 9(3). **Uso en esta clase:** la revisión que muestra la ausencia de evidencia para la hipótesis de emparejamiento; lectura obligada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1539-6053.2009.01038.x](https://doi.org/10.1111/j.1539-6053.2009.01038.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#pashler-2008-learning-styles-concepts-and-evidence)
+- Tomlinson, C. (2014). *The Differentiated Classroom*. **Uso en esta clase:** propuesta operativa de diferenciación; léela junto con la evidencia sobre su implementación real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#tomlinson-2014-the-differentiated-classroom) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

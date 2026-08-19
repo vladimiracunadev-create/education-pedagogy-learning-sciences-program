@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Lord, C., Elsabbagh, M., Baird, G. & Veenstra-Vanderweele, J. (2018). *Autism Spectrum Disorder*, The Lancet. **Uso en esta clase:** distingue qué intervenciones tienen respaldo empírico y con qué tamaño de efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ley 21.545 (2023). *Ley de Autismo, Chile*. **Uso en esta clase:** el marco de derechos y obligaciones institucionales que enmarca cualquier decisión escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Lord, C., Elsabbagh, M., Baird, G. & Veenstra-Vanderweele, J. (2018). *Autism Spectrum Disorder*, The Lancet. **Uso en esta clase:** distingue qué intervenciones tienen respaldo empírico y con qué tamaño de efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/s0140-6736(18)31129-2](https://doi.org/10.1016/s0140-6736(18)31129-2) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#lord-elsabbagh-2018-autism-spectrum-disorder)
+- Ley 21.545 (2023). *Ley de Autismo, Chile*. **Uso en esta clase:** el marco de derechos y obligaciones institucionales que enmarca cualquier decisión escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1190123) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ley-21-545-2023-ley-de-autismo-chile)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

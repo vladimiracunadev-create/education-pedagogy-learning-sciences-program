@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Salmivalli, C. (2010). *Bullying and the Peer Group*. **Uso en esta clase:** el modelo de roles participantes y por qué el grupo es la palanca de intervención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ttofi, M. & Farrington, D. (2011). *Effectiveness of School-Based Programs to Reduce Bullying*. **Uso en esta clase:** el metaanálisis que identifica qué componentes de programa producen el efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Salmivalli, C. (2010). *Bullying and the Peer Group*. **Uso en esta clase:** el modelo de roles participantes y por qué el grupo es la palanca de intervención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.avb.2009.08.007](https://doi.org/10.1016/j.avb.2009.08.007) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#salmivalli-2010-bullying-and-the-peer-group)
+- Ttofi, M. & Farrington, D. (2011). *Effectiveness of School-Based Programs to Reduce Bullying*. **Uso en esta clase:** el metaanálisis que identifica qué componentes de programa producen el efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/s11292-010-9109-1](https://doi.org/10.1007/s11292-010-9109-1) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ttofi-farrington-2011-effectiveness-of-school-based-programs-to)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

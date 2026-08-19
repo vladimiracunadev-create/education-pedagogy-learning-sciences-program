@@ -85,10 +85,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*.** — el metaanálisis que fija qué se puede esperar del aprendizaje socioemocional y qué no.
-- **Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.** — sitúa el desgaste en las condiciones del trabajo y no en la fragilidad de quien lo sufre.
-- **UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*.** — el marco que permite abordar afectividad con criterio profesional y no con improvisación.
-- **Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*.** — explica el efecto de la adversidad temprana sobre la conducta escolar sin convertirlo en excusa.
+- **Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*.** — el metaanálisis que fija qué se puede esperar del aprendizaje socioemocional y qué no. **Localizar:** [DOI 10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#durlak-2011-the-impact-of-enhancing-students-social-2)
+- **Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*.** — sitúa el desgaste en las condiciones del trabajo y no en la fragilidad de quien lo sufre. **Localizar:** [DOI 10.1002/wps.20311](https://doi.org/10.1002/wps.20311) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#maslach-leiter-2016-understanding-the-burnout-experience)
+- **UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*.** — el marco que permite abordar afectividad con criterio profesional y no con improvisación. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#unesco-2018-orientaciones-tecnicas-internacionales-sobre-educacion-en) — sin localizador verificado todavía.
+- **Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*.** — explica el efecto de la adversidad temprana sobre la conducta escolar sin convertirlo en excusa. **Localizar:** [ISBN 9780465056521](https://openlibrary.org/isbn/9780465056521) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#perry-szalavitz-2006-the-boy-who-was-raised-as)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

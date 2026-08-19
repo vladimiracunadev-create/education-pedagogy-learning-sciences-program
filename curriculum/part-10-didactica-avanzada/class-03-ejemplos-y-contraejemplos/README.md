@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Rittle-Johnson, B. & Star, J. (2007). *Does Comparing Solution Methods Facilitate Conceptual and Procedural Knowledge?* **Uso en esta clase:** evidencia experimental sobre el efecto de la comparación explícita. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Marton, F. & Booth, S. (1997). *Learning and Awareness*. **Uso en esta clase:** fundamenta la variación como mecanismo por el que se discrimina lo esencial de lo accidental. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Rittle-Johnson, B. & Star, J. (2007). *Does Comparing Solution Methods Facilitate Conceptual and Procedural Knowledge?* **Uso en esta clase:** evidencia experimental sobre el efecto de la comparación explícita. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/0022-0663.99.3.561](https://doi.org/10.1037/0022-0663.99.3.561) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rittle-johnson-star-2007-does-comparing-solution-methods-facilitate-conceptual)
+- Marton, F. & Booth, S. (1997). *Learning and Awareness*. **Uso en esta clase:** fundamenta la variación como mecanismo por el que se discrimina lo esencial de lo accidental. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781136495762](https://openlibrary.org/isbn/9781136495762) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#marton-booth-1997-learning-and-awareness)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

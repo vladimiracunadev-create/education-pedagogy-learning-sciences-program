@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Deci, E. & Ryan, R. (2000). *Self-Determination Theory*. **Uso en esta clase:** explica el mecanismo del desplazamiento motivacional y sus condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hamari, J., Koivisto, J. & Sarsa, H. (2014). *Does Gamification Work?* **Uso en esta clase:** revisión que muestra la heterogeneidad de resultados y la debilidad de muchos diseños. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Deci, E. & Ryan, R. (2000). *Self-Determination Theory*. **Uso en esta clase:** explica el mecanismo del desplazamiento motivacional y sus condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037//0003-066x.55.1.68](https://doi.org/10.1037//0003-066x.55.1.68) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#deci-ryan-2000-self-determination-theory)
+- Hamari, J., Koivisto, J. & Sarsa, H. (2014). *Does Gamification Work?* **Uso en esta clase:** revisión que muestra la heterogeneidad de resultados y la debilidad de muchos diseños. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1109/hicss.2014.377](https://doi.org/10.1109/hicss.2014.377) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hamari-koivisto-2014-does-gamification-work)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

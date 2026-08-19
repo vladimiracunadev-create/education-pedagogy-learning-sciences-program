@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. **Uso en esta clase:** sitúa la sobrecarga entre los determinantes organizacionales del desgaste. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- OCDE. *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje* (edición vigente). **Uso en esta clase:** datos comparados sobre distribución del tiempo de trabajo docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. **Uso en esta clase:** sitúa la sobrecarga entre los determinantes organizacionales del desgaste. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1002/wps.20311](https://doi.org/10.1002/wps.20311) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#maslach-leiter-2016-understanding-the-burnout-experience)
+- OCDE. *TALIS: Estudio internacional sobre la enseñanza y el aprendizaje* (edición vigente). **Uso en esta clase:** datos comparados sobre distribución del tiempo de trabajo docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-talis-estudio-internacional-sobre-la-ensenanza) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

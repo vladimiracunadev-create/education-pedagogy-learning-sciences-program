@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Sword, H. (2012). *Stylish Academic Writing*. **Uso en esta clase:** evidencia sobre qué hace legible un texto académico y cómo escribirlo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** tratamiento de la argumentación y de la relación entre afirmación y evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Sword, H. (2012). *Stylish Academic Writing*. **Uso en esta clase:** evidencia sobre qué hace legible un texto académico y cómo escribirlo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780674064485](https://openlibrary.org/isbn/9780674064485) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sword-2012-stylish-academic-writing)
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** tratamiento de la argumentación y de la relación entre afirmación y evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/358777](https://doi.org/10.2307/358777) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#booth-colomb-the-craft-of-research)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

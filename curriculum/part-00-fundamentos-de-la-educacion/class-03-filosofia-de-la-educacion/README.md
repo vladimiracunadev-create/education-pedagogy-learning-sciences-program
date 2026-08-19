@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Biesta, G. (2010). *Good Education in an Age of Measurement*. **Uso en esta clase:** distingue calificación, socialización y subjetivación; el instrumento más útil para ordenar la discusión de fines. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Nussbaum, M. (2010). *Sin fines de lucro: por qué la democracia necesita de las humanidades*. **Uso en esta clase:** defiende una posición fuerte y discutible sobre el fin de la educación; buen material para practicar la objeción. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biesta, G. (2010). *Good Education in an Age of Measurement*. **Uso en esta clase:** distingue calificación, socialización y subjetivación; el instrumento más útil para ordenar la discusión de fines. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781315634319](https://openlibrary.org/isbn/9781315634319) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biesta-2010-good-education-in-an-age-of)
+- Nussbaum, M. (2010). *Sin fines de lucro: por qué la democracia necesita de las humanidades*. **Uso en esta clase:** defiende una posición fuerte y discutible sobre el fin de la educación; buen material para practicar la objeción. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9789871566372](https://openlibrary.org/isbn/9789871566372) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#nussbaum-2010-sin-fines-de-lucro-por-que)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

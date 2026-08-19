@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional* (edición vigente). **Uso en esta clase:** referencia obligatoria de módulos, competencias y evaluación del nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. **Uso en esta clase:** criterios para auditar la calidad de un sistema de evaluación por competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional* (edición vigente). **Uso en esta clase:** referencia obligatoria de módulos, competencias y evaluación del nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-bases-curriculares-de-la-formacion-diferenciada)
+- Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. **Uso en esta clase:** criterios para auditar la calidad de un sistema de evaluación por competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.edurev.2007.06.001](https://doi.org/10.1016/j.edurev.2007.06.001) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#baartman-2007-evaluating-assessment-quality-in-competence-based)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

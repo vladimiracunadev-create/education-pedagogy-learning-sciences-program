@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*. **Uso en esta clase:** el metaanálisis que fija qué efectos son esperables y de qué magnitud. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*. **Uso en esta clase:** advierte sobre la distancia entre condiciones de investigación e implementación real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Durlak, J. et al. (2011). *The Impact of Enhancing Students' Social and Emotional Learning*. **Uso en esta clase:** el metaanálisis que fija qué efectos son esperables y de qué magnitud. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#durlak-2011-the-impact-of-enhancing-students-social-2)
+- Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*. **Uso en esta clase:** advierte sobre la distancia entre condiciones de investigación e implementación real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#weare-nind-2011-mental-health-promotion-in-schools) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

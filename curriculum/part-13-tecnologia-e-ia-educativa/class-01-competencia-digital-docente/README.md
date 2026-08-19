@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Comisión Europea. *DigCompEdu: Marco Europeo para la Competencia Digital de los Educadores* (edición vigente). **Uso en esta clase:** el marco más usado para estructurar áreas y niveles de competencia digital docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO. *Marco de competencias en TIC para docentes* (edición vigente). **Uso en esta clase:** referencia internacional complementaria, con foco en política y sistemas educativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mishra, P. & Koehler, M. (2006). *Technological Pedagogical Content Knowledge*. **Uso en esta clase:** el marco que impide separar la competencia digital del contenido y de la didáctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Comisión Europea. *DigCompEdu: Marco Europeo para la Competencia Digital de los Educadores* (edición vigente). **Uso en esta clase:** el marco más usado para estructurar áreas y niveles de competencia digital docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://joint-research-centre.ec.europa.eu/digcompedu_en) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#comision-europea-digcompedu-marco-europeo-para-la-competencia)
+- UNESCO. *Marco de competencias en TIC para docentes* (edición vigente). **Uso en esta clase:** referencia internacional complementaria, con foco en política y sistemas educativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/en/digital-competencies-skills/ict-cft) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-marco-de-competencias-en-tic-para)
+- Mishra, P. & Koehler, M. (2006). *Technological Pedagogical Content Knowledge*. **Uso en esta clase:** el marco que impide separar la competencia digital del contenido y de la didáctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/016146810610800610](https://doi.org/10.1177/016146810610800610) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mishra-koehler-2006-technological-pedagogical-content-knowledge)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

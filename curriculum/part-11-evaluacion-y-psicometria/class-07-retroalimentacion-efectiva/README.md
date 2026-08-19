@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Hattie, J. & Timperley, H. (2007). *The Power of Feedback*. **Uso en esta clase:** modelo por niveles de retroalimentación y evidencia sobre cuáles funcionan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Kluger, A. & DeNisi, A. (1996). *The Effects of Feedback Interventions on Performance*. **Uso en esta clase:** documenta que una proporción relevante de intervenciones de retroalimentación empeora el desempeño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Hattie, J. & Timperley, H. (2007). *The Power of Feedback*. **Uso en esta clase:** modelo por niveles de retroalimentación y evidencia sobre cuáles funcionan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/003465430298487](https://doi.org/10.3102/003465430298487) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hattie-timperley-2007-the-power-of-feedback)
+- Kluger, A. & DeNisi, A. (1996). *The Effects of Feedback Interventions on Performance*. **Uso en esta clase:** documenta que una proporción relevante de intervenciones de retroalimentación empeora el desempeño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kluger-denisi-1996-the-effects-of-feedback-interventions-on)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

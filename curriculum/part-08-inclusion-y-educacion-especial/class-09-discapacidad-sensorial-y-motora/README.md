@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ley 20.422 (Chile) sobre igualdad de oportunidades e inclusión social de personas con discapacidad (edición vigente). **Uso en esta clase:** marco de obligaciones y de ajustes razonables exigibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- W3C. *Web Content Accessibility Guidelines (WCAG)* (edición vigente). **Uso en esta clase:** criterios técnicos de accesibilidad aplicables a todo material digital educativo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** convierte la accesibilidad en indicadores revisables por la comunidad escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ley 20.422 (Chile) sobre igualdad de oportunidades e inclusión social de personas con discapacidad (edición vigente). **Uso en esta clase:** marco de obligaciones y de ajustes razonables exigibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1010903) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ley-20-422-chile-sobre-igualdad)
+- W3C. *Web Content Accessibility Guidelines (WCAG)* (edición vigente). **Uso en esta clase:** criterios técnicos de accesibilidad aplicables a todo material digital educativo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#w3c-web-content-accessibility-guidelines-wcag) — sin localizador verificado todavía.
+- Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** convierte la accesibilidad en indicadores revisables por la comunidad escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#booth-ainscow-2011-index-for-inclusion) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

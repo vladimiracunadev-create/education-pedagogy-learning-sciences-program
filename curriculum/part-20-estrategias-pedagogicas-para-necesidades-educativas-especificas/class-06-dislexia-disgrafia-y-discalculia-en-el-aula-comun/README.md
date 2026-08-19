@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*. **Uso en esta clase:** separa intervención específica de apoyo de acceso, que la escuela suele confundir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** define adecuaciones de acceso y su alcance en la evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*. **Uso en esta clase:** separa intervención específica de apoyo de acceso, que la escuela suele confundir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.2044-8279.2010.02014.x](https://doi.org/10.1111/j.2044-8279.2010.02014.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#snowling-hulme-2011-evidence-based-interventions-for-reading-and)
+- Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** define adecuaciones de acceso y su alcance en la evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1074511) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#decreto-83-2015-ministerio-de-educacion)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

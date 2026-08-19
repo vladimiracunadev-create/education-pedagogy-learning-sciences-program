@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Creswell, J. & Creswell, J. D. (2018). *Research Design*. **Uso en esta clase:** estructura de un informe completo y criterios de coherencia interna. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** tratamiento de la argumentación y de la relación entre evidencia y afirmación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Creswell, J. & Creswell, J. D. (2018). *Research Design*. **Uso en esta clase:** estructura de un informe completo y criterios de coherencia interna. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#creswell-creswell-2018-research-design) — sin localizador verificado todavía.
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** tratamiento de la argumentación y de la relación entre evidencia y afirmación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/358777](https://doi.org/10.2307/358777) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#booth-colomb-the-craft-of-research)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -84,10 +84,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.** — la distinción entre lengua de conversación y lengua académica explica años de diagnóstico equivocado.
-- **Moll, L. et al. (1992). *Funds of Knowledge for Teaching*.** — convierte el saber de la familia en material de enseñanza en vez de en obstáculo.
-- **Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*.** — define qué significa enseñar con pertinencia cultural sin bajar la exigencia académica.
-- **Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.** — cuantifica el contexto en que se toman todas las decisiones pedagógicas del sistema chileno.
+- **Cummins, J. (1979). *Cognitive/Academic Language Proficiency*.** — la distinción entre lengua de conversación y lengua académica explica años de diagnóstico equivocado. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#cummins-1979-cognitive-academic-language-proficiency) — sin localizador verificado todavía.
+- **Moll, L. et al. (1992). *Funds of Knowledge for Teaching*.** — convierte el saber de la familia en material de enseñanza en vez de en obstáculo. **Localizar:** [DOI 10.1080/00405849209543534](https://doi.org/10.1080/00405849209543534) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#moll-1992-funds-of-knowledge-for-teaching)
+- **Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*.** — define qué significa enseñar con pertinencia cultural sin bajar la exigencia académica. **Localizar:** [DOI 10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#ladson-billings-1995-toward-a-theory-of-culturally-relevant)
+- **Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.** — cuantifica el contexto en que se toman todas las decisiones pedagógicas del sistema chileno. **Localizar:** [DOI 10.4067/s0718-07052013000100019](https://doi.org/10.4067/s0718-07052013000100019) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#bellei-2013-el-estudio-de-la-segregacion-socioeconomica)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

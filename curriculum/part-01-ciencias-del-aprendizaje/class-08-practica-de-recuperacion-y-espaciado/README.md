@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Roediger, H. & Karpicke, J. (2006). *Test-Enhanced Learning*. Psychological Science, 17(3). **Uso en esta clase:** el experimento que instaló el efecto de recuperación y mostró la discrepancia entre sensación y retención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*. **Uso en esta clase:** clasifica diez técnicas por evidencia; práctica distribuida y de recuperación quedan en el nivel más alto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Roediger, H. & Karpicke, J. (2006). *Test-Enhanced Learning*. Psychological Science, 17(3). **Uso en esta clase:** el experimento que instaló el efecto de recuperación y mostró la discrepancia entre sensación y retención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#roediger-karpicke-2006-test-enhanced-learning)
+- Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*. **Uso en esta clase:** clasifica diez técnicas por evidencia; práctica distribuida y de recuperación quedan en el nivel más alto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#dunlosky-2013-improving-students-learning-with-effective-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

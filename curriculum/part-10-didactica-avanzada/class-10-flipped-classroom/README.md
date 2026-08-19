@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Abeysekera, L. & Dawson, P. (2015). *Motivation and Cognitive Load in the Flipped Classroom*. **Uso en esta clase:** analiza los mecanismos que explicarían el efecto y sus condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- van Alten, D. et al. (2019). *Effects of Flipping the Classroom on Learning: A Meta-Analysis*. **Uso en esta clase:** síntesis con efectos, heterogeneidad y variables moderadoras. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Abeysekera, L. & Dawson, P. (2015). *Motivation and Cognitive Load in the Flipped Classroom*. **Uso en esta clase:** analiza los mecanismos que explicarían el efecto y sus condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/07294360.2014.934336](https://doi.org/10.1080/07294360.2014.934336) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#abeysekera-dawson-2015-motivation-and-cognitive-load-in-the)
+- van Alten, D. et al. (2019). *Effects of Flipping the Classroom on Learning: A Meta-Analysis*. **Uso en esta clase:** síntesis con efectos, heterogeneidad y variables moderadoras. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#van-alten-2019-effects-of-flipping-the-classroom-on) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

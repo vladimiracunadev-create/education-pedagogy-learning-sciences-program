@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Toulmin, S. (1958). *The Uses of Argument*. **Uso en esta clase:** modelo de estructura argumental que se puede enseñar y evaluar con precisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hess, D. & McAvoy, P. (2015). *The Political Classroom*. **Uso en esta clase:** criterios y evidencia para conducir deliberación sobre temas controversiales en la escuela. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Toulmin, S. (1958). *The Uses of Argument*. **Uso en esta clase:** modelo de estructura argumental que se puede enseñar y evaluar con precisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780521534833](https://openlibrary.org/isbn/9780521534833) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#toulmin-1958-the-uses-of-argument)
+- Hess, D. & McAvoy, P. (2015). *The Political Classroom*. **Uso en esta clase:** criterios y evidencia para conducir deliberación sobre temas controversiales en la escuela. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780415880985](https://openlibrary.org/isbn/9780415880985) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hess-mcavoy-2015-the-political-classroom)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mezirow, J. (1991). *Transformative Dimensions of Adult Learning*. **Uso en esta clase:** explica cómo se revisan supuestos consolidados y qué condiciones lo hacen posible. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Schön, D. (1983). *The Reflective Practitioner*. **Uso en esta clase:** describe el conocimiento en la acción del profesional experimentado y su resistencia al cambio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mezirow, J. (1991). *Transformative Dimensions of Adult Learning*. **Uso en esta clase:** explica cómo se revisan supuestos consolidados y qué condiciones lo hacen posible. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781555423391](https://openlibrary.org/isbn/9781555423391) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mezirow-1991-transformative-dimensions-of-adult-learning)
+- Schön, D. (1983). *The Reflective Practitioner*. **Uso en esta clase:** describe el conocimiento en la acción del profesional experimentado y su resistencia al cambio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780465068746](https://openlibrary.org/isbn/9780465068746) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#schon-1983-the-reflective-practitioner)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

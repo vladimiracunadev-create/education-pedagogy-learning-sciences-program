@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics*. **Uso en esta clase:** evidencia sobre cuándo las rúbricas mejoran la consistencia y qué las hace fallar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sadler, D. R. (2009). *Indeterminacy in the Use of Preset Criteria for Assessment*. **Uso en esta clase:** advierte sobre los límites de los criterios prefijados en desempeños complejos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics*. **Uso en esta clase:** evidencia sobre cuándo las rúbricas mejoran la consistencia y qué las hace fallar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.edurev.2007.05.002](https://doi.org/10.1016/j.edurev.2007.05.002) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#jonsson-svingby-2007-the-use-of-scoring-rubrics)
+- Sadler, D. R. (2009). *Indeterminacy in the Use of Preset Criteria for Assessment*. **Uso en esta clase:** advierte sobre los límites de los criterios prefijados en desempeños complejos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/02602930801956059](https://doi.org/10.1080/02602930801956059) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sadler-2009-indeterminacy-in-the-use-of-preset)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

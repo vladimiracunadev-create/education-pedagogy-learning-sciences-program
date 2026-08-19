@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Kirkpatrick, D. & Kirkpatrick, J. (2006). *Evaluating Training Programs*. **Uso en esta clase:** el modelo de cuatro niveles, ampliamente usado; conviene conocerlo con sus críticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Alliger, G. & Janak, E. (1989). *Kirkpatrick's Levels of Training Criteria: Thirty Years Later*. **Uso en esta clase:** el análisis que muestra la débil relación entre niveles y desmonta su lectura jerárquica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Kirkpatrick, D. & Kirkpatrick, J. (2006). *Evaluating Training Programs*. **Uso en esta clase:** el modelo de cuatro niveles, ampliamente usado; conviene conocerlo con sus críticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781576757963](https://openlibrary.org/isbn/9781576757963) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kirkpatrick-kirkpatrick-2006-evaluating-training-programs)
+- Alliger, G. & Janak, E. (1989). *Kirkpatrick's Levels of Training Criteria: Thirty Years Later*. **Uso en esta clase:** el análisis que muestra la débil relación entre niveles y desmonta su lectura jerárquica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1744-6570.1989.tb00661.x](https://doi.org/10.1111/j.1744-6570.1989.tb00661.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#alliger-janak-1989-kirkpatrick-s-levels-of-training-criteria)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

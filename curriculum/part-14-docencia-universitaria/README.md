@@ -82,10 +82,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.** — el manual de referencia para diseñar asignaturas con alineamiento constructivo.
-- **Freeman, S. et al. (2014). *Active Learning Increases Student Performance in Science, Engineering, and Mathematics*. PNAS, 111(23).** — metaanálisis con 225 estudios; el resultado que más ha cambiado la discusión sobre la cátedra.
-- **Ramsden, P. (2003). *Learning to Teach in Higher Education*.** — conecta la investigación sobre enfoques de aprendizaje con decisiones concretas de docencia.
-- **Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*. Assessment & Evaluation in Higher Education, 38(6).** — propone retroalimentación como proceso que el estudiante debe poder usar, no como comentario entregado.
+- **Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.** — el manual de referencia para diseñar asignaturas con alineamiento constructivo. **Localizar:** [ISBN 9780335242764](https://openlibrary.org/isbn/9780335242764) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#biggs-tang-2011-teaching-for-quality-learning-at-university)
+- **Freeman, S. et al. (2014). *Active Learning Increases Student Performance in Science, Engineering, and Mathematics*. PNAS, 111(23).** — metaanálisis con 225 estudios; el resultado que más ha cambiado la discusión sobre la cátedra. **Localizar:** [DOI 10.1073/pnas.1319030111](https://doi.org/10.1073/pnas.1319030111) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#freeman-2014-active-learning-increases-student-performance-in)
+- **Ramsden, P. (2003). *Learning to Teach in Higher Education*.** — conecta la investigación sobre enfoques de aprendizaje con decisiones concretas de docencia. **Localizar:** [ISBN 9781134412068](https://openlibrary.org/isbn/9781134412068) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#ramsden-2003-learning-to-teach-in-higher-education)
+- **Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*. Assessment & Evaluation in Higher Education, 38(6).** — propone retroalimentación como proceso que el estudiante debe poder usar, no como comentario entregado. **Localizar:** [DOI 10.1080/02602938.2012.691462](https://doi.org/10.1080/02602938.2012.691462) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#boud-molloy-2013-rethinking-models-of-feedback-for-learning-2)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

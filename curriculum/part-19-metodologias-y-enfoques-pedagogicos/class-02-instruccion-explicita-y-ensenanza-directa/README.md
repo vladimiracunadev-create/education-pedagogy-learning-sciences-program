@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** la síntesis operativa más usada: diez principios derivados de investigación convergente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*. **Uso en esta clase:** fundamenta desde la carga cognitiva por qué la guía alta rinde con novatos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** la síntesis operativa más usada: diez principios derivados de investigación convergente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rosenshine-2012-principles-of-instruction) — sin localizador verificado todavía.
+- Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*. **Uso en esta clase:** fundamenta desde la carga cognitiva por qué la guía alta rinde con novatos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kirschner-sweller-2006-why-minimal-guidance-during-instruction-does-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

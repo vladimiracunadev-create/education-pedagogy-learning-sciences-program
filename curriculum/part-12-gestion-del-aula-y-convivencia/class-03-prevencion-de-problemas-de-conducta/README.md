@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Kounin, J. (1970). *Discipline and Group Management in Classrooms*. **Uso en esta clase:** establece percepción simultánea, ritmo y solapamiento como factores decisivos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Simonsen, B. et al. (2008). *Evidence-Based Practices in Classroom Management*. **Uso en esta clase:** sistematiza prácticas preventivas con respaldo empírico. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Kounin, J. (1970). *Discipline and Group Management in Classrooms*. **Uso en esta clase:** establece percepción simultánea, ritmo y solapamiento como factores decisivos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780030782107](https://openlibrary.org/isbn/9780030782107) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kounin-1970-discipline-and-group-management-in-classrooms)
+- Simonsen, B. et al. (2008). *Evidence-Based Practices in Classroom Management*. **Uso en esta clase:** sistematiza prácticas preventivas con respaldo empírico. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#simonsen-2008-evidence-based-practices-in-classroom-management)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

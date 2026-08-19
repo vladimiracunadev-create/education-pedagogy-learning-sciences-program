@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. **Uso en esta clase:** fija el estándar técnico según la consecuencia de la decisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Brookhart, S. (2013). *Grading and Group Work*. **Uso en esta clase:** analiza problemas frecuentes de calificación y sus soluciones técnicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. **Uso en esta clase:** fija el estándar técnico según la consecuencia de la decisión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.testingstandards.net/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#aera-ncme-2014-standards-for-educational-and-psychological-testing)
+- Brookhart, S. (2013). *Grading and Group Work*. **Uso en esta clase:** analiza problemas frecuentes de calificación y sus soluciones técnicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781416617112](https://openlibrary.org/isbn/9781416617112) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#brookhart-2013-grading-and-group-work)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

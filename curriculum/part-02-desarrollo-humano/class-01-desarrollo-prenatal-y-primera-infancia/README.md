@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Shonkoff, J. & Phillips, D. (eds.) (2000). *From Neurons to Neighborhoods*. **Uso en esta clase:** la síntesis de referencia; distingue con cuidado lo establecido de lo sugerido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Center on the Developing Child, Harvard. *Working Papers* sobre estrés tóxico y funciones ejecutivas (edición vigente). **Uso en esta clase:** material técnico riguroso y accesible; útil para comunicar a equipos y familias sin exagerar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Shonkoff, J. & Phillips, D. (eds.) (2000). *From Neurons to Neighborhoods*. **Uso en esta clase:** la síntesis de referencia; distingue con cuidado lo establecido de lo sugerido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780309134835](https://openlibrary.org/isbn/9780309134835) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#shonkoff-phillips-2000-from-neurons-to-neighborhoods)
+- Center on the Developing Child, Harvard. *Working Papers* sobre estrés tóxico y funciones ejecutivas (edición vigente). **Uso en esta clase:** material técnico riguroso y accesible; útil para comunicar a equipos y familias sin exagerar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#center-on-the-developing-child-working-papers) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

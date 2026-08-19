@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ausubel, D. (1968). *Educational Psychology: A Cognitive View*. **Uso en esta clase:** fundamenta por qué el conocimiento previo es el factor que más condiciona el aprendizaje nuevo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** aporta técnicas breves de recogida de evidencia aplicables al diagnóstico inicial. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ausubel, D. (1968). *Educational Psychology: A Cognitive View*. **Uso en esta clase:** fundamenta por qué el conocimiento previo es el factor que más condiciona el aprendizaje nuevo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780030696404](https://openlibrary.org/isbn/9780030696404) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ausubel-1968-educational-psychology-a-cognitive-view)
+- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** aporta técnicas breves de recogida de evidencia aplicables al diagnóstico inicial. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781934009307](https://openlibrary.org/isbn/9781934009307) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiliam-2011-embedded-formative-assessment)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

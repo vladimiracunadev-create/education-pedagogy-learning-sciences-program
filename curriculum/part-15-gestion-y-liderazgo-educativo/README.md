@@ -84,10 +84,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Robinson, V. (2011). *Student-Centered Leadership*.** — identifica y ordena por efecto las prácticas de liderazgo con impacto en el aprendizaje.
-- **Leithwood, K. et al. (2020). *Seven Strong Claims about Successful School Leadership Revisited*. School Leadership & Management, 40(1).** — actualiza qué se sabe con evidencia sobre liderazgo escolar y qué sigue siendo suposición.
-- **Bryk, A. & Schneider, B. (2002). *Trust in Schools*.** — muestra con datos longitudinales por qué la confianza es condición y no consecuencia de la mejora.
-- **Bryk, A. et al. (2015). *Learning to Improve*.** — traslada la mejora continua a la escuela: problemas específicos, ciclos cortos y redes de aprendizaje.
+- **Robinson, V. (2011). *Student-Centered Leadership*.** — identifica y ordena por efecto las prácticas de liderazgo con impacto en el aprendizaje. **Localizar:** [ISBN 9780470874134](https://openlibrary.org/isbn/9780470874134) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#robinson-2011-student-centered-leadership)
+- **Leithwood, K. et al. (2020). *Seven Strong Claims about Successful School Leadership Revisited*. School Leadership & Management, 40(1).** — actualiza qué se sabe con evidencia sobre liderazgo escolar y qué sigue siendo suposición. **Localizar:** [DOI 10.1080/13632434.2019.1596077](https://doi.org/10.1080/13632434.2019.1596077) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#leithwood-2020-seven-strong-claims-about-successful-school-2)
+- **Bryk, A. & Schneider, B. (2002). *Trust in Schools*.** — muestra con datos longitudinales por qué la confianza es condición y no consecuencia de la mejora. **Localizar:** [ISBN 9780871541796](https://openlibrary.org/isbn/9780871541796) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#bryk-schneider-2002-trust-in-schools)
+- **Bryk, A. et al. (2015). *Learning to Improve*.** — traslada la mejora continua a la escuela: problemas específicos, ciclos cortos y redes de aprendizaje. **Localizar:** [ISBN 9781612507910](https://openlibrary.org/isbn/9781612507910) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#bryk-2015-learning-to-improve)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. Learning Policy Institute. **Uso en esta clase:** sintetiza las características asociadas a programas que cambian la práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Desimone, L. (2009). *Improving Impact Studies of Teachers' Professional Development*. **Uso en esta clase:** propone un marco conceptual y de medición para evaluar estos programas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. Learning Policy Institute. **Uso en esta clase:** sintetiza las características asociadas a programas que cambian la práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.54300/122.311](https://doi.org/10.54300/122.311) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#darling-hammond-2017-effective-teacher-professional-development)
+- Desimone, L. (2009). *Improving Impact Studies of Teachers' Professional Development*. **Uso en esta clase:** propone un marco conceptual y de medición para evaluar estos programas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/0013189x08331140](https://doi.org/10.3102/0013189x08331140) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#desimone-2009-improving-impact-studies-of-teachers-professional)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

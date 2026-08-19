@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Orientaciones para el trabajo colaborativo y la codocencia* (Programa de Integración Escolar) (edición vigente). **Uso en esta clase:** define en Chile cómo se articulan docente de aula y profesionales de apoyo, con tiempos y funciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hargreaves, A. & O'Connor, M. (2018). *Collaborative Professionalism*. **Uso en esta clase:** distingue colaboración real de reuniones frecuentes; útil para diseñar el trabajo conjunto y no solo declararlo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Orientaciones para el trabajo colaborativo y la codocencia* (Programa de Integración Escolar) (edición vigente). **Uso en esta clase:** define en Chile cómo se articulan docente de aula y profesionales de apoyo, con tiempos y funciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.mineduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-orientaciones-para-el-trabajo-colaborativo-y)
+- Hargreaves, A. & O'Connor, M. (2018). *Collaborative Professionalism*. **Uso en esta clase:** distingue colaboración real de reuniones frecuentes; útil para diseñar el trabajo conjunto y no solo declararlo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781506328157](https://openlibrary.org/isbn/9781506328157) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hargreaves-o-connor-2018-collaborative-professionalism)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

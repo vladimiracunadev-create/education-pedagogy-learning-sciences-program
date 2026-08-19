@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Eccles, J. (1999). *The Development of Children Ages 6 to 14*. The Future of Children, 9(2). **Uso en esta clase:** síntesis del período con foco en escuela, motivación y autoconcepto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Marsh, H. & Craven, R. (2006). *Reciprocal Effects of Self-Concept and Performance*. **Uso en esta clase:** documenta la relación recíproca y desmonta la idea de intervenir la autoestima por sí sola. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Eccles, J. (1999). *The Development of Children Ages 6 to 14*. The Future of Children, 9(2). **Uso en esta clase:** síntesis del período con foco en escuela, motivación y autoconcepto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/1602703](https://doi.org/10.2307/1602703) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#eccles-1999-the-development-of-children-ages-6)
+- Marsh, H. & Craven, R. (2006). *Reciprocal Effects of Self-Concept and Performance*. **Uso en esta clase:** documenta la relación recíproca y desmonta la idea de intervenir la autoestima por sí sola. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1745-6916.2006.00010.x](https://doi.org/10.1111/j.1745-6916.2006.00010.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#marsh-craven-2006-reciprocal-effects-of-self-concept-and)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

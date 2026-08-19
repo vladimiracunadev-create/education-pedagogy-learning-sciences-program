@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wood, D., Bruner, J. & Ross, G. (1976). *The Role of Tutoring in Problem Solving*. **Uso en esta clase:** define el andamiaje con criterios observables de ajuste y retiro. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- van de Pol, J., Volman, M. & Beishuizen, J. (2010). *Scaffolding in Teacher–Student Interaction*. **Uso en esta clase:** revisión que sistematiza contingencia, desvanecimiento y transferencia de responsabilidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wood, D., Bruner, J. & Ross, G. (1976). *The Role of Tutoring in Problem Solving*. **Uso en esta clase:** define el andamiaje con criterios observables de ajuste y retiro. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wood-bruner-1976-the-role-of-tutoring-in-problem)
+- van de Pol, J., Volman, M. & Beishuizen, J. (2010). *Scaffolding in Teacher–Student Interaction*. **Uso en esta clase:** revisión que sistematiza contingencia, desvanecimiento y transferencia de responsabilidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#van-de-pol-volman-2010-scaffolding-in-teacher-student-interaction)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

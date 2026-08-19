@@ -85,10 +85,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Mayer, R. (2021). *Multimedia Learning* (3.ª ed.).** — los principios empíricos del diseño de recursos: qué combinación de texto, imagen y audio ayuda y cuál estorba.
-- **Mishra, P. & Koehler, M. (2006). *Technological Pedagogical Content Knowledge*. Teachers College Record, 108(6).** — el marco que evita la pregunta equivocada («¿qué herramienta uso?») y plantea la correcta.
-- **UNESCO (2023). *Guidance for Generative AI in Education and Research*.** — la referencia internacional más citada para políticas de uso de IA en instituciones educativas.
-- **Selwyn, N. (2016). *Is Technology Good for Education?*** — el contrapeso crítico necesario: obliga a preguntar quién gana con cada adopción tecnológica.
+- **Mayer, R. (2021). *Multimedia Learning* (3.ª ed.).** — los principios empíricos del diseño de recursos: qué combinación de texto, imagen y audio ayuda y cuál estorba. **Localizar:** [ISBN 9781316638088](https://openlibrary.org/isbn/9781316638088) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mayer-2021-multimedia-learning-2)
+- **Mishra, P. & Koehler, M. (2006). *Technological Pedagogical Content Knowledge*. Teachers College Record, 108(6).** — el marco que evita la pregunta equivocada («¿qué herramienta uso?») y plantea la correcta. **Localizar:** [DOI 10.1177/016146810610800610](https://doi.org/10.1177/016146810610800610) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mishra-koehler-2006-technological-pedagogical-content-knowledge-2)
+- **UNESCO (2023). *Guidance for Generative AI in Education and Research*.** — la referencia internacional más citada para políticas de uso de IA en instituciones educativas. **Localizar:** [fuente oficial](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#unesco-2023-guidance-for-generative-ai-in-education)
+- **Selwyn, N. (2016). *Is Technology Good for Education?*** — el contrapeso crítico necesario: obliga a preguntar quién gana con cada adopción tecnológica. **Localizar:** [ISBN 9780745696508](https://openlibrary.org/isbn/9780745696508) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#selwyn-2016-is-technology-good-for-education)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Decreto 170/2009* y *Decreto 83/2015* (edición vigente). **Uso en esta clase:** definen en Chile evaluación diagnóstica, apoyos y adecuaciones curriculares vigentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Florian, L. (2014). *What Counts as Evidence of Inclusive Education?* **Uso en esta clase:** discute el uso pedagógico de las categorías diagnósticas y sus riesgos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Decreto 170/2009* y *Decreto 83/2015* (edición vigente). **Uso en esta clase:** definen en Chile evaluación diagnóstica, apoyos y adecuaciones curriculares vigentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1012570) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-decreto-170-2009)
+- Florian, L. (2014). *What Counts as Evidence of Inclusive Education?* **Uso en esta clase:** discute el uso pedagógico de las categorías diagnósticas y sus riesgos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/08856257.2014.933551](https://doi.org/10.1080/08856257.2014.933551) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#florian-2014-what-counts-as-evidence-of-inclusive)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

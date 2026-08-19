@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*. **Uso en esta clase:** la referencia sobre amenazas a la validez y sobre qué controla cada diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- What Works Clearinghouse. *Standards Handbook* (edición vigente). **Uso en esta clase:** criterios operativos para juzgar si un estudio sostiene una afirmación causal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Shadish, W., Cook, T. & Campbell, D. (2002). *Experimental and Quasi-Experimental Designs*. **Uso en esta clase:** la referencia sobre amenazas a la validez y sobre qué controla cada diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780395615560](https://openlibrary.org/isbn/9780395615560) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#shadish-cook-2002-experimental-and-quasi-experimental-designs)
+- What Works Clearinghouse. *Standards Handbook* (edición vigente). **Uso en esta clase:** criterios operativos para juzgar si un estudio sostiene una afirmación causal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#what-works-clearinghouse-standards-handbook) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

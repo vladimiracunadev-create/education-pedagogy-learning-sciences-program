@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Balfanz, R. & Byrnes, V. (2012). *The Importance of Being in School*. **Uso en esta clase:** convierte la asistencia en indicador temprano accionable, con umbrales y evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Fredricks, J., Blumenfeld, P. & Paris, A. (2004). *School Engagement*. **Uso en esta clase:** distingue las tres dimensiones del compromiso escolar, que se pierden en orden. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Balfanz, R. & Byrnes, V. (2012). *The Importance of Being in School*. **Uso en esta clase:** convierte la asistencia en indicador temprano accionable, con umbrales y evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#balfanz-byrnes-2012-the-importance-of-being-in-school) — sin localizador verificado todavía.
+- Fredricks, J., Blumenfeld, P. & Paris, A. (2004). *School Engagement*. **Uso en esta clase:** distingue las tres dimensiones del compromiso escolar, que se pierden en orden. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/0-387-23823-9_19](https://doi.org/10.1007/0-387-23823-9_19) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#fredricks-blumenfeld-2004-school-engagement)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

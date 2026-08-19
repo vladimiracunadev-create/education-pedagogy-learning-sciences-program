@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Walton, G. & Cohen, G. (2011). *A Brief Social-Belonging Intervention Improves Academic and Health Outcomes*. Science, 331. **Uso en esta clase:** el estudio de referencia sobre pertenencia; léelo junto con las replicaciones posteriores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hulleman, C. & Harackiewicz, J. (2009). *Promoting Interest and Performance in High School Science Classes*. Science, 326. **Uso en esta clase:** intervención de utilidad percibida con diseño experimental y efectos condicionados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Walton, G. & Cohen, G. (2011). *A Brief Social-Belonging Intervention Improves Academic and Health Outcomes*. Science, 331. **Uso en esta clase:** el estudio de referencia sobre pertenencia; léelo junto con las replicaciones posteriores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1126/science.1198364](https://doi.org/10.1126/science.1198364) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#walton-cohen-2011-a-brief-social-belonging-intervention-improves)
+- Hulleman, C. & Harackiewicz, J. (2009). *Promoting Interest and Performance in High School Science Classes*. Science, 326. **Uso en esta clase:** intervención de utilidad percibida con diseño experimental y efectos condicionados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1126/science.1177067](https://doi.org/10.1126/science.1177067) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hulleman-harackiewicz-2009-promoting-interest-and-performance-in-high)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Embretson, S. & Reise, S. (2000). *Item Response Theory for Psychologists*. **Uso en esta clase:** introducción accesible y rigurosa a los modelos y sus supuestos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Agencia de Calidad de la Educación (Chile). *Informes técnicos de las evaluaciones nacionales* (edición vigente). **Uso en esta clase:** material real para practicar la lectura crítica con datos del propio sistema. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Embretson, S. & Reise, S. (2000). *Item Response Theory for Psychologists*. **Uso en esta clase:** introducción accesible y rigurosa a los modelos y sus supuestos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780585347820](https://openlibrary.org/isbn/9780585347820) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#embretson-reise-2000-item-response-theory-for-psychologists)
+- Agencia de Calidad de la Educación (Chile). *Informes técnicos de las evaluaciones nacionales* (edición vigente). **Uso en esta clase:** material real para practicar la lectura crítica con datos del propio sistema. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.agenciaeducacion.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#agencia-de-calidad-de-la-educacion-chile-informes-tecnicos-de-las-evaluaciones-n)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

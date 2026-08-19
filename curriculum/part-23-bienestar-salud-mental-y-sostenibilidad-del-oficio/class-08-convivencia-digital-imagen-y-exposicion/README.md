@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Livingstone, S. & Third, A. (2017). *Children and Young People's Rights in the Digital Age*. **Uso en esta clase:** enfoque de derechos aplicado al entorno digital, que evita reducir todo a protección. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Kowalski, R. et al. (2014). *Bullying in the Digital Age*. **Uso en esta clase:** lo que se sabe sobre dinámicas digitales de agresión y sobre la debilidad de las respuestas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Livingstone, S. & Third, A. (2017). *Children and Young People's Rights in the Digital Age*. **Uso en esta clase:** enfoque de derechos aplicado al entorno digital, que evita reducir todo a protección. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1461444816686318](https://doi.org/10.1177/1461444816686318) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#livingstone-third-2017-children-and-young-people-s-rights)
+- Kowalski, R. et al. (2014). *Bullying in the Digital Age*. **Uso en esta clase:** lo que se sabe sobre dinámicas digitales de agresión y sobre la debilidad de las respuestas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/a0035618](https://doi.org/10.1037/a0035618) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kowalski-2014-bullying-in-the-digital-age)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Creswell, J. & Plano Clark, V. (2018). *Designing and Conducting Mixed Methods Research*. **Uso en esta clase:** tipología de diseños mixtos con sus puntos de integración. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bryman, A. (2007). *Barriers to Integrating Quantitative and Qualitative Research*. **Uso en esta clase:** documenta por qué la integración falla en la práctica y cómo evitarlo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Creswell, J. & Plano Clark, V. (2018). *Designing and Conducting Mixed Methods Research*. **Uso en esta clase:** tipología de diseños mixtos con sus puntos de integración. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#creswell-plano-clark-2018-designing-and-conducting-mixed-methods-research) — sin localizador verificado todavía.
+- Bryman, A. (2007). *Barriers to Integrating Quantitative and Qualitative Research*. **Uso en esta clase:** documenta por qué la integración falla en la práctica y cómo evitarlo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1558689806290531](https://doi.org/10.1177/1558689806290531) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryman-2007-barriers-to-integrating-quantitative-and-qualitative)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

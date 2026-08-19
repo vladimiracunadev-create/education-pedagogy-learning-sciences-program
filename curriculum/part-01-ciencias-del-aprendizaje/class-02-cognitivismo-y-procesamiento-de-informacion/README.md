@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Atkinson, R. & Shiffrin, R. (1968). *Human Memory: A Proposed System and Its Control Processes*. **Uso en esta clase:** el modelo estructural clásico; sigue siendo el andamio conceptual del que derivan las clases 017 a 020. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Willingham, D. (2009). *Why Don't Students Like School?* **Uso en esta clase:** traduce la arquitectura cognitiva a decisiones de aula con ejemplos concretos; excelente puente para equipos docentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Atkinson, R. & Shiffrin, R. (1968). *Human Memory: A Proposed System and Its Control Processes*. **Uso en esta clase:** el modelo estructural clásico; sigue siendo el andamio conceptual del que derivan las clases 017 a 020. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/s0079-7421(08)60422-3](https://doi.org/10.1016/s0079-7421(08)60422-3) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#atkinson-shiffrin-1968-human-memory-a-proposed-system-and)
+- Willingham, D. (2009). *Why Don't Students Like School?* **Uso en esta clase:** traduce la arquitectura cognitiva a decisiones de aula con ejemplos concretos; excelente puente para equipos docentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780470730454](https://openlibrary.org/isbn/9780470730454) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#willingham-2009-why-don-t-students-like-school)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

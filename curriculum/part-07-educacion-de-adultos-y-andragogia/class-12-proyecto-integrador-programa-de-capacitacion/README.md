@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*. **Uso en esta clase:** marco general del diseño para adultos con criterios de calidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Blume, B. et al. (2010). *Transfer of Training: A Meta-Analytic Review*. **Uso en esta clase:** evidencia sobre qué condiciones del diseño y del entorno predicen transferencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*. **Uso en esta clase:** marco general del diseño para adultos con criterios de calidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#merriam-bierema-2013-adult-learning-linking-theory-and-practice) — sin localizador verificado todavía.
+- Blume, B. et al. (2010). *Transfer of Training: A Meta-Analytic Review*. **Uso en esta clase:** evidencia sobre qué condiciones del diseño y del entorno predicen transferencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/0149206309352880](https://doi.org/10.1177/0149206309352880) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#blume-2010-transfer-of-training-a-meta-analytic-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

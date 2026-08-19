@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Committee on Publication Ethics (COPE). *Guidelines* (edición vigente). **Uso en esta clase:** estándares sobre autoría, conflictos y mala conducta en publicación científica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Declaration on Research Assessment (DORA) (edición vigente). **Uso en esta clase:** posición sobre el uso responsable de métricas en la evaluación de la investigación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ioannidis, J. (2005). *Why Most Published Research Findings Are False*. **Uso en esta clase:** obliga a leer la literatura publicada con criterio y no como verdad establecida. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Committee on Publication Ethics (COPE). *Guidelines* (edición vigente). **Uso en esta clase:** estándares sobre autoría, conflictos y mala conducta en publicación científica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#committee-on-publication-ethics-cope-guidelines) — sin localizador verificado todavía.
+- Declaration on Research Assessment (DORA) (edición vigente). **Uso en esta clase:** posición sobre el uso responsable de métricas en la evaluación de la investigación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://sfdora.org/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#declaration-on-research-assessment-dora)
+- Ioannidis, J. (2005). *Why Most Published Research Findings Are False*. **Uso en esta clase:** obliga a leer la literatura publicada con criterio y no como verdad establecida. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1371/journal.pmed.0020124](https://doi.org/10.1371/journal.pmed.0020124) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ioannidis-2005-why-most-published-research-findings-are)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

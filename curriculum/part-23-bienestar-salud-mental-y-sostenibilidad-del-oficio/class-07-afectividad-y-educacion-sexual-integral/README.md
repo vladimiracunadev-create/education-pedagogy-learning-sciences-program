@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*. **Uso en esta clase:** el marco de referencia con progresión por edad y evidencia de efectos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ley 20.418 (2010). *Información, orientación y prestaciones en materia de regulación de la fertilidad, Chile*. **Uso en esta clase:** la obligación legal de contar con un programa en el establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Haberland, N. & Rogow, D. (2015). *Sexuality Education: Emerging Trends in Evidence and Practice*. **Uso en esta clase:** sintetiza qué enfoques muestran efectos y cuáles no, más allá de la posición de cada país. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO (2018). *Orientaciones técnicas internacionales sobre educación en sexualidad*. **Uso en esta clase:** el marco de referencia con progresión por edad y evidencia de efectos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-2018-orientaciones-tecnicas-internacionales-sobre-educacion-en) — sin localizador verificado todavía.
+- Ley 20.418 (2010). *Información, orientación y prestaciones en materia de regulación de la fertilidad, Chile*. **Uso en esta clase:** la obligación legal de contar con un programa en el establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1010482) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ley-20-418-2010-informacion-orientacion-y-prestaciones-en-materia)
+- Haberland, N. & Rogow, D. (2015). *Sexuality Education: Emerging Trends in Evidence and Practice*. **Uso en esta clase:** sintetiza qué enfoques muestran efectos y cuáles no, más allá de la posición de cada país. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.jadohealth.2014.08.013](https://doi.org/10.1016/j.jadohealth.2014.08.013) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#haberland-rogow-2015-sexuality-education-emerging-trends-in-evidence)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

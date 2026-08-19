@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** el alineamiento constructivo como criterio para juzgar si el enfoque es real o nominal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. **Uso en esta clase:** criterios de calidad específicos para evaluación de competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** el alineamiento constructivo como criterio para juzgar si el enfoque es real o nominal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780335242764](https://openlibrary.org/isbn/9780335242764) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biggs-tang-2011-teaching-for-quality-learning-at-university)
+- Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*. **Uso en esta clase:** criterios de calidad específicos para evaluación de competencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.edurev.2007.06.001](https://doi.org/10.1016/j.edurev.2007.06.001) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#baartman-2007-evaluating-assessment-quality-in-competence-based)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

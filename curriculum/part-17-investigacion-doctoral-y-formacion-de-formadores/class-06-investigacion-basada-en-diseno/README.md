@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Design-Based Research Collective (2003). *Design-Based Research*. Educational Researcher, 32(1). **Uso en esta clase:** define el paradigma, sus criterios y sus tensiones metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Anderson, T. & Shattuck, J. (2012). *Design-Based Research: A Decade of Progress in Education Research?* **Uso en esta clase:** balance crítico de sus logros y de sus debilidades. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Design-Based Research Collective (2003). *Design-Based Research*. Educational Researcher, 32(1). **Uso en esta clase:** define el paradigma, sus criterios y sus tensiones metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#design-based-research-collective-2003-design-based-research) — sin localizador verificado todavía.
+- Anderson, T. & Shattuck, J. (2012). *Design-Based Research: A Decade of Progress in Education Research?* **Uso en esta clase:** balance crítico de sus logros y de sus debilidades. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/0013189x11428813](https://doi.org/10.3102/0013189x11428813) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#anderson-shattuck-2012-design-based-research-a-decade-of)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

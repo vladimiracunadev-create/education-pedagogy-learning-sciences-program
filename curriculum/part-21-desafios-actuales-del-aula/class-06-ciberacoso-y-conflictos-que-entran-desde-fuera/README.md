@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Kowalski, R. et al. (2014). *Bullying in the Digital Age*. **Uso en esta clase:** síntesis de lo que se sabe sobre ciberacoso y de la debilidad de las intervenciones disponibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Superintendencia de Educación de Chile. *Orientaciones sobre convivencia digital* (edición vigente). **Uso en esta clase:** el marco de competencia institucional y de obligaciones aplicables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Kowalski, R. et al. (2014). *Bullying in the Digital Age*. **Uso en esta clase:** síntesis de lo que se sabe sobre ciberacoso y de la debilidad de las intervenciones disponibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/a0035618](https://doi.org/10.1037/a0035618) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kowalski-2014-bullying-in-the-digital-age)
+- Superintendencia de Educación de Chile. *Orientaciones sobre convivencia digital* (edición vigente). **Uso en esta clase:** el marco de competencia institucional y de obligaciones aplicables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.supereduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#superintendencia-de-educacion-de-chile-orientaciones-sobre-convivencia-digital)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

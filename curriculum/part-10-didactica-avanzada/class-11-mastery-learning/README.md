@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bloom, B. (1968). *Learning for Mastery*. **Uso en esta clase:** la formulación original del enfoque y su fundamento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Guskey, T. (2010). *Lessons of Mastery Learning*. Educational Leadership, 68(2). **Uso en esta clase:** revisa qué se implementa mal y qué condiciones hacen funcionar el enfoque. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bloom, B. (1968). *Learning for Mastery*. **Uso en esta clase:** la formulación original del enfoque y su fundamento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bloom-1968-learning-for-mastery) — sin localizador verificado todavía.
+- Guskey, T. (2010). *Lessons of Mastery Learning*. Educational Leadership, 68(2). **Uso en esta clase:** revisa qué se implementa mal y qué condiciones hacen funcionar el enfoque. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#guskey-2010-lessons-of-mastery-learning) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

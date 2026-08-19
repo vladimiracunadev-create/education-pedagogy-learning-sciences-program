@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** instrumento de autoevaluación para verificar el rediseño con indicadores concretos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- CAST (2024). *UDL Guidelines* 3.0. **Uso en esta clase:** marco de diseño para articular las decisiones del aula rediseñada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** instrumento de autoevaluación para verificar el rediseño con indicadores concretos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#booth-ainscow-2011-index-for-inclusion) — sin localizador verificado todavía.
+- CAST (2024). *UDL Guidelines* 3.0. **Uso en esta clase:** marco de diseño para articular las decisiones del aula rediseñada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://udlguidelines.cast.org/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#cast-2024-udl-guidelines-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Superintendencia de Educación de Chile. *Normativa sobre convivencia escolar y deberes del sostenedor* (edición vigente). **Uso en esta clase:** las obligaciones institucionales frente a hechos que afectan a trabajadores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. **Uso en esta clase:** conecta el desamparo institucional con el desgaste profesional posterior. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Superintendencia de Educación de Chile. *Normativa sobre convivencia escolar y deberes del sostenedor* (edición vigente). **Uso en esta clase:** las obligaciones institucionales frente a hechos que afectan a trabajadores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.supereduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#superintendencia-de-educacion-de-chile-normativa-sobre-convivencia-escolar-y-deb)
+- Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. **Uso en esta clase:** conecta el desamparo institucional con el desgaste profesional posterior. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1002/wps.20311](https://doi.org/10.1002/wps.20311) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#maslach-leiter-2016-understanding-the-burnout-experience)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

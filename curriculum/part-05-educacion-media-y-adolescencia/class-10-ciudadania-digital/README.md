@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso* (edición vigente). **Uso en esta clase:** marco internacional con recomendaciones y evidencia disponible. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos* (edición vigente). **Uso en esta clase:** define obligaciones y procedimientos exigibles al establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Livingstone, S. & Third, A. (2017). *Children and Young People's Rights in the Digital Age*. **Uso en esta clase:** aporta el enfoque de derechos que evita reducir la ciudadanía digital a la protección. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso* (edición vigente). **Uso en esta clase:** marco internacional con recomendaciones y evidencia disponible. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-orientaciones-sobre-ciudadania-digital-y-prevencion) — sin localizador verificado todavía.
+- Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos* (edición vigente). **Uso en esta clase:** define obligaciones y procedimientos exigibles al establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.supereduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#superintendencia-de-educacion-chile-orientaciones-sobre-convivencia-digital-y-pr)
+- Livingstone, S. & Third, A. (2017). *Children and Young People's Rights in the Digital Age*. **Uso en esta clase:** aporta el enfoque de derechos que evita reducir la ciudadanía digital a la protección. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1461444816686318](https://doi.org/10.1177/1461444816686318) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#livingstone-third-2017-children-and-young-people-s-rights)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

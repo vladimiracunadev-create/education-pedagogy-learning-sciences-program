@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*. **Uso en esta clase:** la revisión que instaló el concepto con evidencia; conviene leer también sus críticas metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** define la evaluación formativa por su uso y aporta técnicas concretas de aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*. **Uso en esta clase:** la revisión que instaló el concepto con evidencia; conviene leer también sus críticas metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#black-wiliam-1998-assessment-and-classroom-learning)
+- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** define la evaluación formativa por su uso y aporta técnicas concretas de aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781934009307](https://openlibrary.org/isbn/9781934009307) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiliam-2011-embedded-formative-assessment)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

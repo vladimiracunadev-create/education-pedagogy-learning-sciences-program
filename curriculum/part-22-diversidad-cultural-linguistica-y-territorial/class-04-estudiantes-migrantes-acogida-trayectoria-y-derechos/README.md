@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. **Uso en esta clase:** explica por qué el diagnóstico en la lengua de instrucción subestima sistemáticamente el conocimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ministerio de Educación de Chile. *Orientaciones para la inclusión de estudiantes migrantes* (edición vigente). **Uso en esta clase:** derechos de matrícula, reconocimiento de estudios y obligaciones del establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. **Uso en esta clase:** explica por qué el diagnóstico en la lengua de instrucción subestima sistemáticamente el conocimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#cummins-1979-cognitive-academic-language-proficiency) — sin localizador verificado todavía.
+- Ministerio de Educación de Chile. *Orientaciones para la inclusión de estudiantes migrantes* (edición vigente). **Uso en esta clase:** derechos de matrícula, reconocimiento de estudios y obligaciones del establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ministerio-de-educacion-de-chile-orientaciones-para-la-inclusion-de-estudiantes) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

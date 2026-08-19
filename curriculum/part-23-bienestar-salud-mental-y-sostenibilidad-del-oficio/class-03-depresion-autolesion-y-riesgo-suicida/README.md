@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ministerio de Salud y Ministerio de Educación de Chile. *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales* (edición vigente). **Uso en esta clase:** el protocolo de referencia con sus pasos y obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Zalsman, G. et al. (2016). *Suicide Prevention Strategies Revisited*. **Uso en esta clase:** revisión de qué estrategias preventivas cuentan con evidencia y cuáles no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ministerio de Salud y Ministerio de Educación de Chile. *Recomendaciones para la prevención de la conducta suicida en establecimientos educacionales* (edición vigente). **Uso en esta clase:** el protocolo de referencia con sus pasos y obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.minsal.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ministerio-de-salud-ministerio-de-educacion-de-chile-recomendaciones-para-la-pre)
+- Zalsman, G. et al. (2016). *Suicide Prevention Strategies Revisited*. **Uso en esta clase:** revisión de qué estrategias preventivas cuentan con evidencia y cuáles no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/s2215-0366(16)30030-x](https://doi.org/10.1016/s2215-0366(16)30030-x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#zalsman-2016-suicide-prevention-strategies-revisited)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

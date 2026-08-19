@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bryk, A. & Schneider, B. (2002). *Trust in Schools*. **Uso en esta clase:** muestra que la confianza relacional es la condición que sostiene cualquier mejora de convivencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ttofi, M. & Farrington, D. (2011). *Effectiveness of School-Based Programs to Reduce Bullying*. **Uso en esta clase:** qué componentes deben estar presentes para que un programa produzca efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bryk, A. & Schneider, B. (2002). *Trust in Schools*. **Uso en esta clase:** muestra que la confianza relacional es la condición que sostiene cualquier mejora de convivencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780871541796](https://openlibrary.org/isbn/9780871541796) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryk-schneider-2002-trust-in-schools)
+- Ttofi, M. & Farrington, D. (2011). *Effectiveness of School-Based Programs to Reduce Bullying*. **Uso en esta clase:** qué componentes deben estar presentes para que un programa produzca efecto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/s11292-010-9109-1](https://doi.org/10.1007/s11292-010-9109-1) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ttofi-farrington-2011-effectiveness-of-school-based-programs-to)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

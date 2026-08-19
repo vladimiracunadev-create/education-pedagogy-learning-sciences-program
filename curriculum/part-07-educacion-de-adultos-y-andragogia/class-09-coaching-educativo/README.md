@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Kraft, M., Blazar, D. & Hogan, D. (2018). *The Effect of Teacher Coaching on Instruction and Achievement*. Review of Educational Research, 88(4). **Uso en esta clase:** metaanálisis con efectos y con la caída observada al escalar los programas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Knight, J. (2007). *Instructional Coaching*. **Uso en esta clase:** modelo operativo de coaching instruccional con protocolos de conversación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Kraft, M., Blazar, D. & Hogan, D. (2018). *The Effect of Teacher Coaching on Instruction and Achievement*. Review of Educational Research, 88(4). **Uso en esta clase:** metaanálisis con efectos y con la caída observada al escalar los programas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/0034654318759268](https://doi.org/10.3102/0034654318759268) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kraft-blazar-2018-the-effect-of-teacher-coaching-on)
+- Knight, J. (2007). *Instructional Coaching*. **Uso en esta clase:** modelo operativo de coaching instruccional con protocolos de conversación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781412927246](https://openlibrary.org/isbn/9781412927246) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#knight-2007-instructional-coaching)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

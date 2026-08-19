@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Baker, R. & Inventado, P. (2014). *Educational Data Mining and Learning Analytics*. **Uso en esta clase:** panorama de métodos y de sus aplicaciones en investigación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*. **Uso en esta clase:** marco ético para investigación con datos de estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Baker, R. & Inventado, P. (2014). *Educational Data Mining and Learning Analytics*. **Uso en esta clase:** panorama de métodos y de sus aplicaciones en investigación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/978-1-4614-3305-7_4](https://doi.org/10.1007/978-1-4614-3305-7_4) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#baker-inventado-2014-educational-data-mining-and-learning-analytics)
+- Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*. **Uso en esta clase:** marco ético para investigación con datos de estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/0002764213479366](https://doi.org/10.1177/0002764213479366) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#slade-prinsloo-2013-learning-analytics-ethical-issues-and-dilemmas)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

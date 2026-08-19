@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Campbell, E. (2003). *The Ethical Teacher*. **Uso en esta clase:** documenta la ética docente como práctica cotidiana y no como código abstracto; útil para reconocer dilemas reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Marco para la Buena Enseñanza* (edición vigente) y normativa de convivencia escolar. **Uso en esta clase:** define los estándares profesionales exigibles en Chile y sus obligaciones asociadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Campbell, E. (2003). *The Ethical Teacher*. **Uso en esta clase:** documenta la ética docente como práctica cotidiana y no como código abstracto; útil para reconocer dilemas reales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780335212194](https://openlibrary.org/isbn/9780335212194) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#campbell-2003-the-ethical-teacher)
+- Mineduc. *Marco para la Buena Enseñanza* (edición vigente) y normativa de convivencia escolar. **Uso en esta clase:** define los estándares profesionales exigibles en Chile y sus obligaciones asociadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.cpeip.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-marco-para-la-buena-ensenanza)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

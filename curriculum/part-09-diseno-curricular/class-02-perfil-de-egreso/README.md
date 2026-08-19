@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación* (edición vigente). **Uso en esta clase:** define qué se espera del perfil de egreso y de su verificación en el sistema chileno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** conecta perfil, resultados de aprendizaje y evaluación con la lógica del alineamiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Comisión Nacional de Acreditación (Chile). *Criterios y estándares de acreditación* (edición vigente). **Uso en esta clase:** define qué se espera del perfil de egreso y de su verificación en el sistema chileno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#comision-nacional-de-acreditacion-chile-criterios-y-estandares-de-acreditacion) — sin localizador verificado todavía.
+- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** conecta perfil, resultados de aprendizaje y evaluación con la lógica del alineamiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780335242764](https://openlibrary.org/isbn/9780335242764) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biggs-tang-2011-teaching-for-quality-learning-at-university)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

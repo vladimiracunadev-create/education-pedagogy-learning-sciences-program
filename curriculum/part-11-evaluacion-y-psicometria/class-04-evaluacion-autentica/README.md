@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Messick, S. (1994). *The Interplay of Evidence and Consequences in the Validation of Performance Assessments*. **Uso en esta clase:** analiza validez y varianza irrelevante en evaluación de desempeño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wiggins, G. (1998). *Educative Assessment*. **Uso en esta clase:** criterios de diseño de tareas auténticas defendibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Messick, S. (1994). *The Interplay of Evidence and Consequences in the Validation of Performance Assessments*. **Uso en esta clase:** analiza validez y varianza irrelevante en evaluación de desempeño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/1176219](https://doi.org/10.2307/1176219) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#messick-1994-the-interplay-of-evidence-and-consequences)
+- Wiggins, G. (1998). *Educative Assessment*. **Uso en esta clase:** criterios de diseño de tareas auténticas defendibles. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780787908485](https://openlibrary.org/isbn/9780787908485) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiggins-1998-educative-assessment)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

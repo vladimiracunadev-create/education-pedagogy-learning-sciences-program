@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Informes país y estudios temáticos sobre reformas educativas* (edición vigente). **Uso en esta clase:** descripción de trayectorias con datos comparables entre sistemas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hanushek, E. & Woessmann, L. (2006). *Does Educational Tracking Affect Performance and Inequality?* **Uso en esta clase:** la evidencia comparada sobre el efecto de separar tempranamente a los estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Informes país y estudios temáticos sobre reformas educativas* (edición vigente). **Uso en esta clase:** descripción de trayectorias con datos comparables entre sistemas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-informes-pais-y-estudios-tematicos-sobre) — sin localizador verificado todavía.
+- Hanushek, E. & Woessmann, L. (2006). *Does Educational Tracking Affect Performance and Inequality?* **Uso en esta clase:** la evidencia comparada sobre el efecto de separar tempranamente a los estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3386/w11124](https://doi.org/10.3386/w11124) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hanushek-woessmann-2006-does-educational-tracking-affect-performance-and)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

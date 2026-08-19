@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Lewis, P. et al. (2020). *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*. **Uso en esta clase:** el trabajo que formaliza la técnica y explica qué problema resuelve. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** criterios institucionales para el despliegue de asistentes con estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Lewis, P. et al. (2020). *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*. **Uso en esta clase:** el trabajo que formaliza la técnica y explica qué problema resuelve. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#lewis-2020-retrieval-augmented-generation-for-knowledge-intensive) — sin localizador verificado todavía.
+- UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** criterios institucionales para el despliegue de asistentes con estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-2023-guidance-for-generative-ai-in-education)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

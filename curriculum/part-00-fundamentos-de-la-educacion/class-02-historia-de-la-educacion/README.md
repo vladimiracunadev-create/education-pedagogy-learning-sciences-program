@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Tyack, D. & Cuban, L. (1995). *Tinkering toward Utopia: A Century of Public School Reform*. **Uso en esta clase:** explica por qué la «gramática de la escuela» sobrevive a casi todas las reformas; imprescindible antes de proponer un cambio grande. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Serrano, S., Ponce de León, M. & Rengifo, F. (eds.) (2012). *Historia de la Educación en Chile, tomo I*. **Uso en esta clase:** reconstruye la formación del sistema escolar chileno con fuentes primarias; base para situar la normativa actual. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Tyack, D. & Cuban, L. (1995). *Tinkering toward Utopia: A Century of Public School Reform*. **Uso en esta clase:** explica por qué la «gramática de la escuela» sobrevive a casi todas las reformas; imprescindible antes de proponer un cambio grande. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/2945623](https://doi.org/10.2307/2945623) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#tyack-cuban-1995-tinkering-toward-utopia-a-century-of)
+- Serrano, S., Ponce de León, M. & Rengifo, F. (eds.) (2012). *Historia de la Educación en Chile, tomo I*. **Uso en esta clase:** reconstruye la formación del sistema escolar chileno con fuentes primarias; base para situar la normativa actual. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#serrano-ponce-de-leon-2012-historia-de-la-educacion-en-chile) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Greene, R. (2014). *Lost at School*. **Uso en esta clase:** el modelo de resolución colaborativa que reencuadra la conducta como habilidad ausente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Colvin, G. & Sugai, G. *Managing the Cycle of Acting-Out Behavior in the Classroom* (edición vigente). **Uso en esta clase:** la descripción operativa del ciclo de escalada y de la intervención por fase. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Greene, R. (2014). *Lost at School*. **Uso en esta clase:** el modelo de resolución colaborativa que reencuadra la conducta como habilidad ausente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781511359481](https://openlibrary.org/isbn/9781511359481) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#greene-2014-lost-at-school)
+- Colvin, G. & Sugai, G. *Managing the Cycle of Acting-Out Behavior in the Classroom* (edición vigente). **Uso en esta clase:** la descripción operativa del ciclo de escalada y de la intervención por fase. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780963177735](https://openlibrary.org/isbn/9780963177735) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#colvin-sugai-managing-the-cycle-of-acting-out)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

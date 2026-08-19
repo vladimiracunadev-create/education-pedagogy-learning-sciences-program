@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ward, A. et al. (2017). *Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity*. **Uso en esta clase:** evidencia experimental sobre el costo atencional de la presencia del dispositivo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO (2023). *Informe de Seguimiento de la Educación en el Mundo: tecnología en la educación*. **Uso en esta clase:** revisa la evidencia sobre uso de tecnología y políticas de dispositivos en escuelas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ward, A. et al. (2017). *Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity*. **Uso en esta clase:** evidencia experimental sobre el costo atencional de la presencia del dispositivo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1086/691462](https://doi.org/10.1086/691462) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ward-2017-brain-drain-the-mere-presence-of)
+- UNESCO (2023). *Informe de Seguimiento de la Educación en el Mundo: tecnología en la educación*. **Uso en esta clase:** revisa la evidencia sobre uso de tecnología y políticas de dispositivos en escuelas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/gem-report/en/technology) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-2023-informe-de-seguimiento-de-la-educacion)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

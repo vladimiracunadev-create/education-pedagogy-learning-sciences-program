@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo* (edición vigente). **Uso en esta clase:** el desplazamiento desde el déficit hacia el sistema de apoyos, con criterios operativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco normativo de adecuaciones curriculares de acceso y significativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo* (edición vigente). **Uso en esta clase:** el desplazamiento desde el déficit hacia el sistema de apoyos, con criterios operativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#schalock-discapacidad-intelectual-definicion-clasificacion-y-sistemas) — sin localizador verificado todavía.
+- Decreto 83/2015, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco normativo de adecuaciones curriculares de acceso y significativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1074511) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#decreto-83-2015-ministerio-de-educacion)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

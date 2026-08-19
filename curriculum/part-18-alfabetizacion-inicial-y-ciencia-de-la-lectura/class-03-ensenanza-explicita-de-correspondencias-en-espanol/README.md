@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Seidenberg, M. (2017). *Language at the Speed of Sight*. **Uso en esta clase:** explica por qué la enseñanza explícita funciona en términos del mecanismo, no de la ideología. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*. **Uso en esta clase:** el informe que fijó la prevención temprana como criterio de política pública. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Seidenberg, M. (2017). *Language at the Speed of Sight*. **Uso en esta clase:** explica por qué la enseñanza explícita funciona en términos del mecanismo, no de la ideología. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780465080656](https://openlibrary.org/isbn/9780465080656) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#seidenberg-2017-language-at-the-speed-of-sight)
+- Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*. **Uso en esta clase:** el informe que fijó la prevención temprana como criterio de política pública. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#snow-burns-1998-preventing-reading-difficulties-in-young-children) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

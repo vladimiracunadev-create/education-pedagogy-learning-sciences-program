@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bowlby, J. (1988). *A Secure Base*. **Uso en esta clase:** la formulación clínica de la base segura y su relación con la exploración; muy aplicable al aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sroufe, A. et al. (2005). *The Development of the Person*. **Uso en esta clase:** estudio longitudinal de treinta años; documenta continuidad y cambio, y desmiente el determinismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bowlby, J. (1988). *A Secure Base*. **Uso en esta clase:** la formulación clínica de la base segura y su relación con la exploración; muy aplicable al aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780415006408](https://openlibrary.org/isbn/9780415006408) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bowlby-1988-a-secure-base)
+- Sroufe, A. et al. (2005). *The Development of the Person*. **Uso en esta clase:** estudio longitudinal de treinta años; documenta continuidad y cambio, y desmiente el determinismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781593859138](https://openlibrary.org/isbn/9781593859138) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sroufe-2005-the-development-of-the-person)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

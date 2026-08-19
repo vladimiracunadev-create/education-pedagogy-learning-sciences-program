@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*. **Uso en esta clase:** presenta una tradición viva desde dentro, con sus condiciones institucionales a la vista. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Lillard, A. (2017). *Montessori: The Science Behind the Genius*. **Uso en esta clase:** el intento más serio de conectar principios Montessori con investigación cognitiva, con sus límites declarados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*. **Uso en esta clase:** presenta una tradición viva desde dentro, con sus condiciones institucionales a la vista. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780415345040](https://openlibrary.org/isbn/9780415345040) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rinaldi-2006-in-dialogue-with-reggio-emilia)
+- Lillard, A. (2017). *Montessori: The Science Behind the Genius*. **Uso en esta clase:** el intento más serio de conectar principios Montessori con investigación cognitiva, con sus límites declarados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#lillard-2017-montessori-the-science-behind-the-genius) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

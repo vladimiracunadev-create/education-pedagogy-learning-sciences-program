@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. **Uso en esta clase:** los determinantes organizacionales del desgaste y por qué el enfoque individual falla. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bryk, A. & Schneider, B. (2002). *Trust in Schools*. **Uso en esta clase:** la confianza relacional como condición que protege y sostiene el trabajo del equipo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Maslach, C. & Leiter, M. (2016). *Understanding the Burnout Experience*. **Uso en esta clase:** los determinantes organizacionales del desgaste y por qué el enfoque individual falla. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1002/wps.20311](https://doi.org/10.1002/wps.20311) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#maslach-leiter-2016-understanding-the-burnout-experience)
+- Bryk, A. & Schneider, B. (2002). *Trust in Schools*. **Uso en esta clase:** la confianza relacional como condición que protege y sostiene el trabajo del equipo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780871541796](https://openlibrary.org/isbn/9780871541796) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryk-schneider-2002-trust-in-schools)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -84,10 +84,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Lave, J. & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*.** — explica por qué el taller enseña más que el contenido del taller: se aprende a ser parte de una comunidad de oficio.
-- **Schön, D. (1983). *The Reflective Practitioner*.** — fundamenta la reflexión en la acción, que es el mecanismo real de aprendizaje en formación práctica.
-- **Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional* y Marco de Cualificaciones TP (edición vigente).** — define especialidades, perfiles de egreso y estándares vigentes en Chile.
-- **UNESCO-UNEVOC. *Informes sobre educación y formación técnica y profesional* (edición vigente).** — comparación internacional de modelos duales y de transición al empleo.
+- **Lave, J. & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*.** — explica por qué el taller enseña más que el contenido del taller: se aprende a ser parte de una comunidad de oficio. **Localizar:** [ISBN 9780521413084](https://openlibrary.org/isbn/9780521413084) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#lave-wenger-1991-situated-learning-legitimate-peripheral-participation)
+- **Schön, D. (1983). *The Reflective Practitioner*.** — fundamenta la reflexión en la acción, que es el mecanismo real de aprendizaje en formación práctica. **Localizar:** [ISBN 9780465068746](https://openlibrary.org/isbn/9780465068746) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#schon-1983-the-reflective-practitioner)
+- **Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional* y Marco de Cualificaciones TP (edición vigente).** — define especialidades, perfiles de egreso y estándares vigentes en Chile. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mineduc-bases-curriculares-de-la-formacion-diferenciada-2)
+- **UNESCO-UNEVOC. *Informes sobre educación y formación técnica y profesional* (edición vigente).** — comparación internacional de modelos duales y de transición al empleo. **Localizar:** [fuente oficial](https://unevoc.unesco.org/home/) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#unesco-unevoc-informes-sobre-educacion-y-formacion-tecnica)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

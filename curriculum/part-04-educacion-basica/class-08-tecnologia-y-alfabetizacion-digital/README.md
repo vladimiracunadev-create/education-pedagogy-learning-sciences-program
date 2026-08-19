@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wineburg, S. & McGrew, S. (2019). *Lateral Reading and the Nature of Expertise*. Teachers College Record. **Uso en esta clase:** muestra experimentalmente qué estrategia usan los verificadores profesionales y por qué la escuela enseña otra. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO. *Marco de competencias digitales para docentes y estudiantes* (edición vigente). **Uso en esta clase:** referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wineburg, S. & McGrew, S. (2019). *Lateral Reading and the Nature of Expertise*. Teachers College Record. **Uso en esta clase:** muestra experimentalmente qué estrategia usan los verificadores profesionales y por qué la escuela enseña otra. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wineburg-mcgrew-2019-lateral-reading-and-the-nature-of)
+- UNESCO. *Marco de competencias digitales para docentes y estudiantes* (edición vigente). **Uso en esta clase:** referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/en/digital-competencies-skills/ict-cft) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-marco-de-competencias-digitales-para-docentes)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

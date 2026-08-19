@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Fullan, M. (2011). *Choosing the Wrong Drivers for Whole System Reform*. **Uso en esta clase:** analiza por qué ciertas estrategias de mejora no producen efecto y cuáles sí. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente). **Uso en esta clase:** marco chileno de planificación institucional con sus requisitos formales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Fullan, M. (2011). *Choosing the Wrong Drivers for Whole System Reform*. **Uso en esta clase:** analiza por qué ciertas estrategias de mejora no producen efecto y cuáles sí. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#fullan-2011-choosing-the-wrong-drivers-for-whole) — sin localizador verificado todavía.
+- Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente). **Uso en esta clase:** marco chileno de planificación institucional con sus requisitos formales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://liderazgoeducativo.mineduc.cl/orientaciones-pme-2026-2/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-orientaciones-para-el-plan-de-mejoramiento)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

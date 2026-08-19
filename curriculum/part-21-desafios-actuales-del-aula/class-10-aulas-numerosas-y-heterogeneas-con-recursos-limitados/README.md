@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Tomlinson, C. *The Differentiated Classroom* (edición vigente). **Uso en esta clase:** el marco de referencia, que conviene leer junto a la pregunta por su viabilidad real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** prácticas de alto rendimiento y bajo costo de preparación, viables en cursos numerosos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Tomlinson, C. *The Differentiated Classroom* (edición vigente). **Uso en esta clase:** el marco de referencia, que conviene leer junto a la pregunta por su viabilidad real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781416618607](https://openlibrary.org/isbn/9781416618607) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#tomlinson-the-differentiated-classroom)
+- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** prácticas de alto rendimiento y bajo costo de preparación, viables en cursos numerosos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rosenshine-2012-principles-of-instruction) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

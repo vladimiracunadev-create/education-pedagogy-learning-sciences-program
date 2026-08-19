@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** tratamiento de la construcción de problemas y de su justificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Dunleavy, P. (2003). *Authoring a PhD*. **Uso en esta clase:** orientación específica sobre delimitación y estructura del trabajo doctoral. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** tratamiento de la construcción de problemas y de su justificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/358777](https://doi.org/10.2307/358777) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#booth-colomb-the-craft-of-research)
+- Dunleavy, P. (2003). *Authoring a PhD*. **Uso en esta clase:** orientación específica sobre delimitación y estructura del trabajo doctoral. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781403905840](https://openlibrary.org/isbn/9781403905840) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#dunleavy-2003-authoring-a-phd)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

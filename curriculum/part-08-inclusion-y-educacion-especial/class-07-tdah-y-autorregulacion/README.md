@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment*. **Uso en esta clase:** referencia sobre el modelo de funciones ejecutivas y sus implicancias educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- DuPaul, G. & Stoner, G. (2014). *ADHD in the Schools*. **Uso en esta clase:** intervenciones escolares con evidencia, descritas de forma directamente aplicable. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment*. **Uso en esta clase:** referencia sobre el modelo de funciones ejecutivas y sus implicancias educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#barkley-2015-attention-deficit-hyperactivity-disorder-a-handbook) — sin localizador verificado todavía.
+- DuPaul, G. & Stoner, G. (2014). *ADHD in the Schools*. **Uso en esta clase:** intervenciones escolares con evidencia, descritas de forma directamente aplicable. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781462516841](https://openlibrary.org/isbn/9781462516841) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#dupaul-stoner-2014-adhd-in-the-schools)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

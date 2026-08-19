@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Organización Internacional del Trabajo. *Directrices sobre sistemas de gestión de la seguridad y salud en el trabajo* (edición vigente). **Uso en esta clase:** marco internacional de referencia para la jerarquía de medidas de control. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Superintendencia de Seguridad Social y normativa chilena de seguridad y salud en el trabajo (edición vigente). **Uso en esta clase:** obligaciones vigentes aplicables a establecimientos y a estudiantes en práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Reason, J. (1997). *Managing the Risks of Organizational Accidents*. **Uso en esta clase:** el modelo de accidentes organizacionales que explica por qué la seguridad es cultura y no cartel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Organización Internacional del Trabajo. *Directrices sobre sistemas de gestión de la seguridad y salud en el trabajo* (edición vigente). **Uso en esta clase:** marco internacional de referencia para la jerarquía de medidas de control. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.ilo.org/publications/guidelines-occupational-safety-and-health-management-systems-ilo-osh-2001) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#organizacion-internacional-del-trabajo-directrices-sobre-sistemas-de-gestion-de)
+- Superintendencia de Seguridad Social y normativa chilena de seguridad y salud en el trabajo (edición vigente). **Uso en esta clase:** obligaciones vigentes aplicables a establecimientos y a estudiantes en práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.suseso.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#superintendencia-de-seguridad-social-y-normativa)
+- Reason, J. (1997). *Managing the Risks of Organizational Accidents*. **Uso en esta clase:** el modelo de accidentes organizacionales que explica por qué la seguridad es cultura y no cartel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781840141047](https://openlibrary.org/isbn/9781840141047) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#reason-1997-managing-the-risks-of-organizational-accidents)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

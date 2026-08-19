@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Deci, E., Koestner, R. & Ryan, R. (1999). *Meta-Analytic Review of Extrinsic Rewards*. **Uso en esta clase:** documenta los riesgos del refuerzo externo sobre la motivación intrínseca. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sugai, G. & Horner, R. *School-Wide Positive Behavior Support* (edición vigente). **Uso en esta clase:** modelo de sistemas graduados de apoyo conductual con evidencia de implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Deci, E., Koestner, R. & Ryan, R. (1999). *Meta-Analytic Review of Extrinsic Rewards*. **Uso en esta clase:** documenta los riesgos del refuerzo externo sobre la motivación intrínseca. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#deci-koestner-1999-meta-analytic-review-of-extrinsic-rewards) — sin localizador verificado todavía.
+- Sugai, G. & Horner, R. *School-Wide Positive Behavior Support* (edición vigente). **Uso en esta clase:** modelo de sistemas graduados de apoyo conductual con evidencia de implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sugai-horner-school-wide-positive-behavior-support) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

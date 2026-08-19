@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Knowles, M. (1984). *The Adult Learner*. **Uso en esta clase:** la formulación clásica de los supuestos; imprescindible como referencia y como objeto de crítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*. **Uso en esta clase:** revisa críticamente la andragogía y separa lo respaldado de lo asumido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Knowles, M. (1984). *The Adult Learner*. **Uso en esta clase:** la formulación clásica de los supuestos; imprescindible como referencia y como objeto de crítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#knowles-1984-the-adult-learner) — sin localizador verificado todavía.
+- Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*. **Uso en esta clase:** revisa críticamente la andragogía y separa lo respaldado de lo asumido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#merriam-bierema-2013-adult-learning-linking-theory-and-practice) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

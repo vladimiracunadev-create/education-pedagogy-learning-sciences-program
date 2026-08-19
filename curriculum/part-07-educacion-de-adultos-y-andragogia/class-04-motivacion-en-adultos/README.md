@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wlodkowski, R. (2008). *Enhancing Adult Motivation to Learn*. **Uso en esta clase:** marco práctico de motivación adulta con estrategias verificables por sesión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wigfield, A. & Eccles, J. (2000). *Expectancy–Value Theory*. **Uso en esta clase:** aporta el análisis de costo percibido, decisivo en formación de adultos que trabajan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wlodkowski, R. (2008). *Enhancing Adult Motivation to Learn*. **Uso en esta clase:** marco práctico de motivación adulta con estrategias verificables por sesión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781119078012](https://openlibrary.org/isbn/9781119078012) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wlodkowski-2008-enhancing-adult-motivation-to-learn)
+- Wigfield, A. & Eccles, J. (2000). *Expectancy–Value Theory*. **Uso en esta clase:** aporta el análisis de costo percibido, decisivo en formación de adultos que trabajan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1006/ceps.1999.1015](https://doi.org/10.1006/ceps.1999.1015) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wigfield-eccles-2000-expectancy-value-theory)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

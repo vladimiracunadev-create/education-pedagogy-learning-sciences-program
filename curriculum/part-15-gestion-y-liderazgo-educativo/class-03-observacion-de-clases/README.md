@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Danielson, C. *Framework for Teaching* (edición vigente). **Uso en esta clase:** instrumento ampliamente usado; conviene conocerlo junto con la evidencia sobre su confiabilidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ho, A. & Kane, T. (2013). *The Reliability of Classroom Observations by School Personnel*. **Uso en esta clase:** documenta cuántas observaciones y qué condiciones se requieren para obtener medidas confiables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Danielson, C. *Framework for Teaching* (edición vigente). **Uso en esta clase:** instrumento ampliamente usado; conviene conocerlo junto con la evidencia sobre su confiabilidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#danielson-framework-for-teaching) — sin localizador verificado todavía.
+- Ho, A. & Kane, T. (2013). *The Reliability of Classroom Observations by School Personnel*. **Uso en esta clase:** documenta cuántas observaciones y qué condiciones se requieren para obtener medidas confiables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ho-kane-2013-the-reliability-of-classroom-observations-by) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

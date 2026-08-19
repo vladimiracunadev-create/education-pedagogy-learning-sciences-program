@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Flavell, J. (1979). *Metacognition and Cognitive Monitoring*. American Psychologist, 34(10). **Uso en esta clase:** el artículo que define el campo y separa conocimiento metacognitivo de regulación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Education Endowment Foundation (2018). *Metacognition and Self-Regulated Learning: Guidance Report*. **Uso en esta clase:** síntesis aplicada con recomendaciones y tamaños de efecto declarados; buena base para decidir implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Flavell, J. (1979). *Metacognition and Cognitive Monitoring*. American Psychologist, 34(10). **Uso en esta clase:** el artículo que define el campo y separa conocimiento metacognitivo de regulación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/0003-066x.34.10.906](https://doi.org/10.1037/0003-066x.34.10.906) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#flavell-1979-metacognition-and-cognitive-monitoring)
+- Education Endowment Foundation (2018). *Metacognition and Self-Regulated Learning: Guidance Report*. **Uso en esta clase:** síntesis aplicada con recomendaciones y tamaños de efecto declarados; buena base para decidir implementación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#education-endowment-foundation-2018-metacognition-and-self-regulated-learning-gu)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

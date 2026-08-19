@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ryan, R. & Deci, E. (2000). *Self-Determination Theory and the Facilitation of Intrinsic Motivation*. American Psychologist, 55(1). **Uso en esta clase:** el marco de autonomía, competencia y vínculo, con su evidencia y sus condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wigfield, A. & Eccles, J. (2000). *Expectancy–Value Theory of Achievement Motivation*. **Uso en esta clase:** explica la decisión de esforzarse como producto de expectativa y valor; muy operativo para rediseñar tareas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ryan, R. & Deci, E. (2000). *Self-Determination Theory and the Facilitation of Intrinsic Motivation*. American Psychologist, 55(1). **Uso en esta clase:** el marco de autonomía, competencia y vínculo, con su evidencia y sus condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/0003-066x.55.1.68](https://doi.org/10.1037/0003-066x.55.1.68) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ryan-deci-2000-self-determination-theory-and-the-facilitation)
+- Wigfield, A. & Eccles, J. (2000). *Expectancy–Value Theory of Achievement Motivation*. **Uso en esta clase:** explica la decisión de esforzarse como producto de expectativa y valor; muy operativo para rediseñar tareas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1006/ceps.1999.1015](https://doi.org/10.1006/ceps.1999.1015) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wigfield-eccles-2000-expectancy-value-theory-of-achievement-motivation)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **National Research Council (2000). *How People Learn: Brain, Mind, Experience, and School*.** — síntesis fundacional y todavía vigente sobre conocimiento previo, comprensión profunda y metacognición.
-- **Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*.** — el tratamiento sistemático de la carga cognitiva y de sus efectos instruccionales, con sus condiciones de validez.
-- **Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*. Psychological Science in the Public Interest, 14(1).** — clasifica diez técnicas de estudio por utilidad demostrada; la práctica distribuida y la de recuperación quedan arriba, subrayar y releer abajo.
-- **Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*.** — veintiocho estudios clásicos explicados y traducidos a decisiones de aula; excelente puente entre investigación y práctica.
+- **National Research Council (2000). *How People Learn: Brain, Mind, Experience, and School*.** — síntesis fundacional y todavía vigente sobre conocimiento previo, comprensión profunda y metacognición. **Localizar:** [ISBN 9780309070362](https://openlibrary.org/isbn/9780309070362) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#national-research-council-2000-how-people-learn-brain-mind-experience)
+- **Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*.** — el tratamiento sistemático de la carga cognitiva y de sus efectos instruccionales, con sus condiciones de validez. **Localizar:** [ISBN 9781135065805](https://openlibrary.org/isbn/9781135065805) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#sweller-ayres-2011-cognitive-load-theory)
+- **Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*. Psychological Science in the Public Interest, 14(1).** — clasifica diez técnicas de estudio por utilidad demostrada; la práctica distribuida y la de recuperación quedan arriba, subrayar y releer abajo. **Localizar:** [DOI 10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#dunlosky-2013-improving-students-learning-with-effective-learning-2)
+- **Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*.** — veintiocho estudios clásicos explicados y traducidos a decisiones de aula; excelente puente entre investigación y práctica. **Localizar:** [ISBN 9780367184575](https://openlibrary.org/isbn/9780367184575) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#kirschner-hendrick-2020-how-learning-happens)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

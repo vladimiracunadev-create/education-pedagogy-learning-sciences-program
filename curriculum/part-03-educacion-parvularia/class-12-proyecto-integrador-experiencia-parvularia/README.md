@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc (2018). *Bases Curriculares de la Educación Parvularia*. **Uso en esta clase:** referencia obligatoria para objetivos y coherencia curricular del nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*. **Uso en esta clase:** modelo de cómo documentar y analizar una experiencia para aprender de ella como equipo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc (2018). *Bases Curriculares de la Educación Parvularia*. **Uso en esta clase:** referencia obligatoria para objetivos y coherencia curricular del nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://parvularia.mineduc.cl/descarga-las-bases-curriculares-la-educacion-parvularia-2018/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-2018-bases-curriculares-de-la-educacion-parvularia)
+- Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*. **Uso en esta clase:** modelo de cómo documentar y analizar una experiencia para aprender de ella como equipo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780415345040](https://openlibrary.org/isbn/9780415345040) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rinaldi-2006-in-dialogue-with-reggio-emilia)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

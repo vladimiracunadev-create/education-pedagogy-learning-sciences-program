@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Cumming, G. (2012). *Understanding the New Statistics*. **Uso en esta clase:** enfoque basado en estimación y en intervalos, más informativo que la prueba de hipótesis. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wasserstein, R. & Lazar, N. (2016). *The ASA Statement on p-Values*. **Uso en esta clase:** declaración oficial sobre qué indica y qué no indica un valor p. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Cumming, G. (2012). *Understanding the New Statistics*. **Uso en esta clase:** enfoque basado en estimación y en intervalos, más informativo que la prueba de hipótesis. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780203807002](https://openlibrary.org/isbn/9780203807002) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#cumming-2012-understanding-the-new-statistics)
+- Wasserstein, R. & Lazar, N. (2016). *The ASA Statement on p-Values*. **Uso en esta clase:** declaración oficial sobre qué indica y qué no indica un valor p. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wasserstein-lazar-2016-the-asa-statement-on-p-values) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

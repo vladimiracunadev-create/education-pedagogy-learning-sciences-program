@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Beane, J. (1997). *Curriculum Integration*. **Uso en esta clase:** la formulación más consistente de la integración curricular y sus condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. **Uso en esta clase:** aporta el criterio de evidencia aceptable, que es lo que impide que la integración diluya objetivos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Beane, J. (1997). *Curriculum Integration*. **Uso en esta clase:** la formulación más consistente de la integración curricular y sus condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780807736838](https://openlibrary.org/isbn/9780807736838) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#beane-1997-curriculum-integration)
+- Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. **Uso en esta clase:** aporta el criterio de evidencia aceptable, que es lo que impide que la integración diluya objetivos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiggins-mctighe-2005-understanding-by-design) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

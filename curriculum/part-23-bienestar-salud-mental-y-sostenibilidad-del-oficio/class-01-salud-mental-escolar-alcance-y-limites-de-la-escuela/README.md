@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ministerio de Educación de Chile. *Orientaciones sobre salud mental en la comunidad educativa* (edición vigente). **Uso en esta clase:** el alcance institucional y las obligaciones vigentes del establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*. **Uso en esta clase:** revisión sobre qué puede razonablemente esperarse de las intervenciones escolares. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ministerio de Educación de Chile. *Orientaciones sobre salud mental en la comunidad educativa* (edición vigente). **Uso en esta clase:** el alcance institucional y las obligaciones vigentes del establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://convivenciaparaciudadania.mineduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ministerio-de-educacion-de-chile-orientaciones-sobre-salud-mental-en-la)
+- Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*. **Uso en esta clase:** revisión sobre qué puede razonablemente esperarse de las intervenciones escolares. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#weare-nind-2011-mental-health-promotion-in-schools) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

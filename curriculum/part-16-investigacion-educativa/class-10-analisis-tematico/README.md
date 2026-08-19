@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Braun, V. & Clarke, V. (2006). *Using Thematic Analysis in Psychology*. **Uso en esta clase:** el procedimiento por fases más usado; léelo completo antes de declarar que lo aplicaste. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Miles, M., Huberman, A. & Saldaña (2014). *Qualitative Data Analysis*. **Uso en esta clase:** repertorio de estrategias de codificación y de despliegue de datos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Braun, V. & Clarke, V. (2006). *Using Thematic Analysis in Psychology*. **Uso en esta clase:** el procedimiento por fases más usado; léelo completo antes de declarar que lo aplicaste. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1191/1478088706qp063oa](https://doi.org/10.1191/1478088706qp063oa) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#braun-clarke-2006-using-thematic-analysis-in-psychology)
+- Miles, M., Huberman, A. & Saldaña (2014). *Qualitative Data Analysis*. **Uso en esta clase:** repertorio de estrategias de codificación y de despliegue de datos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781506353074](https://openlibrary.org/isbn/9781506353074) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#miles-huberman-2014-qualitative-data-analysis)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Raudenbush, S. & Bryk, A. (2002). *Hierarchical Linear Models*. **Uso en esta clase:** la referencia sobre modelos multinivel y su aplicación en educación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Singer, J. & Willett, J. (2003). *Applied Longitudinal Data Analysis*. **Uso en esta clase:** tratamiento accesible del modelado de trayectorias y de eventos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Raudenbush, S. & Bryk, A. (2002). *Hierarchical Linear Models*. **Uso en esta clase:** la referencia sobre modelos multinivel y su aplicación en educación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780761919049](https://openlibrary.org/isbn/9780761919049) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#raudenbush-bryk-2002-hierarchical-linear-models)
+- Singer, J. & Willett, J. (2003). *Applied Longitudinal Data Analysis*. **Uso en esta clase:** tratamiento accesible del modelado de trayectorias y de eventos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780199760725](https://openlibrary.org/isbn/9780199760725) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#singer-willett-2003-applied-longitudinal-data-analysis)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

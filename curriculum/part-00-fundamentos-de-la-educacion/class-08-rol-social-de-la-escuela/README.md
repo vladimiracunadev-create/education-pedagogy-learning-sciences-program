@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bourdieu, P. & Passeron, J.-C. (1970). *La reproducción*. **Uso en esta clase:** la formulación clásica de la escuela como reproductora; léelo como hipótesis potente y discutida, no como conclusión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. **Uso en esta clase:** documenta con datos la segregación del sistema chileno y sus consecuencias sobre los resultados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bourdieu, P. & Passeron, J.-C. (1970). *La reproducción*. **Uso en esta clase:** la formulación clásica de la escuela como reproductora; léelo como hipótesis potente y discutida, no como conclusión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bourdieu-passeron-1970-la-reproduccion) — sin localizador verificado todavía.
+- Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. **Uso en esta clase:** documenta con datos la segregación del sistema chileno y sus consecuencias sobre los resultados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.4067/s0718-07052013000100019](https://doi.org/10.4067/s0718-07052013000100019) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bellei-2013-el-estudio-de-la-segregacion-socioeconomica)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

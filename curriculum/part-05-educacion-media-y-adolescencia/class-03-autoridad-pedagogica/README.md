@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Meirieu, P. (1996). *Frankenstein educador*. **Uso en esta clase:** distingue autoridad de autoritarismo y sitúa el problema en la relación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Marzano, R. (2003). *Classroom Management That Works*. **Uso en esta clase:** sistematiza prácticas de relación y consistencia con evidencia observacional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Meirieu, P. (1996). *Frankenstein educador*. **Uso en esta clase:** distingue autoridad de autoritarismo y sitúa el problema en la relación educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#meirieu-1996-frankenstein-educador) — sin localizador verificado todavía.
+- Marzano, R. (2003). *Classroom Management That Works*. **Uso en esta clase:** sistematiza prácticas de relación y consistencia con evidencia observacional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780871208651](https://openlibrary.org/isbn/9780871208651) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#marzano-2003-classroom-management-that-works)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. **Uso en esta clase:** la distinción que ordena todas las decisiones de esta clase, con su evidencia original. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Gibbons, P. *Scaffolding Language, Scaffolding Learning* (edición vigente). **Uso en esta clase:** el andamiaje lingüístico traducido a decisiones concretas de aula por asignatura. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. **Uso en esta clase:** la distinción que ordena todas las decisiones de esta clase, con su evidencia original. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#cummins-1979-cognitive-academic-language-proficiency) — sin localizador verificado todavía.
+- Gibbons, P. *Scaffolding Language, Scaffolding Learning* (edición vigente). **Uso en esta clase:** el andamiaje lingüístico traducido a decisiones concretas de aula por asignatura. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780325003665](https://openlibrary.org/isbn/9780325003665) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#gibbons-scaffolding-language-scaffolding-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

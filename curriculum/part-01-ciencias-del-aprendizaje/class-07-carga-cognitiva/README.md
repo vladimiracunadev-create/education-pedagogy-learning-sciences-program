@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Sweller, J., van Merriënboer, J. & Paas, F. (2019). *Cognitive Architecture and Instructional Design: 20 Years Later*. Educational Psychology Review, 31. **Uso en esta clase:** actualiza la teoría, sus efectos y sus condiciones límite, incluido el efecto de reversión por experticia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mayer, R. (2021). *Multimedia Learning*. **Uso en esta clase:** traduce los efectos de carga a reglas concretas de diseño de material visual y multimedia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Sweller, J., van Merriënboer, J. & Paas, F. (2019). *Cognitive Architecture and Instructional Design: 20 Years Later*. Educational Psychology Review, 31. **Uso en esta clase:** actualiza la teoría, sus efectos y sus condiciones límite, incluido el efecto de reversión por experticia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/s10648-019-09465-5](https://doi.org/10.1007/s10648-019-09465-5) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sweller-paas-2019-cognitive-architecture-and-instructional-design-20)
+- Mayer, R. (2021). *Multimedia Learning*. **Uso en esta clase:** traduce los efectos de carga a reglas concretas de diseño de material visual y multimedia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781316638088](https://openlibrary.org/isbn/9781316638088) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mayer-2021-multimedia-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

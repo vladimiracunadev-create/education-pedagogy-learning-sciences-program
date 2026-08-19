@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Sahlberg, P. (2011). *Finnish Lessons*.** — la fuente que originó buena parte del mito; leerla completa muestra lo que el mito omitió.
-- **Crehan, L. (2016). *Cleverlands*.** — recorre los sistemas de mejor resultado buscando el mecanismo y no la anécdota.
-- **Lewis, C. (2002). *Lesson Study: A Handbook of Teacher-Led Instructional Change*.** — la práctica japonesa descrita con suficiente detalle para juzgar si es transferible.
-- **Zhao, Y. (2014). *Who's Afraid of the Big Bad Dragon?*** — el costo de los sistemas de alto rendimiento, que los rankings no muestran.
+- **Sahlberg, P. (2011). *Finnish Lessons*.** — la fuente que originó buena parte del mito; leerla completa muestra lo que el mito omitió. **Localizar:** [ISBN 9781470826154](https://openlibrary.org/isbn/9781470826154) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#sahlberg-2011-finnish-lessons)
+- **Crehan, L. (2016). *Cleverlands*.** — recorre los sistemas de mejor resultado buscando el mecanismo y no la anécdota. **Localizar:** [ISBN 9781783524914](https://openlibrary.org/isbn/9781783524914) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#crehan-2016-cleverlands)
+- **Lewis, C. (2002). *Lesson Study: A Handbook of Teacher-Led Instructional Change*.** — la práctica japonesa descrita con suficiente detalle para juzgar si es transferible. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#lewis-2002-lesson-study-a-handbook-of-teacher) — sin localizador verificado todavía.
+- **Zhao, Y. (2014). *Who's Afraid of the Big Bad Dragon?*** — el costo de los sistemas de alto rendimiento, que los rankings no muestran. **Localizar:** [ISBN 9781501200977](https://openlibrary.org/isbn/9781501200977) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#zhao-2014-who-s-afraid-of-the-big)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. **Uso en esta clase:** ubica la fluidez dentro del sistema completo y advierte contra tratarla como meta aislada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*. **Uso en esta clase:** muestra cómo una medida breve y repetible se convierte en decisión de intervención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. **Uso en esta clase:** ubica la fluidez dentro del sistema completo y advierte contra tratarla como meta aislada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1529100618772271](https://doi.org/10.1177/1529100618772271) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#castles-rastle-2018-ending-the-reading-wars)
+- Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*. **Uso en esta clase:** muestra cómo una medida breve y repetible se convierte en decisión de intervención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1598/rrq.41.1.4](https://doi.org/10.1598/rrq.41.1.4) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#fuchs-fuchs-2006-introduction-to-response-to-intervention-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

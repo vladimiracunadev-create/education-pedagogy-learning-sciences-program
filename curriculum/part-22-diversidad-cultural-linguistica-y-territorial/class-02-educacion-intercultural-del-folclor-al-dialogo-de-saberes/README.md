@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*. **Uso en esta clase:** define la pertinencia cultural sin renunciar a la exigencia académica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco institucional vigente y sus orientaciones curriculares. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*. **Uso en esta clase:** define la pertinencia cultural sin renunciar a la exigencia académica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/00028312032003465](https://doi.org/10.3102/00028312032003465) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ladson-billings-1995-toward-a-theory-of-culturally-relevant)
+- Programa de Educación Intercultural Bilingüe, Ministerio de Educación de Chile (edición vigente). **Uso en esta clase:** el marco institucional vigente y sus orientaciones curriculares. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://peib.mineduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#programa-de-educacion-intercultural-bilingue-ministerio)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Knowles, M. (1984). *The Adult Learner: A Neglected Species*.** — el planteamiento clásico de la andragogía; léelo sabiendo que sus supuestos son hipótesis útiles, no leyes verificadas.
-- **Kolb, D. (1984). *Experiential Learning*.** — modelo del ciclo experiencial; su valor está en el diseño de la reflexión, no en los tipos de estilo que se le derivaron.
-- **Mezirow, J. (1991). *Transformative Dimensions of Adult Learning*.** — explica el aprendizaje que reorganiza supuestos, típico de trayectorias adultas de reconversión.
-- **Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*.** — síntesis actualizada y crítica del campo; buena para separar evidencia de tradición.
+- **Knowles, M. (1984). *The Adult Learner: A Neglected Species*.** — el planteamiento clásico de la andragogía; léelo sabiendo que sus supuestos son hipótesis útiles, no leyes verificadas. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#knowles-1984-the-adult-learner-a-neglected-species) — sin localizador verificado todavía.
+- **Kolb, D. (1984). *Experiential Learning*.** — modelo del ciclo experiencial; su valor está en el diseño de la reflexión, no en los tipos de estilo que se le derivaron. **Localizar:** [ISBN 9780768682151](https://openlibrary.org/isbn/9780768682151) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#kolb-1984-experiential-learning)
+- **Mezirow, J. (1991). *Transformative Dimensions of Adult Learning*.** — explica el aprendizaje que reorganiza supuestos, típico de trayectorias adultas de reconversión. **Localizar:** [ISBN 9781555423391](https://openlibrary.org/isbn/9781555423391) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mezirow-1991-transformative-dimensions-of-adult-learning)
+- **Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*.** — síntesis actualizada y crítica del campo; buena para separar evidencia de tradición. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#merriam-bierema-2013-adult-learning-linking-theory-and-practice) — sin localizador verificado todavía.
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

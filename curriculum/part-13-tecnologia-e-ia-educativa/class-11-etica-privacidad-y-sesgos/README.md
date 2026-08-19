@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. **Uso en esta clase:** principios éticos con desarrollo específico para educación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Normativa chilena de protección de datos personales y orientaciones del Mineduc sobre uso de plataformas (edición vigente). **Uso en esta clase:** marco de obligaciones aplicables; verifica su versión vigente antes de decidir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- O'Neil, C. (2016). *Weapons of Math Destruction*. **Uso en esta clase:** muestra cómo un sistema automatizado reproduce y amplifica desigualdades sin proponérselo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*. **Uso en esta clase:** principios éticos con desarrollo específico para educación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/es/artificial-intelligence/recommendation-ethics) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-2021-recomendacion-sobre-la-etica-de-la)
+- Normativa chilena de protección de datos personales y orientaciones del Mineduc sobre uso de plataformas (edición vigente). **Uso en esta clase:** marco de obligaciones aplicables; verifica su versión vigente antes de decidir. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=141599) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#normativa-chilena-de-proteccion-de-datos)
+- O'Neil, C. (2016). *Weapons of Math Destruction*. **Uso en esta clase:** muestra cómo un sistema automatizado reproduce y amplifica desigualdades sin proponérselo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780553418811](https://openlibrary.org/isbn/9780553418811) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#o-neil-2016-weapons-of-math-destruction)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

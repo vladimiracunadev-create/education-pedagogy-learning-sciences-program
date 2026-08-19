@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** fuente del concepto de barreras para el aprendizaje y la participación, con indicadores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Organización Mundial de la Salud (2001). *CIF*. **Uso en esta clase:** fundamenta el funcionamiento como interacción entre la persona y su entorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, T. & Ainscow, M. (2011). *Index for Inclusion*. **Uso en esta clase:** fuente del concepto de barreras para el aprendizaje y la participación, con indicadores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#booth-ainscow-2011-index-for-inclusion) — sin localizador verificado todavía.
+- Organización Mundial de la Salud (2001). *CIF*. **Uso en esta clase:** fundamenta el funcionamiento como interacción entre la persona y su entorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#organizacion-mundial-de-la-salud-2001-cif)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

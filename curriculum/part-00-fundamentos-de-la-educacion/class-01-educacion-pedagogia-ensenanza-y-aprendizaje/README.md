@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Dewey, J. (1916). *Democracy and Education*, cap. 1–2. **Uso en esta clase:** establece la diferencia entre educación como proceso vital y escolarización como institución; base del resto de la parte. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Biesta, G. (2010). *Good Education in an Age of Measurement*. **Uso en esta clase:** muestra que la pregunta «¿qué es buena educación?» no se responde midiendo mejor, sino decidiendo qué se persigue. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Dewey, J. (1916). *Democracy and Education*, cap. 1–2. **Uso en esta clase:** establece la diferencia entre educación como proceso vital y escolarización como institución; base del resto de la parte. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/2178611](https://doi.org/10.2307/2178611) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#dewey-1916-democracy-and-education)
+- Biesta, G. (2010). *Good Education in an Age of Measurement*. **Uso en esta clase:** muestra que la pregunta «¿qué es buena educación?» no se responde midiendo mejor, sino decidiendo qué se persigue. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781315634319](https://openlibrary.org/isbn/9781315634319) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biesta-2010-good-education-in-an-age-of)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

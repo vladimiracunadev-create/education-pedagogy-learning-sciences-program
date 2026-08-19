@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Edwards, C., Gandini, L. & Forman, G. (eds.) (1998). *The Hundred Languages of Children*. **Uso en esta clase:** fundamenta el espacio como agente pedagógico, con ejemplos de organización y documentación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Harms, T., Clifford, R. & Cryer, D. *Early Childhood Environment Rating Scale (ECERS)* (edición vigente). **Uso en esta clase:** instrumento estandarizado de evaluación de ambientes; útil como lista de verificación crítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Edwards, C., Gandini, L. & Forman, G. (eds.) (1998). *The Hundred Languages of Children*. **Uso en esta clase:** fundamenta el espacio como agente pedagógico, con ejemplos de organización y documentación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781567503111](https://openlibrary.org/isbn/9781567503111) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#edwards-gandini-1998-the-hundred-languages-of-children)
+- Harms, T., Clifford, R. & Cryer, D. *Early Childhood Environment Rating Scale (ECERS)* (edición vigente). **Uso en esta clase:** instrumento estandarizado de evaluación de ambientes; útil como lista de verificación crítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780807755709](https://openlibrary.org/isbn/9780807755709) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#harms-clifford-early-childhood-environment-rating-scale-ecers)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

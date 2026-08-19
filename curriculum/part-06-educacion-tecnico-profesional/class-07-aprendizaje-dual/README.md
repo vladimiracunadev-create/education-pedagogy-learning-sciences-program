@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Normativa y orientaciones sobre formación dual en Chile* (edición vigente). **Uso en esta clase:** define requisitos, convenios y responsabilidades vigentes de la modalidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO-UNEVOC / OCDE. *Estudios comparados sobre aprendizaje dual y transición al empleo* (edición vigente). **Uso en esta clase:** evidencia internacional sobre condiciones que hacen funcionar el modelo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Billett, S. (2011). *Vocational Education: Purposes, Traditions and Prospects*. **Uso en esta clase:** sitúa el aprendizaje dual en la tradición de la formación en el puesto de trabajo y sus tensiones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Normativa y orientaciones sobre formación dual en Chile* (edición vigente). **Uso en esta clase:** define requisitos, convenios y responsabilidades vigentes de la modalidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-normativa-y-orientaciones-sobre-formacion-dual)
+- UNESCO-UNEVOC / OCDE. *Estudios comparados sobre aprendizaje dual y transición al empleo* (edición vigente). **Uso en esta clase:** evidencia internacional sobre condiciones que hacen funcionar el modelo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://unevoc.unesco.org/home/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-unevoc-ocde-estudios-comparados-sobre-aprendizaje-dual-y)
+- Billett, S. (2011). *Vocational Education: Purposes, Traditions and Prospects*. **Uso en esta clase:** sitúa el aprendizaje dual en la tradición de la formación en el puesto de trabajo y sus tensiones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9789400719538](https://openlibrary.org/isbn/9789400719538) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#billett-2011-vocational-education-purposes-traditions-and-prospects)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

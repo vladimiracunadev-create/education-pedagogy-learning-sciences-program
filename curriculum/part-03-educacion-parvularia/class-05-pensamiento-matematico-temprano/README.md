@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Clements, D. & Sarama, J. (2014). *Learning and Teaching Early Math: The Learning Trajectories Approach*. **Uso en esta clase:** describe trayectorias de aprendizaje matemático temprano con niveles y actividades verificables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Siegler, R. & Ramani, G. (2008). *Playing Linear Number Board Games Promotes Low-Income Children's Numerical Development*. **Uso en esta clase:** experimento breve y replicado; muestra un efecto concreto con una intervención de bajo costo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Clements, D. & Sarama, J. (2014). *Learning and Teaching Early Math: The Learning Trajectories Approach*. **Uso en esta clase:** describe trayectorias de aprendizaje matemático temprano con niveles y actividades verificables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#clements-sarama-2014-learning-and-teaching-early-math-the) — sin localizador verificado todavía.
+- Siegler, R. & Ramani, G. (2008). *Playing Linear Number Board Games Promotes Low-Income Children's Numerical Development*. **Uso en esta clase:** experimento breve y replicado; muestra un efecto concreto con una intervención de bajo costo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1467-7687.2008.00714.x](https://doi.org/10.1111/j.1467-7687.2008.00714.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#siegler-ramani-2008-playing-linear-number-board-games-promotes)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

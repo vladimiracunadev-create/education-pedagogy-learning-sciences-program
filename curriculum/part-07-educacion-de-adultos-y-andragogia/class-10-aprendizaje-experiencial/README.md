@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Kolb, D. (1984). *Experiential Learning*. **Uso en esta clase:** el modelo del ciclo; útil para el diseño de la reflexión, no para clasificar personas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Schön, D. (1983). *The Reflective Practitioner*. **Uso en esta clase:** fundamenta la reflexión sobre la acción como mecanismo de aprendizaje profesional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Kolb, D. (1984). *Experiential Learning*. **Uso en esta clase:** el modelo del ciclo; útil para el diseño de la reflexión, no para clasificar personas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780768682151](https://openlibrary.org/isbn/9780768682151) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kolb-1984-experiential-learning)
+- Schön, D. (1983). *The Reflective Practitioner*. **Uso en esta clase:** fundamenta la reflexión sobre la acción como mecanismo de aprendizaje profesional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780465068746](https://openlibrary.org/isbn/9780465068746) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#schon-1983-the-reflective-practitioner)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

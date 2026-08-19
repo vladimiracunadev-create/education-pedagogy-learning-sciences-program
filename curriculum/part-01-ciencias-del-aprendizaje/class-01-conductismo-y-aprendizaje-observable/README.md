@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Skinner, B. F. (1968). *The Technology of Teaching*. **Uso en esta clase:** la formulación original aplicada a la enseñanza; léelo por su precisión conceptual, no por su programa educativo completo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Deci, E., Koestner, R. & Ryan, R. (1999). *A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation*. **Uso en esta clase:** documenta cuándo la recompensa externa deteriora la motivación interna; el matiz que evita el mal uso del reforzamiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Skinner, B. F. (1968). *The Technology of Teaching*. **Uso en esta clase:** la formulación original aplicada a la enseñanza; léelo por su precisión conceptual, no por su programa educativo completo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781583900253](https://openlibrary.org/isbn/9781583900253) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#skinner-1968-the-technology-of-teaching)
+- Deci, E., Koestner, R. & Ryan, R. (1999). *A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation*. **Uso en esta clase:** documenta cuándo la recompensa externa deteriora la motivación interna; el matiz que evita el mal uso del reforzamiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/0033-2909.125.6.627](https://doi.org/10.1037/0033-2909.125.6.627) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#deci-koestner-1999-a-meta-analytic-review-of-experiments)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics*. **Uso en esta clase:** evidencia sobre consistencia, validez y consecuencias del uso de rúbricas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Brookhart, S. (2013). *How to Create and Use Rubrics*. **Uso en esta clase:** guía práctica de construcción con ejemplos de descriptores observables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics*. **Uso en esta clase:** evidencia sobre consistencia, validez y consecuencias del uso de rúbricas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.edurev.2007.05.002](https://doi.org/10.1016/j.edurev.2007.05.002) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#jonsson-svingby-2007-the-use-of-scoring-rubrics)
+- Brookhart, S. (2013). *How to Create and Use Rubrics*. **Uso en esta clase:** guía práctica de construcción con ejemplos de descriptores observables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781416615521](https://openlibrary.org/isbn/9781416615521) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#brookhart-2013-how-to-create-and-use-rubrics)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

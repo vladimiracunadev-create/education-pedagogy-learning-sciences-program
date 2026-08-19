@@ -82,10 +82,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **CAST. *Universal Design for Learning Guidelines* (versión 3.0, 2024) (edición vigente).** — el marco operativo del DUA con sus tres principios y sus pautas; usa la versión vigente, no resúmenes de segunda mano.
-- **Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.** — instrumento de autoevaluación institucional: convierte «ser inclusivo» en indicadores revisables.
-- **Mineduc. *Decreto 83/2015* (adecuaciones curriculares) y *Decreto 170/2009* (NEE) (edición vigente).** — marco chileno vigente que define instrumentos, plazos y responsabilidades; verifica siempre la versión actualizada.
-- **Organización Mundial de la Salud (2001). *Clasificación Internacional del Funcionamiento, de la Discapacidad y de la Salud*.** — sostiene el enfoque de funcionamiento en contexto que reemplaza al enfoque de déficit.
+- **CAST. *Universal Design for Learning Guidelines* (versión 3.0, 2024) (edición vigente).** — el marco operativo del DUA con sus tres principios y sus pautas; usa la versión vigente, no resúmenes de segunda mano. **Localizar:** [fuente oficial](https://udlguidelines.cast.org/) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#cast-universal-design-for-learning-guidelines)
+- **Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.** — instrumento de autoevaluación institucional: convierte «ser inclusivo» en indicadores revisables. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#booth-ainscow-2011-index-for-inclusion) — sin localizador verificado todavía.
+- **Mineduc. *Decreto 83/2015* (adecuaciones curriculares) y *Decreto 170/2009* (NEE) (edición vigente).** — marco chileno vigente que define instrumentos, plazos y responsabilidades; verifica siempre la versión actualizada. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1074511) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mineduc-decreto-83-2015-2)
+- **Organización Mundial de la Salud (2001). *Clasificación Internacional del Funcionamiento, de la Discapacidad y de la Salud*.** — sostiene el enfoque de funcionamiento en contexto que reemplaza al enfoque de déficit. **Localizar:** [fuente oficial](https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#organizacion-mundial-de-la-salud-2001-clasificacion-internacional-del-funcionami)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

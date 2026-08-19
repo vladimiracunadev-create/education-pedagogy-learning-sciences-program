@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Olweus, D. (1993). *Bullying at School: What We Know and What We Can Do*. **Uso en esta clase:** distingue hostigamiento de conflicto y aporta criterios operativos de identificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc / Superintendencia de Educación. *Orientaciones y protocolos de convivencia escolar* (edición vigente). **Uso en esta clase:** define el procedimiento obligatorio en Chile ante situaciones tipificadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Olweus, D. (1993). *Bullying at School: What We Know and What We Can Do*. **Uso en esta clase:** distingue hostigamiento de conflicto y aporta criterios operativos de identificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/3121681](https://doi.org/10.2307/3121681) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#olweus-1993-bullying-at-school-what-we-know)
+- Mineduc / Superintendencia de Educación. *Orientaciones y protocolos de convivencia escolar* (edición vigente). **Uso en esta clase:** define el procedimiento obligatorio en Chile ante situaciones tipificadas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.supereduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-superintendencia-de-educacion-orientaciones-y-protocolos-de-convivencia)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

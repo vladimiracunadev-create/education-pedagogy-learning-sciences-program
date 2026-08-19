@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*. **Uso en esta clase:** principios de supervisión aplicables también a proyectos de pregrado y magíster. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Comisión Nacional de Acreditación (Chile). *Criterios sobre procesos de titulación* (edición vigente). **Uso en esta clase:** requisitos institucionales sobre la etapa final de los programas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*. **Uso en esta clase:** principios de supervisión aplicables también a proyectos de pregrado y magíster. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780335224807](https://openlibrary.org/isbn/9780335224807) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#delamont-atkinson-2004-supervising-the-doctorate)
+- Comisión Nacional de Acreditación (Chile). *Criterios sobre procesos de titulación* (edición vigente). **Uso en esta clase:** requisitos institucionales sobre la etapa final de los programas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#comision-nacional-de-acreditacion-chile-criterios-sobre-procesos-de-titulacion) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

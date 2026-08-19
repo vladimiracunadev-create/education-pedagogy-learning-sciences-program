@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Brookfield, S. & Preskill, S. (2005). *Discussion as a Way of Teaching*. **Uso en esta clase:** repertorio de estructuras de discusión con criterios de conducción. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Alexander, R. (2020). *A Dialogic Teaching Companion*. **Uso en esta clase:** principios de discusión productiva aplicables al formato de seminario. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Brookfield, S. & Preskill, S. (2005). *Discussion as a Way of Teaching*. **Uso en esta clase:** repertorio de estructuras de discusión con criterios de conducción. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780787978082](https://openlibrary.org/isbn/9780787978082) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#brookfield-preskill-2005-discussion-as-a-way-of-teaching)
+- Alexander, R. (2020). *A Dialogic Teaching Companion*. **Uso en esta clase:** principios de discusión productiva aplicables al formato de seminario. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781351040143](https://openlibrary.org/isbn/9781351040143) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#alexander-2020-a-dialogic-teaching-companion)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ministerio de Educación de Chile. *Orientaciones para la elaboración de protocolos de actuación* (edición vigente). **Uso en esta clase:** el marco de actuación institucional y sus obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. **Uso en esta clase:** el efecto de la adversidad sostenida sobre el funcionamiento escolar, sin convertirlo en excusa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ministerio de Educación de Chile. *Orientaciones para la elaboración de protocolos de actuación* (edición vigente). **Uso en esta clase:** el marco de actuación institucional y sus obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://convivenciaparaciudadania.mineduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ministerio-de-educacion-de-chile-orientaciones-para-la-elaboracion-de-protocolos)
+- Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. **Uso en esta clase:** el efecto de la adversidad sostenida sobre el funcionamiento escolar, sin convertirlo en excusa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780465056521](https://openlibrary.org/isbn/9780465056521) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#perry-szalavitz-2006-the-boy-who-was-raised-as)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

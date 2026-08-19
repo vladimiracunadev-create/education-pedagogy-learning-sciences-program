@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*. **Uso en esta clase:** fundamenta la documentación pedagógica como práctica de investigación del propio equipo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para la evaluación en educación parvularia* (edición vigente). **Uso en esta clase:** define en Chile el enfoque y los instrumentos esperados en el nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*. **Uso en esta clase:** fundamenta la documentación pedagógica como práctica de investigación del propio equipo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780415345040](https://openlibrary.org/isbn/9780415345040) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rinaldi-2006-in-dialogue-with-reggio-emilia)
+- Mineduc. *Orientaciones para la evaluación en educación parvularia* (edición vigente). **Uso en esta clase:** define en Chile el enfoque y los instrumentos esperados en el nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://parvularia.mineduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-orientaciones-para-la-evaluacion-en-educacion)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

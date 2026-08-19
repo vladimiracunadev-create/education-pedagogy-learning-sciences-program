@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down* (edición vigente). **Uso en esta clase:** el perfil de aprendizaje descrito con implicancias operativas de aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo* (edición vigente). **Uso en esta clase:** el marco de apoyos que sustituye a la clasificación por nivel de déficit. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down* (edición vigente). **Uso en esta clase:** el perfil de aprendizaje descrito con implicancias operativas de aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#buckley-bird-educacion-de-estudiantes-con-sindrome-de) — sin localizador verificado todavía.
+- Schalock, R. et al. *Discapacidad intelectual: definición, clasificación y sistemas de apoyo* (edición vigente). **Uso en esta clase:** el marco de apoyos que sustituye a la clasificación por nivel de déficit. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#schalock-discapacidad-intelectual-definicion-clasificacion-y-sistemas) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. **Uso en esta clase:** el planteamiento completo del diseño inverso con plantillas y ejemplos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** complementa el diseño inverso con la lógica del alineamiento constructivo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. **Uso en esta clase:** el planteamiento completo del diseño inverso con plantillas y ejemplos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiggins-mctighe-2005-understanding-by-design) — sin localizador verificado todavía.
+- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** complementa el diseño inverso con la lógica del alineamiento constructivo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780335242764](https://openlibrary.org/isbn/9780335242764) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biggs-tang-2011-teaching-for-quality-learning-at-university)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

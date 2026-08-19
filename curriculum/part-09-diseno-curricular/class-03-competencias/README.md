@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Young, M. (2013). *Overcoming the Crisis in Curriculum Theory: A Knowledge-Based Approach*. **Uso en esta clase:** la crítica más consistente al desplazamiento del conocimiento disciplinar; obligatoria para discutir con seriedad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Le Boterf, G. *Construir las competencias individuales y colectivas* (edición vigente). **Uso en esta clase:** formulación operativa del enfoque por competencias en formación profesional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Young, M. (2013). *Overcoming the Crisis in Curriculum Theory: A Knowledge-Based Approach*. **Uso en esta clase:** la crítica más consistente al desplazamiento del conocimiento disciplinar; obligatoria para discutir con seriedad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/00220272.2013.764505](https://doi.org/10.1080/00220272.2013.764505) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#young-2013-overcoming-the-crisis-in-curriculum-theory)
+- Le Boterf, G. *Construir las competencias individuales y colectivas* (edición vigente). **Uso en esta clase:** formulación operativa del enfoque por competencias en formación profesional. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#le-boterf-construir-las-competencias-individuales-y-colectivas) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

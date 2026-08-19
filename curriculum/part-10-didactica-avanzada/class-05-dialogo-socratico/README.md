@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Alexander, R. (2020). *A Dialogic Teaching Companion*. **Uso en esta clase:** marco y repertorio de enseñanza dialógica con criterios observables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Michaels, S. & O'Connor, C. (2012). *Talk Science Primer*. **Uso en esta clase:** protocolos concretos de conducción de discusión con encadenamiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Alexander, R. (2020). *A Dialogic Teaching Companion*. **Uso en esta clase:** marco y repertorio de enseñanza dialógica con criterios observables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781351040143](https://openlibrary.org/isbn/9781351040143) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#alexander-2020-a-dialogic-teaching-companion)
+- Michaels, S. & O'Connor, C. (2012). *Talk Science Primer*. **Uso en esta clase:** protocolos concretos de conducción de discusión con encadenamiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#michaels-o-connor-2012-talk-science-primer) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

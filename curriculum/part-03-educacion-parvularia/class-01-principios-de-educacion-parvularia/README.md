@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc (2018). *Bases Curriculares de la Educación Parvularia*. **Uso en esta clase:** marco vigente: principios, ámbitos, núcleos y objetivos de aprendizaje del nivel en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Copple, C. & Bredekamp, S. (eds.) (2009). *Developmentally Appropriate Practice*. NAEYC. **Uso en esta clase:** argumenta con evidencia por qué la escolarización temprana no mejora resultados y qué sí lo hace. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc (2018). *Bases Curriculares de la Educación Parvularia*. **Uso en esta clase:** marco vigente: principios, ámbitos, núcleos y objetivos de aprendizaje del nivel en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://parvularia.mineduc.cl/descarga-las-bases-curriculares-la-educacion-parvularia-2018/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-2018-bases-curriculares-de-la-educacion-parvularia)
+- Copple, C. & Bredekamp, S. (eds.) (2009). *Developmentally Appropriate Practice*. NAEYC. **Uso en esta clase:** argumenta con evidencia por qué la escolarización temprana no mejora resultados y qué sí lo hace. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.65528/9780807782194-005](https://doi.org/10.65528/9780807782194-005) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#copple-bredekamp-2009-developmentally-appropriate-practice)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

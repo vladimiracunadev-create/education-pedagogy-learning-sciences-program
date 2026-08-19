@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc (2018). *Bases Curriculares de la Educación Parvularia*, núcleo Corporalidad y Movimiento. **Uso en esta clase:** define los objetivos del núcleo y su progresión por nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Organización Mundial de la Salud (2019). *Directrices sobre actividad física en menores de 5 años*. **Uso en esta clase:** recomendaciones respaldadas sobre cantidad y tipo de actividad por edad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Adolph, K. & Franchak, J. (2017). *The Development of Motor Behavior*. **Uso en esta clase:** explica el desarrollo motor como aprendizaje y no como maduración automática. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc (2018). *Bases Curriculares de la Educación Parvularia*, núcleo Corporalidad y Movimiento. **Uso en esta clase:** define los objetivos del núcleo y su progresión por nivel. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://parvularia.mineduc.cl/descarga-las-bases-curriculares-la-educacion-parvularia-2018/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-2018-bases-curriculares-de-la-educacion-parvularia-2)
+- Organización Mundial de la Salud (2019). *Directrices sobre actividad física en menores de 5 años*. **Uso en esta clase:** recomendaciones respaldadas sobre cantidad y tipo de actividad por edad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.who.int/publications/i/item/9789241550536) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#organizacion-mundial-de-la-salud-2019-directrices-sobre-actividad-fisica-en-meno)
+- Adolph, K. & Franchak, J. (2017). *The Development of Motor Behavior*. **Uso en esta clase:** explica el desarrollo motor como aprendizaje y no como maduración automática. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1002/wcs.1430](https://doi.org/10.1002/wcs.1430) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#adolph-franchak-2017-the-development-of-motor-behavior)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

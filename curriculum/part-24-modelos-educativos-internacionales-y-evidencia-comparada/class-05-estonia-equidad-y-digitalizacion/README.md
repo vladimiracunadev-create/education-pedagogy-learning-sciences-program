@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Informes país sobre sistemas educativos* (edición vigente). **Uso en esta clase:** descripción estructural del sistema con datos comparables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** advierte sobre la construcción de casos ejemplares y sus usos políticos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Informes país sobre sistemas educativos* (edición vigente). **Uso en esta clase:** descripción estructural del sistema con datos comparables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-informes-pais-sobre-sistemas-educativos) — sin localizador verificado todavía.
+- Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** advierte sobre la construcción de casos ejemplares y sus usos políticos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780807744932](https://openlibrary.org/isbn/9780807744932) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#steiner-khamsi-2004-the-global-politics-of-educational-borrowing)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

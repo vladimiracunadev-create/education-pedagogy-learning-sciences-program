@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bishop, D. et al. (2017). *Phase 2 of CATALISE*. **Uso en esta clase:** el consenso internacional sobre criterios y terminología del trastorno del desarrollo del lenguaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. **Uso en esta clase:** distingue dominio conversacional de dominio académico, clave para no confundir L2 con trastorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bishop, D. et al. (2017). *Phase 2 of CATALISE*. **Uso en esta clase:** el consenso internacional sobre criterios y terminología del trastorno del desarrollo del lenguaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/jcpp.12721](https://doi.org/10.1111/jcpp.12721) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bishop-2017-phase-2-of-catalise)
+- Cummins, J. (1979). *Cognitive/Academic Language Proficiency*. **Uso en esta clase:** distingue dominio conversacional de dominio académico, clave para no confundir L2 con trastorno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#cummins-1979-cognitive-academic-language-proficiency) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

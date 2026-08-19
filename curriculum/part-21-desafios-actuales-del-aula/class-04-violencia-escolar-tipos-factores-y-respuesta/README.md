@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Olweus, D. (1993). *Bullying at School*. **Uso en esta clase:** los criterios operacionales que permiten distinguir acoso de conflicto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Superintendencia de Educación de Chile. *Circulares sobre convivencia escolar* (edición vigente). **Uso en esta clase:** las obligaciones institucionales, plazos y protocolos vigentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Olweus, D. (1993). *Bullying at School*. **Uso en esta clase:** los criterios operacionales que permiten distinguir acoso de conflicto. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780631227885](https://openlibrary.org/isbn/9780631227885) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#olweus-1993-bullying-at-school)
+- Superintendencia de Educación de Chile. *Circulares sobre convivencia escolar* (edición vigente). **Uso en esta clase:** las obligaciones institucionales, plazos y protocolos vigentes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.supereduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#superintendencia-de-educacion-de-chile-circulares-sobre-convivencia-escolar)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

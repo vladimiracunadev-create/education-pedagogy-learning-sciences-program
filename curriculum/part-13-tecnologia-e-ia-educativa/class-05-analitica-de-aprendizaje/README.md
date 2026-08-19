@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Siemens, G. & Baker, R. (2012). *Learning Analytics and Educational Data Mining: Towards Communication and Collaboration*. **Uso en esta clase:** introducción al campo, sus métodos y sus límites. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*. **Uso en esta clase:** sistematiza los problemas éticos del uso de datos de estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Siemens, G. & Baker, R. (2012). *Learning Analytics and Educational Data Mining: Towards Communication and Collaboration*. **Uso en esta clase:** introducción al campo, sus métodos y sus límites. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1145/2330601.2330661](https://doi.org/10.1145/2330601.2330661) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#siemens-baker-2012-learning-analytics-and-educational-data-mining)
+- Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*. **Uso en esta clase:** sistematiza los problemas éticos del uso de datos de estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/0002764213479366](https://doi.org/10.1177/0002764213479366) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#slade-prinsloo-2013-learning-analytics-ethical-issues-and-dilemmas)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

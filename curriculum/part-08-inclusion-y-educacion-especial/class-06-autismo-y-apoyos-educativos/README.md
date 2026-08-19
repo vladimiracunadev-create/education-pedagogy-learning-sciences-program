@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ley 21.545 (Chile, 2023) sobre atención integral de personas con trastorno del espectro autista (edición vigente). **Uso en esta clase:** define obligaciones del sistema educativo; verifica su reglamentación vigente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- National Autism Center / National Clearinghouse. *Reportes sobre prácticas basadas en evidencia* (edición vigente). **Uso en esta clase:** clasifican intervenciones por nivel de respaldo; útiles para descartar ofertas sin evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Lord, C., Elsabbagh, M., Baird, G. & Veenstra-Vanderweele, J. (2018). *Autism Spectrum Disorder*, The Lancet. **Uso en esta clase:** revisión que ordena lo que se sabe sobre el espectro y advierte sobre intervenciones sin respaldo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ley 21.545 (Chile, 2023) sobre atención integral de personas con trastorno del espectro autista (edición vigente). **Uso en esta clase:** define obligaciones del sistema educativo; verifica su reglamentación vigente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1190123) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ley-21-545-chile-2023-sobre)
+- National Autism Center / National Clearinghouse. *Reportes sobre prácticas basadas en evidencia* (edición vigente). **Uso en esta clase:** clasifican intervenciones por nivel de respaldo; útiles para descartar ofertas sin evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://nationalautismcenter.org/national-standards/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#national-autism-center-national-clearinghouse-reportes-sobre-practicas-basadas-e)
+- Lord, C., Elsabbagh, M., Baird, G. & Veenstra-Vanderweele, J. (2018). *Autism Spectrum Disorder*, The Lancet. **Uso en esta clase:** revisión que ordena lo que se sabe sobre el espectro y advierte sobre intervenciones sin respaldo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/s0140-6736(18)31129-2](https://doi.org/10.1016/s0140-6736(18)31129-2) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#lord-elsabbagh-2018-autism-spectrum-disorder)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

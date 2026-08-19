@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Guba, E. & Lincoln, Y. (1994). *Competing Paradigms in Qualitative Research*. **Uso en esta clase:** exposición clásica de los paradigmas y de sus supuestos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Creswell, J. & Creswell, J. D. (2018). *Research Design*. **Uso en esta clase:** conecta supuestos, preguntas y diseños con criterios prácticos de elección. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Guba, E. & Lincoln, Y. (1994). *Competing Paradigms in Qualitative Research*. **Uso en esta clase:** exposición clásica de los paradigmas y de sus supuestos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#guba-lincoln-1994-competing-paradigms-in-qualitative-research) — sin localizador verificado todavía.
+- Creswell, J. & Creswell, J. D. (2018). *Research Design*. **Uso en esta clase:** conecta supuestos, preguntas y diseños con criterios prácticos de elección. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#creswell-creswell-2018-research-design) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

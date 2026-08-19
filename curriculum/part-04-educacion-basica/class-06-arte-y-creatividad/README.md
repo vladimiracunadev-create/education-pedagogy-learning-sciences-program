@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Eisner, E. (2002). *The Arts and the Creation of Mind*. **Uso en esta clase:** fundamenta el contenido cognitivo propio de las artes y sus formas de evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Winner, E., Goldstein, T. & Vincent-Lancrin, S. (2013). *Art for Art's Sake?* OCDE. **Uso en esta clase:** revisa la evidencia sobre transferencia y ordena qué se puede afirmar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Eisner, E. (2002). *The Arts and the Creation of Mind*. **Uso en esta clase:** fundamenta el contenido cognitivo propio de las artes y sus formas de evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780300105117](https://openlibrary.org/isbn/9780300105117) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#eisner-2002-the-arts-and-the-creation-of)
+- Winner, E., Goldstein, T. & Vincent-Lancrin, S. (2013). *Art for Art's Sake?* OCDE. **Uso en esta clase:** revisa la evidencia sobre transferencia y ordena qué se puede afirmar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9789264180772](https://openlibrary.org/isbn/9789264180772) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#winner-goldstein-2013-art-for-art-s-sake)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

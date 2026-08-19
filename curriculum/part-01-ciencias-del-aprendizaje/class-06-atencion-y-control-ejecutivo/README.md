@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Diamond, A. (2013). *Executive Functions*. Annual Review of Psychology, 64. **Uso en esta clase:** la revisión de referencia sobre funciones ejecutivas, su desarrollo y qué intervenciones tienen evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mayer, R. (2021). *Multimedia Learning*. **Uso en esta clase:** aporta los principios de redundancia y atención dividida, con experimentos que se replican en aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Diamond, A. (2013). *Executive Functions*. Annual Review of Psychology, 64. **Uso en esta clase:** la revisión de referencia sobre funciones ejecutivas, su desarrollo y qué intervenciones tienen evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1146/annurev-psych-113011-143750](https://doi.org/10.1146/annurev-psych-113011-143750) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#diamond-2013-executive-functions)
+- Mayer, R. (2021). *Multimedia Learning*. **Uso en esta clase:** aporta los principios de redundancia y atención dividida, con experimentos que se replican en aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781316638088](https://openlibrary.org/isbn/9781316638088) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mayer-2021-multimedia-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Desforges, C. & Abouchaar, A. (2003). *The Impact of Parental Involvement, Parental Support and Family Education on Pupil Achievement*. **Uso en esta clase:** distingue con evidencia qué formas de participación se asocian con aprendizaje y cuáles no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Epstein, J. (2011). *School, Family, and Community Partnerships*. **Uso en esta clase:** marco operativo de tipos de participación; útil para diseñar y auditar un plan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Desforges, C. & Abouchaar, A. (2003). *The Impact of Parental Involvement, Parental Support and Family Education on Pupil Achievement*. **Uso en esta clase:** distingue con evidencia qué formas de participación se asocian con aprendizaje y cuáles no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#desforges-abouchaar-2003-the-impact-of-parental-involvement-parental) — sin localizador verificado todavía.
+- Epstein, J. (2011). *School, Family, and Community Partnerships*. **Uso en esta clase:** marco operativo de tipos de participación; útil para diseñar y auditar un plan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781412959025](https://openlibrary.org/isbn/9781412959025) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#epstein-2011-school-family-and-community-partnerships)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

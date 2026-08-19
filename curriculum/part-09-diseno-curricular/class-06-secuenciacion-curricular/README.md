@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bruner, J. (1960). *The Process of Education*. **Uso en esta clase:** origen del currículo en espiral y de la idea de estructura de la disciplina. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Clements, D. & Sarama, J. (2014). *Learning Trajectories*. **Uso en esta clase:** ejemplo detallado de secuenciación basada en evidencia sobre cómo progresa el aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bruner, J. (1960). *The Process of Education*. **Uso en esta clase:** origen del currículo en espiral y de la idea de estructura de la disciplina. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780674028999](https://openlibrary.org/isbn/9780674028999) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bruner-1960-the-process-of-education)
+- Clements, D. & Sarama, J. (2014). *Learning Trajectories*. **Uso en esta clase:** ejemplo detallado de secuenciación basada en evidencia sobre cómo progresa el aprendizaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1108/978-1-62396-570-920251002](https://doi.org/10.1108/978-1-62396-570-920251002) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#clements-sarama-2014-learning-trajectories)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

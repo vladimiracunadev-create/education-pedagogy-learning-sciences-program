@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Marco de Cualificaciones Técnico-Profesional* y perfiles de egreso vigentes (edición vigente). **Uso en esta clase:** referencia oficial chilena para niveles, competencias y estándares por especialidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Biemans, H., Nieuwenhuis, L., Poell, R., Mulder, M. & Wesselink, R. (2004). *Competence-Based VET in the Netherlands: Backgrounds and Pitfalls*. **Uso en esta clase:** sistematiza el enfoque y sus objeciones; útil para no adoptarlo de forma acrítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Marco de Cualificaciones Técnico-Profesional* y perfiles de egreso vigentes (edición vigente). **Uso en esta clase:** referencia oficial chilena para niveles, competencias y estándares por especialidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-marco-de-cualificaciones-tecnico-profesional)
+- Biemans, H., Nieuwenhuis, L., Poell, R., Mulder, M. & Wesselink, R. (2004). *Competence-Based VET in the Netherlands: Backgrounds and Pitfalls*. **Uso en esta clase:** sistematiza el enfoque y sus objeciones; útil para no adoptarlo de forma acrítica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/13636820400200268](https://doi.org/10.1080/13636820400200268) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biemans-nieuwenhuis-2004-competence-based-vet-in-the-netherlands)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

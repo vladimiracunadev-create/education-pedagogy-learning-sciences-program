@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Biblioteca del Congreso Nacional de Chile. *LeyChile* (edición vigente). **Uso en esta clase:** fuente oficial de normativa consolidada; usa siempre la versión vigente a la fecha en que aplicarás la norma. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc, Agencia de Calidad y Superintendencia de Educación. *Sitios institucionales* (edición vigente). **Uso en esta clase:** definen competencias, procedimientos y vías de reclamo del sistema de aseguramiento de la calidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. **Uso en esta clase:** convierte el mapa institucional en un análisis de sus efectos reales sobre los estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biblioteca del Congreso Nacional de Chile. *LeyChile* (edición vigente). **Uso en esta clase:** fuente oficial de normativa consolidada; usa siempre la versión vigente a la fecha en que aplicarás la norma. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biblioteca-del-congreso-nacional-de-chile-leychile)
+- Mineduc, Agencia de Calidad y Superintendencia de Educación. *Sitios institucionales* (edición vigente). **Uso en esta clase:** definen competencias, procedimientos y vías de reclamo del sistema de aseguramiento de la calidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.mineduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-superintendencia-de-educacion-sitios-institucionales)
+- Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. **Uso en esta clase:** convierte el mapa institucional en un análisis de sus efectos reales sobre los estudiantes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.4067/s0718-07052013000100019](https://doi.org/10.4067/s0718-07052013000100019) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bellei-2013-el-estudio-de-la-segregacion-socioeconomica)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

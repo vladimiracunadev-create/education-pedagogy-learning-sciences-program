@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ley 20.248 (2008). *Subvención Escolar Preferencial, Chile*. **Uso en esta clase:** el marco de recursos adicionales, sus destinos y sus obligaciones de rendición. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** método para conectar una acción con el resultado esperado y verificarlo en ciclos cortos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ley 20.248 (2008). *Subvención Escolar Preferencial, Chile*. **Uso en esta clase:** el marco de recursos adicionales, sus destinos y sus obligaciones de rendición. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=269001) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ley-20-248-2008-subvencion-escolar-preferencial-chile)
+- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** método para conectar una acción con el resultado esperado y verificarlo en ciclos cortos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781612507910](https://openlibrary.org/isbn/9781612507910) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryk-2015-learning-to-improve)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

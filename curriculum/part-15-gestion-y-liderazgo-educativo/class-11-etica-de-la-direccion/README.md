@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Starratt, R. (2004). *Ethical Leadership*. **Uso en esta clase:** marco de ética directiva aplicado a instituciones educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Marco para la Buena Dirección y el Liderazgo Escolar* (edición vigente). **Uso en esta clase:** estándares chilenos del ejercicio directivo, incluidas sus dimensiones éticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Starratt, R. (2004). *Ethical Leadership*. **Uso en esta clase:** marco de ética directiva aplicado a instituciones educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780470469392](https://openlibrary.org/isbn/9780470469392) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#starratt-2004-ethical-leadership)
+- Mineduc. *Marco para la Buena Dirección y el Liderazgo Escolar* (edición vigente). **Uso en esta clase:** estándares chilenos del ejercicio directivo, incluidas sus dimensiones éticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.cpeip.cl/marco-para-la-buena-direccion-y-liderazgo-escolar/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-marco-para-la-buena-direccion-y)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

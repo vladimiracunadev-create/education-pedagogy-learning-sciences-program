@@ -84,10 +84,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.** — la síntesis más equilibrada de lo que el campo tiene resuelto y de lo que sigue abierto.
-- **Seidenberg, M. (2017). *Language at the Speed of Sight*.** — explica el mecanismo cognitivo de la lectura y por qué ciertos métodos populares fallan.
-- **Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*.** — el informe que ordenó la prevención temprana como política, no como remedio tardío.
-- **Graham, S. & Perin, D. (2007). *Writing Next*.** — qué prácticas de enseñanza de la escritura tienen respaldo y cuáles se sostienen solo por tradición.
+- **Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.** — la síntesis más equilibrada de lo que el campo tiene resuelto y de lo que sigue abierto. **Localizar:** [DOI 10.1177/1529100618772271](https://doi.org/10.1177/1529100618772271) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#castles-rastle-2018-ending-the-reading-wars)
+- **Seidenberg, M. (2017). *Language at the Speed of Sight*.** — explica el mecanismo cognitivo de la lectura y por qué ciertos métodos populares fallan. **Localizar:** [ISBN 9780465080656](https://openlibrary.org/isbn/9780465080656) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#seidenberg-2017-language-at-the-speed-of-sight)
+- **Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*.** — el informe que ordenó la prevención temprana como política, no como remedio tardío. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#snow-burns-1998-preventing-reading-difficulties-in-young-children) — sin localizador verificado todavía.
+- **Graham, S. & Perin, D. (2007). *Writing Next*.** — qué prácticas de enseñanza de la escritura tienen respaldo y cuáles se sostienen solo por tradición. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#graham-perin-2007-writing-next) — sin localizador verificado todavía.
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Jacobs, H. H. (1997). *Mapping the Big Picture: Integrating Curriculum and Assessment*. **Uso en esta clase:** metodología de mapeo curricular con base en lo efectivamente enseñado. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio* (edición vigente). **Uso en esta clase:** referencia sobre coherencia interna esperada en programas formales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Jacobs, H. H. (1997). *Mapping the Big Picture: Integrating Curriculum and Assessment*. **Uso en esta clase:** metodología de mapeo curricular con base en lo efectivamente enseñado. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#jacobs-1997-mapping-the-big-picture-integrating-curriculum) — sin localizador verificado todavía.
+- Comisión Nacional de Acreditación (Chile). *Criterios de evaluación de planes de estudio* (edición vigente). **Uso en esta clase:** referencia sobre coherencia interna esperada en programas formales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#comision-nacional-de-acreditacion-chile-criterios-de-evaluacion-de-planes-de) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

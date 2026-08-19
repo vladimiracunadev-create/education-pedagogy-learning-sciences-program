@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Century, J. & Cassata, A. (2016). *Implementation Research: Finding Common Ground*. **Uso en esta clase:** sistematiza fidelidad de implementación y adaptación en innovaciones educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Fullan, M. (2007). *The New Meaning of Educational Change*. **Uso en esta clase:** análisis clásico sobre por qué las innovaciones prenden o se disuelven en las escuelas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Century, J. & Cassata, A. (2016). *Implementation Research: Finding Common Ground*. **Uso en esta clase:** sistematiza fidelidad de implementación y adaptación en innovaciones educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/0091732x16665332](https://doi.org/10.3102/0091732x16665332) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#century-cassata-2016-implementation-research-finding-common-ground)
+- Fullan, M. (2007). *The New Meaning of Educational Change*. **Uso en esta clase:** análisis clásico sobre por qué las innovaciones prenden o se disuelven en las escuelas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780807747650](https://openlibrary.org/isbn/9780807747650) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#fullan-2007-the-new-meaning-of-educational-change)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

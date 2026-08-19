@@ -82,10 +82,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Raudenbush, S. & Bryk, A. (2002). *Hierarchical Linear Models*.** — la referencia sobre datos anidados; explica por qué ignorar la estructura infla la significación.
-- **Cooper, H., Hedges, L. & Valentine, J. (eds.) (2019). *The Handbook of Research Synthesis and Meta-Analysis*.** — el manual estándar para hacer y para juzgar síntesis cuantitativas.
-- **Design-Based Research Collective (2003). *Design-Based Research: An Emerging Paradigm for Educational Inquiry*. Educational Researcher, 32(1).** — define el paradigma que produce intervención y teoría a la vez; útil para tesis aplicadas.
-- **Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. Learning Policy Institute.** — sintetiza qué caracteriza al desarrollo profesional que sí cambia la práctica docente.
+- **Raudenbush, S. & Bryk, A. (2002). *Hierarchical Linear Models*.** — la referencia sobre datos anidados; explica por qué ignorar la estructura infla la significación. **Localizar:** [ISBN 9780761919049](https://openlibrary.org/isbn/9780761919049) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#raudenbush-bryk-2002-hierarchical-linear-models)
+- **Cooper, H., Hedges, L. & Valentine, J. (eds.) (2019). *The Handbook of Research Synthesis and Meta-Analysis*.** — el manual estándar para hacer y para juzgar síntesis cuantitativas. **Localizar:** [ISBN 9780871540058](https://openlibrary.org/isbn/9780871540058) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#cooper-hedges-2019-the-handbook-of-research-synthesis-and)
+- **Design-Based Research Collective (2003). *Design-Based Research: An Emerging Paradigm for Educational Inquiry*. Educational Researcher, 32(1).** — define el paradigma que produce intervención y teoría a la vez; útil para tesis aplicadas. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#design-based-research-collective-2003-design-based-research-an-emerging-paradigm) — sin localizador verificado todavía.
+- **Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. Learning Policy Institute.** — sintetiza qué caracteriza al desarrollo profesional que sí cambia la práctica docente. **Localizar:** [DOI 10.54300/122.311](https://doi.org/10.54300/122.311) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#darling-hammond-2017-effective-teacher-professional-development)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

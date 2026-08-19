@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Goodlad, J. (1979). *Curriculum Inquiry*. **Uso en esta clase:** origen de la distinción entre niveles del currículum, todavía la más útil para diagnosticar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Jackson, P. (1968). *Life in Classrooms*. **Uso en esta clase:** introduce el currículo oculto con observación etnográfica; sigue siendo la mejor descripción del fenómeno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Goodlad, J. (1979). *Curriculum Inquiry*. **Uso en esta clase:** origen de la distinción entre niveles del currículum, todavía la más útil para diagnosticar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780070235304](https://openlibrary.org/isbn/9780070235304) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#goodlad-1979-curriculum-inquiry)
+- Jackson, P. (1968). *Life in Classrooms*. **Uso en esta clase:** introduce el currículo oculto con observación etnográfica; sigue siendo la mejor descripción del fenómeno. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780807730348](https://openlibrary.org/isbn/9780807730348) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#jackson-1968-life-in-classrooms)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

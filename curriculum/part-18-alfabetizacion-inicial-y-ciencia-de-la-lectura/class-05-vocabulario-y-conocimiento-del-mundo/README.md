@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Romeo, R. et al. (2018). *Beyond the 30-Million-Word Gap*. **Uso en esta clase:** corrige la lectura simplista de la brecha de vocabulario y señala qué interacción importa realmente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*. **Uso en esta clase:** conecta lenguaje oral temprano con comprensión posterior con evidencia longitudinal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Romeo, R. et al. (2018). *Beyond the 30-Million-Word Gap*. **Uso en esta clase:** corrige la lectura simplista de la brecha de vocabulario y señala qué interacción importa realmente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/0956797617742725](https://doi.org/10.1177/0956797617742725) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#romeo-2018-beyond-the-30-million-word-gap-2)
+- Snow, C., Burns, S. & Griffin, P. (eds.) (1998). *Preventing Reading Difficulties in Young Children*. **Uso en esta clase:** conecta lenguaje oral temprano con comprensión posterior con evidencia longitudinal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#snow-burns-1998-preventing-reading-difficulties-in-young-children) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

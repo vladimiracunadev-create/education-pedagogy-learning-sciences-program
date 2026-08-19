@@ -84,10 +84,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*.** — el TDAH como problema de autorregulación y no de voluntad, con implicancias directas de aula.
-- **Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down* (edición vigente).** — perfil de aprendizaje específico —fortaleza visual, memoria verbal a corto plazo más frágil— y qué hacer con él.
-- **Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.** — convierte la inclusión en un conjunto de indicadores revisables, no en una declaración.
-- **Assouline, S. et al. (2015). *A Nation Empowered*.** — la evidencia sobre aceleración, que contradice buena parte de la intuición escolar.
+- **Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*.** — el TDAH como problema de autorregulación y no de voluntad, con implicancias directas de aula. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#barkley-2015-attention-deficit-hyperactivity-disorder-a-handbook-2) — sin localizador verificado todavía.
+- **Buckley, S. & Bird, G. *Educación de estudiantes con síndrome de Down* (edición vigente).** — perfil de aprendizaje específico —fortaleza visual, memoria verbal a corto plazo más frágil— y qué hacer con él. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#buckley-bird-educacion-de-estudiantes-con-sindrome-de) — sin localizador verificado todavía.
+- **Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.** — convierte la inclusión en un conjunto de indicadores revisables, no en una declaración. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#booth-ainscow-2011-index-for-inclusion) — sin localizador verificado todavía.
+- **Assouline, S. et al. (2015). *A Nation Empowered*.** — la evidencia sobre aceleración, que contradice buena parte de la intuición escolar. **Localizar:** [ISBN 9780996160308](https://openlibrary.org/isbn/9780996160308) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#assouline-2015-a-nation-empowered)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

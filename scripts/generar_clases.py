@@ -37,6 +37,45 @@ def leer(*partes: str):
     return json.loads(MANIFIESTOS.joinpath(*partes).read_text(encoding="utf-8"))
 
 
+# --------------------------------------------------------------------------- #
+# Registro de fuentes: la cita de clase apunta al localizador, no solo al listado
+# --------------------------------------------------------------------------- #
+
+REGISTRO = RAIZ / "sources" / "bibliography.json"
+_FUENTES: dict[str, dict] | None = None
+
+
+def registro_de_fuentes() -> dict[str, dict]:
+    """Cita → entrada del registro. Se lee una vez y se reutiliza."""
+    global _FUENTES
+    if _FUENTES is None:
+        datos = json.loads(REGISTRO.read_text(encoding="utf-8"))
+        _FUENTES = {entrada["cita"]: entrada for entrada in datos["entries"]}
+    return _FUENTES
+
+
+def localizador(cita: str, subir: str) -> str:
+    """Referencia cruzada de una cita: su ficha en el registro y, si resolvió, su
+    localizador. Sin esto, «Autor (Año)» obliga a buscar la obra a mano.
+    """
+    entrada = registro_de_fuentes().get(cita.strip())
+    if entrada is None:
+        raise SystemExit(
+            f"la obra no está en sources/bibliography.json: {cita[:70]}\n"
+            "Ejecuta: python scripts/verificar_fuentes.py"
+        )
+    ficha = f"[ficha]({subir}docs/REGISTRO_DE_FUENTES.md#{entrada['id']})"
+    if entrada["status"] != "verificada" or not entrada.get("locator"):
+        return f"**Localizar:** {ficha} — sin localizador verificado todavía."
+    if entrada.get("isbn13"):
+        etiqueta = f"ISBN {entrada['isbn13']}"
+    elif entrada.get("doi"):
+        etiqueta = f"DOI {entrada['doi']}"
+    else:
+        etiqueta = "fuente oficial"
+    return f"**Localizar:** [{etiqueta}]({entrada['locator']}) · {ficha}"
+
+
 def cargar() -> tuple[list[dict], list[dict], dict[int, dict], dict, dict, dict]:
     curriculo = leer("curriculum.json")
     packs: list[dict] = []
@@ -441,12 +480,14 @@ norma cambió después de la fecha de esta clase, gana la norma."""
 def fuentes(datos: dict) -> str:
     lineas = "\n".join(
         f"- {referencia.replace('**', '')} **Uso en esta clase:** {nota} Lectura selectiva: "
-        f"índice y capítulos pertinentes; registra edición y páginas consultadas."
+        f"índice y capítulos pertinentes; registra edición y páginas consultadas. "
+        f"{localizador(referencia, '../../../')}"
         for referencia, nota in datos["lecturas"]
     )
     return f"""{lineas}
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 
@@ -650,7 +691,8 @@ def pagina_de_parte(pack: dict, clases: list[dict], etapa: dict, datos: dict[int
     )
     conceptos = sum(len(datos[c["global_class"]]["conceptos"]) for c in clases)
     senales = len(clases) * 3
-    lecturas = vinetas([f"**{ref}** — {nota}" for ref, nota in pack["lecturas"]])
+    lecturas = vinetas([f"**{ref}** — {nota} {localizador(ref, '../../')}"
+                        for ref, nota in pack["lecturas"]])
     resumen = "\n\n".join(pack["resumen"])
     return f"""# Parte {pack['part']:02d} — {pack['titulo']}
 

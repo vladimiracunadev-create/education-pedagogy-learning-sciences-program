@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Eccles, J. et al. (1993). *Stage-Environment Fit*. American Psychologist, 48(2). **Uso en esta clase:** el estudio que explica la caída de motivación en la transición a secundaria; base del diagnóstico. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Steinberg, L. (2014). *Age of Opportunity*. **Uso en esta clase:** reinterpreta la adolescencia como período de plasticidad y oportunidad educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Eccles, J. et al. (1993). *Stage-Environment Fit*. American Psychologist, 48(2). **Uso en esta clase:** el estudio que explica la caída de motivación en la transición a secundaria; base del diagnóstico. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#eccles-1993-stage-environment-fit) — sin localizador verificado todavía.
+- Steinberg, L. (2014). *Age of Opportunity*. **Uso en esta clase:** reinterpreta la adolescencia como período de plasticidad y oportunidad educativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780544570290](https://openlibrary.org/isbn/9780544570290) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#steinberg-2014-age-of-opportunity)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

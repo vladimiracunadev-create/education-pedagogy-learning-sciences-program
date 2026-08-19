@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*. **Uso en esta clase:** ordena verbos y niveles cognitivos; base para elegir el verbo por el desempeño real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Biggs, J. & Collis, K. (1982). *Evaluating the Quality of Learning: The SOLO Taxonomy*. **Uso en esta clase:** permite graduar la complejidad del desempeño y no solo su presencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*. **Uso en esta clase:** ordena verbos y niveles cognitivos; base para elegir el verbo por el desempeño real. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780321084057](https://openlibrary.org/isbn/9780321084057) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#anderson-krathwohl-2001-a-taxonomy-for-learning-teaching-and)
+- Biggs, J. & Collis, K. (1982). *Evaluating the Quality of Learning: The SOLO Taxonomy*. **Uso en esta clase:** permite graduar la complejidad del desempeño y no solo su presencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biggs-collis-1982-evaluating-the-quality-of-learning-the) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

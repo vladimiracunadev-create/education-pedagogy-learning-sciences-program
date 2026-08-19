@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Education at a Glance* (edición vigente). **Uso en esta clase:** compendio anual comparado de indicadores; úsalo por sus definiciones y notas metodológicas, no solo por sus tablas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sahlberg, P. (2011). *Finnish Lessons*. **Uso en esta clase:** caso paradigmático de sistema admirado; léelo prestando atención a las condiciones históricas que el propio autor describe. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Education at a Glance* (edición vigente). **Uso en esta clase:** compendio anual comparado de indicadores; úsalo por sus definiciones y notas metodológicas, no solo por sus tablas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-education-at-a-glance) — sin localizador verificado todavía.
+- Sahlberg, P. (2011). *Finnish Lessons*. **Uso en esta clase:** caso paradigmático de sistema admirado; léelo prestando atención a las condiciones históricas que el propio autor describe. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781470826154](https://openlibrary.org/isbn/9781470826154) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sahlberg-2011-finnish-lessons)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

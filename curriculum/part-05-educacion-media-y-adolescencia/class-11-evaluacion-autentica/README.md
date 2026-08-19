@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wiggins, G. (1998). *Educative Assessment*. **Uso en esta clase:** define evaluación auténtica con criterios exigibles y no como sinónimo de creatividad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics: Reliability, Validity and Educational Consequences*. **Uso en esta clase:** evidencia sobre cuándo las rúbricas mejoran la consistencia y cuándo no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wiggins, G. (1998). *Educative Assessment*. **Uso en esta clase:** define evaluación auténtica con criterios exigibles y no como sinónimo de creatividad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780787908485](https://openlibrary.org/isbn/9780787908485) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiggins-1998-educative-assessment)
+- Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics: Reliability, Validity and Educational Consequences*. **Uso en esta clase:** evidencia sobre cuándo las rúbricas mejoran la consistencia y cuándo no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.edurev.2007.05.002](https://doi.org/10.1016/j.edurev.2007.05.002) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#jonsson-svingby-2007-the-use-of-scoring-rubrics-reliability)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

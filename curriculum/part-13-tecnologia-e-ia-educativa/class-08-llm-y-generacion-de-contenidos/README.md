@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** la referencia internacional más usada para políticas institucionales de uso. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bender, E. et al. (2021). *On the Dangers of Stochastic Parrots*. **Uso en esta clase:** el contrapunto crítico sobre límites, sesgos y costos de estos sistemas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** la referencia internacional más usada para políticas institucionales de uso. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-2023-guidance-for-generative-ai-in-education)
+- Bender, E. et al. (2021). *On the Dangers of Stochastic Parrots*. **Uso en esta clase:** el contrapunto crítico sobre límites, sesgos y costos de estos sistemas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bender-2021-on-the-dangers-of-stochastic-parrots)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

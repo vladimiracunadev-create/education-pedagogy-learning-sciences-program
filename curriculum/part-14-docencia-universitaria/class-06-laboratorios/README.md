@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Holmes, N. G. & Wieman, C. (2018). *Introductory Physics Labs: We Can Do Better*. Physics Today. **Uso en esta clase:** evidencia sobre el bajo aporte conceptual de los laboratorios de receta y alternativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hofstein, A. & Lunetta, V. (2004). *The Laboratory in Science Education*. **Uso en esta clase:** revisión sobre qué aprende y qué no aprende el estudiante en el laboratorio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Holmes, N. G. & Wieman, C. (2018). *Introductory Physics Labs: We Can Do Better*. Physics Today. **Uso en esta clase:** evidencia sobre el bajo aporte conceptual de los laboratorios de receta y alternativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1063/pt.3.3816](https://doi.org/10.1063/pt.3.3816) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#holmes-wieman-2018-introductory-physics-labs-we-can-do)
+- Hofstein, A. & Lunetta, V. (2004). *The Laboratory in Science Education*. **Uso en esta clase:** revisión sobre qué aprende y qué no aprende el estudiante en el laboratorio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1002/sce.10106](https://doi.org/10.1002/sce.10106) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hofstein-lunetta-2004-the-laboratory-in-science-education)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

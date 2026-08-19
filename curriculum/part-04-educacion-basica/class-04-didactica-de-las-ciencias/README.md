@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Furtak, E. et al. (2012). *Experimental and Quasi-Experimental Studies of Inquiry-Based Science Teaching*. Review of Educational Research, 82(3). **Uso en esta clase:** metaanálisis que muestra el papel decisivo del grado de guía en la indagación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Driver, R. et al. (1994). *Making Sense of Secondary Science*. **Uso en esta clase:** catálogo de concepciones alternativas por tema; herramienta directa para planificar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Furtak, E. et al. (2012). *Experimental and Quasi-Experimental Studies of Inquiry-Based Science Teaching*. Review of Educational Research, 82(3). **Uso en esta clase:** metaanálisis que muestra el papel decisivo del grado de guía en la indagación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/0034654312457206](https://doi.org/10.3102/0034654312457206) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#furtak-2012-experimental-and-quasi-experimental-studies-of)
+- Driver, R. et al. (1994). *Making Sense of Secondary Science*. **Uso en esta clase:** catálogo de concepciones alternativas por tema; herramienta directa para planificar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780429237539](https://openlibrary.org/isbn/9780429237539) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#driver-1994-making-sense-of-secondary-science)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

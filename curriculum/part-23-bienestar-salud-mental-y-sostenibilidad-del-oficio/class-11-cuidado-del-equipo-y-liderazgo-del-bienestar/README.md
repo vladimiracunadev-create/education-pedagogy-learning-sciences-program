@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ingersoll, R. & Strong, M. (2011). *The Impact of Induction and Mentoring Programs for Beginning Teachers*. **Uso en esta clase:** revisión de la evidencia sobre inducción y su efecto en retención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bryk, A. & Schneider, B. (2002). *Trust in Schools*. **Uso en esta clase:** la confianza como recurso organizacional que hace posible sostener equipos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ingersoll, R. & Strong, M. (2011). *The Impact of Induction and Mentoring Programs for Beginning Teachers*. **Uso en esta clase:** revisión de la evidencia sobre inducción y su efecto en retención. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/0034654311403323](https://doi.org/10.3102/0034654311403323) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ingersoll-strong-2011-the-impact-of-induction-and-mentoring)
+- Bryk, A. & Schneider, B. (2002). *Trust in Schools*. **Uso en esta clase:** la confianza como recurso organizacional que hace posible sostener equipos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780871541796](https://openlibrary.org/isbn/9780871541796) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryk-schneider-2002-trust-in-schools)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

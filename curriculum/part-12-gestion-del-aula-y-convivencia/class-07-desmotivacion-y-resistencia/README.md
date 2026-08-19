@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Covington, M. (1992). *Making the Grade: A Self-Worth Perspective on Motivation and School Reform*. **Uso en esta clase:** explica la evitación del esfuerzo como protección del valor propio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wlodkowski, R. (2008). *Enhancing Adult Motivation to Learn*. **Uso en esta clase:** estrategias de reenganche aplicables también a adolescentes y adultos jóvenes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Covington, M. (1992). *Making the Grade: A Self-Worth Perspective on Motivation and School Reform*. **Uso en esta clase:** explica la evitación del esfuerzo como protección del valor propio. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780521342612](https://openlibrary.org/isbn/9780521342612) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#covington-1992-making-the-grade-a-self-worth)
+- Wlodkowski, R. (2008). *Enhancing Adult Motivation to Learn*. **Uso en esta clase:** estrategias de reenganche aplicables también a adolescentes y adultos jóvenes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781119078012](https://openlibrary.org/isbn/9781119078012) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wlodkowski-2008-enhancing-adult-motivation-to-learn)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

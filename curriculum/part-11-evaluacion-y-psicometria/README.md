@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.** — el estándar técnico de referencia internacional; define qué se puede afirmar con un puntaje y qué no.
-- **Messick, S. (1989). *Validity*. En Educational Measurement.** — el capítulo que reorganiza la validez como juicio integrado sobre interpretación y consecuencias.
-- **Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*. Assessment in Education, 5(1).** — la revisión que instala la evaluación formativa como intervención con efecto y no como discurso.
-- **Hattie, J. & Timperley, H. (2007). *The Power of Feedback*. Review of Educational Research, 77(1).** — modelo de retroalimentación por niveles; explica por qué el elogio a la persona no mejora el desempeño.
+- **AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.** — el estándar técnico de referencia internacional; define qué se puede afirmar con un puntaje y qué no. **Localizar:** [fuente oficial](https://www.testingstandards.net/) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#aera-ncme-2014-standards-for-educational-and-psychological-testing)
+- **Messick, S. (1989). *Validity*. En Educational Measurement.** — el capítulo que reorganiza la validez como juicio integrado sobre interpretación y consecuencias. **Localizar:** [DOI 10.1002/j.2330-8516.1987.tb00244.x](https://doi.org/10.1002/j.2330-8516.1987.tb00244.x) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#messick-1989-validity-2)
+- **Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*. Assessment in Education, 5(1).** — la revisión que instala la evaluación formativa como intervención con efecto y no como discurso. **Localizar:** [DOI 10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#black-wiliam-1998-assessment-and-classroom-learning-2)
+- **Hattie, J. & Timperley, H. (2007). *The Power of Feedback*. Review of Educational Research, 77(1).** — modelo de retroalimentación por niveles; explica por qué el elogio a la persona no mejora el desempeño. **Localizar:** [DOI 10.3102/003465430298487](https://doi.org/10.3102/003465430298487) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#hattie-timperley-2007-the-power-of-feedback-2)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

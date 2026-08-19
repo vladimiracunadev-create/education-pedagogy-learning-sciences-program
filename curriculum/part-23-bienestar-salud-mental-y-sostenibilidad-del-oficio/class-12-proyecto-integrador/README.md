@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*. **Uso en esta clase:** qué componentes de un enfoque escolar integral cuentan con respaldo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bryk, A. & Schneider, B. (2002). *Trust in Schools*. **Uso en esta clase:** la condición relacional sin la cual ningún plan institucional se sostiene. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Weare, K. & Nind, M. (2011). *Mental Health Promotion in Schools*. **Uso en esta clase:** qué componentes de un enfoque escolar integral cuentan con respaldo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#weare-nind-2011-mental-health-promotion-in-schools) — sin localizador verificado todavía.
+- Bryk, A. & Schneider, B. (2002). *Trust in Schools*. **Uso en esta clase:** la condición relacional sin la cual ningún plan institucional se sostiene. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780871541796](https://openlibrary.org/isbn/9780871541796) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryk-schneider-2002-trust-in-schools)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

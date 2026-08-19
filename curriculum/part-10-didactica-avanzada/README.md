@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*. Educational Researcher, 15(2).** — el artículo que instala el conocimiento pedagógico del contenido como categoría propia del oficio.
-- **Rosenshine, B. (2012). *Principles of Instruction*.** — la síntesis operativa más útil de la didáctica basada en evidencia; cabe en diez principios y se aplica mañana.
-- **Chi, M. & Wylie, R. (2014). *The ICAP Framework*. Educational Psychologist, 49(4).** — ordena la participación del estudiante en cuatro modos y predice cuál produce más aprendizaje.
-- **Johnson, D. & Johnson, R. (2009). *An Educational Psychology Success Story: Social Interdependence Theory and Cooperative Learning*.** — define las condiciones sin las cuales el trabajo en grupo no es aprendizaje cooperativo.
+- **Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*. Educational Researcher, 15(2).** — el artículo que instala el conocimiento pedagógico del contenido como categoría propia del oficio. **Localizar:** [DOI 10.2307/1175860](https://doi.org/10.2307/1175860) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#shulman-1986-those-who-understand-knowledge-growth-in-2)
+- **Rosenshine, B. (2012). *Principles of Instruction*.** — la síntesis operativa más útil de la didáctica basada en evidencia; cabe en diez principios y se aplica mañana. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#rosenshine-2012-principles-of-instruction) — sin localizador verificado todavía.
+- **Chi, M. & Wylie, R. (2014). *The ICAP Framework*. Educational Psychologist, 49(4).** — ordena la participación del estudiante en cuatro modos y predice cuál produce más aprendizaje. **Localizar:** [DOI 10.1080/00461520.2014.965823](https://doi.org/10.1080/00461520.2014.965823) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#chi-wylie-2014-the-icap-framework)
+- **Johnson, D. & Johnson, R. (2009). *An Educational Psychology Success Story: Social Interdependence Theory and Cooperative Learning*.** — define las condiciones sin las cuales el trabajo en grupo no es aprendizaje cooperativo. **Localizar:** [DOI 10.3102/0013189x09339057](https://doi.org/10.3102/0013189x09339057) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#johnson-johnson-2009-an-educational-psychology-success-story-social)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*. **Uso en esta clase:** revisión de los formatos basados en indagación con sus condiciones de eficacia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?* **Uso en esta clase:** distingue el mecanismo del aprendizaje basado en problemas de sus versiones difusas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*. **Uso en esta clase:** revisión de los formatos basados en indagación con sus condiciones de eficacia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#barron-darling-hammond-2008-teaching-for-meaningful-learning) — sin localizador verificado todavía.
+- Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?* **Uso en esta clase:** distingue el mecanismo del aprendizaje basado en problemas de sus versiones difusas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1023/b:edpr.0000034022.16470.f3](https://doi.org/10.1023/b:edpr.0000034022.16470.f3) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hmelo-silver-2004-problem-based-learning-what-and-how)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

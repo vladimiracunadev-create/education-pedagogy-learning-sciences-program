@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Crehan, L. (2016). *Cleverlands*. **Uso en esta clase:** describe la cadena singapurense desde dentro, con sus condiciones y sus costos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ball, D., Thames, M. & Phelps, G. (2008). *Content Knowledge for Teaching*. **Uso en esta clase:** fundamenta por qué la formación centrada en el contenido a enseñar es el eslabón crítico. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Crehan, L. (2016). *Cleverlands*. **Uso en esta clase:** describe la cadena singapurense desde dentro, con sus condiciones y sus costos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781783524914](https://openlibrary.org/isbn/9781783524914) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#crehan-2016-cleverlands)
+- Ball, D., Thames, M. & Phelps, G. (2008). *Content Knowledge for Teaching*. **Uso en esta clase:** fundamenta por qué la formación centrada en el contenido a enseñar es el eslabón crítico. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/0022487108324554](https://doi.org/10.1177/0022487108324554) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ball-thames-2008-content-knowledge-for-teaching)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Priorización curricular y orientaciones de planificación* (edición vigente). **Uso en esta clase:** referencia chilena sobre criterios de priorización de aprendizajes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. **Uso en esta clase:** aporta el criterio de distinguir lo esencial de lo deseable y de lo familiar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Priorización curricular y orientaciones de planificación* (edición vigente). **Uso en esta clase:** referencia chilena sobre criterios de priorización de aprendizajes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-priorizacion-curricular-y-orientaciones-de-planificacion)
+- Wiggins, G. & McTighe, J. (2005). *Understanding by Design*. **Uso en esta clase:** aporta el criterio de distinguir lo esencial de lo deseable y de lo familiar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiggins-mctighe-2005-understanding-by-design) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

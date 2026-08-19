@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Condliffe, B. et al. (2017). *Project-Based Learning: A Literature Review*. MDRC. **Uso en esta clase:** revisión honesta sobre qué muestra y qué no muestra la evidencia disponible. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*. **Uso en esta clase:** sintetiza condiciones de diseño asociadas a mejores resultados en enfoques por proyectos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Condliffe, B. et al. (2017). *Project-Based Learning: A Literature Review*. MDRC. **Uso en esta clase:** revisión honesta sobre qué muestra y qué no muestra la evidencia disponible. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#condliffe-2017-project-based-learning-a-literature-review) — sin localizador verificado todavía.
+- Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*. **Uso en esta clase:** sintetiza condiciones de diseño asociadas a mejores resultados en enfoques por proyectos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#barron-darling-hammond-2008-teaching-for-meaningful-learning) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

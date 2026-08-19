@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Cooper, H., Hedges, L. & Valentine, J. (eds.) (2019). *The Handbook of Research Synthesis and Meta-Analysis*. **Uso en esta clase:** el manual estándar para producir y juzgar síntesis cuantitativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Page, M. et al. (2021). *The PRISMA 2020 Statement*. **Uso en esta clase:** estándar de reporte de revisiones sistemáticas; úsalo como lista de verificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Cooper, H., Hedges, L. & Valentine, J. (eds.) (2019). *The Handbook of Research Synthesis and Meta-Analysis*. **Uso en esta clase:** el manual estándar para producir y juzgar síntesis cuantitativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780871540058](https://openlibrary.org/isbn/9780871540058) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#cooper-hedges-2019-the-handbook-of-research-synthesis-and)
+- Page, M. et al. (2021). *The PRISMA 2020 Statement*. **Uso en esta clase:** estándar de reporte de revisiones sistemáticas; úsalo como lista de verificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#page-2021-the-prisma-2020-statement) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Miller, G. (1956). *The Magical Number Seven, Plus or Minus Two*. **Uso en esta clase:** el punto de partida histórico sobre límites de procesamiento; léelo por el concepto de agrupamiento en unidades. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*. **Uso en esta clase:** establece la asimetría entre memorias como principio de diseño instruccional y aporta la evidencia experimental. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Miller, G. (1956). *The Magical Number Seven, Plus or Minus Two*. **Uso en esta clase:** el punto de partida histórico sobre límites de procesamiento; léelo por el concepto de agrupamiento en unidades. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/h0043158](https://doi.org/10.1037/h0043158) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#miller-1956-the-magical-number-seven-plus-or)
+- Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*. **Uso en esta clase:** establece la asimetría entre memorias como principio de diseño instruccional y aporta la evidencia experimental. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781135065805](https://openlibrary.org/isbn/9781135065805) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sweller-ayres-2011-cognitive-load-theory)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

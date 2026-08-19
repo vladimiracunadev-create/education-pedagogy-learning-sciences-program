@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?* **Uso en esta clase:** revisión que ordena qué aprende el estudiante en este enfoque y bajo qué condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Schmidt, H., Loyens, S., van Gog, T. & Paas, F. (2007). *Problem-Based Learning is Compatible with Human Cognitive Architecture*. **Uso en esta clase:** el contrapunto al artículo de guía mínima; útil para entender el debate completo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?* **Uso en esta clase:** revisión que ordena qué aprende el estudiante en este enfoque y bajo qué condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1023/b:edpr.0000034022.16470.f3](https://doi.org/10.1023/b:edpr.0000034022.16470.f3) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hmelo-silver-2004-problem-based-learning-what-and-how)
+- Schmidt, H., Loyens, S., van Gog, T. & Paas, F. (2007). *Problem-Based Learning is Compatible with Human Cognitive Architecture*. **Uso en esta clase:** el contrapunto al artículo de guía mínima; útil para entender el debate completo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#schmidt-loyens-2007-problem-based-learning-is-compatible-with) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

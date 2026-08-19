@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- National Academy of Engineering & NRC (2014). *STEM Integration in K-12 Education*. **Uso en esta clase:** revisión rigurosa sobre qué se sabe y qué falta por establecer en integración STEM. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Cunningham, C. (2018). *Engineering in Elementary STEM Education*. **Uso en esta clase:** modelo de ciclo de diseño con evidencia de implementación escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- National Academy of Engineering & NRC (2014). *STEM Integration in K-12 Education*. **Uso en esta clase:** revisión rigurosa sobre qué se sabe y qué falta por establecer en integración STEM. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780309297967](https://openlibrary.org/isbn/9780309297967) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#national-academy-of-engineering-nrc-2014-stem-integration-in-k-12-education)
+- Cunningham, C. (2018). *Engineering in Elementary STEM Education*. **Uso en esta clase:** modelo de ciclo de diseño con evidencia de implementación escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780807758779](https://openlibrary.org/isbn/9780807758779) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#cunningham-2018-engineering-in-elementary-stem-education)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

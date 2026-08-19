@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Haladyna, T., Downing, S. & Rodriguez, M. (2002). *A Review of Multiple-Choice Item-Writing Guidelines*. **Uso en esta clase:** la lista de verificación estándar para construcción de ítems. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- AERA, APA & NCME (2014). *Standards*. **Uso en esta clase:** fija los requisitos técnicos según el uso previsto del instrumento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Haladyna, T., Downing, S. & Rodriguez, M. (2002). *A Review of Multiple-Choice Item-Writing Guidelines*. **Uso en esta clase:** la lista de verificación estándar para construcción de ítems. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1207/s15324818ame1503_5](https://doi.org/10.1207/s15324818ame1503_5) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#haladyna-downing-2002-a-review-of-multiple-choice-item)
+- AERA, APA & NCME (2014). *Standards*. **Uso en esta clase:** fija los requisitos técnicos según el uso previsto del instrumento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.testingstandards.net/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#aera-ncme-2014-standards)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Organización Mundial de la Salud (2020). *Directrices sobre actividad física y comportamientos sedentarios*. **Uso en esta clase:** recomendaciones vigentes por edad, con la evidencia que las respalda. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bailey, R. et al. (2009). *The Educational Benefits Claimed for Physical Education and School Sport*. Research Papers in Education, 24(1). **Uso en esta clase:** revisa críticamente qué beneficios están respaldados y cuáles se afirman sin evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Organización Mundial de la Salud (2020). *Directrices sobre actividad física y comportamientos sedentarios*. **Uso en esta clase:** recomendaciones vigentes por edad, con la evidencia que las respalda. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.who.int/publications/i/item/9789240015128) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#organizacion-mundial-de-la-salud-2020-directrices-sobre-actividad-fisica-y-compo)
+- Bailey, R. et al. (2009). *The Educational Benefits Claimed for Physical Education and School Sport*. Research Papers in Education, 24(1). **Uso en esta clase:** revisa críticamente qué beneficios están respaldados y cuáles se afirman sin evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/02671520701809817](https://doi.org/10.1080/02671520701809817) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bailey-2009-the-educational-benefits-claimed-for-physical)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Agencia de Calidad de la Educación (Chile). *Otros Indicadores de Calidad e informes técnicos* (edición vigente). **Uso en esta clase:** ejemplo institucional de ampliación de indicadores más allá del puntaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- OCDE. *Education at a Glance* (edición vigente). **Uso en esta clase:** definiciones y notas metodológicas útiles para construir indicadores comparables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Muller, J. (2018). *The Tyranny of Metrics*. **Uso en esta clase:** advierte qué ocurre cuando el indicador reemplaza al propósito que debía representar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Agencia de Calidad de la Educación (Chile). *Otros Indicadores de Calidad e informes técnicos* (edición vigente). **Uso en esta clase:** ejemplo institucional de ampliación de indicadores más allá del puntaje. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.agenciaeducacion.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#agencia-de-calidad-de-la-educacion-chile-otros-indicadores-de-calidad-e-informes)
+- OCDE. *Education at a Glance* (edición vigente). **Uso en esta clase:** definiciones y notas metodológicas útiles para construir indicadores comparables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-education-at-a-glance) — sin localizador verificado todavía.
+- Muller, J. (2018). *The Tyranny of Metrics*. **Uso en esta clase:** advierte qué ocurre cuando el indicador reemplaza al propósito que debía representar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780691191911](https://openlibrary.org/isbn/9780691191911) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#muller-2018-the-tyranny-of-metrics)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?* **Uso en esta clase:** muestra el salto indebido de teoría constructivista a prescripción metodológica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Sweller, J., van Merriënboer, J. & Paas, F. (1998). *Cognitive Architecture and Instructional Design*. **Uso en esta clase:** el puente explícito entre arquitectura cognitiva y decisiones de diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?* **Uso en esta clase:** muestra el salto indebido de teoría constructivista a prescripción metodológica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/0003-066x.59.1.14](https://doi.org/10.1037/0003-066x.59.1.14) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mayer-2004-should-there-be-a-three-strikes)
+- Sweller, J., van Merriënboer, J. & Paas, F. (1998). *Cognitive Architecture and Instructional Design*. **Uso en esta clase:** el puente explícito entre arquitectura cognitiva y decisiones de diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1023/a:1022193728205](https://doi.org/10.1023/a:1022193728205) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sweller-paas-1998-cognitive-architecture-and-instructional-design)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

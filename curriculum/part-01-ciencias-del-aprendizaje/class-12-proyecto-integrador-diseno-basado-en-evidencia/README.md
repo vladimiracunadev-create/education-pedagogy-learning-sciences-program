@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*. **Uso en esta clase:** modelo de cómo pasar de estudio a decisión de aula sin sobreinterpretar; útil como plantilla de justificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Education Endowment Foundation. *Teaching and Learning Toolkit* (edición vigente). **Uso en esta clase:** síntesis de evidencia por intervención con costo, solidez y efecto declarados; obliga a citar magnitudes, no impresiones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*. **Uso en esta clase:** modelo de cómo pasar de estudio a decisión de aula sin sobreinterpretar; útil como plantilla de justificación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780367184575](https://openlibrary.org/isbn/9780367184575) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kirschner-hendrick-2020-how-learning-happens)
+- Education Endowment Foundation. *Teaching and Learning Toolkit* (edición vigente). **Uso en esta clase:** síntesis de evidencia por intervención con costo, solidez y efecto declarados; obliga a citar magnitudes, no impresiones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#education-endowment-foundation-teaching-and-learning-toolkit)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

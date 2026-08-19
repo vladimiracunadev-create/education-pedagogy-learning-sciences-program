@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Whetten, D. (1989). *What Constitutes a Theoretical Contribution?* Academy of Management Review, 14(4). **Uso en esta clase:** criterios operativos para juzgar aportes teóricos, aplicables a educación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Dunleavy, P. (2003). *Authoring a PhD*. **Uso en esta clase:** orienta la formulación explícita de la contribución en el trabajo doctoral. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Whetten, D. (1989). *What Constitutes a Theoretical Contribution?* Academy of Management Review, 14(4). **Uso en esta clase:** criterios operativos para juzgar aportes teóricos, aplicables a educación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/258554](https://doi.org/10.2307/258554) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#whetten-1989-what-constitutes-a-theoretical-contribution)
+- Dunleavy, P. (2003). *Authoring a PhD*. **Uso en esta clase:** orienta la formulación explícita de la contribución en el trabajo doctoral. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781403905840](https://openlibrary.org/isbn/9781403905840) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#dunleavy-2003-authoring-a-phd)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

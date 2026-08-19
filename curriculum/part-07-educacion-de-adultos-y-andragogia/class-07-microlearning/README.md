@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*. **Uso en esta clase:** respalda espaciado y recuperación, que son los mecanismos que justifican el formato. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hug, T. (ed.) (2007). *Didactics of Microlearning*. **Uso en esta clase:** revisa el campo, sus definiciones y sus límites conceptuales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*. **Uso en esta clase:** respalda espaciado y recuperación, que son los mecanismos que justifican el formato. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#dunlosky-2013-improving-students-learning-with-effective-learning)
+- Hug, T. (ed.) (2007). *Didactics of Microlearning*. **Uso en esta clase:** revisa el campo, sus definiciones y sus límites conceptuales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hug-2007-didactics-of-microlearning) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

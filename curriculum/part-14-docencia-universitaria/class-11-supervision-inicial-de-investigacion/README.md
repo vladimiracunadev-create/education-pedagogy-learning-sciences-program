@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*. **Uso en esta clase:** modelo de supervisión con acuerdos y etapas de autonomía. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Lee, A. (2008). *How Are Doctoral Students Supervised?* Studies in Higher Education, 33(3). **Uso en esta clase:** tipifica estilos de supervisión y sus consecuencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*. **Uso en esta clase:** modelo de supervisión con acuerdos y etapas de autonomía. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780335224807](https://openlibrary.org/isbn/9780335224807) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#delamont-atkinson-2004-supervising-the-doctorate)
+- Lee, A. (2008). *How Are Doctoral Students Supervised?* Studies in Higher Education, 33(3). **Uso en esta clase:** tipifica estilos de supervisión y sus consecuencias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/03075070802049202](https://doi.org/10.1080/03075070802049202) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#lee-2008-how-are-doctoral-students-supervised)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

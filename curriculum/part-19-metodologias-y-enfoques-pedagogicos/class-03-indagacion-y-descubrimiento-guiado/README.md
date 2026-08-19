@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?* **Uso en esta clase:** distingue con precisión qué versión del descubrimiento fracasa y cuál no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*. **Uso en esta clase:** la crítica que obliga a defender cualquier diseño abierto con argumentos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mayer, R. (2004). *Should There Be a Three-Strikes Rule Against Pure Discovery Learning?* **Uso en esta clase:** distingue con precisión qué versión del descubrimiento fracasa y cuál no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1037/0003-066x.59.1.14](https://doi.org/10.1037/0003-066x.59.1.14) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mayer-2004-should-there-be-a-three-strikes)
+- Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*. **Uso en esta clase:** la crítica que obliga a defender cualquier diseño abierto con argumentos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kirschner-sweller-2006-why-minimal-guidance-during-instruction-does-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

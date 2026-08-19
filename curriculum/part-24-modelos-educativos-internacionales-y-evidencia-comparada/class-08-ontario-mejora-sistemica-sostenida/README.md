@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Fullan, M. (2010). *All Systems Go*. **Uso en esta clase:** la formulación del enfoque de mejora sistémica con sus principios operativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** método de mejora que prueba en pequeño antes de escalar, complementario a este enfoque. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Fullan, M. (2010). *All Systems Go*. **Uso en esta clase:** la formulación del enfoque de mejora sistémica con sus principios operativos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781452206998](https://openlibrary.org/isbn/9781452206998) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#fullan-2010-all-systems-go)
+- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** método de mejora que prueba en pequeño antes de escalar, complementario a este enfoque. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781612507910](https://openlibrary.org/isbn/9781612507910) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryk-2015-learning-to-improve)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

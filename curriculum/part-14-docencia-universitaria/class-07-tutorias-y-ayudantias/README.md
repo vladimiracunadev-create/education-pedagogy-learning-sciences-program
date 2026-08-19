@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bloom, B. (1984). *The 2 Sigma Problem*. **Uso en esta clase:** el estudio que instaló la magnitud del efecto de la tutoría individual y el desafío que plantea. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Chi, M. et al. (2001). *Learning from Human Tutoring*. **Uso en esta clase:** muestra qué hacen los buenos tutores y por qué preguntar rinde más que explicar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bloom, B. (1984). *The 2 Sigma Problem*. **Uso en esta clase:** el estudio que instaló la magnitud del efecto de la tutoría individual y el desafío que plantea. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/1175554](https://doi.org/10.2307/1175554) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bloom-1984-the-2-sigma-problem)
+- Chi, M. et al. (2001). *Learning from Human Tutoring*. **Uso en esta clase:** muestra qué hacen los buenos tutores y por qué preguntar rinde más que explicar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1207/s15516709cog2504_1](https://doi.org/10.1207/s15516709cog2504_1) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#chi-2001-learning-from-human-tutoring)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

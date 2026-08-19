@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** el mejor tratamiento del paso de un tema a una pregunta investigable. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Maxwell, J. (2013). *Qualitative Research Design: An Interactive Approach*. **Uso en esta clase:** modelo interactivo que conecta propósito, pregunta, método y validez. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research* (edición vigente). **Uso en esta clase:** el mejor tratamiento del paso de un tema a una pregunta investigable. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/358777](https://doi.org/10.2307/358777) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#booth-colomb-the-craft-of-research)
+- Maxwell, J. (2013). *Qualitative Research Design: An Interactive Approach*. **Uso en esta clase:** modelo interactivo que conecta propósito, pregunta, método y validez. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#maxwell-2013-qualitative-research-design-an-interactive-approach) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

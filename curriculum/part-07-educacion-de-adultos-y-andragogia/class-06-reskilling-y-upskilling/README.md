@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Getting Skills Right* y estudios sobre reconversión laboral (edición vigente). **Uso en esta clase:** evidencia comparada sobre qué programas de reconversión funcionan y bajo qué condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Foro Económico Mundial. *Future of Jobs Report* (edición vigente). **Uso en esta clase:** útil para tendencias declaradas de demanda; contrástalo siempre con datos del mercado local. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Illeris, K. (2011). *The Fundamentals of Workplace Learning*. **Uso en esta clase:** explica qué condiciones hacen posible el reaprendizaje en la edad adulta y cuáles lo bloquean. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Getting Skills Right* y estudios sobre reconversión laboral (edición vigente). **Uso en esta clase:** evidencia comparada sobre qué programas de reconversión funcionan y bajo qué condiciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-getting-skills-right) — sin localizador verificado todavía.
+- Foro Económico Mundial. *Future of Jobs Report* (edición vigente). **Uso en esta clase:** útil para tendencias declaradas de demanda; contrástalo siempre con datos del mercado local. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#foro-economico-mundial-future-of-jobs-report) — sin localizador verificado todavía.
+- Illeris, K. (2011). *The Fundamentals of Workplace Learning*. **Uso en esta clase:** explica qué condiciones hacen posible el reaprendizaje en la edad adulta y cuáles lo bloquean. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781136864094](https://openlibrary.org/isbn/9781136864094) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#illeris-2011-the-fundamentals-of-workplace-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

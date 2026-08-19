@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Learning for Jobs* y estudios de transición educación-trabajo (edición vigente). **Uso en esta clase:** evidencia comparada sobre qué facilita la inserción laboral de egresados técnicos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Subsecretaría de Educación Superior (Chile). *Sistemas de información sobre empleabilidad e ingresos* (edición vigente). **Uso en esta clase:** fuente verificable para contrastar expectativas con datos reales de trayectorias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Baldwin, T. & Ford, J. K. (1988). *Transfer of Training: A Review and Directions for Future Research*. **Uso en esta clase:** el marco clásico sobre transferencia, que explica por qué formar no basta para emplear. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Learning for Jobs* y estudios de transición educación-trabajo (edición vigente). **Uso en esta clase:** evidencia comparada sobre qué facilita la inserción laboral de egresados técnicos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-learning-for-jobs) — sin localizador verificado todavía.
+- Subsecretaría de Educación Superior (Chile). *Sistemas de información sobre empleabilidad e ingresos* (edición vigente). **Uso en esta clase:** fuente verificable para contrastar expectativas con datos reales de trayectorias. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#subsecretaria-de-educacion-superior-chile-sistemas-de-informacion-sobre-empleabi) — sin localizador verificado todavía.
+- Baldwin, T. & Ford, J. K. (1988). *Transfer of Training: A Review and Directions for Future Research*. **Uso en esta clase:** el marco clásico sobre transferencia, que explica por qué formar no basta para emplear. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1744-6570.1988.tb00632.x](https://doi.org/10.1111/j.1744-6570.1988.tb00632.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#baldwin-ford-1988-transfer-of-training-a-review-and)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

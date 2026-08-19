@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Denham, S. (1998). *Emotional Development in Young Children*. **Uso en esta clase:** describe la secuencia del desarrollo emocional y sus implicancias para la intervención adulta. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Gloeckler, L. & Cassell, J. (2012). *Teacher Practices with Toddlers during Social Problem Solving Opportunities*. **Uso en esta clase:** documenta qué hacen efectivamente los adultos ante conflictos y qué prácticas enseñan más. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Denham, S. (1998). *Emotional Development in Young Children*. **Uso en esta clase:** describe la secuencia del desarrollo emocional y sus implicancias para la intervención adulta. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781572303607](https://openlibrary.org/isbn/9781572303607) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#denham-1998-emotional-development-in-young-children)
+- Gloeckler, L. & Cassell, J. (2012). *Teacher Practices with Toddlers during Social Problem Solving Opportunities*. **Uso en esta clase:** documenta qué hacen efectivamente los adultos ante conflictos y qué prácticas enseñan más. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/s10643-011-0495-4](https://doi.org/10.1007/s10643-011-0495-4) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#gloeckler-cassell-2012-teacher-practices-with-toddlers-during-social)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Johnson, D. & Johnson, R. (2009). *An Educational Psychology Success Story*. **Uso en esta clase:** define las cinco condiciones del aprendizaje cooperativo con la evidencia acumulada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Slavin, R. (2014). *Cooperative Learning and Academic Achievement*. **Uso en esta clase:** revisa qué estructuras cooperativas producen efectos y cuáles no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Johnson, D. & Johnson, R. (2009). *An Educational Psychology Success Story*. **Uso en esta clase:** define las cinco condiciones del aprendizaje cooperativo con la evidencia acumulada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.3102/0013189x09339057](https://doi.org/10.3102/0013189x09339057) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#johnson-johnson-2009-an-educational-psychology-success-story)
+- Slavin, R. (2014). *Cooperative Learning and Academic Achievement*. **Uso en esta clase:** revisa qué estructuras cooperativas producen efectos y cuáles no. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.6018/analesps.30.3.201201](https://doi.org/10.6018/analesps.30.3.201201) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#slavin-2014-cooperative-learning-and-academic-achievement)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

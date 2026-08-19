@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Arnett, J. (2000). *Emerging Adulthood*. American Psychologist, 55(5). **Uso en esta clase:** define el período y sus rasgos; explica trayectorias educativas no lineales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*. **Uso en esta clase:** revisa críticamente el campo y separa lo respaldado de lo asumido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Arnett, J. (2000). *Emerging Adulthood*. American Psychologist, 55(5). **Uso en esta clase:** define el período y sus rasgos; explica trayectorias educativas no lineales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#arnett-2000-emerging-adulthood) — sin localizador verificado todavía.
+- Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*. **Uso en esta clase:** revisa críticamente el campo y separa lo respaldado de lo asumido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#merriam-bierema-2013-adult-learning-linking-theory-and-practice) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

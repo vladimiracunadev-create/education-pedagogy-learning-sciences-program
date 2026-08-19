@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Assouline, S. et al. (2015). *A Nation Empowered*. **Uso en esta clase:** la síntesis de evidencia sobre aceleración que contradice la práctica escolar habitual. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Subotnik, R., Olszewski-Kubilius, P. & Worrell, F. (2011). *Rethinking Giftedness and Gifted Education*. **Uso en esta clase:** el talento como trayectoria específica de dominio y no como atributo fijo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Assouline, S. et al. (2015). *A Nation Empowered*. **Uso en esta clase:** la síntesis de evidencia sobre aceleración que contradice la práctica escolar habitual. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780996160308](https://openlibrary.org/isbn/9780996160308) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#assouline-2015-a-nation-empowered)
+- Subotnik, R., Olszewski-Kubilius, P. & Worrell, F. (2011). *Rethinking Giftedness and Gifted Education*. **Uso en esta clase:** el talento como trayectoria específica de dominio y no como atributo fijo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1529100611418056](https://doi.org/10.1177/1529100611418056) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#subotnik-olszewski-kubilius-2011-rethinking-giftedness-and-gifted-education)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

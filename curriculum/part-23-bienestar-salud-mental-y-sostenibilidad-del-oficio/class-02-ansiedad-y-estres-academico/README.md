@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- von der Embse, N. et al. (2018). *Test Anxiety Effects, Predictors and Correlates*. **Uso en esta clase:** síntesis de la evidencia sobre efecto en rendimiento y sobre condiciones modificables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*. **Uso en esta clase:** el argumento sobre evaluación formativa que reduce la apuesta sin reducir la exigencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- von der Embse, N. et al. (2018). *Test Anxiety Effects, Predictors and Correlates*. **Uso en esta clase:** síntesis de la evidencia sobre efecto en rendimiento y sobre condiciones modificables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.jad.2017.11.048](https://doi.org/10.1016/j.jad.2017.11.048) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#von-der-embse-2018-test-anxiety-effects-predictors-and-correlates)
+- Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*. **Uso en esta clase:** el argumento sobre evaluación formativa que reduce la apuesta sin reducir la exigencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#black-wiliam-1998-assessment-and-classroom-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

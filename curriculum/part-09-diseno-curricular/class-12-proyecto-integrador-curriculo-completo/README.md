@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** marco integral para diseñar y auditar coherencia curricular. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Jacobs, H. H. (1997). *Mapping the Big Picture*. **Uso en esta clase:** metodología de mapeo que sostiene la verificación de coherencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*. **Uso en esta clase:** marco integral para diseñar y auditar coherencia curricular. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780335242764](https://openlibrary.org/isbn/9780335242764) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biggs-tang-2011-teaching-for-quality-learning-at-university)
+- Jacobs, H. H. (1997). *Mapping the Big Picture*. **Uso en esta clase:** metodología de mapeo que sostiene la verificación de coherencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780871202864](https://openlibrary.org/isbn/9780871202864) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#jacobs-1997-mapping-the-big-picture)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

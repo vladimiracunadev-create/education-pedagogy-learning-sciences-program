@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Labov, W. (1972). *The Logic of Nonstandard English*. **Uso en esta clase:** el texto que estableció que las variedades no estándar son sistemas plenamente lógicos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Delpit, L. (1988). *The Silenced Dialogue*. **Uso en esta clase:** argumenta por qué no enseñar los códigos de poder es también una forma de exclusión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Labov, W. (1972). *The Logic of Nonstandard English*. **Uso en esta clase:** el texto que estableció que las variedades no estándar son sistemas plenamente lógicos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/b978-0-12-754850-0.50014-3](https://doi.org/10.1016/b978-0-12-754850-0.50014-3) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#labov-1972-the-logic-of-nonstandard-english)
+- Delpit, L. (1988). *The Silenced Dialogue*. **Uso en esta clase:** argumenta por qué no enseñar los códigos de poder es también una forma de exclusión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.17763/haer.58.3.c43481778r528qw4](https://doi.org/10.17763/haer.58.3.c43481778r528qw4) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#delpit-1988-the-silenced-dialogue)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

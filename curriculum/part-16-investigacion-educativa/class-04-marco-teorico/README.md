@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Maxwell, J. (2013). *Qualitative Research Design*. **Uso en esta clase:** explica el marco teórico como herramienta de diseño y no como requisito formal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Merton, R. (1968). *Social Theory and Social Structure*. **Uso en esta clase:** fundamenta el nivel de teorización que resulta productivo en investigación social aplicada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Maxwell, J. (2013). *Qualitative Research Design*. **Uso en esta clase:** explica el marco teórico como herramienta de diseño y no como requisito formal. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781412981194](https://openlibrary.org/isbn/9781412981194) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#maxwell-2013-qualitative-research-design)
+- Merton, R. (1968). *Social Theory and Social Structure*. **Uso en esta clase:** fundamenta el nivel de teorización que resulta productivo en investigación social aplicada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#merton-1968-social-theory-and-social-structure) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

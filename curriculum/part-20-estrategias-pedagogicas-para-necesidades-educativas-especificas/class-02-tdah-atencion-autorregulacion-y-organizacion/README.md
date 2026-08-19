@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*. **Uso en esta clase:** el modelo de autorregulación y sus implicancias directas para el diseño del aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- DuPaul, G. & Stoner, G. *ADHD in the Schools* (edición vigente). **Uso en esta clase:** el manual de intervenciones escolares con evidencia, organizado por tipo de apoyo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook*. **Uso en esta clase:** el modelo de autorregulación y sus implicancias directas para el diseño del aula. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#barkley-2015-attention-deficit-hyperactivity-disorder-a-handbook-2) — sin localizador verificado todavía.
+- DuPaul, G. & Stoner, G. *ADHD in the Schools* (edición vigente). **Uso en esta clase:** el manual de intervenciones escolares con evidencia, organizado por tipo de apoyo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780898622454](https://openlibrary.org/isbn/9780898622454) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#dupaul-stoner-adhd-in-the-schools)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Steinberg, L. (2014). *Age of Opportunity*. **Uso en esta clase:** reinterpreta la adolescencia como período de oportunidad y plasticidad, con la evidencia que lo respalda. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Blakemore, S.-J. (2018). *Inventing Ourselves: The Secret Life of the Teenage Brain*. **Uso en esta clase:** síntesis rigurosa y prudente sobre desarrollo cerebral adolescente y conducta social. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Steinberg, L. (2014). *Age of Opportunity*. **Uso en esta clase:** reinterpreta la adolescencia como período de oportunidad y plasticidad, con la evidencia que lo respalda. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780544570290](https://openlibrary.org/isbn/9780544570290) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#steinberg-2014-age-of-opportunity)
+- Blakemore, S.-J. (2018). *Inventing Ourselves: The Secret Life of the Teenage Brain*. **Uso en esta clase:** síntesis rigurosa y prudente sobre desarrollo cerebral adolescente y conducta social. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#blakemore-2018-inventing-ourselves-the-secret-life-of) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

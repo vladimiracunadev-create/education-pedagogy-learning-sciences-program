@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Coombs, P. & Ahmed, M. (1974). *Attacking Rural Poverty: How Nonformal Education Can Help*. **Uso en esta clase:** origen de la distinción formal / no formal / informal y de su utilidad para políticas educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- UNESCO. *Directrices para el reconocimiento, validación y acreditación de los resultados del aprendizaje no formal e informal* (edición vigente). **Uso en esta clase:** marco internacional de referencia para validar competencias adquiridas fuera del sistema reglado. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Coombs, P. & Ahmed, M. (1974). *Attacking Rural Poverty: How Nonformal Education Can Help*. **Uso en esta clase:** origen de la distinción formal / no formal / informal y de su utilidad para políticas educativas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#coombs-ahmed-1974-attacking-rural-poverty-how-nonformal-education) — sin localizador verificado todavía.
+- UNESCO. *Directrices para el reconocimiento, validación y acreditación de los resultados del aprendizaje no formal e informal* (edición vigente). **Uso en esta clase:** marco internacional de referencia para validar competencias adquiridas fuera del sistema reglado. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-directrices-para-el-reconocimiento-validacion-y) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

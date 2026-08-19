@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Wang, M.-T. & Degol, J. (2016). *School Climate: A Review of the Construct, Measurement, and Impact*. **Uso en esta clase:** sistematiza qué es el clima, cómo se mide y qué efectos tiene documentados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Pianta, R. et al. *Classroom Assessment Scoring System (CLASS)* (edición vigente). **Uso en esta clase:** instrumento observacional que operacionaliza el clima en interacciones concretas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Wang, M.-T. & Degol, J. (2016). *School Climate: A Review of the Construct, Measurement, and Impact*. **Uso en esta clase:** sistematiza qué es el clima, cómo se mide y qué efectos tiene documentados. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/s10648-015-9319-1](https://doi.org/10.1007/s10648-015-9319-1) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wang-degol-2016-school-climate-a-review-of-the)
+- Pianta, R. et al. *Classroom Assessment Scoring System (CLASS)* (edición vigente). **Uso en esta clase:** instrumento observacional que operacionaliza el clima en interacciones concretas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781557669421](https://openlibrary.org/isbn/9781557669421) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#pianta-classroom-assessment-scoring-system-class)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

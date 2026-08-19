@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Biesta, G. (2010). *Good Education in an Age of Measurement*. **Uso en esta clase:** argumenta que medir bien no responde qué es buena educación; el contrapeso necesario a los tableros. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Agencia de Calidad de la Educación (Chile). *Informes técnicos y Otros Indicadores de Calidad* (edición vigente). **Uso en esta clase:** muestra un intento institucional de ampliar la definición de calidad más allá del puntaje; léelo con sus notas técnicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Biesta, G. (2010). *Good Education in an Age of Measurement*. **Uso en esta clase:** argumenta que medir bien no responde qué es buena educación; el contrapeso necesario a los tableros. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781315634319](https://openlibrary.org/isbn/9781315634319) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#biesta-2010-good-education-in-an-age-of)
+- Agencia de Calidad de la Educación (Chile). *Informes técnicos y Otros Indicadores de Calidad* (edición vigente). **Uso en esta clase:** muestra un intento institucional de ampliar la definición de calidad más allá del puntaje; léelo con sus notas técnicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.agenciaeducacion.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#agencia-de-calidad-de-la-educacion-chile-informes-tecnicos-y-otros-indicadores-d)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

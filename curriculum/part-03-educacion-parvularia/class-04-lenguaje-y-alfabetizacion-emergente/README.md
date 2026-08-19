@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- National Early Literacy Panel (2008). *Developing Early Literacy*. **Uso en esta clase:** identifica y jerarquiza los predictores tempranos de la lectura con síntesis cuantitativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. **Uso en esta clase:** conecta los precursores con la enseñanza posterior y aclara qué está resuelto en el debate. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- National Early Literacy Panel (2008). *Developing Early Literacy*. **Uso en esta clase:** identifica y jerarquiza los predictores tempranos de la lectura con síntesis cuantitativa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#national-early-literacy-panel-2008-developing-early-literacy) — sin localizador verificado todavía.
+- Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. **Uso en esta clase:** conecta los precursores con la enseñanza posterior y aclara qué está resuelto en el debate. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/1529100618772271](https://doi.org/10.1177/1529100618772271) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#castles-rastle-2018-ending-the-reading-wars)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

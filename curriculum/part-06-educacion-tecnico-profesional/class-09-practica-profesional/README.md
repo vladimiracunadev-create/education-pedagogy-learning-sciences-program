@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Reglamento y orientaciones sobre práctica profesional en educación media técnico-profesional* (edición vigente). **Uso en esta clase:** define duración, requisitos y responsabilidades vigentes en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Billett, S. (2011). *Curriculum and Pedagogic Bases for Effectively Integrating Practice-Based Experiences*. **Uso en esta clase:** evidencia sobre qué hace formativa una experiencia laboral integrada al currículo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Reglamento y orientaciones sobre práctica profesional en educación media técnico-profesional* (edición vigente). **Uso en esta clase:** define duración, requisitos y responsabilidades vigentes en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-reglamento-y-orientaciones-sobre-practica-profesional)
+- Billett, S. (2011). *Curriculum and Pedagogic Bases for Effectively Integrating Practice-Based Experiences*. **Uso en esta clase:** evidencia sobre qué hace formativa una experiencia laboral integrada al currículo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#billett-2011-curriculum-and-pedagogic-bases-for-effectively) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

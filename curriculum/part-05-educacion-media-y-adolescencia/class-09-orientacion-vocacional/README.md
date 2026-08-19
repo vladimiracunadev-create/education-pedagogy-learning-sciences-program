@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE (2021). *Career Readiness in the Pandemic* y estudios sobre orientación temprana. **Uso en esta clase:** identifica qué actividades de orientación se asocian con mejores resultados laborales posteriores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc / Subsecretaría de Educación Superior. *Sistemas públicos de información sobre programas y empleabilidad* (edición vigente). **Uso en esta clase:** fuente verificable para trabajar con datos reales de trayectorias en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Hooley, T., Sultana, R. & Thomsen, R. (2018). *Career Guidance for Social Justice*. **Uso en esta clase:** cuestiona la orientación centrada solo en la elección individual y muestra su dimensión social. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE (2021). *Career Readiness in the Pandemic* y estudios sobre orientación temprana. **Uso en esta clase:** identifica qué actividades de orientación se asocian con mejores resultados laborales posteriores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-2021-career-readiness-in-the-pandemic) — sin localizador verificado todavía.
+- Mineduc / Subsecretaría de Educación Superior. *Sistemas públicos de información sobre programas y empleabilidad* (edición vigente). **Uso en esta clase:** fuente verificable para trabajar con datos reales de trayectorias en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.mifuturo.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-subsecretaria-de-educacion-superior-sistemas-publicos-de-informacion-sob)
+- Hooley, T., Sultana, R. & Thomsen, R. (2018). *Career Guidance for Social Justice*. **Uso en esta clase:** cuestiona la orientación centrada solo en la elección individual y muestra su dimensión social. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781138087385](https://openlibrary.org/isbn/9781138087385) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#hooley-sultana-2018-career-guidance-for-social-justice)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

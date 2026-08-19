@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. **Uso en esta clase:** cuantifica el contexto en que operan todas las decisiones pedagógicas del sistema. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Angrist, J. & Pischke, J.-S. (2009). *Mostly Harmless Econometrics*. **Uso en esta clase:** por qué separar efecto causal de selección es difícil y qué se puede afirmar con cada diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*. **Uso en esta clase:** cuantifica el contexto en que operan todas las decisiones pedagógicas del sistema. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.4067/s0718-07052013000100019](https://doi.org/10.4067/s0718-07052013000100019) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bellei-2013-el-estudio-de-la-segregacion-socioeconomica)
+- Angrist, J. & Pischke, J.-S. (2009). *Mostly Harmless Econometrics*. **Uso en esta clase:** por qué separar efecto causal de selección es difícil y qué se puede afirmar con cada diseño. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780691120355](https://openlibrary.org/isbn/9780691120355) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#angrist-pischke-2009-mostly-harmless-econometrics)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

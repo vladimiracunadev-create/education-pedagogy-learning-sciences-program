@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Zimmerman, B. (2002). *Becoming a Self-Regulated Learner*. **Uso en esta clase:** modelo de autorregulación con fases y estrategias enseñables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Education Endowment Foundation (2018). *Metacognition and Self-Regulated Learning*. **Uso en esta clase:** evidencia sobre qué apoyos a la autorregulación funcionan y con qué magnitud. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Zimmerman, B. (2002). *Becoming a Self-Regulated Learner*. **Uso en esta clase:** modelo de autorregulación con fases y estrategias enseñables. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#zimmerman-2002-becoming-a-self-regulated-learner)
+- Education Endowment Foundation (2018). *Metacognition and Self-Regulated Learning*. **Uso en esta clase:** evidencia sobre qué apoyos a la autorregulación funcionan y con qué magnitud. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#education-endowment-foundation-2018-metacognition-and-self-regulated-learning)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

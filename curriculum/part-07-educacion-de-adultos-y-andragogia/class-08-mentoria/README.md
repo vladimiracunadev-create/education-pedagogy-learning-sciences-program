@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Eby, L. et al. (2008). *Does Mentoring Matter? A Multidisciplinary Meta-Analysis*. **Uso en esta clase:** síntesis de efectos y de sus limitaciones metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Clutterbuck, D. (2004). *Everyone Needs a Mentor*. **Uso en esta clase:** modelo operativo de diseño de programas con acuerdos y estructura. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Eby, L. et al. (2008). *Does Mentoring Matter? A Multidisciplinary Meta-Analysis*. **Uso en esta clase:** síntesis de efectos y de sus limitaciones metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.jvb.2007.04.005](https://doi.org/10.1016/j.jvb.2007.04.005) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#eby-2008-does-mentoring-matter-a-multidisciplinary-meta)
+- Clutterbuck, D. (2004). *Everyone Needs a Mentor*. **Uso en esta clase:** modelo operativo de diseño de programas con acuerdos y estructura. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780846450528](https://openlibrary.org/isbn/9780846450528) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#clutterbuck-2004-everyone-needs-a-mentor)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -83,10 +83,10 @@ flowchart TB
 
 ## 📕 Lecturas de referencia de la parte
 
-- **Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.** — el manual del diseño inverso; su aporte central es exigir la evidencia de logro antes que la actividad.
-- **Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.** — define el alineamiento constructivo y lo convierte en procedimiento de diseño.
-- **Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*.** — la revisión de la taxonomía de Bloom que separa dimensión del conocimiento y proceso cognitivo.
-- **Mineduc. *Bases Curriculares* vigentes y priorización curricular (edición vigente).** — en Chile el diseño local se hace sobre este marco: conviene conocer su estructura y sus grados de libertad.
+- **Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.** — el manual del diseño inverso; su aporte central es exigir la evidencia de logro antes que la actividad. **Localizar:** [ficha](../../docs/REGISTRO_DE_FUENTES.md#wiggins-mctighe-2005-understanding-by-design) — sin localizador verificado todavía.
+- **Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.** — define el alineamiento constructivo y lo convierte en procedimiento de diseño. **Localizar:** [ISBN 9780335242764](https://openlibrary.org/isbn/9780335242764) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#biggs-tang-2011-teaching-for-quality-learning-at-university)
+- **Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*.** — la revisión de la taxonomía de Bloom que separa dimensión del conocimiento y proceso cognitivo. **Localizar:** [ISBN 9780321084057](https://openlibrary.org/isbn/9780321084057) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#anderson-krathwohl-2001-a-taxonomy-for-learning-teaching-and)
+- **Mineduc. *Bases Curriculares* vigentes y priorización curricular (edición vigente).** — en Chile el diseño local se hace sobre este marco: conviene conocer su estructura y sus grados de libertad. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../docs/REGISTRO_DE_FUENTES.md#mineduc-bases-curriculares)
 
 ## ✅ Evidencia mínima para dar la parte por cerrada
 

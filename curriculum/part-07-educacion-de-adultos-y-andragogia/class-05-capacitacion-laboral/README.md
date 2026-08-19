@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Baldwin, T. & Ford, J. K. (1988). *Transfer of Training*. Personnel Psychology, 41. **Uso en esta clase:** el modelo clásico de transferencia y sus factores organizacionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Blume, B. et al. (2010). *Transfer of Training: A Meta-Analytic Review*. Journal of Management, 36(4). **Uso en esta clase:** síntesis cuantitativa sobre qué predice realmente la transferencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Baldwin, T. & Ford, J. K. (1988). *Transfer of Training*. Personnel Psychology, 41. **Uso en esta clase:** el modelo clásico de transferencia y sus factores organizacionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1111/j.1744-6570.1988.tb00632.x](https://doi.org/10.1111/j.1744-6570.1988.tb00632.x) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#baldwin-ford-1988-transfer-of-training)
+- Blume, B. et al. (2010). *Transfer of Training: A Meta-Analytic Review*. Journal of Management, 36(4). **Uso en esta clase:** síntesis cuantitativa sobre qué predice realmente la transferencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/0149206309352880](https://doi.org/10.1177/0149206309352880) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#blume-2010-transfer-of-training-a-meta-analytic)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

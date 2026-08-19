@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Sahlberg, P. (2011). *Finnish Lessons*. **Uso en esta clase:** la fuente que originó buena parte del relato; leída completa muestra lo que el relato omitió. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Crehan, L. (2016). *Cleverlands*. **Uso en esta clase:** contrasta el caso con otros sistemas y ayuda a separar mecanismo de circunstancia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Sahlberg, P. (2011). *Finnish Lessons*. **Uso en esta clase:** la fuente que originó buena parte del relato; leída completa muestra lo que el relato omitió. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781470826154](https://openlibrary.org/isbn/9781470826154) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sahlberg-2011-finnish-lessons)
+- Crehan, L. (2016). *Cleverlands*. **Uso en esta clase:** contrasta el caso con otros sistemas y ayuda a separar mecanismo de circunstancia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781783524914](https://openlibrary.org/isbn/9781783524914) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#crehan-2016-cleverlands)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

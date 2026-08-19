@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** criterios para el despliegue institucional responsable de sistemas con IA. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- VanLehn, K. (2011). *The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems*. **Uso en esta clase:** referencia para calibrar expectativas de efecto y diseñar la evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO (2023). *Guidance for Generative AI in Education and Research*. **Uso en esta clase:** criterios para el despliegue institucional responsable de sistemas con IA. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#unesco-2023-guidance-for-generative-ai-in-education)
+- VanLehn, K. (2011). *The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems*. **Uso en esta clase:** referencia para calibrar expectativas de efecto y diseñar la evaluación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/00461520.2011.611369](https://doi.org/10.1080/00461520.2011.611369) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#vanlehn-2011-the-relative-effectiveness-of-human-tutoring-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

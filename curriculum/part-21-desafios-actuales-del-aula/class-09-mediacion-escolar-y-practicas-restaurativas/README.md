@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Zehr, H. *The Little Book of Restorative Justice* (edición vigente). **Uso en esta clase:** los principios del enfoque con sus condiciones y sus límites explícitos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Salmivalli, C. (2010). *Bullying and the Peer Group*. **Uso en esta clase:** fundamenta por qué el enfoque restaurativo no aplica a situaciones de acoso sostenido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Zehr, H. *The Little Book of Restorative Justice* (edición vigente). **Uso en esta clase:** los principios del enfoque con sus condiciones y sus límites explícitos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781680993783](https://openlibrary.org/isbn/9781680993783) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#zehr-the-little-book-of-restorative-justice)
+- Salmivalli, C. (2010). *Bullying and the Peer Group*. **Uso en esta clase:** fundamenta por qué el enfoque restaurativo no aplica a situaciones de acoso sostenido. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.avb.2009.08.007](https://doi.org/10.1016/j.avb.2009.08.007) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#salmivalli-2010-bullying-and-the-peer-group)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

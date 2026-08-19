@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Rowe, M. B. (1986). *Wait Time: Slowing Down May Be a Way of Speeding Up*. **Uso en esta clase:** el estudio clásico sobre tiempo de espera y sus efectos en la participación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** técnicas de respuesta simultánea y de diseño de preguntas diagnósticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Rowe, M. B. (1986). *Wait Time: Slowing Down May Be a Way of Speeding Up*. **Uso en esta clase:** el estudio clásico sobre tiempo de espera y sus efectos en la participación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rowe-1986-wait-time-slowing-down-may-be)
+- Wiliam, D. (2011). *Embedded Formative Assessment*. **Uso en esta clase:** técnicas de respuesta simultánea y de diseño de preguntas diagnósticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781934009307](https://openlibrary.org/isbn/9781934009307) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#wiliam-2011-embedded-formative-assessment)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

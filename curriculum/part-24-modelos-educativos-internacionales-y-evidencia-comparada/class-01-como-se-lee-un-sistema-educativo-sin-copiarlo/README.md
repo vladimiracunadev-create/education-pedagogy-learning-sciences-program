@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Crehan, L. (2016). *Cleverlands*. **Uso en esta clase:** recorre los sistemas de mejor resultado buscando el mecanismo detrás de la fachada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** muestra que la importación de políticas responde muchas veces a razones internas y no a evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Crehan, L. (2016). *Cleverlands*. **Uso en esta clase:** recorre los sistemas de mejor resultado buscando el mecanismo detrás de la fachada. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781783524914](https://openlibrary.org/isbn/9781783524914) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#crehan-2016-cleverlands)
+- Steiner-Khamsi, G. (2004). *The Global Politics of Educational Borrowing and Lending*. **Uso en esta clase:** muestra que la importación de políticas responde muchas veces a razones internas y no a evidencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780807744932](https://openlibrary.org/isbn/9780807744932) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#steiner-khamsi-2004-the-global-politics-of-educational-borrowing)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

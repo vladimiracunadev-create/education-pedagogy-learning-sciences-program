@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Lewis, C. (2002). *Lesson Study: A Handbook of Teacher-Led Instructional Change*. **Uso en esta clase:** el dispositivo descrito con detalle suficiente para juzgar su transferibilidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. **Uso en esta clase:** las condiciones que la evidencia asocia con desarrollo profesional que cambia la práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Lewis, C. (2002). *Lesson Study: A Handbook of Teacher-Led Instructional Change*. **Uso en esta clase:** el dispositivo descrito con detalle suficiente para juzgar su transferibilidad. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#lewis-2002-lesson-study-a-handbook-of-teacher) — sin localizador verificado todavía.
+- Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. **Uso en esta clase:** las condiciones que la evidencia asocia con desarrollo profesional que cambia la práctica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.54300/122.311](https://doi.org/10.54300/122.311) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#darling-hammond-2017-effective-teacher-professional-development-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

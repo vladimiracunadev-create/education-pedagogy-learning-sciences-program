@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Seidenberg, M. (2017). *Language at the Speed of Sight*. **Uso en esta clase:** aporta el mecanismo que explica por qué el conocimiento del dominio pesa tanto en la comprensión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*. **Uso en esta clase:** fundamenta por qué la enseñanza de la lectura de un campo es parte del saber didáctico de ese campo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Seidenberg, M. (2017). *Language at the Speed of Sight*. **Uso en esta clase:** aporta el mecanismo que explica por qué el conocimiento del dominio pesa tanto en la comprensión. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780465080656](https://openlibrary.org/isbn/9780465080656) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#seidenberg-2017-language-at-the-speed-of-sight)
+- Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*. **Uso en esta clase:** fundamenta por qué la enseñanza de la lectura de un campo es parte del saber didáctico de ese campo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/1175860](https://doi.org/10.2307/1175860) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#shulman-1986-those-who-understand-knowledge-growth-in)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

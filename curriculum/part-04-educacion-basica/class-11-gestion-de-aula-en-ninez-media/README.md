@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Kounin, J. (1970). *Discipline and Group Management in Classrooms*. **Uso en esta clase:** origen del hallazgo sobre prevención y percepción simultánea; sigue siendo la mejor descripción del mecanismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Evertson, C. & Emmer, E. *Classroom Management for Elementary Teachers* (edición vigente). **Uso en esta clase:** manual operativo de rutinas, transiciones y comienzo del año escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Kounin, J. (1970). *Discipline and Group Management in Classrooms*. **Uso en esta clase:** origen del hallazgo sobre prevención y percepción simultánea; sigue siendo la mejor descripción del mecanismo. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780030782107](https://openlibrary.org/isbn/9780030782107) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kounin-1970-discipline-and-group-management-in-classrooms)
+- Evertson, C. & Emmer, E. *Classroom Management for Elementary Teachers* (edición vigente). **Uso en esta clase:** manual operativo de rutinas, transiciones y comienzo del año escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780205349982](https://openlibrary.org/isbn/9780205349982) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#evertson-emmer-classroom-management-for-elementary-teachers)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

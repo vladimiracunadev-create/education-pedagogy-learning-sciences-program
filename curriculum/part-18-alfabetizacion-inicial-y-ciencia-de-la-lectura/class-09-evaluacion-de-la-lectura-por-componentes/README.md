@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*. **Uso en esta clase:** modelo de medición frecuente ligada a decisiones de intervención y no a informes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. **Uso en esta clase:** obliga a declarar el uso previsto antes de aplicar cualquier instrumento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*. **Uso en esta clase:** modelo de medición frecuente ligada a decisiones de intervención y no a informes. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1598/rrq.41.1.4](https://doi.org/10.1598/rrq.41.1.4) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#fuchs-fuchs-2006-introduction-to-response-to-intervention-2)
+- AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*. **Uso en esta clase:** obliga a declarar el uso previsto antes de aplicar cualquier instrumento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.testingstandards.net/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#aera-ncme-2014-standards-for-educational-and-psychological-testing)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

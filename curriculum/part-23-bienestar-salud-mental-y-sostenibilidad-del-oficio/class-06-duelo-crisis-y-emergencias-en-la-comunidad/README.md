@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Ministerio de Educación de Chile. *Orientaciones para la actuación ante situaciones de crisis* (edición vigente). **Uso en esta clase:** el marco institucional de respuesta y sus obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ministerio de Salud de Chile. *Recomendaciones de postvención en comunidades educativas* (edición vigente). **Uso en esta clase:** las prácticas recomendadas y las contraindicadas tras un evento consumado. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Masten, A. (2014). *Ordinary Magic: Resilience in Development*. **Uso en esta clase:** muestra que los factores protectores tras una crisis son comunes y accesibles, no excepcionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Ministerio de Educación de Chile. *Orientaciones para la actuación ante situaciones de crisis* (edición vigente). **Uso en esta clase:** el marco institucional de respuesta y sus obligaciones. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://convivenciaparaciudadania.mineduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ministerio-de-educacion-de-chile-orientaciones-para-la-actuacion-ante-situacione)
+- Ministerio de Salud de Chile. *Recomendaciones de postvención en comunidades educativas* (edición vigente). **Uso en esta clase:** las prácticas recomendadas y las contraindicadas tras un evento consumado. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.minsal.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ministerio-de-salud-de-chile-recomendaciones-de-postvencion-en-comunidades-educa)
+- Masten, A. (2014). *Ordinary Magic: Resilience in Development*. **Uso en esta clase:** muestra que los factores protectores tras una crisis son comunes y accesibles, no excepcionales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#masten-2014-ordinary-magic-resilience-in-development) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

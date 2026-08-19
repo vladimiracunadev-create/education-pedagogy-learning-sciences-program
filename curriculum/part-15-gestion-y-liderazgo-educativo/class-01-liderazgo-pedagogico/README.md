@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Robinson, V. (2011). *Student-Centered Leadership*. **Uso en esta clase:** ordena por efecto las prácticas de liderazgo y sitúa arriba la participación en el aprendizaje docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Leithwood, K. et al. (2020). *Seven Strong Claims about Successful School Leadership Revisited*. **Uso en esta clase:** actualiza lo que se sabe con evidencia sobre liderazgo escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Robinson, V. (2011). *Student-Centered Leadership*. **Uso en esta clase:** ordena por efecto las prácticas de liderazgo y sitúa arriba la participación en el aprendizaje docente. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780470874134](https://openlibrary.org/isbn/9780470874134) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#robinson-2011-student-centered-leadership)
+- Leithwood, K. et al. (2020). *Seven Strong Claims about Successful School Leadership Revisited*. **Uso en esta clase:** actualiza lo que se sabe con evidencia sobre liderazgo escolar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/13632434.2019.1596077](https://doi.org/10.1080/13632434.2019.1596077) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#leithwood-2020-seven-strong-claims-about-successful-school)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

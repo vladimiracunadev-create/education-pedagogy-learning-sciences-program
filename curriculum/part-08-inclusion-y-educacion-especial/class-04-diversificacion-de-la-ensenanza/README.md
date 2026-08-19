@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc. *Decreto 83/2015* sobre adecuaciones curriculares (edición vigente). **Uso en esta clase:** define en Chile los tipos de adecuación, su procedimiento y su registro. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Deunk, M. et al. (2018). *Effective Differentiation Practices*. Educational Research Review, 24. **Uso en esta clase:** revisión que separa las prácticas de diferenciación con evidencia de las que no la tienen. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc. *Decreto 83/2015* sobre adecuaciones curriculares (edición vigente). **Uso en esta clase:** define en Chile los tipos de adecuación, su procedimiento y su registro. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.bcn.cl/leychile/navegar?idNorma=1074511) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-decreto-83-2015)
+- Deunk, M. et al. (2018). *Effective Differentiation Practices*. Educational Research Review, 24. **Uso en esta clase:** revisión que separa las prácticas de diferenciación con evidencia de las que no la tienen. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1016/j.edurev.2018.02.002](https://doi.org/10.1016/j.edurev.2018.02.002) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#deunk-2018-effective-differentiation-practices)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

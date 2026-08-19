@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Baltes, P. & Baltes, M. (1990). *Successful Aging: Perspectives from the Behavioral Sciences*. **Uso en esta clase:** modelo de selección, optimización y compensación; muy útil para diseñar formación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Salthouse, T. (2010). *Major Issues in Cognitive Aging*. **Uso en esta clase:** distingue con rigor qué declina, qué se conserva y qué artefactos introducen los diseños transversales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Baltes, P. & Baltes, M. (1990). *Successful Aging: Perspectives from the Behavioral Sciences*. **Uso en esta clase:** modelo de selección, optimización y compensación; muy útil para diseñar formación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#baltes-baltes-1990-successful-aging-perspectives-from-the-behavioral) — sin localizador verificado todavía.
+- Salthouse, T. (2010). *Major Issues in Cognitive Aging*. **Uso en esta clase:** distingue con rigor qué declina, qué se conserva y qué artefactos introducen los diseños transversales. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780195372151](https://openlibrary.org/isbn/9780195372151) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#salthouse-2010-major-issues-in-cognitive-aging)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

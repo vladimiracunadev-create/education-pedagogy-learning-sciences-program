@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Sailer, M. & Homner, L. (2020). *The Gamification of Learning: A Meta-Analysis*. **Uso en esta clase:** síntesis con efectos, moderadores y limitaciones metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Deci, E., Koestner, R. & Ryan, R. (1999). *Meta-Analytic Review of Extrinsic Rewards*. **Uso en esta clase:** fundamenta el riesgo de sustituir interés propio por recompensa externa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Sailer, M. & Homner, L. (2020). *The Gamification of Learning: A Meta-Analysis*. **Uso en esta clase:** síntesis con efectos, moderadores y limitaciones metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1007/s10648-019-09498-w](https://doi.org/10.1007/s10648-019-09498-w) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#sailer-homner-2020-the-gamification-of-learning-a-meta)
+- Deci, E., Koestner, R. & Ryan, R. (1999). *Meta-Analytic Review of Extrinsic Rewards*. **Uso en esta clase:** fundamenta el riesgo de sustituir interés propio por recompensa externa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#deci-koestner-1999-meta-analytic-review-of-extrinsic-rewards) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

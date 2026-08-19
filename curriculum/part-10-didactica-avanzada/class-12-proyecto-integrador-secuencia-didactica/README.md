@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** marco de referencia para justificar y ordenar las decisiones de la secuencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*. **Uso en esta clase:** modelo de justificación de decisiones didácticas a partir de la investigación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Rosenshine, B. (2012). *Principles of Instruction*. **Uso en esta clase:** marco de referencia para justificar y ordenar las decisiones de la secuencia. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#rosenshine-2012-principles-of-instruction) — sin localizador verificado todavía.
+- Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*. **Uso en esta clase:** modelo de justificación de decisiones didácticas a partir de la investigación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780367184575](https://openlibrary.org/isbn/9780367184575) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#kirschner-hendrick-2020-how-learning-happens)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Mineduc / Superintendencia de Educación. *Protocolos de actuación ante situaciones de vulneración* (edición vigente). **Uso en esta clase:** define el procedimiento obligatorio y los plazos aplicables en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Organización Mundial de la Salud. *Orientaciones sobre salud mental en entornos escolares* (edición vigente). **Uso en esta clase:** criterios de detección y derivación desde el rol educativo, con sus límites. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. **Uso en esta clase:** explica cómo la adversidad se expresa en conducta escolar, útil antes de derivar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Mineduc / Superintendencia de Educación. *Protocolos de actuación ante situaciones de vulneración* (edición vigente). **Uso en esta clase:** define el procedimiento obligatorio y los plazos aplicables en Chile. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.supereduc.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-superintendencia-de-educacion-protocolos-de-actuacion-ante-situaciones-d)
+- Organización Mundial de la Salud. *Orientaciones sobre salud mental en entornos escolares* (edición vigente). **Uso en esta clase:** criterios de detección y derivación desde el rol educativo, con sus límites. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#organizacion-mundial-de-la-salud-orientaciones-sobre-salud-mental-en-entornos) — sin localizador verificado todavía.
+- Perry, B. & Szalavitz, M. (2006). *The Boy Who Was Raised as a Dog*. **Uso en esta clase:** explica cómo la adversidad se expresa en conducta escolar, útil antes de derivar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780465056521](https://openlibrary.org/isbn/9780465056521) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#perry-szalavitz-2006-the-boy-who-was-raised-as)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Crocker, L. & Algina (1986). *Introduction to Classical and Modern Test Theory*. **Uso en esta clase:** tratamiento estándar del análisis de ítems en teoría clásica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Haladyna, T. (2004). *Developing and Validating Multiple-Choice Test Items*. **Uso en esta clase:** conecta construcción y análisis de ítems con criterios prácticos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Crocker, L. & Algina (1986). *Introduction to Classical and Modern Test Theory*. **Uso en esta clase:** tratamiento estándar del análisis de ítems en teoría clásica. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780030616341](https://openlibrary.org/isbn/9780030616341) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#crocker-algina-1986-introduction-to-classical-and-modern-test)
+- Haladyna, T. (2004). *Developing and Validating Multiple-Choice Test Items*. **Uso en esta clase:** conecta construcción y análisis de ítems con criterios prácticos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780429238529](https://openlibrary.org/isbn/9780429238529) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#haladyna-2004-developing-and-validating-multiple-choice-test)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

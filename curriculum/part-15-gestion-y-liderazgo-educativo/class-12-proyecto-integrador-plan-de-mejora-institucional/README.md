@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** método de mejora por ciclos aplicable a la estructura del plan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente). **Uso en esta clase:** marco chileno con sus requisitos formales y su lógica de ciclos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Bryk, A. et al. (2015). *Learning to Improve*. **Uso en esta clase:** método de mejora por ciclos aplicable a la estructura del plan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9781612507910](https://openlibrary.org/isbn/9781612507910) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#bryk-2015-learning-to-improve)
+- Mineduc. *Orientaciones para el Plan de Mejoramiento Educativo* (edición vigente). **Uso en esta clase:** marco chileno con sus requisitos formales y su lógica de ciclos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://liderazgoeducativo.mineduc.cl/orientaciones-pme-2026-2/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-orientaciones-para-el-plan-de-mejoramiento)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

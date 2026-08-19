@@ -334,11 +334,12 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- OCDE. *Engaging Employers in Vocational Education and Training* (edición vigente). **Uso en esta clase:** analiza modelos de participación empresarial y sus condiciones de éxito. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Mineduc. *Orientaciones para la vinculación con el sector productivo en educación técnico-profesional* (edición vigente). **Uso en esta clase:** marco chileno para convenios, prácticas y consejos asesores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Billett, S. (2001). *Learning in the Workplace: Strategies for Effective Practice*. **Uso en esta clase:** describe qué hace que la experiencia laboral enseñe algo y cuándo se vuelve solo mano de obra. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- OCDE. *Engaging Employers in Vocational Education and Training* (edición vigente). **Uso en esta clase:** analiza modelos de participación empresarial y sus condiciones de éxito. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ocde-engaging-employers-in-vocational-education-and) — sin localizador verificado todavía.
+- Mineduc. *Orientaciones para la vinculación con el sector productivo en educación técnico-profesional* (edición vigente). **Uso en esta clase:** marco chileno para convenios, prácticas y consejos asesores. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://www.curriculumnacional.cl/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#mineduc-orientaciones-para-la-vinculacion-con-el)
+- Billett, S. (2001). *Learning in the Workplace: Strategies for Effective Practice*. **Uso en esta clase:** describe qué hace que la experiencia laboral enseñe algo y cuándo se vuelve solo mano de obra. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#billett-2001-learning-in-the-workplace-strategies-for) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

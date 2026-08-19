@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Freinet, C. *Técnicas Freinet de la Escuela Moderna* (edición vigente). **Uso en esta clase:** los dispositivos descritos por su autor, con su lógica de funcionamiento explícita. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Dewey, J. (1916). *Democracy and Education*. **Uso en esta clase:** el fundamento filosófico de la actividad con propósito, que estas técnicas operacionalizan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Freinet, C. *Técnicas Freinet de la Escuela Moderna* (edición vigente). **Uso en esta clase:** los dispositivos descritos por su autor, con su lógica de funcionamiento explícita. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9788432303708](https://openlibrary.org/isbn/9788432303708) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#freinet-tecnicas-freinet-de-la-escuela-moderna)
+- Dewey, J. (1916). *Democracy and Education*. **Uso en esta clase:** el fundamento filosófico de la actividad con propósito, que estas técnicas operacionalizan. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.2307/2178611](https://doi.org/10.2307/2178611) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#dewey-1916-democracy-and-education-2)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

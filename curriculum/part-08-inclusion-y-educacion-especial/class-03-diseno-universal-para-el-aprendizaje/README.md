@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- CAST (2024). *UDL Guidelines*, versión 3.0. **Uso en esta clase:** el marco vigente con sus principios y pautas; consulta la versión actualizada, no resúmenes antiguos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Capp, M. (2017). *The Effectiveness of Universal Design for Learning: A Meta-Analysis*. **Uso en esta clase:** revisa la evidencia disponible y sus limitaciones metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- CAST (2024). *UDL Guidelines*, versión 3.0. **Uso en esta clase:** el marco vigente con sus principios y pautas; consulta la versión actualizada, no resúmenes antiguos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [fuente oficial](https://udlguidelines.cast.org/) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#cast-2024-udl-guidelines)
+- Capp, M. (2017). *The Effectiveness of Universal Design for Learning: A Meta-Analysis*. **Uso en esta clase:** revisa la evidencia disponible y sus limitaciones metodológicas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1080/13603116.2017.1325074](https://doi.org/10.1080/13603116.2017.1325074) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#capp-2017-the-effectiveness-of-universal-design-for)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

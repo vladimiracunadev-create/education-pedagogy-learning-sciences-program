@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Lightbown, P. & Spada, N. *How Languages Are Learned* (edición vigente). **Uso en esta clase:** la síntesis más clara de lo que la investigación sobre adquisición permite afirmar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ellis, R. (2003). *Task-Based Language Learning and Teaching*. **Uso en esta clase:** el enfoque por tareas con sus condiciones de eficacia y sus críticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Lightbown, P. & Spada, N. *How Languages Are Learned* (edición vigente). **Uso en esta clase:** la síntesis más clara de lo que la investigación sobre adquisición permite afirmar. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9783464107362](https://openlibrary.org/isbn/9783464107362) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#lightbown-spada-how-languages-are-learned)
+- Ellis, R. (2003). *Task-Based Language Learning and Teaching*. **Uso en esta clase:** el enfoque por tareas con sus condiciones de eficacia y sus críticas. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ISBN 9780194421591](https://openlibrary.org/isbn/9780194421591) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ellis-2003-task-based-language-learning-and-teaching)
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 

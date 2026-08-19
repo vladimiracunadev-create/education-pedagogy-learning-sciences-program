@@ -333,10 +333,11 @@ norma cambió después de la fecha de esta clase, gana la norma.
 
 ## 📗 Fuentes y verificación
 
-- Orben, A. & Przybylski, A. (2019). *The Association Between Adolescent Well-Being and Digital Technology Use*. **Uso en esta clase:** el análisis que redimensionó los tamaños de efecto reportados en la literatura previa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
-- Ward, A. et al. (2017). *Brain Drain*. **Uso en esta clase:** documenta el costo cognitivo de la mera presencia del dispositivo, sin uso. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Orben, A. & Przybylski, A. (2019). *The Association Between Adolescent Well-Being and Digital Technology Use*. **Uso en esta clase:** el análisis que redimensionó los tamaños de efecto reportados en la literatura previa. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [DOI 10.1038/s41562-018-0506-1](https://doi.org/10.1038/s41562-018-0506-1) · [ficha](../../../docs/REGISTRO_DE_FUENTES.md#orben-przybylski-2019-the-association-between-adolescent-well-being)
+- Ward, A. et al. (2017). *Brain Drain*. **Uso en esta clase:** documenta el costo cognitivo de la mera presencia del dispositivo, sin uso. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas. **Localizar:** [ficha](../../../docs/REGISTRO_DE_FUENTES.md#ward-2017-brain-drain) — sin localizador verificado todavía.
 
-Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
+Catálogo completo: [registro de fuentes con localizador](../../../docs/REGISTRO_DE_FUENTES.md) ·
+[bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
 
