@@ -1,0 +1,7 @@
+# Los generadores y validadores de este repositorio usan solo la biblioteca estándar
+# de Python 3.11+. No hay dependencias obligatorias.
+#
+# Herramientas opcionales de desarrollo:
+#   ruff>=0.4          # estilo del código de scripts/ y tests/
+#
+# El lint de Markdown se ejecuta con npx markdownlint-cli2 (Node), no con pip.

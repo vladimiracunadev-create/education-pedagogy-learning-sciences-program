@@ -1,0 +1,361 @@
+[
+{"n":205,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"qué distingue un tema doctoral de un problema doctoral",
+ "proposito":"Delimitar un problema de investigación de nivel doctoral: no un tema amplio ni una aplicación de lo conocido, sino una tensión no resuelta en el campo que la investigación puede abordar.",
+ "decision":"determinar cuál es la tensión no resuelta que tu investigación abordará y por qué importa al campo",
+ "entregable":"la formulación de un problema doctoral con la tensión identificada, su estado en la literatura y su relevancia",
+ "conceptos":[
+  ["Problema doctoral","tensión, contradicción o vacío no resuelto que la comunidad del campo reconoce como relevante"],
+  ["Tema","área de interés; no constituye por sí sola un problema investigable"],
+  ["Estado del arte","síntesis crítica de lo que el campo sabe, discute y no ha resuelto"],
+  ["Relevancia para el campo","razón por la que la comunidad especializada debería interesarse en la respuesta"]],
+ "desarrollo":"La diferencia entre magíster y doctorado no es de extensión sino de tipo de aporte. En el nivel doctoral no basta con aplicar bien un método a un caso nuevo: hay que identificar algo que el campo no ha resuelto y mostrar por qué importa. Esa identificación exige dominio del estado del arte, y por eso el primer año doctoral es mayormente lectura y no recolección de datos.",
+ "practica":"La formulación del problema se prueba con una conversación: explicarlo en tres minutos a un especialista del campo y observar si reconoce la tensión. Si responde que eso ya está resuelto, o que no ve por qué importa, el problema todavía no está formulado. Esa prueba, repetida con varios interlocutores, ahorra años de trabajo mal dirigido.",
+ "limites":"La delimitación es iterativa y el problema cambia durante el proceso: eso es normal y debe documentarse. Y la relevancia es en parte una convención del campo: lo que una comunidad considera un problema importante puede no serlo para otra. Explicitar la comunidad de referencia forma parte de la formulación.",
+ "errores":[
+  "Confundir un tema amplio con un problema investigable de nivel doctoral.",
+  "Comprometer un problema sin haberlo contrastado con especialistas del campo."],
+ "criterios":[
+  "el problema identifica una tensión no resuelta con evidencia del estado del arte;",
+  "la relevancia está formulada para una comunidad de referencia identificada;"],
+ "preguntas":[
+  "¿Qué no sabe hoy tu campo que tu investigación podría aclarar?",
+  "¿A quién le importaría la respuesta y por qué?",
+  "¿Qué especialista te dijo que esto ya estaba resuelto, y tenía razón?"],
+ "lecturas":[
+  ["Booth, W., Colomb, G. & Williams, J. *The Craft of Research*.","tratamiento de la construcción de problemas y de su justificación."],
+  ["Dunleavy, P. (2003). *Authoring a PhD*.","orientación específica sobre delimitación y estructura del trabajo doctoral."]],
+ "inclusion":"Los problemas que el campo reconoce como importantes reflejan quién ha tenido voz en él. Investigar problemas de contextos poco representados es una contribución legítima y con frecuencia más necesaria que replicar agendas importadas.",
+ "reto":"Explica tu problema en tres minutos a tres especialistas distintos. Registra sus objeciones y reformula hasta que los tres reconozcan la tensión.",
+ "conexion":"Abre la parte 17 y se apoya en las clases 194 y 195."},
+
+{"n":206,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"qué cuenta como contribución al conocimiento en educación, además de datos nuevos",
+ "proposito":"Identificar y defender el tipo de contribución que una investigación produce: teórica, metodológica, empírica o de síntesis, con sus criterios de valoración propios.",
+ "decision":"determinar qué tipo de contribución hará tu investigación y con qué criterio se juzgará",
+ "entregable":"la declaración de contribución de tu investigación con su tipo, su criterio de valoración y su defensa",
+ "conceptos":[
+  ["Contribución teórica","aporte que modifica, refina o refuta una explicación existente"],
+  ["Contribución metodológica","desarrollo o validación de un instrumento, procedimiento o diseño"],
+  ["Contribución empírica","evidencia nueva sobre un fenómeno, población o contexto no estudiado"],
+  ["Contribución de síntesis","integración de evidencia dispersa que reorganiza lo que el campo sabe"]],
+ "desarrollo":"En educación la contribución puede tomar varias formas, y cada una se juzga con criterios distintos. Una contribución empírica se valora por la calidad de la evidencia y por el vacío que llena; una teórica, por su capacidad explicativa y su alcance; una metodológica, por su validación; una de síntesis, por su rigor y por lo que reordena. Declarar el tipo evita que el trabajo se evalúe con criterios que no le corresponden.",
+ "practica":"La defensa de la contribución debe formularse en una frase verificable: «este estudio muestra que X ocurre bajo condiciones Y, lo que el modelo Z no predecía». Esa formulación obliga a precisar y expone de inmediato las contribuciones débiles, que son las que se enuncian en términos generales de aporte al conocimiento del área.",
+ "limites":"La magnitud de la contribución no se decide por autoevaluación: la juzga la comunidad del campo a través de la revisión por pares y del uso posterior del trabajo. Y en investigación aplicada existe una tensión legítima entre contribución al conocimiento y utilidad práctica, que conviene explicitar en vez de resolver por omisión.",
+ "errores":[
+  "Declarar la contribución en términos generales sin especificar qué cambia en el conocimiento del campo.",
+  "Evaluar una contribución metodológica con criterios de contribución empírica, o viceversa."],
+ "criterios":[
+  "la contribución está formulada en una frase verificable y específica;",
+  "declara con qué criterio corresponde juzgarla;"],
+ "preguntas":[
+  "¿Qué sabrá el campo después de tu trabajo que no sabía antes?",
+  "¿Qué explicación existente queda modificada o refutada?",
+  "¿Con qué criterio debe juzgarse tu aporte?"],
+ "lecturas":[
+  ["Whetten, D. (1989). *What Constitutes a Theoretical Contribution?* Academy of Management Review, 14(4).","criterios operativos para juzgar aportes teóricos, aplicables a educación."],
+  ["Dunleavy, P. (2003). *Authoring a PhD*.","orienta la formulación explícita de la contribución en el trabajo doctoral."]],
+ "inclusion":"La evidencia sobre contextos y poblaciones subrepresentadas constituye contribución empírica legítima y necesaria, y con frecuencia se subvalora frente a la replicación de agendas de los centros dominantes del campo.",
+ "reto":"Escribe tu contribución en una frase verificable y sométela a dos especialistas. Reformula hasta que ninguno pueda decir que eso ya se sabía.",
+ "conexion":"Se apoya en la clase 205 y orienta el diseño de las clases 207 a 210."},
+
+{"n":207,"evidencia":"ROBUSTA",
+ "foco":"qué diseños permiten responder preguntas que los diseños básicos no alcanzan",
+ "proposito":"Seleccionar diseños avanzados —longitudinales, con series temporales, con variables instrumentales, con emparejamiento— según la estructura del problema y los datos disponibles.",
+ "decision":"determinar qué diseño avanzado corresponde a la estructura real de tu problema y de tus datos",
+ "entregable":"la justificación de un diseño avanzado con sus supuestos, sus amenazas y su plan de análisis",
+ "conceptos":[
+  ["Diseño longitudinal","medición repetida de los mismos sujetos que permite estudiar trayectorias y cambio"],
+  ["Emparejamiento","procedimiento que construye grupos comparables a partir de características observadas"],
+  ["Discontinuidad en la regresión","diseño que aprovecha un punto de corte administrativo para estimar efectos"],
+  ["Supuesto de identificación","condición que debe cumplirse para que el diseño permita la inferencia causal declarada"]],
+ "desarrollo":"Los diseños avanzados no son técnicas más sofisticadas por sí mismas: son estrategias para identificar efectos cuando la aleatorización no es posible. Cada uno descansa en supuestos de identificación que deben declararse y, cuando es posible, someterse a prueba. Un diseño avanzado con supuestos incumplidos produce estimaciones precisas de algo que no es el efecto buscado.",
+ "practica":"La elección parte de la estructura del problema y de los datos existentes: si hay un punto de corte administrativo, si hay mediciones repetidas, si hay una fuente de variación exógena. En educación, los datos administrativos ofrecen oportunidades reales para estos diseños, y su uso exige tanto competencia técnica como resguardo de los datos.",
+ "limites":"Estos diseños exigen competencia estadística específica y, en muchos casos, colaboración con especialistas. Además, sus supuestos son fuertes y en ocasiones no verificables: la honestidad consiste en declararlos y en analizar la sensibilidad de los resultados a su incumplimiento.",
+ "errores":[
+  "Aplicar un diseño avanzado sin declarar ni examinar sus supuestos de identificación.",
+  "Presentar la sofisticación técnica como sustituto de la validez del constructo medido."],
+ "criterios":[
+  "los supuestos de identificación están declarados y, cuando es posible, examinados;",
+  "el plan de análisis incluye pruebas de sensibilidad a los supuestos clave;"],
+ "preguntas":[
+  "¿Qué supuesto debe cumplirse para que tu estimación signifique lo que dices?",
+  "¿Qué ocurre con tus conclusiones si ese supuesto falla parcialmente?",
+  "¿Necesitas colaborar con un especialista en este diseño?"],
+ "lecturas":[
+  ["Angrist, J. & Pischke, J.-S. (2009). *Mostly Harmless Econometrics*.","tratamiento accesible de diseños de identificación causal aplicables a datos educativos."],
+  ["Murnane, R. & Willett, J. (2011). *Methods Matter*.","aplica estos diseños específicamente a preguntas de investigación educativa."]],
+ "inclusion":"Los diseños basados en datos administrativos suelen subrepresentar a estudiantes con trayectorias interrumpidas, que son quienes desaparecen de los registros. Analizar quién falta es parte del análisis, no una limitación menor.",
+ "reto":"Escoge un diseño avanzado para tu pregunta y escribe sus supuestos. Diseña una prueba de sensibilidad para el supuesto más frágil.",
+ "conexion":"Profundiza la clase 197 y se complementa con la clase 208."},
+
+{"n":208,"evidencia":"ROBUSTA",
+ "foco":"por qué analizar estudiantes como si fueran independientes infla la significación de los resultados",
+ "proposito":"Aplicar modelos multinivel y longitudinales cuando la estructura de los datos lo exige: estudiantes anidados en cursos, cursos en escuelas, y mediciones repetidas dentro de personas.",
+ "decision":"determinar qué estructura tienen tus datos y qué modelo corresponde a esa estructura",
+ "entregable":"un plan de análisis multinivel o longitudinal con la estructura de los datos declarada y sus implicancias",
+ "conceptos":[
+  ["Estructura anidada","organización jerárquica de los datos: estudiantes en cursos, cursos en establecimientos"],
+  ["Correlación intraclase","proporción de la varianza atribuible al nivel superior; justifica el modelo multinivel"],
+  ["Efecto fijo y aleatorio","componentes del modelo que capturan relaciones promedio y variación entre unidades"],
+  ["Medidas repetidas","observaciones sucesivas del mismo sujeto, que permiten modelar trayectorias individuales"]],
+ "desarrollo":"En educación, los datos casi siempre están anidados: los estudiantes de un mismo curso se parecen más entre sí que estudiantes de cursos distintos, porque comparten docente, contexto y selección. Analizarlos como observaciones independientes subestima los errores estándar e infla la significación, produciendo hallazgos que no se replican. Es uno de los errores técnicos más frecuentes en tesis educativas.",
+ "practica":"El punto de partida es declarar la estructura y estimar cuánta varianza corresponde a cada nivel. A partir de ahí, el modelo multinivel permite estimar efectos a nivel de estudiante, de curso y de establecimiento, y examinar si un efecto varía entre unidades, que suele ser la pregunta más interesante. En datos longitudinales, el mismo enfoque modela trayectorias individuales.",
+ "limites":"Los modelos multinivel exigen un número suficiente de unidades de nivel superior: con pocos establecimientos, las estimaciones de ese nivel son inestables. Y su complejidad puede exceder la pregunta: cuando el interés es descriptivo, un modelo más simple bien interpretado comunica mejor.",
+ "errores":[
+  "Analizar datos anidados con métodos que suponen independencia.",
+  "Estimar efectos de nivel superior con muy pocas unidades en ese nivel."],
+ "criterios":[
+  "la estructura de los datos está declarada con su correlación intraclase estimada;",
+  "el modelo corresponde a la estructura y su complejidad se justifica por la pregunta;"],
+ "preguntas":[
+  "¿Cuántas unidades tienes en cada nivel de tu estructura?",
+  "¿Qué proporción de la varianza está en el nivel del curso o del establecimiento?",
+  "¿Tu pregunta es sobre el promedio o sobre la variación entre unidades?"],
+ "lecturas":[
+  ["Raudenbush, S. & Bryk, A. (2002). *Hierarchical Linear Models*.","la referencia sobre modelos multinivel y su aplicación en educación."],
+  ["Singer, J. & Willett, J. (2003). *Applied Longitudinal Data Analysis*.","tratamiento accesible del modelado de trayectorias y de eventos."]],
+ "inclusion":"Los modelos multinivel permiten estimar si un efecto beneficia por igual a distintos grupos y contextos. Reportar esa heterogeneidad es lo que impide que una política basada en un efecto promedio perjudique a quienes ya están peor.",
+ "reto":"Estima la correlación intraclase de un conjunto de datos educativos reales y compara las conclusiones de un análisis que ignora la estructura con uno que la modela.",
+ "conexion":"Se apoya en la clase 201 y es condición técnica de muchas preguntas de la clase 207."},
+
+{"n":209,"evidencia":"ROBUSTA",
+ "foco":"cómo se integra evidencia dispersa sin promediar estudios que no son comparables",
+ "proposito":"Realizar y juzgar revisiones sistemáticas y metaanálisis: protocolo previo, búsqueda exhaustiva, evaluación de calidad, síntesis cuantitativa y análisis de heterogeneidad y sesgo.",
+ "decision":"determinar si tu pregunta admite síntesis cuantitativa y qué estudios son legítimamente combinables",
+ "entregable":"un protocolo de revisión sistemática con criterios, estrategia de búsqueda y plan de síntesis y de análisis de sesgo",
+ "conceptos":[
+  ["Revisión sistemática","síntesis con protocolo previo, búsqueda exhaustiva y criterios explícitos de inclusión"],
+  ["Metaanálisis","síntesis cuantitativa que combina tamaños de efecto de estudios comparables"],
+  ["Heterogeneidad","variación entre estudios que no se explica por el azar; puede invalidar el promedio"],
+  ["Sesgo de publicación","sobrerrepresentación de resultados positivos en la literatura publicada"]],
+ "desarrollo":"Un metaanálisis mal hecho es más peligroso que ningún metaanálisis, porque presenta con apariencia de precisión el promedio de estudios que no debían promediarse. Las condiciones son exigentes: protocolo previo, búsqueda exhaustiva incluida la literatura no publicada, evaluación de calidad de cada estudio, y análisis explícito de heterogeneidad y de sesgo de publicación.",
+ "practica":"El protocolo se registra antes de empezar, con criterios de inclusión, variables de interés y plan de análisis. Y la heterogeneidad no es un inconveniente: es información. Cuando los estudios difieren sistemáticamente, la pregunta interesante deja de ser cuál es el efecto promedio y pasa a ser bajo qué condiciones el efecto es mayor o menor.",
+ "limites":"En educación la heterogeneidad suele ser alta porque las intervenciones, los contextos y las medidas difieren. Además, las síntesis que promedian estudios de calidad muy dispar producen estimaciones infladas. Las síntesis más citadas del campo han sido criticadas precisamente por combinar lo incombinable.",
+ "errores":[
+  "Combinar estudios con diseños, medidas y poblaciones no comparables.",
+  "Reportar un efecto promedio sin analizar heterogeneidad ni sesgo de publicación."],
+ "criterios":[
+  "el protocolo se define antes de la búsqueda y declara criterios de inclusión y de calidad;",
+  "el plan incluye análisis de heterogeneidad y evaluación de sesgo de publicación;"],
+ "preguntas":[
+  "¿Son estos estudios legítimamente combinables?",
+  "¿Qué explica la variación entre sus resultados?",
+  "¿Cuánta literatura con resultados nulos podría estar faltando?"],
+ "lecturas":[
+  ["Cooper, H., Hedges, L. & Valentine, J. (eds.) (2019). *The Handbook of Research Synthesis and Meta-Analysis*.","el manual estándar para producir y juzgar síntesis cuantitativas."],
+  ["Page, M. et al. (2021). *The PRISMA 2020 Statement*.","estándar de reporte de revisiones sistemáticas; úsalo como lista de verificación."]],
+ "inclusion":"La literatura sintetizada suele provenir de unos pocos países y sistemas. Declarar la procedencia de los estudios y analizar si el efecto varía por contexto evita aplicar conclusiones ajenas a realidades distintas.",
+ "reto":"Escribe el protocolo de una revisión sistemática sobre tu problema y ejecútalo parcialmente. Documenta la heterogeneidad que encuentres.",
+ "conexion":"Profundiza la clase 195 y aporta el criterio de lectura crítica que exige toda la parte 17."},
+
+{"n":210,"evidencia":"EMERGENTE",
+ "foco":"cómo producir a la vez una intervención que funcione y una teoría que explique por qué",
+ "proposito":"Diseñar investigación basada en diseño: ciclos iterativos de desarrollo e implementación en contextos reales que producen simultáneamente una intervención y conocimiento teórico.",
+ "decision":"determinar qué principios de diseño quieres poner a prueba y cómo documentarás su refinamiento",
+ "entregable":"un plan de investigación basada en diseño con ciclos, principios de diseño y sistema de documentación",
+ "conceptos":[
+  ["Investigación basada en diseño","metodología que desarrolla y estudia intervenciones en contextos reales mediante ciclos iterativos"],
+  ["Principio de diseño","afirmación transferible sobre qué funciona, para quién y bajo qué condiciones"],
+  ["Ciclo iterativo","secuencia de diseño, implementación, análisis y rediseño"],
+  ["Conjetura de diseño","hipótesis sobre cómo un componente de la intervención produciría el aprendizaje buscado"]],
+ "desarrollo":"La investigación basada en diseño responde a un problema real del campo: los experimentos controlados dicen si algo funcionó en promedio y no explican por qué ni cómo adaptarlo. Esta metodología desarrolla la intervención en el contexto real, documenta las decisiones y sus efectos, y produce principios de diseño transferibles que otros pueden usar y poner a prueba.",
+ "practica":"El trabajo exige documentar sistemáticamente: qué se diseñó, con qué conjetura, qué ocurrió, qué se cambió y por qué. Esa documentación es el dato de la investigación y no una bitácora administrativa. Sin ella, el resultado es una intervención mejorada sin conocimiento transferible, que es lo que suele ocurrir en los proyectos de innovación.",
+ "limites":"La metodología tiene una debilidad reconocida: la cercanía entre quien diseña y quien evalúa dificulta la crítica y facilita la interpretación favorable. Los resguardos incluyen documentación previa de las conjeturas, participación de observadores externos y reporte explícito de lo que no funcionó, que es lo que casi nunca se publica.",
+ "errores":[
+  "Documentar solo lo que funcionó y presentar la intervención final sin sus fracasos intermedios.",
+  "Producir una intervención mejorada sin extraer principios de diseño transferibles."],
+ "criterios":[
+  "las conjeturas de diseño están documentadas antes de cada ciclo;",
+  "el reporte incluye lo que no funcionó y qué se aprendió de ello;"],
+ "preguntas":[
+  "¿Qué conjetura estás poniendo a prueba en este ciclo?",
+  "¿Qué principio transferible produjo tu trabajo, más allá de la intervención?",
+  "¿Quién revisa críticamente tus interpretaciones si tú también diseñaste?"],
+ "lecturas":[
+  ["Design-Based Research Collective (2003). *Design-Based Research*. Educational Researcher, 32(1).","define el paradigma, sus criterios y sus tensiones metodológicas."],
+  ["Anderson, T. & Shattuck, J. (2012). *Design-Based Research: A Decade of Progress in Education Research?*","balance crítico de sus logros y de sus debilidades."]],
+ "inclusion":"El diseño en contextos reales permite trabajar con las condiciones y las poblaciones que los estudios controlados excluyen. Aprovechar esa ventaja exige incluir deliberadamente los casos más difíciles y no solo los que facilitan el resultado.",
+ "reto":"Documenta un ciclo completo con sus conjeturas previas. Escribe el principio de diseño que se puede derivar y somételo a crítica externa.",
+ "conexion":"Combina las partes 10 y 16 en una metodología propia y alimenta el proyecto de la clase 216."},
+
+{"n":211,"evidencia":"EMERGENTE",
+ "foco":"qué preguntas de investigación permiten responder los datos digitales de aprendizaje y cuáles no",
+ "proposito":"Usar analítica de aprendizaje avanzada como método de investigación: modelamiento de trayectorias, detección de patrones y predicción, con sus límites técnicos y éticos.",
+ "decision":"determinar qué pregunta de investigación justifica el uso de datos digitales masivos y qué resguardos exige",
+ "entregable":"un diseño de investigación con datos de aprendizaje, con su modelo, sus límites y su protocolo ético",
+ "conceptos":[
+  ["Traza de interacción","registro automático de la actividad del estudiante en un entorno digital"],
+  ["Modelo predictivo","función que estima un resultado a partir de variables observadas; predice, no explica"],
+  ["Validación externa","comprobación del modelo en datos distintos de aquellos con los que se construyó"],
+  ["Deriva del modelo","pérdida de desempeño cuando cambian la población o las condiciones"]],
+ "desarrollo":"Los datos de interacción permiten estudiar procesos que antes eran invisibles: cuándo se abandona una tarea, qué secuencias preceden al error, cómo se distribuye el estudio en el tiempo. Su límite es conocido: predicen sin explicar, y su desempeño se degrada cuando cambia el contexto. Un modelo que predice bien la deserción en una cohorte puede fallar en la siguiente sin que nadie lo note.",
+ "practica":"El diseño exige validación externa y monitoreo de la deriva, además de un protocolo ético estricto: los estudiantes deben saber qué se recoge, para qué y con qué resguardos. Y toda predicción sobre personas debe conectarse con apoyo y no con clasificación: un modelo que identifica riesgo sin protocolo de intervención solo produce etiquetas.",
+ "limites":"El campo tiene un problema de replicación y de generalización: muchos modelos publicados no se validan fuera de su contexto original. Y la abundancia de datos de proceso no compensa la ausencia de medidas de aprendizaje: la traza registra actividad, no comprensión.",
+ "errores":[
+  "Reportar desempeño predictivo sin validación en datos externos.",
+  "Construir modelos de riesgo sin protocolo de intervención asociado."],
+ "criterios":[
+  "el diseño incluye validación externa y monitoreo de deriva;",
+  "el protocolo ético declara información a los estudiantes, resguardos y uso previsto;"],
+ "preguntas":[
+  "¿Tu modelo predice o explica?",
+  "¿Con qué datos externos lo validaste?",
+  "¿Qué ocurre con el estudiante que tu modelo marca como en riesgo?"],
+ "lecturas":[
+  ["Baker, R. & Inventado, P. *Educational Data Mining and Learning Analytics*.","panorama de métodos y de sus aplicaciones en investigación educativa."],
+  ["Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*.","marco ético para investigación con datos de estudiantes."]],
+ "inclusion":"Los modelos entrenados con datos históricos reproducen las desigualdades contenidas en ellos y suelen funcionar peor con los grupos menos representados. Reportar desempeño por subgrupo es una exigencia técnica y ética.",
+ "reto":"Construye o evalúa un modelo predictivo y reporta su desempeño por subgrupo. Documenta con qué grupo funciona peor y qué implicancias tiene.",
+ "conexion":"Profundiza la clase 161 y se rige por la ética de la clase 203."},
+
+{"n":212,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"por qué un buen trabajo mal escrito no se publica y qué se puede hacer al respecto",
+ "proposito":"Escribir textos científicos claros y estructurados: argumento central explícito, estructura convencional del campo, precisión en las afirmaciones y economía de lenguaje.",
+ "decision":"determinar cuál es el argumento central de tu texto y qué sobra en él",
+ "entregable":"un manuscrito estructurado con argumento explícito, sometido a revisión de pares y corregido",
+ "conceptos":[
+  ["Argumento central","afirmación principal que el texto sostiene, formulable en una frase"],
+  ["Estructura convencional","organización esperada por el campo, que facilita la lectura y la revisión"],
+  ["Precisión","correspondencia exacta entre lo que se afirma y lo que la evidencia sostiene"],
+  ["Revisión entre pares previa","lectura crítica de colegas antes de someter el manuscrito"]],
+ "desarrollo":"La escritura científica no es un adorno del trabajo: es la forma en que el conocimiento se hace público y verificable. Un texto sin argumento central explícito obliga al lector a reconstruirlo, y la mayoría no lo hará. La estructura convencional del campo —introducción, método, resultados, discusión— no es una camisa de fuerza: es un protocolo que permite al lector encontrar rápido lo que necesita para juzgar.",
+ "practica":"La disciplina más útil es escribir el argumento central en una frase antes de redactar, y comprobar al final que cada sección lo sostiene. Y la precisión exige revisar cada afirmación contra la evidencia: las palabras «demuestra», «prueba» y «confirma» rara vez son correctas; «sugiere», «es consistente con» y «no permite descartar» suelen serlo.",
+ "limites":"Las convenciones varían por disciplina y por revista, y la escritura académica en un idioma no materno impone una carga adicional real que los procesos de revisión no siempre reconocen. Buscar apoyo de edición no es una debilidad sino una práctica profesional habitual.",
+ "errores":[
+  "Escribir sin haber formulado el argumento central en una frase.",
+  "Usar verbos de certeza —demuestra, prueba— donde la evidencia solo sugiere."],
+ "criterios":[
+  "el argumento central está formulado explícitamente y cada sección lo sostiene;",
+  "cada afirmación usa el verbo que corresponde a la fuerza real de la evidencia;"],
+ "preguntas":[
+  "¿Cuál es tu argumento central, en una frase?",
+  "¿Qué párrafo de tu texto no aporta a ese argumento?",
+  "¿Qué afirmación tuya usa un verbo más fuerte que tu evidencia?"],
+ "lecturas":[
+  ["Sword, H. (2012). *Stylish Academic Writing*.","evidencia sobre qué hace legible un texto académico y cómo escribirlo."],
+  ["Booth, W., Colomb, G. & Williams, J. *The Craft of Research*.","tratamiento de la argumentación y de la relación entre afirmación y evidencia."]],
+ "inclusion":"La escritura académica es un código que se aprende, no un talento. Enseñarlo explícitamente reduce la desventaja de quienes no lo adquirieron en su entorno familiar o académico previo.",
+ "reto":"Escribe tu manuscrito, formula el argumento central y pide a dos colegas que lo identifiquen leyendo solo el texto. Corrige si no coinciden.",
+ "conexion":"Prepara la clase 213 y aplica el criterio de precisión de toda la parte 16."},
+
+{"n":213,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"cómo funciona realmente la revisión por pares y qué hacer con un rechazo",
+ "proposito":"Comprender el proceso de publicación científica: selección de revista, proceso de revisión, respuesta a revisores, y criterios éticos de autoría y de difusión.",
+ "decision":"determinar a qué revista corresponde tu trabajo y cómo responderás a la revisión",
+ "entregable":"una carta de respuesta a revisores de un manuscrito propio, con las correcciones y las réplicas fundamentadas",
+ "conceptos":[
+  ["Revisión por pares","evaluación del manuscrito por especialistas del campo antes de su publicación"],
+  ["Ajuste a la revista","correspondencia entre el trabajo y el alcance, la audiencia y el formato de la publicación"],
+  ["Carta de respuesta","documento que responde punto por punto a cada observación de los revisores"],
+  ["Autoría","reconocimiento de quienes contribuyeron sustantivamente, con criterios explícitos"]],
+ "desarrollo":"La revisión por pares es imperfecta y sigue siendo el mejor mecanismo disponible de control de calidad. Entender su funcionamiento reduce la frustración: los rechazos son frecuentes incluso para trabajos sólidos, y la mayoría se debe a ajuste con la revista o a problemas de claridad antes que a errores metodológicos. La carta de respuesta es un género propio: se responde a todo, se corrige lo que corresponde y se replica con fundamento lo que no.",
+ "practica":"La selección de revista debe hacerse antes de escribir la versión final, porque determina formato, extensión y audiencia. Y la ética de la autoría exige criterios explícitos: quién contribuyó sustantivamente, en qué orden y por qué. Los conflictos de autoría son frecuentes y casi siempre se originan en acuerdos no explicitados al inicio.",
+ "limites":"El sistema de publicación tiene problemas conocidos: sesgo hacia resultados positivos, lentitud, desigualdad de acceso para investigadores de países con menos recursos, y proliferación de editoriales predatorias. Conocer esos problemas es parte de la formación doctoral, y también los criterios para distinguir una revista legítima de una que solo cobra por publicar.",
+ "errores":[
+  "Someter un manuscrito sin verificar el ajuste con el alcance de la revista.",
+  "Responder a los revisores de forma defensiva en lugar de punto por punto y con fundamento."],
+ "criterios":[
+  "la carta responde a cada observación, con corrección o con réplica fundamentada;",
+  "los criterios de autoría fueron acordados y documentados al inicio del trabajo;"],
+ "preguntas":[
+  "¿Por qué esta revista y no otra?",
+  "¿Qué observación del revisor tiene razón aunque te incomode?",
+  "¿Quién es autor de tu trabajo y con qué criterio lo decidiste?"],
+ "lecturas":[
+  ["Committee on Publication Ethics (COPE). *Guidelines*.","estándares sobre autoría, conflictos y mala conducta en publicación científica."],
+  ["Declaration on Research Assessment (DORA).","posición sobre el uso responsable de métricas en la evaluación de la investigación."]],
+ "inclusion":"Los investigadores que escriben en un idioma no materno y los de instituciones con menos recursos enfrentan barreras adicionales en la publicación. Conocerlas permite anticiparlas y buscar apoyos, y también cuestionarlas como problema del sistema.",
+ "reto":"Somete un manuscrito o simula el proceso con dos colegas como revisores. Redacta la carta de respuesta punto por punto.",
+ "conexion":"Cierra el ciclo de la clase 212 y prepara la evaluación de trabajos de otros en la clase 214."},
+
+{"n":214,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"cómo se dirige una tesis sin escribirla y cómo se evalúa sin arbitrariedad",
+ "proposito":"Ejercer dirección y evaluación de tesis con estructura: acuerdos explícitos, retroalimentación sobre el texto, criterios de evaluación conocidos y decisiones fundamentadas.",
+ "decision":"determinar los criterios con que evaluarás una tesis y cómo los comunicarás antes de que se escriba",
+ "entregable":"un protocolo de dirección y una pauta de evaluación de tesis con criterios explícitos y ejemplos",
+ "conceptos":[
+  ["Dirección de tesis","acompañamiento del proceso investigativo con traspaso progresivo de autonomía"],
+  ["Criterio de evaluación","estándar explícito con que se juzga el trabajo, conocido antes de su elaboración"],
+  ["Retroalimentación sobre el texto","comentario que permite al estudiante corregir, distinto de la reescritura por el director"],
+  ["Decisión fundamentada","juicio evaluativo justificado con referencia a criterios y a evidencia del trabajo"]],
+ "desarrollo":"Dirigir tesis mal produce dos resultados igualmente malos: trabajos escritos por el director y estudiantes abandonados a su suerte. El equilibrio se sostiene con acuerdos explícitos y con traspaso progresivo de autonomía. Y la evaluación exige criterios públicos: cuando el estándar se descubre en la defensa, la evaluación se percibe —con razón— como arbitraria.",
+ "practica":"El protocolo de dirección define frecuencia, formato de entregas, plazos de respuesta y etapas de autonomía. La pauta de evaluación se entrega al inicio y describe qué se espera en cada criterio, con ejemplos de niveles. Y la evaluación misma debe fundamentarse por escrito, especialmente cuando es negativa: es la única forma de que el estudiante pueda corregir o apelar.",
+ "limites":"No hay evidencia experimental sobre modelos de dirección: es conocimiento profesional con variación disciplinar y cultural fuerte. Lo que sí está documentado es que la calidad de la supervisión predice la finalización y la experiencia del estudiante mejor que casi cualquier otra variable institucional.",
+ "errores":[
+  "Reescribir el texto del estudiante en vez de retroalimentarlo para que lo corrija.",
+  "Evaluar con criterios que el estudiante no conoció antes de escribir."],
+ "criterios":[
+  "la pauta de evaluación se entrega al inicio y describe niveles con ejemplos;",
+  "las decisiones evaluativas se fundamentan por escrito con referencia a los criterios;"],
+ "preguntas":[
+  "¿Conoce tu estudiante los criterios con que será evaluado?",
+  "¿Cuánto de su texto escribiste tú?",
+  "¿Podrías fundamentar por escrito tu evaluación ante una apelación?"],
+ "lecturas":[
+  ["Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*.","modelo de supervisión con acuerdos, etapas y criterios."],
+  ["Committee on Publication Ethics (COPE). *Guidelines*.","criterios sobre autoría y contribución aplicables también a la relación de dirección."]],
+ "inclusion":"Los estudiantes sin capital académico familiar desconocen las reglas implícitas del posgrado. Explicitar criterios y procedimientos es la intervención más directa de equidad disponible en este nivel.",
+ "reto":"Construye tu pauta de evaluación y entrégala a un estudiante al inicio de su trabajo. Evalúa con ella y contrasta tu juicio con el de un par.",
+ "conexion":"Aplica la clase 179 al nivel doctoral y se conecta con la clase 213 en la evaluación entre pares."},
+
+{"n":215,"evidencia":"ROBUSTA",
+ "foco":"qué caracteriza al desarrollo profesional docente que efectivamente cambia la práctica",
+ "proposito":"Diseñar formación de docentes basada en la evidencia sobre desarrollo profesional efectivo: foco en contenido, duración sostenida, práctica con retroalimentación y acompañamiento en el puesto.",
+ "decision":"determinar qué diseño de formación docente producirá cambio en la práctica y no solo satisfacción",
+ "entregable":"el diseño de un programa de formación docente con las características asociadas a efectividad y su evaluación",
+ "conceptos":[
+  ["Desarrollo profesional efectivo","formación docente asociada a cambio en la práctica y en el aprendizaje de los estudiantes"],
+  ["Foco en el contenido","centralidad de la disciplina y de su didáctica específica, más allá de técnicas generales"],
+  ["Duración sostenida","extensión en el tiempo con múltiples instancias, en vez de talleres aislados"],
+  ["Acompañamiento en el puesto","apoyo en el aula real, donde el cambio de práctica efectivamente ocurre"]],
+ "desarrollo":"La evidencia sobre desarrollo profesional docente es clara en lo que no funciona: talleres aislados, sin seguimiento y sobre técnicas generales desconectadas del contenido. Y razonablemente clara en lo que sí: foco en el contenido específico y su didáctica, duración sostenida, oportunidades de práctica con retroalimentación, colaboración entre docentes y acompañamiento en el aula. Ese conjunto es más caro y más lento que un taller, y es la diferencia entre cambiar la práctica y llenar un registro de capacitación.",
+ "practica":"El diseño debe declarar cómo cumple cada característica y cómo evaluará el cambio en la práctica, no solo la satisfacción ni el conocimiento declarado. La observación de aula antes y después, con un instrumento acotado, es el mínimo defendible. Y el acompañamiento en el puesto suele ser el componente que más se recorta por costo, siendo el más determinante.",
+ "limites":"La evidencia proviene mayormente de programas bien financiados y bien implementados, y los efectos caen al escalar. Además, ningún programa de formación compensa condiciones institucionales que impiden aplicar lo aprendido: sin tiempo, sin materiales y sin respaldo directivo, el cambio no se sostiene.",
+ "errores":[
+  "Diseñar formación en formato de taller aislado y esperar cambio en la práctica.",
+  "Evaluar el programa con encuestas de satisfacción y conocimiento declarado."],
+ "criterios":[
+  "el diseño declara cómo cumple foco en contenido, duración, práctica y acompañamiento;",
+  "la evaluación observa cambio en la práctica de aula y no solo satisfacción;"],
+ "preguntas":[
+  "¿Qué hará distinto el docente en su aula después de tu programa?",
+  "¿Cuánto acompañamiento en el puesto contempla tu diseño?",
+  "¿Qué condición institucional impedirá aplicar lo aprendido?"],
+ "lecturas":[
+  ["Darling-Hammond, L. et al. (2017). *Effective Teacher Professional Development*. Learning Policy Institute.","sintetiza las características asociadas a programas que cambian la práctica."],
+  ["Desimone, L. (2009). *Improving Impact Studies of Teachers' Professional Development*.","propone un marco conceptual y de medición para evaluar estos programas."]],
+ "inclusion":"La formación docente debe llegar también a quienes trabajan en contextos más difíciles y con menos tiempo disponible, que suelen ser los que menos acceden. Diseñar para esas condiciones es una decisión de equidad del sistema.",
+ "reto":"Diseña un programa con acompañamiento en el puesto y evalúa el cambio de práctica con observación antes y después.",
+ "conexion":"Integra las partes 10, 14 y 15 y es el fundamento del proyecto de la clase 216."},
+
+{"n":216,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"cómo se construye una propuesta doctoral que resista la crítica de una comisión que conoce el campo",
+ "proposito":"Integrar el programa completo en una propuesta doctoral defendible: problema, contribución, marco, diseño, plan de análisis, ética, factibilidad y cronograma, con sus límites declarados.",
+ "decision":"determinar el conjunto completo de decisiones de tu propuesta y su defensa ante la objeción más fuerte",
+ "entregable":"una propuesta doctoral completa con problema, contribución, diseño, ética, factibilidad y defensa de sus objeciones",
+ "conceptos":[
+  ["Propuesta doctoral","documento que compromete un problema, un diseño y un plan verificable de ejecución"],
+  ["Factibilidad","posibilidad real de ejecutar la investigación con el acceso, el tiempo y los recursos disponibles"],
+  ["Objeción anticipada","crítica previsible que la propuesta responde antes de que se formule"],
+  ["Defensa","argumentación fundamentada de las decisiones ante una comisión especializada"]],
+ "desarrollo":"El proyecto que cierra el programa exige articular todo lo trabajado: un problema que el campo reconozca, una contribución formulada con precisión, un diseño coherente con la pregunta, un plan de análisis que corresponda a los datos, resguardos éticos completos y un cronograma que alguien con experiencia considere realista. La factibilidad es donde más propuestas fallan, y es la parte que las comisiones examinan con más dureza.",
+ "practica":"La preparación de la defensa consiste en anticipar objeciones: escribir las tres críticas más fuertes que un especialista podría hacer y responderlas por escrito. Si alguna no tiene respuesta, la propuesta debe cambiar antes de la defensa y no después. Ese ejercicio es también el mejor filtro de calidad disponible antes de comprometer años de trabajo.",
+ "limites":"Una propuesta es un compromiso provisional: los diseños se ajustan, el acceso cambia y los hallazgos redirigen el trabajo. Lo que se evalúa no es la certeza sino la calidad del razonamiento y la honestidad sobre lo que se sabe y lo que no. Presentar certezas donde hay supuestos es el error que más rápido detecta una comisión.",
+ "errores":[
+  "Comprometer un cronograma que no considera los tiempos reales de acceso, permisos y análisis.",
+  "Presentar la propuesta sin haber anticipado ni respondido las objeciones más fuertes."],
+ "criterios":[
+  "la propuesta responde por escrito a las tres objeciones más fuertes previsibles;",
+  "el cronograma y la factibilidad fueron revisados por alguien con experiencia en el campo;"],
+ "preguntas":[
+  "¿Cuál es la crítica más fuerte que te pueden hacer, y qué respondes?",
+  "¿Qué parte de tu cronograma no resiste un imprevisto de tres meses?",
+  "¿Qué harías si el acceso al campo se cae?"],
+ "lecturas":[
+  ["Dunleavy, P. (2003). *Authoring a PhD*.","estructura y estrategia del trabajo doctoral, incluida la propuesta."],
+  ["Booth, W., Colomb, G. & Williams, J. *The Craft of Research*.","argumentación y anticipación de objeciones aplicadas a la propuesta de investigación."]],
+ "inclusion":"Una propuesta seria declara a quiénes incluye y a quiénes deja fuera, y qué consecuencias tiene esa decisión para el alcance de sus conclusiones y para las personas que representa.",
+ "reto":"Defiende tu propuesta ante tres colegas con instrucción de objetarla duramente. Corrige cada punto donde no pudiste responder con fundamento.",
+ "conexion":"Cierra el programa completo. Integra las partes 16 y 17 y se apoya en las competencias construidas desde la parte 00."}
+]

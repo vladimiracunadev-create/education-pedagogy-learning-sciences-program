@@ -1,0 +1,320 @@
+[
+{
+  "part": 0,
+  "titulo": "Fundamentos de la educación",
+  "lema": "Antes de preguntar cómo enseñar, saber qué se hace cuando se educa",
+  "etapa": "A",
+  "poblacion": "transversal a todo el sistema educativo",
+  "contenido_central": "Educación y pedagogía, historia, filosofía, ética profesional, derecho a la educación, sistemas comparados, calidad y equidad",
+  "resumen": [
+    "Casi todos los conflictos pedagógicos que parecen técnicos son, en el fondo, desacuerdos sobre para qué sirve la escuela. Dos docentes que discuten sobre si conviene poner nota a un trabajo grupal rara vez discrepan sobre psicometría: discrepan sobre si la evaluación existe para certificar, para enseñar o para ordenar socialmente a las personas. Esta parte pone ese desacuerdo sobre la mesa antes de que aparezca disfrazado de discusión de reglamento.",
+    "La segunda razón para empezar aquí es defensiva. La educación es un campo saturado de modas: cada década trae un método que promete resolverlo todo y que desaparece sin dejar evidencia. Quien conoce la historia del campo reconoce el patrón —la escuela nueva, la enseñanza programada, las inteligencias múltiples, la gamificación total— y deja de comprar la promesa sin pedir el dato. Conocer la historia no es erudición: es una vacuna contra el entusiasmo sin evidencia.",
+    "La tercera razón es jurídica y ética. Enseñar es ejercer poder sobre personas que muchas veces no eligieron estar ahí, y ese poder está regulado por un derecho —el derecho a la educación— y por una ética profesional que no es opcional. Un docente que no distingue entre lo que puede decidir, lo que debe consultar y lo que le está prohibido, tarde o temprano toma una decisión que perjudica a un estudiante creyendo que lo ayuda."
+  ],
+  "resultados": [
+    "Distinguir educación, pedagogía, enseñanza y aprendizaje, y usar cada término donde corresponde",
+    "Situar una práctica pedagógica actual en la tradición histórica y filosófica de la que proviene",
+    "Identificar el marco de derechos y deberes que enmarca cualquier decisión docente en Chile",
+    "Argumentar qué entiende por calidad y por equidad un sistema educativo concreto, y con qué indicadores lo mide"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    F[\"Para que educamos<br/>fines y valores\"] --> H[\"Historia<br/>de donde viene la practica\"]\n    F --> FIL[\"Filosofia<br/>que justifica la decision\"]\n    H --> S[\"Sistema educativo<br/>estructura y gobierno\"]\n    FIL --> E[\"Etica profesional<br/>limites del rol docente\"]\n    S --> D[\"Derecho a la educacion<br/>garantias exigibles\"]\n    E --> D\n    D --> C{{\"Calidad y equidad<br/>que se mide y que se omite\"}}\n    S --> C\n    C --> P[\"Mapa del sistema<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "tradición pedagógica occidental y latinoamericana: de Comenio a Freire",
+    "filosofía de la educación: fines, autoridad, autonomía y formación del juicio",
+    "derecho a la educación: instrumentos internacionales y ordenamiento chileno",
+    "análisis comparado de sistemas educativos y de sus indicadores de calidad"
+  ],
+  "autores": "Juan Amós Comenio, John Dewey, Paulo Freire, Émile Durkheim, Pierre Bourdieu y Jean-Claude Passeron, Gert Biesta, Amartya Sen, Martha Nussbaum",
+  "riesgos": [
+    "Tomar decisiones técnicas sin explicitar el fin educativo que las justifica.",
+    "Confundir una tradición pedagógica con una moda reciente por desconocer su historia.",
+    "Tratar la calidad como sinónimo de resultado en pruebas estandarizadas.",
+    "Ejercer autoridad docente sin conocer los límites legales y éticos del rol."
+  ],
+  "lecturas": [
+    ["Dewey, J. (1916). *Democracy and Education*.", "el texto que instala la pregunta por el fin de la educación en la democracia; léelo por su argumento, no por sus recetas."],
+    ["Freire, P. (1970). *Pedagogía del oprimido*.", "la crítica más influyente en América Latina a la enseñanza como depósito de contenidos; contrástalo con la evidencia sobre instrucción explícita."],
+    ["Biesta, G. (2010). *Good Education in an Age of Measurement*.", "distingue calificación, socialización y subjetivación como tres funciones distintas de la educación; ordena la discusión sobre calidad."],
+    ["UNESCO (2015). *Replantear la educación: ¿hacia un bien común mundial?*", "marco internacional vigente sobre educación como bien común; útil para fundamentar políticas y proyectos."]
+  ],
+  "evidencias": [
+    "una ficha por clase con concepto, ejemplo, contraejemplo y aplicación;",
+    "un ensayo breve que defienda una posición sobre el fin de la educación y anticipe la objeción más fuerte;",
+    "el mapa del sistema educativo chileno con actores, competencias y vías de reclamo;",
+    "la autoevaluación del módulo con la rúbrica maestra."
+  ],
+  "contextos": [
+    ["Educación parvularia", "el aprendizaje se juega en el ambiente y la interacción, no en la instrucción"],
+    ["Educación básica", "alfabetización inicial y construcción de hábitos de estudio"],
+    ["Educación media", "identidad, sentido y proyección hacia el egreso"],
+    ["Educación técnico-profesional", "el desempeño se demuestra en tareas del oficio"],
+    ["Educación de adultos", "experiencia previa, tiempo escaso y motivación instrumental"],
+    ["Educación superior", "autonomía exigida y contenido disciplinar denso"]
+  ]
+},
+{
+  "part": 1,
+  "titulo": "Ciencias del aprendizaje",
+  "lema": "Enseñar sin saber cómo se aprende es apostar con el tiempo de otros",
+  "etapa": "A",
+  "poblacion": "transversal: los mecanismos son generales, su aplicación no",
+  "contenido_central": "Conductismo, cognitivismo, constructivismo, memoria, atención, carga cognitiva, práctica de recuperación, espaciado, metacognición, motivación y transferencia",
+  "resumen": [
+    "Esta es la parte con más evidencia acumulada de todo el programa y también la más traicionada por su divulgación. Los mecanismos básicos —memoria de trabajo limitada, memoria de largo plazo prácticamente ilimitada, olvido que se combate recuperando y no releyendo— están replicados desde hace décadas y en muchos idiomas. Lo que falla no es la evidencia: es el salto apresurado desde el laboratorio al aula sin considerar contenido, edad ni contexto.",
+    "El programa toma partido en un punto: los mecanismos cognitivos son generales, pero las decisiones didácticas son locales. Que la práctica de recuperación funcione no significa que aplicar un cuestionario cada lunes mejore el aprendizaje de cualquier curso; significa que recuperar activamente lo aprendido, en el momento adecuado y con retroalimentación, funciona mejor que releer. Traducir un mecanismo en una rutina exige criterio profesional, y ese criterio es lo que esta parte entrena.",
+    "También es la parte donde se desmontan los neuromitos. Estilos de aprendizaje, hemisferio dominante, uso del diez por ciento del cerebro y aprendizaje inconsciente durante el sueño siguen circulando en formaciones docentes pese a estar refutados. No se trata de ridiculizar a quien los cree, sino de mostrar por qué son verosímiles y qué evidencia los desmonta: reconocer el mecanismo del error protege mejor que memorizar la lista de mitos."
+  ],
+  "resultados": [
+    "Explicar el aprendizaje con un modelo de memoria y atención que soporte decisiones didácticas",
+    "Diseñar una secuencia que gestione la carga cognitiva de forma deliberada",
+    "Programar práctica de recuperación y espaciado en un plan real de asignatura",
+    "Refutar con evidencia los neuromitos más extendidos, incluidos los que usan tus colegas"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    A[\"Atencion<br/>recurso escaso y selectivo\"] --> MT[\"Memoria de trabajo<br/>capacidad limitada\"]\n    MT --> CC{{\"Carga cognitiva<br/>intrinseca · pertinente · inutil\"}}\n    CC --> MLP[\"Memoria de largo plazo<br/>esquemas organizados\"]\n    MLP --> R[\"Practica de recuperacion<br/>y espaciado\"]\n    R --> MLP\n    MLP --> T[\"Transferencia<br/>uso en contexto nuevo\"]\n    MET[\"Metacognicion<br/>y autorregulacion\"] --> R\n    MOT[\"Motivacion<br/>autonomia · competencia · vinculo\"] --> A\n    T --> D[\"Diseno basado en evidencia<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "arquitectura cognitiva: memoria de trabajo, memoria de largo plazo y esquemas",
+    "teoría de la carga cognitiva y sus efectos instruccionales",
+    "ciencia del aprendizaje duradero: recuperación, espaciado, intercalado y variabilidad",
+    "teoría de la autodeterminación y modelos de expectativa y valor para la motivación"
+  ],
+  "autores": "John Sweller, Richard E. Mayer, Robert y Elizabeth Bjork, Henry Roediger y Jeffrey Karpicke, John Dunlosky, Michelene Chi, Lev Vygotsky, Edward Deci y Richard Ryan",
+  "riesgos": [
+    "Aplicar un hallazgo de laboratorio como receta de aula sin ajustarlo al contenido ni a la edad.",
+    "Sostener neuromitos —estilos de aprendizaje, hemisferio dominante— por costumbre institucional.",
+    "Confundir la sensación de fluidez al releer con aprendizaje efectivo.",
+    "Tratar la motivación como rasgo del estudiante y no como resultado de las condiciones de la tarea."
+  ],
+  "lecturas": [
+    ["National Research Council (2000). *How People Learn: Brain, Mind, Experience, and School*.", "síntesis fundacional y todavía vigente sobre conocimiento previo, comprensión profunda y metacognición."],
+    ["Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*.", "el tratamiento sistemático de la carga cognitiva y de sus efectos instruccionales, con sus condiciones de validez."],
+    ["Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*. Psychological Science in the Public Interest, 14(1).", "clasifica diez técnicas de estudio por utilidad demostrada; la práctica distribuida y la de recuperación quedan arriba, subrayar y releer abajo."],
+    ["Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*.", "veintiocho estudios clásicos explicados y traducidos a decisiones de aula; excelente puente entre investigación y práctica."]
+  ],
+  "evidencias": [
+    "un modelo propio de memoria y atención explicado en una página, sin jerga prestada;",
+    "una secuencia didáctica con la carga cognitiva justificada decisión por decisión;",
+    "un calendario de recuperación y espaciado para una unidad completa;",
+    "un desmontaje escrito de un neuromito con la evidencia que lo refuta."
+  ],
+  "contextos": [
+    ["Contenido nuevo y difícil", "la carga intrínseca es alta: el apoyo debe ser mayor"],
+    ["Contenido conocido en profundización", "el andamiaje excesivo estorba en vez de ayudar"],
+    ["Grupo con conocimiento previo heterogéneo", "lo que ayuda al novato perjudica al avanzado"],
+    ["Aprendizaje procedimental", "la práctica y la corrección inmediata dominan la decisión"],
+    ["Aprendizaje conceptual", "los ejemplos, contraejemplos y la comparación dominan"],
+    ["Estudio autónomo fuera del aula", "sin autorregulación entrenada, la técnica no se sostiene"]
+  ]
+},
+{
+  "part": 2,
+  "titulo": "Desarrollo humano",
+  "lema": "La misma actividad no significa lo mismo a los tres, a los trece y a los treinta años",
+  "etapa": "A",
+  "poblacion": "trayectoria completa: primera infancia a adultez mayor",
+  "contenido_central": "Desarrollo prenatal y temprano, motor, lenguaje, cognitivo, socioemocional, apego, niñez media, adolescencia, adultez, envejecimiento y diferencias individuales",
+  "resumen": [
+    "El desarrollo no es una escalera de etapas que se suben en fecha fija. Es un proceso con regularidades fuertes —el orden de adquisición del lenguaje, la maduración del control ejecutivo, la reorganización social de la adolescencia— y con variabilidad individual enorme dentro de cada una. Enseñar bien exige sostener las dos cosas a la vez: conocer la regularidad para anticipar, y respetar la variación para no patologizar a quien va a otro ritmo.",
+    "La consecuencia práctica más importante es que la edad no es una variable menor de la planificación: es una restricción real. Una tarea de metacognición explícita que funciona en séptimo básico es inútil a los cuatro años, no porque el niño sea menos capaz, sino porque el sustrato que la tarea exige todavía se está construyendo. Del mismo modo, tratar a un adolescente con la lógica de control de la niñez media produce exactamente la reacción que se quería evitar.",
+    "Esta parte también entrena una forma de prudencia. La neurociencia del desarrollo se divulga mal: se cierran ventanas críticas que no son tan críticas, se afirman períodos irrecuperables que la evidencia no sostiene y se convierte una correlación en una sentencia. Aquí se enseña qué está bien establecido —la importancia de la interacción sensible temprana, la plasticidad prolongada— y qué se ha exagerado, para que ninguna decisión educativa se apoye en una versión caricaturizada del cerebro."
+  ],
+  "resultados": [
+    "Describir la trayectoria típica de un dominio del desarrollo y sus rangos normales de variación",
+    "Ajustar una misma decisión pedagógica a tres edades distintas y explicar qué cambia y por qué",
+    "Distinguir una variación esperable de una señal que amerita derivación profesional",
+    "Identificar afirmaciones sobre el cerebro en desarrollo que la evidencia no sostiene"
+  ],
+  "mapa": "```mermaid\nflowchart LR\n    P[\"Prenatal y<br/>primera infancia\"] --> N[\"Ninez media\"]\n    N --> AD[\"Adolescencia\"]\n    AD --> AE[\"Adultez emergente<br/>y adultez\"]\n    AE --> EN[\"Envejecimiento y<br/>aprendizaje permanente\"]\n    subgraph Dominios que avanzan a la vez\n      M[\"Motor y sensorial\"]\n      L[\"Lenguaje\"]\n      C[\"Cognitivo\"]\n      S[\"Socioemocional y apego\"]\n    end\n    P --- M\n    P --- L\n    N --- C\n    AD --- S\n    EN --> V{{\"Diferencias individuales<br/>rango normal vs senal de alerta\"}}\n    V --> TR[\"Trayectoria de desarrollo<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "modelos clásicos del desarrollo cognitivo y sociocultural, con sus límites reconocidos",
+    "teoría del apego y evidencia sobre interacción sensible temprana",
+    "modelo bioecológico: el desarrollo ocurre en sistemas anidados que se influyen",
+    "desarrollo a lo largo de la vida: cambio, estabilidad y plasticidad en la adultez"
+  ],
+  "autores": "Jean Piaget, Lev Vygotsky, Urie Bronfenbrenner, John Bowlby y Mary Ainsworth, Robert Siegler, Laurence Steinberg, Jack Shonkoff, Paul Baltes",
+  "riesgos": [
+    "Usar la edad como diagnóstico y esperar el mismo desempeño de todo un curso.",
+    "Patologizar variaciones que están dentro del rango esperable para la edad.",
+    "Adoptar versiones divulgadas y exageradas de la neurociencia del desarrollo.",
+    "Ignorar el contexto familiar, cultural y material que modula toda trayectoria."
+  ],
+  "lecturas": [
+    ["Shonkoff, J. & Phillips, D. (eds.) (2000). *From Neurons to Neighborhoods*. National Research Council.", "la síntesis de referencia sobre desarrollo temprano y su relación con las políticas de infancia."],
+    ["Vygotsky, L. (1978). *Mind in Society*.", "origen de la zona de desarrollo próximo y de la idea de mediación; léelo antes de usar la expresión en una planificación."],
+    ["Bronfenbrenner, U. (1979). *The Ecology of Human Development*.", "explica por qué una intervención escolar no puede evaluarse ignorando familia, barrio y política pública."],
+    ["Steinberg, L. (2014). *Age of Opportunity: Lessons from the New Science of Adolescence*.", "reordena la adolescencia como período de plasticidad y oportunidad, no solo de riesgo."]
+  ],
+  "evidencias": [
+    "una ficha de trayectoria por dominio con hitos, rangos y señales de alerta;",
+    "una misma actividad adaptada a tres edades con su justificación;",
+    "un protocolo escrito de derivación responsable con criterios y actores;",
+    "la trayectoria de desarrollo del proyecto integrador, documentada con observación."
+  ],
+  "contextos": [
+    ["Primera infancia (0–3)", "interacción, cuidado y lenguaje son el currículo"],
+    ["Preescolar (3–6)", "el juego es el modo principal de aprender"],
+    ["Niñez media (6–11)", "control ejecutivo creciente y comparación social"],
+    ["Adolescencia temprana (12–15)", "reorganización social e identidad en juego"],
+    ["Adolescencia tardía y adultez emergente", "proyección, autonomía y decisión vocacional"],
+    ["Adultez y adultez mayor", "experiencia acumulada y aprendizaje con propósito"]
+  ]
+},
+{
+  "part": 3,
+  "titulo": "Educación parvularia",
+  "lema": "En los primeros años el ambiente y el vínculo son el método",
+  "etapa": "B",
+  "poblacion": "sala cuna, niveles medios y transición (0 a 6 años)",
+  "contenido_central": "Principios de la educación parvularia, juego, ambientes, lenguaje y alfabetización emergente, pensamiento matemático temprano, corporalidad, arte, exploración, socioemocional, observación y familia",
+  "resumen": [
+    "La educación parvularia es el nivel donde peor funciona la intuición de quien viene de otros niveles. La tentación es escolarizarla: adelantar la lectoescritura formal, sentar a los niños en filas, medir con pruebas. La evidencia disponible sostiene lo contrario: en estos años, la calidad del programa se juega en la interacción adulto-niño, en la riqueza del lenguaje que circula y en un ambiente que invita a explorar con seguridad.",
+    "Eso no significa que aquí no se enseñe. Significa que se enseña de otro modo: mediante experiencias intencionadas, juego con propósito, preguntas que amplían, vocabulario que se ofrece de manera deliberada y una organización del espacio que hace posibles conductas que no aparecerían por sí solas. La diferencia entre una sala con intención pedagógica y una sala entretenida es visible en la documentación: la primera puede explicar qué aprendizaje persigue cada rincón.",
+    "El nivel tiene además un marco normativo propio en Chile —Bases Curriculares de la Educación Parvularia, estándares de sala cuna y jardín, rol de la Subsecretaría y de la Intendencia de Educación Parvularia— y una historia de evidencia sobre efectos de largo plazo que conviene leer con cuidado. Los estudios longitudinales muestran efectos reales, pero condicionados a la calidad del programa: la asistencia a un jardín de baja calidad no produce los resultados que se le atribuyen al nivel."
+  ],
+  "resultados": [
+    "Diseñar experiencias de aprendizaje con intención pedagógica explícita y sin escolarizar el nivel",
+    "Organizar un ambiente que sostenga exploración, seguridad y autonomía progresiva",
+    "Documentar aprendizaje mediante observación sistemática en vez de pruebas",
+    "Construir alianza con la familia como parte del diseño y no como comunicación posterior"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    PR[\"Principios del nivel<br/>bienestar · juego · singularidad\"] --> AM[\"Ambiente<br/>espacio · materiales · tiempo\"]\n    PR --> IN[\"Interaccion sensible<br/>lenguaje que amplia\"]\n    AM --> EX[\"Experiencias intencionadas\"]\n    IN --> EX\n    EX --> NUC[\"Nucleos<br/>lenguaje · matematica · corporalidad · arte · entorno\"]\n    NUC --> OB[\"Observacion y<br/>documentacion pedagogica\"]\n    OB --> FA[\"Familia y comunidad\"]\n    FA --> EX\n    OB --> PY[\"Experiencia parvularia<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "Bases Curriculares de la Educación Parvularia (Mineduc, Chile) y sus ámbitos y núcleos",
+    "prácticas apropiadas al desarrollo y evidencia sobre calidad de programas iniciales",
+    "documentación pedagógica y observación como sistema de evaluación del nivel",
+    "evidencia longitudinal sobre efectos de la educación inicial de calidad"
+  ],
+  "autores": "Friedrich Fröbel, María Montessori, Loris Malaguzzi, Kathy Sylva, Robert Pianta, James Heckman, Ana María Aron y equipos chilenos de convivencia temprana",
+  "riesgos": [
+    "Escolarizar el nivel adelantando formatos de enseñanza propios de la básica.",
+    "Confundir actividad entretenida con experiencia de aprendizaje intencionada.",
+    "Evaluar con instrumentos que el nivel no admite y rotular a partir de ellos.",
+    "Delegar en la familia lo que corresponde al diseño pedagógico del equipo."
+  ],
+  "lecturas": [
+    ["Mineduc (2018). *Bases Curriculares de la Educación Parvularia*.", "marco vigente en Chile: ámbitos, núcleos y objetivos de aprendizaje del nivel; es la referencia que rige tu planificación."],
+    ["Sylva, K. et al. (2004). *The Effective Provision of Pre-School Education (EPPE) Project*.", "estudio longitudinal británico que vincula calidad del programa con efectos posteriores; enseña a leer el matiz «calidad» antes de «cobertura»."],
+    ["Copple, C. & Bredekamp, S. (eds.) (2009). *Developmentally Appropriate Practice in Early Childhood Programs*. NAEYC.", "marco práctico sobre qué es apropiado a cada edad y por qué; útil para argumentar frente a la presión escolarizante."],
+    ["Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.", "fundamenta la documentación pedagógica como forma de evaluación y de investigación del equipo."]
+  ],
+  "evidencias": [
+    "una planificación de experiencia con intención, ambiente y mediación explícitos;",
+    "un registro de observación con evidencia de aprendizaje de al menos tres niños;",
+    "una propuesta de organización del espacio justificada por objetivo;",
+    "un plan de trabajo con familias con acciones, responsables y periodicidad."
+  ],
+  "contextos": [
+    ["Sala cuna (0–2)", "cuidado, vínculo y lenguaje son la intervención pedagógica"],
+    ["Nivel medio (2–4)", "juego simbólico y regulación emocional en construcción"],
+    ["Transición (4–6)", "alfabetización y matemática emergentes, sin formato escolar"],
+    ["Jardín rural o de baja matrícula", "grupos multiedad y recursos acotados"],
+    ["Modalidad no convencional o comunitaria", "la familia participa en la ejecución"],
+    ["Contexto de alta vulnerabilidad", "el jardín cumple funciones de protección y salud"]
+  ]
+},
+{
+  "part": 4,
+  "titulo": "Educación básica",
+  "lema": "Aquí se decide quién leerá, calculará y confiará en sí mismo el resto de su vida",
+  "etapa": "B",
+  "poblacion": "1.º a 8.º básico (6 a 13 años)",
+  "contenido_central": "Didáctica de la lectura, escritura, matemática, ciencias, historia y ciudadanía, arte, educación física, alfabetización digital, planificación de unidades, evaluación formativa y gestión de aula",
+  "resumen": [
+    "La educación básica concentra las decisiones didácticas con mayor evidencia acumulada y mayor impacto de largo plazo. La enseñanza inicial de la lectura es el mejor ejemplo: décadas de investigación convergen en que la enseñanza sistemática y explícita de la correspondencia entre letras y sonidos, combinada con vocabulario, comprensión y lectura abundante, produce mejores resultados que los enfoques que confían en la adivinación por contexto. No es una opinión metodológica: es uno de los cuerpos de evidencia más sólidos del campo.",
+    "La segunda decisión de peso es la matemática temprana. Fluidez en hechos numéricos, comprensión del valor posicional, sentido de las fracciones y resolución de problemas con representación explícita predicen desempeño posterior mejor que casi cualquier otra variable escolar. Aquí también hay un falso dilema instalado —comprensión contra práctica— que la evidencia disuelve: la fluidez libera memoria de trabajo para razonar, y el razonamiento da sentido a la práctica.",
+    "El tercer eje es la evaluación formativa cotidiana, que en este nivel decide si un estudiante avanza con vacíos o se detiene a tiempo. Un docente de básica que sabe recoger evidencia de comprensión en tres minutos de clase, y actuar con ella en la clase siguiente, corrige trayectorias enteras. Esa es la competencia central de la parte, y por eso todas las didácticas se cierran con instrumentos y no con discursos."
+  ],
+  "resultados": [
+    "Enseñar lectura inicial y comprensión con una secuencia fundada en evidencia",
+    "Diseñar enseñanza de matemática que integre fluidez, comprensión y resolución de problemas",
+    "Planificar una unidad completa con alineamiento entre objetivos, actividades y evaluación",
+    "Recoger evidencia formativa en clase y ajustar la enseñanza con ella dentro de la misma semana"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    L[\"Lectura<br/>decodificacion + vocabulario + comprension\"] --> ES[\"Escritura<br/>proceso y revision\"]\n    M[\"Matematica<br/>fluidez + sentido numerico + problemas\"] --> CI[\"Ciencias<br/>indagacion con explicacion\"]\n    L --> HI[\"Historia y ciudadania\"]\n    CI --> HI\n    ES --> HI\n    HI --> PL[\"Planificacion de unidades\"]\n    M --> PL\n    PL --> EV{{\"Evaluacion formativa<br/>evidencia en clase\"}}\n    EV --> AJ[\"Ajuste de la ensenanza\"]\n    AJ --> PL\n    EV --> PY[\"Unidad interdisciplinaria<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "ciencia de la lectura: conciencia fonológica, decodificación, fluidez, vocabulario y comprensión",
+    "trayectorias de aprendizaje en matemática temprana y resolución de problemas",
+    "indagación científica escolar con explicación explícita del contenido",
+    "Bases Curriculares de Educación Básica (Mineduc, Chile) y evaluación formativa"
+  ],
+  "autores": "Linnea Ehri, Anne Castles, Kate Nation y Maggie Snowling, Mark Seidenberg, Robert Siegler, Dylan Wiliam, Barak Rosenshine, equipos del Centro de Perfeccionamiento e Investigación Pedagógica",
+  "riesgos": [
+    "Sostener métodos de lectura inicial refutados por costumbre o por identidad profesional.",
+    "Oponer fluidez y comprensión como si fueran alternativas excluyentes.",
+    "Planificar actividades atractivas sin objetivo de aprendizaje verificable.",
+    "Aplicar evaluación formativa sin cambiar nada de la enseñanza después."
+  ],
+  "lecturas": [
+    ["Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*. Psychological Science in the Public Interest, 19(1).", "la síntesis más citada sobre adquisición de la lectura: qué está resuelto y qué sigue abierto."],
+    ["Rosenshine, B. (2012). *Principles of Instruction*. American Educator, 36(1).", "diez principios de enseñanza derivados de investigación de aula, cognición y docentes eficaces; la mejor entrada corta a la didáctica basada en evidencia."],
+    ["Wiliam, D. (2011). *Embedded Formative Assessment*.", "convierte la evaluación formativa en técnicas concretas de aula, no en un discurso sobre evaluación."],
+    ["Mineduc. *Bases Curriculares de Educación Básica* y Programas de Estudio.", "referencia obligatoria para objetivos, progresión y priorización curricular en Chile."]
+  ],
+  "evidencias": [
+    "una secuencia de lectura inicial con progresión y evaluación de decodificación;",
+    "una clase de matemática con problemas, representaciones y práctica deliberada;",
+    "una unidad completa con alineamiento verificable;",
+    "un registro de evidencia formativa con el ajuste que produjo."
+  ],
+  "contextos": [
+    ["Primer ciclo (1.º a 4.º)", "alfabetización inicial y hábitos: el error se arrastra si no se corrige"],
+    ["Segundo ciclo (5.º a 8.º)", "contenido disciplinar creciente y comparación social"],
+    ["Curso numeroso (más de 35)", "la gestión del tiempo condiciona toda decisión didáctica"],
+    ["Escuela rural multigrado", "un docente atiende varios niveles a la vez"],
+    ["Grupo con brecha lectora amplia", "sin diagnóstico específico, la clase deja fuera a un tercio"],
+    ["Alta rotación o inasistencia", "la continuidad no puede darse por supuesta"]
+  ]
+},
+{
+  "part": 5,
+  "titulo": "Educación media y adolescencia",
+  "lema": "Con adolescentes, la relación no es un accesorio de la enseñanza: es su condición",
+  "etapa": "B",
+  "poblacion": "1.º a 4.º medio (14 a 18 años)",
+  "contenido_central": "Psicología de la adolescencia, identidad y motivación, autoridad pedagógica, gestión de aula, aprendizaje basado en proyectos y problemas, debate, STEM, orientación vocacional, ciudadanía digital y evaluación auténtica",
+  "resumen": [
+    "La adolescencia reorganiza la motivación. Lo que antes movía —la aprobación del adulto, la nota, la rutina— pierde fuerza frente a la pertenencia al grupo, la percepción de justicia y el sentido de lo que se hace. Esa es la causa mecánica de la mayoría de los conflictos de aula en educación media: no un déficit de disciplina, sino un desajuste entre lo que la escuela ofrece y lo que la etapa demanda. La investigación sobre ajuste entre etapa y ambiente lleva décadas mostrando este desencuentro.",
+    "De ahí que la autoridad pedagógica sea el eje de la parte. En educación media la autoridad no se sostiene en el cargo: se construye con consistencia, competencia disciplinar visible y trato justo, y se pierde en minutos con una humillación pública o una arbitrariedad. Nada de esto es blandura: un docente con autoridad legítima puede exigir mucho más, y de hecho lo hace, porque la exigencia se lee como confianza en la capacidad del estudiante.",
+    "La parte incorpora también las metodologías activas —proyectos, problemas, debate— con una advertencia honesta. Funcionan cuando hay estructura, conocimiento previo suficiente y andamiaje, y fracasan cuando se usan como sustituto de la instrucción. La evidencia sobre aprendizaje basado en problemas es matizada y depende del diseño: aquí se enseña a construir el diseño que la hace funcionar, no a repetir la consigna de que el estudiante debe descubrirlo todo solo."
+  ],
+  "resultados": [
+    "Construir autoridad pedagógica legítima y sostenerla bajo conflicto",
+    "Diseñar una experiencia por proyectos o problemas con estructura y andamiaje suficientes",
+    "Conectar el contenido con identidad, pertinencia y proyección del estudiante",
+    "Evaluar de forma auténtica sin perder validez ni comparabilidad"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    AD[\"Adolescencia<br/>identidad · pertenencia · justicia\"] --> AU[\"Autoridad pedagogica<br/>consistencia y competencia\"]\n    AD --> MO[\"Motivacion<br/>autonomia · relevancia · pertenencia\"]\n    AU --> GA[\"Gestion de aula\"]\n    MO --> ME[\"Metodologias activas<br/>proyectos · problemas · debate\"]\n    GA --> ME\n    ME --> EA{{\"Evaluacion autentica<br/>desempeno real con rubrica\"}}\n    MO --> OV[\"Orientacion vocacional<br/>y ciudadania digital\"]\n    EA --> PY[\"Desafio de educacion media<br/>proyecto integrador\"]\n    OV --> PY\n```",
+  "marco": [
+    "desarrollo adolescente: sensibilidad social, búsqueda de autonomía y toma de decisiones",
+    "ajuste entre etapa evolutiva y ambiente escolar como explicación del desenganche",
+    "aprendizaje basado en proyectos y problemas con andamiaje explícito",
+    "evaluación auténtica y de desempeño con criterios públicos"
+  ],
+  "autores": "Laurence Steinberg, Jacquelynne Eccles, Carol Dweck y David Yeager, Cindy Hmelo-Silver, Robert Alexander, Grant Wiggins, equipos chilenos de convivencia escolar",
+  "riesgos": [
+    "Interpretar como indisciplina lo que es un desajuste entre etapa y ambiente.",
+    "Confundir autoridad con imposición y perder legitimidad en el primer conflicto.",
+    "Usar metodologías activas sin estructura y llamar autonomía a la falta de guía.",
+    "Evaluar productos vistosos sin criterios que permitan defender la calificación."
+  ],
+  "lecturas": [
+    ["Eccles, J. et al. (1993). *Development During Adolescence: The Impact of Stage-Environment Fit*. American Psychologist, 48(2).", "explica por qué la motivación cae justo cuando la escuela se vuelve más controladora; base del diagnóstico de esta parte."],
+    ["Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?*", "revisión que separa las condiciones en que el aprendizaje basado en problemas funciona de aquellas en que no."],
+    ["Yeager, D. & Dweck, C. (2012). *Mindsets That Promote Resilience*. Educational Psychologist, 47(4).", "léelo junto con las replicaciones posteriores: efecto real pero pequeño y condicionado al contexto escolar."],
+    ["Wiggins, G. (1998). *Educative Assessment*.", "define evaluación auténtica con criterios exigibles, no como sinónimo de trabajo creativo."]
+  ],
+  "evidencias": [
+    "un protocolo propio de construcción y reparación de autoridad pedagógica;",
+    "un diseño de proyecto con andamiaje, hitos y evaluación intermedia;",
+    "una rúbrica de desempeño auténtico aplicada a trabajos reales;",
+    "un plan de trabajo con un estudiante desenganchado, con seguimiento."
+  ],
+  "contextos": [
+    ["1.º y 2.º medio", "transición desde la básica y reacomodo de grupos"],
+    ["3.º y 4.º medio", "presión de egreso, admisión y decisión vocacional"],
+    ["Curso con desenganche marcado", "el contenido no compite con el problema de sentido"],
+    ["Liceo técnico-profesional", "la utilidad visible del contenido cambia la motivación"],
+    ["Jornada vespertina o reingreso", "estudiantes que trabajan y tienen trayectorias interrumpidas"],
+    ["Contexto de alta conflictividad", "la seguridad y la convivencia condicionan la enseñanza"]
+  ]
+}
+]

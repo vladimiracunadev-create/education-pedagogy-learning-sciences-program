@@ -1,0 +1,361 @@
+[
+{"n":145,"evidencia":"CONSISTENTE",
+ "foco":"qué produce un buen clima de aula, además de la personalidad del docente",
+ "proposito":"Comprender el clima de aula como resultado de decisiones observables —previsibilidad, trato, exigencia, seguridad— y no como un rasgo del grupo o del profesor.",
+ "decision":"determinar qué decisión concreta vas a modificar para mejorar el clima de tu curso",
+ "entregable":"un diagnóstico de clima de aula con evidencia observada y tres decisiones de mejora priorizadas",
+ "conceptos":[
+  ["Clima de aula","calidad percibida de las relaciones, la seguridad y las condiciones de trabajo en la sala"],
+  ["Previsibilidad","grado en que el estudiante puede anticipar lo que ocurrirá y qué se espera de él"],
+  ["Seguridad psicológica","condición que permite equivocarse, preguntar y participar sin costo social"],
+  ["Exigencia con apoyo","combinación de expectativas altas con andamiaje suficiente para alcanzarlas"]],
+ "desarrollo":"El clima no es un ambiente que se produce solo: es el resultado acumulado de decisiones. La previsibilidad de la rutina, la equidad del trato, la forma de corregir el error y el nivel de exigencia sostenido con apoyo explican más del clima que cualquier característica personal. Y el clima importa porque condiciona la disposición a arriesgarse: en un curso donde equivocarse tiene costo social, nadie pregunta.",
+ "practica":"El diagnóstico se hace con evidencia observable y no solo con encuestas: quién participa, qué ocurre cuando alguien se equivoca, cuánto tiempo pasa entre la entrada y el inicio del trabajo, cómo se corrige. A partir de ahí se priorizan pocas decisiones y se sostienen: el clima cambia por consistencia y no por intervenciones puntuales.",
+ "limites":"El clima medido por encuestas y el clima real no siempre coinciden, y los instrumentos de percepción son sensibles al momento y al deseo de agradar. Además, el clima de un curso está condicionado por el clima institucional: un docente puede mejorar su sala y no puede compensar un establecimiento deteriorado.",
+ "errores":[
+  "Atribuir el clima al carácter del grupo y no revisar las decisiones que lo producen.",
+  "Intentar mejorar el clima con actividades puntuales en vez de con consistencia sostenida."],
+ "criterios":[
+  "el diagnóstico se apoya en conductas observadas y no solo en percepciones declaradas;",
+  "las decisiones de mejora son pocas, concretas y sostenibles en el tiempo;"],
+ "preguntas":[
+  "¿Qué pasa en tu sala cuando un estudiante da una respuesta equivocada?",
+  "¿Quién no ha hablado en tu clase en las últimas dos semanas?",
+  "¿Qué puede anticipar un estudiante nuevo sobre cómo funciona tu clase?"],
+ "lecturas":[
+  ["Wang, M.-T. & Degol, J. (2016). *School Climate: A Review of the Construct, Measurement, and Impact*.","sistematiza qué es el clima, cómo se mide y qué efectos tiene documentados."],
+  ["Pianta, R. et al. *Classroom Assessment Scoring System (CLASS)*.","instrumento observacional que operacionaliza el clima en interacciones concretas."]],
+ "inclusion":"El clima se experimenta de forma distinta según la posición de cada estudiante en el grupo. Un curso que el docente percibe como cordial puede ser hostil para quien es objeto de burlas sutiles que el adulto no ve.",
+ "reto":"Observa tu propia clase con foco en tres indicadores de clima durante una semana. Cambia una decisión, sostenla un mes y vuelve a observar.",
+ "conexion":"Abre la parte 12 y se apoya en las clases 010 y 063."},
+
+{"n":146,"evidencia":"CONSISTENTE",
+ "foco":"por qué las normas anunciadas y no enseñadas se incumplen todos los años",
+ "proposito":"Diseñar y enseñar normas y rutinas como se enseña cualquier contenido: pocas, formuladas en positivo, modeladas, practicadas y corregidas hasta que se automatizan.",
+ "decision":"determinar qué normas y rutinas vas a enseñar explícitamente y cómo verificarás su instalación",
+ "entregable":"el sistema de normas y rutinas de un curso con su plan de enseñanza, práctica y corrección",
+ "conceptos":[
+  ["Norma","regla de convivencia que define qué es aceptable; se enseña y se sostiene, no solo se publica"],
+  ["Rutina","procedimiento estable para una situación recurrente; se automatiza con práctica"],
+  ["Formulación en positivo","enunciado que describe la conducta esperada en vez de la prohibida"],
+  ["Instalación","estado en que la rutina se ejecuta sin necesidad de recordarla"]],
+ "desarrollo":"Las normas publicadas al inicio y nunca practicadas se incumplen sistemáticamente, y su incumplimiento se atribuye a los estudiantes. La alternativa es tratarlas como contenido: pocas normas, formuladas en positivo, explicadas en su razón, modeladas por el docente, practicadas y corregidas con paciencia durante las primeras semanas. El tiempo invertido ahí se recupera con creces durante el año.",
+ "practica":"La instalación se verifica observando: si hay que recordar la rutina cada vez, aún no está instalada. La corrección durante la fase de enseñanza no es sanción: es enseñanza. Y la participación de los estudiantes en la formulación de las normas aumenta su legitimidad, especialmente en cursos mayores, siempre que la participación sea real y no una consulta decorativa.",
+ "limites":"Las normas ordenan la convivencia cotidiana y no resuelven conflictos de fondo ni situaciones que requieren protocolo. Además, un sistema demasiado extenso se vuelve inaplicable: pocas normas sostenidas funcionan mejor que muchas enunciadas y aplicadas de forma selectiva, que es lo que más deteriora la legitimidad.",
+ "errores":[
+  "Publicar las normas y suponer que quedaron enseñadas.",
+  "Aplicar las normas de forma selectiva según el estudiante, con lo que pierden legitimidad."],
+ "criterios":[
+  "cada norma o rutina tiene su plan de enseñanza, práctica y corrección;",
+  "existe un criterio observable para dar por instalada cada rutina;"],
+ "preguntas":[
+  "¿Qué rutina de tu curso hay que recordar todos los días?",
+  "¿Qué norma se aplica con unos estudiantes y no con otros?",
+  "¿Cuánto tiempo dedicaste a enseñar rutinas en las primeras dos semanas?"],
+ "lecturas":[
+  ["Evertson, C. & Emmer, E. *Classroom Management for Elementary/Secondary Teachers*.","protocolos de enseñanza de normas y rutinas para el comienzo del año."],
+  ["Simonsen, B. et al. (2008). *Evidence-Based Practices in Classroom Management*.","revisión de prácticas con respaldo empírico, incluidas normas y rutinas."]],
+ "inclusion":"Las rutinas explícitas y visibles benefician especialmente a estudiantes autistas, con TDAH o con trayectorias inestables, para quienes la imprevisibilidad es una barrera real y no una excusa.",
+ "reto":"Enseña explícitamente tres rutinas durante dos semanas con práctica y corrección. Mide el tiempo de ejecución al inicio y al final.",
+ "conexion":"Es la base preventiva de la clase 147 y aplica en el nivel escolar lo trabajado en la clase 059."},
+
+{"n":147,"evidencia":"CONSISTENTE",
+ "foco":"por qué los docentes con menos problemas de conducta no son los que mejor reaccionan",
+ "proposito":"Diseñar la prevención como estrategia principal de gestión: organización del espacio y del tiempo, percepción simultánea, densidad de la clase y anticipación de los momentos críticos.",
+ "decision":"determinar qué momento de tu clase concentra los problemas y qué decisión previa lo eliminaría",
+ "entregable":"un análisis de los momentos críticos de tus clases con las medidas preventivas correspondientes",
+ "conceptos":[
+  ["Prevención","conjunto de decisiones tomadas antes del problema que reducen su probabilidad"],
+  ["Percepción simultánea","capacidad de saber qué ocurre en toda la sala mientras se atiende a una parte"],
+  ["Densidad de la clase","proporción del tiempo en que los estudiantes están efectivamente ocupados en algo con sentido"],
+  ["Momento crítico","instante recurrente —inicio, transiciones, entrega de material, cierre— donde se concentran los problemas"]],
+ "desarrollo":"El hallazgo clásico de la investigación sobre gestión de aula sigue vigente: la diferencia entre docentes con muchos y pocos problemas no está en cómo responden sino en qué hacen antes. Percepción simultánea, ritmo sostenido, transiciones breves y ausencia de tiempos muertos eliminan la mayor parte de las oportunidades de disrupción. La conducta problemática aparece, sobre todo, en el vacío.",
+ "practica":"El análisis de momentos críticos es directo: registrar cuándo ocurren los problemas durante una semana. El patrón aparece rápido —los primeros minutos, las transiciones, el momento en que unos terminan antes— y cada momento tiene una solución de diseño: una tarea al entrar, una señal de transición ensayada, trabajo previsto para quien termina antes.",
+ "limites":"La prevención reduce la disrupción ordinaria y no resuelve situaciones que tienen causas fuera del aula: violencia, vulneración, salud mental o conflicto sostenido entre estudiantes requieren otra respuesta. Confundirlas produce docentes que intentan resolver con técnica lo que necesita intervención institucional.",
+ "errores":[
+  "Diseñar la clase sin previsión para quienes terminan antes.",
+  "Atribuir a la conducta de los estudiantes problemas que se originan en tiempos muertos del diseño."],
+ "criterios":[
+  "el análisis identifica los momentos críticos con evidencia registrada;",
+  "cada medida preventiva es una decisión de diseño y no una respuesta reactiva;"],
+ "preguntas":[
+  "¿En qué minuto de tu clase se concentran los problemas?",
+  "¿Qué hace un estudiante que termina cinco minutos antes que el resto?",
+  "¿Qué ves y qué no ves mientras atiendes a un estudiante en su puesto?"],
+ "lecturas":[
+  ["Kounin, J. (1970). *Discipline and Group Management in Classrooms*.","establece percepción simultánea, ritmo y solapamiento como factores decisivos."],
+  ["Simonsen, B. et al. (2008). *Evidence-Based Practices in Classroom Management*.","sistematiza prácticas preventivas con respaldo empírico."]],
+ "inclusion":"Los tiempos muertos afectan más a estudiantes con dificultades de autorregulación, que son los primeros en desconectarse y los primeros en ser sancionados por ello. Reducir el vacío es una medida de equidad conductual.",
+ "reto":"Registra una semana el momento exacto de cada disrupción. Corrige el momento crítico principal con una medida de diseño y vuelve a registrar.",
+ "conexion":"Se apoya en la clase 146 y reduce la necesidad de aplicar la clase 148."},
+
+{"n":148,"evidencia":"CONSISTENTE",
+ "foco":"cómo usar consecuencias sin instalar un sistema de premios y castigos que después no se puede sostener",
+ "proposito":"Aplicar reforzamiento y consecuencias con criterio técnico: proporcionalidad, previsibilidad, foco en la conducta y no en la persona, y plan de retirada de los sistemas externos.",
+ "decision":"determinar qué consecuencia corresponde a una conducta y cómo evitarás depender de ella",
+ "entregable":"un sistema graduado de reconocimiento y consecuencias con su fundamento y su plan de retirada",
+ "conceptos":[
+  ["Reforzamiento","consecuencia que aumenta la probabilidad de una conducta deseada"],
+  ["Consecuencia lógica","respuesta relacionada con la conducta y proporcional a su gravedad"],
+  ["Previsibilidad","condición de que la consecuencia sea conocida de antemano y se aplique con consistencia"],
+  ["Retirada del sistema externo","plan para que la conducta se sostenga sin depender del refuerzo aplicado"]],
+ "desarrollo":"Las consecuencias funcionan cuando son previsibles, proporcionales y se aplican con consistencia; fallan cuando son arbitrarias, desproporcionadas o dependen del ánimo del adulto. El reconocimiento tiene el mismo requisito: reconocer conductas específicas —«completaste el procedimiento sin saltarte la verificación»— enseña; elogiar la persona no. Y todo sistema externo necesita plan de retirada, porque su objetivo es volverse innecesario.",
+ "practica":"El sistema graduado se decide antes: qué se hace ante una conducta menor, ante su repetición y ante una falta seria. Escrito y conocido, elimina la negociación en el momento. La retirada se planifica desde el inicio: espaciar el reconocimiento, trasladar el foco al progreso propio y hacer explícito el criterio interno de la conducta.",
+ "limites":"Los sistemas de puntos y premios producen efectos a corto plazo y riesgos conocidos: pueden reducir la motivación en tareas que ya interesaban y crear dependencia del refuerzo. Además, en conductas cuya causa es una dificultad de regulación, el castigo no enseña la conducta faltante: solo la sanciona.",
+ "errores":[
+  "Instalar sistemas de premios sin plan de retirada.",
+  "Sancionar una conducta que el estudiante todavía no puede ejecutar de otro modo."],
+ "criterios":[
+  "el sistema es previsible, proporcional y conocido de antemano;",
+  "existe un plan explícito de retirada del refuerzo externo;"],
+ "preguntas":[
+  "¿Qué consecuencia aplicas hoy que depende de tu ánimo?",
+  "¿Qué conducta estás sancionando que el estudiante aún no sabe ejecutar?",
+  "¿Cómo se sostendrá esta conducta cuando retires el sistema?"],
+ "lecturas":[
+  ["Deci, E., Koestner, R. & Ryan, R. (1999). *Meta-Analytic Review of Extrinsic Rewards*.","documenta los riesgos del refuerzo externo sobre la motivación intrínseca."],
+  ["Sugai, G. & Horner, R. *School-Wide Positive Behavior Support*.","modelo de sistemas graduados de apoyo conductual con evidencia de implementación."]],
+ "inclusion":"Los sistemas conductuales aplicados sin ajuste castigan más a estudiantes con TDAH, autismo o historias de trauma. Antes de aplicar consecuencias hay que verificar que la conducta esperada esté al alcance del estudiante con los apoyos disponibles.",
+ "reto":"Revisa las consecuencias que aplicaste en un mes y verifica su proporcionalidad y consistencia. Ajusta el sistema y comunícalo al curso.",
+ "conexion":"Aplica la clase 013 y depende de la prevención de la clase 147."},
+
+{"n":149,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"qué decir exactamente en los momentos donde la conversación puede escalar o resolver",
+ "proposito":"Desarrollar comunicación docente eficaz en situaciones de tensión: lenguaje descriptivo, foco en la conducta, tono y postura, y cierre que preserva la relación.",
+ "decision":"determinar el guion que usarás en las tres situaciones de tensión más frecuentes de tu práctica",
+ "entregable":"tres guiones de intervención verbal con su fundamento y su análisis tras aplicarlos",
+ "conceptos":[
+  ["Lenguaje descriptivo","descripción de la conducta observada sin juicio sobre la persona"],
+  ["Mensaje en primera persona","formulación que expresa el efecto de la conducta sin acusar"],
+  ["Desescalada","conjunto de conductas verbales y no verbales que reducen la intensidad del conflicto"],
+  ["Cierre relacional","acción final que restablece la relación de trabajo después de la corrección"]],
+ "desarrollo":"En una situación tensa, la elección de palabras decide el resultado. Describir la conducta —«estás hablando mientras explico»— permite corregir; calificar a la persona —«eres un desordenado»— obliga al estudiante a defenderse ante sus pares y garantiza la escalada. El tono y la postura pesan tanto como las palabras: acercarse, bajar la voz y no exigir contacto visual reducen la confrontación.",
+ "practica":"Tener guiones preparados para las situaciones frecuentes evita improvisar bajo presión. Un guion incluye la frase inicial, la respuesta prevista del estudiante, la segunda intervención y el cierre. Y siempre termina con un cierre relacional posterior: una interacción normal a los pocos minutos que muestre que la corrección terminó con la conducta y no con la relación.",
+ "limites":"No hay evidencia experimental robusta sobre fórmulas verbales específicas: es conocimiento profesional acumulado y sensible al contexto cultural. Lo que sí está documentado es el efecto de la corrección pública sobre el estatus en la adolescencia, y de la consistencia sobre la legitimidad.",
+ "errores":[
+  "Calificar a la persona en vez de describir la conducta.",
+  "Terminar la corrección sin ninguna interacción posterior que restablezca la relación."],
+ "criterios":[
+  "los guiones describen conducta observable y prevén la respuesta del estudiante;",
+  "cada guion incluye un cierre relacional posterior;"],
+ "preguntas":[
+  "¿Qué dices en los primeros cinco segundos de una situación tensa?",
+  "¿Qué frase tuya obliga al estudiante a defenderse ante el curso?",
+  "¿Cuándo vuelves a hablarle normalmente después de corregir?"],
+ "lecturas":[
+  ["Ginott, H. (1972). *Teacher and Child*.","origen del lenguaje descriptivo aplicado a la relación educativa."],
+  ["Marzano, R. (2003). *Classroom Management That Works*.","sistematiza prácticas de comunicación y relación con evidencia observacional."]],
+ "inclusion":"La corrección pública tiene un costo mayor para estudiantes que ya están en posición vulnerable en el grupo. Corregir en privado siempre que sea posible es una decisión técnica antes que una cortesía.",
+ "reto":"Escribe tres guiones y aplícalos durante dos semanas. Registra qué situaciones escalaron igualmente y ajusta el guion correspondiente.",
+ "conexion":"Sostiene las clases 150 y 151 y aplica la clase 063."},
+
+{"n":150,"evidencia":"EMERGENTE",
+ "foco":"cómo intervenir un conflicto entre estudiantes de modo que ambos aprendan y el problema no vuelva",
+ "proposito":"Mediar conflictos entre pares con un procedimiento estructurado y distinguir conflicto, agresión sostenida y situación que requiere protocolo institucional.",
+ "decision":"determinar si la situación es un conflicto mediable, un caso de hostigamiento o una vulneración que exige protocolo",
+ "entregable":"un protocolo de mediación con criterios de clasificación de la situación y el procedimiento para cada caso",
+ "conceptos":[
+  ["Conflicto","desacuerdo entre partes con poder relativamente equivalente; es mediable"],
+  ["Hostigamiento","agresión sostenida con asimetría de poder; no es mediable y requiere intervención específica"],
+  ["Práctica restaurativa","enfoque centrado en reparar el daño y restablecer relaciones, con evidencia emergente"],
+  ["Derivación","traspaso a la instancia competente cuando la situación excede la mediación pedagógica"]],
+ "desarrollo":"La primera decisión es de clasificación y determina todo lo demás: un conflicto entre pares con poder equivalente se puede mediar; una situación de hostigamiento sostenido no, porque la mediación expone a quien es agredido y legitima una equivalencia que no existe. Confundir ambas es el error más grave y más frecuente en la gestión de convivencia escolar.",
+ "practica":"El protocolo define primero los criterios de clasificación —asimetría, repetición, intención, efecto— y después el procedimiento para cada caso. Para el conflicto mediable, un procedimiento restaurativo con preguntas estructuradas y acuerdo verificable. Para el hostigamiento, protección de la víctima, intervención sobre el agresor y activación del protocolo institucional.",
+ "limites":"La evidencia sobre prácticas restaurativas en escuelas es prometedora y todavía limitada: los estudios muestran efectos en clima y en reducción de sanciones, con alta variabilidad según implementación. No sustituyen los protocolos obligatorios ante situaciones que la norma tipifica.",
+ "errores":[
+  "Mediar una situación de hostigamiento como si fuera un conflicto entre iguales.",
+  "Cerrar la intervención sin acuerdo verificable ni seguimiento posterior."],
+ "criterios":[
+  "el protocolo declara criterios explícitos para clasificar la situación;",
+  "cada procedimiento termina con acuerdo verificable y seguimiento con fecha;"],
+ "preguntas":[
+  "¿Hay asimetría de poder entre las partes?",
+  "¿Es la primera vez o es un patrón sostenido?",
+  "¿Quién verifica en dos semanas si el acuerdo se cumplió?"],
+ "lecturas":[
+  ["Olweus, D. *Bullying at School* y programas derivados.","distingue hostigamiento de conflicto y aporta criterios operativos de identificación."],
+  ["Mineduc / Superintendencia de Educación. *Orientaciones y protocolos de convivencia escolar*.","define el procedimiento obligatorio en Chile ante situaciones tipificadas."]],
+ "inclusion":"Los estudiantes con discapacidad, migrantes o con identidades minorizadas son objeto de hostigamiento con mayor frecuencia y lo reportan menos. Un sistema que depende de la denuncia espontánea los deja fuera; se requiere detección activa.",
+ "reto":"Aplica tu protocolo a una situación real y documenta la clasificación, el procedimiento y el seguimiento. Revisa a las dos semanas si el acuerdo se sostuvo.",
+ "conexion":"Se apoya en las clases 045 y 149 y se conecta con la clase 155 cuando la situación escala."},
+
+{"n":151,"evidencia":"CONSISTENTE",
+ "foco":"qué hacer con el estudiante que ya decidió que su asignatura no le interesa",
+ "proposito":"Intervenir la desmotivación y la resistencia entendiendo su función: casi siempre protegen de una experiencia repetida de fracaso o de una relación deteriorada.",
+ "decision":"determinar qué está protegiendo la resistencia de tu estudiante y qué condición debe cambiar primero",
+ "entregable":"un plan de intervención para un estudiante desenganchado con hipótesis, acciones y seguimiento",
+ "conceptos":[
+  ["Resistencia","conducta de rechazo activo o pasivo que suele proteger de una amenaza percibida"],
+  ["Desenganche","retiro progresivo del esfuerzo y de la participación, con frecuencia silencioso"],
+  ["Historia de fracaso","acumulación de experiencias que hacen racional dejar de intentar"],
+  ["Reingreso","proceso gradual de recuperación de la participación con logros verificables"]],
+ "desarrollo":"No esforzarse protege: si nunca lo intentas, el fracaso no informa sobre tu capacidad. Vista así, la desmotivación deja de ser un defecto de carácter y pasa a ser una estrategia comprensible ante una historia de fracaso. La intervención, en consecuencia, no consiste en exigir más esfuerzo sino en cambiar las condiciones que hacen racional no intentarlo.",
+ "practica":"El plan parte de una hipótesis explícita: qué protege esta conducta. Después, tres acciones con seguimiento: una experiencia temprana de éxito auténtico, una relación con un adulto que note su presencia, y una reducción del costo de intentar —empezar con una tarea acotada, sin exposición pública—. El seguimiento con fechas es lo que distingue un plan de una buena intención.",
+ "limites":"La desmotivación puede tener causas que exceden la asignatura: situación familiar, salud mental, consumo, vulneración. La intervención pedagógica no las resuelve y puede retrasar la derivación necesaria. La regla es intervenir en lo propio y observar señales que exigen derivar.",
+ "errores":[
+  "Interpretar la resistencia como falta de voluntad y responder con más exigencia.",
+  "Sostener el plan sin fechas de seguimiento, con lo que se disuelve en dos semanas."],
+ "criterios":[
+  "el plan declara una hipótesis sobre qué protege la conducta;",
+  "incluye una experiencia de éxito auténtico y seguimiento con fechas;"],
+ "preguntas":[
+  "¿De qué protege a este estudiante no intentarlo?",
+  "¿Cuándo fue la última vez que tuvo una experiencia real de logro en tu asignatura?",
+  "¿Qué adulto de la institución nota si él falta?"],
+ "lecturas":[
+  ["Covington, M. (1992). *Making the Grade: A Self-Worth Perspective on Motivation and School Reform*.","explica la evitación del esfuerzo como protección del valor propio."],
+  ["Wlodkowski, R. (2008). *Enhancing Adult Motivation to Learn*.","estrategias de reenganche aplicables también a adolescentes y adultos jóvenes."]],
+ "inclusion":"El desenganche silencioso pasa inadvertido cuando la conducta no molesta. Los estudiantes que se retiran sin disrumpir son los que menos intervención reciben y los que con más frecuencia abandonan.",
+ "reto":"Escoge al estudiante más desenganchado de tu curso. Ejecuta el plan durante seis semanas con seguimiento semanal y documenta lo que cambió.",
+ "conexion":"Aplica las clases 022 y 062 y se conecta con la clase 155 si aparecen señales de riesgo."},
+
+{"n":152,"evidencia":"EN-DEBATE",
+ "foco":"cómo sostener la integridad académica cuando la verificación de autoría dejó de ser posible",
+ "proposito":"Diseñar un sistema de integridad académica que combine reglas claras, evaluación resistente y formación en criterio, en un contexto donde las herramientas generativas cambiaron el problema.",
+ "decision":"determinar qué evaluaciones de tu curso son insostenibles hoy y con qué las reemplazas",
+ "entregable":"una política de integridad académica de curso con reglas, evaluaciones rediseñadas y procedimiento ante incumplimiento",
+ "conceptos":[
+  ["Integridad académica","conjunto de normas sobre autoría, honestidad y uso legítimo de fuentes y herramientas"],
+  ["Evaluación resistente","tarea cuyo resultado no puede producirse sin el aprendizaje que declara evaluar"],
+  ["Uso legítimo declarado","política explícita sobre qué herramientas se permiten y bajo qué condiciones"],
+  ["Debido proceso","procedimiento justo ante una acusación de falta de integridad"]],
+ "desarrollo":"La disponibilidad de herramientas generativas volvió inviable la verificación de autoría por inspección del texto, y los detectores automáticos tienen tasas de error que no permiten sostener una acusación. El desplazamiento razonable es doble: hacia evaluaciones donde el producto no se pueda generar sin aprendizaje —defensa oral, producción en clase, trabajo sobre datos propios— y hacia reglas explícitas sobre uso legítimo.",
+ "practica":"La política de curso debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos concretos. Y el procedimiento ante un incumplimiento debe respetar debido proceso: evidencia, oportunidad de explicar, proporcionalidad y registro. Acusar a partir de un detector automático es técnicamente insostenible y produce daños graves e injustos.",
+ "limites":"Hay desacuerdo genuino sobre qué usos son legítimos y sobre cómo evaluar en este contexto: el campo está cambiando y las políticas institucionales van detrás. Cualquier posición debe declararse como decisión provisional y revisable, y comunicarse con anticipación a los estudiantes.",
+ "errores":[
+  "Acusar de plagio a partir del resultado de un detector automático.",
+  "Prohibir sin definir usos legítimos, con lo que la regla se vuelve inaplicable y arbitraria."],
+ "criterios":[
+  "la política declara usos permitidos, condicionados y prohibidos con ejemplos;",
+  "el procedimiento ante incumplimiento respeta debido proceso y proporcionalidad;"],
+ "preguntas":[
+  "¿Qué evaluación tuya podría resolverse íntegramente sin haber aprendido nada?",
+  "¿Qué uso de herramientas permites y lo dijiste por escrito?",
+  "¿Qué evidencia sostendría una acusación en tu curso?"],
+ "lecturas":[
+  ["International Center for Academic Integrity. *Fundamental Values of Academic Integrity*.","marco de referencia sobre valores y políticas institucionales."],
+  ["UNESCO (2023). *Guidance for Generative AI in Education and Research*.","orientaciones internacionales para políticas institucionales de uso de IA."]],
+ "inclusion":"Las acusaciones basadas en detectores afectan de forma desproporcionada a estudiantes que escriben en segunda lengua, cuyos textos son marcados con más frecuencia. Es una razón técnica adicional para no usarlos como evidencia.",
+ "reto":"Identifica la evaluación más vulnerable de tu curso y rediséñala para que exija aprendizaje verificable. Comunica la política antes de aplicarla.",
+ "conexion":"Se conecta con las clases 136 y 164 y anticipa el tratamiento de la parte 13."},
+
+{"n":153,"evidencia":"EN-DEBATE",
+ "foco":"qué política sobre dispositivos sostiene el aprendizaje sin convertirse en una guerra permanente",
+ "proposito":"Definir una política de uso de dispositivos fundada en el efecto sobre la atención y el aprendizaje, aplicable de forma consistente y comunicada a estudiantes y familias.",
+ "decision":"determinar qué política de dispositivos aplicarás y cómo la sostendrás sin desgastar la relación",
+ "entregable":"una política de uso de dispositivos con su fundamento, su procedimiento y su comunicación a las familias",
+ "conceptos":[
+  ["Atención dividida","alternancia entre tareas con costo de rendimiento; no es procesamiento simultáneo"],
+  ["Uso instruccional","empleo del dispositivo para una tarea de aprendizaje definida y acotada"],
+  ["Consistencia institucional","aplicación uniforme de la política en todo el establecimiento"],
+  ["Comunicación anticipada","información a estudiantes y familias antes de aplicar la regla"]],
+ "desarrollo":"La evidencia sobre uso de dispositivos en clase muestra efectos negativos sobre la atención y el desempeño cuando el uso no está vinculado a la tarea, incluidos efectos sobre quienes están alrededor. También muestra que la mera presencia visible del teléfono puede afectar el rendimiento en tareas exigentes. Al mismo tiempo, la prohibición total desaprovecha usos instruccionales legítimos y es difícil de sostener sin respaldo institucional.",
+ "practica":"Una política aplicable define momentos y usos: guardado por defecto, uso autorizado y acotado para tareas específicas, y procedimiento claro ante el incumplimiento. La condición decisiva es la consistencia institucional: si cada docente aplica una regla distinta, la política se negocia clase a clase y desgasta la relación.",
+ "limites":"La evidencia sobre prohibiciones a nivel de establecimiento es mixta y los estudios disponibles tienen limitaciones de diseño. Además, hay estudiantes que requieren el dispositivo como tecnología de apoyo, y cualquier política debe contemplarlo explícitamente para no producir exclusión.",
+ "errores":[
+  "Aplicar una política individual distinta de la institucional y negociarla clase a clase.",
+  "Prohibir sin contemplar los usos como tecnología de apoyo para estudiantes que la requieren."],
+ "criterios":[
+  "la política declara momentos, usos autorizados y procedimiento ante incumplimiento;",
+  "contempla explícitamente las excepciones por tecnología de apoyo;"],
+ "preguntas":[
+  "¿Qué regla aplica realmente en tu establecimiento y quién la sostiene?",
+  "¿Qué uso instruccional justifica el dispositivo en tu asignatura?",
+  "¿Qué estudiante lo necesita como apoyo y cómo lo resolviste?"],
+ "lecturas":[
+  ["Ward, A. et al. (2017). *Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity*.","evidencia experimental sobre el costo atencional de la presencia del dispositivo."],
+  ["UNESCO (2023). *Informe de Seguimiento de la Educación en el Mundo: tecnología en la educación*.","revisa la evidencia sobre uso de tecnología y políticas de dispositivos en escuelas."]],
+ "inclusion":"Las políticas restrictivas mal diseñadas pueden privar de tecnología de apoyo a estudiantes con discapacidad. La excepción debe estar escrita y no depender de que cada docente la conceda.",
+ "reto":"Revisa la política de tu establecimiento y su aplicación real durante una semana. Propón una versión consistente y comunicable a las familias.",
+ "conexion":"Se apoya en la clase 018 y se articula con la parte 13 sobre uso pedagógico de la tecnología."},
+
+{"n":154,"evidencia":"CONSISTENTE",
+ "foco":"cómo conducir una entrevista difícil con una familia sin perder el foco en el estudiante",
+ "proposito":"Trabajar con apoderados de forma profesional: preparación de la entrevista, comunicación de información difícil, construcción de acuerdos y registro verificable.",
+ "decision":"determinar qué acuerdo concreto necesitas de esta entrevista y cómo lo verificarás",
+ "entregable":"el guion y el registro de una entrevista con apoderados, con acuerdos, responsables y fecha de seguimiento",
+ "conceptos":[
+  ["Preparación de la entrevista","definición previa del objetivo, la evidencia y el acuerdo buscado"],
+  ["Comunicación de información difícil","entrega de información sensible con evidencia, sin juicio y con vía de salida"],
+  ["Acuerdo verificable","compromiso concreto con responsable, plazo y forma de comprobación"],
+  ["Registro","documentación de lo conversado y acordado, firmada o confirmada por ambas partes"]],
+ "desarrollo":"Las entrevistas con apoderados fallan por falta de preparación: se convocan sin objetivo claro, se entrega información sin evidencia y se termina sin acuerdo. Una entrevista profesional define antes qué se busca lograr, reúne evidencia concreta de lo que se afirmará, anticipa la reacción probable y termina con un acuerdo verificable y registrado.",
+ "practica":"La comunicación de información difícil se sostiene en evidencia y no en interpretaciones: mostrar el trabajo del estudiante, los registros de asistencia o las observaciones fechadas evita la discusión sobre percepciones. Y el acuerdo debe ser realista para la familia: comprometer lo imposible garantiza el incumplimiento y deteriora la relación para las próximas conversaciones.",
+ "limites":"Hay situaciones donde el acuerdo con la familia no es posible o donde la familia es parte del problema. En esos casos la entrevista tiene otro propósito —informar, derivar, activar protocolo— y conviene tenerlo claro antes de convocar. Y toda información sensible del estudiante tiene resguardos que hay que respetar.",
+ "errores":[
+  "Convocar sin objetivo definido ni evidencia concreta de lo que se afirmará.",
+  "Cerrar la entrevista sin acuerdo verificable ni registro de lo conversado."],
+ "criterios":[
+  "la entrevista se prepara con objetivo, evidencia y acuerdo buscado;",
+  "el registro contiene acuerdos con responsable, plazo y forma de verificación;"],
+ "preguntas":[
+  "¿Qué evidencia concreta llevas a la entrevista?",
+  "¿Qué acuerdo necesitas y es realista para esta familia?",
+  "¿Quién verifica su cumplimiento y cuándo?"],
+ "lecturas":[
+  ["Epstein, J. (2011). *School, Family, and Community Partnerships*.","marco de trabajo con familias y tipos de participación con evidencia."],
+  ["Superintendencia de Educación (Chile). *Orientaciones sobre comunicación con las familias y resguardo de información*.","define obligaciones y buenas prácticas aplicables en el sistema chileno."]],
+ "inclusion":"Las familias con menor escolaridad, migrantes o que no hablan español con fluidez participan menos y son más frecuentemente juzgadas como desinteresadas. Ofrecer horarios alternativos, traducción y lenguaje claro cambia esa lectura.",
+ "reto":"Prepara y conduce una entrevista con guion y registro. Verifica a las tres semanas si el acuerdo se cumplió y qué falló si no ocurrió.",
+ "conexion":"Se apoya en la clase 047 y se conecta con la clase 155 cuando la situación excede el ámbito pedagógico."},
+
+{"n":155,"evidencia":"MARCO-NORMATIVO",
+ "foco":"qué hacer en los primeros minutos de una situación que excede lo pedagógico",
+ "proposito":"Actuar ante crisis y situaciones de riesgo con procedimiento: contención inmediata, activación del protocolo, derivación responsable, registro y resguardo de la confidencialidad.",
+ "decision":"determinar qué corresponde hacer, en qué orden y con quién, ante una situación de riesgo",
+ "entregable":"un protocolo personal de actuación ante tres situaciones de riesgo, contrastado con la normativa vigente",
+ "conceptos":[
+  ["Situación de riesgo","circunstancia que compromete la integridad física o psicológica de un estudiante"],
+  ["Contención","respuesta inmediata que asegura la integridad antes de cualquier otra acción"],
+  ["Derivación responsable","traspaso a la instancia competente con información suficiente y verificación de recepción"],
+  ["Registro","documentación fechada de lo observado, lo actuado y lo informado"]],
+ "desarrollo":"Ante una crisis, el orden importa: primero se asegura la integridad, después se activa el protocolo institucional, luego se informa a quien corresponde y se registra. Improvisar produce dos errores típicos: actuar solo en situaciones que exigen derivación, o derivar sin información suficiente y dar por cerrada la responsabilidad. Ambos dejan al estudiante sin protección real.",
+ "practica":"El protocolo personal debe conocer el institucional y la normativa: quién es el encargado de convivencia, qué plazos corren, qué situaciones exigen denuncia y ante quién. Tener esa información antes de necesitarla es lo que permite actuar en minutos. Y el registro debe describir hechos observados con fecha, sin interpretaciones ni juicios sobre las personas.",
+ "limites":"La normativa sobre denuncia, plazos y responsabilidades es específica y cambia; debe verificarse en su versión vigente y con la autoridad competente. Y el rol docente tiene límites claros: contener, derivar y acompañar, no diagnosticar ni tratar. Exceder ese límite perjudica al estudiante y expone al profesional.",
+ "errores":[
+  "Prometer confidencialidad absoluta antes de conocer la situación.",
+  "Derivar sin información suficiente y sin verificar que la derivación fue recibida."],
+ "criterios":[
+  "el protocolo distingue contención, activación, derivación y registro, en orden;",
+  "cada situación identifica plazo, instancia competente y forma de verificación;"],
+ "preguntas":[
+  "¿Qué haces en los primeros cinco minutos de una situación de riesgo?",
+  "¿Quién es el encargado de convivencia de tu establecimiento y qué plazo corre?",
+  "¿Cómo verificas que tu derivación llegó y fue atendida?"],
+ "lecturas":[
+  ["Mineduc / Superintendencia de Educación. *Protocolos de actuación ante situaciones de vulneración*.","define el procedimiento obligatorio y los plazos aplicables en Chile."],
+  ["Organización Mundial de la Salud. *Orientaciones sobre salud mental en entornos escolares*.","criterios de detección y derivación desde el rol educativo, con sus límites."]],
+ "inclusion":"Los estudiantes con menos red de apoyo dependen enteramente de que la escuela active el procedimiento correcto. La detección activa, y no la espera de la denuncia espontánea, es lo que los alcanza.",
+ "reto":"Contrasta tu protocolo con la normativa vigente y con el encargado de convivencia. Corrige los puntos donde tu procedimiento no coincide con el institucional.",
+ "conexion":"Aplica la clase 004 y cierra la cadena que abren las clases 150 y 151."},
+
+{"n":156,"evidencia":"CONSISTENTE",
+ "foco":"cómo se articula todo lo anterior en un plan que se pueda ejecutar desde el primer día de clases",
+ "proposito":"Integrar la parte construyendo el plan de gestión de aula de un curso: rutinas, normas, prevención, respuesta graduada, comunicación, trabajo con familias y protocolos.",
+ "decision":"determinar el plan completo de gestión y qué indicadores mostrarán si está funcionando",
+ "entregable":"un plan de gestión de aula completo con indicadores de clima y registro de su primera aplicación",
+ "conceptos":[
+  ["Plan de gestión de aula","conjunto articulado de decisiones preventivas y de respuesta para un curso"],
+  ["Indicador de clima","medida observable —tiempo de inicio, participación, incidentes— que permite seguir el efecto"],
+  ["Coherencia con la institución","correspondencia entre el plan del docente y el reglamento y los protocolos vigentes"],
+  ["Revisión periódica","instancia planificada para ajustar el plan con evidencia de su funcionamiento"]],
+ "desarrollo":"El plan integrador exige coherencia entre lo preventivo y lo reactivo, y entre lo que decide el docente y lo que establece la institución. Un plan que contradice el reglamento interno se cae en el primer caso serio; uno que solo copia el reglamento no aporta las decisiones cotidianas que hacen la diferencia. La articulación de ambos es el trabajo de esta clase.",
+ "practica":"El plan se organiza en capas: diseño preventivo, sistema de normas y rutinas, escala de respuesta, comunicación y trabajo con familias, y protocolos de derivación. Y define indicadores simples de seguimiento: minutos hasta el inicio efectivo, número de intervenciones por semana, participación distribuida, incidentes registrados.",
+ "limites":"Ningún plan de aula compensa condiciones institucionales adversas ni situaciones que exceden lo pedagógico. Declarar esos límites protege al docente de asumir responsabilidades que no le corresponden y permite argumentar ante el equipo directivo con evidencia.",
+ "errores":[
+  "Diseñar un plan que contradice el reglamento interno vigente.",
+  "Definir el plan sin indicadores, con lo que no se puede saber si funciona."],
+ "criterios":[
+  "el plan es coherente con el reglamento y los protocolos institucionales;",
+  "incluye indicadores observables y una fecha de revisión;"],
+ "preguntas":[
+  "¿Qué parte de tu plan contradice el reglamento de tu establecimiento?",
+  "¿Qué indicador te diría en tres semanas que está funcionando?",
+  "¿Qué condición institucional impide ejecutar tu plan como lo diseñaste?"],
+ "lecturas":[
+  ["Evertson, C. & Emmer, E. *Classroom Management*.","modelo completo de planificación de la gestión desde el comienzo del año."],
+  ["Mineduc. *Política Nacional de Convivencia Educativa*.","marco chileno que enmarca el plan del docente en la política institucional."]],
+ "inclusion":"El plan debe declarar cómo se ajusta para estudiantes con necesidades de apoyo conductual, y cómo se evita que reciban de forma desproporcionada las medidas más severas. El registro por estudiante es lo que permite detectarlo.",
+ "reto":"Ejecuta el plan durante un mes registrando tus indicadores. Presenta los resultados al equipo y propón un ajuste institucional a partir de ellos.",
+ "conexion":"Cierra la parte 12 integrando sus once clases previas y se conecta con la parte 15."}
+]

@@ -1,0 +1,361 @@
+[
+{"n":13,"evidencia":"ROBUSTA",
+ "foco":"qué explica bien el conductismo, qué no explica, y por qué sigue operando en casi todas las aulas sin que se lo nombre",
+ "proposito":"Recuperar el aporte real del conductismo —la conducta observable, el reforzamiento, la práctica— separándolo de su caricatura. Buena parte de la gestión de aula, del entrenamiento de habilidades y de los sistemas de incentivos escolares funciona con esta lógica, se admita o no.",
+ "decision":"determinar si el problema que enfrentas se resuelve modificando consecuencias o si exige intervenir en la comprensión",
+ "entregable":"un análisis funcional de una conducta real del aula, con antecedente, conducta, consecuencia y una intervención propuesta",
+ "conceptos":[
+  ["Reforzamiento","consecuencia que aumenta la probabilidad de que una conducta se repita"],
+  ["Castigo","consecuencia que disminuye la probabilidad de una conducta; con efectos secundarios documentados"],
+  ["Programa de reforzamiento","regla que define cuándo se entrega la consecuencia; determina la persistencia de la conducta"],
+  ["Análisis funcional","procedimiento que identifica antecedente, conducta y consecuencia para explicar por qué ocurre algo"]],
+ "desarrollo":"El conductismo aportó algo que ninguna teoría posterior invalidó: las conductas se sostienen por sus consecuencias, y esas consecuencias son observables y manipulables. Un estudiante que interrumpe y obtiene atención está siendo reforzado, aunque el docente crea estar sancionando. El análisis funcional —qué ocurre antes, qué hace la persona, qué obtiene después— sigue siendo la herramienta más eficaz para explicar conductas persistentes que parecen irracionales.",
+ "practica":"La aplicación útil no es un sistema de premios y castigos, sino la lectura funcional de lo que ya está ocurriendo. Antes de diseñar una intervención conviene preguntarse qué está reforzando la conducta indeseada y qué consecuencia recibe la conducta deseada, que muchas veces es ninguna. Cambiar eso suele bastar. En aprendizaje de destrezas —lectura fluida, cálculo, procedimientos técnicos— la práctica distribuida con corrección inmediata proviene de esta tradición y funciona.",
+ "limites":"El conductismo describe bien la conducta y mal la comprensión: no explica cómo alguien entiende una idea nueva, transfiere a un contexto distinto o cambia una concepción errónea. Además, la evidencia sobre recompensas externas muestra un riesgo real: en tareas que la persona ya hacía por interés propio, premiar puede reducir la motivación posterior. Por eso el reforzamiento externo se usa con criterio y con plan de retirada, no como sistema permanente.",
+ "errores":[
+  "Reforzar sin advertirlo la conducta que se quiere eliminar, prestándole atención inmediata.",
+  "Instalar sistemas de premios permanentes en tareas que el estudiante ya realizaba por interés."],
+ "criterios":[
+  "el análisis funcional identifica antecedente, conducta y consecuencia con evidencia observada;",
+  "la intervención propuesta modifica consecuencias reales y define cómo se retirará;"],
+ "preguntas":[
+  "¿Qué obtiene el estudiante cuando emite la conducta que quieres reducir?",
+  "¿Qué consecuencia recibe hoy la conducta que quieres aumentar?",
+  "¿En qué caso un premio podría empeorar la motivación de tu grupo?"],
+ "lecturas":[
+  ["Skinner, B. F. (1968). *The Technology of Teaching*.","la formulación original aplicada a la enseñanza; léelo por su precisión conceptual, no por su programa educativo completo."],
+  ["Deci, E., Koestner, R. & Ryan, R. (1999). *A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation*.","documenta cuándo la recompensa externa deteriora la motivación interna; el matiz que evita el mal uso del reforzamiento."]],
+ "inclusion":"Los sistemas conductuales aplicados sin análisis previo castigan con más frecuencia a estudiantes con TDAH, autismo o dificultades de regulación, cuya conducta no responde a falta de voluntad. Antes de intervenir consecuencias hay que descartar barreras de acceso, de comprensión de la tarea o de regulación sensorial.",
+ "reto":"Observa durante tres clases una conducta que te preocupe y registra antecedentes y consecuencias reales. Diseña una intervención que cambie la consecuencia y define cómo comprobarás su efecto en dos semanas.",
+ "conexion":"Es la base técnica de la parte 12 (gestión del aula) y complementa la clase 022 sobre motivación, que explica los límites del reforzamiento externo."},
+
+{"n":14,"evidencia":"ROBUSTA",
+ "foco":"por qué pensar la mente como un sistema que procesa información con recursos limitados cambia cómo se diseña una clase",
+ "proposito":"Adoptar el modelo de procesamiento de información —entrada, atención, memoria de trabajo, memoria de largo plazo, recuperación— como marco para explicar por qué una explicación clara puede resultar incomprensible.",
+ "decision":"determinar en qué punto del procesamiento se está perdiendo el aprendizaje de tu grupo",
+ "entregable":"un diagnóstico de una clase propia que localice el cuello de botella —atención, codificación, almacenamiento o recuperación— con evidencia",
+ "conceptos":[
+  ["Procesamiento de información","modelo que describe el aprendizaje como flujo entre registros de memoria con capacidad limitada"],
+  ["Codificación","proceso por el que la información se transforma en representación almacenable"],
+  ["Esquema","estructura de conocimiento organizado que permite tratar muchos elementos como uno solo"],
+  ["Recuperación","acceso a la información almacenada; es el proceso que fortalece la memoria al ejercerse"]],
+ "desarrollo":"El modelo cognitivo sustituyó la caja negra conductista por una arquitectura: la información entra si hay atención, se procesa en una memoria de trabajo muy limitada, se almacena en una memoria de largo plazo prácticamente ilimitada y solo sirve si se puede recuperar. Cada uno de esos pasos puede fallar, y fallan de manera distinta. Un estudiante que no atiende, uno que atiende pero se satura, uno que entendió y olvidó y uno que sabe pero no puede recuperar en la prueba tienen problemas diferentes y soluciones diferentes.",
+ "practica":"El uso profesional es diagnóstico. Ante un mal resultado, en vez de repetir la clase más lento, conviene preguntarse dónde se cortó el flujo: si el problema fue atencional, cambian las condiciones de inicio; si fue saturación, se segmenta y se apoya; si fue almacenamiento, se agrega práctica distribuida; si fue recuperación, se entrena recuperar en condiciones parecidas a las de la evaluación.",
+ "limites":"El modelo es una metáfora útil, no una descripción neurológica literal. Las capacidades no son fijas ni idénticas entre personas, y el conocimiento previo modifica radicalmente los límites: lo que satura a un novato es un solo elemento para un experto. Además, el modelo explica mejor el aprendizaje de contenidos que la construcción de significado en contextos sociales, que exige los marcos de las clases siguientes.",
+ "errores":[
+  "Explicar más despacio y más veces cuando el problema no está en la explicación.",
+  "Tratar la capacidad de la memoria de trabajo como rasgo fijo del estudiante y no como algo que el conocimiento previo modifica."],
+ "criterios":[
+  "el diagnóstico localiza el punto de falla con evidencia y no con suposición;",
+  "la acción propuesta corresponde específicamente al punto identificado;"],
+ "preguntas":[
+  "¿Tus estudiantes no entendieron, no retuvieron o no pudieron recuperar?",
+  "¿Qué evidencia distinguiría esos tres casos en tu asignatura?",
+  "¿Qué parte de tu clase exige procesar más elementos simultáneos de los que un novato puede sostener?"],
+ "lecturas":[
+  ["Atkinson, R. & Shiffrin, R. (1968). *Human Memory: A Proposed System and Its Control Processes*.","el modelo estructural clásico; sigue siendo el andamio conceptual del que derivan las clases 017 a 020."],
+  ["Willingham, D. (2009). *Why Don't Students Like School?*","traduce la arquitectura cognitiva a decisiones de aula con ejemplos concretos; excelente puente para equipos docentes."]],
+ "inclusion":"Localizar el punto de falla evita atribuir a desmotivación lo que es una barrera cognitiva concreta. Un estudiante con dificultad de acceso al texto puede fallar en codificación aunque comprenda perfectamente el contenido oral: el diagnóstico correcto evita una intervención que humilla y no sirve.",
+ "reto":"Toma una evaluación con malos resultados y clasifica los errores de diez estudiantes según el punto de falla. Diseña una acción distinta para cada grupo y compara sus efectos.",
+ "conexion":"Es el marco que sostiene las clases 017 a 020 y la parte 11, donde la recuperación en condiciones de evaluación explica buena parte de la varianza de resultados."},
+
+{"n":15,"evidencia":"CONSISTENTE",
+ "foco":"por qué el conocimiento previo es a la vez el mejor recurso y el principal obstáculo para aprender algo nuevo",
+ "proposito":"Comprender el aprendizaje como construcción sobre lo que ya se sabe, y usar esa idea para diseñar enseñanza que active, use y corrija las concepciones previas en vez de ignorarlas.",
+ "decision":"determinar qué concepción previa de tus estudiantes debes hacer explícita antes de enseñar el contenido nuevo",
+ "entregable":"un instrumento breve de detección de concepciones previas para un contenido concreto, con las respuestas erróneas esperadas",
+ "conceptos":[
+  ["Construcción del conocimiento","proceso por el que el sujeto integra información nueva reorganizando lo que ya sabe"],
+  ["Concepción alternativa","idea previa coherente y estable que contradice el conocimiento disciplinar y resiste la enseñanza"],
+  ["Conflicto cognitivo","situación en que la evidencia contradice la concepción previa y fuerza su revisión"],
+  ["Asimilación y acomodación","incorporar lo nuevo a un esquema existente o modificar el esquema para que lo nuevo quepa"]],
+ "desarrollo":"El aporte central del constructivismo es que nadie aprende sobre un vacío: toda información nueva se interpreta desde lo que ya se cree. De ahí que las concepciones alternativas —que la Tierra tiene estaciones porque se acerca al Sol, que los objetos pesados caen más rápido— sobrevivan a explicaciones correctas repetidas durante años. No son errores por falta de información: son teorías que funcionan razonablemente en la experiencia cotidiana, y por eso resisten.",
+ "practica":"La consecuencia didáctica es que la enseñanza debe empezar por hacer visible lo que el estudiante cree, no por presentar la versión correcta. Un instrumento de tres preguntas bien diseñadas revela la concepción previa dominante del curso; a partir de ahí se puede confrontar con evidencia que la concepción no explica. Enseñar sin ese paso produce el fenómeno conocido: el estudiante aprende la respuesta escolar para la prueba y conserva intacta su teoría original.",
+ "limites":"El constructivismo es una teoría del aprendizaje, no un método de enseñanza, y esa confusión ha producido daño real. De «el estudiante construye su conocimiento» no se sigue que deba descubrirlo sin guía: la evidencia sobre instrucción con guía mínima es consistentemente desfavorable para novatos. Construir es lo que hace la mente; guiar es lo que hace el docente, y no son alternativas.",
+ "errores":[
+  "Deducir del constructivismo que la instrucción explícita es incompatible con el aprendizaje activo.",
+  "Presentar la versión correcta sin haber hecho visible la concepción previa que compite con ella."],
+ "criterios":[
+  "el instrumento anticipa qué respuesta errónea revelará cada concepción alternativa;",
+  "la secuencia posterior confronta la concepción con evidencia que ella no puede explicar;"],
+ "preguntas":[
+  "¿Qué cree tu grupo sobre este contenido antes de que tú lo enseñes?",
+  "¿Qué respuesta correcta podría estar ocultando una concepción errónea intacta?",
+  "¿Qué evidencia haría insostenible la concepción previa de tus estudiantes?"],
+ "lecturas":[
+  ["Piaget, J. (1970). *Psicología y epistemología*.","fuente del par asimilación-acomodación; útil para entender el mecanismo, con las reservas actuales sobre las etapas fijas."],
+  ["Kirschner, P., Sweller, J. & Clark, R. (2006). *Why Minimal Guidance During Instruction Does Not Work*. Educational Psychologist, 41(2).","el contrapunto obligatorio: distingue la teoría del aprendizaje del método de enseñanza que se le atribuye."]],
+ "inclusion":"Las concepciones previas están atravesadas por la cultura y la lengua del hogar. Tratarlas como ignorancia produce exclusión; tratarlas como punto de partida legítimo permite corregirlas sin desautorizar al estudiante ni a su entorno familiar.",
+ "reto":"Aplica tu instrumento a un curso real. Identifica la concepción alternativa más frecuente y diseña una situación que la ponga a prueba de forma que el propio estudiante detecte la contradicción.",
+ "conexion":"Se apoya en la clase 014 y prepara la clase 016. En la parte 10 reaparece como anticipación del error frecuente, que es el núcleo del conocimiento pedagógico del contenido."},
+
+{"n":16,"evidencia":"CONSISTENTE",
+ "foco":"por qué lo que un estudiante logra hoy con ayuda es mejor predictor de su aprendizaje que lo que logra solo",
+ "proposito":"Incorporar la dimensión social del aprendizaje: el desarrollo se produce en la interacción con otros más competentes, y la enseñanza opera en la distancia entre lo que se logra con apoyo y lo que se logra sin él.",
+ "decision":"determinar qué apoyo dar, cuánto y en qué momento retirarlo para que el estudiante quede autónomo",
+ "entregable":"el diseño de una secuencia con apoyo graduado, con el criterio explícito de retiro de cada apoyo",
+ "conceptos":[
+  ["Zona de desarrollo próximo","distancia entre lo que se logra de forma autónoma y lo que se logra con apoyo competente"],
+  ["Mediación","intervención de otra persona o de un instrumento cultural que hace posible un desempeño todavía no autónomo"],
+  ["Andamiaje","apoyo temporal, ajustado y retirado progresivamente a medida que aumenta el dominio"],
+  ["Internalización","proceso por el que una regulación externa se convierte en regulación propia del estudiante"]],
+ "desarrollo":"La contribución socioconstructivista desplaza el foco desde la mente aislada hacia la interacción. Lo que un estudiante hace hoy acompañado, mañana lo hará solo: por eso el desempeño asistido informa más sobre su potencial de aprendizaje que el desempeño autónomo. El lenguaje cumple aquí un papel doble: es el medio de la interacción y el instrumento con el que después el estudiante se regula a sí mismo.",
+ "practica":"El andamiaje bien hecho tiene tres propiedades verificables: es ajustado al desempeño real —no al esperado—, es temporal y tiene criterio de retiro definido de antemano. Un apoyo permanente deja de ser andamiaje y se convierte en dependencia; un apoyo retirado antes de tiempo produce fracaso evitable. Escribir el criterio de retiro junto con el apoyo es lo que convierte una intuición en una decisión profesional.",
+ "limites":"La zona de desarrollo próximo es un concepto potente y difícil de operacionalizar: no existe una medida estándar. Buena parte de su uso en documentos escolares es decorativo. Además, la interacción entre pares solo produce aprendizaje bajo condiciones específicas —tarea que exige interdependencia, roles, responsabilidad individual—; sin ellas, el trabajo en grupo reparte la tarea en vez de construir conocimiento.",
+ "errores":[
+  "Usar la expresión «zona de desarrollo próximo» sin poder decir qué apoyo concreto se ofrece ni cuándo se retira.",
+  "Suponer que juntar estudiantes en grupos produce por sí solo aprendizaje mediado."],
+ "criterios":[
+  "cada apoyo declara su criterio de retiro y el indicador que lo activa;",
+  "la secuencia muestra al menos un momento de desempeño sin apoyo antes de evaluar;"],
+ "preguntas":[
+  "¿Qué apoyo estás dando hoy que deberías haber retirado hace un mes?",
+  "¿Cómo sabrías que un estudiante ya no necesita la ayuda que le das?",
+  "¿Qué condición hace que un trabajo en grupo enseñe en vez de repartir tareas?"],
+ "lecturas":[
+  ["Vygotsky, L. (1978). *Mind in Society*.","fuente directa de la zona de desarrollo próximo y de la mediación; conviene leer el original antes que sus resúmenes."],
+  ["Wood, D., Bruner, J. & Ross, G. (1976). *The Role of Tutoring in Problem Solving*.","el artículo que introduce el andamiaje con criterios observables de ajuste y retiro."]],
+ "inclusion":"El apoyo graduado es el mecanismo central de la enseñanza inclusiva: permite exigir el mismo objetivo con vías de acceso distintas. La regla profesional es ajustar el andamio, no bajar la meta, y documentar el retiro para que el apoyo no se vuelva una etiqueta permanente.",
+ "reto":"Diseña la misma tarea con tres niveles de andamiaje y aplícala. Registra qué estudiantes pudieron avanzar un nivel en dos semanas y qué apoyo resultó imposible de retirar.",
+ "conexion":"Es la base teórica de la parte 10 (andamiaje y práctica guiada) y de la parte 08 (diversificación). Complementa la clase 015 al mostrar que la construcción es social además de individual."},
+
+{"n":17,"evidencia":"ROBUSTA",
+ "foco":"por qué la limitación de la memoria de trabajo es la restricción más importante que enfrenta cualquier clase",
+ "proposito":"Usar la asimetría entre una memoria de trabajo muy limitada y una memoria de largo plazo prácticamente ilimitada como criterio de diseño: casi toda dificultad de aprendizaje se explica por saturación o por falta de conocimiento previo automatizado.",
+ "decision":"determinar cuántos elementos nuevos puede sostener tu grupo en una sesión y qué hay que automatizar antes",
+ "entregable":"el rediseño de una clase que reduzca los elementos simultáneos y declare qué se automatizó previamente",
+ "conceptos":[
+  ["Memoria de trabajo","sistema de capacidad muy limitada donde se procesa la información consciente en el momento"],
+  ["Memoria de largo plazo","almacén de capacidad prácticamente ilimitada; su contenido organizado libera memoria de trabajo"],
+  ["Automatización","estado en que un procedimiento se ejecuta sin consumir atención consciente"],
+  ["Efecto de la experticia","el mismo material satura al novato y resulta trivial para el experto por su organización en esquemas"]],
+ "desarrollo":"La memoria de trabajo sostiene pocos elementos a la vez y por poco tiempo; la memoria de largo plazo no tiene ese límite. La consecuencia es contraintuitiva: la mejor forma de aumentar la capacidad de procesamiento de un estudiante no es entrenarle la memoria, sino aumentar su conocimiento previo organizado. Un lector fluido puede pensar en el argumento porque la decodificación ya no le cuesta nada; un lector que aún decodifica no tiene capacidad disponible para comprender.",
+ "practica":"Esto reordena la discusión sobre práctica y comprensión. Automatizar hechos básicos —correspondencias grafema-fonema, tablas, procedimientos frecuentes, vocabulario técnico— no es enseñanza mecánica: es lo que libera capacidad para razonar. Del mismo modo, una clase que introduce cinco conceptos nuevos, una notación nueva y una actividad nueva a la vez falla por diseño, aunque cada componente sea correcto.",
+ "limites":"La capacidad no es un número fijo ni idéntico entre personas, y su medición depende del material. Tampoco todo lo que satura debe eliminarse: cierta dificultad es necesaria para aprender. La distinción operativa es entre carga que proviene del contenido —inevitable— y carga que proviene del diseño —evitable—, y se trabaja en la clase siguiente.",
+ "errores":[
+  "Introducir contenido, formato y herramienta nuevos en la misma sesión.",
+  "Considerar la automatización de lo básico como enseñanza de baja calidad."],
+ "criterios":[
+  "el rediseño identifica y elimina al menos dos fuentes de carga evitable;",
+  "declara qué debe estar automatizado antes de la clase y cómo se comprobará;"],
+ "preguntas":[
+  "¿Cuántos elementos nuevos tiene que sostener a la vez un estudiante en tu próxima clase?",
+  "¿Qué automatismo faltante está consumiendo la capacidad que tu grupo necesita para comprender?",
+  "¿Por qué a ti el material te parece simple y a ellos no?"],
+ "lecturas":[
+  ["Miller, G. (1956). *The Magical Number Seven, Plus or Minus Two*.","el punto de partida histórico sobre límites de procesamiento; léelo por el concepto de agrupamiento en unidades."],
+  ["Sweller, J., Ayres, P. & Kalyuga, S. (2011). *Cognitive Load Theory*.","establece la asimetría entre memorias como principio de diseño instruccional y aporta la evidencia experimental."]],
+ "inclusion":"Los estudiantes con dificultades de memoria de trabajo —frecuentes en TDAH y en dificultades específicas del aprendizaje— se benefician de forma desproporcionada de reducir carga evitable: instrucciones escritas, un paso a la vez, apoyos visuales permanentes. Son medidas universales que no requieren diagnóstico previo.",
+ "reto":"Cronometra una clase tuya e identifica el momento exacto en que la mayoría se pierde. Rediseña ese tramo reduciendo elementos simultáneos y comprueba si el punto de quiebre se desplaza.",
+ "conexion":"Sostiene directamente la clase 019 y la parte 10. Explica también por qué la parte 04 insiste en la fluidez lectora y de cálculo como condición de la comprensión."},
+
+{"n":18,"evidencia":"ROBUSTA",
+ "foco":"por qué la atención no es voluntad sino un recurso limitado que el diseño de la clase administra bien o mal",
+ "proposito":"Tratar la atención como recurso escaso y selectivo, y el control ejecutivo como conjunto de funciones que se desarrollan con la edad y que la enseñanza puede apoyar o sobrecargar.",
+ "decision":"determinar qué elementos de tu clase están compitiendo por la atención y cuáles hay que eliminar",
+ "entregable":"una auditoría de atención de una clase real con las fuentes de competencia identificadas y su corrección",
+ "conceptos":[
+  ["Atención selectiva","capacidad de priorizar un estímulo relevante e inhibir los demás"],
+  ["Control ejecutivo","conjunto de funciones —inhibición, memoria de trabajo, flexibilidad— que regulan la conducta dirigida a metas"],
+  ["Costo de cambio de tarea","pérdida de rendimiento al alternar entre tareas; la atención dividida no es simultánea"],
+  ["Carga atencional externa","demanda impuesta por el entorno: ruido, notificaciones, material visual innecesario"]],
+ "desarrollo":"La atención se comporta como un foco: se dirige a un objeto a costa de los demás. No se puede atender realmente a dos fuentes de información compleja a la vez; lo que ocurre es alternancia, y cada cambio tiene un costo. Esto explica por qué una diapositiva con texto que el docente lee en voz alta empeora la comprensión en vez de reforzarla, y por qué un aula con estímulos visuales abundantes puede dificultar el aprendizaje de quienes más apoyo necesitan.",
+ "practica":"La auditoría de atención es simple y muy productiva: listar todo lo que compite en un tramo de clase —el celular, el material de la pared, la instrucción hablada sobre el texto escrito, el compañero, la tarea anterior sin cerrar— y eliminar lo evitable. También implica decidir de forma deliberada dónde debe estar la atención en cada minuto, y hacerlo explícito para el grupo, en vez de suponer que coincidirá con lo que uno tiene en mente.",
+ "limites":"El control ejecutivo madura durante toda la infancia y la adolescencia y varía mucho entre personas de la misma edad; exigir autorregulación que aún no está disponible produce frustración y sanciones injustas. Además, los programas comerciales de entrenamiento cognitivo muestran mejoras en la tarea entrenada y transferencia escasa a desempeños escolares: entrenar atención en abstracto no mejora el aprendizaje del contenido.",
+ "errores":[
+  "Leer en voz alta el mismo texto que los estudiantes están leyendo en pantalla.",
+  "Interpretar como desinterés una dificultad de control ejecutivo propia de la edad o del perfil del estudiante."],
+ "criterios":[
+  "la auditoría identifica al menos tres fuentes reales de competencia atencional;",
+  "cada corrección propuesta es ejecutable sin recursos adicionales;"],
+ "preguntas":[
+  "¿Dónde quieres que esté la atención de tu grupo en el minuto 10 de tu clase, y cómo lo aseguras?",
+  "¿Qué elemento de tu material compite con lo que quieres que aprendan?",
+  "¿Qué conducta estás sancionando que en realidad es una limitación ejecutiva?"],
+ "lecturas":[
+  ["Diamond, A. (2013). *Executive Functions*. Annual Review of Psychology, 64.","la revisión de referencia sobre funciones ejecutivas, su desarrollo y qué intervenciones tienen evidencia."],
+  ["Mayer, R. (2021). *Multimedia Learning*.","aporta los principios de redundancia y atención dividida, con experimentos que se replican en aula."]],
+ "inclusion":"Reducir competencia atencional beneficia a todo el curso y es imprescindible para estudiantes con TDAH, autismo o hipersensibilidad sensorial. Es un ejemplo claro de diseño universal: la medida que un estudiante necesita mejora las condiciones de todos.",
+ "reto":"Graba o registra diez minutos de tu clase y cuenta cuántas fuentes de información compiten simultáneamente. Elimina las evitables y compara la calidad de las respuestas del grupo.",
+ "conexion":"Se enlaza con la clase 017 y con la parte 13, donde la tecnología multiplica las fuentes de competencia atencional. Es antecedente directo de la parte 12."},
+
+{"n":19,"evidencia":"ROBUSTA",
+ "foco":"cómo distinguir la dificultad que enseña de la dificultad que solo estorba",
+ "proposito":"Aplicar la teoría de la carga cognitiva para diseñar: reducir la carga que proviene del diseño, sostener la que proviene del contenido y aumentar la que se dedica a construir esquemas.",
+ "decision":"determinar qué dificultad de tu clase es inherente al contenido y cuál es un defecto de diseño",
+ "entregable":"un rediseño de material con al menos tres efectos de carga corregidos y su justificación",
+ "conceptos":[
+  ["Carga intrínseca","demanda impuesta por la complejidad propia del contenido y por su número de elementos que interactúan"],
+  ["Carga extrínseca","demanda añadida por un diseño deficiente; es la que hay que eliminar"],
+  ["Efecto de atención dividida","pérdida por tener que integrar mentalmente fuentes que deberían estar integradas físicamente"],
+  ["Ejemplo trabajado","problema resuelto paso a paso que reduce la carga del novato frente a la resolución sin guía"]],
+ "desarrollo":"La teoría distingue el origen de la dificultad. La carga intrínseca depende del contenido y del conocimiento previo: enseñar el concepto de derivada exige sostener varios elementos que interactúan, y eso no se puede simplificar sin cambiar el objetivo. La carga extrínseca proviene de decisiones evitables: un diagrama cuya leyenda está en otra página, una consigna ambigua, una animación decorativa. Toda capacidad gastada en carga extrínseca es capacidad que no se dedica a aprender.",
+ "practica":"El repertorio de correcciones está bien documentado: integrar texto e imagen en vez de separarlos, eliminar información redundante, usar ejemplos trabajados con novatos y retirarlos a medida que avanzan, segmentar secuencias largas y permitir control del ritmo. Cada corrección es verificable y produce diferencias medibles en tareas de transferencia, no solo en satisfacción del estudiante.",
+ "limites":"La teoría tiene un matiz decisivo: lo que ayuda al novato perjudica al avanzado. Los ejemplos trabajados y el andamiaje detallado dejan de funcionar cuando el estudiante ya tiene esquemas, y pueden empeorar su rendimiento. Por eso no existe un material óptimo universal, sino un material óptimo para un nivel de conocimiento previo determinado, que hay que estimar y actualizar.",
+ "errores":[
+  "Simplificar el contenido cuando el problema estaba en el formato del material.",
+  "Mantener andamiajes detallados con estudiantes que ya construyeron el esquema."],
+ "criterios":[
+  "el rediseño nombra el efecto de carga que corrige en cada cambio;",
+  "declara el nivel de conocimiento previo para el que el material está optimizado;"],
+ "preguntas":[
+  "¿Qué parte de la dificultad de tu material desaparecería con un mejor diseño?",
+  "¿Qué apoyo tuyo ya está estorbando a los estudiantes más avanzados?",
+  "¿Cómo estimas el conocimiento previo antes de decidir el nivel de andamiaje?"],
+ "lecturas":[
+  ["Sweller, J., van Merriënboer, J. & Paas, F. (2019). *Cognitive Architecture and Instructional Design: 20 Years Later*. Educational Psychology Review, 31.","actualiza la teoría, sus efectos y sus condiciones límite, incluido el efecto de reversión por experticia."],
+  ["Mayer, R. (2021). *Multimedia Learning*.","traduce los efectos de carga a reglas concretas de diseño de material visual y multimedia."]],
+ "inclusion":"Reducir carga extrínseca es una de las medidas de accesibilidad más eficaces y más baratas: material limpio, consignas explícitas, un solo canal a la vez. Beneficia especialmente a estudiantes con dificultades lectoras, atencionales o que aprenden en una segunda lengua.",
+ "reto":"Toma un material tuyo y produce dos versiones: una para novatos con ejemplos trabajados y otra para avanzados sin ellos. Aplícalas y compara resultados en una tarea de transferencia.",
+ "conexion":"Aplica directamente las clases 017 y 018, y es el fundamento técnico del diseño de recursos de la parte 13 y de la práctica guiada de la parte 10."},
+
+{"n":20,"evidencia":"ROBUSTA",
+ "foco":"por qué recuperar lo aprendido enseña más que volver a leerlo, aunque se sienta al revés",
+ "proposito":"Incorporar las dos técnicas con mejor evidencia acumulada —práctica de recuperación y práctica distribuida— al diseño habitual de una asignatura, y entender por qué producen la sensación subjetiva de aprender menos.",
+ "decision":"determinar cuándo y cómo se recuperará cada contenido a lo largo de tu asignatura",
+ "entregable":"un calendario de recuperación y espaciado para una unidad completa, con instrumentos breves y sin calificación de por medio",
+ "conceptos":[
+  ["Práctica de recuperación","acto de traer a la memoria lo aprendido sin tenerlo a la vista; fortalece la retención más que releer"],
+  ["Práctica distribuida","distribución del estudio en el tiempo en vez de concentrarlo; produce retención más duradera"],
+  ["Dificultad deseable","condición que hace el aprendizaje más lento y más duradero"],
+  ["Ilusión de fluidez","sensación de dominio que produce releer material familiar y que no se corresponde con retención real"]],
+ "desarrollo":"Recuperar información de la memoria la fortalece más que volver a exponerse a ella. El efecto está replicado con materiales, edades y contextos muy distintos, y es de los pocos hallazgos que se sostienen con la solidez suficiente para recomendarse sin reservas mayores. Distribuir la práctica en el tiempo tiene un efecto análogo. Ambas técnicas comparten un problema: hacen el estudio más difícil y menos gratificante en el momento, y por eso estudiantes y docentes tienden a abandonarlas por métodos que se sienten mejor y funcionan peor.",
+ "practica":"El diseño práctico es sencillo y exige constancia: preguntas de recuperación al inicio de cada clase sobre contenido de dos y de cuatro semanas atrás, sin nota; cuestionarios breves de baja consecuencia; y una planificación que vuelva sobre lo importante en intervalos crecientes en vez de tratarlo una vez y darlo por visto. La condición crítica es que la recuperación sea genuina —sin el material a la vista— y que exista retroalimentación posterior.",
+ "limites":"La recuperación funciona mejor cuando el contenido fue comprendido inicialmente: no compensa una explicación fallida. Con material muy complejo o en estudiantes con alta ansiedad evaluativa, aplicarla en formato de prueba calificada puede perjudicar. Y su beneficio depende del intervalo: demasiado corto se parece a releer, demasiado largo pierde la huella. Ajustar esos intervalos exige criterio, no una fórmula.",
+ "errores":[
+  "Convertir la práctica de recuperación en evaluaciones calificadas y aumentar la ansiedad sin ganar aprendizaje.",
+  "Confundir revisar apuntes con recuperar: si el material está a la vista, el efecto desaparece."],
+ "criterios":[
+  "el calendario define intervalos crecientes y contenidos específicos, no «repasos generales»;",
+  "los instrumentos son de baja consecuencia e incluyen retroalimentación posterior;"],
+ "preguntas":[
+  "¿Cuándo volverán tus estudiantes a recuperar lo que aprendieron esta semana?",
+  "¿Qué técnica de estudio recomiendas que en realidad produce ilusión de fluidez?",
+  "¿Cómo evitarías que la recuperación se convierta en una fuente de ansiedad?"],
+ "lecturas":[
+  ["Roediger, H. & Karpicke, J. (2006). *Test-Enhanced Learning*. Psychological Science, 17(3).","el experimento que instaló el efecto de recuperación y mostró la discrepancia entre sensación y retención."],
+  ["Dunlosky, J. et al. (2013). *Improving Students' Learning With Effective Learning Techniques*.","clasifica diez técnicas por evidencia; práctica distribuida y de recuperación quedan en el nivel más alto."]],
+ "inclusion":"Los estudiantes con menos apoyo fuera de la escuela son los que más se benefician de que la recuperación esté incorporada al tiempo de clase: no dependen de saber estudiar solos ni de tener quien les tome la lección en casa.",
+ "reto":"Aplica un calendario de recuperación durante seis semanas en un curso y compara la retención con la de una unidad enseñada sin él. Registra también qué opinaron los estudiantes al inicio y al final.",
+ "conexion":"Se apoya en las clases 014 y 017, y es la técnica que la parte 11 usa para separar evaluación formativa de calificación. Aparece de nuevo en la parte 07 como estrategia de transferencia."},
+
+{"n":21,"evidencia":"CONSISTENTE",
+ "foco":"por qué un estudiante puede saber una técnica de estudio y aun así no usarla cuando la necesita",
+ "proposito":"Distinguir el conocimiento sobre el propio aprendizaje de la capacidad de regularlo en la práctica, y diseñar enseñanza que entrene lo segundo, que es lo que efectivamente falta.",
+ "decision":"determinar qué componente de la autorregulación —planificar, monitorear o evaluar— vas a enseñar de forma explícita",
+ "entregable":"una rutina metacognitiva incorporada a una asignatura, con sus preguntas guía y su evidencia de uso",
+ "conceptos":[
+  ["Metacognición","conocimiento y regulación de los propios procesos de pensamiento y aprendizaje"],
+  ["Monitoreo","juicio en curso sobre el propio nivel de comprensión mientras se estudia o se resuelve"],
+  ["Calibración","correspondencia entre la confianza declarada y el desempeño real"],
+  ["Autorregulación","ciclo de planificar, ejecutar, monitorear y ajustar el propio aprendizaje"]],
+ "desarrollo":"Los estudiantes con bajo desempeño suelen mostrar mala calibración: creen haber comprendido cuando no es así, y por eso dejan de estudiar demasiado pronto. El problema no es principalmente de estrategias desconocidas sino de monitoreo defectuoso, alimentado por la ilusión de fluidez. Enseñar metacognición, por tanto, es sobre todo enseñar a comprobar la propia comprensión con evidencia externa en vez de con la sensación de familiaridad.",
+ "practica":"Las rutinas que funcionan son específicas del contenido y breves: antes de la tarea, predecir cuánto se resolverá bien; durante, detenerse a explicar sin mirar; después, comparar la predicción con el resultado y ajustar. Enseñada como asignatura aparte, la metacognición no transfiere; incorporada al contenido y repetida, sí. Y exige que el docente modele en voz alta su propio monitoreo, porque los estudiantes no ven ese proceso en nadie.",
+ "limites":"La evidencia sobre programas de estrategias de aprendizaje es positiva pero heterogénea, y depende mucho de la implementación y de la edad: antes de los diez años, la regulación explícita es limitada. Además, muchas intervenciones muestran mejoras en el reporte del estudiante sin mejoras en desempeño. Por eso el criterio de éxito debe ser el cambio de conducta observable, no la declaración de que ahora planifica más.",
+ "errores":[
+  "Enseñar estrategias metacognitivas separadas del contenido y esperar transferencia.",
+  "Aceptar como evidencia de metacognición lo que el estudiante declara en una encuesta."],
+ "criterios":[
+  "la rutina es específica del contenido y ocupa menos de cinco minutos por sesión;",
+  "existe evidencia observable de uso, no solo autorreporte del estudiante;"],
+ "preguntas":[
+  "¿Tus estudiantes saben cuándo no entendieron algo?",
+  "¿Qué señal usan hoy para decidir que ya estudiaron suficiente?",
+  "¿Dónde modelas en voz alta tu propio proceso de comprobación?"],
+ "lecturas":[
+  ["Flavell, J. (1979). *Metacognition and Cognitive Monitoring*. American Psychologist, 34(10).","el artículo que define el campo y separa conocimiento metacognitivo de regulación."],
+  ["Education Endowment Foundation (2018). *Metacognition and Self-Regulated Learning: Guidance Report*.","síntesis aplicada con recomendaciones y tamaños de efecto declarados; buena base para decidir implementación."]],
+ "inclusion":"La autorregulación se distribuye de forma desigual según el apoyo disponible en el hogar. Enseñarla dentro del aula reduce esa brecha; darla por supuesta la amplía, porque solo la ejerce quien la aprendió fuera.",
+ "reto":"Implementa la rutina de predicción y comprobación durante un mes. Compara la calibración inicial y final de tus estudiantes usando su confianza declarada frente a su desempeño real.",
+ "conexion":"Complementa la clase 020 y sostiene la parte 07 (aprendizaje autodirigido) y la parte 14 (autonomía exigida en educación superior)."},
+
+{"n":22,"evidencia":"CONSISTENTE",
+ "foco":"por qué la motivación no es un rasgo del estudiante sino un resultado de las condiciones que la tarea ofrece",
+ "proposito":"Analizar la motivación con marcos que permitan intervenir: autonomía, competencia y vínculo como necesidades psicológicas, y expectativa y valor como determinantes de la decisión de esforzarse.",
+ "decision":"determinar qué condición de la tarea vas a modificar para que esforzarse sea razonable para tus estudiantes",
+ "entregable":"el rediseño de una tarea que aumente autonomía, competencia o valor percibido, con su fundamento explícito",
+ "conceptos":[
+  ["Autonomía","percepción de que la propia acción es elegida y no impuesta; no significa ausencia de estructura"],
+  ["Competencia","expectativa razonable de poder lograr la tarea con el esfuerzo disponible"],
+  ["Valor de la tarea","utilidad, interés o importancia que el estudiante atribuye a lo que se le pide"],
+  ["Atribución","explicación que la persona se da sobre las causas de su éxito o fracaso"]],
+ "desarrollo":"Preguntar por qué un estudiante no está motivado suele ser la pregunta equivocada. La más productiva es qué condiciones de la tarea hacen que esforzarse resulte razonable. Dos determinantes explican mucho: si espera poder lograrlo y si le atribuye algún valor. Cuando cualquiera de los dos es cero, el esfuerzo no aparece, por buena que sea la explicación. Y ambos son modificables por el diseño de la tarea y por la historia de éxito que el estudiante acumuló en la asignatura.",
+ "practica":"Las intervenciones con mejor rendimiento son modestas y concretas: dar opciones reales aunque acotadas, garantizar una experiencia temprana de logro auténtico, explicitar la utilidad del contenido con ejemplos del mundo del estudiante, y retroalimentar de forma que el fracaso se atribuya a la estrategia y no a la capacidad. Esta última es la que más cambia trayectorias, y depende enteramente del lenguaje que usa el docente al corregir.",
+ "limites":"Las intervenciones motivacionales breves que se popularizaron —mentalidad de crecimiento, propósito— muestran en replicaciones grandes efectos pequeños y concentrados en subgrupos específicos, sobre todo estudiantes de bajo rendimiento en contextos que sostienen el mensaje. No son inútiles, pero no sustituyen enseñanza de calidad ni condiciones materiales. Prometerlas como solución general es exagerar la evidencia.",
+ "errores":[
+  "Tratar la motivación como característica estable del estudiante y no como resultado de condiciones modificables.",
+  "Elogiar la capacidad —«eres muy inteligente»— en vez del proceso y la estrategia."],
+ "criterios":[
+  "el rediseño identifica cuál de las tres condiciones ataca y por qué esa y no otra;",
+  "incluye una experiencia temprana de logro verificable para los estudiantes con menor expectativa;"],
+ "preguntas":[
+  "¿Qué evidencia tienen tus estudiantes de que pueden lograr lo que les pides?",
+  "¿Qué opción real tienen dentro de tu tarea, y es una opción que les importe?",
+  "¿A qué atribuyen ellos sus fracasos en tu asignatura, y qué papel tuvo tu lenguaje en eso?"],
+ "lecturas":[
+  ["Ryan, R. & Deci, E. (2000). *Self-Determination Theory and the Facilitation of Intrinsic Motivation*. American Psychologist, 55(1).","el marco de autonomía, competencia y vínculo, con su evidencia y sus condiciones."],
+  ["Wigfield, A. & Eccles, J. (2000). *Expectancy–Value Theory of Achievement Motivation*.","explica la decisión de esforzarse como producto de expectativa y valor; muy operativo para rediseñar tareas."]],
+ "inclusion":"La expectativa de éxito está fuertemente condicionada por la historia escolar previa y por los mensajes recibidos sobre el propio grupo. Estudiantes con trayectorias de fracaso o pertenecientes a grupos estereotipados necesitan evidencia concreta de logro antes que discursos de aliento.",
+ "reto":"Escoge al estudiante con menor participación de tu curso. Rediseña una tarea para que tenga una experiencia auténtica de logro en la primera semana y registra qué cambia en las cuatro siguientes.",
+ "conexion":"Da profundidad a la clase 013 —los límites del reforzamiento externo— y sostiene la parte 05 (adolescencia) y la parte 07 (motivación en adultos)."},
+
+{"n":23,"evidencia":"EN-DEBATE",
+ "foco":"por qué lo aprendido en un contexto rara vez aparece en otro, y qué condiciones aumentan las probabilidades de que aparezca",
+ "proposito":"Enfrentar el problema central de toda enseñanza: que el aprendizaje transfiera. Distinguir transferencia cercana de lejana, entender por qué la segunda es rara, y diseñar para aumentar su probabilidad sin prometer lo que no se cumple.",
+ "decision":"determinar a qué situaciones concretas debe transferir lo que enseñas, y practicar en esa variedad desde el comienzo",
+ "entregable":"un conjunto de tareas de práctica variada que cubra las situaciones reales a las que debe transferir el aprendizaje",
+ "conceptos":[
+  ["Transferencia cercana","aplicación de lo aprendido a situaciones muy similares a las de la práctica"],
+  ["Transferencia lejana","aplicación a contextos, formatos o dominios distintos; es infrecuente y difícil de producir"],
+  ["Práctica variada","entrenamiento con ejemplos que cambian en superficie manteniendo la estructura profunda"],
+  ["Estructura profunda","relación subyacente que hace que dos problemas distintos se resuelvan igual"]],
+ "desarrollo":"La transferencia es el objetivo declarado de casi toda la educación y el resultado menos frecuente. Los estudiantes tienden a reconocer problemas por su superficie —los personajes, el contexto, la redacción— y no por su estructura, y por eso no aplican a un problema nuevo lo que resolvieron ayer. La evidencia sugiere que la transferencia mejora cuando se practica con variedad superficial y estructura constante, cuando se hacen explícitas las semejanzas profundas y cuando el conocimiento base es sólido.",
+ "practica":"El diseño consiste en decidir de antemano a qué situaciones debe transferir el aprendizaje y practicar en esa variedad desde el inicio, en vez de practicar en un solo formato y esperar generalización. También ayuda comparar explícitamente dos problemas que se ven distintos y se resuelven igual, y dos que se ven iguales y se resuelven distinto: la comparación es uno de los pocos procedimientos con evidencia de mejorar el reconocimiento estructural.",
+ "limites":"Aquí hay desacuerdo real. Una tradición sostiene que la transferencia lejana prácticamente no existe y que la enseñanza debe apuntar a conocimiento específico abundante; otra sostiene que sí es posible bajo condiciones de enseñanza explícita de principios. Lo que ambas comparten es el rechazo a la idea de que enseñar «habilidades de pensamiento» genéricas, sin contenido, produzca transferencia. Esa promesa no tiene respaldo.",
+ "errores":[
+  "Practicar siempre con el mismo formato de problema y esperar que el estudiante generalice solo.",
+  "Prometer desarrollo de pensamiento crítico general sin anclarlo a un dominio de conocimiento."],
+ "criterios":[
+  "las tareas mantienen la estructura profunda y varían la superficie de forma deliberada;",
+  "existe al menos una actividad de comparación explícita entre casos estructuralmente distintos;"],
+ "preguntas":[
+  "¿A qué situación real debería transferir lo que enseñaste esta semana?",
+  "¿Tus estudiantes reconocen el problema por su estructura o por su envoltura?",
+  "¿Qué prometes en tu programa que la evidencia sobre transferencia no respalda?"],
+ "lecturas":[
+  ["Barnett, S. & Ceci, S. (2002). *When and Where Do We Apply What We Learn? A Taxonomy for Far Transfer*. Psychological Bulletin, 128(4).","ordena el debate con una taxonomía; útil para no discutir sobre transferencia sin decir cuál."],
+  ["Gick, M. & Holyoak, K. (1983). *Schema Induction and Analogical Transfer*.","los experimentos clásicos que muestran cuán poco transfiere una solución si no se hace explícita la analogía."]],
+ "inclusion":"La transferencia depende de reconocer la estructura bajo contextos culturalmente familiares. Si todos los ejemplos provienen de un solo mundo social, parte del curso no reconocerá la estructura por falta de familiaridad con la superficie, no por falta de comprensión.",
+ "reto":"Toma un contenido enseñado y construye tres problemas con la misma estructura y superficies muy distintas. Aplícalos y registra cuántos estudiantes reconocen que son el mismo problema.",
+ "conexion":"Cierra el arco de la parte y prepara la parte 06 (aprendizaje situado) y la parte 09 (diseño para transferencia). Es el criterio de fondo de todos los proyectos integradores del programa."},
+
+{"n":24,"evidencia":"ROBUSTA",
+ "foco":"cómo pasar de conocer mecanismos de aprendizaje a tomar decisiones de diseño que se puedan defender con evidencia",
+ "proposito":"Integrar la parte en un diseño instruccional completo y fundamentado: cada decisión de la secuencia debe poder atribuirse a un mecanismo de aprendizaje y a la evidencia que lo respalda.",
+ "decision":"determinar la secuencia completa de una unidad y justificar cada decisión con el mecanismo que la sostiene",
+ "entregable":"el diseño de una unidad con una tabla que asocie cada decisión didáctica a su mecanismo y a su fuente",
+ "conceptos":[
+  ["Diseño basado en evidencia","proceso de decidir la enseñanza a partir de mecanismos documentados y de evidencia disponible"],
+  ["Mecanismo","proceso cognitivo o social que explica por qué una intervención produce su efecto"],
+  ["Fidelidad de implementación","grado en que lo diseñado se ejecuta como fue concebido; explica muchos fracasos atribuidos al método"],
+  ["Evaluación del diseño","comprobación de si la unidad produjo el aprendizaje que declaraba perseguir"]],
+ "desarrollo":"El proyecto integrador exige la operación que separa a un profesional de un aplicador de recetas: justificar. Una unidad bien diseñada puede explicar por qué la práctica está distribuida así, por qué el andamiaje se retira en ese punto, por qué la evaluación tiene ese formato y qué mecanismo respalda cada elección. Esa tabla de justificación es también la herramienta que permite corregir con precisión cuando algo no funciona: se revisa la decisión, no el método completo.",
+ "practica":"El procedimiento es directo: definir el aprendizaje buscado y su evidencia; listar las decisiones didácticas; asociar cada una a un mecanismo de las clases 013 a 023; y declarar cómo se comprobará el efecto. Después viene lo más importante y lo que casi nadie hace: ejecutar con fidelidad razonable y registrar qué ocurrió, incluidas las desviaciones. Un diseño sin registro de implementación no permite aprender de su propio resultado.",
+ "limites":"Que una decisión esté respaldada por un mecanismo no garantiza que funcione en tu contexto: los efectos promedio no describen a tu curso y la implementación cambia el resultado. Esta unidad no prueba nada por sí sola; produce una hipótesis fundamentada y una forma de comprobarla. Presentarla como demostración de eficacia sería exactamente el error que el programa intenta evitar.",
+ "errores":[
+  "Justificar decisiones citando autores sin explicitar el mecanismo que operaría en tu caso.",
+  "Concluir que un diseño funcionó sin haber registrado cómo se implementó realmente."],
+ "criterios":[
+  "cada decisión didáctica está asociada a un mecanismo y a una fuente verificable;",
+  "existe un registro de implementación con desviaciones documentadas;"],
+ "preguntas":[
+  "¿Qué decisión de tu unidad no puedes justificar con un mecanismo?",
+  "¿Qué evidencia te haría concluir que el diseño no funcionó?",
+  "¿Qué desviación de implementación es más probable en tu contexto y cómo la registrarías?"],
+ "lecturas":[
+  ["Kirschner, P. & Hendrick, C. (2020). *How Learning Happens*.","modelo de cómo pasar de estudio a decisión de aula sin sobreinterpretar; útil como plantilla de justificación."],
+  ["Education Endowment Foundation. *Teaching and Learning Toolkit*.","síntesis de evidencia por intervención con costo, solidez y efecto declarados; obliga a citar magnitudes, no impresiones."]],
+ "inclusion":"Un diseño basado en evidencia debe declarar para quién funcionó la evidencia que cita. Muchos estudios se realizaron con poblaciones distintas de la tuya; explicitarlo es parte del rigor y evita aplicar con seguridad falsa lo que fue probado en otro contexto.",
+ "reto":"Ejecuta la unidad, registra su implementación y escribe un informe de una página con lo que funcionó, lo que no y qué decisión cambiarías. Compártelo con un colega para que audite tus justificaciones.",
+ "conexion":"Cierra la parte 01 integrando sus once clases anteriores. Es el antecedente directo de la parte 09 (diseño curricular) y de la parte 16 (investigación sobre la propia práctica)."}
+]

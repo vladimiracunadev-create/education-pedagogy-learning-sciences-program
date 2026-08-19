@@ -1,0 +1,42 @@
+[
+  {
+    "id": "A",
+    "emoji": "🟢",
+    "nombre": "Etapa A — Fundamentos",
+    "partes": [0, 1, 2],
+    "salida": "explicar cómo aprende una persona y qué hace la educación con ese hecho",
+    "resumen": "Qué es educar, cómo aprende el ser humano y cómo cambia el aprendizaje a lo largo del desarrollo. Sin esta etapa, todo lo demás se vuelve repetición de técnicas sin criterio."
+  },
+  {
+    "id": "B",
+    "emoji": "🔵",
+    "nombre": "Etapa B — Enseñanza por ciclo vital",
+    "partes": [3, 4, 5, 6, 7],
+    "salida": "enseñar a una población concreta con decisiones ajustadas a su desarrollo",
+    "resumen": "La misma teoría del aprendizaje produce decisiones distintas en sala cuna, en séptimo básico, en un taller técnico y en una capacitación de adultos. Esta etapa recorre esas diferencias."
+  },
+  {
+    "id": "C",
+    "emoji": "🟣",
+    "nombre": "Etapa C — Núcleo profesional docente",
+    "partes": [8, 9, 10, 11, 12, 13],
+    "salida": "diseñar, enseñar, evaluar y gestionar un curso completo con evidencia",
+    "resumen": "Lo transversal a cualquier nivel: inclusión, currículo, didáctica, evaluación, convivencia y tecnología. Es el corazón del oficio y la etapa más larga del programa."
+  },
+  {
+    "id": "D",
+    "emoji": "🟠",
+    "nombre": "Etapa D — Educación superior y liderazgo",
+    "partes": [14, 15],
+    "salida": "sostener la calidad del trabajo de otros, no solo del propio",
+    "resumen": "Enseñar en educación superior y conducir equipos e instituciones educativas. Cambia la unidad de análisis: de la clase a la asignatura, y de la asignatura a la organización."
+  },
+  {
+    "id": "E",
+    "emoji": "🔴",
+    "nombre": "Etapa E — Investigación avanzada y formación de formadores",
+    "partes": [16, 17],
+    "salida": "producir conocimiento educativo defendible y formar a quienes enseñan",
+    "resumen": "Investigar problemas educativos con método, publicar, dirigir tesis y formar a otros docentes. Llega al final porque cada pregunta de esta etapa solo se reconoce cuando ya se domina el oficio."
+  }
+]

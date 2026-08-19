@@ -1,0 +1,320 @@
+[
+{
+  "part": 6,
+  "titulo": "Educación técnico-profesional",
+  "lema": "Aquí el aprendizaje se demuestra haciendo, y la seguridad no es un módulo aparte",
+  "etapa": "B",
+  "poblacion": "formación técnica de nivel medio y superior, y capacitación de oficio",
+  "contenido_central": "Formación por competencias, aprendizaje situado, talleres, seguridad, rúbricas de desempeño, portafolio, formación dual, vínculo con empresa, práctica profesional, competencias transversales y empleabilidad",
+  "resumen": [
+    "La formación técnico-profesional tiene una ventaja que el resto del sistema envidia: el criterio de logro es observable. Una soldadura resiste o no resiste; una toma de muestra cumple protocolo o lo incumple. Esa ventaja se pierde cuando la evaluación se traslada a pruebas de papel sobre el oficio en vez de a desempeños del oficio. La primera decisión de esta parte es no perderla.",
+    "El marco de competencias organiza el trabajo, pero exige precisión. Una competencia no es un contenido con verbo delante: es la capacidad de movilizar conocimiento, procedimiento y criterio en una situación real, con un estándar de desempeño explícito. Escribirla bien es difícil, y la mayoría de los perfiles de egreso mal formulados provienen de saltarse ese trabajo. Aquí se entrena esa escritura con el instrumento que la comprueba: la rúbrica de desempeño.",
+    "El tercer eje es la relación con el mundo del trabajo, que en Chile está regulada y tiene formatos definidos —formación dual, prácticas profesionales, convenios con empresas— con obligaciones sobre supervisión y seguridad. La cultura preventiva no es un anexo: en un taller, la decisión pedagógica y la decisión de seguridad son la misma decisión, y un docente que las separa está formando un profesional que también las separará."
+  ],
+  "resultados": [
+    "Redactar competencias y estándares de desempeño verificables en una tarea real del oficio",
+    "Diseñar un taller con progresión de dominio, seguridad integrada y evaluación de desempeño",
+    "Construir un portafolio de evidencias que soporte una certificación defendible",
+    "Articular la formación con empresa y práctica profesional respetando el marco vigente"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    PE[\"Perfil de egreso<br/>competencias del oficio\"] --> ES[\"Estandar de desempeno<br/>criterio observable\"]\n    ES --> TA[\"Taller<br/>modelamiento · practica · correccion\"]\n    SEG[\"Seguridad y cultura preventiva\"] --> TA\n    TA --> RU[\"Rubrica de desempeno\"]\n    RU --> PO[\"Portafolio de evidencias\"]\n    TA --> DU[\"Formacion dual<br/>y vinculo con empresa\"]\n    DU --> PR[\"Practica profesional<br/>supervisada\"]\n    PO --> EM{{\"Empleabilidad<br/>y transicion al trabajo\"}}\n    PR --> EM\n    EM --> PY[\"Modulo TP completo<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "formación basada en competencias y estándares de desempeño observables",
+    "aprendizaje situado y participación periférica legítima en comunidades de práctica",
+    "marco de cualificaciones técnico-profesional y formación dual en Chile",
+    "prevención de riesgos y responsabilidad del establecimiento en talleres y prácticas"
+  ],
+  "autores": "Jean Lave y Etienne Wenger, Donald Schön, David Boud, Ruth Stringher y equipos de UNESCO-UNEVOC, especialistas del marco de cualificaciones TP de Chile",
+  "riesgos": [
+    "Evaluar el oficio con pruebas escritas en vez de desempeños observables.",
+    "Redactar competencias que no se pueden observar ni graduar.",
+    "Tratar la seguridad como contenido aparte y no como criterio de todo desempeño.",
+    "Enviar a práctica profesional sin supervisión ni criterios de evaluación acordados."
+  ],
+  "lecturas": [
+    ["Lave, J. & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*.", "explica por qué el taller enseña más que el contenido del taller: se aprende a ser parte de una comunidad de oficio."],
+    ["Schön, D. (1983). *The Reflective Practitioner*.", "fundamenta la reflexión en la acción, que es el mecanismo real de aprendizaje en formación práctica."],
+    ["Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional* y Marco de Cualificaciones TP.", "define especialidades, perfiles de egreso y estándares vigentes en Chile."],
+    ["UNESCO-UNEVOC. *Informes sobre educación y formación técnica y profesional*.", "comparación internacional de modelos duales y de transición al empleo."]
+  ],
+  "evidencias": [
+    "un perfil de competencias con estándares de desempeño y evidencias asociadas;",
+    "una rúbrica de taller aplicada a desempeños reales o simulados;",
+    "un portafolio de evidencias con trazabilidad y criterios de suficiencia;",
+    "un plan de práctica profesional con supervisión, seguridad y evaluación."
+  ],
+  "contextos": [
+    ["Taller de especialidad industrial", "riesgo físico alto: la seguridad domina la secuencia"],
+    ["Especialidad de servicios o administración", "el desempeño se observa en interacción y en producto documental"],
+    ["Especialidad de salud o alimentos", "protocolo y trazabilidad son parte del estándar"],
+    ["Formación dual con empresa", "el estándar se negocia con un tercero"],
+    ["Capacitación laboral de corta duración", "tiempo mínimo y foco en una tarea crítica"],
+    ["Reconocimiento de aprendizajes previos", "hay que evaluar competencias adquiridas fuera del aula"]
+  ]
+},
+{
+  "part": 7,
+  "titulo": "Educación de adultos y andragogía",
+  "lema": "El adulto no llega vacío: llega con experiencia, con prisa y con motivos propios",
+  "etapa": "B",
+  "poblacion": "educación de adultos, capacitación laboral y formación continua",
+  "contenido_central": "Andragogía, experiencia previa como recurso, aprendizaje autodirigido, motivación, capacitación laboral, reskilling, microlearning, mentoría, coaching, aprendizaje experiencial y evaluación",
+  "resumen": [
+    "Enseñar a adultos cambia tres condiciones a la vez: el tiempo es escaso y compite con trabajo y familia, la experiencia previa es abundante y a veces obstaculiza, y la motivación es instrumental —se aprende para resolver algo concreto—. Cualquier diseño que ignore estas tres condiciones produce el resultado conocido: alta inscripción, baja asistencia y transferencia nula al puesto de trabajo.",
+    "La andragogía clásica aportó los supuestos correctos —autonomía, experiencia, orientación a problemas, motivación interna— pero su estatus como teoría es discutido: describe bien al adulto típico de la formación voluntaria y describe mal al adulto obligado a capacitarse, al que retoma estudios interrumpidos o al que llega con baja confianza académica. Esta parte usa sus supuestos como hipótesis de diseño, no como ley, y los contrasta con la evidencia sobre transferencia de la capacitación.",
+    "El eje práctico es la transferencia. La pregunta que ordena la parte no es si el participante quedó satisfecho, sino si algo cambió en su desempeño después. La investigación sobre evaluación de la capacitación muestra que la satisfacción correlaciona poco con el aprendizaje y menos aún con el cambio de conducta, y que la transferencia depende de factores del entorno —apoyo de la jefatura, oportunidad de aplicar, tiempo— tanto como del diseño instruccional."
+  ],
+  "resultados": [
+    "Diseñar formación de adultos que parta del problema real del participante",
+    "Convertir la experiencia previa en recurso de aprendizaje y detectar cuándo interfiere",
+    "Planificar la transferencia al puesto de trabajo desde el diseño, no después del curso",
+    "Evaluar un programa de capacitación más allá de la satisfacción del participante"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    NE[\"Necesidad real<br/>problema del participante\"] --> DI[\"Diseno orientado a tarea\"]\n    EX[\"Experiencia previa<br/>recurso y a veces obstaculo\"] --> DI\n    DI --> MO[\"Modalidad<br/>presencial · microlearning · mentoria\"]\n    MO --> PR[\"Practica con retroalimentacion\"]\n    PR --> TR{{\"Transferencia al puesto<br/>oportunidad · apoyo · tiempo\"}}\n    TR --> EV[\"Evaluacion<br/>reaccion · aprendizaje · conducta · resultado\"]\n    EV --> RE[\"Rediseno del programa\"]\n    RE --> DI\n    EV --> PY[\"Programa de capacitacion<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "supuestos andragógicos y sus límites reconocidos",
+    "aprendizaje experiencial y reflexión sobre la práctica",
+    "aprendizaje transformador en trayectorias adultas",
+    "modelos de evaluación de la capacitación y evidencia sobre transferencia"
+  ],
+  "autores": "Malcolm Knowles, David Kolb, Jack Mezirow, Sharan Merriam, Knud Illeris, Raymond Wlodkowski, Donald Kirkpatrick y sus críticos",
+  "riesgos": [
+    "Diseñar para el contenido y no para el problema que el adulto necesita resolver.",
+    "Ignorar que la experiencia previa puede sostener creencias erróneas resistentes.",
+    "Medir el éxito con encuestas de satisfacción al final de la sesión.",
+    "Programar sin considerar el tiempo real disponible de quien trabaja."
+  ],
+  "lecturas": [
+    ["Knowles, M. (1984). *The Adult Learner: A Neglected Species*.", "el planteamiento clásico de la andragogía; léelo sabiendo que sus supuestos son hipótesis útiles, no leyes verificadas."],
+    ["Kolb, D. (1984). *Experiential Learning*.", "modelo del ciclo experiencial; su valor está en el diseño de la reflexión, no en los tipos de estilo que se le derivaron."],
+    ["Mezirow, J. (1991). *Transformative Dimensions of Adult Learning*.", "explica el aprendizaje que reorganiza supuestos, típico de trayectorias adultas de reconversión."],
+    ["Merriam, S. & Bierema, L. (2013). *Adult Learning: Linking Theory and Practice*.", "síntesis actualizada y crítica del campo; buena para separar evidencia de tradición."]
+  ],
+  "evidencias": [
+    "un diagnóstico de necesidades con evidencia y no con suposición;",
+    "un diseño de programa con objetivos de desempeño y plan de transferencia;",
+    "un instrumento de evaluación en al menos dos niveles distintos de la satisfacción;",
+    "el informe de resultados con recomendaciones de rediseño."
+  ],
+  "contextos": [
+    ["Capacitación obligatoria en empresa", "el participante no eligió estar: hay que ganar la relevancia"],
+    ["Formación voluntaria de perfeccionamiento", "alta motivación y alta exigencia de utilidad"],
+    ["Educación de adultos que retoma estudios", "historia escolar previa, muchas veces negativa"],
+    ["Reconversión laboral o reskilling", "urgencia económica y necesidad de resultado rápido"],
+    ["Formación en línea asincrónica", "la deserción es el riesgo principal"],
+    ["Mentoría o acompañamiento individual", "la relación es el vehículo del aprendizaje"]
+  ]
+},
+{
+  "part": 8,
+  "titulo": "Inclusión y educación especial",
+  "lema": "La barrera casi nunca está en el estudiante: está en el diseño",
+  "etapa": "C",
+  "poblacion": "todos los niveles, con foco en apoyos y accesibilidad",
+  "contenido_central": "Educación inclusiva, barreras para el aprendizaje, Diseño Universal para el Aprendizaje, diversificación, necesidades educativas especiales, autismo, TDAH, dificultades específicas, discapacidad sensorial, motora e intelectual y altas capacidades",
+  "resumen": [
+    "El cambio conceptual que ordena esta parte es el paso del déficit a la barrera. Durante décadas la pregunta fue qué le falta a este estudiante para seguir la clase; la pregunta actual es qué tiene esta clase que impide participar a este estudiante. No es un giro retórico: cambia quién debe modificarse. La primera pregunta genera diagnósticos y derivaciones; la segunda genera rediseño de la enseñanza, que es lo único que el docente controla.",
+    "El Diseño Universal para el Aprendizaje es el marco operativo de ese giro. Su lógica es anticipar la variabilidad en vez de compensarla después: si el material existe en más de un formato, si hay más de una forma de demostrar lo aprendido y si el sentido de la tarea está explícito, muchas adecuaciones individuales dejan de ser necesarias. La evidencia experimental sobre el marco completo es más limitada de lo que su difusión sugiere, y conviene decirlo: sus principios son sólidos y ampliamente adoptados, y su eficacia global sigue en estudio.",
+    "En Chile este campo está fuertemente normado —decretos de integración y de adecuaciones curriculares, ley de inclusión, ley de autismo, ley de discapacidad— y esa normativa define plazos, actores e instrumentos obligatorios. Aquí se enseña a distinguir la obligación legal de la buena práctica: la primera se cumple, la segunda se argumenta; confundirlas produce equipos que llenan formularios y no cambian la enseñanza."
+  ],
+  "resultados": [
+    "Identificar barreras concretas para el aprendizaje y la participación en una clase real",
+    "Rediseñar una experiencia aplicando los principios del Diseño Universal para el Aprendizaje",
+    "Diferenciar apoyo universal, focalizado e individualizado y decidir cuál corresponde",
+    "Aplicar el marco normativo chileno de inclusión sin reducirlo a papeleo"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    V[\"Variabilidad esperada<br/>del grupo\"] --> BA{{\"Barreras<br/>acceso · participacion · aprendizaje\"}}\n    BA --> DUA[\"Diseno Universal<br/>representacion · accion · implicacion\"]\n    DUA --> U[\"Apoyo universal<br/>para todo el curso\"]\n    U --> F[\"Apoyo focalizado<br/>para un grupo\"]\n    F --> I[\"Apoyo individualizado<br/>plan de apoyo\"]\n    I --> EQ[\"Equipo de aula<br/>y coordinacion PIE\"]\n    EQ --> NOR[\"Marco normativo<br/>decretos y leyes vigentes\"]\n    NOR --> PY[\"Aula accesible<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "modelo social y biopsicosocial de la discapacidad frente al modelo del déficit",
+    "Diseño Universal para el Aprendizaje y diversificación de la enseñanza",
+    "sistema de apoyos por niveles y trabajo colaborativo del equipo de aula",
+    "normativa chilena de integración, adecuaciones curriculares e inclusión"
+  ],
+  "autores": "David Rose y Anne Meyer (CAST), Mel Ainscow y Tony Booth, Lani Florian, equipos de la Organización Mundial de la Salud (CIF) y especialistas chilenos en educación diferencial",
+  "riesgos": [
+    "Reducir la inclusión a la presencia física del estudiante en la sala.",
+    "Adecuar bajando la exigencia en vez de cambiar la vía de acceso.",
+    "Convertir el plan de apoyo en un trámite que nadie usa para enseñar.",
+    "Etiquetar a partir de un diagnóstico y dejar de observar al estudiante."
+  ],
+  "lecturas": [
+    ["CAST. *Universal Design for Learning Guidelines* (versión 3.0, 2024).", "el marco operativo del DUA con sus tres principios y sus pautas; usa la versión vigente, no resúmenes de segunda mano."],
+    ["Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.", "instrumento de autoevaluación institucional: convierte «ser inclusivo» en indicadores revisables."],
+    ["Mineduc. *Decreto 83/2015* (adecuaciones curriculares) y *Decreto 170/2009* (NEE).", "marco chileno vigente que define instrumentos, plazos y responsabilidades; verifica siempre la versión actualizada."],
+    ["Organización Mundial de la Salud (2001). *Clasificación Internacional del Funcionamiento, de la Discapacidad y de la Salud*.", "sostiene el enfoque de funcionamiento en contexto que reemplaza al enfoque de déficit."]
+  ],
+  "evidencias": [
+    "un mapa de barreras de una clase real, con evidencia observada;",
+    "un rediseño de clase con DUA y su comparación con la versión original;",
+    "un plan de apoyo individual conectado con la planificación de aula;",
+    "una revisión del cumplimiento normativo con brechas y plan de cierre."
+  ],
+  "contextos": [
+    ["Estudiante con discapacidad sensorial", "el acceso al material define la participación"],
+    ["Estudiante con discapacidad motora", "el espacio y los tiempos son la barrera principal"],
+    ["Estudiante autista", "predictibilidad, regulación sensorial y comunicación explícita"],
+    ["Estudiante con TDAH", "la organización de la tarea pesa más que la voluntad"],
+    ["Dificultad específica del aprendizaje", "la vía de acceso cambia, el objetivo no baja"],
+    ["Altas capacidades", "la falta de desafío también es una barrera"]
+  ]
+},
+{
+  "part": 9,
+  "titulo": "Diseño curricular",
+  "lema": "Si la evaluación no mide lo que el objetivo declara, el currículo real es la evaluación",
+  "etapa": "C",
+  "poblacion": "diseño de asignaturas, programas y planes de estudio",
+  "contenido_central": "Niveles del currículum, perfil de egreso, competencias, resultados y objetivos de aprendizaje, secuenciación, mapas curriculares, diseño inverso, alineamiento constructivo, syllabus y planificación",
+  "resumen": [
+    "Todo curso tiene tres currículos: el declarado, el enseñado y el evaluado. Cuando se separan, los estudiantes se orientan por el tercero, porque es el que tiene consecuencias. Esa es la razón por la que el diseño inverso —definir primero la evidencia aceptable de logro y recién después las actividades— no es una preferencia metodológica sino una corrección de un problema estructural del oficio.",
+    "El segundo eje es la progresión. Un currículo bien diseñado no es una lista de temas ordenados por tradición, sino una secuencia donde cada aprendizaje habilita el siguiente y donde las nociones difíciles se visitan más de una vez con creciente complejidad. La mayoría de los planes de estudio fracasan aquí: acumulan contenidos, no construyen trayectorias, y el resultado es un egresado que aprobó todo sin poder hacer nada completo.",
+    "El tercer eje es la escritura. Un resultado de aprendizaje mal redactado —«conocer», «comprender», «tomar conciencia»— hace imposible evaluarlo y vuelve arbitraria la calificación. Aquí se entrena la redacción de resultados verificables y su alineamiento con actividades y evaluaciones, que es la competencia que separa un syllabus profesional de un temario con formato institucional."
+  ],
+  "resultados": [
+    "Redactar resultados de aprendizaje verificables y graduables",
+    "Construir un mapa curricular que muestre progresión y no acumulación",
+    "Diseñar con lógica inversa desde la evidencia de logro hasta la actividad",
+    "Auditar el alineamiento entre objetivos, enseñanza y evaluación de un programa existente"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    PE[\"Perfil de egreso<br/>que debe poder hacer\"] --> RA[\"Resultados de aprendizaje<br/>verificables\"]\n    RA --> EV[\"Evidencia aceptable<br/>que probaria el logro\"]\n    EV --> AC[\"Actividades de ensenanza\"]\n    AC --> SE[\"Secuenciacion<br/>y progresion\"]\n    SE --> MC[\"Mapa curricular\"]\n    MC --> SY[\"Syllabus y planificacion\"]\n    SY --> AL{{\"Alineamiento constructivo<br/>objetivo = ensenanza = evaluacion\"}}\n    AL --> RA\n    AL --> PY[\"Curriculo completo<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "niveles del currículum: prescrito, planificado, enseñado, evaluado y aprendido",
+    "diseño inverso y alineamiento constructivo",
+    "taxonomías de objetivos y niveles de complejidad del desempeño",
+    "Bases Curriculares y planes de estudio vigentes en Chile"
+  ],
+  "autores": "Ralph Tyler, Hilda Taba, Grant Wiggins y Jay McTighe, John Biggs y Catherine Tang, Benjamin Bloom con la revisión de Anderson y Krathwohl, Kevin Collis, especialistas del currículum nacional chileno",
+  "riesgos": [
+    "Redactar objetivos con verbos no observables y evaluarlos igual.",
+    "Diseñar actividades primero y buscar después qué objetivo cubren.",
+    "Confundir cobertura de contenidos con progresión de aprendizajes.",
+    "Mantener evaluaciones heredadas que ya no corresponden al objetivo declarado."
+  ],
+  "lecturas": [
+    ["Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.", "el manual del diseño inverso; su aporte central es exigir la evidencia de logro antes que la actividad."],
+    ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.", "define el alineamiento constructivo y lo convierte en procedimiento de diseño."],
+    ["Anderson, L. & Krathwohl, D. (2001). *A Taxonomy for Learning, Teaching, and Assessing*.", "la revisión de la taxonomía de Bloom que separa dimensión del conocimiento y proceso cognitivo."],
+    ["Mineduc. *Bases Curriculares* vigentes y priorización curricular.", "en Chile el diseño local se hace sobre este marco: conviene conocer su estructura y sus grados de libertad."]
+  ],
+  "evidencias": [
+    "un conjunto de resultados de aprendizaje redactados y revisados por pares;",
+    "un mapa curricular con prerrequisitos y progresión visible;",
+    "un syllabus completo con alineamiento auditado;",
+    "el informe de auditoría de un programa existente con brechas y propuesta."
+  ],
+  "contextos": [
+    ["Asignatura escolar", "el marco curricular nacional acota los objetivos"],
+    ["Módulo técnico-profesional", "el perfil de egreso del oficio manda"],
+    ["Asignatura universitaria", "autonomía alta y responsabilidad de coherencia con la carrera"],
+    ["Programa de capacitación breve", "el resultado debe ser útil en semanas"],
+    ["Rediseño de un programa completo", "hay historia, intereses y cargas docentes en juego"],
+    ["Programa en modalidad en línea", "la evidencia de logro debe funcionar sin presencia"]
+  ]
+},
+{
+  "part": 10,
+  "titulo": "Didáctica avanzada",
+  "lema": "Explicar bien es una técnica que se entrena, no un don que se tiene",
+  "etapa": "C",
+  "poblacion": "transversal a niveles y disciplinas",
+  "contenido_central": "Conocimiento pedagógico del contenido, explicaciones, ejemplos y contraejemplos, preguntas, diálogo, modelamiento, andamiaje, práctica guiada e independiente, aprendizaje colaborativo, aula invertida y aprendizaje para el dominio",
+  "resumen": [
+    "El corazón de esta parte es el conocimiento pedagógico del contenido: ese saber que no es la disciplina ni la pedagogía general, sino la manera en que un contenido específico se vuelve enseñable —qué analogía funciona, qué error aparece siempre, en qué orden conviene presentarlo—. Es lo que distingue a un experto en la materia de un buen profesor de esa materia, y se construye con años y con registro sistemático de lo que ocurre en clase.",
+    "Sobre esa base se entrenan técnicas con respaldo empírico: explicación con ejemplos trabajados, secuencia de modelamiento a práctica independiente, preguntas que verifican comprensión de todo el curso y no solo de quien levanta la mano, y retroalimentación que corrige el trabajo en vez de calificar a la persona. Los principios de instrucción derivados de la investigación sobre docentes eficaces son la columna vertebral, y se aplican tal como fueron formulados: como principios, no como guion.",
+    "La parte cierra con las metodologías que suelen adoptarse por moda —aula invertida, colaborativo, dominio— y las somete a la misma exigencia. Todas tienen condiciones de funcionamiento: el aula invertida fracasa si el material previo no se estudia; el trabajo colaborativo sin interdependencia y responsabilidad individual se convierte en trabajo de uno; el aprendizaje para el dominio exige tiempo variable, y quien no lo concede solo cambió el nombre de lo que ya hacía."
+  ],
+  "resultados": [
+    "Construir explicaciones con ejemplos, contraejemplos y anticipación del error frecuente",
+    "Ejecutar una secuencia completa de modelamiento, práctica guiada y práctica independiente",
+    "Formular preguntas que verifiquen comprensión del curso completo",
+    "Implementar una metodología activa cumpliendo sus condiciones de funcionamiento"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    PCK[\"Conocimiento pedagogico<br/>del contenido\"] --> EXP[\"Explicacion<br/>ejemplo · contraejemplo · error tipico\"]\n    EXP --> MOD[\"Modelamiento<br/>pensar en voz alta\"]\n    MOD --> PG[\"Practica guiada<br/>con correccion inmediata\"]\n    PG --> AN[\"Andamiaje que se retira\"]\n    AN --> PI[\"Practica independiente\"]\n    PRE[\"Preguntas de verificacion<br/>a todo el curso\"] --> PG\n    PI --> RET{{\"Retroalimentacion<br/>sobre la tarea, no la persona\"}}\n    RET --> MET[\"Metodologias activas<br/>con sus condiciones\"]\n    MET --> PY[\"Secuencia didactica<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "conocimiento pedagógico del contenido y su desarrollo profesional",
+    "principios de instrucción derivados de la investigación sobre docentes eficaces",
+    "andamiaje, modelamiento y transferencia gradual de responsabilidad",
+    "condiciones de eficacia del aprendizaje colaborativo y del aula invertida"
+  ],
+  "autores": "Lee Shulman, Barak Rosenshine, Michelene Chi, Robin Alexander, David y Roger Johnson, Robert Slavin, Benjamin Bloom, Doug Lemov con sus críticos",
+  "riesgos": [
+    "Adoptar una metodología sin verificar si se cumplen sus condiciones de eficacia.",
+    "Explicar sin anticipar el error que el contenido produce siempre.",
+    "Preguntar solo a quien responde y confundir eso con comprensión del curso.",
+    "Retirar el andamiaje demasiado pronto o no retirarlo nunca."
+  ],
+  "lecturas": [
+    ["Shulman, L. (1986). *Those Who Understand: Knowledge Growth in Teaching*. Educational Researcher, 15(2).", "el artículo que instala el conocimiento pedagógico del contenido como categoría propia del oficio."],
+    ["Rosenshine, B. (2012). *Principles of Instruction*.", "la síntesis operativa más útil de la didáctica basada en evidencia; cabe en diez principios y se aplica mañana."],
+    ["Chi, M. & Wylie, R. (2014). *The ICAP Framework*. Educational Psychologist, 49(4).", "ordena la participación del estudiante en cuatro modos y predice cuál produce más aprendizaje."],
+    ["Johnson, D. & Johnson, R. (2009). *An Educational Psychology Success Story: Social Interdependence Theory and Cooperative Learning*.", "define las condiciones sin las cuales el trabajo en grupo no es aprendizaje cooperativo."]
+  ],
+  "evidencias": [
+    "una explicación diseñada con ejemplos, contraejemplos y errores anticipados;",
+    "el registro de una secuencia completa de modelamiento a práctica independiente;",
+    "un repertorio propio de preguntas de verificación por nivel cognitivo;",
+    "una secuencia didáctica completa aplicada y revisada con evidencia."
+  ],
+  "contextos": [
+    ["Contenido conceptual abstracto", "los ejemplos y contraejemplos hacen el trabajo pesado"],
+    ["Contenido procedimental", "el modelamiento y la corrección inmediata dominan"],
+    ["Curso numeroso", "verificar comprensión de todos exige técnica, no buena voluntad"],
+    ["Clase con conocimiento previo desigual", "el andamiaje debe ser diferenciado"],
+    ["Modalidad en línea sincrónica", "la verificación de comprensión debe rediseñarse"],
+    ["Sesión única de capacitación", "no hay segunda oportunidad para corregir la secuencia"]
+  ]
+},
+{
+  "part": 11,
+  "titulo": "Evaluación y psicometría",
+  "lema": "Una nota es una inferencia sobre una persona: exige la misma prueba que cualquier otra",
+  "etapa": "C",
+  "poblacion": "transversal, con foco en instrumentos y decisiones",
+  "contenido_central": "Evaluación diagnóstica, formativa, sumativa y auténtica, construcción de ítems, rúbricas, retroalimentación, validez, confiabilidad, análisis de ítems y teoría clásica e IRT",
+  "resumen": [
+    "Evaluar es hacer una inferencia: a partir de un desempeño limitado en un momento concreto se afirma algo sobre lo que una persona sabe o puede hacer. Formulado así, queda claro por qué la validez es el concepto central: no es una propiedad del instrumento sino de la interpretación que se hace con sus resultados y del uso que se le da. Una misma prueba puede ser válida para orientar la enseñanza e inválida para decidir la promoción de un estudiante.",
+    "La parte enseña a construir instrumentos y a criticarlos con herramientas técnicas: análisis de dificultad y discriminación, consistencia interna y sus límites, funcionamiento diferencial entre grupos, y las nociones básicas de teoría clásica y de teoría de respuesta al ítem. No para convertir al docente en psicometrista, sino para que pueda leer un informe técnico —de una prueba estandarizada, de un sistema nacional— sin que le vendan como precisión lo que es ruido.",
+    "El otro eje es la retroalimentación, que es el punto donde la evaluación se convierte en enseñanza. La evidencia es clara en una cosa incómoda: entregar nota y comentario juntos anula el efecto del comentario, porque la atención va a la nota. Y es matizada en otra: la retroalimentación no siempre mejora el desempeño; puede empeorarlo cuando se dirige a la persona en vez de a la tarea. Esa distinción, bien aplicada, cambia más resultados que cualquier rediseño de prueba."
+  ],
+  "resultados": [
+    "Construir instrumentos alineados con el objetivo y defender su validez",
+    "Analizar técnicamente una prueba aplicada y corregir sus ítems defectuosos",
+    "Diseñar retroalimentación que produzca cambio en el trabajo del estudiante",
+    "Leer críticamente resultados de evaluaciones estandarizadas nacionales o internacionales"
+  ],
+  "mapa": "```mermaid\nflowchart TB\n    OB[\"Objetivo de aprendizaje\"] --> PR[\"Proposito de la evaluacion<br/>diagnostica · formativa · sumativa\"]\n    PR --> IN[\"Instrumento<br/>items · rubrica · desempeno\"]\n    IN --> AP[\"Aplicacion\"]\n    AP --> AN[\"Analisis tecnico<br/>dificultad · discriminacion · consistencia\"]\n    AN --> VAL{{\"Validez de la interpretacion<br/>y del uso\"}}\n    VAL --> DEC[\"Decision<br/>calificar · promover · reensenar\"]\n    AP --> RETRO[\"Retroalimentacion<br/>sobre la tarea\"]\n    RETRO --> OB\n    DEC --> PY[\"Sistema de evaluacion<br/>proyecto integrador\"]\n```",
+  "marco": [
+    "validez como argumento sobre la interpretación y el uso de los puntajes",
+    "confiabilidad, error de medida y sus consecuencias en decisiones individuales",
+    "teoría clásica de los tests y nociones básicas de teoría de respuesta al ítem",
+    "evaluación formativa y retroalimentación efectiva"
+  ],
+  "autores": "Samuel Messick, Michael Kane, Lee Cronbach, Paul Black y Dylan Wiliam, John Hattie y Helen Timperley, Georg Rasch, equipos de la Agencia de Calidad de la Educación",
+  "riesgos": [
+    "Atribuir validez al instrumento en vez de a la interpretación y al uso.",
+    "Usar el alfa de Cronbach como sello de calidad sin revisar sus supuestos.",
+    "Entregar nota y comentario juntos y esperar que el comentario opere.",
+    "Tomar decisiones de alto impacto con una sola medición."
+  ],
+  "lecturas": [
+    ["AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing*.", "el estándar técnico de referencia internacional; define qué se puede afirmar con un puntaje y qué no."],
+    ["Messick, S. (1989). *Validity*. En Educational Measurement.", "el capítulo que reorganiza la validez como juicio integrado sobre interpretación y consecuencias."],
+    ["Black, P. & Wiliam, D. (1998). *Assessment and Classroom Learning*. Assessment in Education, 5(1).", "la revisión que instala la evaluación formativa como intervención con efecto y no como discurso."],
+    ["Hattie, J. & Timperley, H. (2007). *The Power of Feedback*. Review of Educational Research, 77(1).", "modelo de retroalimentación por niveles; explica por qué el elogio a la persona no mejora el desempeño."]
+  ],
+  "evidencias": [
+    "un instrumento construido con tabla de especificaciones y argumento de validez;",
+    "el análisis técnico de una prueba aplicada con ítems corregidos;",
+    "una rúbrica calibrada entre al menos dos evaluadores;",
+    "un sistema de evaluación de asignatura completo y defendible."
+  ],
+  "contextos": [
+    ["Evaluación de aula de baja consecuencia", "prioriza información para enseñar"],
+    ["Evaluación sumativa que decide promoción", "la exigencia técnica sube con la consecuencia"],
+    ["Evaluación de desempeño en taller o práctica", "la rúbrica y el calibrado son el instrumento"],
+    ["Evaluación estandarizada externa", "hay que leer el informe técnico, no el titular"],
+    ["Evaluación en línea", "seguridad, integridad y equivalencia de condiciones"],
+    ["Evaluación con estudiantes con NEE", "adecuación sin invalidar la inferencia"]
+  ]
+}
+]

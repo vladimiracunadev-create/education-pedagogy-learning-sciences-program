@@ -1,0 +1,361 @@
+[
+{"n":61,"evidencia":"ROBUSTA",
+ "foco":"qué cambia realmente en la adolescencia y por qué la escuela suele responder al revés de lo que la etapa pide",
+ "proposito":"Aplicar la psicología del desarrollo adolescente al diseño de la enseñanza media: mayor sensibilidad social, necesidad de autonomía, búsqueda de sentido y capacidad intelectual en expansión.",
+ "decision":"determinar qué práctica de tu establecimiento está produciendo el desenganche que atribuye a los estudiantes",
+ "entregable":"un diagnóstico de desajuste entre etapa y ambiente en un curso real, con tres correcciones concretas",
+ "conceptos":[
+  ["Desajuste etapa-ambiente","desencuentro entre lo que la etapa demanda y lo que la escuela ofrece; explica la caída de motivación"],
+  ["Necesidad de autonomía","demanda creciente de decidir; el control percibido como arbitrario produce resistencia"],
+  ["Sensibilidad al estatus","alta reactividad a la evaluación de los pares; encarece cualquier exposición pública"],
+  ["Búsqueda de sentido","exigencia de que lo que se hace tenga relación con algo que importa"]],
+ "desarrollo":"Justo cuando los adolescentes necesitan más autonomía y participación, la escuela secundaria suele ofrecerles más control, más comparación pública y menos relación personal con adultos. La investigación sobre ajuste entre etapa y ambiente documenta ese desencuentro y explica la caída de motivación que ocurre en la transición a la enseñanza media en muchos sistemas. Es un problema de diseño institucional, no de carácter generacional.",
+ "practica":"El diagnóstico consiste en revisar prácticas concretas: cuántas decisiones puede tomar un estudiante en una jornada, cuántas situaciones lo exponen ante sus pares, cuánto tiempo tiene con un adulto que lo conoce por su nombre y su historia. Las correcciones suelen ser baratas: ceder decisiones acotadas, eliminar exposición innecesaria, garantizar al menos un vínculo adulto estable por estudiante.",
+ "limites":"El desajuste explica una parte del desenganche, no todo: la calidad de la enseñanza, las condiciones materiales y la trayectoria previa pesan igual o más. Y las descripciones del desarrollo adolescente son promedios: la variación individual dentro de un curso de dieciséis años es enorme. Usar la etapa como explicación única lleva a intervenciones genéricas que no cambian resultados.",
+ "errores":[
+  "Explicar el desenganche por características de los estudiantes y no revisar las prácticas institucionales.",
+  "Responder a la demanda de autonomía con más control, que es la reacción institucional más común."],
+ "criterios":[
+  "el diagnóstico cita prácticas observadas y no percepciones generales;",
+  "las correcciones son ejecutables sin cambios normativos ni recursos adicionales;"],
+ "preguntas":[
+  "¿Cuántas decisiones reales toma un estudiante tuyo en una jornada completa?",
+  "¿Qué adulto conoce bien a cada estudiante de tu curso?",
+  "¿Qué práctica tuya aumenta el control justo cuando la etapa pide lo contrario?"],
+ "lecturas":[
+  ["Eccles, J. et al. (1993). *Stage-Environment Fit*. American Psychologist, 48(2).","el estudio que explica la caída de motivación en la transición a secundaria; base del diagnóstico."],
+  ["Steinberg, L. (2014). *Age of Opportunity*.","reinterpreta la adolescencia como período de plasticidad y oportunidad educativa."]],
+ "inclusion":"El desajuste golpea más fuerte a estudiantes que ya llegan con desventaja académica o social: la exposición pública y la falta de vínculo adulto los expulsan primero. Las correcciones deben verificarse mirando a quienes están más cerca de abandonar.",
+ "reto":"Sigue durante una jornada completa a un estudiante desenganchado. Registra sus decisiones, sus exposiciones públicas y sus interacciones adultas, y propón tres correcciones.",
+ "conexion":"Aplica la clase 032 y sostiene el resto de la parte 05, especialmente las clases 063 y 064."},
+
+{"n":62,"evidencia":"CONSISTENTE",
+ "foco":"por qué un adolescente estudia para una asignatura y no para otra, teniendo el mismo profesor y el mismo horario",
+ "proposito":"Trabajar identidad, pertenencia y motivación como variables del diseño pedagógico: el esfuerzo aparece cuando la tarea es alcanzable, relevante para quien la hace y compatible con quien el estudiante cree ser.",
+ "decision":"determinar qué mensaje de pertenencia y de utilidad necesita recibir tu grupo para comprometerse con el contenido",
+ "entregable":"el rediseño de una unidad que haga explícita su utilidad y su conexión con la identidad de tus estudiantes",
+ "conceptos":[
+  ["Identidad académica","idea del estudiante sobre si esta asignatura es para alguien como él"],
+  ["Pertenencia","percepción de ser aceptado y valorado en el espacio de aprendizaje"],
+  ["Utilidad percibida","relación visible entre el contenido y algo que el estudiante valora"],
+  ["Amenaza de estereotipo","deterioro del desempeño cuando existe riesgo de confirmar un estereotipo sobre el propio grupo"]],
+ "desarrollo":"Los adolescentes evalúan implícitamente si un dominio es para ellos, y esa evaluación pesa tanto como su capacidad. Un estudiante que cree que la matemática es para otro tipo de persona invierte menos, obtiene menos y confirma su creencia. Las intervenciones que trabajan pertenencia y utilidad han mostrado efectos reales, aunque modestos y muy dependientes de que el contexto escolar sostenga el mensaje.",
+ "practica":"Las decisiones útiles son concretas: mostrar referentes con los que el grupo pueda identificarse, hacer explícita la utilidad del contenido con ejemplos del mundo real de los estudiantes, dar tareas donde el esfuerzo produzca mejora visible, y cuidar el lenguaje al corregir para que el error no confirme una identidad de incapacidad.",
+ "limites":"Las intervenciones breves de mentalidad y pertenencia han mostrado en replicaciones a gran escala efectos pequeños, concentrados en subgrupos y dependientes del clima escolar. No sustituyen enseñanza de calidad ni resuelven desigualdades estructurales. Presentarlas como solución general contradice la evidencia disponible.",
+ "errores":[
+  "Aplicar intervenciones motivacionales breves y esperar cambios que la evidencia no respalda.",
+  "Hablar de utilidad del contenido en abstracto, sin conexión con el mundo real de ese grupo."],
+ "criterios":[
+  "la utilidad declarada es verificable en el mundo de los estudiantes y no genérica;",
+  "el rediseño incluye una experiencia temprana de mejora visible con el esfuerzo;"],
+ "preguntas":[
+  "¿Quién cree en tu curso que esta asignatura no es para él, y en qué se nota?",
+  "¿Qué ejemplo de utilidad reconocerían tus estudiantes como propio?",
+  "¿Qué dice tu lenguaje de corrección sobre la capacidad de quien se equivoca?"],
+ "lecturas":[
+  ["Walton, G. & Cohen, G. (2011). *A Brief Social-Belonging Intervention Improves Academic and Health Outcomes*. Science, 331.","el estudio de referencia sobre pertenencia; léelo junto con las replicaciones posteriores."],
+  ["Hulleman, C. & Harackiewicz, J. (2009). *Promoting Interest and Performance in High School Science Classes*. Science, 326.","intervención de utilidad percibida con diseño experimental y efectos condicionados."]],
+ "inclusion":"La pertenencia es más frágil para estudiantes de grupos históricamente subrepresentados en un dominio. La intervención eficaz no es un discurso motivacional sino cambiar quién aparece en los ejemplos, quién recibe preguntas exigentes y quién obtiene reconocimiento público por su trabajo.",
+ "reto":"Pregunta a tu curso, de forma anónima, para qué creen que sirve tu asignatura. Rediseña la unidad a partir de esas respuestas y vuelve a preguntar al final.",
+ "conexion":"Aplica la clase 022 a la adolescencia y sostiene la clase 069 sobre orientación vocacional."},
+
+{"n":63,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"de qué está hecha la autoridad que un curso reconoce, y cómo se recupera cuando se pierde",
+ "proposito":"Construir autoridad pedagógica legítima —basada en competencia, consistencia y trato justo— y distinguirla del poder institucional, que se tiene por el cargo y no produce obediencia genuina.",
+ "decision":"determinar qué acción concreta construye o repara tu autoridad ante un curso específico",
+ "entregable":"un protocolo personal de construcción y reparación de autoridad, con conductas observables y un caso aplicado",
+ "conceptos":[
+  ["Autoridad pedagógica","legitimidad reconocida por los estudiantes para dirigir el aprendizaje"],
+  ["Poder institucional","capacidad de sancionar derivada del cargo; existe aunque no haya legitimidad"],
+  ["Consistencia","correspondencia entre lo que se anuncia y lo que efectivamente ocurre, sostenida en el tiempo"],
+  ["Reparación","acción deliberada para restablecer la relación después de un error propio o de un conflicto"]],
+ "desarrollo":"Los adolescentes reconocen autoridad en tres cosas: que el docente sepa lo que enseña, que cumpla lo que anuncia y que trate a todos con el mismo criterio. La legitimidad se construye lentamente y se pierde rápido, sobre todo con humillación pública o con arbitrariedad visible. Un docente con autoridad legítima puede exigir mucho más, porque la exigencia se interpreta como confianza y no como abuso.",
+ "practica":"Lo que más rinde es también lo más difícil de sostener: cumplir siempre lo anunciado, corregir sin exponer, reconocer el propio error explícitamente y volver al vínculo después del conflicto. La reparación merece protocolo propio, porque el momento posterior a un choque decide si la relación se recompone o se instala como enemistad para el resto del año.",
+ "limites":"No existe evidencia experimental sólida sobre construcción de autoridad: es conocimiento profesional acumulado, sensible al contexto cultural e institucional. Además, la autoridad individual no compensa condiciones institucionales deterioradas: cuando la escuela no sostiene criterios comunes, cada docente negocia solo y el desgaste es alto.",
+ "errores":[
+  "Recuperar el control mediante la exposición pública de un estudiante.",
+  "Anunciar consecuencias que después no se aplican, con lo que toda regla pierde valor."],
+ "criterios":[
+  "el protocolo describe conductas observables y no intenciones ni valores;",
+  "incluye un procedimiento explícito de reparación tras el conflicto;"],
+ "preguntas":[
+  "¿Qué anunciaste este mes que no cumpliste?",
+  "¿Cómo reparas la relación después de un choque con un estudiante?",
+  "¿Qué haces cuando te equivocas delante del curso?"],
+ "lecturas":[
+  ["Meirieu, P. *Frankenstein educador* y trabajos sobre autoridad pedagógica.","distingue autoridad de autoritarismo y sitúa el problema en la relación educativa."],
+  ["Marzano, R. (2003). *Classroom Management That Works*.","sistematiza prácticas de relación y consistencia con evidencia observacional."]],
+ "inclusion":"La percepción de trato injusto es una de las principales causas de conflicto con estudiantes que ya se sienten marcados por su historia escolar, su origen o su comportamiento previo. La consistencia visible del criterio protege especialmente a quienes esperan ser tratados con sospecha.",
+ "reto":"Pide retroalimentación anónima a un curso sobre consistencia y justicia de tu trato. Escoge la crítica más incómoda y trabájala durante un mes.",
+ "conexion":"Sostiene la clase 064 y se apoya en la clase 061. Reaparece en la parte 15, donde el mismo problema se plantea entre directivos y docentes."},
+
+{"n":64,"evidencia":"CONSISTENTE",
+ "foco":"cómo intervenir una disrupción sin convertirla en un conflicto que dure semanas",
+ "proposito":"Gestionar el aula adolescente con intervenciones graduadas que detengan la conducta sin escalar, preservando la relación y sin dejar la situación sin respuesta.",
+ "decision":"determinar qué nivel de intervención corresponde a cada tipo de conducta antes de que ocurra",
+ "entregable":"una escala propia de intervención graduada, con ejemplos de conducta y respuesta para cada nivel",
+ "conceptos":[
+  ["Intervención graduada","escala de respuestas de menor a mayor intensidad ante conductas disruptivas"],
+  ["Escalada","dinámica en que la respuesta del adulto aumenta la intensidad del conflicto"],
+  ["Conducta pública y privada","distinción entre corregir ante el grupo o en privado; cambia por completo el resultado"],
+  ["Recuperación del vínculo","acción posterior a la corrección destinada a restablecer la relación de trabajo"]],
+ "desarrollo":"Con adolescentes, la forma de la corrección importa tanto como su contenido. Una corrección pública activa la sensibilidad al estatus y obliga al estudiante a responder ante sus pares, lo que convierte una conducta menor en un enfrentamiento. Una escala graduada —proximidad, señal no verbal, indicación breve, conversación privada, medida formal— permite detener la conducta con el menor costo relacional posible.",
+ "practica":"La clave es tener la escala decidida antes, porque en el momento no hay tiempo de deliberar. También conviene distinguir de antemano qué conductas se corrigen en el momento y cuáles se abordan después: intentar resolverlo todo en clase suele detener la enseñanza y beneficiar a quien busca precisamente eso. Y toda corrección debe cerrarse con una acción que recupere el vínculo.",
+ "limites":"Las escalas de intervención funcionan cuando la institución las sostiene: si el reglamento y el equipo directivo aplican criterios distintos, el docente queda sin respaldo y la escala se rompe en el primer caso grave. Además, ninguna técnica de aula sustituye la respuesta institucional ante situaciones de violencia o vulneración, que tienen protocolo propio.",
+ "errores":[
+  "Corregir en público una conducta menor y provocar un enfrentamiento por estatus.",
+  "Dejar sin respuesta una conducta para evitar el conflicto, lo que la instala como norma."],
+ "criterios":[
+  "la escala define conductas y respuestas por nivel, decididas de antemano;",
+  "incluye qué se aborda en el momento y qué se posterga, con criterio explícito;"],
+ "preguntas":[
+  "¿Qué haces en los primeros cinco segundos de una disrupción?",
+  "¿Qué conductas estás corrigiendo en público sin necesidad?",
+  "¿Qué respaldo institucional tienes cuando la escala llega a su último nivel?"],
+ "lecturas":[
+  ["Emmer, E. & Evertson, C. *Classroom Management for Secondary Teachers*.","manual operativo específico para enseñanza media, con escalas y procedimientos."],
+  ["Mineduc / Superintendencia de Educación. *Normativa sobre convivencia escolar y reglamentos internos*.","define el marco chileno que respalda o limita cada nivel de intervención."]],
+ "inclusion":"Las estadísticas de sanciones muestran de forma consistente que algunos perfiles de estudiantes reciben más medidas por conductas equivalentes. Registrar quién recibe cada nivel de intervención permite detectar ese sesgo en el propio curso.",
+ "reto":"Registra durante dos semanas cada intervención tuya, su nivel y a quién se aplicó. Analiza el patrón y ajusta la escala donde estés escalando innecesariamente.",
+ "conexion":"Se apoya en las clases 061 y 063, y es la versión adolescente de lo que la parte 12 desarrolla en profundidad."},
+
+{"n":65,"evidencia":"EN-DEBATE",
+ "foco":"qué condiciones separan un proyecto que enseña de una actividad larga que produce un producto vistoso",
+ "proposito":"Diseñar aprendizaje basado en proyectos con las condiciones que la evidencia asocia a su eficacia: objetivos disciplinares explícitos, andamiaje, hitos intermedios y evaluación de aprendizaje y no solo de producto.",
+ "decision":"determinar qué aprendizaje disciplinar debe quedar comprobado al final del proyecto y cómo se comprobará",
+ "entregable":"el diseño de un proyecto con objetivos disciplinares, hitos, andamiaje y evaluación separada del producto final",
+ "conceptos":[
+  ["Pregunta conductora","problema o desafío que organiza el proyecto y exige el contenido disciplinar"],
+  ["Hito intermedio","punto de control con entrega y retroalimentación antes del producto final"],
+  ["Andamiaje del proyecto","apoyos explícitos —modelos, plantillas, enseñanza directa— dentro del trabajo autónomo"],
+  ["Evaluación del aprendizaje","comprobación del contenido aprendido, distinta de la evaluación del producto entregado"]],
+ "desarrollo":"El aprendizaje basado en proyectos tiene evidencia mixta y su variación se explica sobre todo por el diseño. Los proyectos eficaces conservan enseñanza explícita del contenido dentro del proceso, tienen hitos con retroalimentación y evalúan el aprendizaje individual además del producto grupal. Los proyectos que fallan sustituyen la enseñanza por la búsqueda autónoma y evalúan la presentación final, que suele reflejar recursos del hogar más que aprendizaje.",
+ "practica":"El diseño empieza al revés: definir qué debe saber y poder hacer cada estudiante al final, y luego construir el proyecto que exige eso. Los hitos permiten corregir a tiempo; sin ellos, los problemas aparecen cuando ya no hay margen. Y la evaluación individual del contenido es lo que impide que un proyecto brillante oculte que la mitad del grupo no aprendió nada.",
+ "limites":"Los metaanálisis muestran efectos positivos pero heterogéneos, y con frecuencia menores en conocimiento disciplinar que en motivación o habilidades de trabajo. El debate sobre cuánta guía es necesaria sigue abierto, aunque hay acuerdo en que la guía mínima perjudica a los estudiantes con menos conocimiento previo, que son quienes más necesitan el aprendizaje.",
+ "errores":[
+  "Evaluar el producto final grupal y no el aprendizaje individual del contenido.",
+  "Sustituir la enseñanza del contenido por la investigación autónoma de los estudiantes."],
+ "criterios":[
+  "el proyecto declara objetivos disciplinares y su evaluación individual;",
+  "existen al menos dos hitos con retroalimentación antes del producto final;"],
+ "preguntas":[
+  "¿Qué aprenderá cada estudiante, no cada grupo?",
+  "¿Qué enseñanza explícita ocurre dentro de tu proyecto?",
+  "¿Qué parte del producto final refleja recursos del hogar y no aprendizaje?"],
+ "lecturas":[
+  ["Condliffe, B. et al. (2017). *Project-Based Learning: A Literature Review*. MDRC.","revisión honesta sobre qué muestra y qué no muestra la evidencia disponible."],
+  ["Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*.","sintetiza condiciones de diseño asociadas a mejores resultados en enfoques por proyectos."]],
+ "inclusion":"El trabajo autónomo prolongado penaliza a estudiantes con dificultades de organización y a quienes no tienen apoyo ni recursos en casa. Andamiaje explícito, tiempo de trabajo en clase y roles definidos son condiciones de equidad, no concesiones.",
+ "reto":"Diseña un proyecto con evaluación individual del contenido. Compara esa evaluación con la calificación del producto grupal y analiza la diferencia.",
+ "conexion":"Se apoya en la clase 016 (andamiaje) y se distingue de la clase 066, con la que suele confundirse."},
+
+{"n":66,"evidencia":"EN-DEBATE",
+ "foco":"en qué se diferencia trabajar por problemas de trabajar por proyectos, y cuándo conviene cada uno",
+ "proposito":"Diseñar aprendizaje basado en problemas con su lógica propia: el problema precede al contenido y organiza su adquisición, con tutoría que sostiene el proceso sin resolverlo.",
+ "decision":"determinar si tu objetivo se sirve mejor de un problema abierto o de instrucción explícita seguida de aplicación",
+ "entregable":"un problema bien construido con su guía de tutoría, sus recursos y su evaluación del aprendizaje adquirido",
+ "conceptos":[
+  ["Problema mal estructurado","situación sin una única solución correcta ni un procedimiento evidente; exige decisiones"],
+  ["Tutoría de proceso","acompañamiento que orienta el razonamiento sin entregar la solución"],
+  ["Activación de conocimiento previo","fase inicial en que el grupo determina qué sabe y qué necesita averiguar"],
+  ["Cierre conceptual","momento en que se sistematiza el contenido aprendido para que no quede disperso"]],
+ "desarrollo":"En el aprendizaje basado en problemas el problema viene primero y motiva la búsqueda del contenido; en el aprendizaje por proyectos, el contenido se aplica en la producción de algo. Las revisiones muestran resultados favorables en aplicación y retención de largo plazo, y menos favorables en adquisición inicial de conocimiento, sobre todo con estudiantes novatos. El cierre conceptual es la fase que más se omite y la que determina si el contenido queda organizado.",
+ "practica":"Un buen problema es realista, admite más de una respuesta defendible y exige exactamente el contenido que se quiere enseñar. La tutoría se prepara: preguntas previstas, recursos disponibles, puntos donde intervenir. Y el cierre no es opcional: sin una sistematización final, cada grupo se queda con la versión parcial que construyó.",
+ "limites":"El debate sobre guía mínima aplica directamente aquí. Con estudiantes sin conocimiento previo suficiente, el problema abierto produce carga excesiva y aprendizaje errático. La posición defendible es reservar el problema abierto para cuando existe base suficiente, y usar instrucción explícita seguida de aplicación cuando no la hay.",
+ "errores":[
+  "Usar problemas abiertos con estudiantes que no tienen el conocimiento previo para abordarlos.",
+  "Omitir el cierre conceptual y dejar el contenido disperso entre los grupos."],
+ "criterios":[
+  "el problema exige el contenido objetivo y admite más de una solución defendible;",
+  "el diseño incluye cierre conceptual con sistematización del contenido;"],
+ "preguntas":[
+  "¿Qué conocimiento previo necesita tu grupo para abordar este problema?",
+  "¿Dónde intervendrás como tutor y dónde no?",
+  "¿Cómo quedará organizado el contenido al final para todos, y no solo para cada grupo?"],
+ "lecturas":[
+  ["Hmelo-Silver, C. (2004). *Problem-Based Learning: What and How Do Students Learn?*","revisión que ordena qué aprende el estudiante en este enfoque y bajo qué condiciones."],
+  ["Schmidt, H., Loyens, S., van Gog, T. & Paas, F. (2007). *Problem-Based Learning is Compatible with Human Cognitive Architecture*.","el contrapunto al artículo de guía mínima; útil para entender el debate completo."]],
+ "inclusion":"El problema abierto puede excluir a quienes tienen menos vocabulario académico o menos experiencia con el contexto del problema. Elegir contextos familiares para todo el grupo y ofrecer recursos de acceso nivela la entrada sin reducir la exigencia.",
+ "reto":"Construye un problema y aplícalo. Evalúa el contenido adquirido con un instrumento individual y compáralo con lo que esperabas que aprendieran.",
+ "conexion":"Se distingue de la clase 065 y se apoya en las clases 015 y 019. Es antecedente directo de los formatos de la parte 14."},
+
+{"n":67,"evidencia":"CONSISTENTE",
+ "foco":"cómo se enseña a discutir con argumentos en un grupo donde discutir suele significar imponerse",
+ "proposito":"Enseñar argumentación y debate como competencia disciplinar y cívica: construir una tesis, sostenerla con evidencia, anticipar objeciones y cambiar de posición cuando corresponde.",
+ "decision":"determinar qué estructura argumental vas a enseñar explícitamente y cómo la evaluarás",
+ "entregable":"una secuencia de argumentación con estructura enseñada, reglas de debate y rúbrica de calidad argumental",
+ "conceptos":[
+  ["Argumento","tesis sostenida con razones y evidencia que puede ser evaluada por su calidad"],
+  ["Contraargumento","objeción a la propia posición, que un buen argumento debe anticipar y responder"],
+  ["Evidencia","información verificable que respalda una razón; distinta de la opinión y de la anécdota"],
+  ["Reglas de deliberación","normas explícitas que hacen posible discutir sin que gane quien habla más fuerte"]],
+ "desarrollo":"Argumentar bien no es una habilidad natural: exige estructura enseñada. Los estudiantes tienden a defender posiciones sin evidencia, a confundir intensidad con solidez y a no anticipar objeciones. La enseñanza explícita de la estructura —tesis, razones, evidencia, objeción, respuesta— mejora la calidad de los textos y de las discusiones, y transfiere a la escritura académica posterior.",
+ "practica":"El debate necesita reglas para no reproducir jerarquías: tiempo asignado, preparación escrita previa, obligación de responder a la posición contraria y evaluación de la calidad argumental en vez del carisma. Una práctica de alto rendimiento es exigir que cada estudiante defienda la posición que no comparte: obliga a comprender el argumento ajeno antes de refutarlo.",
+ "limites":"La transferencia del debate a otras situaciones no es automática y depende del contenido: se argumenta bien sobre lo que se conoce bien. Además, sin clima seguro y sin reglas, la deliberación sobre temas sensibles puede dañar a estudiantes que quedan expuestos por su posición o su identidad.",
+ "errores":[
+  "Evaluar el debate por desempeño oral y no por calidad argumental.",
+  "Debatir sobre temas que el grupo no conoce lo suficiente para argumentar con evidencia."],
+ "criterios":[
+  "la rúbrica evalúa estructura y evidencia, no elocuencia ni seguridad al hablar;",
+  "la secuencia exige anticipar y responder al menos una objeción fuerte;"],
+ "preguntas":[
+  "¿Qué estructura argumental pueden usar tus estudiantes sin ayuda?",
+  "¿Quién queda expuesto si debaten este tema en tu curso?",
+  "¿Qué pasaría si cada uno tuviera que defender la posición contraria a la suya?"],
+ "lecturas":[
+  ["Toulmin, S. (1958). *The Uses of Argument*.","modelo de estructura argumental que se puede enseñar y evaluar con precisión."],
+  ["Hess, D. & McAvoy, P. (2015). *The Political Classroom*.","criterios y evidencia para conducir deliberación sobre temas controversiales en la escuela."]],
+ "inclusion":"El debate oral favorece a quienes tienen más capital verbal y más confianza. Preparación escrita previa, roles rotativos y evaluación de la argumentación —no de la fluidez— permiten que participe todo el curso.",
+ "reto":"Enseña una estructura argumental y aplícala en un debate con posiciones asignadas. Evalúa con rúbrica y compara con la calidad argumental de un debate previo sin estructura.",
+ "conexion":"Aplica la clase 053 y prepara la parte 14 (escritura académica) y la parte 16 (argumentación con evidencia)."},
+
+{"n":68,"evidencia":"EMERGENTE",
+ "foco":"qué aporta realmente integrar ciencias, tecnología, ingeniería y matemática, y qué se pierde al hacerlo mal",
+ "proposito":"Diseñar experiencias STEM con contenido disciplinar verificable, distinguiendo la integración que exige el problema de la que solo suma asignaturas alrededor de una actividad manual.",
+ "decision":"determinar qué contenido disciplinar debe quedar aprendido en tu experiencia STEM y cómo lo comprobarás",
+ "entregable":"una experiencia STEM con objetivos disciplinares por área, restricciones de diseño y evaluación del aprendizaje",
+ "conceptos":[
+  ["Integración STEM","articulación de disciplinas en torno a un problema que exige genuinamente a todas"],
+  ["Diseño de ingeniería","ciclo de definir, idear, prototipar, probar y mejorar bajo restricciones"],
+  ["Restricción de diseño","límite explícito —material, tiempo, costo— que obliga a decidir con criterio"],
+  ["Modelo","representación simplificada que permite predecir el comportamiento de un sistema"]],
+ "desarrollo":"El ciclo de diseño de ingeniería aporta algo valioso a la enseñanza científica: obliga a decidir bajo restricciones y a probar contra la realidad. El riesgo es conocido: actividades de construcción entretenidas donde no se aprende contenido de ninguna de las disciplinas involucradas. La diferencia está en si el problema exige el contenido y si el aprendizaje se evalúa por disciplina.",
+ "practica":"El diseño parte de un contenido disciplinar concreto y busca un problema que lo requiera, no al revés. Las restricciones explícitas son lo que produce razonamiento: sin límite de materiales, de tiempo o de costo, no hay decisiones que justificar. Y el prototipo debe probarse contra un criterio medible, porque de esa medición sale el aprendizaje.",
+ "limites":"La evidencia sobre efectos de la integración STEM es emergente y heterogénea: la mayoría de los estudios son pequeños y con medidas de resultado variables. La incorporación de las artes en el acrónimo STEAM tiene una base empírica aún más débil. Conviene usar el enfoque por sus méritos de diseño y no por promesas de efecto que todavía no están respaldadas.",
+ "errores":[
+  "Diseñar la actividad primero y buscar después qué contenido disciplinar cubre.",
+  "Evaluar el prototipo construido sin comprobar el aprendizaje del contenido."],
+ "criterios":[
+  "cada disciplina involucrada tiene objetivo y evaluación identificables;",
+  "existen restricciones explícitas y un criterio medible de prueba del prototipo;"],
+ "preguntas":[
+  "¿Qué contenido no se puede aprender sin esta experiencia?",
+  "¿Qué restricción obliga a tus estudiantes a decidir con criterio?",
+  "¿Cómo compruebas que aprendieron y no solo que construyeron?"],
+ "lecturas":[
+  ["National Academy of Engineering & NRC (2014). *STEM Integration in K-12 Education*.","revisión rigurosa sobre qué se sabe y qué falta por establecer en integración STEM."],
+  ["Cunningham, C. (2018). *Engineering in Elementary STEM Education*.","modelo de ciclo de diseño con evidencia de implementación escolar."]],
+ "inclusion":"Las actividades de construcción pueden reproducir estereotipos de género y de destreza si los roles se distribuyen espontáneamente. Asignar y rotar roles de forma explícita cambia quién manipula, quién decide y quién solo documenta.",
+ "reto":"Diseña una experiencia STEM y evalúa el contenido disciplinar con un instrumento individual. Analiza si el aprendizaje justificó el tiempo invertido.",
+ "conexion":"Se apoya en las clases 051 y 052 y comparte los riesgos de diseño de las clases 060 y 065."},
+
+{"n":69,"evidencia":"CONSISTENTE",
+ "foco":"cómo acompañar una decisión vocacional sin reducirla a un test ni a la lista de carreras mejor pagadas",
+ "proposito":"Conducir orientación vocacional basada en exploración informada, autoconocimiento verificado con desempeño y comprensión realista de trayectorias formativas y laborales.",
+ "decision":"determinar qué información y qué experiencia necesita tu estudiante antes de decidir su trayectoria",
+ "entregable":"un plan de orientación con exploración, información verificable de trayectorias y registro de decisiones del estudiante",
+ "conceptos":[
+  ["Exploración vocacional","proceso activo de conocer opciones formativas y laborales con información real"],
+  ["Autoconocimiento verificado","imagen de las propias capacidades contrastada con desempeño y no solo con preferencia"],
+  ["Trayectoria formativa","recorrido posible entre niveles y programas, incluidas las vías no universitarias"],
+  ["Información de empleabilidad","datos sobre ingresos, empleo y continuidad de estudios de programas específicos"]],
+ "desarrollo":"La orientación eficaz combina tres elementos: exploración real de opciones, autoconocimiento contrastado con desempeño e información verificable sobre trayectorias. Los tests de intereses aportan un punto de partida para conversar y poco más: su valor predictivo sobre satisfacción y permanencia es limitado. Lo que sí muestra efecto es la información concreta sobre programas —duración, costo, titulación efectiva, empleabilidad— presentada de forma comprensible.",
+ "practica":"El trabajo consiste en desmontar supuestos: qué implica realmente estudiar esa carrera, cuántos terminan, qué se hace en ese trabajo cotidianamente, qué vías alternativas existen. En Chile, hay información pública sobre programas, titulación e ingresos que rara vez llega a los estudiantes que más la necesitan. Ponerla sobre la mesa es una intervención de equidad.",
+ "limites":"La decisión vocacional está condicionada por factores que la orientación no controla: recursos familiares, información del entorno, expectativas sociales y oferta local. Y la evidencia sobre programas de orientación es heterogénea. Prometer que un buen proceso garantiza una buena decisión excede lo que se puede sostener.",
+ "errores":[
+  "Reducir la orientación a la aplicación de un test de intereses.",
+  "Presentar solo la vía universitaria e ignorar trayectorias técnicas y laborales."],
+ "criterios":[
+  "el plan incluye información verificable de programas y no solo exploración de intereses;",
+  "el estudiante registra sus decisiones y los criterios que usó para tomarlas;"],
+ "preguntas":[
+  "¿Qué sabe realmente tu estudiante sobre lo que hace a diario alguien de esa profesión?",
+  "¿Qué información pública sobre ese programa no ha visto nunca?",
+  "¿Qué alternativa no universitaria ni siquiera consideró y por qué?"],
+ "lecturas":[
+  ["OCDE (2021). *Career Readiness in the Pandemic* y estudios sobre orientación temprana.","identifica qué actividades de orientación se asocian con mejores resultados laborales posteriores."],
+  ["Mineduc / Subsecretaría de Educación Superior. *Sistemas públicos de información sobre programas y empleabilidad*.","fuente verificable para trabajar con datos reales de trayectorias en Chile."]],
+ "inclusion":"Los estudiantes de familias sin experiencia en educación superior toman decisiones con información sistemáticamente peor. Compensar esa asimetría con información concreta y con contacto real con instituciones y trabajos es una de las intervenciones más equitativas disponibles.",
+ "reto":"Trabaja con un grupo la información pública de tres programas que les interesen. Registra qué supuestos cambiaron al ver los datos reales.",
+ "conexion":"Se apoya en la clase 062 y conecta con la parte 06, donde las trayectorias técnico-profesionales se examinan en detalle."},
+
+{"n":70,"evidencia":"EMERGENTE",
+ "foco":"qué puede hacer la escuela frente a los conflictos digitales que ocurren fuera de su horario y dentro de su comunidad",
+ "proposito":"Trabajar ciudadanía digital como formación en criterio y responsabilidad: reputación, privacidad, convivencia en línea, verificación de información y respuesta institucional ante incidentes.",
+ "decision":"determinar qué se enseña, qué se regula y qué se deriva cuando ocurre un incidente digital en tu comunidad",
+ "entregable":"un protocolo de ciudadanía digital con enseñanza preventiva, procedimiento ante incidentes y criterios de derivación",
+ "conceptos":[
+  ["Ciudadanía digital","ejercicio responsable de derechos y deberes en entornos digitales"],
+  ["Privacidad","control sobre la información personal propia y ajena; se enseña con casos concretos"],
+  ["Ciberacoso","agresión sostenida mediante medios digitales; tiene tratamiento normativo específico"],
+  ["Respuesta institucional","conjunto de acciones que el establecimiento debe ejecutar ante un incidente digital"]],
+ "desarrollo":"Los conflictos digitales entre estudiantes ocurren mayormente fuera del horario escolar y estallan dentro de la escuela. La respuesta más común —prohibir dispositivos— administra el síntoma y no enseña criterio. Un enfoque completo combina enseñanza preventiva con casos reales, reglas claras sobre uso en el establecimiento, y un procedimiento de respuesta ante incidentes que distinga conflicto, falta y posible delito.",
+ "practica":"La enseñanza preventiva rinde cuando trabaja con situaciones concretas del entorno de los estudiantes y no con advertencias generales. El protocolo institucional debe estar escrito antes del primer incidente: quién recibe la denuncia, qué se resguarda como evidencia, a quién se informa, en qué plazo y cuándo corresponde denunciar a la autoridad. Improvisar en el momento produce daños adicionales.",
+ "limites":"La evidencia sobre programas de prevención del ciberacoso muestra efectos modestos y muy dependientes de la implementación. Y el campo cambia con la tecnología más rápido de lo que se producen estudios. Además, la respuesta institucional está regulada y sus obligaciones cambian: hay que verificar la norma vigente antes de actuar.",
+ "errores":[
+  "Responder a los conflictos digitales solo con prohibición de dispositivos.",
+  "Actuar ante un incidente sin protocolo previo y sin resguardar evidencia."],
+ "criterios":[
+  "el protocolo distingue conflicto, falta reglamentaria y posible delito, con la respuesta de cada uno;",
+  "la enseñanza preventiva usa casos del entorno real de los estudiantes;"],
+ "preguntas":[
+  "¿Qué hace tu establecimiento en las primeras 24 horas de un incidente digital?",
+  "¿Qué evidencia se resguarda y quién la custodia?",
+  "¿Qué enseñas sobre privacidad que tus estudiantes puedan aplicar mañana?"],
+ "lecturas":[
+  ["UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso*.","marco internacional con recomendaciones y evidencia disponible."],
+  ["Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos*.","define obligaciones y procedimientos exigibles al establecimiento."]],
+ "inclusion":"Los incidentes digitales afectan de forma desproporcionada a estudiantes con identidades minorizadas y a quienes ya sufren exclusión presencial. Un protocolo que no considera esa asimetría termina tratando como conflicto entre pares lo que es hostigamiento sistemático.",
+ "reto":"Revisa el protocolo digital de tu establecimiento y simula un incidente real. Identifica dónde se detiene el procedimiento y propón la corrección.",
+ "conexion":"Anticipa la parte 13 y se conecta con la parte 12, donde el conflicto digital se trata como parte de la convivencia escolar."},
+
+{"n":71,"evidencia":"CONSISTENTE",
+ "foco":"cómo evaluar desempeños complejos sin perder la posibilidad de defender la calificación",
+ "proposito":"Diseñar evaluación auténtica —tareas que se parecen a los desempeños reales del dominio— manteniendo criterios explícitos, calibración entre evaluadores y validez de la inferencia.",
+ "decision":"determinar qué desempeño real quieres evaluar y qué criterios permitirán juzgarlo con consistencia",
+ "entregable":"una tarea de evaluación auténtica con rúbrica calibrada y evidencia de acuerdo entre dos evaluadores",
+ "conceptos":[
+  ["Evaluación auténtica","tarea que replica desempeños valorados fuera de la escuela y exige integrar conocimientos"],
+  ["Rúbrica analítica","instrumento que descompone el desempeño en criterios y niveles observables"],
+  ["Calibración","proceso de acordar la aplicación de la rúbrica entre evaluadores hasta lograr consistencia"],
+  ["Validez de la inferencia","justificación de que la tarea permite concluir lo que se afirma sobre el estudiante"]],
+ "desarrollo":"La evaluación auténtica gana en relevancia y arriesga en consistencia: cuanto más compleja la tarea, más depende el juicio del evaluador. Ese riesgo no es argumento para volver a las pruebas de respuesta única, sino para invertir en criterios explícitos y en calibración. Dos evaluadores que aplican la misma rúbrica y llegan a puntajes muy distintos indican que el instrumento todavía no sirve para calificar.",
+ "practica":"El procedimiento incluye construir la rúbrica antes de la tarea, compartirla con los estudiantes, calibrar con dos o tres trabajos reales junto a otro docente y ajustar la redacción de los criterios que produjeron desacuerdo. También conviene decidir de antemano qué se evalúa individualmente cuando la tarea es grupal, porque de lo contrario la calificación mide colaboración y no aprendizaje.",
+ "limites":"La autenticidad no garantiza validez: una tarea realista puede depender de recursos del hogar, de habilidades de presentación o de tiempo disponible fuera de clase, y entonces mide otra cosa. Y las rúbricas mal construidas —con niveles definidos por adverbios de frecuencia— dan apariencia de objetividad sin aportar consistencia real.",
+ "errores":[
+  "Construir la rúbrica después de recibir los trabajos.",
+  "Definir niveles de desempeño con adverbios vagos en vez de conductas observables."],
+ "criterios":[
+  "la rúbrica describe desempeños observables por nivel y se entregó antes de la tarea;",
+  "existe evidencia de calibración entre al menos dos evaluadores;"],
+ "preguntas":[
+  "¿Qué desempeño real del dominio replica tu tarea?",
+  "¿Qué parte de la nota depende de recursos que no todos tienen?",
+  "¿Qué tan distinto calificaría esta tarea otro docente de tu departamento?"],
+ "lecturas":[
+  ["Wiggins, G. (1998). *Educative Assessment*.","define evaluación auténtica con criterios exigibles y no como sinónimo de creatividad."],
+  ["Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics: Reliability, Validity and Educational Consequences*.","evidencia sobre cuándo las rúbricas mejoran la consistencia y cuándo no."]],
+ "inclusion":"Las tareas auténticas pueden penalizar a quienes tienen menos recursos, menos tiempo o dificultades de presentación oral. Ofrecer formatos alternativos de entrega que evalúen el mismo criterio mantiene la exigencia y elimina la barrera.",
+ "reto":"Califica con un colega los mismos cinco trabajos usando tu rúbrica. Analiza los desacuerdos y reescribe los criterios que los produjeron.",
+ "conexion":"Es la puerta de entrada a la parte 11 y sostiene la evaluación de las clases 065, 066 y 068."},
+
+{"n":72,"evidencia":"CONSISTENTE",
+ "foco":"cómo se sostiene un desafío largo con adolescentes sin perder ni el contenido ni la relación",
+ "proposito":"Integrar la parte diseñando, ejecutando y evaluando un desafío de educación media que combine contenido disciplinar exigente, autonomía real y evaluación auténtica.",
+ "decision":"determinar el diseño completo del desafío y qué evidencia probará que hubo aprendizaje disciplinar",
+ "entregable":"un desafío completo de educación media, ejecutado, con evaluación auténtica y análisis de resultados por estudiante",
+ "conceptos":[
+  ["Desafío integrador","tarea extensa que exige contenido disciplinar, autonomía y producto público"],
+  ["Autonomía estructurada","libertad de decisión dentro de límites explícitos que sostienen el aprendizaje"],
+  ["Producto público","entrega que se presenta ante una audiencia real, lo que eleva la exigencia percibida"],
+  ["Análisis por estudiante","revisión individual de resultados que impide que el promedio del grupo oculte a quien no aprendió"]],
+ "desarrollo":"El proyecto integrador de la parte exige sostener a la vez lo que las clases anteriores trataron por separado: relación, autonomía, estructura, contenido y evaluación defendible. La dificultad práctica es que las tensiones aparecen juntas: dar autonomía y mantener el contenido, permitir trabajo grupal y evaluar individualmente, hacer público el producto y proteger a quienes se exponen.",
+ "practica":"El diseño se prueba en tres puntos: la existencia de hitos que permiten corregir a tiempo, la evaluación individual del contenido, y el análisis final estudiante por estudiante. Ese análisis suele revelar que el desafío funcionó muy bien para un tercio del curso y no llegó a otro tercio, información que ninguna calificación promedio entrega.",
+ "limites":"Un desafío ejecutado una vez no prueba la eficacia del método: hay efecto de novedad, esfuerzo extra del docente y selección del grupo. Lo que sí produce es evidencia sobre tu propio diseño y sobre qué estudiantes quedaron fuera, que es información suficiente para mejorar la próxima versión.",
+ "errores":[
+  "Concluir que el desafío funcionó a partir de los productos más visibles del curso.",
+  "Evaluar solo el producto grupal y no el aprendizaje individual."],
+ "criterios":[
+  "existe evaluación individual del contenido además de la del producto;",
+  "el análisis final identifica quiénes no lograron el aprendizaje y por qué;"],
+ "preguntas":[
+  "¿Qué estudiante quedó fuera de tu desafío y en qué momento?",
+  "¿Qué contenido disciplinar quedó efectivamente aprendido, con qué evidencia?",
+  "¿Qué cambiarías en la segunda versión y por qué?"],
+ "lecturas":[
+  ["Barron, B. & Darling-Hammond, L. (2008). *Teaching for Meaningful Learning*.","condiciones de diseño de experiencias extensas con evidencia de aprendizaje."],
+  ["Wiggins, G. (1998). *Educative Assessment*.","criterios de evaluación auténtica aplicables al producto y al proceso del desafío."]],
+ "inclusion":"El análisis por estudiante es la herramienta de inclusión de esta clase: obliga a mirar a quienes el entusiasmo colectivo deja invisibles. Sin él, un desafío exitoso puede consolidar la brecha que dice combatir.",
+ "reto":"Ejecuta el desafío y analiza los resultados estudiante por estudiante. Escribe qué habría necesitado quien menos aprendió para lograrlo.",
+ "conexion":"Cierra la parte 05 integrando sus once clases previas y conecta con la parte 06 y con la parte 11."}
+]

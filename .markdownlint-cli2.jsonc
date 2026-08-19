@@ -1,0 +1,20 @@
+{
+  // Se desactivan las reglas puramente estilísticas y se conservan las estructurales,
+  // que son las que detectan Markdown realmente roto (tablas, listas, enlaces, código).
+  "config": {
+    "default": true,
+    "MD013": false,                      // longitud de línea: la prosa lleva líneas largas
+    "MD033": false,                      // HTML en línea: el README usa <div align> y badges
+    "MD041": false,                      // primer encabezado: el README abre con <div>
+    "MD024": { "siblings_only": true },  // encabezados repetidos en secciones distintas
+    "MD036": false,                      // énfasis usado como encabezado
+    "MD026": false,                      // puntuación final en encabezados
+    "MD029": false,                      // estilo de numeración en listas ordenadas
+    "MD007": false,                      // sangría de listas anidadas
+    "MD012": false,                      // líneas en blanco múltiples
+    "MD034": false,                      // URL desnuda: las fuentes se citan entre <>
+    "MD060": false                       // alineación de columnas de tabla
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules", "**/node_modules", ".git", "site", "capacitacion"]
+}

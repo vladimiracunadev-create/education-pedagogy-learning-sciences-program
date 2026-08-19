@@ -1,0 +1,11 @@
+student_id,attendance_pct,diagnostic,formative_1,formative_2,final,participation
+S001,96,62,71,78,82,alta
+S002,84,55,58,67,70,media
+S003,72,48,51,54,57,baja
+S004,98,80,86,90,92,alta
+S005,65,45,42,49,50,baja
+S006,91,68,75,77,81,media
+S007,88,73,72,76,79,media
+S008,78,59,64,66,68,baja
+S009,99,85,89,94,95,alta
+S010,82,52,61,63,66,media

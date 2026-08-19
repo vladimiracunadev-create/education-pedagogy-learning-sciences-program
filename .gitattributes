@@ -1,0 +1,12 @@
+# Normaliza los finales de línea: el repositorio se valida en Linux, macOS y Windows.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.pdf binary
+*.ico binary
+
+# El currículo es contenido generado: no cuenta en las estadísticas de lenguaje de GitHub.
+curriculum/** linguist-documentation
+docs/** linguist-documentation
+catalog.json linguist-generated

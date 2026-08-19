@@ -1,0 +1,34 @@
+{
+  "ciclo": [
+    "activar",
+    "comprender",
+    "modelar",
+    "practicar",
+    "retroalimentar",
+    "aplicar",
+    "evaluar",
+    "reflexionar"
+  ],
+  "niveles_evidencia": {
+    "ROBUSTA": "Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.",
+    "CONSISTENTE": "La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.",
+    "EMERGENTE": "El cuerpo de estudios es reciente, escaso o poco replicado. Úsala como hipótesis de trabajo con seguimiento explícito, nunca como argumento de autoridad ni como base para una política de establecimiento.",
+    "EN-DEBATE": "Hay desacuerdo activo y publicado entre especialistas competentes. La clase presenta las posiciones y sus argumentos; tu tarea no es escoger un bando, sino saber qué evidencia te haría cambiar de posición.",
+    "MARCO-NORMATIVO": "El contenido no se decide por evidencia empírica sino por norma, política pública o marco institucional vigente. Verifica siempre la versión vigente a la fecha en que vas a aplicarlo: la norma cambia y la clase no se actualiza sola.",
+    "PRACTICA-PROFESIONAL": "Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto."
+  },
+  "criterios_comunes": [
+    "cada afirmación sobre «lo que funciona» está atribuida a una fuente identificable, con autor y fecha;",
+    "la decisión es ejecutable con el tiempo, el espacio, el número de estudiantes y los recursos que realmente tienes;",
+    "la evidencia queda archivada de forma reproducible: otra persona podría revisarla sin que tú se la expliques."
+  ],
+  "verbos_desempeno": [
+    "reconocer",
+    "explicar",
+    "aplicar",
+    "analizar",
+    "diseñar",
+    "evaluar",
+    "fundamentar"
+  ]
+}

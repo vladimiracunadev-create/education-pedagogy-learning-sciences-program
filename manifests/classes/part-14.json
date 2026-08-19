@@ -1,0 +1,361 @@
+[
+{"n":169,"evidencia":"CONSISTENTE",
+ "foco":"por qué el mismo estudiante estudia en profundidad una asignatura y memoriza otra",
+ "proposito":"Comprender cómo se aprende en educación superior: enfoques profundo y superficial, su relación con la carga y la evaluación, y qué decisiones docentes empujan hacia uno u otro.",
+ "decision":"determinar qué decisión tuya está empujando a tus estudiantes hacia el enfoque superficial",
+ "entregable":"un análisis de tu asignatura que identifique qué condiciones inducen enfoque superficial y su corrección",
+ "conceptos":[
+  ["Enfoque profundo","intención de comprender, relacionar y aplicar; se asocia con mejores resultados de largo plazo"],
+  ["Enfoque superficial","intención de cumplir con el mínimo evaluado; es una respuesta racional a ciertas condiciones"],
+  ["Carga percibida","estimación del estudiante sobre el trabajo exigido; condiciona la estrategia que adopta"],
+  ["Demanda de la evaluación","nivel cognitivo que la evaluación exige realmente, más allá del declarado"]],
+ "desarrollo":"El enfoque de estudio no es un rasgo del estudiante sino una respuesta a las condiciones del curso. Carga excesiva, evaluaciones que premian la reproducción y ausencia de retroalimentación empujan hacia el enfoque superficial, incluso a estudiantes capaces de trabajo profundo. Esa es la conclusión práctica más útil de la investigación sobre aprendizaje en educación superior: se diseña el enfoque, no se exige.",
+ "practica":"El análisis identifica las condiciones concretas: cuántas páginas por semana, cuántas evaluaciones simultáneas, qué exige realmente la prueba, cuándo llega la retroalimentación. Corregir una o dos suele bastar para cambiar la estrategia de estudio del grupo, y produce más efecto que cualquier exhortación a estudiar mejor.",
+ "limites":"La distinción entre enfoques es una herramienta descriptiva y no una tipología de personas: el mismo estudiante varía entre asignaturas y a lo largo del semestre. Y los instrumentos que la miden son autorreportes, con sus limitaciones. Úsala para revisar el diseño, no para clasificar estudiantes.",
+ "errores":[
+  "Atribuir el estudio memorístico a la actitud del estudiante sin revisar qué premia la evaluación.",
+  "Aumentar la cantidad de contenido y esperar mayor profundidad."],
+ "criterios":[
+  "el análisis identifica condiciones concretas del curso y no características de los estudiantes;",
+  "propone una corrección verificable en carga, evaluación o retroalimentación;"],
+ "preguntas":[
+  "¿Qué obtiene mejor nota en tu curso: comprender o reproducir?",
+  "¿Cuántas horas semanales exige realmente tu asignatura?",
+  "¿Cuándo llega tu retroalimentación en relación con la siguiente entrega?"],
+ "lecturas":[
+  ["Marton, F. & Säljö, R. (1976). *On Qualitative Differences in Learning*.","el estudio que introduce la distinción entre enfoque profundo y superficial."],
+  ["Ramsden, P. (2003). *Learning to Teach in Higher Education*.","conecta la investigación sobre enfoques con decisiones concretas de diseño docente."]],
+ "inclusion":"Los estudiantes que trabajan, cuidan a otros o vienen con menor preparación previa son los primeros forzados al enfoque superficial por restricción de tiempo. Ajustar la carga real es una medida de equidad además de pedagógica.",
+ "reto":"Calcula la carga real de tu asignatura y analiza qué nivel cognitivo exige tu evaluación. Corrige una de las dos y observa el cambio en las entregas.",
+ "conexion":"Abre la parte 14 y se apoya en las clases 117 y 118."},
+
+{"n":170,"evidencia":"CONSISTENTE",
+ "foco":"cómo se diseña una asignatura que aporte al perfil de egreso y no solo cubra su temario",
+ "proposito":"Diseñar asignaturas universitarias completas con alineamiento, carga realista, secuencia y contribución explícita al perfil de egreso de la carrera.",
+ "decision":"determinar qué aporta tu asignatura al perfil de egreso y qué se puede sacrificar de su temario",
+ "entregable":"el diseño de una asignatura con su contribución al perfil, alineamiento y carga calculada",
+ "conceptos":[
+  ["Contribución al perfil","aporte específico de la asignatura a los desempeños del egresado"],
+  ["Temario heredado","conjunto de contenidos que se enseñan por tradición y no por su aporte al perfil"],
+  ["Carga académica","tiempo total del estudiante expresado en créditos y verificado contra la realidad"],
+  ["Coherencia de programa","articulación con las asignaturas previas y posteriores de la carrera"]],
+ "desarrollo":"La mayoría de los programas universitarios acumula contenido: cada docente agrega lo que considera importante y nadie quita nada. El resultado son asignaturas imposibles de cubrir con profundidad, donde el estudiante recorre todo superficialmente. Diseñar bien exige la decisión más difícil: qué se saca. Y el criterio para sacar es la contribución al perfil, no el gusto disciplinar.",
+ "practica":"El diseño parte del perfil y del mapa curricular: qué debe aportar esta asignatura, qué traen los estudiantes de las previas y qué necesitan las posteriores. Con eso se decide el temario y no al revés. Después se calcula la carga y se ajusta hasta que sea realista, porque un programa que exige el doble del tiempo declarado produce enfoque superficial garantizado.",
+ "limites":"La autonomía docente y la tradición disciplinar hacen que estas decisiones sean políticas además de técnicas: quitar contenido genera resistencia real. Un diseño bien fundamentado facilita la conversación pero no la evita, y en muchas instituciones la decisión requiere acuerdo colectivo.",
+ "errores":[
+  "Diseñar desde el temario heredado sin revisar su contribución al perfil.",
+  "Declarar una carga en créditos que no corresponde al tiempo real exigido."],
+ "criterios":[
+  "el diseño declara la contribución específica al perfil de egreso;",
+  "la carga está calculada en horas reales y es coherente con los créditos asignados;"],
+ "preguntas":[
+  "¿Qué contenido de tu asignatura no aporta al perfil y sigue ahí?",
+  "¿Qué necesitan de tu asignatura las asignaturas posteriores?",
+  "¿Cuántas horas reales exige tu programa frente a las declaradas?"],
+ "lecturas":[
+  ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.","modelo completo de diseño de asignaturas alineadas en educación superior."],
+  ["Sistema de Créditos Transferibles (SCT-Chile).","criterios para expresar y verificar la carga de trabajo del estudiante."]],
+ "inclusion":"Una carga declarada correctamente permite a estudiantes que trabajan planificar su semestre. La sobrecarga oculta expulsa selectivamente a quienes tienen menos tiempo disponible, no a quienes tienen menos capacidad.",
+ "reto":"Revisa tu asignatura contra el mapa curricular de la carrera. Elimina un contenido que no aporte al perfil y usa ese tiempo para profundizar otro.",
+ "conexion":"Aplica las clases 110 y 115 al nivel universitario y prepara la clase 171."},
+
+{"n":171,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"qué debe contener un programa de asignatura para que sirva al estudiante y no solo al archivo",
+ "proposito":"Construir syllabus universitarios completos y utilizables: resultados, secuencia, evaluación, criterios, carga, políticas, bibliografía y accesibilidad.",
+ "decision":"determinar qué información necesita el estudiante para organizarse y tomar decisiones sobre tu curso",
+ "entregable":"un syllabus universitario completo, revisado por un estudiante y por un colega",
+ "conceptos":[
+  ["Syllabus","documento que establece el acuerdo académico y el plan de trabajo de la asignatura"],
+  ["Política de curso","reglas explícitas sobre entregas, atrasos, integridad y uso de herramientas"],
+  ["Bibliografía justificada","selección de lecturas con indicación de para qué sirve cada una"],
+  ["Accesibilidad declarada","información sobre ajustes disponibles y cómo solicitarlos"]],
+ "desarrollo":"Un syllabus universitario cumple tres funciones: informar al estudiante para que decida y se organice, comprometer al docente con reglas explícitas y documentar la asignatura para la institución. La tercera suele desplazar a las dos primeras, y el resultado es un documento formalmente completo que ningún estudiante usa. La prueba de calidad es que un estudiante pueda planificar su semestre con él.",
+ "practica":"La revisión por un estudiante real es el mejor control de calidad: revela qué no se entiende, qué falta y qué sobra. Y la bibliografía debe indicar para qué sirve cada texto y qué se espera que se lea efectivamente, porque una lista extensa sin jerarquía comunica que nada es realmente obligatorio.",
+ "limites":"El syllabus no reemplaza la comunicación durante el semestre ni impide ajustes justificados. Y su extensión tiene rendimientos decrecientes: los documentos muy largos se usan como defensa administrativa y no como herramienta para el estudiante.",
+ "errores":[
+  "Publicar una bibliografía extensa sin indicar qué se lee efectivamente y para qué.",
+  "Omitir la información sobre ajustes de accesibilidad y cómo solicitarlos."],
+ "criterios":[
+  "un estudiante puede planificar su semestre con el documento sin preguntar nada;",
+  "declara políticas, criterios de evaluación y ajustes de accesibilidad disponibles;"],
+ "preguntas":[
+  "¿Qué pregunta te hacen todos los semestres que el syllabus debería responder?",
+  "¿Qué textos de tu bibliografía se leen realmente?",
+  "¿Sabe un estudiante con discapacidad cómo pedir un ajuste en tu curso?"],
+ "lecturas":[
+  ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.","estructura de syllabus alineado con resultados y evaluación."],
+  ["Comisión Nacional de Acreditación (Chile). *Criterios sobre programas de asignatura*.","requisitos formales esperados en el sistema chileno."]],
+ "inclusion":"Declarar los ajustes disponibles y su procedimiento evita que el estudiante deba negociar caso a caso con cada docente, que es la principal barrera práctica que enfrentan quienes requieren apoyos en educación superior.",
+ "reto":"Pide a un estudiante que planifique su semestre con tu syllabus y anote todo lo que no puede resolver. Corrige el documento con esa lista.",
+ "conexion":"Aplica la clase 118 al nivel universitario y organiza la ejecución de la clase 180."},
+
+{"n":172,"evidencia":"ROBUSTA",
+ "foco":"qué hacer con la clase expositiva sabiendo lo que muestra la evidencia sobre métodos activos",
+ "proposito":"Rediseñar la clase expositiva incorporando procesamiento activo verificable, sin eliminar la exposición sino intercalándola con actividades que obliguen a pensar.",
+ "decision":"determinar dónde intercalarás procesamiento activo en tu clase y cómo verificarás su efecto",
+ "entregable":"el rediseño de una cátedra con actividades de procesamiento intercaladas y su verificación de comprensión",
+ "conceptos":[
+  ["Procesamiento activo","actividad que obliga al estudiante a recuperar, aplicar o explicar lo que se está enseñando"],
+  ["Intercalado","alternancia entre exposición breve y actividad, en vez de exposición continua"],
+  ["Instrucción entre pares","técnica en que los estudiantes discuten una pregunta conceptual y vuelven a responder"],
+  ["Verificación en gran grupo","técnica que revela el estado de comprensión de un curso numeroso en poco tiempo"]],
+ "desarrollo":"Una síntesis muy citada de estudios en educación superior en ciencias e ingeniería mostró que el aprendizaje activo mejora el rendimiento y reduce la reprobación respecto de la exposición continua. La conclusión operativa no es eliminar la cátedra sino romperla: exponer diez o quince minutos, plantear una pregunta conceptual, hacer que los estudiantes la discutan y respondan, y continuar con la información que esa respuesta reveló.",
+ "practica":"El rediseño más simple y eficaz es la instrucción entre pares: pregunta conceptual con distractores diagnósticos, respuesta individual, discusión breve entre estudiantes, segunda respuesta. En cursos numerosos funciona con cualquier sistema de respuesta, incluidas tarjetas de papel. Y la segunda respuesta le dice al docente si puede avanzar o debe explicar de nuevo.",
+ "limites":"Los efectos dependen de la calidad de las preguntas y de la implementación, no del formato en sí: preguntas triviales producen discusión vacía. Y la evidencia proviene sobre todo de ciencias e ingeniería; en disciplinas con otro tipo de contenido las técnicas deben adaptarse.",
+ "errores":[
+  "Intercalar preguntas triviales que no revelan comprensión ni generan discusión.",
+  "Mantener cuarenta minutos de exposición continua y agregar una actividad al final."],
+ "criterios":[
+  "la clase intercala exposición breve con actividades de procesamiento verificables;",
+  "las preguntas tienen distractores que revelan errores conceptuales conocidos;"],
+ "preguntas":[
+  "¿Cuánto tiempo hablas seguido sin que nadie tenga que hacer nada?",
+  "¿Qué error conceptual revela tu pregunta intercalada?",
+  "¿Qué haces si la mayoría responde mal en la segunda votación?"],
+ "lecturas":[
+  ["Freeman, S. et al. (2014). *Active Learning Increases Student Performance*. PNAS, 111(23).","el metaanálisis que reordenó la discusión sobre la cátedra universitaria."],
+  ["Mazur, E. (1997). *Peer Instruction: A User's Manual*.","el método de instrucción entre pares con su implementación paso a paso."]],
+ "inclusion":"Las técnicas de respuesta simultánea permiten participar sin exponerse ante un auditorio numeroso, lo que amplía quiénes intervienen efectivamente, especialmente estudiantes de primer año o de grupos subrepresentados.",
+ "reto":"Rediseña una cátedra con instrucción entre pares y aplícala. Registra la proporción de respuestas correctas antes y después de la discusión entre pares.",
+ "conexion":"Aplica las clases 122 y 124 al contexto universitario y se articula con la clase 130."},
+
+{"n":173,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"cómo conducir un seminario donde efectivamente se discuta el texto y no las impresiones sobre él",
+ "proposito":"Diseñar y conducir seminarios con preparación exigida, estructura de discusión, roles y evaluación de la contribución intelectual.",
+ "decision":"determinar qué preparación exigirás y cómo asegurarás que la discusión trabaje sobre el texto",
+ "entregable":"el diseño de un seminario con preparación exigida, estructura de sesión y criterios de evaluación de la participación",
+ "conceptos":[
+  ["Seminario","formato de discusión intensiva sobre textos o problemas, con participación exigida"],
+  ["Preparación verificada","mecanismo que asegura que el texto fue leído antes de la sesión"],
+  ["Rol de sesión","función asignada —presentar, objetar, moderar, sintetizar— que estructura la discusión"],
+  ["Contribución intelectual","aporte que hace avanzar la discusión, distinto de la cantidad de intervenciones"]],
+ "desarrollo":"El seminario fracasa cuando el texto no se lee: la discusión se vuelve intercambio de opiniones generales y los pocos que leyeron dejan de prepararse. La solución no es exhortar sino diseñar: una entrega escrita breve antes de la sesión, roles asignados y una estructura que exija referirse al texto. Con esas tres condiciones el formato funciona incluso con grupos poco habituados.",
+ "practica":"Los roles rotativos —quien presenta, quien objeta, quien conecta con la sesión anterior, quien sintetiza— distribuyen la participación y evitan que dominen los mismos. Y la evaluación debe premiar la contribución intelectual y no el volumen de habla, lo que exige criterios explícitos y registro durante la sesión.",
+ "limites":"No hay evidencia experimental sólida sobre formatos de seminario: es conocimiento profesional consolidado. Su eficacia depende del tamaño del grupo —sobre quince participantes la discusión real se vuelve difícil— y de la preparación previa, que es la variable crítica.",
+ "errores":[
+  "Conducir el seminario sin mecanismo de preparación verificada.",
+  "Evaluar la participación por cantidad de intervenciones y no por su aporte."],
+ "criterios":[
+  "existe una entrega previa breve que verifica la lectura;",
+  "los criterios de evaluación de la participación son explícitos y se registran durante la sesión;"],
+ "preguntas":[
+  "¿Qué proporción de tu grupo llega con el texto leído?",
+  "¿Quién habla siempre y quién nunca en tus seminarios?",
+  "¿Qué distingue una buena intervención de una intervención frecuente?"],
+ "lecturas":[
+  ["Brookfield, S. & Preskill, S. (2005). *Discussion as a Way of Teaching*.","repertorio de estructuras de discusión con criterios de conducción."],
+  ["Alexander, R. (2020). *A Dialogic Teaching Companion*.","principios de discusión productiva aplicables al formato de seminario."]],
+ "inclusion":"La entrega escrita previa permite participar a estudiantes que no intervienen espontáneamente, y los roles asignados garantizan que todos tengan un espacio definido en la discusión.",
+ "reto":"Implementa entrega previa y roles rotativos durante cuatro sesiones. Registra la distribución de la participación antes y después.",
+ "conexion":"Se apoya en las clases 067 y 125 y complementa el formato de la clase 172."},
+
+{"n":174,"evidencia":"CONSISTENTE",
+ "foco":"por qué un laboratorio puede enseñar procedimiento y no enseñar nada de ciencia",
+ "proposito":"Diseñar laboratorios y prácticas con propósito de aprendizaje explícito: predicción, decisión experimental, análisis de datos e interpretación, en vez de seguimiento de recetas.",
+ "decision":"determinar qué debe decidir el estudiante en tu laboratorio para que aprenda algo más que el procedimiento",
+ "entregable":"el rediseño de una práctica de laboratorio con decisiones del estudiante y análisis de datos propios",
+ "conceptos":[
+  ["Laboratorio de receta","práctica en que el procedimiento está completamente prescrito y el resultado es conocido"],
+  ["Decisión experimental","elección que el estudiante debe tomar y justificar durante la práctica"],
+  ["Análisis de datos propios","interpretación de los datos efectivamente obtenidos, incluidos los inesperados"],
+  ["Incertidumbre","reconocimiento del error de medición y de sus consecuencias en la conclusión"]],
+ "desarrollo":"Un laboratorio de receta enseña a seguir instrucciones. La evidencia sobre laboratorios universitarios sugiere que las prácticas prescritas aportan poco al aprendizaje conceptual, mientras que aquellas donde el estudiante debe tomar decisiones —qué medir, cómo controlar, cómo interpretar la discrepancia— desarrollan comprensión del razonamiento experimental, que es lo que la disciplina realmente exige.",
+ "practica":"El rediseño consiste en devolver decisiones: dar el objetivo y no el procedimiento completo, exigir predicción previa, pedir que analicen sus propios datos incluidos los anómalos, y evaluar el razonamiento y no la coincidencia con el valor esperado. Esa última decisión es decisiva: mientras se califique por acercarse al valor de tabla, los estudiantes ajustarán los datos.",
+ "limites":"El rediseño consume más tiempo y exige más apoyo, lo que en cursos numerosos tiene un costo real. Y en fases iniciales, cierta prescripción es necesaria por seguridad y por dominio técnico. La progresión razonable va de procedimientos guiados a decisiones crecientes.",
+ "errores":[
+  "Calificar por proximidad al valor esperado, lo que incentiva ajustar los datos.",
+  "Prescribir todo el procedimiento y esperar que el estudiante comprenda el diseño experimental."],
+ "criterios":[
+  "el estudiante toma al menos dos decisiones experimentales y las justifica;",
+  "la evaluación premia el razonamiento y el tratamiento de la incertidumbre;"],
+ "preguntas":[
+  "¿Qué decide realmente tu estudiante en el laboratorio?",
+  "¿Qué pasa cuando sus datos no coinciden con lo esperado?",
+  "¿Qué estás calificando: el razonamiento o el resultado?"],
+ "lecturas":[
+  ["Holmes, N. G. & Wieman, C. (2018). *Introductory Physics Labs: We Can Do Better*. Physics Today.","evidencia sobre el bajo aporte conceptual de los laboratorios de receta y alternativas."],
+  ["Hofstein, A. & Lunetta, V. (2004). *The Laboratory in Science Education*.","revisión sobre qué aprende y qué no aprende el estudiante en el laboratorio."]],
+ "inclusion":"El trabajo en laboratorio distribuye roles de forma espontánea y suele reproducir sesgos: quién opera el instrumento y quién anota. Asignar y rotar roles explícitamente cambia la experiencia de aprendizaje de todo el grupo.",
+ "reto":"Rediseña una práctica devolviendo dos decisiones al estudiante. Evalúa el razonamiento y compara los informes con los de la versión prescrita.",
+ "conexion":"Aplica las clases 052 y 066 al nivel superior y comparte criterio con la clase 075."},
+
+{"n":175,"evidencia":"ROBUSTA",
+ "foco":"qué hace que una tutoría produzca aprendizaje y no solo resuelva la duda del momento",
+ "proposito":"Diseñar sistemas de tutoría y ayudantía que aprovechen el efecto documentado de la enseñanza en grupos pequeños, con formación de los ayudantes y foco en el razonamiento del estudiante.",
+ "decision":"determinar cómo formarás a tus ayudantes para que no resuelvan el problema en lugar del estudiante",
+ "entregable":"un protocolo de tutoría con formación de ayudantes, estructura de sesión y evaluación de su efecto",
+ "conceptos":[
+  ["Tutoría","enseñanza individual o en grupo muy pequeño, con alta capacidad de ajuste al estudiante"],
+  ["Ayudantía","apoyo docente ejercido por estudiantes avanzados con formación específica"],
+  ["Pregunta en vez de solución","práctica de guiar el razonamiento en lugar de entregar la respuesta"],
+  ["Formación del ayudante","preparación pedagógica mínima para quien enseña sin ser docente"]],
+ "desarrollo":"La enseñanza en grupos muy pequeños está entre las intervenciones con mayor efecto documentado, precisamente por su capacidad de ajuste: el tutor puede detectar el error específico y trabajar sobre él. Ese potencial se desperdicia cuando el tutor resuelve el problema frente al estudiante, que es la conducta espontánea de quien domina la materia y no tiene formación pedagógica.",
+ "practica":"La formación mínima del ayudante enseña tres cosas: preguntar antes de explicar, hacer que el estudiante intente antes de mostrar, y detectar el punto exacto donde se rompe el razonamiento. Con dos sesiones de formación y un protocolo simple, la calidad de la ayudantía cambia de forma perceptible.",
+ "limites":"El efecto documentado corresponde a tutoría bien implementada y sostenida; sesiones esporádicas y sin estructura rinden mucho menos. Y la ayudantía depende de la disponibilidad y la formación de estudiantes avanzados, que varía entre instituciones y semestres.",
+ "errores":[
+  "Asignar ayudantías por rendimiento académico sin ninguna formación pedagógica.",
+  "Permitir que la sesión consista en resolver los ejercicios frente a los estudiantes."],
+ "criterios":[
+  "los ayudantes reciben formación específica y disponen de un protocolo de sesión;",
+  "existe alguna evaluación del efecto de la tutoría y no solo de su realización;"],
+ "preguntas":[
+  "¿Qué hace tu ayudante cuando un estudiante no sabe empezar?",
+  "¿Qué formación recibió antes de su primera sesión?",
+  "¿Cómo sabes si tus ayudantías están sirviendo?"],
+ "lecturas":[
+  ["Bloom, B. (1984). *The 2 Sigma Problem*.","el estudio que instaló la magnitud del efecto de la tutoría individual y el desafío que plantea."],
+  ["Chi, M. et al. (2001). *Learning from Human Tutoring*.","muestra qué hacen los buenos tutores y por qué preguntar rinde más que explicar."]],
+ "inclusion":"La tutoría es una de las intervenciones más eficaces para estudiantes con menor preparación previa, y también una de las que menos usan por desconocimiento o por vergüenza. Convocar activamente y no esperar la solicitud espontánea cambia quién accede.",
+ "reto":"Forma a tus ayudantes con un protocolo de dos horas y observa una sesión. Documenta cuántas veces resolvieron en lugar de preguntar.",
+ "conexion":"Se apoya en las clases 126 y 127 y se conecta con la clase 093 sobre acompañamiento."},
+
+{"n":176,"evidencia":"CONSISTENTE",
+ "foco":"cómo evaluar en educación superior sin concentrar todo en dos pruebas y sin ahogarse corrigiendo",
+ "proposito":"Diseñar sistemas de evaluación universitaria sostenibles: distribuidos en el tiempo, con retroalimentación utilizable y con carga de corrección viable para el docente.",
+ "decision":"determinar cómo distribuir la evaluación para que informe el aprendizaje sin volverse insostenible",
+ "entregable":"un sistema de evaluación de asignatura con carga de corrección calculada y retroalimentación planificada",
+ "conceptos":[
+  ["Evaluación distribuida","conjunto de instancias a lo largo del semestre, en vez de una o dos pruebas finales"],
+  ["Carga de corrección","tiempo docente que exige el sistema de evaluación; determina su sostenibilidad"],
+  ["Retroalimentación entre pares","revisión estructurada entre estudiantes con criterios, que amplía la retroalimentación disponible"],
+  ["Evaluación por muestreo","estrategia de revisar en profundidad una parte del trabajo y no todo"]],
+ "desarrollo":"El sistema típico —dos pruebas y un examen— produce estudio concentrado, mala retención y retroalimentación inútil por tardía. La alternativa distribuida mejora el aprendizaje y colapsa al docente si no se diseña la carga de corrección. La combinación viable incluye instancias breves de baja consecuencia con corrección automática o entre pares, y pocas instancias extensas con retroalimentación docente en profundidad.",
+ "practica":"El cálculo de carga es la decisión central: multiplicar número de estudiantes por minutos de corrección da el número real de horas comprometidas. Con ese dato se diseña: qué se corrige en profundidad, qué se revisa por muestreo, qué se retroalimenta entre pares con rúbrica y qué se autocorrige con pauta.",
+ "limites":"La retroalimentación entre pares tiene calidad variable y requiere formación y criterios; sin ellos produce comentarios vagos. Y la corrección automática solo sirve para ciertos desempeños. Ningún sistema elimina la necesidad de juicio docente en las evaluaciones con mayor consecuencia.",
+ "errores":[
+  "Diseñar un sistema distribuido sin calcular la carga real de corrección.",
+  "Implementar revisión entre pares sin rúbrica ni formación previa."],
+ "criterios":[
+  "la carga de corrección está calculada en horas y es sostenible;",
+  "la retroalimentación llega a tiempo de ser usada en una entrega posterior;"],
+ "preguntas":[
+  "¿Cuántas horas de corrección comprometiste al diseñar tu evaluación?",
+  "¿Cuándo llega tu retroalimentación en relación con la siguiente entrega?",
+  "¿Qué instancias podrías corregir por muestreo sin perder información?"],
+ "lecturas":[
+  ["Boud, D. & Molloy, E. (2013). *Rethinking Models of Feedback for Learning*.","propone sistemas de retroalimentación sostenibles y centrados en el uso del estudiante."],
+  ["Nicol, D. & Macfarlane-Dick (2006). *Formative Assessment and Self-Regulated Learning*.","principios de evaluación que fortalecen la autorregulación en educación superior."]],
+ "inclusion":"La evaluación concentrada penaliza a estudiantes que trabajan o tienen responsabilidades de cuidado, porque exige disponibilidad total en semanas específicas. La distribución reduce esa barrera estructural.",
+ "reto":"Calcula la carga de corrección de tu sistema actual y rediséñalo para distribuirlo sin aumentar tus horas. Verifica el efecto en las entregas.",
+ "conexion":"Aplica la parte 11 al contexto universitario y se apoya en la clase 169."},
+
+{"n":177,"evidencia":"EN-DEBATE",
+ "foco":"cómo sostener la integridad en un contexto donde la producción de texto dejó de ser evidencia de aprendizaje",
+ "proposito":"Diseñar políticas de integridad académica universitaria que combinen reglas claras, evaluación resistente, formación en criterio y debido proceso.",
+ "decision":"determinar qué evaluaciones de tu asignatura son insostenibles y con qué las reemplazas",
+ "entregable":"una política de integridad de asignatura con evaluaciones rediseñadas y procedimiento con debido proceso",
+ "conceptos":[
+  ["Integridad académica","conjunto de normas sobre autoría, honestidad y atribución en el trabajo académico"],
+  ["Evaluación resistente","tarea que no puede resolverse sin el aprendizaje que declara evaluar"],
+  ["Uso declarado","exigencia de explicitar qué herramientas se usaron y cómo"],
+  ["Debido proceso","garantías de evidencia, defensa y proporcionalidad ante una acusación"]],
+ "desarrollo":"En educación superior la integridad se sostenía en gran parte sobre la verificación de autoría del texto, y esa base se debilitó. Las respuestas viables combinan tres líneas: evaluaciones donde el producto exige aprendizaje verificable —defensa oral, trabajo sobre datos propios, producción supervisada—, políticas explícitas de uso declarado, y formación en las razones de la integridad, no solo en sus sanciones.",
+ "practica":"La política de asignatura debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos. Y el procedimiento ante sospecha debe respetar debido proceso: los detectores automáticos no constituyen evidencia suficiente y su uso como prueba ha producido acusaciones injustas con consecuencias graves.",
+ "limites":"El campo está en transición y no hay consenso sobre qué usos son legítimos. Además, la investigación disponible sobre deshonestidad académica muestra que las causas principales son estructurales —presión, carga, percepción de injusticia— y no solo morales, de modo que reducir la presión suele rendir más que aumentar la vigilancia.",
+ "errores":[
+  "Usar detectores automáticos como evidencia de una acusación.",
+  "Aumentar la vigilancia sin revisar las condiciones de presión y carga que empujan a la deshonestidad."],
+ "criterios":[
+  "la política declara usos permitidos, condicionados y prohibidos con ejemplos;",
+  "el procedimiento respeta debido proceso y proporcionalidad;"],
+ "preguntas":[
+  "¿Qué evaluación tuya podría aprobarse sin haber aprendido nada?",
+  "¿Qué condición de tu curso empuja a tus estudiantes a la deshonestidad?",
+  "¿Qué evidencia sostendría una acusación en tu institución?"],
+ "lecturas":[
+  ["Bretag, T. (ed.). *Handbook of Academic Integrity*.","tratamiento sistemático del campo, sus causas y sus políticas."],
+  ["UNESCO (2023). *Guidance for Generative AI in Education and Research*.","orientaciones institucionales para políticas de uso y evaluación."]],
+ "inclusion":"Las acusaciones basadas en detectores afectan de forma desproporcionada a estudiantes que escriben en segunda lengua. Y las políticas punitivas sin apoyo golpean más fuerte a quienes tienen menos margen para perder un semestre.",
+ "reto":"Rediseña tu evaluación más vulnerable y publica la política antes del semestre. Registra los casos y evalúa si el rediseño redujo el problema.",
+ "conexion":"Profundiza la clase 152 en el contexto universitario y se apoya en las clases 136 y 164."},
+
+{"n":178,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"por qué tantos proyectos de título se atrasan y qué del diseño lo explica",
+ "proposito":"Diseñar procesos de proyecto de título con hitos, criterios explícitos, supervisión regular y alcance realista, para reducir el atraso y el abandono en la etapa final.",
+ "decision":"determinar los hitos y criterios que harán posible detectar a tiempo un proyecto que se está atrasando",
+ "entregable":"un proceso de proyecto de título con hitos, criterios de avance, supervisión y detección temprana de riesgo",
+ "conceptos":[
+  ["Proyecto de título","trabajo final que integra y demuestra los desempeños del perfil de egreso"],
+  ["Alcance","extensión y ambición del proyecto; su mala definición es la causa principal de atraso"],
+  ["Hito de avance","punto de control con entrega y retroalimentación en fecha definida"],
+  ["Detección temprana","identificación del atraso cuando todavía es corregible"]],
+ "desarrollo":"El atraso en la etapa de titulación tiene causas conocidas y en gran medida evitables: alcance sobredimensionado, ausencia de hitos intermedios, supervisión irregular y criterios de aprobación implícitos. Los tres primeros dependen del diseño del proceso y no del estudiante; el cuarto produce reescrituras interminables porque el estándar se descubre solo al final.",
+ "practica":"Un proceso bien diseñado acota el alcance por escrito al inicio, fija hitos con entregas y fechas, exige regularidad en la supervisión y publica los criterios de aprobación desde el primer día. Y define una señal de alerta: dos hitos incumplidos activan una conversación formal, no un silencio de tres meses.",
+ "limites":"El diseño reduce el atraso evitable y no elimina las causas externas: trabajo, salud, situación económica. Además, la calidad de la supervisión varía mucho entre docentes, y ese es un problema de gestión institucional más que de proceso.",
+ "errores":[
+  "Aceptar alcances sobredimensionados por entusiasmo del estudiante o del supervisor.",
+  "Mantener implícitos los criterios de aprobación hasta la entrega final."],
+ "criterios":[
+  "el alcance está acotado por escrito y es realista en el tiempo disponible;",
+  "existen hitos con fecha y una señal de alerta definida ante el incumplimiento;"],
+ "preguntas":[
+  "¿Cuántos de tus estudiantes se atrasan y en qué etapa exactamente?",
+  "¿Cuándo detectas que un proyecto se está cayendo?",
+  "¿Conoce el estudiante los criterios con que será evaluado desde el inicio?"],
+ "lecturas":[
+  ["Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*.","principios de supervisión aplicables también a proyectos de pregrado y magíster."],
+  ["Comisión Nacional de Acreditación (Chile). *Criterios sobre procesos de titulación*.","requisitos institucionales sobre la etapa final de los programas."]],
+ "inclusion":"Los estudiantes que trabajan o son primera generación suelen tener menos claridad sobre el estándar esperado y menos redes para resolver problemas. Criterios públicos y supervisión regular reducen esa desventaja de información.",
+ "reto":"Rediseña el proceso con hitos y criterios públicos. Aplícalo a una cohorte y compara las tasas de atraso con la anterior.",
+ "conexion":"Prepara la clase 179 y se conecta con las partes 16 y 17."},
+
+{"n":179,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"cómo se dirige a alguien que está aprendiendo a investigar sin hacerle la investigación",
+ "proposito":"Ejercer supervisión inicial de investigación con estructura: acuerdos explícitos, regularidad, retroalimentación sobre el trabajo y traspaso progresivo de la autonomía.",
+ "decision":"determinar qué acuerdos de supervisión establecerás y cómo traspasarás autonomía progresivamente",
+ "entregable":"un acuerdo de supervisión con frecuencia, expectativas mutuas, formato de retroalimentación y criterios de avance",
+ "conceptos":[
+  ["Acuerdo de supervisión","documento breve con expectativas, frecuencia y responsabilidades de ambas partes"],
+  ["Autonomía progresiva","traspaso gradual de decisiones al estudiante conforme avanza su competencia"],
+  ["Retroalimentación sobre el trabajo","comentario centrado en el texto o el diseño, no en la persona"],
+  ["Expectativa desalineada","desencuentro entre lo que el supervisor asume y lo que el estudiante espera"]],
+ "desarrollo":"La mayor parte de los conflictos de supervisión proviene de expectativas no declaradas: cuánto se reúnen, quién propone, cuánto demora la retroalimentación, qué nivel de autonomía se espera. Un acuerdo breve al inicio previene la mayoría de esos conflictos y hace posible corregir a tiempo cuando la relación no funciona.",
+ "practica":"El acuerdo declara frecuencia de reuniones, qué lleva el estudiante a cada una, en qué plazo responde el supervisor, y cómo se evaluará el avance. La autonomía se traspasa por etapas explícitas: al inicio el supervisor propone la estructura, después la revisa, más tarde solo comenta el resultado. Nombrar la etapa evita la frustración de ambos lados.",
+ "limites":"No hay evidencia experimental sobre modelos de supervisión: es conocimiento profesional acumulado, con fuerte variación disciplinar y cultural. Lo que sí está documentado es que la calidad de la supervisión es uno de los predictores más importantes de la finalización y de la experiencia del estudiante.",
+ "errores":[
+  "Iniciar la supervisión sin acuerdo sobre frecuencia, plazos y expectativas mutuas.",
+  "Reescribir el trabajo del estudiante en vez de retroalimentarlo para que lo corrija."],
+ "criterios":[
+  "el acuerdo declara frecuencia, plazos de respuesta y expectativas de ambas partes;",
+  "define etapas explícitas de traspaso de autonomía;"],
+ "preguntas":[
+  "¿Cada cuánto se reúnen realmente y quién propone la agenda?",
+  "¿Cuánto demoras en devolver un texto y lo dijiste al inicio?",
+  "¿En qué etapa de autonomía está tu estudiante y lo sabe?"],
+ "lecturas":[
+  ["Delamont, S., Atkinson, P. & Parry, O. (2004). *Supervising the Doctorate*.","modelo de supervisión con acuerdos y etapas de autonomía."],
+  ["Lee, A. (2008). *How Are Doctoral Students Supervised?* Studies in Higher Education, 33(3).","tipifica estilos de supervisión y sus consecuencias."]],
+ "inclusion":"Los estudiantes sin capital académico familiar desconocen las reglas implícitas de la relación de supervisión. Hacerlas explícitas en un acuerdo escrito es una medida concreta de equidad en el acceso al posgrado.",
+ "reto":"Establece un acuerdo escrito con un estudiante que supervisas y revísalo a los dos meses. Documenta qué expectativa estaba desalineada.",
+ "conexion":"Prepara la parte 17 y se apoya en la clase 093 sobre acompañamiento estructurado."},
+
+{"n":180,"evidencia":"CONSISTENTE",
+ "foco":"cómo se construye una asignatura universitaria completa que resista una revisión de pares",
+ "proposito":"Integrar la parte diseñando, ejecutando y evaluando una asignatura universitaria completa con alineamiento, métodos activos, evaluación sostenible y evidencia de resultados.",
+ "decision":"determinar el diseño completo de la asignatura y qué evidencia mostrará que produjo aprendizaje",
+ "entregable":"una asignatura universitaria completa con syllabus, diseño de sesiones, sistema de evaluación y análisis de resultados",
+ "conceptos":[
+  ["Diseño integral","articulación de resultados, métodos, evaluación y carga en una sola asignatura coherente"],
+  ["Revisión de pares docente","evaluación del diseño por colegas antes o después de su implementación"],
+  ["Evidencia de resultados","información sobre el aprendizaje logrado y no solo sobre la satisfacción"],
+  ["Mejora iterativa","ajuste del diseño con la evidencia de cada versión del curso"]],
+ "desarrollo":"El proyecto integrador exige que las decisiones de la parte funcionen juntas: alineamiento con el perfil, métodos que exijan procesamiento activo, evaluación distribuida y sostenible, y carga realista. La prueba de calidad es la revisión de pares: entregar el diseño a un colega y responder sus objeciones sin recurrir a la costumbre o a la autoridad disciplinar.",
+ "practica":"El análisis final debe distinguir tres fuentes: resultados de aprendizaje, percepción de los estudiantes y observación del propio docente. Cuando divergen —buena evaluación docente con bajo aprendizaje, por ejemplo— la divergencia es la información más valiosa y la que orienta la siguiente versión.",
+ "limites":"Una asignatura ejecutada una vez no permite atribuir resultados al diseño: la cohorte, el momento y el propio entusiasmo del docente influyen. Lo que produce es evidencia local suficiente para mejorar, y la base de un trabajo de investigación sobre la propia docencia si se diseña con más rigor.",
+ "errores":[
+  "Evaluar el éxito de la asignatura solo con la encuesta de satisfacción estudiantil.",
+  "Rediseñar sin revisar la evidencia de aprendizaje de la versión anterior."],
+ "criterios":[
+  "el diseño fue revisado por un par y las objeciones quedaron documentadas;",
+  "el análisis contrasta evidencia de aprendizaje con percepción de los estudiantes;"],
+ "preguntas":[
+  "¿Qué objeción de tu colega no supiste responder?",
+  "¿Dónde divergen los resultados de aprendizaje y la satisfacción declarada?",
+  "¿Qué cambiarás en la próxima versión y con qué evidencia?"],
+ "lecturas":[
+  ["Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University*.","marco integral para diseñar y revisar una asignatura completa."],
+  ["Boyer, E. (1990). *Scholarship Reconsidered*.","fundamenta la docencia como objeto legítimo de indagación académica sistemática."]],
+ "inclusion":"El análisis por estudiante permite detectar si el diseño funcionó para quienes llegaron con menor preparación o con menos tiempo disponible, que es donde se juega la equidad real de una asignatura universitaria.",
+ "reto":"Ejecuta la asignatura, analiza sus resultados y somete el diseño a revisión de un par. Documenta los cambios para la siguiente versión.",
+ "conexion":"Cierra la parte 14 integrando sus once clases previas y se conecta con las partes 15 y 16."}
+]

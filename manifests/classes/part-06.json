@@ -1,0 +1,361 @@
+[
+{"n":73,"evidencia":"MARCO-NORMATIVO",
+ "foco":"por qué la mayoría de los perfiles de egreso por competencias no se pueden evaluar tal como están escritos",
+ "proposito":"Redactar competencias y estándares de desempeño que se puedan observar, graduar y evaluar, distinguiéndolos de contenidos con un verbo antepuesto.",
+ "decision":"determinar el estándar de desempeño que hará observable la competencia que declaraste",
+ "entregable":"tres competencias reescritas con su estándar de desempeño, sus evidencias y sus condiciones de ejecución",
+ "conceptos":[
+  ["Competencia","capacidad de movilizar conocimientos, procedimientos y criterios en una situación real del oficio"],
+  ["Estándar de desempeño","descripción del nivel exigido: qué hace, con qué calidad y en qué condiciones"],
+  ["Evidencia de competencia","producto, desempeño o registro que permite afirmar que la competencia se posee"],
+  ["Condición de ejecución","contexto, materiales, tiempo y restricciones en que se demuestra el desempeño"]],
+ "desarrollo":"Una competencia mal escrita hace imposible evaluar y vuelve arbitraria la certificación. «Conocer los sistemas eléctricos» no es una competencia: no dice qué hace la persona, con qué calidad ni en qué condiciones. «Diagnosticar una falla en un circuito residencial, con instrumento, en menos de treinta minutos y sin interrumpir el suministro de otros circuitos» sí lo es, porque describe desempeño, calidad y condiciones.",
+ "practica":"El procedimiento consiste en partir de la tarea real del oficio, describir qué hace un trabajador competente, definir el nivel exigido y declarar en qué condiciones se demuestra. En Chile, el Marco de Cualificaciones Técnico-Profesional y los perfiles de egreso de las especialidades entregan la referencia; el trabajo local es traducirlos a estándares evaluables en el taller.",
+ "limites":"El enfoque de competencias tiene críticas legítimas: puede fragmentar el conocimiento en listas de tareas y perder la comprensión que las sostiene, y su lenguaje puede volverse burocrático. Un buen perfil conserva los fundamentos disciplinares que explican por qué se hace así, y no solo la lista de desempeños observables.",
+ "errores":[
+  "Redactar competencias con verbos no observables y evaluarlas con pruebas escritas.",
+  "Fragmentar el oficio en tareas aisladas y perder los fundamentos que las explican."],
+ "criterios":[
+  "cada competencia declara desempeño, calidad exigida y condiciones de ejecución;",
+  "las evidencias asociadas son observables en una tarea real o simulada del oficio;"],
+ "preguntas":[
+  "¿Qué hace exactamente una persona competente en esta tarea, y con qué calidad?",
+  "¿Podrías evaluar tu competencia sin pedir un texto escrito?",
+  "¿Qué fundamento se pierde si solo evalúas la ejecución?"],
+ "lecturas":[
+  ["Mineduc. *Marco de Cualificaciones Técnico-Profesional* y perfiles de egreso vigentes.","referencia oficial chilena para niveles, competencias y estándares por especialidad."],
+  ["Wesselink, R. et al. *Competence-Based Education: Principles and Critiques*.","sistematiza el enfoque y sus objeciones; útil para no adoptarlo de forma acrítica."]],
+ "inclusion":"Los estándares deben distinguir la competencia del oficio de las condiciones accesorias de su demostración. Un estudiante con discapacidad puede demostrar la misma competencia con apoyos o adaptaciones sin que el estándar baje, siempre que la seguridad y el resultado se mantengan.",
+ "reto":"Toma tres competencias del perfil de tu especialidad y reescríbelas con estándar y condiciones. Contrástalas con un docente de taller y ajusta lo que él no podría evaluar.",
+ "conexion":"Abre la parte 06 y sostiene las clases 077 y 078. Se apoya en la parte 09 para la lógica de resultados de aprendizaje."},
+
+{"n":74,"evidencia":"CONSISTENTE",
+ "foco":"por qué se aprende el oficio participando en él y no escuchando sobre él",
+ "proposito":"Diseñar aprendizaje situado: participación progresiva en tareas reales de la comunidad de práctica, con responsabilidad creciente y acompañamiento experto.",
+ "decision":"determinar qué nivel de participación real puede asumir tu estudiante ahora y cuál será el siguiente",
+ "entregable":"una progresión de participación desde tareas periféricas hasta responsabilidad plena, con criterios de avance",
+ "conceptos":[
+  ["Comunidad de práctica","grupo que comparte un oficio, sus estándares y sus formas de hacer las cosas"],
+  ["Participación periférica legítima","involucramiento real pero acotado del aprendiz en el trabajo de la comunidad"],
+  ["Aprendizaje situado","adquisición de competencias en el contexto real donde se usan"],
+  ["Progresión de responsabilidad","aumento gradual de la exigencia y de la autonomía en la tarea"]],
+ "desarrollo":"En un oficio no se aprende primero la teoría y luego la práctica: se aprende participando desde el inicio en tareas reales, aunque acotadas, con acompañamiento. Esa participación enseña el procedimiento y algo más difícil de transmitir: los estándares implícitos de calidad, el lenguaje del oficio y las decisiones que un experto toma sin verbalizarlas. Por eso el taller y la empresa enseñan cosas que ninguna clase puede sustituir.",
+ "practica":"La progresión se diseña explícitamente: qué tarea puede asumir un estudiante en su primera semana, qué se le agrega después, con qué criterio se decide que está listo. Sin esa progresión escrita, la práctica se convierte en observación pasiva o en asignación de tareas irrelevantes, que son las dos formas más comunes de desperdiciar una plaza de práctica.",
+ "limites":"El aprendizaje situado es un marco descriptivo potente y no un método con protocolo probado; su evidencia proviene sobre todo de estudios etnográficos. Además, la participación real solo enseña si hay acompañamiento experto: sin él, el aprendiz consolida los errores del entorno y aprende las malas prácticas junto con las buenas.",
+ "errores":[
+  "Asignar al aprendiz tareas irrelevantes y llamarlo práctica.",
+  "Suponer que la sola exposición al entorno de trabajo produce aprendizaje sin acompañamiento."],
+ "criterios":[
+  "la progresión declara tareas concretas por etapa y criterios de avance;",
+  "cada etapa identifica quién acompaña y con qué frecuencia;"],
+ "preguntas":[
+  "¿Qué tarea real puede hacer tu estudiante hoy con seguridad?",
+  "¿Quién lo acompaña y cuánto tiempo efectivo le dedica?",
+  "¿Qué malas prácticas del entorno podría estar aprendiendo sin que nadie lo note?"],
+ "lecturas":[
+  ["Lave, J. & Wenger, E. (1991). *Situated Learning*.","el texto que define participación periférica legítima y explica cómo se aprende un oficio."],
+  ["Billett, S. (2001). *Learning in the Workplace*.","traduce el enfoque a decisiones de diseño de formación en el puesto de trabajo."]],
+ "inclusion":"La asignación de tareas en talleres y empresas suele reproducir sesgos de género y de origen: quién opera la máquina y quién limpia. Explicitar la progresión para todos los estudiantes impide que la desigualdad se instale como costumbre del lugar.",
+ "reto":"Documenta durante una semana qué tareas hace realmente un estudiante en práctica. Compáralo con la progresión que diseñaste y corrige la diferencia.",
+ "conexion":"Sostiene las clases 079, 080 y 081, y aplica al oficio la clase 016 sobre andamiaje."},
+
+{"n":75,"evidencia":"CONSISTENTE",
+ "foco":"cómo se estructura un taller para que todos practiquen, y no solo los que llegan primero a la máquina",
+ "proposito":"Diseñar sesiones de taller y laboratorio con secuencia de dominio: demostración, práctica con corrección, práctica independiente y verificación, gestionando equipos y tiempos limitados.",
+ "decision":"determinar la estructura de tu sesión de taller para maximizar la práctica efectiva de cada estudiante",
+ "entregable":"el diseño de una sesión de taller con secuencia, rotación, tiempos y verificación individual del desempeño",
+ "conceptos":[
+  ["Demostración","ejecución modelada por el docente con explicación de los puntos críticos"],
+  ["Práctica con corrección","ejecución del estudiante con retroalimentación inmediata sobre el error"],
+  ["Tiempo de práctica efectiva","minutos reales en que cada estudiante ejecuta la tarea, no en que observa o espera"],
+  ["Rotación","organización que distribuye el acceso a equipos limitados sin dejar a nadie inactivo"]],
+ "desarrollo":"El taller tiene una restricción estructural: equipos limitados y muchos estudiantes. Sin diseño, esa restricción produce clases donde unos pocos practican y el resto observa. La secuencia con mejor rendimiento es conocida —demostración con puntos críticos explícitos, práctica inmediata con corrección, práctica independiente y verificación individual— y su implementación depende enteramente de cómo se organiza la rotación y qué hacen los que esperan.",
+ "practica":"Diseñar la sesión implica calcular el tiempo de práctica efectiva por estudiante y organizar estaciones o tareas paralelas para que nadie espere sin hacer nada. La verificación individual al cierre es indispensable: sin ella, el estudiante que nunca ejecutó correctamente pasa inadvertido hasta la evaluación final.",
+ "limites":"La demostración es necesaria y no suficiente: observar a un experto produce la ilusión de saber hacerlo. Esa ilusión es sistemática y explica por qué los estudiantes se sorprenden al fallar en la ejecución. La corrección inmediata durante la primera práctica es lo que evita que el error se consolide.",
+ "errores":[
+  "Diseñar la sesión sin calcular el tiempo real de práctica por estudiante.",
+  "Dar por aprendido lo demostrado, sin verificación individual de ejecución."],
+ "criterios":[
+  "el diseño declara el tiempo de práctica efectiva por estudiante y cómo se logra;",
+  "existe verificación individual del desempeño antes de cerrar la sesión;"],
+ "preguntas":[
+  "¿Cuántos minutos ejecuta realmente cada estudiante en tu taller?",
+  "¿Qué hacen los que esperan turno?",
+  "¿Cómo sabes que todos ejecutaron correctamente al menos una vez?"],
+ "lecturas":[
+  ["Rosenshine, B. (2012). *Principles of Instruction*.","la secuencia de demostración, práctica guiada e independiente aplicada a cualquier destreza."],
+  ["Ericsson, K. A. & Pool, R. (2016). *Peak: Secrets from the New Science of Expertise*.","fundamenta la práctica deliberada con retroalimentación como mecanismo de dominio técnico."]],
+ "inclusion":"El acceso desigual a los equipos suele coincidir con jerarquías informales del grupo. Una rotación explícita y registrada garantiza que la distribución de la práctica no dependa de quién se impone en el taller.",
+ "reto":"Cronometra el tiempo de práctica de tres estudiantes distintos en una sesión. Rediseña la rotación para igualarlo y vuelve a medir.",
+ "conexion":"Se apoya en la clase 074 y en la parte 10, y se articula obligatoriamente con la clase 076."},
+
+{"n":76,"evidencia":"MARCO-NORMATIVO",
+ "foco":"por qué la seguridad no es un módulo aparte sino un criterio de todo desempeño técnico",
+ "proposito":"Integrar la prevención de riesgos como parte del estándar de desempeño y construir cultura preventiva, distinguiendo obligación legal, procedimiento institucional y formación de criterio.",
+ "decision":"determinar cómo la seguridad quedará incorporada al criterio de evaluación de cada desempeño y no como contenido aparte",
+ "entregable":"una matriz de riesgos de tu taller con medidas, responsables y su integración en los criterios de evaluación",
+ "conceptos":[
+  ["Riesgo","probabilidad de que ocurra un daño asociado a una tarea, equipo o condición"],
+  ["Medida de control","acción que elimina, reduce o señaliza un riesgo, con jerarquía definida"],
+  ["Cultura preventiva","conjunto de prácticas y supuestos compartidos que hacen de la seguridad una conducta por defecto"],
+  ["Responsabilidad institucional","obligaciones del establecimiento sobre condiciones, supervisión y registro"]],
+ "desarrollo":"Un desempeño técnico ejecutado sin las medidas de seguridad no es un desempeño competente al que le falta algo: es un desempeño incorrecto. Formular así el criterio cambia la evaluación y también la cultura, porque el estudiante aprende que ambas cosas son la misma. En sentido inverso, un establecimiento que enseña seguridad como módulo teórico y luego tolera su incumplimiento en el taller enseña, con más fuerza, que la norma es opcional.",
+ "practica":"El trabajo concreto es levantar la matriz de riesgos del taller —tarea por tarea— con sus medidas de control, y traducir esas medidas a criterios de la rúbrica de desempeño. Además, la responsabilidad institucional exige registro: capacitación entregada, elementos de protección disponibles, mantenimiento de equipos y supervisión efectiva. Ese registro protege al estudiante y también al docente.",
+ "limites":"La normativa de seguridad y salud en el trabajo cambia y varía por sector; toda afirmación específica debe verificarse en su versión vigente. Y la formación de criterio no se reduce al cumplimiento: un trabajador competente reconoce riesgos nuevos que ninguna norma anticipó, y eso se enseña con análisis de situaciones y no con listas memorizadas.",
+ "errores":[
+  "Enseñar seguridad como contenido separado y evaluarla con una prueba escrita.",
+  "Tolerar incumplimientos menores en el taller, que enseñan que la norma es negociable."],
+ "criterios":[
+  "la matriz cubre las tareas del taller con medidas y responsables identificados;",
+  "los criterios de evaluación del desempeño incluyen la seguridad como condición y no como bonificación;"],
+ "preguntas":[
+  "¿Qué incumplimiento menor toleras habitualmente en tu taller?",
+  "¿Qué registro tienes de la capacitación y de los elementos de protección entregados?",
+  "¿Cómo enseñas a reconocer un riesgo que no está en ninguna lista?"],
+ "lecturas":[
+  ["Organización Internacional del Trabajo. *Directrices sobre sistemas de gestión de la seguridad y salud en el trabajo*.","marco internacional de referencia para la jerarquía de medidas de control."],
+  ["Superintendencia de Seguridad Social y normativa chilena de seguridad y salud en el trabajo.","obligaciones vigentes aplicables a establecimientos y a estudiantes en práctica."]],
+ "inclusion":"Los ajustes de accesibilidad en un taller deben diseñarse junto con las medidas de seguridad, nunca en contra: adaptar el puesto, la herramienta o el procedimiento, manteniendo el control del riesgo, es lo que permite que un estudiante con discapacidad participe plenamente.",
+ "reto":"Levanta la matriz de riesgos de una tarea de tu taller e incorpórala a la rúbrica. Aplica la rúbrica y registra cuántos desempeños fallan por seguridad y no por técnica.",
+ "conexion":"Es condición de las clases 075, 079 y 081, y su lógica de registro se conecta con la parte 12."},
+
+{"n":77,"evidencia":"CONSISTENTE",
+ "foco":"cómo se construye una rúbrica que dos evaluadores distintos apliquen con el mismo resultado",
+ "proposito":"Construir rúbricas de desempeño técnicas: descriptores observables, niveles diferenciados por calidad y no por adverbios, y calibración entre evaluadores.",
+ "decision":"determinar los descriptores de cada nivel de desempeño para que la evaluación no dependa del evaluador",
+ "entregable":"una rúbrica de desempeño calibrada con evidencia de acuerdo entre dos evaluadores sobre trabajos reales",
+ "conceptos":[
+  ["Descriptor","descripción observable de lo que se hace en un nivel de desempeño determinado"],
+  ["Nivel de desempeño","grado de calidad diferenciado por rasgos concretos y no por intensidad del adverbio"],
+  ["Acuerdo entre evaluadores","grado en que dos personas asignan el mismo nivel al mismo desempeño"],
+  ["Criterio crítico","aspecto cuyo incumplimiento invalida el desempeño completo, típicamente la seguridad"]],
+ "desarrollo":"La rúbrica es el instrumento central de la evaluación técnica y la mayoría de las que circulan no cumplen su función, porque sus niveles se distinguen con adverbios —«siempre», «a veces», «adecuadamente»— que trasladan el juicio al evaluador. Una rúbrica útil describe qué se observa en cada nivel: qué tolerancia, qué acabado, qué secuencia, qué tiempo. Solo así dos evaluadores pueden coincidir.",
+ "practica":"Construirla exige partir de desempeños reales: mirar trabajos de distinta calidad y describir en qué se diferencian. Después se calibra con otro evaluador sobre casos reales y se reescriben los descriptores que produjeron desacuerdo. La rúbrica también debe declarar los criterios críticos, aquellos cuyo incumplimiento hace inválido el desempeño aunque el resto esté bien.",
+ "limites":"Las rúbricas mejoran la consistencia pero no garantizan validez: pueden ser muy consistentes midiendo lo que no importa. Además, descomponer demasiado el desempeño produce listas de verificación que pierden la calidad global del trabajo. El equilibrio entre analítico y holístico es una decisión profesional que depende del uso que se dará al resultado.",
+ "errores":[
+  "Diferenciar niveles con adverbios de frecuencia en vez de con rasgos observables.",
+  "Omitir los criterios críticos, con lo que un desempeño inseguro puede aprobar por promedio."],
+ "criterios":[
+  "cada nivel describe rasgos observables y no grados de un adverbio;",
+  "la rúbrica declara sus criterios críticos y existe evidencia de calibración;"],
+ "preguntas":[
+  "¿Qué se ve exactamente distinto entre un nivel y el siguiente en tu rúbrica?",
+  "¿Qué criterio invalida el desempeño completo aunque todo lo demás esté bien?",
+  "¿Qué tan distinto evaluaría este trabajo tu colega de taller?"],
+ "lecturas":[
+  ["Jonsson, A. & Svingby, G. (2007). *The Use of Scoring Rubrics*.","evidencia sobre cuándo las rúbricas mejoran la consistencia y qué las hace fallar."],
+  ["Sadler, D. R. (2009). *Indeterminacy in the Use of Preset Criteria for Assessment*.","advierte sobre los límites de los criterios prefijados en desempeños complejos."]],
+ "inclusion":"Los descriptores deben evaluar el resultado y el procedimiento seguro, no la forma corporal de ejecutarlo. Escrito así, un estudiante con una adaptación puede alcanzar el mismo nivel sin que la rúbrica lo penalice por hacerlo de otra manera.",
+ "reto":"Evalúa cinco trabajos con un colega usando tu rúbrica. Calcula el acuerdo, reescribe los descriptores conflictivos y repite el ejercicio.",
+ "conexion":"Es el instrumento de las clases 073 y 075, y anticipa el tratamiento técnico de la parte 11."},
+
+{"n":78,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"cómo se construye una carpeta de evidencias que efectivamente respalde una certificación",
+ "proposito":"Diseñar portafolios de evidencias con trazabilidad, suficiencia y criterios de validez, de modo que sirvan para certificar competencias y no solo para acumular trabajos.",
+ "decision":"determinar qué evidencias son suficientes para afirmar que una competencia está lograda",
+ "entregable":"la estructura de un portafolio con evidencias requeridas por competencia, criterios de suficiencia y sistema de verificación",
+ "conceptos":[
+  ["Portafolio de evidencias","conjunto organizado de productos y registros que documentan el logro de competencias"],
+  ["Trazabilidad","posibilidad de vincular cada evidencia con la competencia, la fecha y las condiciones en que se produjo"],
+  ["Suficiencia","cantidad y variedad de evidencia necesaria para sostener la afirmación de logro"],
+  ["Autenticidad","garantía de que la evidencia fue producida por el estudiante en las condiciones declaradas"]],
+ "desarrollo":"Un portafolio sin criterios es una carpeta. Lo que lo convierte en instrumento de evaluación es la definición previa de qué evidencia se exige por competencia, cuánta es suficiente y cómo se verifica su autenticidad. Esa definición debe hacerse antes de recolectar; hacerlo después obliga a aceptar lo que haya, que es como se llega a certificar competencias con evidencia insuficiente.",
+ "practica":"La estructura útil asocia cada competencia con sus evidencias requeridas —producto, registro de desempeño observado, fotografía fechada, informe del supervisor—, define el mínimo de cada tipo y establece cómo se verifica. La reflexión del estudiante sobre su propio proceso agrega valor formativo, pero no sustituye la evidencia de desempeño.",
+ "limites":"Los portafolios son costosos de evaluar y su consistencia entre evaluadores es baja sin criterios explícitos y calibración. Además, la autenticidad es un problema real, agravado por las herramientas digitales: la evidencia documental sin observación directa del desempeño no basta para certificar una competencia técnica.",
+ "errores":[
+  "Definir los criterios de suficiencia después de haber recolectado las evidencias.",
+  "Certificar competencias técnicas solo con evidencia documental, sin desempeño observado."],
+ "criterios":[
+  "cada competencia declara evidencias requeridas, mínimo exigido y forma de verificación;",
+  "existe al menos una evidencia de desempeño observado por competencia técnica;"],
+ "preguntas":[
+  "¿Qué evidencia de tu portafolio no probaría nada ante un tercero?",
+  "¿Cómo verificas que el trabajo fue hecho por el estudiante y en esas condiciones?",
+  "¿Cuánta evidencia es suficiente y quién lo decidió?"],
+ "lecturas":[
+  ["Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*.","propone criterios de calidad aplicables a portafolios y evaluación de competencias."],
+  ["Mineduc. *Orientaciones para la evaluación en la formación diferenciada técnico-profesional*.","referencia chilena sobre instrumentos y evidencias esperadas en el nivel."]],
+ "inclusion":"El portafolio permite demostrar competencias por vías distintas, lo que favorece a estudiantes con dificultades en formatos escritos. Requiere, eso sí, que los criterios de suficiencia sean los mismos para todos y que las alternativas estén declaradas de antemano.",
+ "reto":"Revisa un portafolio real con tus criterios de suficiencia. Identifica qué competencias no quedan respaldadas y define qué evidencia faltaría.",
+ "conexion":"Depende de las clases 073 y 077 y alimenta la clase 083, porque el portafolio es también un instrumento de transición al trabajo."},
+
+{"n":79,"evidencia":"CONSISTENTE",
+ "foco":"qué hace que la alternancia entre escuela y empresa enseñe, en vez de solo repartir el tiempo",
+ "proposito":"Diseñar formación dual o en alternancia con articulación real entre lo que se aprende en el establecimiento y lo que se aprende en la empresa, con acuerdos y seguimiento explícitos.",
+ "decision":"determinar qué aprendizajes corresponden a la empresa, cuáles al establecimiento y cómo se articulan",
+ "entregable":"un plan de alternancia con distribución de aprendizajes, acuerdos con la empresa, seguimiento y evaluación conjunta",
+ "conceptos":[
+  ["Formación dual","modalidad en que el estudiante alterna formación en el establecimiento y en un puesto de trabajo real"],
+  ["Maestro guía","persona de la empresa responsable de acompañar y evaluar al estudiante"],
+  ["Plan de alternancia","documento que distribuye aprendizajes, tiempos y responsabilidades entre ambas instituciones"],
+  ["Articulación","correspondencia entre lo aprendido en cada espacio, de modo que se refuercen mutuamente"]],
+ "desarrollo":"Los sistemas duales muestran buenos resultados en transición al empleo en varios países, pero su eficacia depende de condiciones que rara vez se importan junto con el modelo: empresas con capacidad formativa, maestros guía preparados, currículo articulado y supervisión efectiva. Sin ellas, la alternancia se convierte en mano de obra barata con certificado, que es el riesgo principal del formato.",
+ "practica":"El plan de alternancia debe declarar qué aprendizajes ocurren en cada espacio, cómo se registra el avance y quién evalúa qué. La preparación del maestro guía es la variable más descuidada y la más determinante: una persona competente en el oficio no necesariamente sabe enseñarlo ni evaluarlo, y el establecimiento tiene la responsabilidad de apoyarlo.",
+ "limites":"Los estudios comparados muestran resultados positivos en inserción laboral temprana y resultados más discutidos en trayectorias de largo plazo y movilidad. Además, la calidad varía enormemente entre empresas: promediar resultados oculta que una parte de los estudiantes tuvo una experiencia formativa y otra no.",
+ "errores":[
+  "Enviar estudiantes a empresas sin plan de alternancia ni acuerdos escritos.",
+  "Suponer que un buen profesional de la empresa sabe formar y evaluar sin apoyo."],
+ "criterios":[
+  "el plan distribuye aprendizajes por espacio con evaluación conjunta declarada;",
+  "existe preparación y acompañamiento explícito del maestro guía;"],
+ "preguntas":[
+  "¿Qué aprende el estudiante en la empresa que no puede aprender en el establecimiento?",
+  "¿Qué apoyo recibe el maestro guía para enseñar y evaluar?",
+  "¿Cómo detectas que una empresa no está formando?"],
+ "lecturas":[
+  ["Mineduc. *Normativa y orientaciones sobre formación dual en Chile*.","define requisitos, convenios y responsabilidades vigentes de la modalidad."],
+  ["UNESCO-UNEVOC / OCDE. *Estudios comparados sobre aprendizaje dual y transición al empleo*.","evidencia internacional sobre condiciones que hacen funcionar el modelo."]],
+ "inclusion":"El acceso a plazas de calidad suele depender de redes familiares y de la ubicación del establecimiento. Gestionar activamente los cupos y monitorear su calidad evita que la alternancia amplifique la desigualdad de origen.",
+ "reto":"Audita una plaza dual real contra tu plan de alternancia. Documenta qué aprendizajes efectivamente ocurren y renegocia lo que falta.",
+ "conexion":"Se apoya en la clase 074 y se articula con las clases 080 y 081."},
+
+{"n":80,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"cómo se construye una relación con empresas que dure más de un año y sirva a la formación",
+ "proposito":"Gestionar el vínculo entre establecimiento y empresa con acuerdos claros, beneficios mutuos y mecanismos de seguimiento, evitando tanto la dependencia como la relación puramente formal.",
+ "decision":"determinar qué acuerdos concretos sostienen una relación útil con una empresa y qué se ofrece a cambio",
+ "entregable":"un convenio de vinculación con objetivos, compromisos de ambas partes, indicadores y mecanismo de revisión",
+ "conceptos":[
+  ["Vinculación con el medio","relación sistemática entre la institución formativa y el sector productivo"],
+  ["Beneficio mutuo","condición para la sostenibilidad: ambas partes obtienen algo verificable"],
+  ["Consejo asesor empresarial","instancia que aporta información sobre estándares y cambios del oficio"],
+  ["Actualización del perfil","revisión periódica de competencias a partir de lo que exige el sector"]],
+ "desarrollo":"La relación con empresas se sostiene cuando ambas partes obtienen algo concreto. Del lado del establecimiento: plazas de práctica, información actualizada sobre tecnología y estándares, retroalimentación sobre egresados. Del lado de la empresa: acceso a talento formado, resolución de necesidades específicas, capacitación de sus trabajadores. Los convenios que solo declaran voluntad de colaborar no sobreviven al cambio de la persona que los firmó.",
+ "practica":"Un convenio útil especifica compromisos, responsables con nombre y cargo, indicadores y una revisión periódica. Los consejos asesores empresariales, cuando funcionan, aportan la información más valiosa: qué cambió en el oficio, qué equipos se usan hoy, qué competencias están faltando en los egresados. Esa información debe traducirse en ajustes del perfil y del taller, o el consejo se vuelve decorativo.",
+ "limites":"El vínculo tiene tensiones reales: las necesidades inmediatas de la empresa no siempre coinciden con la formación integral del estudiante, y la dependencia de una sola empresa vuelve frágil el programa. Además, no existe evidencia sistemática sobre qué modelo de vinculación funciona mejor; es conocimiento profesional acumulado.",
+ "errores":[
+  "Firmar convenios genéricos sin compromisos verificables ni responsables identificados.",
+  "Ajustar el perfil de egreso a las necesidades inmediatas de una sola empresa."],
+ "criterios":[
+  "el convenio declara compromisos concretos de ambas partes con responsables e indicadores;",
+  "existe un mecanismo de revisión periódica con fecha definida;"],
+ "preguntas":[
+  "¿Qué gana la empresa con este convenio, en términos verificables?",
+  "¿Qué información del sector cambió tu perfil de egreso en los últimos dos años?",
+  "¿Qué pasa con tu programa si esta empresa se retira?"],
+ "lecturas":[
+  ["OCDE. *Engaging Employers in Vocational Education and Training*.","analiza modelos de participación empresarial y sus condiciones de éxito."],
+  ["Mineduc. *Orientaciones para la vinculación con el sector productivo en educación técnico-profesional*.","marco chileno para convenios, prácticas y consejos asesores."]],
+ "inclusion":"La gestión activa de convenios es lo que permite ofrecer plazas de calidad a estudiantes sin redes familiares en el sector. Dejarlo al esfuerzo individual del estudiante traslada la desigualdad de origen al resultado formativo.",
+ "reto":"Revisa un convenio vigente de tu institución. Identifica qué compromisos no se cumplen y renegocia al menos uno con indicadores verificables.",
+ "conexion":"Sostiene las clases 079 y 081 y se conecta con la parte 15, porque la vinculación es responsabilidad de gestión institucional."},
+
+{"n":81,"evidencia":"MARCO-NORMATIVO",
+ "foco":"qué convierte una práctica profesional en formación y qué la convierte en un trámite de titulación",
+ "proposito":"Diseñar y supervisar prácticas profesionales con objetivos de aprendizaje, supervisión efectiva, evaluación conjunta y resguardo de las condiciones legales y de seguridad del estudiante.",
+ "decision":"determinar qué objetivos de aprendizaje debe cumplir la práctica y cómo se supervisarán efectivamente",
+ "entregable":"un plan de práctica profesional con objetivos, supervisión, instrumentos de evaluación y resguardos declarados",
+ "conceptos":[
+  ["Práctica profesional","período de desempeño en contexto laboral real como requisito formativo y de titulación"],
+  ["Plan de práctica","documento que define objetivos, tareas, supervisión y evaluación del período"],
+  ["Supervisión efectiva","contacto real y periódico del docente supervisor con el estudiante y con la empresa"],
+  ["Resguardo del estudiante","condiciones de seguridad, horario, seguro escolar y protección frente a abusos"]],
+ "desarrollo":"La práctica profesional concentra el mayor potencial formativo y el mayor riesgo de desperdicio del ciclo técnico. La diferencia entre una y otra situación está en tres condiciones: objetivos de aprendizaje definidos antes, supervisión con contacto real durante, y evaluación conjunta entre empresa e institución al final. Sin ellas, el resultado depende del azar de la plaza que le tocó al estudiante.",
+ "practica":"El plan debe ser específico: qué debe poder hacer el estudiante al terminar, qué tareas lo permiten, con qué frecuencia lo visita el supervisor, qué instrumentos se aplican. Y debe declarar resguardos: jornada, seguro escolar, condiciones de seguridad y a quién acudir ante un problema. Muchos estudiantes en práctica no saben a quién llamar si algo sale mal, y eso es responsabilidad de la institución.",
+ "limites":"La normativa sobre práctica profesional —duración, requisitos, seguro, obligaciones del establecimiento— es específica y cambia; debe verificarse en su versión vigente. Además, la supervisión efectiva tiene costo en tiempo docente que muchas instituciones no asignan, y sin ese tiempo el plan queda en el papel.",
+ "errores":[
+  "Enviar a práctica sin objetivos de aprendizaje ni instrumento de evaluación.",
+  "Dejar al estudiante sin canal claro para reportar un problema en la empresa."],
+ "criterios":[
+  "el plan declara objetivos, tareas asociadas, frecuencia de supervisión e instrumentos;",
+  "los resguardos legales y de seguridad están explicitados y comunicados al estudiante;"],
+ "preguntas":[
+  "¿Qué debe poder hacer tu estudiante al terminar la práctica que no podía antes?",
+  "¿Cuántas veces lo visitará efectivamente el supervisor?",
+  "¿A quién llama el estudiante si la empresa lo expone a un riesgo?"],
+ "lecturas":[
+  ["Mineduc. *Reglamento y orientaciones sobre práctica profesional en educación media técnico-profesional*.","define duración, requisitos y responsabilidades vigentes en Chile."],
+  ["Billett, S. (2011). *Curriculum and Pedagogic Bases for Effectively Integrating Practice-Based Experiences*.","evidencia sobre qué hace formativa una experiencia laboral integrada al currículo."]],
+ "inclusion":"Los estudiantes con discapacidad, con responsabilidades de cuidado o sin recursos para transporte enfrentan barreras de acceso a la práctica que la institución debe anticipar y resolver, porque de ella depende su titulación.",
+ "reto":"Aplica tu plan a un estudiante en práctica y registra la supervisión efectiva. Compara los objetivos declarados con lo que realmente hizo durante el período.",
+ "conexion":"Integra las clases 074, 076 y 079 y alimenta la clase 083 sobre transición al trabajo."},
+
+{"n":82,"evidencia":"EN-DEBATE",
+ "foco":"qué se puede enseñar realmente cuando se habla de trabajo en equipo, comunicación y resolución de problemas",
+ "proposito":"Enseñar competencias transversales de forma específica y evaluable, evitando tanto su abandono como su tratamiento como cualidades genéricas que se declaran sin enseñarse.",
+ "decision":"determinar qué competencia transversal vas a enseñar de forma explícita y con qué desempeño la evaluarás",
+ "entregable":"una secuencia de enseñanza de una competencia transversal con desempeños observables y su evaluación",
+ "conceptos":[
+  ["Competencia transversal","capacidad que atraviesa oficios: comunicación, trabajo en equipo, resolución de problemas, autonomía"],
+  ["Especificidad del dominio","dependencia de la competencia respecto del contenido y del contexto en que se ejerce"],
+  ["Desempeño observable","conducta concreta que permite evaluar la competencia sin recurrir a rasgos de personalidad"],
+  ["Contexto de ejercicio","situación del oficio en la que la competencia transversal se pone en juego"]],
+ "desarrollo":"Las competencias transversales son las más demandadas por los empleadores y las peor enseñadas por las instituciones, porque se tratan como rasgos y no como desempeños. La evidencia sugiere que son fuertemente dependientes del dominio: alguien que comunica bien en su oficio no necesariamente lo hace en otro contexto. Por eso se enseñan situadas en tareas reales del oficio, con desempeños definidos, y no como talleres genéricos.",
+ "practica":"El procedimiento es el mismo que para cualquier competencia técnica: definir el desempeño observable en el contexto del oficio, modelarlo, practicarlo con retroalimentación y evaluarlo con criterios. «Trabajar en equipo» se convierte en «coordinar la entrega de un turno registrando lo pendiente y verificando que el receptor lo comprendió», que sí se puede enseñar y evaluar.",
+ "limites":"Hay debate real sobre la transferibilidad de estas competencias entre contextos, y la evidencia sobre programas genéricos de habilidades blandas es débil. Además, muchos instrumentos de evaluación miden autopercepción y no desempeño. La posición defendible es enseñarlas situadas y evaluarlas por desempeño observado.",
+ "errores":[
+  "Enseñar habilidades transversales en talleres genéricos desconectados del oficio.",
+  "Evaluar con escalas de autopercepción en vez de con desempeños observados."],
+ "criterios":[
+  "la competencia está traducida a desempeños observables en el contexto del oficio;",
+  "la evaluación se basa en desempeño observado y no en autorreporte;"],
+ "preguntas":[
+  "¿Qué significa exactamente «trabaja bien en equipo» en tu especialidad?",
+  "¿Dónde practican tus estudiantes esa competencia con retroalimentación?",
+  "¿Qué estás midiendo cuando evalúas responsabilidad?"],
+ "lecturas":[
+  ["OCDE. *Skills for Jobs* y estudios sobre competencias transversales.","documenta la demanda del sector y los problemas de medición de estas competencias."],
+  ["Tuning / Marco de cualificaciones. *Descriptores de competencias transversales*.","ejemplos de traducción de competencias genéricas a desempeños graduables."]],
+ "inclusion":"Evaluar competencias transversales como rasgos de personalidad castiga sistemáticamente a estudiantes con perfiles neurodivergentes o de culturas comunicativas distintas. Definirlas como desempeños concretos y enseñables corrige ese sesgo.",
+ "reto":"Traduce una competencia transversal de tu perfil a tres desempeños observables. Enséñalos y evalúalos en una tarea real del taller.",
+ "conexion":"Se apoya en las clases 073 y 077 y alimenta la clase 083 y la parte 07."},
+
+{"n":83,"evidencia":"CONSISTENTE",
+ "foco":"qué hace la institución después de la titulación, que es cuando se juega el valor real de la formación",
+ "proposito":"Diseñar el acompañamiento a la transición al trabajo con información, contactos, herramientas de búsqueda y seguimiento de egresados que retroalimente al programa.",
+ "decision":"determinar qué acompañamiento a la transición ofrece tu programa y cómo medirá su efecto",
+ "entregable":"un plan de transición al trabajo con acciones, responsables y sistema de seguimiento de egresados",
+ "conceptos":[
+  ["Transición al trabajo","proceso entre la titulación y la inserción laboral estable"],
+  ["Seguimiento de egresados","recolección sistemática de información sobre trayectorias posteriores"],
+  ["Empleabilidad","conjunto de competencias, credenciales y redes que facilitan obtener y sostener un empleo"],
+  ["Red profesional","contactos del sector que abren acceso a oportunidades no publicadas"]],
+ "desarrollo":"La formación técnica se evalúa finalmente por lo que ocurre después. La evidencia comparada muestra que la transición mejora con experiencia laboral previa durante la formación, con redes de contacto y con información concreta sobre el mercado, y no principalmente con talleres de currículum. Además, buena parte de las oportunidades no se publica: las redes que el estudiante no tiene son la barrera más grande.",
+ "practica":"Un plan realista combina experiencia laboral integrada, construcción deliberada de red —visitas, ferias, contacto con egresados—, herramientas concretas de postulación y un sistema de seguimiento a seis, doce y veinticuatro meses. El seguimiento no es solo rendición de cuentas: es la única fuente de información para saber si el perfil de egreso corresponde a lo que el sector requiere.",
+ "limites":"La empleabilidad depende de factores fuera del control institucional: ciclo económico, oferta local, discriminación en la contratación. Atribuir al programa la totalidad del resultado es un error de interpretación frecuente, tanto para bien como para mal. Los indicadores deben leerse junto con el contexto del territorio.",
+ "errores":[
+  "Reducir el apoyo a la transición a un taller de currículum y entrevista.",
+  "Interpretar los indicadores de empleabilidad sin considerar el contexto económico local."],
+ "criterios":[
+  "el plan incluye construcción de red y experiencia laboral, no solo herramientas de postulación;",
+  "el seguimiento tiene periodicidad definida y retroalimenta el perfil de egreso;"],
+ "preguntas":[
+  "¿Qué red profesional tiene hoy un estudiante tuyo sin contactos familiares en el sector?",
+  "¿Qué sabes de tus egresados a doce meses de titularse?",
+  "¿Qué cambió en tu programa por lo que dijeron los egresados?"],
+ "lecturas":[
+  ["OCDE. *Learning for Jobs* y estudios de transición educación-trabajo.","evidencia comparada sobre qué facilita la inserción laboral de egresados técnicos."],
+  ["Subsecretaría de Educación Superior (Chile). *Sistemas de información sobre empleabilidad e ingresos*.","fuente verificable para contrastar expectativas con datos reales de trayectorias."]],
+ "inclusion":"Los estudiantes sin redes familiares en el sector, mujeres en especialidades masculinizadas y personas con discapacidad enfrentan barreras adicionales en la contratación. Un plan serio incluye acciones específicas para esas barreras y no solo apoyo genérico.",
+ "reto":"Contacta a cinco egresados de tu programa titulados hace un año. Documenta sus trayectorias y traduce los hallazgos en un ajuste concreto del programa.",
+ "conexion":"Cierra el ciclo abierto en la clase 069 y alimenta la parte 15, porque el seguimiento de egresados es un indicador de gestión institucional."},
+
+{"n":84,"evidencia":"MARCO-NORMATIVO",
+ "foco":"cómo se construye un módulo técnico completo que resista una auditoría de calidad y forme de verdad",
+ "proposito":"Integrar la parte diseñando un módulo técnico-profesional completo: competencias, secuencia de taller, seguridad integrada, instrumentos de evaluación y portafolio.",
+ "decision":"determinar el diseño completo del módulo y justificar la coherencia entre competencia, enseñanza y evaluación",
+ "entregable":"un módulo TP completo con competencias, secuencia, matriz de riesgos, rúbricas y estructura de portafolio",
+ "conceptos":[
+  ["Módulo técnico","unidad formativa que desarrolla competencias específicas del perfil de egreso"],
+  ["Coherencia del módulo","correspondencia entre competencia declarada, enseñanza diseñada y evaluación aplicada"],
+  ["Progresión de dominio","secuencia que lleva del desempeño asistido al desempeño autónomo con estándar"],
+  ["Evidencia de certificación","conjunto de evidencias que respalda la afirmación de competencia lograda"]],
+ "desarrollo":"El proyecto integrador exige que todos los instrumentos de la parte funcionen juntos. La prueba de calidad es simple de enunciar y difícil de pasar: tomar una competencia declarada y seguirla hasta la evidencia que la certifica, comprobando que la enseñanza intermedia efectivamente la desarrolla. La mayoría de los módulos falla en algún punto de esa cadena.",
+ "practica":"El diseño se ordena desde la competencia: estándar, evidencias, progresión de taller, matriz de riesgos incorporada a los criterios, rúbricas calibradas y estructura de portafolio. Después se ejecuta al menos una parte y se documenta la diferencia entre lo diseñado y lo ocurrido, que es donde aparece el aprendizaje profesional.",
+ "limites":"Un módulo bien diseñado no garantiza aprendizaje: depende de tiempo real, equipamiento disponible, tamaño del grupo y competencia del docente de taller. Declarar esas condiciones como supuestos del diseño es parte del rigor, y permite explicar los resultados sin atribuirlos a los estudiantes.",
+ "errores":[
+  "Diseñar el módulo desde las actividades disponibles en vez de desde la competencia.",
+  "Certificar competencias con evidencia insuficiente por falta de tiempo o equipamiento."],
+ "criterios":[
+  "la cadena competencia-enseñanza-evidencia es trazable de principio a fin;",
+  "la seguridad está integrada como criterio de desempeño y no como módulo aparte;"],
+ "preguntas":[
+  "¿Qué eslabón de tu cadena competencia-enseñanza-evidencia no resiste una revisión?",
+  "¿Qué condición material impide certificar con la evidencia que definiste?",
+  "¿Qué harías si tuvieras la mitad del tiempo y el doble de estudiantes?"],
+ "lecturas":[
+  ["Mineduc. *Bases Curriculares de la Formación Diferenciada Técnico-Profesional*.","referencia obligatoria de módulos, competencias y evaluación del nivel."],
+  ["Baartman, L. et al. (2007). *Evaluating Assessment Quality in Competence-Based Education*.","criterios para auditar la calidad de un sistema de evaluación por competencias."]],
+ "inclusion":"El módulo debe declarar cómo un estudiante con discapacidad demostrará la misma competencia, con qué apoyos y bajo qué condiciones de seguridad. Resolverlo en el diseño evita improvisar cuando el estudiante ya está en el taller.",
+ "reto":"Ejecuta una parte del módulo y audita la cadena completa con un colega. Documenta dónde se rompió y corrígelo antes de la siguiente cohorte.",
+ "conexion":"Cierra la parte 06 integrando sus once clases previas y se conecta con la parte 09 y con la parte 11."}
+]

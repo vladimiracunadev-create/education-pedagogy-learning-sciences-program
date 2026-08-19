@@ -1,0 +1,361 @@
+[
+{"n":97,"evidencia":"MARCO-NORMATIVO",
+ "foco":"qué cambia cuando la pregunta pasa de «qué le falta a este estudiante» a «qué impide esta clase»",
+ "proposito":"Adoptar el enfoque de educación inclusiva como responsabilidad del sistema y no como beneficio concedido: todos los estudiantes aprenden en el mismo espacio, con los apoyos que cada uno necesita.",
+ "decision":"determinar si una práctica de tu establecimiento integra, incluye o simplemente tolera la presencia del estudiante",
+ "entregable":"un diagnóstico de tu establecimiento que clasifique tres prácticas como exclusión, integración o inclusión, con evidencia",
+ "conceptos":[
+  ["Educación inclusiva","proceso de eliminar barreras para que todos aprendan y participen en el sistema común"],
+  ["Integración","incorporación del estudiante al espacio común exigiéndole adaptarse a él sin modificarlo"],
+  ["Exclusión","impedimento de acceso, permanencia o participación, incluso cuando el estudiante está presente"],
+  ["Apoyo","recurso, ajuste o intervención que hace posible la participación y el aprendizaje"]],
+ "desarrollo":"Integrar e incluir no son sinónimos. La integración pide al estudiante que se ajuste al sistema tal como está; la inclusión obliga al sistema a modificarse para que la participación sea posible. La diferencia se ve en quién cambia: si el único que se adapta es el estudiante, no hay inclusión aunque esté sentado en la sala. En Chile, este enfoque está incorporado en la Ley de Inclusión Escolar y en la normativa de adecuaciones curriculares.",
+ "practica":"El diagnóstico se hace con prácticas concretas: cómo se matricula, quién participa de las salidas, quién queda fuera de las evaluaciones, qué ocurre con un estudiante durante la clase de la que fue retirado para su apoyo. Esas observaciones muestran el enfoque real de la institución mucho mejor que su proyecto educativo declarado.",
+ "limites":"La inclusión tiene tensiones prácticas reconocidas y discutidas por profesionales competentes: recursos limitados, formación docente insuficiente, tamaño de los cursos, y casos donde el estudiante requiere apoyos que la escuela común no puede proveer sin comprometer a otros. Reconocer esas tensiones no es un argumento contra la inclusión: es la condición para discutirla con seriedad.",
+ "errores":[
+  "Considerar cumplida la inclusión por la presencia física del estudiante en la sala común.",
+  "Trasladar la responsabilidad de la adaptación exclusivamente al estudiante y su familia."],
+ "criterios":[
+  "cada práctica se clasifica con evidencia observada y no con la declaración institucional;",
+  "el diagnóstico identifica quién debe cambiar en cada caso para que haya inclusión;"],
+ "preguntas":[
+  "¿Qué hace el estudiante mientras el resto del curso avanza sin él?",
+  "¿Quién se adapta en tu establecimiento: el sistema o el estudiante?",
+  "¿Qué práctica declarada como inclusiva no resistiría una observación de una semana?"],
+ "lecturas":[
+  ["Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.","convierte la inclusión en indicadores revisables por la propia comunidad educativa."],
+  ["Ley 20.845 de Inclusión Escolar (Chile) y normativa asociada.","marco vigente que define obligaciones del sostenedor y derechos del estudiante."]],
+ "inclusion":"La inclusión no se limita a la discapacidad: abarca migración, pobreza, género, identidad, ruralidad y trayectorias interrumpidas. Un diagnóstico que solo mira estudiantes con diagnóstico médico deja fuera la mayor parte de la exclusión real.",
+ "reto":"Observa una jornada completa siguiendo a un estudiante con apoyos. Documenta cuánto tiempo participa del mismo aprendizaje que sus compañeros.",
+ "conexion":"Abre la parte 08 y se apoya en la clase 007 (derecho a la educación). Sostiene todas las clases siguientes de esta parte."},
+
+{"n":98,"evidencia":"CONSISTENTE",
+ "foco":"cómo se identifican las barreras concretas que impiden aprender, en vez de describir déficits del estudiante",
+ "proposito":"Aprender a levantar barreras para el aprendizaje y la participación en una clase real: de acceso, de comprensión, de participación y de evaluación, con evidencia observada.",
+ "decision":"determinar qué barrera concreta explica la no participación de un estudiante en tu clase",
+ "entregable":"un mapa de barreras de una clase real con evidencia observada y la eliminación propuesta para cada una",
+ "conceptos":[
+  ["Barrera de acceso","obstáculo físico, sensorial o comunicativo que impide llegar al contenido o al espacio"],
+  ["Barrera de comprensión","obstáculo en el lenguaje, el formato o el conocimiento previo supuesto por la clase"],
+  ["Barrera de participación","condición social u organizativa que impide intervenir, trabajar con otros o mostrar lo aprendido"],
+  ["Barrera de evaluación","formato de evaluación que impide demostrar un aprendizaje que sí existe"]],
+ "desarrollo":"Cambiar la pregunta cambia la respuesta. Ante un estudiante que no participa, la descripción de déficit produce derivaciones; la descripción de barreras produce cambios en la clase. Una barrera es concreta y verificable: el texto está en un tamaño que no puede leer, la consigna supone vocabulario que no tiene, la actividad requiere hablar frente al grupo, la evaluación exige escribir a mano en un tiempo fijo.",
+ "practica":"El levantamiento se hace observando una clase completa con foco en un estudiante y registrando en qué momento exacto queda fuera. Después se clasifica la barrera y se decide su eliminación. La mayoría resulta eliminable con decisiones de diseño sin costo, y esa constatación suele cambiar más la práctica de un equipo que cualquier capacitación teórica.",
+ "limites":"El enfoque de barreras no niega que existan condiciones individuales que requieren apoyos específicos: hay dificultades reales que no desaparecen eliminando obstáculos del entorno. Sostener las dos cosas —barreras del contexto y necesidades del estudiante— es lo que permite intervenir bien; negar cualquiera de las dos produce mala práctica.",
+ "errores":[
+  "Registrar déficits del estudiante en vez de barreras del contexto.",
+  "Concluir que todas las dificultades desaparecen eliminando barreras, e ignorar apoyos necesarios."],
+ "criterios":[
+  "cada barrera se documenta con el momento y la evidencia observada;",
+  "la eliminación propuesta es ejecutable por el docente sin recursos adicionales;"],
+ "preguntas":[
+  "¿En qué minuto exacto de tu clase quedó fuera ese estudiante?",
+  "¿Qué supone tu consigna que él no tiene?",
+  "¿Qué barrera podrías eliminar mañana sin pedir autorización ni recursos?"],
+ "lecturas":[
+  ["Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.","fuente del concepto de barreras para el aprendizaje y la participación, con indicadores."],
+  ["Organización Mundial de la Salud (2001). *CIF*.","fundamenta el funcionamiento como interacción entre la persona y su entorno."]],
+ "inclusion":"Las barreras más frecuentes no son las visibles: el ritmo de la clase, el vocabulario supuesto, el formato único de evaluación y las dinámicas de grupo excluyen a más estudiantes que las barreras arquitectónicas, y son más baratas de corregir.",
+ "reto":"Observa una clase de un colega siguiendo a un estudiante concreto. Entrega el mapa de barreras y acuerden juntos cuál eliminar primero.",
+ "conexion":"Es el instrumento diagnóstico de la parte 08 y alimenta directamente las clases 099 y 108."},
+
+{"n":99,"evidencia":"EMERGENTE",
+ "foco":"cómo anticipar la variabilidad del curso en el diseño, en vez de compensarla con adecuaciones improvisadas",
+ "proposito":"Aplicar los principios del Diseño Universal para el Aprendizaje —múltiples formas de representación, de acción y expresión, y de implicación— al diseño ordinario de una clase.",
+ "decision":"determinar qué opciones incorporar al diseño para que menos estudiantes necesiten una adecuación individual",
+ "entregable":"el rediseño de una clase con los tres principios aplicados y la comparación con su versión original",
+ "conceptos":[
+  ["Representación","formas alternativas de presentar la información para que sea accesible a distintos perfiles"],
+  ["Acción y expresión","formas alternativas de demostrar lo aprendido sin cambiar el objetivo"],
+  ["Implicación","opciones que sostienen el interés, el esfuerzo y la autorregulación durante la tarea"],
+  ["Diseño anticipado","previsión de la variabilidad en el diseño, en vez de ajuste posterior caso a caso"]],
+ "desarrollo":"El Diseño Universal para el Aprendizaje propone anticipar la variabilidad: si el contenido existe en más de un formato, si hay más de una vía para demostrar lo aprendido y si la tarea explicita su sentido, muchas adecuaciones individuales dejan de ser necesarias. La lógica es sólida y ampliamente adoptada; conviene, eso sí, ser honesto sobre el estado de su evidencia experimental como marco completo.",
+ "practica":"El rediseño empieza por el objetivo: qué debe lograr el estudiante, sin negociar. Después se abren opciones en todo lo que no es el objetivo: cómo accede al contenido, cómo lo demuestra, cómo se sostiene el trabajo. La prueba práctica es que la clase rediseñada requiera menos adecuaciones individuales que la anterior, no que use más recursos.",
+ "limites":"La evidencia sobre el marco completo es limitada: hay estudios sobre componentes específicos —opciones de representación, andamiaje— con resultados favorables, y poca evidencia experimental sobre el marco como sistema. Además, mal entendido, se usa para justificar bajar objetivos o para multiplicar materiales sin criterio.",
+ "errores":[
+  "Confundir múltiples opciones con múltiples objetivos y bajar la exigencia a algunos estudiantes.",
+  "Multiplicar formatos sin criterio y aumentar la carga cognitiva en vez de reducirla."],
+ "criterios":[
+  "el objetivo de aprendizaje permanece idéntico en todas las opciones ofrecidas;",
+  "el rediseño reduce el número de adecuaciones individuales necesarias;"],
+ "preguntas":[
+  "¿Qué es el objetivo y qué es solo la forma habitual de alcanzarlo?",
+  "¿Cuántas adecuaciones individuales necesitarías si rediseñas así la clase?",
+  "¿Qué opción agregaste que en realidad aumenta la carga en vez de reducirla?"],
+ "lecturas":[
+  ["CAST (2024). *UDL Guidelines*, versión 3.0.","el marco vigente con sus principios y pautas; consulta la versión actualizada, no resúmenes antiguos."],
+  ["Capp, M. (2017). *The Effectiveness of Universal Design for Learning: A Meta-Analysis*.","revisa la evidencia disponible y sus limitaciones metodológicas."]],
+ "inclusion":"El principio operativo de esta clase es que el apoyo diseñado para uno beneficia a muchos: subtítulos, instrucciones escritas, tiempo flexible y opciones de entrega mejoran el desempeño de estudiantes sin ningún diagnóstico.",
+ "reto":"Rediseña una clase con los tres principios y aplícala. Cuenta cuántas adecuaciones individuales necesitaste antes y después.",
+ "conexion":"Se apoya en la clase 098 y es el marco de diseño de la clase 100 y del proyecto de la clase 108."},
+
+{"n":100,"evidencia":"CONSISTENTE",
+ "foco":"cómo diferenciar la enseñanza sin fabricar tres clases distintas ni bajar la exigencia a nadie",
+ "proposito":"Diversificar la enseñanza de forma sostenible: ajustar contenido, proceso, producto y entorno manteniendo el objetivo, con decisiones que un docente real pueda ejecutar.",
+ "decision":"determinar qué dimensión vas a diversificar y cuál mantendrás constante para que el diseño sea sostenible",
+ "entregable":"una clase diversificada en una dimensión, con evidencia de que el objetivo se mantuvo para todos",
+ "conceptos":[
+  ["Diversificación","ajuste de la enseñanza a la variabilidad del grupo sin modificar el objetivo de aprendizaje"],
+  ["Adecuación de acceso","ajuste que cambia la vía —formato, tiempo, apoyo— sin alterar el aprendizaje exigido"],
+  ["Adecuación significativa","modificación del objetivo mismo; es excepcional y tiene requisitos normativos"],
+  ["Sostenibilidad","posibilidad real de mantener la diversificación con la carga docente existente"]],
+ "desarrollo":"La diferencia técnica más importante de esta clase es entre adecuación de acceso y adecuación significativa. La primera cambia cómo el estudiante llega al aprendizaje —tiempo, formato, apoyo, cantidad de ejercicios— y mantiene el objetivo; la segunda cambia el objetivo y, por eso, tiene consecuencias en la certificación y requisitos normativos específicos. Confundirlas produce estudiantes que aprueban sin haber aprendido lo declarado.",
+ "practica":"La diversificación sostenible se logra eligiendo una dimensión y no todas: variar el producto manteniendo el proceso, o variar el proceso manteniendo el producto. Intentar diversificar todo produce planificaciones inaplicables que se abandonan en dos semanas, con lo cual el estudiante queda peor que con una clase única bien hecha.",
+ "limites":"La evidencia sobre diferenciación es más débil de lo que su difusión sugiere: los estudios muestran dificultades de implementación y efectos inconsistentes, en parte porque el término abarca prácticas muy distintas. Lo respaldado son sus componentes —ajuste al conocimiento previo, andamiaje diferenciado, retroalimentación específica— más que el enfoque como paquete.",
+ "errores":[
+  "Aplicar adecuaciones significativas sin el procedimiento ni el registro que la norma exige.",
+  "Diversificar todas las dimensiones a la vez y abandonar la práctica por inviable."],
+ "criterios":[
+  "se declara qué dimensión se diversifica y cuál se mantiene constante;",
+  "hay evidencia de que el objetivo se mantuvo para todos los estudiantes;"],
+ "preguntas":[
+  "¿Estás cambiando la vía o estás cambiando el objetivo?",
+  "¿Podrías sostener esta diversificación durante todo el semestre?",
+  "¿Qué registro respalda las adecuaciones significativas que aplicas?"],
+ "lecturas":[
+  ["Mineduc. *Decreto 83/2015* sobre adecuaciones curriculares.","define en Chile los tipos de adecuación, su procedimiento y su registro."],
+  ["Deunk, M. et al. (2018). *Effective Differentiation Practices*. Educational Research Review, 24.","revisión que separa las prácticas de diferenciación con evidencia de las que no la tienen."]],
+ "inclusion":"Las adecuaciones deben quedar registradas y revisadas, porque tienden a volverse permanentes por inercia. Un apoyo que no se revisa se convierte en una etiqueta y, con el tiempo, en un techo.",
+ "reto":"Aplica una diversificación en una sola dimensión durante un mes. Evalúa si el objetivo se mantuvo para todos y si pudiste sostener la práctica.",
+ "conexion":"Aplica la clase 099 y se articula con la clase 101 en el marco normativo chileno."},
+
+{"n":101,"evidencia":"MARCO-NORMATIVO",
+ "foco":"para qué sirve —y para qué no sirve— un diagnóstico en el sistema escolar",
+ "proposito":"Comprender el sistema de necesidades educativas especiales y sus apoyos: qué implica un diagnóstico, qué instrumentos y plazos exige la norma, y cómo se traduce en enseñanza y no solo en documentación.",
+ "decision":"determinar qué apoyos concretos se derivan de una necesidad detectada y quién los ejecuta en el aula",
+ "entregable":"un plan de apoyo individual conectado con la planificación de aula, con responsables, plazos y criterios de revisión",
+ "conceptos":[
+  ["Necesidad educativa especial","requerimiento de apoyos adicionales para acceder y progresar en el currículo"],
+  ["Necesidad permanente y transitoria","distinción normativa que determina apoyos, plazos y procedimientos distintos"],
+  ["Plan de apoyo individual","documento que traduce la evaluación en decisiones de enseñanza concretas"],
+  ["Equipo de aula","conjunto de profesionales que planifica y ejecuta los apoyos junto al docente"]],
+ "desarrollo":"El diagnóstico cumple una función administrativa —asignar recursos y apoyos— y una función pedagógica —informar decisiones de enseñanza—. La segunda se pierde con frecuencia: se completan formularios, se archivan informes y la clase sigue igual. Un plan de apoyo útil traduce cada necesidad en decisiones concretas de aula: qué hará el docente el martes a las diez, con qué material y con qué apoyo.",
+ "practica":"En Chile la normativa define instrumentos, plazos, profesionales habilitados y procedimientos para la evaluación y para las adecuaciones. Conocerla evita dos errores frecuentes: incumplir obligaciones y, en sentido contrario, exigir procedimientos donde la norma no los pide. El plan debe conectarse con la planificación de aula, no vivir en una carpeta paralela.",
+ "limites":"El diagnóstico describe funcionamiento en un momento y con instrumentos limitados; no predice trayectorias ni define capacidades. Además, los criterios diagnósticos cambian entre versiones de los manuales y entre países. Un mismo estudiante puede cumplir criterios en un sistema y no en otro, lo que muestra que la categoría es una herramienta administrativa y no una propiedad de la persona.",
+ "errores":[
+  "Completar el plan de apoyo como trámite y no usarlo para decidir la enseñanza.",
+  "Tratar la categoría diagnóstica como descripción completa del estudiante."],
+ "criterios":[
+  "cada apoyo del plan indica qué se hace, quién lo hace y cuándo se revisa;",
+  "el plan está conectado con la planificación de aula y no es un documento paralelo;"],
+ "preguntas":[
+  "¿Qué cambia el martes en tu clase por lo que dice este plan de apoyo?",
+  "¿Qué apoyo lleva tres años vigente sin haberse revisado?",
+  "¿Qué sabes de este estudiante que el diagnóstico no dice?"],
+ "lecturas":[
+  ["Mineduc. *Decreto 170/2009* y *Decreto 83/2015*.","definen en Chile evaluación diagnóstica, apoyos y adecuaciones curriculares vigentes."],
+  ["Florian, L. (2014). *What Counts as Evidence of Inclusive Education?*","discute el uso pedagógico de las categorías diagnósticas y sus riesgos."]],
+ "inclusion":"El riesgo central de esta clase es el efecto de expectativa: un diagnóstico puede reducir lo que se le exige al estudiante. La regla profesional es que el diagnóstico modifica los apoyos, nunca el objetivo, salvo mediante el procedimiento formal de adecuación significativa.",
+ "reto":"Toma un plan de apoyo real y verifica cuántas de sus medidas se ejecutan efectivamente en el aula. Rediséñalo con acciones que sí se puedan cumplir.",
+ "conexion":"Es el marco administrativo de las clases 102 a 107 y se conecta con la clase 009 sobre roles profesionales."},
+
+{"n":102,"evidencia":"CONSISTENTE",
+ "foco":"qué apoyos educativos tienen respaldo para estudiantes autistas y cuáles se ofrecen sin evidencia",
+ "proposito":"Diseñar apoyos educativos para estudiantes autistas centrados en comunicación, predictibilidad, regulación sensorial y participación social, con respeto por su forma de funcionamiento.",
+ "decision":"determinar qué ajuste de predictibilidad, comunicación o entorno sensorial requiere tu estudiante",
+ "entregable":"un conjunto de apoyos para un estudiante autista con su fundamento, su implementación y su criterio de revisión",
+ "conceptos":[
+  ["Predictibilidad","anticipación explícita de lo que va a ocurrir; reduce la ansiedad y aumenta la disponibilidad"],
+  ["Apoyo visual","representación gráfica de secuencias, normas o consignas que complementa el lenguaje oral"],
+  ["Regulación sensorial","gestión de la estimulación del entorno según el perfil sensorial del estudiante"],
+  ["Comunicación aumentativa","sistemas que complementan o sustituyen el habla para permitir la comunicación"]],
+ "desarrollo":"Los apoyos con mejor respaldo en contextos educativos son concretos: anticipar cambios, hacer visible la secuencia de la jornada, dar consignas explícitas y literales, ofrecer un espacio de regulación y garantizar una vía de comunicación efectiva. Estos apoyos reducen conductas que suelen interpretarse como desafío y que en realidad son respuestas a un entorno impredecible o sensorialmente sobrecargado.",
+ "practica":"El diseño parte del perfil concreto: qué situaciones desregulan, qué apoyos ya funcionan, cómo se comunica mejor. En Chile, la Ley 21.545 establece obligaciones específicas para los establecimientos respecto de estudiantes autistas, incluidos ajustes y protocolos. Conviene conocerla y verificar su versión vigente antes de aplicar cualquier medida.",
+ "limites":"El autismo presenta una variabilidad enorme: lo que funciona con un estudiante puede ser inútil o contraproducente con otro. Además, existen intervenciones ampliamente comercializadas sin evidencia, y algunas prácticas históricas han sido cuestionadas por las propias personas autistas por priorizar la apariencia de normalidad sobre el bienestar. La orientación profesional actual es apoyar la participación y la comunicación, no suprimir conductas que no dañan.",
+ "errores":[
+  "Interpretar como desafío una respuesta a la sobrecarga sensorial o al cambio imprevisto.",
+  "Adoptar intervenciones comerciales sin evidencia o que buscan suprimir conductas inofensivas."],
+ "criterios":[
+  "cada apoyo declara la situación que atiende y cómo se comprobará su efecto;",
+  "el plan considera comunicación, predictibilidad y entorno sensorial de forma explícita;"],
+ "preguntas":[
+  "¿Qué situación de tu jornada es impredecible para este estudiante?",
+  "¿Qué vía de comunicación tiene disponible cuando el habla no le sirve?",
+  "¿Qué conducta estás intentando eliminar y a quién daña realmente?"],
+ "lecturas":[
+  ["Ley 21.545 (Chile, 2023) sobre atención integral de personas con trastorno del espectro autista.","define obligaciones del sistema educativo; verifica su reglamentación vigente."],
+  ["National Autism Center / National Clearinghouse. *Reportes sobre prácticas basadas en evidencia*.","clasifican intervenciones por nivel de respaldo; útiles para descartar ofertas sin evidencia."]],
+ "inclusion":"Los apoyos deben decidirse escuchando al estudiante y a su familia. Muchas medidas bienintencionadas —retirarlo del grupo, reducir su exigencia, hablarle en tono infantil— producen exclusión adicional y bajan expectativas sin ningún beneficio.",
+ "reto":"Registra durante una semana las situaciones que desregulan a un estudiante. Introduce un solo ajuste de predictibilidad y compara el registro.",
+ "conexion":"Se apoya en las clases 099 y 101 y comparte instrumentos con la clase 103."},
+
+{"n":103,"evidencia":"ROBUSTA",
+ "foco":"por qué la organización de la tarea rinde más que la insistencia en el esfuerzo con estudiantes con TDAH",
+ "proposito":"Diseñar apoyos para estudiantes con TDAH centrados en estructura, organización de la tarea, retroalimentación frecuente y reducción de la carga de autorregulación exigida.",
+ "decision":"determinar qué ajuste de estructura y de tarea reducirá la demanda de autorregulación en tu clase",
+ "entregable":"un conjunto de ajustes de aula para un estudiante con TDAH, con su implementación y su medida de efecto",
+ "conceptos":[
+  ["Función ejecutiva","conjunto de procesos de planificación, inhibición y memoria de trabajo implicados en la conducta dirigida a metas"],
+  ["Estructura externa","apoyos del entorno que sustituyen temporalmente la regulación que el estudiante no puede sostener"],
+  ["Segmentación de la tarea","división del trabajo en pasos cortos con verificación intermedia"],
+  ["Retroalimentación frecuente","información inmediata sobre el desempeño, que sostiene la conducta mejor que la consecuencia diferida"]],
+ "desarrollo":"El TDAH no es un déficit de voluntad ni de conocimiento de las reglas: es una dificultad de regulación con base neurobiológica bien documentada. Los apoyos con mejor respaldo en el aula son estructurales: consignas breves y visibles, tareas segmentadas, retroalimentación inmediata, ubicación que reduzca distractores y oportunidades de movimiento. Todos disminuyen la cantidad de autorregulación que la clase exige.",
+ "practica":"La implementación es concreta: escribir la consigna además de decirla, dividir el trabajo en tramos con revisión al final de cada uno, dar retroalimentación en el momento, permitir movimiento legítimo. Estos ajustes benefician al curso completo, no solo al estudiante con diagnóstico, y por eso conviene aplicarlos como diseño y no como excepción visible.",
+ "limites":"Los apoyos escolares mejoran el desempeño y la conducta en el aula, y no eliminan la condición. El tratamiento clínico —incluida la decisión farmacológica— corresponde a profesionales de la salud, y el rol educativo es aportar información observada, no recomendar tratamientos. Además, el diagnóstico varía entre sistemas y hay debate sobre sobrediagnóstico e infradiagnóstico según contexto.",
+ "errores":[
+  "Atribuir a falta de esfuerzo una dificultad de regulación con base neurobiológica.",
+  "Sugerir o cuestionar tratamientos médicos desde el rol docente."],
+ "criterios":[
+  "los ajustes reducen la demanda de autorregulación de forma verificable;",
+  "existe una medida de efecto observada y no solo la impresión del docente;"],
+ "preguntas":[
+  "¿Cuánta autorregulación exige tu clase antes de que ocurra algo interesante?",
+  "¿Qué consigna tuya solo existe en forma oral?",
+  "¿Cada cuánto recibe este estudiante información sobre cómo va?"],
+ "lecturas":[
+  ["Barkley, R. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment*.","referencia sobre el modelo de funciones ejecutivas y sus implicancias educativas."],
+  ["DuPaul, G. & Stoner, G. (2014). *ADHD in the Schools*.","intervenciones escolares con evidencia, descritas de forma directamente aplicable."]],
+ "inclusion":"Los estudiantes con TDAH acumulan una historia de sanciones y de mensajes negativos que deteriora su autoconcepto. Ajustar la estructura antes de corregir la conducta cambia esa trayectoria más que cualquier conversación motivacional.",
+ "reto":"Aplica dos ajustes estructurales durante tres semanas y registra la conducta objetivo antes y después. Comprueba si el resto del curso también mejoró.",
+ "conexion":"Se apoya en las clases 018 y 021 y comparte diseño con la clase 099."},
+
+{"n":104,"evidencia":"ROBUSTA",
+ "foco":"cómo se distingue una dificultad específica de aprendizaje de una brecha por falta de enseñanza",
+ "proposito":"Reconocer las dificultades específicas del aprendizaje —lectura, escritura, matemática— y responder con intervención intensiva y ajustes de acceso, sin bajar el objetivo.",
+ "decision":"determinar si la dificultad de tu estudiante requiere intervención intensiva, ajuste de acceso o ambos",
+ "entregable":"un plan de intervención para una dificultad específica, con línea base, intervención y medición de progreso",
+ "conceptos":[
+  ["Dificultad específica","dificultad persistente en un dominio, desproporcionada respecto del desempeño general y de la enseñanza recibida"],
+  ["Respuesta a la intervención","enfoque que evalúa la dificultad observando cómo responde el estudiante a enseñanza intensiva de calidad"],
+  ["Intervención intensiva","enseñanza adicional, focalizada, frecuente y en grupo pequeño, con seguimiento de progreso"],
+  ["Ajuste de acceso","apoyo —tiempo, formato, herramienta— que permite demostrar aprendizaje sin alterar el objetivo"]],
+ "desarrollo":"Antes de atribuir una dificultad al estudiante hay que descartar la explicación más frecuente: enseñanza insuficiente o inadecuada. El enfoque de respuesta a la intervención hace justamente eso: se entrega enseñanza de calidad, se mide el progreso y se intensifica; la dificultad específica se reconoce cuando el estudiante no progresa pese a intervención adecuada. Ese orden evita diagnósticos que solo describen una brecha de oportunidades.",
+ "practica":"Una intervención seria tiene línea base, dosis definida —cuántas sesiones, de cuánto tiempo, en qué grupo—, contenido específico y medición periódica de progreso con el mismo instrumento. Sin medición, no se sabe si funciona y se prolonga durante años un apoyo inefectivo. Los ajustes de acceso van en paralelo: mientras se interviene, el estudiante debe poder seguir aprendiendo el resto del currículo.",
+ "limites":"Los criterios diagnósticos y los puntos de corte varían entre sistemas y manuales, y el desacuerdo profesional es real. Además, la intervención muestra mejores resultados cuanto antes se aplica: en cursos superiores los efectos disminuyen, lo que refuerza la importancia de la detección temprana y no de la espera vigilante.",
+ "errores":[
+  "Diagnosticar una dificultad específica sin haber descartado enseñanza insuficiente.",
+  "Sostener un apoyo durante años sin medir si produce progreso."],
+ "criterios":[
+  "el plan declara línea base, dosis de intervención y medición periódica con el mismo instrumento;",
+  "los ajustes de acceso permiten seguir aprendiendo el resto del currículo mientras se interviene;"],
+ "preguntas":[
+  "¿Qué enseñanza recibió antes este estudiante y de qué calidad?",
+  "¿Cuánta intervención está recibiendo, medida en sesiones y minutos?",
+  "¿Con qué instrumento sabrás en seis semanas si está funcionando?"],
+ "lecturas":[
+  ["Fuchs, D. & Fuchs, L. (2006). *Introduction to Response to Intervention*. Reading Research Quarterly, 41(1).","expone el enfoque y sus condiciones de aplicación."],
+  ["Snowling, M. & Hulme, C. (2011). *Evidence-Based Interventions for Reading and Language Difficulties*.","revisa qué intervenciones tienen respaldo y con qué magnitud."]],
+ "inclusion":"La detección tardía convierte una dificultad tratable en una trayectoria de fracaso y de deterioro del autoconcepto. El tamizaje temprano y universal es una medida de equidad, porque detecta también a quienes nadie derivaría por su comportamiento.",
+ "reto":"Implementa una intervención con línea base y medición cada dos semanas. Decide con datos si continúa, se intensifica o se cambia.",
+ "conexion":"Se apoya en las clases 049 y 051 y usa el marco administrativo de la clase 101."},
+
+{"n":105,"evidencia":"MARCO-NORMATIVO",
+ "foco":"qué hace accesible una clase para un estudiante que no ve, no oye o no puede manipular el material",
+ "proposito":"Diseñar acceso efectivo para estudiantes con discapacidad sensorial o motora: formatos alternativos, tecnología de apoyo, organización del espacio y comunicación adecuada.",
+ "decision":"determinar qué formato, apoyo técnico o ajuste del espacio hace accesible tu clase concreta",
+ "entregable":"una revisión de accesibilidad de una clase con ajustes concretos por tipo de barrera y su verificación",
+ "conceptos":[
+  ["Accesibilidad","condición que permite acceder al espacio, al material y a la actividad en igualdad de oportunidades"],
+  ["Formato alternativo","versión del material accesible: braille, macrotipo, audio, texto digital compatible con lectores"],
+  ["Tecnología de apoyo","dispositivo o software que compensa una limitación funcional y habilita el desempeño"],
+  ["Ajuste razonable","modificación necesaria y proporcionada para garantizar el ejercicio de un derecho"]],
+ "desarrollo":"El acceso es la condición previa de cualquier aprendizaje: un estudiante que no puede percibir el material no está aprendiendo menos, está aprendiendo nada de ese material. Los ajustes son mayormente conocidos y en muchos casos de bajo costo: documentos digitales estructurados y compatibles con lectores de pantalla, subtítulos, descripción verbal de lo que se muestra, ubicación adecuada, rutas libres, materiales manipulables alternativos.",
+ "practica":"La revisión de accesibilidad se hace material por material y actividad por actividad, con verificación real: probar el documento con un lector de pantalla, comprobar que el video tenga subtítulos correctos, recorrer la ruta física. Y la comunicación importa: hablar mirando al estudiante que lee labios, describir lo que se escribe en la pizarra, no señalar «esto» sin nombrarlo.",
+ "limites":"Los ajustes de acceso no sustituyen los apoyos especializados: la enseñanza de braille, de lengua de señas o el uso avanzado de tecnología de apoyo requiere profesionales específicos. Y las obligaciones legales de accesibilidad son exigibles y varían por país; en Chile la Ley 20.422 y la normativa educativa definen el marco, que debe verificarse en su versión vigente.",
+ "errores":[
+  "Entregar material digital no estructurado, ilegible para lectores de pantalla.",
+  "Describir contenidos visuales con deícticos —«esto», «aquí»— sin nombrar lo que se muestra."],
+ "criterios":[
+  "cada ajuste fue verificado con el medio real y no solo planificado;",
+  "la revisión cubre material, comunicación y espacio, no solo uno de ellos;"],
+ "preguntas":[
+  "¿Probaste tu documento con un lector de pantalla?",
+  "¿Qué dices en clase que solo se entiende si se ve la pizarra?",
+  "¿Qué actividad de tu unidad es imposible sin un ajuste que aún no hiciste?"],
+ "lecturas":[
+  ["Ley 20.422 (Chile) sobre igualdad de oportunidades e inclusión social de personas con discapacidad.","marco de obligaciones y de ajustes razonables exigibles."],
+  ["W3C. *Web Content Accessibility Guidelines (WCAG)*.","criterios técnicos de accesibilidad aplicables a todo material digital educativo."]],
+ "inclusion":"La accesibilidad del material digital beneficia también a estudiantes sin discapacidad: documentos estructurados, subtítulos y buen contraste mejoran la comprensión de todo el grupo y son requisito para cualquier publicación educativa seria.",
+ "reto":"Toma tu material de una unidad y hazlo accesible: estructura, contraste, subtítulos y descripciones. Verifica con las herramientas reales y documenta lo que faltaba.",
+ "conexion":"Aplica la clase 099 al plano técnico y se conecta con la parte 13, donde el material digital se diseña desde cero."},
+
+{"n":106,"evidencia":"CONSISTENTE",
+ "foco":"cómo se enseña contenido significativo a un estudiante con discapacidad intelectual sin reducirlo a tareas ocupacionales",
+ "proposito":"Diseñar enseñanza para estudiantes con discapacidad intelectual con foco en aprendizajes funcionales y académicos significativos, apoyos graduados y expectativas que no se reduzcan por la categoría.",
+ "decision":"determinar qué aprendizaje significativo perseguirás y con qué apoyos lo harás alcanzable",
+ "entregable":"un plan de enseñanza con objetivos significativos, apoyos graduados y evidencia de progreso real",
+ "conceptos":[
+  ["Apoyo graduado","ayuda ajustada en intensidad y retirada progresivamente según el desempeño observado"],
+  ["Aprendizaje funcional","competencia con uso directo en la vida cotidiana y en la autonomía de la persona"],
+  ["Currículo significativo","contenido académico ajustado en complejidad pero no vaciado de sentido"],
+  ["Expectativa profesional","nivel de logro que el equipo cree posible; condiciona lo que efectivamente se enseña"]],
+ "desarrollo":"El principal riesgo en la enseñanza de estudiantes con discapacidad intelectual no es la sobreexigencia sino la subestimación: se reduce el currículo a tareas repetitivas de bajo valor y se confirma el pronóstico. La evidencia disponible muestra que muchos estudiantes progresan en contenidos académicos significativos cuando reciben enseñanza sistemática con apoyos adecuados y expectativas sostenidas.",
+ "practica":"El diseño combina aprendizajes académicos ajustados en complejidad con aprendizajes funcionales que aumentan la autonomía, y evita presentarlos como alternativas. Los apoyos se gradúan con criterio de retiro, y el progreso se mide con evidencia concreta y no con impresiones. El registro sistemático es lo que permite discutir con el equipo cuando alguien propone bajar expectativas.",
+ "limites":"La discapacidad intelectual abarca perfiles muy diversos y necesidades de apoyo de intensidad muy distinta; ninguna prescripción general aplica a todos. Además, la evidencia sobre enseñanza académica en necesidades de apoyo extensas es menos abundante, y la decisión sobre el equilibrio entre lo académico y lo funcional debe tomarse con la familia y con la persona cuando es posible.",
+ "errores":[
+  "Reducir el currículo a tareas ocupacionales repetitivas por bajas expectativas.",
+  "Sostener objetivos académicos sin apoyos, con lo que el estudiante acumula fracaso sin aprender."],
+ "criterios":[
+  "el plan incluye objetivos académicos significativos y no solo tareas funcionales;",
+  "los apoyos declaran su criterio de retiro y el progreso se documenta con evidencia;"],
+ "preguntas":[
+  "¿Qué le estás enseñando que efectivamente aumenta lo que puede hacer?",
+  "¿Qué objetivo descartaste por su diagnóstico sin haberlo intentado con apoyos?",
+  "¿Qué evidencia de progreso tienes de los últimos tres meses?"],
+ "lecturas":[
+  ["AAIDD. *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports*.","define la discapacidad intelectual desde los apoyos necesarios y no desde el déficit."],
+  ["Browder, D. & Spooner, F. (2011). *Teaching Students with Moderate and Severe Disabilities*.","enseñanza académica con evidencia para estudiantes con necesidades de apoyo extensas."]],
+ "inclusion":"Las decisiones sobre el currículo de un estudiante con discapacidad intelectual deben incluir su voz y la de su familia. La autodeterminación es un objetivo educativo en sí mismo y se aprende tomando decisiones reales, no solo recibiendo apoyos.",
+ "reto":"Escoge un objetivo académico que se haya descartado por el diagnóstico. Enséñalo con apoyos graduados durante seis semanas y documenta el progreso.",
+ "conexion":"Aplica las clases 099 y 101 y comparte con la clase 105 el principio de que el acceso precede al aprendizaje."},
+
+{"n":107,"evidencia":"EN-DEBATE",
+ "foco":"por qué un estudiante con altas capacidades puede fracasar en la escuela y por qué la falta de desafío también es una barrera",
+ "proposito":"Reconocer y atender las altas capacidades con enriquecimiento y profundización, evitando tanto la negación —«ya le va bien»— como la aceleración indiscriminada.",
+ "decision":"determinar qué forma de enriquecimiento o profundización corresponde a tu estudiante y en qué dominio",
+ "entregable":"un plan de enriquecimiento para un estudiante concreto, con objetivos, actividades y criterios de evaluación",
+ "conceptos":[
+  ["Altas capacidades","desempeño o potencial marcadamente superior en uno o más dominios"],
+  ["Enriquecimiento","profundización o ampliación del currículo manteniendo al estudiante en su grupo"],
+  ["Aceleración","avance a contenidos o cursos superiores; tiene evidencia favorable bajo ciertas condiciones"],
+  ["Bajo rendimiento por falta de desafío","desconexión y bajo desempeño de un estudiante capaz ante tareas triviales"]],
+ "desarrollo":"Las altas capacidades no garantizan buen desempeño escolar: un estudiante que nunca es desafiado puede desconectarse, aburrirse y obtener resultados bajos, lo que retrasa aún más su identificación. La evidencia sobre aceleración es más favorable de lo que suele suponerse, incluida la aceleración de asignatura, y no muestra los efectos sociales negativos que se le atribuyen con frecuencia.",
+ "practica":"El enriquecimiento útil no es «más de lo mismo» sino profundización real: problemas abiertos, mayor complejidad, proyectos con estándar exigente, acceso a contenido superior en el dominio específico. La identificación debe basarse en desempeño y no solo en test, y debe considerar dominios específicos: un estudiante puede requerir aceleración en matemática y apoyo en escritura.",
+ "limites":"El campo tiene desacuerdos reales sobre definición, identificación e intervención, y los instrumentos usados favorecen sistemáticamente a estudiantes de mayor nivel socioeconómico. La identificación por nominación docente también arrastra sesgos conocidos de género y origen. Reconocerlo es parte del tratamiento profesional del tema.",
+ "errores":[
+  "Suponer que un estudiante con altas capacidades no necesita atención porque obtiene buenas notas.",
+  "Asignar más ejercicios del mismo nivel como forma de enriquecimiento."],
+ "criterios":[
+  "el plan profundiza en complejidad y no solo aumenta la cantidad de trabajo;",
+  "la identificación considera desempeño por dominio y declara los sesgos del instrumento usado;"],
+ "preguntas":[
+  "¿Qué estudiante tuyo está desconectado por falta de desafío?",
+  "¿Qué le estás dando cuando termina antes: más trabajo o mejor trabajo?",
+  "¿A quién no identificaste por sesgo del instrumento o de la nominación?"],
+ "lecturas":[
+  ["Assouline, S. et al. (2015). *A Nation Empowered: Evidence Trumps the Excuses Holding Back America's Brightest Students*.","síntesis de la evidencia sobre aceleración y sus efectos reales."],
+  ["Renzulli, J. *The Schoolwide Enrichment Model*.","modelo operativo de enriquecimiento aplicable dentro del aula común."]],
+ "inclusion":"Las altas capacidades en estudiantes de contextos vulnerables, con discapacidad o de culturas minorizadas se identifican mucho menos. Buscar activamente en esos grupos, con instrumentos de desempeño y no solo de test, corrige parte del sesgo.",
+ "reto":"Identifica a un estudiante desconectado por falta de desafío. Diseña seis semanas de profundización real y evalúa su efecto sobre su desempeño y su participación.",
+ "conexion":"Completa la parte 08 mostrando que la variabilidad tiene dos extremos, y se apoya en la clase 035."},
+
+{"n":108,"evidencia":"CONSISTENTE",
+ "foco":"cómo se convierte un aula común en un espacio donde todos aprenden lo mismo por vías distintas",
+ "proposito":"Integrar la parte rediseñando un aula completa: barreras identificadas, diseño universal aplicado, apoyos individuales conectados con la planificación y evidencia de participación de todos.",
+ "decision":"determinar el conjunto de decisiones que hará accesible tu aula y cómo verificarás que todos aprenden",
+ "entregable":"el rediseño de un aula accesible con mapa de barreras, diseño universal, apoyos individuales y evidencia de participación",
+ "conceptos":[
+  ["Aula accesible","espacio donde todos los estudiantes pueden acceder, participar y demostrar aprendizaje"],
+  ["Coherencia de apoyos","conexión entre planificación de aula, plan de apoyo individual y trabajo del equipo"],
+  ["Evidencia de participación","registro que muestra quién participa efectivamente y quién queda al margen"],
+  ["Revisión de apoyos","proceso periódico que evita que un apoyo se vuelva permanente por inercia"]],
+ "desarrollo":"El proyecto integrador exige que todos los instrumentos de la parte operen juntos. La prueba de calidad es directa: tomar al estudiante con mayores necesidades de apoyo del curso y mostrar, con evidencia, que accede al mismo objetivo de aprendizaje que sus compañeros. Si no se puede mostrar, el rediseño todavía no cumple, aunque haya mejorado en muchos aspectos.",
+ "practica":"El trabajo tiene cuatro capas: mapa de barreras, rediseño universal, apoyos individuales conectados con la planificación y registro de participación. Ese último registro es el que revela lo que las percepciones ocultan: quién habla, quién trabaja con otros, quién demuestra lo aprendido y quién pasa la semana sin producir evidencia alguna.",
+ "limites":"Un aula rediseñada no elimina todas las necesidades de apoyo especializado ni compensa condiciones institucionales adversas —cursos numerosos, falta de profesionales, ausencia de tiempo de coordinación—. Declarar esas condiciones como límites del diseño es parte del rigor profesional y del argumento ante el equipo directivo.",
+ "errores":[
+  "Evaluar el rediseño por la impresión general del clima y no por la participación documentada de cada estudiante.",
+  "Mantener apoyos sin revisión hasta que se convierten en etiquetas permanentes."],
+ "criterios":[
+  "existe evidencia documentada de participación y aprendizaje del estudiante con mayores necesidades;",
+  "los apoyos individuales están conectados con la planificación de aula y tienen fecha de revisión;"],
+ "preguntas":[
+  "¿Qué evidencia de aprendizaje produjo esta semana el estudiante con más apoyos?",
+  "¿Qué apoyo lleva más de un año sin revisarse?",
+  "¿Qué condición institucional impide completar tu rediseño?"],
+ "lecturas":[
+  ["Booth, T. & Ainscow, M. (2011). *Index for Inclusion*.","instrumento de autoevaluación para verificar el rediseño con indicadores concretos."],
+  ["CAST (2024). *UDL Guidelines* 3.0.","marco de diseño para articular las decisiones del aula rediseñada."]],
+ "inclusion":"Esta clase es el punto donde la inclusión deja de ser un principio y se vuelve verificable. La pregunta que la resume: ¿qué aprendió esta semana el estudiante que más apoyos necesita, y con qué evidencia lo sabes?",
+ "reto":"Aplica el rediseño durante un mes y documenta la participación de todos los estudiantes. Presenta la evidencia al equipo y acuerden una mejora institucional.",
+ "conexion":"Cierra la parte 08 integrando sus once clases previas y condiciona el diseño de las partes 09, 10 y 11."}
+]

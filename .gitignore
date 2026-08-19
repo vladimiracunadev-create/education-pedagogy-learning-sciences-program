@@ -1,0 +1,43 @@
+# Entornos y dependencias
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+node_modules/
+
+# Artefactos generados: se reconstruyen con los scripts y se publican desde CI.
+# site/          → python scripts/generar_sitio.py
+# capacitacion/  → python scripts/exportar_capacitacion.py
+site/
+capacitacion/
+output/
+
+# Cachés de herramientas
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Credenciales y secretos: nunca deben entrar al repositorio
+*.pem
+*.key
+*.p12
+*.pfx
+.env
+.env.*
+secrets/
+
+# Datos reales de estudiantes: este programa trabaja solo con datos sintéticos
+privado/
+datos-reales/
+*.xlsx
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~

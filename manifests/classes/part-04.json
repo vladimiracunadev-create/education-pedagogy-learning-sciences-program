@@ -1,0 +1,361 @@
+[
+{"n":49,"evidencia":"ROBUSTA",
+ "foco":"por qué la enseñanza sistemática de las correspondencias entre letras y sonidos no es un método más entre otros",
+ "proposito":"Enseñar a leer con una secuencia fundada en la evidencia disponible: decodificación sistemática y explícita, fluidez, vocabulario y comprensión trabajados en paralelo y no como etapas separadas.",
+ "decision":"determinar la secuencia de enseñanza lectora de tu curso y qué se evalúa en cada componente",
+ "entregable":"una secuencia de enseñanza lectora con progresión de correspondencias, práctica de fluidez y evaluación por componente",
+ "conceptos":[
+  ["Decodificación","conversión de la cadena escrita en lenguaje oral mediante correspondencias entre grafemas y fonemas"],
+  ["Fluidez lectora","lectura precisa, a ritmo adecuado y con prosodia; libera capacidad para comprender"],
+  ["Vocabulario","conocimiento de palabras; limita la comprensión aunque la decodificación sea correcta"],
+  ["Comprensión lectora","construcción de significado; depende de decodificación, vocabulario y conocimiento del mundo"]],
+ "desarrollo":"La investigación sobre adquisición de la lectura converge en un modelo simple y potente: leer con comprensión requiere decodificar y comprender el lenguaje, y ambos componentes son necesarios. La enseñanza sistemática y explícita de las correspondencias entre letras y sonidos produce mejores resultados que los enfoques que confían en el reconocimiento global o en la adivinación por contexto, sobre todo en los estudiantes con mayor riesgo de dificultad lectora. Esta conclusión está entre las mejor establecidas del campo.",
+ "practica":"Una secuencia profesional define el orden de las correspondencias, practica hasta la fluidez con textos decodificables al inicio, y desarrolla en paralelo vocabulario y conocimiento del mundo mediante lectura en voz alta de textos ricos que el estudiante todavía no puede leer solo. Evaluar por componente es lo que permite intervenir con precisión: un estudiante que decodifica bien y no comprende tiene un problema distinto del que no decodifica.",
+ "limites":"La enseñanza sistemática de correspondencias es condición necesaria y no suficiente: no garantiza comprensión, que depende del vocabulario y del conocimiento previo. Además, la transparencia ortográfica del español hace que la decodificación se domine antes que en inglés, de modo que la fase intensiva es más breve y el foco se traslada antes a fluidez y comprensión. Trasladar sin ajuste los plazos de la investigación anglosajona es un error frecuente.",
+ "errores":[
+  "Enseñar a adivinar la palabra por el contexto o por la imagen en vez de decodificar.",
+  "Dar por terminada la enseñanza lectora cuando el estudiante decodifica, sin trabajar fluidez ni vocabulario."],
+ "criterios":[
+  "la secuencia declara la progresión de correspondencias y su criterio de dominio;",
+  "existe evaluación separada de decodificación, fluidez y comprensión;"],
+ "preguntas":[
+  "¿Cuántos de tus estudiantes leen sin comprender y cuántos comprenden sin leer con fluidez?",
+  "¿Qué evidencia tienes de la fluidez lectora de tu curso, en palabras por minuto y con qué texto?",
+  "¿Qué haces distinto con quien falla en decodificación y con quien falla en vocabulario?"],
+ "lecturas":[
+  ["Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.","la síntesis más completa y equilibrada sobre qué está resuelto en la enseñanza de la lectura."],
+  ["Seidenberg, M. (2017). *Language at the Speed of Sight*.","explica el mecanismo cognitivo de la lectura y por qué ciertos métodos populares fracasan."]],
+ "inclusion":"La enseñanza sistemática beneficia a todos y es indispensable para los estudiantes con dificultades específicas de la lectura, que son quienes más se perjudican con métodos basados en la adivinación. Detectar temprano y con instrumentos simples evita años de fracaso evitable.",
+ "reto":"Mide la fluidez lectora de tu curso con un texto estandarizado. Diseña una intervención de ocho semanas para el tercio más bajo y vuelve a medir con el mismo instrumento.",
+ "conexion":"Se apoya en la clase 040 y sostiene toda la parte 04: sin fluidez lectora, ninguna asignatura funciona en el segundo ciclo."},
+
+{"n":50,"evidencia":"CONSISTENTE",
+ "foco":"por qué escribir bien no se aprende escribiendo mucho, sino escribiendo con enseñanza explícita y revisión",
+ "proposito":"Enseñar la escritura como proceso con enseñanza explícita de estrategias: planificar, redactar, revisar y editar, con modelamiento del docente y retroalimentación que se pueda usar.",
+ "decision":"determinar qué estrategia de escritura vas a enseñar de forma explícita y cómo la modelarás",
+ "entregable":"una secuencia de escritura con estrategia enseñada, modelamiento, práctica guiada y criterios de revisión",
+ "conceptos":[
+  ["Proceso de escritura","ciclo de planificar, redactar, revisar y editar; no es lineal y se enseña por partes"],
+  ["Estrategia de escritura","procedimiento explícito que el estudiante puede aplicar de forma autónoma"],
+  ["Transcripción","costo de la caligrafía y la ortografía; si no está automatizado, consume la capacidad de componer"],
+  ["Revisión","modificación del texto con criterios; es la fase que más distingue a escritores expertos de novatos"]],
+ "desarrollo":"Las síntesis de investigación sobre enseñanza de la escritura muestran efectos consistentes para la enseñanza explícita de estrategias, el establecimiento de metas de producto, la revisión entre pares con criterios y el modelamiento del proceso por parte del docente. Escribir mucho sin enseñanza produce poco cambio: los estudiantes repiten sus procedimientos actuales. Y en los primeros años, la automatización de la transcripción condiciona todo lo demás.",
+ "practica":"Una secuencia eficaz enseña una estrategia a la vez, la modela pensando en voz alta, la practica con apoyo y la retira de forma gradual. La revisión necesita criterios concretos —no «mejora tu texto» sino «comprueba que cada párrafo tenga una idea y su ejemplo»— y tiempo real de clase. La retroalimentación debe llegar antes de la versión final; después de la nota, casi nadie la usa.",
+ "limites":"Los efectos varían según el tipo de texto y la edad, y las estrategias enseñadas no transfieren automáticamente a otros géneros. La corrección exhaustiva de errores de superficie no mejora la calidad de la escritura, aunque sea la práctica más extendida y la que más tiempo consume al docente. Redistribuir ese tiempo hacia la enseñanza explícita rinde mucho más.",
+ "errores":[
+  "Corregir exhaustivamente errores de superficie y esperar que eso mejore la escritura.",
+  "Pedir revisión sin criterios concretos ni tiempo de clase para hacerla."],
+ "criterios":[
+  "la secuencia enseña una estrategia identificable con modelamiento explícito;",
+  "la retroalimentación ocurre antes de la versión final y con criterios utilizables;"],
+ "preguntas":[
+  "¿Qué estrategia de escritura pueden usar tus estudiantes sin ti?",
+  "¿Cuánto de tu tiempo de corrección cambia efectivamente el texto siguiente?",
+  "¿En qué momento de tu secuencia se revisa realmente, y con qué criterios?"],
+ "lecturas":[
+  ["Graham, S. & Perin, D. (2007). *Writing Next*.","síntesis de intervenciones efectivas en escritura con tamaños de efecto declarados."],
+  ["Graham, S. & Harris, K. *Self-Regulated Strategy Development*.","modelo de enseñanza explícita de estrategias con evidencia acumulada en distintas edades."]],
+ "inclusion":"Los estudiantes con dificultades de transcripción quedan atrapados: no pueden componer porque el esfuerzo se agota en escribir. Permitir dictado, teclado o apoyo de transcripción no rebaja el objetivo de composición, lo hace accesible.",
+ "reto":"Enseña explícitamente una estrategia de escritura durante cuatro semanas. Compara un texto inicial y uno final con la misma rúbrica y analiza qué cambió realmente.",
+ "conexion":"Se apoya en la clase 049 y alimenta la parte 11 (rúbricas y retroalimentación) y la parte 14 (escritura académica)."},
+
+{"n":51,"evidencia":"ROBUSTA",
+ "foco":"por qué comprensión y práctica no son alternativas en la enseñanza de la matemática",
+ "proposito":"Diseñar enseñanza matemática que integre fluidez en hechos y procedimientos, comprensión conceptual y resolución de problemas, en vez de optar por uno de los tres.",
+ "decision":"determinar qué componente matemático está fallando en tu grupo y qué enseñanza le corresponde",
+ "entregable":"un diagnóstico matemático por componente con la enseñanza específica que le corresponde a cada uno",
+ "conceptos":[
+  ["Fluidez procedimental","ejecución rápida y precisa de procedimientos; libera capacidad para razonar"],
+  ["Comprensión conceptual","entendimiento de por qué funciona un procedimiento y cómo se relaciona con otros"],
+  ["Representación","forma de presentar una idea matemática —concreta, pictórica, simbólica— y su traducción entre sí"],
+  ["Resolución de problemas","aplicación de conocimiento a situaciones nuevas, que exige reconocer la estructura del problema"]],
+ "desarrollo":"El falso dilema entre comprender y practicar ha hecho daño real en la enseñanza escolar. La evidencia muestra una relación recíproca: la fluidez libera memoria de trabajo para razonar sobre el problema, y la comprensión conceptual hace que la práctica no se olvide ni se aplique fuera de lugar. Los estudiantes con dificultades persistentes suelen fallar en ambos, y necesitan trabajo simultáneo, no la elección de una escuela didáctica.",
+ "practica":"El diagnóstico por componente es la herramienta central: distinguir a quien no domina hechos básicos, a quien ejecuta el procedimiento sin comprenderlo, a quien comprende y no reconoce cuándo aplicarlo. Cada perfil requiere enseñanza distinta. El uso deliberado de representaciones —concreta, pictórica y simbólica— y su traducción explícita entre sí es una de las prácticas con mejor rendimiento en todos los perfiles.",
+ "limites":"El descubrimiento sin guía muestra resultados pobres en matemática escolar, especialmente en estudiantes con menos conocimiento previo; pero la instrucción puramente procedimental produce conocimiento frágil que no transfiere. La posición sostenible es instrucción explícita con práctica deliberada y trabajo de problemas con guía decreciente, no un extremo del péndulo.",
+ "errores":[
+  "Optar entre comprensión y fluidez como si fueran escuelas rivales.",
+  "Enseñar el procedimiento sin conectar la representación concreta con la simbólica."],
+ "criterios":[
+  "el diagnóstico distingue al menos tres perfiles de dificultad con evidencia;",
+  "cada perfil recibe una enseñanza específica y no la misma repetición;"],
+ "preguntas":[
+  "¿Tus estudiantes no saben el procedimiento, no lo comprenden o no saben cuándo usarlo?",
+  "¿Qué hechos básicos no automatizados están consumiendo su capacidad de razonar?",
+  "¿Dónde haces explícita la traducción entre representaciones?"],
+ "lecturas":[
+  ["National Mathematics Advisory Panel (2008). *Foundations for Success*.","informe que sintetiza la evidencia sobre fluidez, conceptos y resolución de problemas."],
+  ["Siegler, R. et al. (2012). *Early Predictors of High School Mathematics Achievement*. Psychological Science, 23(7).","muestra el papel predictivo del conocimiento de fracciones y división; orienta prioridades del segundo ciclo."]],
+ "inclusion":"Las dificultades específicas en matemática existen y se detectan con instrumentos simples. Sin diagnóstico, se atribuyen a falta de esfuerzo, y el estudiante acumula años de fracaso con intervenciones genéricas que no atacan su problema real.",
+ "reto":"Aplica un diagnóstico por componente a tu curso y agrupa a los estudiantes por perfil. Diseña seis semanas de enseñanza diferenciada por perfil y compara resultados.",
+ "conexion":"Se apoya en las clases 041 y 017, porque la fluidez es el mecanismo por el que se libera memoria de trabajo."},
+
+{"n":52,"evidencia":"CONSISTENTE",
+ "foco":"por qué hacer experimentos no equivale a aprender ciencia",
+ "proposito":"Diseñar enseñanza científica que combine indagación con explicación explícita del contenido, y que enfrente las concepciones alternativas que los estudiantes traen sobre el mundo natural.",
+ "decision":"determinar qué concepción alternativa vas a confrontar y con qué evidencia experimentable",
+ "entregable":"una secuencia de indagación con predicción, contraste, explicación explícita y confrontación de la concepción alternativa",
+ "conceptos":[
+  ["Indagación guiada","investigación estructurada por el docente donde el estudiante predice, prueba y explica"],
+  ["Concepción alternativa","idea previa sobre fenómenos naturales, coherente y resistente a la enseñanza"],
+  ["Modelo científico escolar","representación simplificada y correcta que permite explicar y predecir en el nivel"],
+  ["Evidencia","observación registrada que permite apoyar o descartar una explicación"]],
+ "desarrollo":"Las actividades prácticas por sí solas producen poco aprendizaje conceptual: los estudiantes ejecutan procedimientos y confirman lo que ya creían. Lo que cambia el resultado es la combinación de predicción explícita, contraste con la observación y explicación posterior del docente que conecta lo observado con el modelo científico. La secuencia predecir-observar-explicar es simple y tiene respaldo consistente.",
+ "practica":"El diseño empieza identificando la concepción alternativa dominante del grupo y buscando una situación que ella no pueda explicar. Después se pide predicción escrita —comprometerse antes de mirar es parte del mecanismo—, se observa, se registra y se explica. Sin la explicación final, la mayoría reinterpreta lo observado para que quepa en su idea original.",
+ "limites":"La indagación con guía mínima muestra resultados pobres, especialmente en estudiantes con menos conocimiento previo. Y una concepción alternativa robusta no desaparece con una sola experiencia: convive con la explicación escolar durante mucho tiempo. Prometer cambio conceptual con una actividad aislada es sobreestimar el efecto.",
+ "errores":[
+  "Realizar actividades prácticas sin predicción previa ni explicación posterior.",
+  "Suponer que una sola experiencia desmonta una concepción alternativa consolidada."],
+ "criterios":[
+  "la secuencia incluye predicción escrita antes de la observación;",
+  "la explicación final conecta explícitamente la evidencia con el modelo científico escolar;"],
+ "preguntas":[
+  "¿Qué cree tu grupo sobre este fenómeno antes de la clase?",
+  "¿Qué observación sería imposible de explicar con esa creencia?",
+  "¿Dónde en tu secuencia el estudiante se compromete con una predicción?"],
+ "lecturas":[
+  ["Furtak, E. et al. (2012). *Experimental and Quasi-Experimental Studies of Inquiry-Based Science Teaching*. Review of Educational Research, 82(3).","metaanálisis que muestra el papel decisivo del grado de guía en la indagación."],
+  ["Driver, R. et al. (1994). *Making Sense of Secondary Science*.","catálogo de concepciones alternativas por tema; herramienta directa para planificar."]],
+ "inclusion":"El lenguaje científico es una barrera adicional para estudiantes que aprenden en una segunda lengua o con vocabulario limitado. Enseñar explícitamente los términos y aceptar explicaciones en lenguaje cotidiano antes de exigir el término técnico mantiene el acceso al razonamiento.",
+ "reto":"Aplica una secuencia de predecir, observar y explicar sobre una concepción alternativa conocida. Registra cuántos estudiantes mantienen su idea original después de la actividad.",
+ "conexion":"Aplica la clase 015 y la clase 044, y anticipa la parte 05, donde la indagación se transforma en aprendizaje basado en problemas."},
+
+{"n":53,"evidencia":"CONSISTENTE",
+ "foco":"cómo se enseña a interpretar el pasado y el territorio sin reducirlos a fechas y mapas para memorizar",
+ "proposito":"Enseñar historia, geografía y formación ciudadana como disciplinas con métodos propios: trabajar con fuentes, distinguir hecho de interpretación, situar en el espacio y deliberar con argumentos.",
+ "decision":"determinar qué habilidad disciplinar —uso de fuentes, causalidad, deliberación— vas a enseñar explícitamente",
+ "entregable":"una secuencia con trabajo de fuentes que exija distinguir hecho, interpretación y punto de vista",
+ "conceptos":[
+  ["Fuente primaria y secundaria","documento del período estudiado y elaboración posterior sobre él; se leen de forma distinta"],
+  ["Pensamiento histórico","conjunto de operaciones —contextualizar, corroborar, atribuir— propias del oficio del historiador"],
+  ["Razonamiento espacial","interpretación de la distribución de fenómenos en el territorio y de sus relaciones"],
+  ["Deliberación","discusión pública con argumentos y evidencia sobre asuntos que admiten desacuerdo legítimo"]],
+ "desarrollo":"Enseñar historia como cronología para memorizar produce olvido rápido y ninguna capacidad de leer el presente. La alternativa con mejor respaldo es enseñar las operaciones del oficio: leer una fuente preguntando quién la escribió y para qué, corroborar con otra, contextualizar y distinguir lo que el documento prueba de lo que sugiere. Esas operaciones son enseñables desde la educación básica con fuentes adaptadas.",
+ "practica":"Una secuencia típica ofrece dos o tres fuentes que discrepan sobre un mismo hecho y pide al estudiante determinar qué se puede afirmar. La discusión posterior enseña más que la respuesta correcta. En formación ciudadana, la deliberación estructurada sobre asuntos controversiales —con reglas, evidencia y roles— muestra efectos consistentes sobre conocimiento cívico y disposición a participar.",
+ "limites":"El trabajo con fuentes exige conocimiento previo suficiente: sin contexto, el estudiante no puede evaluar nada y la actividad se vuelve un ejercicio vacío. Y la deliberación sobre temas controversiales requiere reglas explícitas y clima seguro; sin ellas reproduce jerarquías del curso y silencia a los mismos de siempre.",
+ "errores":[
+  "Pedir análisis de fuentes sin haber construido el contexto necesario para interpretarlas.",
+  "Evaluar la memorización de fechas y llamarlo pensamiento histórico."],
+ "criterios":[
+  "la secuencia exige distinguir hecho, interpretación y punto de vista con fuentes concretas;",
+  "la deliberación tiene reglas explícitas y exige uso de evidencia;"],
+ "preguntas":[
+  "¿Qué operación del oficio histórico enseñaste explícitamente este semestre?",
+  "¿Qué conocimiento previo necesita tu grupo para poder interpretar esa fuente?",
+  "¿Quién habla y quién calla en tus discusiones, y qué regla lo cambiaría?"],
+ "lecturas":[
+  ["Wineburg, S. (2001). *Historical Thinking and Other Unnatural Acts*.","muestra experimentalmente en qué se diferencia leer como historiador de leer como estudiante."],
+  ["Hess, D. & McAvoy, P. (2015). *The Political Classroom*.","evidencia y criterios para conducir deliberación sobre asuntos controversiales en la escuela."]],
+ "inclusion":"La deliberación puede reproducir desigualdades de participación. Asignar roles, dar tiempo de preparación escrita y estructurar los turnos permite que estudiantes con menos capital verbal o menos confianza participen con argumentos y no solo con presencia.",
+ "reto":"Diseña una actividad con dos fuentes que discrepan. Registra cuántos estudiantes distinguen el punto de vista del autor y cuántos tratan la fuente como verdad transparente.",
+ "conexion":"Comparte método con la clase 052 y prepara la parte 05 (debate y argumentación) y la parte 16 (uso crítico de fuentes)."},
+
+{"n":54,"evidencia":"EMERGENTE",
+ "foco":"qué enseña el arte en la escuela cuando no se lo usa como adorno de otras asignaturas",
+ "proposito":"Enseñar arte en educación básica con objetivos propios —lenguajes, técnicas, apreciación y producción— y con criterios de evaluación que no se reduzcan a la prolijidad del producto.",
+ "decision":"determinar qué aprendizaje artístico específico persigue tu unidad y cómo lo evaluarás sin premiar solo la prolijidad",
+ "entregable":"una unidad de arte con objetivos propios, criterios de evaluación y evidencia de proceso además de producto",
+ "conceptos":[
+  ["Lenguaje artístico","sistema de recursos expresivos propios de una disciplina artística"],
+  ["Apreciación","observación y análisis de obras con criterios; se enseña y se evalúa"],
+  ["Producción","creación con decisiones propias del estudiante dentro de restricciones dadas"],
+  ["Criterio de evaluación artística","referencia explícita que permite juzgar el trabajo sin reducirlo a limpieza o parecido"]],
+ "desarrollo":"El arte escolar suele quedar atrapado entre dos reducciones: la manualidad decorativa y la ilustración de contenidos de otras asignaturas. Ambas eliminan su contenido propio. Una unidad con objetivos artísticos enseña recursos expresivos, ofrece referentes, exige decisiones y evalúa con criterios que el estudiante conoce de antemano, igual que cualquier otra disciplina.",
+ "practica":"La evaluación es el punto crítico. Si el criterio implícito es la prolijidad, se premia una habilidad motora y se castiga la exploración. Criterios como uso deliberado de un recurso, coherencia entre intención y resultado, o calidad de las decisiones tomadas ante una restricción, permiten evaluar sin reducir. La documentación del proceso —bocetos, versiones, decisiones— hace visible lo que el producto final oculta.",
+ "limites":"La evidencia sobre efectos del arte en el rendimiento en otras asignaturas es débil y las promesas de transferencia no se sostienen en revisiones sistemáticas. Justificar el arte por su utilidad instrumental lo debilita: cuando la promesa no se cumple, se recorta. Su defensa sólida es disciplinar, no instrumental.",
+ "errores":[
+  "Evaluar arte por prolijidad y parecido con el modelo.",
+  "Justificar la asignatura por efectos en el rendimiento de otras materias."],
+ "criterios":[
+  "los criterios de evaluación son artísticos y se comunican antes del trabajo;",
+  "hay evidencia de proceso documentada, no solo producto final;"],
+ "preguntas":[
+  "¿Qué recurso expresivo específico aprenderá tu grupo en esta unidad?",
+  "¿Qué estás premiando realmente cuando calificas un trabajo artístico?",
+  "¿Qué referentes ofreciste antes de pedir producción?"],
+ "lecturas":[
+  ["Eisner, E. (2002). *The Arts and the Creation of Mind*.","fundamenta el contenido cognitivo propio de las artes y sus formas de evaluación."],
+  ["Winner, E., Goldstein, T. & Vincent-Lancrin, S. (2013). *Art for Art's Sake?* OCDE.","revisa la evidencia sobre transferencia y ordena qué se puede afirmar."]],
+ "inclusion":"El arte ofrece vías de expresión a estudiantes con dificultades en los lenguajes verbales y matemáticos, pero solo si la evaluación no premia una única forma de destreza. Criterios múltiples y materiales accesibles hacen la diferencia.",
+ "reto":"Rediseña una unidad de arte con criterios explícitos y comunícalos antes. Compara la variedad de resultados con la de la versión anterior.",
+ "conexion":"Continúa la clase 043 en el nivel escolar y aporta a la parte 11 el problema de evaluar desempeños complejos con criterios."},
+
+{"n":55,"evidencia":"ROBUSTA",
+ "foco":"qué efectos de la actividad física escolar están bien establecidos y cuáles se exageran",
+ "proposito":"Enseñar educación física con objetivos de aprendizaje motor y de hábito saludable, y usar la evidencia real sobre actividad física, salud y disposición para aprender sin atribuirle efectos que no tiene.",
+ "decision":"determinar qué objetivo motor o de hábito persigue tu clase y cómo se evalúa sin medir solo rendimiento",
+ "entregable":"una planificación de educación física con objetivos motores y de hábito, con evaluación que no se reduzca a marcas",
+ "conceptos":[
+  ["Competencia motriz","capacidad de resolver tareas motrices variadas con eficacia y control"],
+  ["Hábito de actividad física","conducta sostenida en el tiempo; es el objetivo de largo plazo del área"],
+  ["Tiempo de compromiso motor","proporción de la clase en que el estudiante está efectivamente en movimiento"],
+  ["Inclusión motriz","condiciones que permiten participar a estudiantes con distinto nivel de destreza"]],
+ "desarrollo":"La evidencia sobre actividad física en la infancia es sólida en salud cardiovascular, composición corporal, salud mental y calidad del sueño, y razonable en su asociación con atención y disposición para aprender inmediatamente después del ejercicio. Es más débil, en cambio, la afirmación de que la educación física mejora por sí sola el rendimiento académico general. La asignatura tiene objetivos propios y suficientes.",
+ "practica":"Dos decisiones cambian el resultado: aumentar el tiempo de compromiso motor real —que en muchas clases es una fracción pequeña del bloque— y diseñar tareas que permitan participar a distintos niveles de destreza. Evaluar solo por marcas premia la maduración y el talento previo; evaluar progreso, participación y competencia motriz mide lo que la asignatura enseña.",
+ "limites":"Los efectos agudos del ejercicio sobre la atención son de corta duración y no equivalen a mejoras sostenidas de aprendizaje. Y los programas que prometen mejorar la lectura mediante ejercicios de coordinación específicos no cuentan con respaldo. Conviene defender la asignatura por su contribución a salud, competencia motriz y hábito.",
+ "errores":[
+  "Evaluar con marcas que reflejan maduración y talento previo más que aprendizaje.",
+  "Diseñar clases donde una parte del curso pasa la mayor parte del tiempo esperando turno."],
+ "criterios":[
+  "la planificación declara objetivos motores y de hábito, no solo actividades;",
+  "el diseño maximiza el tiempo de compromiso motor de todos los estudiantes;"],
+ "preguntas":[
+  "¿Cuántos minutos reales se mueve el estudiante menos hábil de tu curso?",
+  "¿Qué estás evaluando cuando calificas una prueba de rendimiento físico?",
+  "¿Qué tarea permitiría participar con éxito a distintos niveles de destreza a la vez?"],
+ "lecturas":[
+  ["Organización Mundial de la Salud (2020). *Directrices sobre actividad física y comportamientos sedentarios*.","recomendaciones vigentes por edad, con la evidencia que las respalda."],
+  ["Bailey, R. et al. (2009). *The Educational Benefits Claimed for Physical Education and School Sport*. Research Papers in Education, 24(1).","revisa críticamente qué beneficios están respaldados y cuáles se afirman sin evidencia."]],
+ "inclusion":"La educación física es donde la exclusión es más visible: la elección de equipos, la exposición de la torpeza y la evaluación por marcas apartan sistemáticamente a los mismos estudiantes. Diseñar tareas de participación simultánea y evitar la selección pública es una decisión pedagógica, no una concesión.",
+ "reto":"Cronometra el tiempo de compromiso motor de tres estudiantes de distinto nivel en una clase tuya. Rediseña para igualarlo y vuelve a medir.",
+ "conexion":"Se apoya en las clases 026 y 042 y aporta a la parte 12, porque el movimiento regulado influye en el clima del curso."},
+
+{"n":56,"evidencia":"EN-DEBATE",
+ "foco":"qué significa alfabetización digital cuando los estudiantes usan la tecnología todo el día y aun así no la comprenden",
+ "proposito":"Enseñar alfabetización digital como competencia intelectual —evaluar información, comprender qué hace un sistema, producir y comunicar con criterio— y no como manejo de herramientas.",
+ "decision":"determinar qué competencia digital específica vas a enseñar y cómo la evaluarás con desempeño real",
+ "entregable":"una secuencia de alfabetización digital con una tarea de evaluación de información y sus criterios",
+ "conceptos":[
+  ["Alfabetización digital","capacidad de buscar, evaluar, producir y comunicar información con medios digitales"],
+  ["Evaluación de información","juicio sobre la credibilidad de una fuente digital: quién la produce, con qué interés y con qué respaldo"],
+  ["Lectura lateral","estrategia de verificar una fuente saliendo de ella y consultando otras, en vez de analizarla internamente"],
+  ["Huella y privacidad","rastro de datos que deja el uso de servicios digitales y sus consecuencias"]],
+ "desarrollo":"El supuesto de que los estudiantes que crecieron con pantallas saben usarlas críticamente no se sostiene: los estudios sobre evaluación de información en línea muestran desempeños bajos en todas las edades. Lo que distingue a un lector competente es la lectura lateral —salir del sitio y verificar quién está detrás— y no el análisis del diseño de la página, que es lo que la escuela suele enseñar.",
+ "practica":"Enseñar esto exige tareas reales: dar tres fuentes sobre un mismo tema y pedir un juicio fundado sobre cuál es más confiable y por qué. Los criterios se enseñan explícitamente y se practican, no se suponen. En paralelo conviene trabajar privacidad y huella digital con casos concretos del entorno de los estudiantes, que es donde el contenido se vuelve relevante.",
+ "limites":"El campo cambia rápido y la evidencia sobre intervenciones es limitada y de corto plazo. Además, buena parte de los marcos de competencia digital son normativos y no empíricos: describen lo deseable sin demostrar cómo se logra. Y las afirmaciones sobre nativos digitales carecen de respaldo, pese a su difusión.",
+ "errores":[
+  "Enseñar manejo de herramientas y llamarlo alfabetización digital.",
+  "Suponer que los estudiantes evalúan bien la información porque usan mucho internet."],
+ "criterios":[
+  "la tarea exige un juicio fundado sobre credibilidad y no solo búsqueda de información;",
+  "los criterios de evaluación de fuentes se enseñaron explícitamente antes de la tarea;"],
+ "preguntas":[
+  "¿Cómo decide tu grupo si una fuente es confiable?",
+  "¿Qué haces tú antes de creer un contenido que confirma lo que ya piensas?",
+  "¿Qué dato personal de tus estudiantes circula sin que ellos lo sepan?"],
+ "lecturas":[
+  ["Wineburg, S. & McGrew, S. (2019). *Lateral Reading and the Nature of Expertise*. Teachers College Record.","muestra experimentalmente qué estrategia usan los verificadores profesionales y por qué la escuela enseña otra."],
+  ["UNESCO. *Marco de competencias digitales para docentes y estudiantes*.","referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos."]],
+ "inclusion":"El acceso desigual a dispositivos y conectividad convierte cualquier tarea digital domiciliaria en una fuente de exclusión. La alfabetización digital debe enseñarse dentro del tiempo escolar y con recursos disponibles para todos.",
+ "reto":"Aplica una tarea de evaluación de tres fuentes en tu curso. Registra cuántos estudiantes verifican saliendo del sitio y cuántos juzgan por la apariencia de la página.",
+ "conexion":"Es el antecedente escolar de toda la parte 13 y se conecta con la clase 053 en el trabajo crítico con fuentes."},
+
+{"n":57,"evidencia":"CONSISTENTE",
+ "foco":"por qué una unidad bien planificada se reconoce en su evaluación y no en su lista de actividades",
+ "proposito":"Planificar unidades completas con alineamiento entre objetivos, actividades y evaluación, distribución realista del tiempo y previsión de la evidencia que se recogerá en el camino.",
+ "decision":"determinar la secuencia completa de una unidad y la evidencia que recogerás en cada tramo",
+ "entregable":"una unidad completa de cuatro a seis semanas con alineamiento verificable y calendario realista",
+ "conceptos":[
+  ["Unidad didáctica","secuencia de clases organizada en torno a un conjunto coherente de objetivos"],
+  ["Alineamiento","correspondencia entre lo que se declara, lo que se enseña y lo que se evalúa"],
+  ["Tiempo real disponible","horas efectivas de clase descontando evaluaciones, actos, interrupciones y ausencias"],
+  ["Evidencia intermedia","información sobre el aprendizaje recogida durante la unidad y no solo al final"]],
+ "desarrollo":"La planificación fracasa habitualmente por dos causas: falta de alineamiento —se evalúa algo distinto de lo declarado— y sobreestimación del tiempo disponible. La segunda es tan frecuente que muchos programas se planifican para un año que nunca existe. Calcular el tiempo real, con interrupciones incluidas, y priorizar en consecuencia es una operación profesional básica y poco practicada.",
+ "practica":"El procedimiento con mejor rendimiento es inverso: definir primero qué evidencia aceptaría como prueba de logro, después las actividades que llevan a producirla, y solo entonces el calendario. Cada tramo debe tener una evidencia intermedia prevista, para no descubrir en la evaluación final que la mitad del curso se perdió en la semana dos.",
+ "limites":"Una planificación es una hipótesis, no un contrato: se ajusta con la evidencia que aparece. Las planificaciones rígidas que se cumplen a costa del aprendizaje son un problema tan grave como la ausencia de planificación. El criterio de calidad no es cumplirla, sino haber previsto dónde y cómo se comprobaría el avance.",
+ "errores":[
+  "Planificar sobre el tiempo nominal y no sobre el tiempo real disponible.",
+  "Diseñar primero las actividades y buscar después cómo evaluarlas."],
+ "criterios":[
+  "cada objetivo tiene su evidencia de logro identificable en la unidad;",
+  "el calendario descuenta el tiempo no lectivo y prioriza en consecuencia;"],
+ "preguntas":[
+  "¿Cuántas horas efectivas tiene realmente tu unidad?",
+  "¿Qué objetivo declarado no aparece en ninguna evaluación?",
+  "¿En qué momento sabrás si la mitad del curso se quedó atrás?"],
+ "lecturas":[
+  ["Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.","el procedimiento de diseño inverso, aplicable directamente a la unidad escolar."],
+  ["Mineduc. *Programas de Estudio* vigentes.","referencia obligatoria de objetivos y progresión; base sobre la que se planifica en Chile."]],
+ "inclusion":"Una unidad inclusiva prevé desde el diseño las vías alternativas de acceso y de demostración, en vez de improvisar adecuaciones cuando aparece la dificultad. Eso exige conocer al grupo antes de planificar, no después.",
+ "reto":"Planifica una unidad calculando el tiempo real. Al terminar, compara lo planificado con lo ejecutado y analiza dónde se produjo la diferencia.",
+ "conexion":"Es la aplicación escolar de la parte 09 y se apoya en la clase 058 para la evidencia intermedia."},
+
+{"n":58,"evidencia":"ROBUSTA",
+ "foco":"qué convierte a la evaluación formativa en una intervención con efecto y qué la reduce a un discurso",
+ "proposito":"Instalar técnicas de recogida de evidencia en clase que informen decisiones inmediatas de enseñanza, con la condición que las hace funcionar: que algo cambie después.",
+ "decision":"determinar qué técnica de recogida de evidencia usarás y qué harás con lo que muestre",
+ "entregable":"un registro de tres ciclos de evaluación formativa con la evidencia recogida y el ajuste que produjo",
+ "conceptos":[
+  ["Evaluación formativa","uso de evidencia sobre el aprendizaje para ajustar la enseñanza mientras aún se puede"],
+  ["Técnica de verificación","procedimiento breve que revela el estado de comprensión de todo el curso, no de quien responde"],
+  ["Ajuste","cambio concreto en la enseñanza derivado de la evidencia recogida"],
+  ["Retroalimentación utilizable","comentario que el estudiante puede aplicar en un trabajo posterior"]],
+ "desarrollo":"La evaluación formativa muestra efectos consistentes cuando cumple una condición que suele omitirse: que la evidencia recogida cambie algo. Recolectar información sobre la comprensión y seguir con lo planificado no es evaluación formativa. Las técnicas eficaces son breves y revelan el estado del curso completo: pizarras individuales, respuestas simultáneas, tarjetas de salida, preguntas con opciones diseñadas para exponer errores típicos.",
+ "practica":"El ciclo completo tiene tres pasos: recoger evidencia de todo el curso en menos de cinco minutos, interpretarla en el momento y ajustar la clase siguiente o la siguiente actividad. El registro de esos ciclos es lo que permite comprobar si la práctica existe realmente o solo se declara. Y la retroalimentación escrita rinde mucho más si llega antes de la calificación, porque después casi nadie la lee.",
+ "limites":"El tamaño de efecto de la evaluación formativa se ha citado con cifras infladas provenientes de síntesis heterogéneas. El efecto es real y valioso, pero depende de la implementación y de la calidad de las decisiones que toma el docente con la evidencia. Aplicar las técnicas sin cambiar la enseñanza produce ceremonias sin resultado.",
+ "errores":[
+  "Recoger evidencia de comprensión y continuar con lo planificado igualmente.",
+  "Entregar nota y comentario juntos y esperar que el comentario se utilice."],
+ "criterios":[
+  "cada ciclo registra evidencia, interpretación y ajuste efectivamente realizado;",
+  "la técnica usada revela el estado del curso completo y no solo de quien participa;"],
+ "preguntas":[
+  "¿Qué cambiaste en tu clase la última vez que la evidencia mostró que no entendieron?",
+  "¿Tu técnica de verificación muestra a todo el curso o solo a quien levanta la mano?",
+  "¿Cuándo llega tu retroalimentación en relación con la calificación?"],
+ "lecturas":[
+  ["Wiliam, D. (2011). *Embedded Formative Assessment*.","convierte la evaluación formativa en técnicas concretas con condiciones de uso."],
+  ["Black, P. & Wiliam, D. (1998). *Inside the Black Box*.","el texto que instaló la práctica; conviene leerlo junto con las revisiones críticas posteriores sobre magnitudes."]],
+ "inclusion":"Las técnicas de respuesta simultánea evitan que la participación dependa de la confianza para hablar en público, y hacen visibles a estudiantes que de otro modo pasan semanas sin que nadie sepa qué comprendieron.",
+ "reto":"Aplica tres ciclos completos en dos semanas y documenta el ajuste de cada uno. Analiza cuántas veces la evidencia contradijo tu impresión de cómo iba el curso.",
+ "conexion":"Aplica en la práctica escolar la parte 11 y se apoya en la clase 020, porque la verificación frecuente también produce práctica de recuperación."},
+
+{"n":59,"evidencia":"CONSISTENTE",
+ "foco":"por qué las rutinas enseñadas al inicio del año explican la mayor parte del clima del resto del año",
+ "proposito":"Diseñar y enseñar el sistema de rutinas, normas y transiciones de un curso de niñez media, entendiendo que la gestión eficaz es preventiva y no reactiva.",
+ "decision":"determinar qué rutinas vas a enseñar explícitamente antes de que aparezca el primer problema",
+ "entregable":"el sistema de rutinas de un curso con su plan de enseñanza, práctica y corrección durante las primeras semanas",
+ "conceptos":[
+  ["Rutina","procedimiento estable para una situación recurrente; se enseña, se practica y se corrige"],
+  ["Transición","cambio entre actividades; concentra la mayoría de los problemas de conducta"],
+  ["Percepción simultánea","capacidad del docente de saber qué ocurre en toda la sala mientras atiende a una parte"],
+  ["Prevención","conjunto de decisiones tomadas antes del problema y que reducen su probabilidad"]],
+ "desarrollo":"La investigación clásica sobre gestión de aula estableció que los docentes con menos problemas no son los que responden mejor sino los que previenen más, y que la diferencia se juega en las primeras semanas del año. Las rutinas explícitamente enseñadas —cómo se entra, cómo se pide material, cómo se transita entre actividades, qué se hace al terminar antes— eliminan la mayoría de las situaciones que después se gestionan como problemas de disciplina.",
+ "practica":"Enseñar una rutina sigue la misma lógica que enseñar contenido: explicarla, modelarla, practicarla, corregirla y volver a practicarla. En niñez media eso funciona particularmente bien porque el grupo acepta la estructura y valora la previsibilidad. La otra decisión de alto rendimiento es reducir tiempos muertos: casi toda disrupción aparece en el vacío entre dos actividades.",
+ "limites":"Las rutinas ordenan pero no resuelven conflictos de fondo ni situaciones de vulneración, y un sistema rígido aplicado sin criterio puede volverse una fuente de conflicto. Además, la evidencia proviene sobre todo de estudios observacionales y de contextos culturales específicos; su traducción exige ajuste al grupo y a la institución.",
+ "errores":[
+  "Suponer que las rutinas se entienden porque se anunciaron una vez.",
+  "Gestionar por reacción y dedicar a la corrección el tiempo que faltó en la enseñanza de la rutina."],
+ "criterios":[
+  "cada rutina tiene un plan de enseñanza, práctica y corrección, no solo un enunciado;",
+  "el sistema identifica y reduce los tiempos muertos entre actividades;"],
+ "preguntas":[
+  "¿Qué rutina de tu curso nunca fue enseñada explícitamente?",
+  "¿Cuánto tiempo pierde tu clase en transiciones y qué la haría más breve?",
+  "¿Qué ocurre en tu sala cuando un estudiante termina antes que el resto?"],
+ "lecturas":[
+  ["Kounin, J. (1970). *Discipline and Group Management in Classrooms*.","origen del hallazgo sobre prevención y percepción simultánea; sigue siendo la mejor descripción del mecanismo."],
+  ["Evertson, C. & Emmer, E. *Classroom Management for Elementary Teachers*.","manual operativo de rutinas, transiciones y comienzo del año escolar."]],
+ "inclusion":"La previsibilidad de las rutinas beneficia especialmente a estudiantes autistas, con TDAH o con historias de inestabilidad. Hacer visible la secuencia de la clase y anticipar los cambios reduce conductas que de otro modo se interpretan como desafío.",
+ "reto":"Escoge la transición más problemática de tu curso. Enséñala explícitamente durante una semana con práctica y corrección, y mide el tiempo que toma antes y después.",
+ "conexion":"Es la aplicación en niñez media de la parte 12 y se apoya en la clase 031, porque en esta edad el estatus ante el grupo condiciona la respuesta a la corrección."},
+
+{"n":60,"evidencia":"CONSISTENTE",
+ "foco":"cómo integrar asignaturas sin diluir los objetivos de aprendizaje de ninguna de ellas",
+ "proposito":"Integrar la parte diseñando y ejecutando una unidad interdisciplinaria que mantenga objetivos disciplinares verificables en cada asignatura involucrada.",
+ "decision":"determinar qué objetivos disciplinares se sostienen en la integración y cuáles se pierden",
+ "entregable":"una unidad interdisciplinaria con objetivos por asignatura, evaluación por objetivo y análisis de su ejecución",
+ "conceptos":[
+  ["Integración curricular","organización de la enseñanza en torno a un problema o tema que convoca a varias asignaturas"],
+  ["Objetivo disciplinar","aprendizaje propio de una asignatura que debe seguir siendo verificable dentro de la integración"],
+  ["Producto integrador","tarea final que exige movilizar aprendizajes de más de una disciplina"],
+  ["Coordinación docente","acuerdo explícito entre docentes sobre objetivos, tiempos y criterios de evaluación"]],
+ "desarrollo":"La integración es atractiva y frágil: cuando funciona, hace visible la utilidad del conocimiento; cuando falla, produce actividades vistosas donde ninguna asignatura logra su objetivo. La diferencia está en si cada disciplina conserva objetivos propios y evaluación propia dentro del proyecto común. Un proyecto sin objetivos disciplinares verificables no es interdisciplinario: es una actividad temática.",
+ "practica":"El diseño exige coordinación real: acordar el problema, declarar qué aporta cada asignatura, definir la evaluación por objetivo y calendarizar. Es trabajo docente que consume tiempo y que rara vez está considerado en la carga horaria, y esa es la principal causa de que estas unidades se abandonen después del primer intento. Preverlo forma parte del diseño.",
+ "limites":"La evidencia sobre enfoques integrados es mixta y depende fuertemente de la calidad del diseño y del conocimiento previo de los estudiantes. La integración no mejora por sí sola el aprendizaje y puede reducirlo si diluye la enseñanza explícita. Se justifica cuando el problema elegido exige genuinamente más de una disciplina.",
+ "errores":[
+  "Integrar por tema sin objetivos disciplinares verificables en cada asignatura.",
+  "Diseñar una unidad interdisciplinaria sin considerar el tiempo de coordinación docente que exige."],
+ "criterios":[
+  "cada asignatura conserva objetivos propios con evaluación identificable;",
+  "el análisis posterior indica qué objetivos se lograron y cuáles se diluyeron;"],
+ "preguntas":[
+  "¿Qué objetivo disciplinar se perdió realmente en tu proyecto?",
+  "¿Qué hace que este problema exija más de una asignatura y no sea una excusa temática?",
+  "¿Cuánto tiempo de coordinación necesitó y de dónde salió?"],
+ "lecturas":[
+  ["Beane, J. (1997). *Curriculum Integration*.","la formulación más consistente de la integración curricular y sus condiciones."],
+  ["Wiggins, G. & McTighe, J. (2005). *Understanding by Design*.","aporta el criterio de evidencia aceptable, que es lo que impide que la integración diluya objetivos."]],
+ "inclusion":"Los proyectos con producto final complejo pueden dejar fuera a estudiantes con dificultades de organización o de escritura si no se prevén roles, apoyos y vías alternativas de contribución que sigan exigiendo el mismo objetivo.",
+ "reto":"Ejecuta la unidad y evalúa por objetivo disciplinar. Identifica cuál se diluyó y rediseña esa parte para una segunda versión.",
+ "conexion":"Cierra la parte 04 integrando las clases 049 a 059 y anticipa la parte 05 (proyectos) y la parte 09 (diseño curricular)."}
+]

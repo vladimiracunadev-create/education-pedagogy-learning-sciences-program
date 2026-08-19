@@ -1,0 +1,74 @@
+name: Pages
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "curriculum/**"
+      - "docs/**"
+      - "manifests/**"
+      - "cases/**"
+      - "projects/**"
+      - "assessments/**"
+      - "templates/**"
+      - "labs/**"
+      - "*.md"
+      - "catalog.json"
+      - "scripts/generar_sitio.py"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Una sola publicación a la vez; los pushes seguidos cancelan el anterior.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Generar sitio
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Setup Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: "3.12"
+
+      - name: Generar el sitio HTML
+        run: python scripts/generar_sitio.py
+
+      - name: Generar el paquete de capacitación y publicarlo como descarga
+        run: |
+          python scripts/exportar_capacitacion.py
+          mkdir -p site/descargas
+          cp -r capacitacion site/descargas/capacitacion
+          cp catalog.json site/descargas/catalog.json
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
+        with:
+          enablement: true
+
+      - name: Subir artefacto de Pages
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
+        with:
+          path: site
+
+  deploy:
+    name: Publicar
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Desplegar a GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5

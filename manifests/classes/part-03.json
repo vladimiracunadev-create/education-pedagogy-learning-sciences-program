@@ -1,0 +1,361 @@
+[
+{"n":37,"evidencia":"MARCO-NORMATIVO",
+ "foco":"qué distingue a la educación parvularia de una versión anticipada de la escuela básica",
+ "proposito":"Establecer los principios que rigen el nivel —bienestar, actividad, singularidad, juego, significado, relación— y usarlos como criterio para aceptar o rechazar una práctica propuesta.",
+ "decision":"determinar si una práctica propuesta para el nivel respeta sus principios o lo escolariza",
+ "entregable":"una evaluación de tres prácticas de un jardín contrastadas con los principios del nivel, con veredicto y fundamento",
+ "conceptos":[
+  ["Principio pedagógico","criterio rector que orienta toda decisión del nivel y permite juzgar una práctica concreta"],
+  ["Bienestar integral","condición de seguridad, salud y afecto sin la cual el aprendizaje del nivel no ocurre"],
+  ["Protagonismo del niño","reconocimiento del niño como sujeto activo que inicia, decide y construye su experiencia"],
+  ["Intencionalidad pedagógica","propósito de aprendizaje explícito detrás de una experiencia que puede parecer libre"]],
+ "desarrollo":"La educación parvularia no es preparación para la básica: es un nivel con finalidad propia y con principios que la ordenan. En Chile, las Bases Curriculares de la Educación Parvularia declaran esos principios y organizan el currículo en ámbitos y núcleos. La consecuencia práctica es que una actividad se juzga por su coherencia con los principios, no por su parecido con una clase escolar. Una experiencia sin intención pedagógica explícita no cumple; una experiencia con formato escolar tampoco.",
+ "practica":"El criterio operativo para evaluar cualquier propuesta del nivel combina dos preguntas: qué aprendizaje persigue y si la vía es coherente con la forma en que aprende un niño de esa edad. Una ficha de trazos repetidos falla en la segunda; una actividad entretenida sin objetivo falla en la primera. Sostener ambas exigencias a la vez es lo que distingue a un equipo profesional de uno que improvisa o que copia formatos ajenos.",
+ "limites":"Los principios se declaran con facilidad y se aplican con dificultad. La presión de familias e instituciones por resultados visibles —niños que escriben, que leen, que llenan cuadernos— empuja a la escolarización, y el argumento profesional debe sostenerse con evidencia y con comunicación, no solo con referencias normativas. Además, los principios no resuelven casos concretos por sí solos: exigen juicio.",
+ "errores":[
+  "Adoptar formatos de educación básica por presión de familias o de la propia institución.",
+  "Confundir juego libre sin intención con respeto al protagonismo del niño."],
+ "criterios":[
+  "cada veredicto cita el principio que la práctica respeta o vulnera;",
+  "se propone una alternativa concreta para cada práctica rechazada;"],
+ "preguntas":[
+  "¿Qué práctica de tu contexto no resistiría el contraste con los principios del nivel?",
+  "¿Cómo explicarías a una familia por qué no se enseña a escribir con fichas a los cuatro años?",
+  "¿Qué intención pedagógica tiene la experiencia que planificaste para mañana?"],
+ "lecturas":[
+  ["Mineduc (2018). *Bases Curriculares de la Educación Parvularia*.","marco vigente: principios, ámbitos, núcleos y objetivos de aprendizaje del nivel en Chile."],
+  ["Copple, C. & Bredekamp, S. (eds.) (2009). *Developmentally Appropriate Practice*. NAEYC.","argumenta con evidencia por qué la escolarización temprana no mejora resultados y qué sí lo hace."]],
+ "inclusion":"Los principios del nivel son inclusivos por diseño: singularidad, bienestar y protagonismo obligan a ajustar la experiencia a cada niño. Su aplicación real se comprueba observando qué ocurre con el niño que menos participa, no con el grupo en promedio.",
+ "reto":"Evalúa tres prácticas reales de un jardín con los principios del nivel. Presenta el resultado al equipo y registra qué argumentos aparecen para defender las prácticas cuestionadas.",
+ "conexion":"Abre la parte 03 y se apoya en las clases 025 a 030. Su criterio de intencionalidad reaparece en la parte 09 (alineamiento) y en la clase 046 (documentación)."},
+
+{"n":38,"evidencia":"CONSISTENTE",
+ "foco":"por qué el juego enseña, y qué condiciones distinguen el juego que enseña del que solo entretiene",
+ "proposito":"Comprender el juego como vía principal de aprendizaje en la primera infancia y aprender a diseñar juego con intención sin destruir lo que lo hace juego.",
+ "decision":"determinar qué grado de intervención adulta requiere un juego para sostener el aprendizaje sin apropiárselo",
+ "entregable":"el diseño de tres situaciones de juego con distinto grado de guía adulta y el aprendizaje que cada una persigue",
+ "conceptos":[
+  ["Juego libre","actividad elegida y dirigida por el niño, sin objetivo impuesto por el adulto"],
+  ["Juego guiado","situación diseñada por el adulto que conserva la iniciativa del niño dentro de un propósito"],
+  ["Juego simbólico","representación de roles y situaciones; sostiene lenguaje, regulación y descentración"],
+  ["Intervención sensible","participación del adulto que amplía el juego sin dirigirlo ni interrumpirlo"]],
+ "desarrollo":"La evidencia disponible sugiere que el juego guiado —diseñado por el adulto pero dirigido por el niño— produce mejores aprendizajes en dominios específicos que tanto el juego libre puro como la instrucción directa en estas edades. El juego simbólico, en particular, se asocia con desarrollo del lenguaje, de la autorregulación y de la capacidad de considerar otras perspectivas. La condición que cambia el resultado es la calidad de la participación adulta, no la cantidad de materiales.",
+ "practica":"Diseñar juego guiado consiste en preparar el escenario —materiales, espacio, roles disponibles— y después participar de forma sensible: comentar, ampliar, ofrecer vocabulario, plantear un problema dentro del juego sin convertirlo en tarea. El error típico es apropiarse del juego para enseñar el contenido previsto, con lo cual el niño deja de decidir y el juego termina.",
+ "limites":"La investigación sobre juego tiene limitaciones conocidas: definiciones heterogéneas, dificultad para asignar aleatoriamente y medidas de resultado variables. La afirmación fuerte de que el juego libre por sí solo produce todos los aprendizajes del nivel no está bien respaldada; la afirmación sostenible es que el juego con participación adulta sensible es una vía eficaz para muchos objetivos, no para todos.",
+ "errores":[
+  "Convertir el juego en una tarea encubierta y perder la iniciativa del niño.",
+  "Dejar el juego enteramente libre y suponer que cualquier aprendizaje ocurrirá por sí solo."],
+ "criterios":[
+  "cada situación declara su objetivo de aprendizaje y su grado de guía adulta;",
+  "la intervención prevista amplía el juego sin sustituir la decisión del niño;"],
+ "preguntas":[
+  "¿En qué momento tu intervención dejó de ampliar el juego y pasó a dirigirlo?",
+  "¿Qué aprendizaje persigue el rincón que instalaste esta semana?",
+  "¿Qué niño no entra nunca al juego simbólico y qué harías al respecto?"],
+ "lecturas":[
+  ["Weisberg, D., Hirsh-Pasek, K. & Golinkoff, R. (2013). *Guided Play: Where Curricular Goals Meet a Playful Pedagogy*.","define el juego guiado y sintetiza la evidencia que lo distingue del juego libre y de la instrucción."],
+  ["Vygotsky, L. (1978). *Mind in Society*, cap. sobre el juego.","explica por qué el juego simbólico opera como zona de desarrollo próximo del propio niño."]],
+ "inclusion":"No todos los niños entran al juego con la misma facilidad: dificultades de comunicación, diferencias sensoriales o experiencias previas restringidas pueden dejar a un niño fuera. La mediación adulta debe garantizar acceso al juego, no solo su disponibilidad.",
+ "reto":"Observa un juego libre y registra qué aprendizaje ocurre sin intervención. Después diseña la misma situación como juego guiado y compara lo que aparece.",
+ "conexion":"Se apoya en la clase 037 y sostiene las clases 040 a 045, donde el juego es la vía de los distintos núcleos de aprendizaje."},
+
+{"n":39,"evidencia":"CONSISTENTE",
+ "foco":"por qué el espacio y el tiempo del nivel enseñan tanto como el adulto que los organiza",
+ "proposito":"Tratar el ambiente —espacio, materiales, tiempo y organización del grupo— como una decisión pedagógica: determina qué conductas son posibles y cuáles no llegan a aparecer.",
+ "decision":"determinar qué modificación del ambiente hará posible el aprendizaje que hoy no aparece",
+ "entregable":"un rediseño de ambiente con la conducta esperada por cada zona y la evidencia observada antes y después",
+ "conceptos":[
+  ["Ambiente de aprendizaje","conjunto de espacio, materiales, tiempo y organización que condiciona la actividad posible"],
+  ["Zona o rincón","sector organizado con intención pedagógica, materiales seleccionados y conducta esperada"],
+  ["Material abierto","recurso sin uso único que admite múltiples acciones y niveles de complejidad"],
+  ["Ritmo de la jornada","secuencia y duración de los momentos; determina la calidad de la experiencia más que su cantidad"]],
+ "desarrollo":"El ambiente no es el escenario donde ocurre la pedagogía: es parte de ella. La disposición del espacio determina si los niños pueden trabajar en pequeños grupos, si pueden acceder al material sin pedirlo, si hay lugar para el movimiento y para la calma. El tiempo funciona igual: jornadas fragmentadas en muchos momentos cortos impiden la concentración sostenida, que es justamente lo que se busca desarrollar.",
+ "practica":"El procedimiento profesional es explicitar, por cada zona, qué conducta se espera que aparezca y comprobar con observación si aparece. Cuando no aparece, la primera hipótesis es de diseño: material inaccesible, espacio insuficiente, tiempo demasiado corto, ubicación que interfiere. Modificar el ambiente suele ser más eficaz y menos costoso que intervenir la conducta de los niños uno por uno.",
+ "limites":"No hay una configuración óptima universal: depende del grupo, del espacio disponible y del proyecto del establecimiento. Los estudios que asocian calidad de ambiente con resultados usan instrumentos que miden sobre todo interacción, no mobiliario. El riesgo es invertir en equipamiento vistoso y descuidar la variable con mayor evidencia, que es la calidad de la interacción adulta.",
+ "errores":[
+  "Rediseñar el espacio por estética sin declarar qué conducta debería habilitar.",
+  "Fragmentar la jornada en tantos momentos que ninguno permita concentración sostenida."],
+ "criterios":[
+  "cada zona declara la conducta esperada y su evidencia de aparición;",
+  "el rediseño se evalúa con observación antes y después, no con impresión general;"],
+ "preguntas":[
+  "¿Qué conducta querrías ver y hoy el espacio impide?",
+  "¿Cuánto dura el momento más largo de tu jornada y alcanza para concentrarse?",
+  "¿Qué material está fuera del alcance de los niños y por qué razón real?"],
+ "lecturas":[
+  ["Malaguzzi, L. y experiencia de Reggio Emilia. *El ambiente como tercer educador*.","fundamenta el espacio como agente pedagógico, con ejemplos de organización y documentación."],
+  ["Harms, T., Clifford, R. & Cryer, D. *Early Childhood Environment Rating Scale (ECERS)*.","instrumento estandarizado de evaluación de ambientes; útil como lista de verificación crítica."]],
+ "inclusion":"Un ambiente accesible resuelve por diseño buena parte de las barreras: alturas alcanzables, señalización visual, zonas de baja estimulación para regularse, rutas libres. Estas medidas benefician a todo el grupo y no requieren diagnóstico previo de ningún niño.",
+ "reto":"Escoge una conducta que no aparece en tu sala. Modifica una sola variable del ambiente, sostenla dos semanas y registra si la conducta emerge.",
+ "conexion":"Aplica la clase 026 y sostiene la clase 038. Su lógica —diseñar condiciones en vez de corregir conductas— reaparece en la parte 12."},
+
+{"n":40,"evidencia":"ROBUSTA",
+ "foco":"qué se puede y qué conviene enseñar sobre lenguaje escrito antes de que empiece la enseñanza formal de la lectura",
+ "proposito":"Desarrollar los precursores de la lectura y la escritura —lenguaje oral rico, conciencia fonológica, conocimiento de letras, funcionalidad del texto— sin adelantar formatos escolares que el nivel no requiere.",
+ "decision":"determinar qué precursor de la lectura vas a trabajar de forma sistemática y con qué evidencia lo verificarás",
+ "entregable":"una secuencia de alfabetización emergente con actividades, progresión y evidencia de aprendizaje observable",
+ "conceptos":[
+  ["Alfabetización emergente","conjunto de conocimientos sobre el lenguaje escrito que se construyen antes de leer convencionalmente"],
+  ["Conciencia fonológica","capacidad de identificar y manipular unidades sonoras del habla; predice el aprendizaje lector"],
+  ["Conocimiento del alfabeto","identificación de letras y de sus sonidos; junto con lo fonológico, el mejor predictor temprano"],
+  ["Funcionalidad del texto","comprensión de para qué sirve lo escrito y cómo se usa en la vida cotidiana"]],
+ "desarrollo":"Dos predictores destacan de forma consistente en la investigación sobre lectura inicial: la conciencia fonológica y el conocimiento de letras y sus sonidos. Ambos se pueden desarrollar en educación parvularia con actividades lúdicas y orales, sin necesidad de fichas ni de escritura formal. A eso se suman el vocabulario oral y la comprensión de para qué sirve el texto, que sostienen la comprensión lectora posterior más que la decodificación.",
+ "practica":"El trabajo sistemático se hace con juegos de sonidos —rimas, sílabas, sonido inicial—, con lectura compartida de textos ricos, con vocabulario ofrecido deliberadamente y con escritura emergente aceptada tal como aparece. Sistemático no significa escolar: significa planificado, progresivo y verificado. La evidencia de aprendizaje se recoge observando qué puede hacer el niño con los sonidos y con el texto, no cuántas fichas completó.",
+ "limites":"Hay un límite claro: entrenar conciencia fonológica sin conectarla con letras produce efectos menores que hacerlo junto con el conocimiento del alfabeto. Y adelantar la enseñanza formal de la lectura al nivel parvulario no muestra ventajas sostenidas en el tiempo, mientras que sí muestra costos en motivación y en oportunidades de juego. La distinción entre precursores y enseñanza formal es, por tanto, técnica y no ideológica.",
+ "errores":[
+  "Trabajar conciencia fonológica desconectada del conocimiento de letras.",
+  "Adelantar la enseñanza formal de la lectura al nivel parvulario por presión externa."],
+ "criterios":[
+  "la secuencia trabaja al menos dos precursores con progresión declarada;",
+  "la evidencia de aprendizaje es un desempeño observable del niño, no un producto en papel;"],
+ "preguntas":[
+  "¿Qué puede hacer hoy tu grupo con los sonidos de las palabras?",
+  "¿Cómo verificas el conocimiento de letras sin recurrir a una prueba escrita?",
+  "¿Qué presión externa te empuja a escolarizar y con qué argumento la enfrentas?"],
+ "lecturas":[
+  ["National Early Literacy Panel (2008). *Developing Early Literacy*.","identifica y jerarquiza los predictores tempranos de la lectura con síntesis cuantitativa."],
+  ["Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars*.","conecta los precursores con la enseñanza posterior y aclara qué está resuelto en el debate."]],
+ "inclusion":"El desarrollo de precursores es la intervención preventiva más eficaz para reducir dificultades lectoras posteriores, y beneficia especialmente a niños con menor exposición al lenguaje escrito en el hogar. Detectar tempranamente a quienes no avanzan evita años de intervención remedial.",
+ "reto":"Aplica una evaluación breve de conciencia fonológica y conocimiento de letras a tu grupo. Diseña una secuencia de ocho semanas para los que están más abajo y mide el cambio.",
+ "conexion":"Se apoya en la clase 027 y es el antecedente directo de las clases 049 y 050 en educación básica."},
+
+{"n":41,"evidencia":"ROBUSTA",
+ "foco":"qué construye el sentido numérico antes de que exista el cálculo escrito",
+ "proposito":"Desarrollar el pensamiento matemático temprano —cantidad, conteo con sentido, comparación, patrones, espacio y forma— con experiencias concretas que preparan la matemática escolar sin anticiparla.",
+ "decision":"determinar qué noción matemática temprana necesita tu grupo antes de avanzar al conteo formal",
+ "entregable":"una secuencia de experiencias matemáticas tempranas con progresión y evidencia de comprensión, no de repetición",
+ "conceptos":[
+  ["Sentido numérico","comprensión intuitiva de cantidad, magnitud y relaciones entre números"],
+  ["Principios del conteo","reglas que hacen que contar signifique algo: correspondencia uno a uno, orden estable y cardinalidad"],
+  ["Subitización","reconocimiento inmediato de cantidades pequeñas sin contar"],
+  ["Patrón","regularidad que se puede reconocer, continuar y describir; base del razonamiento algebraico posterior"]],
+ "desarrollo":"Recitar la serie numérica no es contar. Un niño cuenta cuando asigna una palabra a cada objeto, respeta el orden y comprende que la última palabra indica cuántos hay. Esa comprensión —la cardinalidad— es el hito que separa la repetición del conteo con sentido, y es un predictor del desempeño matemático posterior más potente que la cantidad de números que el niño puede recitar.",
+ "practica":"Las experiencias eficaces son cotidianas y con materiales concretos: repartir, comparar colecciones, ordenar por tamaño, continuar patrones, describir posiciones en el espacio, jugar juegos de mesa con recorrido numérico —que tienen evidencia específica de mejorar el sentido de magnitud—. La observación del docente reemplaza a la prueba: se registra qué hace el niño ante una tarea de cantidad, no cuántos ejercicios completó.",
+ "limites":"El adelantamiento de operaciones escritas en el nivel no muestra ventajas y consume tiempo que rinde más en sentido numérico. Además, buena parte del material comercial etiquetado como matemático trabaja identificación de símbolos y no comprensión de cantidad; distinguirlo requiere criterio, porque su apariencia es convincente.",
+ "errores":[
+  "Confundir recitar la serie numérica con comprender la cardinalidad.",
+  "Introducir símbolos y operaciones escritas antes de que exista comprensión de cantidad."],
+ "criterios":[
+  "la secuencia evidencia comprensión de cardinalidad y comparación, no solo recitación;",
+  "las experiencias usan materiales y situaciones reales antes que representaciones simbólicas;"],
+ "preguntas":[
+  "¿Tus niños cuentan o recitan?",
+  "¿Qué situación cotidiana de tu jornada exige comparar cantidades de verdad?",
+  "¿Qué material de tu sala trabaja símbolos y no cantidad?"],
+ "lecturas":[
+  ["Clements, D. & Sarama, J. (2014). *Learning and Teaching Early Math: The Learning Trajectories Approach*.","describe trayectorias de aprendizaje matemático temprano con niveles y actividades verificables."],
+  ["Siegler, R. & Ramani, G. (2008). *Playing Linear Number Board Games Promotes Low-Income Children's Numerical Development*.","experimento breve y replicado; muestra un efecto concreto con una intervención de bajo costo."]],
+ "inclusion":"Las diferencias en experiencias matemáticas informales entre hogares aparecen antes del ingreso a la escuela. El trabajo sistemático en el nivel es una de las pocas oportunidades de reducir esa brecha antes de que se traduzca en una trayectoria de fracaso en matemática.",
+ "reto":"Evalúa la comprensión de cardinalidad de cinco niños de tu grupo con una tarea de conteo real. Diseña una intervención de juego para quienes no la dominan y mide el cambio en un mes.",
+ "conexion":"Es el antecedente directo de la clase 051 y se apoya en la clase 038, porque la vía de estos aprendizajes es el juego."},
+
+{"n":42,"evidencia":"CONSISTENTE",
+ "foco":"por qué el movimiento en el nivel no es recreo ni relleno sino contenido con objetivos propios",
+ "proposito":"Integrar corporalidad y movimiento como núcleo de aprendizaje con objetivos propios —control, coordinación, orientación espacial, conciencia corporal— y como condición de bienestar y regulación.",
+ "decision":"determinar qué objetivos corporales específicos vas a trabajar y cómo distinguirás avance de simple actividad física",
+ "entregable":"una planificación de experiencias corporales con objetivos, progresión y evidencia observable de logro",
+ "conceptos":[
+  ["Conciencia corporal","reconocimiento del propio cuerpo, sus partes, sus límites y sus posibilidades de acción"],
+  ["Coordinación","organización del movimiento en función de una intención; se desarrolla con práctica variada"],
+  ["Orientación espacial","comprensión de la posición y el desplazamiento propio y de los objetos en el espacio"],
+  ["Regulación por el movimiento","uso de la actividad física y de la calma corporal para modular el estado de activación"]],
+ "desarrollo":"El movimiento en la primera infancia cumple tres funciones simultáneas: es objetivo de aprendizaje, es vía de acceso a otros aprendizajes y es recurso de regulación. La evidencia sobre actividad física en la infancia respalda sus efectos en salud, sueño y disponibilidad atencional. Como contenido propio, la corporalidad tiene objetivos verificables que se pierden cuando el movimiento se reduce a tiempo libre entre actividades «importantes».",
+ "practica":"Planificar corporalidad implica declarar qué se busca —desplazarse esquivando obstáculos, coordinar dos acciones, mantener el equilibrio en distintas superficies, reconocer y nombrar partes del cuerpo— y diseñar experiencias con progresión. También implica distribuir el movimiento a lo largo de la jornada en vez de concentrarlo, porque su función reguladora depende del momento en que se ofrece.",
+ "limites":"Conviene distinguir lo respaldado de lo prometido: la actividad física mejora salud, sueño y estado atencional, pero los programas que prometen mejorar la lectura o la matemática mediante secuencias motoras específicas no cuentan con evidencia de transferencia. La corporalidad se justifica por sí misma; no necesita atribuirse efectos que no tiene.",
+ "errores":[
+  "Tratar el movimiento como recreo y no como núcleo con objetivos propios.",
+  "Adoptar programas que prometen efectos académicos directos a partir de secuencias motoras."],
+ "criterios":[
+  "cada experiencia declara un objetivo corporal observable y su progresión;",
+  "el movimiento está distribuido en la jornada y no concentrado en un solo momento;"],
+ "preguntas":[
+  "¿Qué objetivo corporal específico trabajaste esta semana?",
+  "¿Cómo sabrías que un niño avanzó en coordinación y no solo que se movió mucho?",
+  "¿En qué momento de tu jornada el movimiento cumple función reguladora?"],
+ "lecturas":[
+  ["Mineduc (2018). *Bases Curriculares de la Educación Parvularia*, núcleo Corporalidad y Movimiento.","define los objetivos del núcleo y su progresión por nivel."],
+  ["Organización Mundial de la Salud (2019). *Directrices sobre actividad física en menores de 5 años*.","recomendaciones respaldadas sobre cantidad y tipo de actividad por edad."]],
+ "inclusion":"Los niños con dificultades motoras suelen quedar fuera de las experiencias corporales colectivas y con ello pierden también participación social. Diseñar variantes de cada experiencia asegura que todos participen del mismo objetivo con distinta exigencia.",
+ "reto":"Registra el tiempo real de movimiento activo de tu jornada y compáralo con la recomendación vigente. Rediseña la jornada para acercarte y observa el efecto sobre la regulación del grupo.",
+ "conexion":"Aplica la clase 026 y se articula con la clase 039, porque el ambiente decide qué movimiento es posible."},
+
+{"n":43,"evidencia":"EMERGENTE",
+ "foco":"qué aprende un niño cuando dibuja, canta o construye, más allá del producto que entrega",
+ "proposito":"Trabajar el arte, la música y la expresión como lenguajes con valor propio, y distinguir la experiencia estética genuina de la manualidad decorativa dirigida por el adulto.",
+ "decision":"determinar si una actividad artística persigue la expresión del niño o la producción de un objeto para el adulto",
+ "entregable":"el rediseño de una actividad artística típica que devuelva al niño las decisiones estéticas y su justificación",
+ "conceptos":[
+  ["Lenguaje expresivo","modo de representar y comunicar experiencia mediante el arte, la música o el movimiento"],
+  ["Proceso y producto","distinción entre el valor de la experiencia creadora y el objeto resultante"],
+  ["Exploración sonora","investigación de sonido, ritmo y silencio como material propio de aprendizaje"],
+  ["Decisión estética","elección del niño sobre forma, color, material o secuencia; es donde ocurre el aprendizaje"]],
+ "desarrollo":"Cuando un niño elige el color, decide dónde poner la línea y cambia de idea a mitad del trabajo, está tomando decisiones, representando y resolviendo problemas. Cuando repite un modelo entregado por el adulto, ejercita motricidad y poco más. La diferencia no está en el material ni en el resultado visible sino en dónde reside la decisión, y eso es observable con facilidad en cualquier sala.",
+ "practica":"El rediseño típico consiste en devolver decisiones: ofrecer materiales en vez de moldes, plantear un desafío en vez de un modelo, permitir versiones distintas del mismo trabajo y documentar el proceso además del producto. En música, sustituir la reproducción de canciones por exploración de sonido, ritmo y silencio produce un tipo de aprendizaje distinto y más rico.",
+ "limites":"La investigación sobre efectos del arte en otros aprendizajes es débil y con frecuencia sobreinterpretada: las afirmaciones sobre música que aumenta la inteligencia no se sostienen en replicaciones. El arte se justifica por su valor propio como lenguaje y experiencia; sostenerlo con promesas de transferencia académica lo vuelve vulnerable cuando esas promesas no se cumplen.",
+ "errores":[
+  "Evaluar la actividad artística por el parecido del producto con el modelo del adulto.",
+  "Justificar el arte por supuestos efectos en el rendimiento académico que la evidencia no respalda."],
+ "criterios":[
+  "el rediseño identifica al menos tres decisiones que pasan del adulto al niño;",
+  "la documentación registra proceso y no solo el objeto terminado;"],
+ "preguntas":[
+  "¿Quién tomó las decisiones estéticas en la última actividad artística de tu sala?",
+  "¿Qué pasaría si dos trabajos del mismo desafío quedaran completamente distintos?",
+  "¿Cómo justificas el arte sin recurrir a promesas de mejora académica?"],
+ "lecturas":[
+  ["Eisner, E. (2002). *The Arts and the Creation of Mind*.","argumenta el valor cognitivo propio de las artes sin apelar a efectos de transferencia."],
+  ["Winner, E., Goldstein, T. & Vincent-Lancrin, S. (2013). *Art for Art's Sake? Overview*. OCDE.","revisa la evidencia sobre transferencia del arte a otros aprendizajes y desmonta las promesas infundadas."]],
+ "inclusion":"Los lenguajes expresivos ofrecen vías de participación a niños con dificultades de comunicación verbal, y por eso son especialmente valiosos para la inclusión. Requieren, eso sí, materiales accesibles y aceptación real de formas de expresión no convencionales.",
+ "reto":"Toma una actividad artística habitual de tu sala y elimina el modelo. Documenta la variedad de resultados y las decisiones que tomaron los niños.",
+ "conexion":"Se apoya en la clase 038 y alimenta la clase 046, porque el proceso creador es uno de los mejores objetos de documentación pedagógica."},
+
+{"n":44,"evidencia":"CONSISTENTE",
+ "foco":"cómo se enseña a investigar el mundo a alguien que todavía no lee ni escribe",
+ "proposito":"Diseñar experiencias de exploración del entorno natural, social y cultural que desarrollen observación, formulación de preguntas, comparación y registro con los medios propios de la edad.",
+ "decision":"determinar qué pregunta investigable puede sostener una indagación real con niños pequeños",
+ "entregable":"el diseño de una indagación completa con pregunta, exploración, registro con medios de la edad y comunicación de hallazgos",
+ "conceptos":[
+  ["Indagación","proceso de formular preguntas, explorar de forma deliberada y construir explicaciones con evidencia"],
+  ["Observación sistemática","mirar con un propósito definido y registrar lo observado de forma comparable"],
+  ["Registro no convencional","representación de lo observado mediante dibujo, fotografía, marcas o dictado al adulto"],
+  ["Entorno significativo","contexto natural, social o cultural conocido por el niño y disponible para su exploración"]],
+ "desarrollo":"Los niños investigan naturalmente; lo que la educación agrega es método. Sostener una pregunta durante varios días, mirar con propósito, comparar lo observado, registrar y volver sobre el registro son operaciones que no aparecen solas y que se pueden enseñar sin lectoescritura. Una indagación bien conducida en el nivel parvulario tiene la misma estructura lógica que una investigación posterior, con otros medios.",
+ "practica":"El diseño parte de una pregunta que el grupo pueda responder con lo que tiene a mano y que admita más de una respuesta: qué le pasa a esta planta si la ponemos allí, quién trabaja en nuestro barrio y a qué hora, qué hacen los pájaros que vienen al patio. Luego se explora, se registra con dibujos o fotografías, se compara y se comunica lo encontrado. El registro es lo que convierte la curiosidad en aprendizaje acumulable.",
+ "limites":"La indagación no sustituye la enseñanza de contenidos ni garantiza aprendizaje conceptual: sin mediación adulta que ofrezca vocabulario, explicaciones y comparaciones, los niños confirman lo que ya creían. La evidencia sobre indagación en general muestra que su eficacia depende del grado de guía, y en estas edades esa guía es imprescindible.",
+ "errores":[
+  "Plantear preguntas que el grupo no puede responder con los medios disponibles.",
+  "Dejar la exploración sin mediación y sin registro, con lo que no queda aprendizaje acumulable."],
+ "criterios":[
+  "la pregunta es investigable con los medios de la edad y admite más de una respuesta;",
+  "existe registro producido por los niños y una instancia de comunicación de hallazgos;"],
+ "preguntas":[
+  "¿Qué pregunta de tus niños podrías convertir en una indagación de dos semanas?",
+  "¿Con qué medio van a registrar lo que observen?",
+  "¿Qué vocabulario debes ofrecer para que la exploración produzca comprensión?"],
+ "lecturas":[
+  ["Mineduc (2018). *Bases Curriculares de la Educación Parvularia*, ámbito Interacción y Comprensión del Entorno.","define los objetivos de exploración del entorno natural, social y cultural."],
+  ["Harlen, W. (2015). *Working with Big Ideas of Science Education*.","orienta qué ideas conviene construir desde la infancia y cómo evitar explicaciones prematuras."]],
+ "inclusion":"El registro no convencional abre la indagación a todos los niños, incluidos quienes tienen dificultades de comunicación o de motricidad fina. Ofrecer varios medios de registro es, otra vez, diseño universal aplicado al nivel.",
+ "reto":"Conduce una indagación de dos semanas a partir de una pregunta genuina de tu grupo. Documenta los registros de los niños y la variación entre el inicio y el cierre.",
+ "conexion":"Anticipa la clase 052 (didáctica de las ciencias) y se apoya en la clase 046, que aporta el sistema de registro del nivel."},
+
+{"n":45,"evidencia":"CONSISTENTE",
+ "foco":"cómo se enseña a convivir a quien todavía está construyendo la capacidad de esperar, compartir y nombrar lo que siente",
+ "proposito":"Trabajar el desarrollo socioemocional del nivel como enseñanza explícita y como diseño de condiciones: identificar emociones, regularse con apoyo, resolver conflictos y participar del grupo.",
+ "decision":"determinar cómo intervenir en un conflicto entre niños de modo que ambos aprendan algo",
+ "entregable":"un protocolo propio de mediación de conflictos entre niños pequeños, con el guion del adulto paso a paso",
+ "conceptos":[
+  ["Identificación emocional","capacidad de reconocer y nombrar la propia emoción y la de otro"],
+  ["Corregulación","apoyo del adulto que presta calma y lenguaje mientras el niño no puede regularse solo"],
+  ["Mediación de conflictos","intervención que sostiene a ambos niños y convierte el conflicto en aprendizaje social"],
+  ["Participación en el grupo","habilidades para entrar en el juego, sostener el turno y reparar tras un desacuerdo"]],
+ "desarrollo":"Los conflictos entre niños pequeños no son fallas de la convivencia: son la situación de aprendizaje social por excelencia. Lo que determina si producen aprendizaje es la respuesta del adulto. Resolver por decreto —separar, castigar, imponer la solución— termina el conflicto y no enseña nada; mediar, en cambio, exige tiempo y un guion que la mayoría de los equipos nunca ha explicitado.",
+ "practica":"Un protocolo eficaz tiene pasos simples y sostenidos: detener la escalada garantizando seguridad, nombrar lo que ocurre y lo que cada uno siente, dar voz a ambos, buscar una solución que los dos acepten, y volver más tarde a comprobar. Escribir ese guion y usarlo con consistencia produce, en pocos meses, niños que empiezan a aplicar los mismos pasos entre ellos.",
+ "limites":"La corregulación exige disponibilidad adulta, y esa disponibilidad depende de la proporción adulto-niño: un protocolo excelente es inaplicable si una persona sola atiende a un grupo numeroso. Reconocer esa condición material evita responsabilizar al equipo de una limitación estructural. Además, los programas socioemocionales rinden poco cuando se aplican como paquete sin ajuste al contexto.",
+ "errores":[
+  "Resolver el conflicto por decreto y perder la única situación de aprendizaje social disponible.",
+  "Exigir disculpas verbales inmediatas como sustituto de la reparación real."],
+ "criterios":[
+  "el protocolo detalla el guion del adulto paso a paso y no solo su intención;",
+  "incluye el retorno posterior para verificar que la solución se sostuvo;"],
+ "preguntas":[
+  "¿Qué dices exactamente en los primeros diez segundos de un conflicto?",
+  "¿Qué aprende cada uno de los dos niños con tu intervención habitual?",
+  "¿Qué condición material impide hoy mediar como corresponde en tu sala?"],
+ "lecturas":[
+  ["Denham, S. (1998). *Emotional Development in Young Children*.","describe la secuencia del desarrollo emocional y sus implicancias para la intervención adulta."],
+  ["Gloeckler, L. & Cassell, J. (2012). *Teacher Practices with Toddlers during Social Problem Solving Opportunities*.","documenta qué hacen efectivamente los adultos ante conflictos y qué prácticas enseñan más."]],
+ "inclusion":"Los niños con dificultades de comunicación quedan en desventaja en cualquier mediación basada solo en el lenguaje verbal. Incorporar apoyos visuales y gestuales al protocolo permite que participen del proceso en vez de recibir la solución impuesta.",
+ "reto":"Escribe tu guion de mediación, aplícalo durante un mes con consistencia y registra si los niños empiezan a usar alguno de sus pasos por sí solos.",
+ "conexion":"Aplica las clases 029 y 030 al nivel y es el antecedente temprano de toda la parte 12."},
+
+{"n":46,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"cómo se evalúa el aprendizaje en un nivel donde no corresponde aplicar pruebas",
+ "proposito":"Instalar la observación y la documentación pedagógica como sistema de evaluación del nivel: recoger evidencia de aprendizaje de forma sistemática, interpretarla en equipo y usarla para decidir.",
+ "decision":"determinar qué evidencia vas a recoger, con qué frecuencia y qué decisión tomarás con ella",
+ "entregable":"un sistema de documentación pedagógica con instrumentos, periodicidad y un ejemplo completo de interpretación y decisión",
+ "conceptos":[
+  ["Observación sistemática","registro planificado de conductas específicas, con foco y criterio definidos de antemano"],
+  ["Documentación pedagógica","conjunto de registros que hace visible el aprendizaje y permite interpretarlo en equipo"],
+  ["Registro anecdótico","descripción breve, fechada y objetiva de un episodio significativo"],
+  ["Interpretación en equipo","análisis colectivo de la evidencia; reduce el sesgo individual del observador"]],
+ "desarrollo":"En un nivel sin pruebas, la evidencia proviene de la observación, y la diferencia entre observación profesional y opinión está en el método: foco definido, registro fechado, descripción de lo que se vio antes que de lo que se interpretó, y revisión con otros. La documentación cumple además una función que ninguna prueba cumple: hace visible el proceso, no solo el resultado, y permite mostrar a la familia y al equipo lo que efectivamente ocurrió.",
+ "practica":"Un sistema realista define pocos instrumentos y los sostiene: registros anecdóticos breves, evidencias de trabajo con fecha, y una pauta de observación focalizada por período. Lo que convierte esto en evaluación es el paso final: interpretar y decidir. Documentación que no cambia ninguna decisión pedagógica es archivo, no evaluación.",
+ "limites":"La observación es vulnerable al sesgo: se registra más al niño que llama la atención, se interpreta lo que confirma la impresión previa y se olvida a quienes pasan desapercibidos. Los antídotos son procedimentales —rotación explícita del foco, descripción antes que interpretación, revisión en equipo— y no eliminan el sesgo, solo lo reducen.",
+ "errores":[
+  "Registrar interpretaciones —«está desmotivado»— en vez de conductas observables.",
+  "Documentar de forma abundante sin que ningún registro cambie una decisión."],
+ "criterios":[
+  "el sistema declara qué se observa, con qué frecuencia y con qué instrumento;",
+  "el ejemplo muestra el recorrido completo de registro a interpretación y a decisión;"],
+ "preguntas":[
+  "¿Qué niño de tu grupo tiene menos registros y por qué?",
+  "¿Qué decisión pedagógica cambiaste el mes pasado por lo que observaste?",
+  "¿Cómo distingues en tu registro lo que viste de lo que interpretaste?"],
+ "lecturas":[
+  ["Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.","fundamenta la documentación pedagógica como práctica de investigación del propio equipo."],
+  ["Mineduc. *Orientaciones para la evaluación en educación parvularia*.","define en Chile el enfoque y los instrumentos esperados en el nivel."]],
+ "inclusion":"Los niños silenciosos y los que tienen dificultades de comunicación son sistemáticamente subregistrados. Un sistema con rotación explícita del foco garantiza que la evidencia exista para todos, que es condición para detectar necesidades de apoyo a tiempo.",
+ "reto":"Aplica tu sistema durante tres semanas y revisa cuántos registros tiene cada niño. Corrige la distribución y contrasta tu interpretación de un caso con la de una colega.",
+ "conexion":"Es la versión del nivel de lo que la parte 11 desarrolla técnicamente. Alimenta la clase 048 y el trabajo con familias de la clase 047."},
+
+{"n":47,"evidencia":"CONSISTENTE",
+ "foco":"qué hace que la participación de las familias mejore el aprendizaje y qué la convierte en trámite",
+ "proposito":"Construir alianza con familias como parte del diseño pedagógico: acordar propósitos, informar con evidencia y sostener prácticas de crianza y aprendizaje coherentes entre el hogar y el jardín.",
+ "decision":"determinar qué participación familiar vas a promover y cómo comprobarás que mejoró algo",
+ "entregable":"un plan de trabajo con familias con acciones, responsables, periodicidad e indicador de efecto",
+ "conceptos":[
+  ["Alianza educativa","relación de colaboración con propósitos compartidos entre el equipo y las familias"],
+  ["Participación con foco en el aprendizaje","involucramiento centrado en lo que el niño aprende, no solo en tareas logísticas"],
+  ["Comunicación bidireccional","intercambio en que la familia también aporta información que modifica la práctica"],
+  ["Prácticas del hogar","rutinas familiares de lectura, conversación y juego que sostienen el aprendizaje"]],
+ "desarrollo":"La evidencia distingue tipos de participación: la que se centra en el aprendizaje del niño —conversar, leer juntos, sostener rutinas, tener expectativas claras— se asocia con mejores resultados; la que se limita a asistir a actos, aportar materiales o colaborar en la logística, no. Esa distinción es decisiva porque la mayoría de los planes de participación se concentra en la segunda, que es más fácil de organizar y produce menos.",
+ "practica":"Un plan útil define pocas acciones con foco en el aprendizaje: sugerencias concretas y realistas para el hogar, comunicación regular con evidencia del proceso del niño, y espacios donde la familia aporte información que efectivamente modifique la práctica del equipo. La periodicidad importa más que la intensidad, y la evidencia compartida importa más que los mensajes generales de aliento.",
+ "limites":"Las condiciones familiares limitan lo que es posible: jornadas laborales extensas, hacinamiento, monoparentalidad o baja escolaridad hacen inviables algunas sugerencias bien intencionadas. Un plan que exige lo que la familia no puede dar produce culpa y aleja. Además, la evidencia proviene mayormente de estudios correlacionales, de modo que conviene ser prudente con las afirmaciones causales.",
+ "errores":[
+  "Concentrar la participación en logística y actos, que es la que menos efecto tiene.",
+  "Proponer prácticas de hogar que la situación real de la familia no permite sostener."],
+ "criterios":[
+  "el plan incluye al menos dos acciones centradas en el aprendizaje y no en logística;",
+  "cada acción declara un indicador de efecto y no solo de realización;"],
+ "preguntas":[
+  "¿Qué proporción de tu trabajo con familias se centra en lo que el niño aprende?",
+  "¿Qué información aportada por una familia cambió tu práctica este año?",
+  "¿Qué sugerencia tuya es imposible de cumplir para las familias de tu grupo?"],
+ "lecturas":[
+  ["Desforges, C. & Abouchaar, A. (2003). *The Impact of Parental Involvement, Parental Support and Family Education on Pupil Achievement*.","distingue con evidencia qué formas de participación se asocian con aprendizaje y cuáles no."],
+  ["Epstein, J. (2011). *School, Family, and Community Partnerships*.","marco operativo de tipos de participación; útil para diseñar y auditar un plan."]],
+ "inclusion":"Las familias migrantes, con baja escolaridad o con hijos con discapacidad participan menos cuando la comunicación asume conocimientos y códigos que no comparten. Traducir, simplificar y ofrecer canales alternativos no es un extra: es condición para que el plan alcance a quienes más lo necesitan.",
+ "reto":"Revisa tu plan actual y clasifica cada acción según si se centra en el aprendizaje o en la logística. Sustituye dos acciones logísticas por acciones con foco en el aprendizaje y evalúa el resultado.",
+ "conexion":"Se apoya en la clase 046, porque la documentación es el mejor material para comunicar con familias, y anticipa la parte 12."},
+
+{"n":48,"evidencia":"MARCO-NORMATIVO",
+ "foco":"cómo se integra todo el nivel en una experiencia pedagógica completa, documentada y defendible",
+ "proposito":"Integrar la parte diseñando, ejecutando y documentando una experiencia de aprendizaje parvularia completa, con intención explícita, ambiente preparado, mediación planificada y evidencia recogida.",
+ "decision":"determinar el conjunto completo de decisiones de una experiencia y justificar cada una con los principios del nivel",
+ "entregable":"una experiencia parvularia completa —planificación, ambiente, mediación, documentación y análisis posterior—",
+ "conceptos":[
+  ["Experiencia de aprendizaje","situación diseñada con intención pedagógica que integra ambiente, mediación y evidencia"],
+  ["Coherencia interna","correspondencia entre objetivo, ambiente, mediación y evidencia recogida"],
+  ["Mediación planificada","previsión de qué dirá y hará el adulto para ampliar el aprendizaje durante la experiencia"],
+  ["Análisis posterior","revisión de la evidencia para decidir qué se conserva, qué se ajusta y qué sigue"]],
+ "desarrollo":"El proyecto integrador exige que las decisiones que la parte trabajó por separado se sostengan juntas y sin contradicción. Es frecuente encontrar planificaciones con objetivos ambiciosos, ambientes que no los permiten y evaluaciones que miden otra cosa. La coherencia interna es el criterio central de esta evaluación, y se comprueba leyendo la experiencia completa de principio a fin.",
+ "practica":"El trabajo tiene cuatro momentos: planificar declarando intención y evidencia esperada; preparar el ambiente para que la conducta buscada sea posible; mediar según lo previsto, ajustando en el momento; y documentar y analizar para decidir qué sigue. El análisis posterior es la parte que más se omite y la que convierte una actividad aislada en aprendizaje profesional acumulable.",
+ "limites":"Una experiencia bien diseñada no garantiza aprendizaje en todos los niños, y su evidencia es limitada: registra lo observado en un momento y en un contexto. Presentarla como demostración de logro sería sobreinterpretar. Su valor está en la coherencia del diseño y en la calidad de la evidencia recogida, no en probar un efecto.",
+ "errores":[
+  "Planificar objetivos que el ambiente preparado no permite alcanzar.",
+  "Omitir el análisis posterior y con ello perder el aprendizaje profesional de la experiencia."],
+ "criterios":[
+  "objetivo, ambiente, mediación y evidencia son coherentes entre sí y se puede mostrar cómo;",
+  "el análisis posterior concluye con una decisión concreta sobre qué sigue;"],
+ "preguntas":[
+  "¿Qué parte de tu experiencia no resiste la pregunta por su coherencia?",
+  "¿Qué evidencia recogiste que contradice tu impresión de cómo salió?",
+  "¿Qué decidiste hacer distinto y con qué fundamento?"],
+ "lecturas":[
+  ["Mineduc (2018). *Bases Curriculares de la Educación Parvularia*.","referencia obligatoria para objetivos y coherencia curricular del nivel."],
+  ["Rinaldi, C. (2006). *In Dialogue with Reggio Emilia*.","modelo de cómo documentar y analizar una experiencia para aprender de ella como equipo."]],
+ "inclusion":"La prueba de calidad de la experiencia es qué ocurrió con el niño que más apoyo necesita. Si la documentación no permite responder eso, el diseño no cumplió con el principio de singularidad que declara.",
+ "reto":"Ejecuta la experiencia, documenta y analiza en equipo. Presenta el análisis a una colega y pídele que identifique la mayor incoherencia entre lo planificado y lo ocurrido.",
+ "conexion":"Cierra la parte 03 integrando sus once clases previas. Es el modelo de trabajo que las partes 04 y 05 replican con otras poblaciones."}
+]

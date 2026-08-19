@@ -1,0 +1,361 @@
+[
+{"n":157,"evidencia":"MARCO-NORMATIVO",
+ "foco":"qué significa ser digitalmente competente como docente, más allá de saber usar las herramientas",
+ "proposito":"Definir la competencia digital docente como capacidad pedagógica: seleccionar, diseñar, evaluar y usar tecnología en función del aprendizaje, con criterio ético y de protección de datos.",
+ "decision":"determinar qué competencia digital necesitas desarrollar para las decisiones que tu contexto te exige",
+ "entregable":"una autoevaluación de competencia digital contrastada con un marco de referencia y un plan de desarrollo priorizado",
+ "conceptos":[
+  ["Competencia digital docente","capacidad de usar tecnología con criterio pedagógico, ético y de seguridad"],
+  ["Marco de competencias","referencia estructurada que ordena áreas y niveles de desarrollo profesional digital"],
+  ["Criterio de selección","fundamento para decidir si una herramienta aporta a un objetivo de aprendizaje"],
+  ["Alfabetización de datos","capacidad de interpretar los datos que las plataformas producen sobre los estudiantes"]],
+ "desarrollo":"La competencia digital docente no se mide por la cantidad de herramientas que se dominan sino por la calidad de las decisiones que se toman con ellas. Los marcos de referencia internacionales coinciden en un núcleo: uso profesional, selección y creación de recursos, enseñanza y evaluación mediadas, empoderamiento de los estudiantes y desarrollo de su competencia digital. A eso se suma un componente que se volvió urgente: protección de datos y criterio ético.",
+ "practica":"La autoevaluación contra un marco revela vacíos que la práctica cotidiana oculta. El plan de desarrollo debe priorizar por necesidad real: si tu contexto exige evaluación en línea con resguardo de datos, esa competencia precede a cualquier otra. Aprender herramientas sin necesidad definida produce acumulación de aplicaciones y ninguna mejora del aprendizaje.",
+ "limites":"Los marcos de competencia son normativos: describen lo deseable sin demostrar que su desarrollo mejore los aprendizajes. Y envejecen rápido, porque la tecnología cambia más rápido que su revisión. Úsalos como estructura para ordenar el desarrollo profesional, no como evidencia de eficacia.",
+ "errores":[
+  "Confundir dominio de herramientas con competencia digital pedagógica.",
+  "Adoptar herramientas por acumulación y sin necesidad definida por un objetivo de aprendizaje."],
+ "criterios":[
+  "la autoevaluación se contrasta con un marco de referencia identificado;",
+  "el plan prioriza competencias por necesidad real del contexto y no por novedad;"],
+ "preguntas":[
+  "¿Qué decisión tecnológica de tu contexto no sabes tomar hoy con fundamento?",
+  "¿Cuántas herramientas usas y cuántas aportan a un objetivo verificable?",
+  "¿Qué sabes sobre los datos que recogen las plataformas que usas?"],
+ "lecturas":[
+  ["Comisión Europea. *DigCompEdu: Marco Europeo para la Competencia Digital de los Educadores*.","el marco más usado para estructurar áreas y niveles de competencia digital docente."],
+  ["UNESCO. *Marco de competencias en TIC para docentes*.","referencia internacional complementaria, con foco en política y sistemas educativos."]],
+ "inclusion":"La competencia digital docente incluye saber producir material accesible: documentos estructurados, subtítulos, contraste y compatibilidad con tecnología de apoyo. Sin eso, la digitalización excluye a los estudiantes que más dependen de ella.",
+ "reto":"Aplica la autoevaluación, escoge la competencia más crítica para tu contexto y desarróllala con una acción concreta durante un mes.",
+ "conexion":"Abre la parte 13 y condiciona el criterio con que se abordan todas las clases siguientes."},
+
+{"n":158,"evidencia":"CONSISTENTE",
+ "foco":"qué decide realmente el aprendizaje en un aula virtual, si no es la plataforma",
+ "proposito":"Diseñar aulas virtuales que sostengan el aprendizaje: estructura clara, presencia docente, interacción con propósito y evaluación coherente, con independencia de la plataforma elegida.",
+ "decision":"determinar qué estructura y qué presencia docente sostendrán el aprendizaje en tu aula virtual",
+ "entregable":"el diseño de un aula virtual con estructura, plan de presencia docente e interacción con propósito",
+ "conceptos":[
+  ["Aula virtual","espacio digital que organiza materiales, actividades, interacción y evaluación de un curso"],
+  ["Presencia docente","conjunto de acciones visibles del docente que sostienen el curso y a los estudiantes"],
+  ["Estructura","organización predecible del espacio que reduce la carga de navegación y de gestión"],
+  ["Interacción con propósito","actividad de intercambio diseñada para un objetivo y no por sí misma"]],
+ "desarrollo":"La investigación sobre educación en línea es consistente en un punto: la plataforma explica poco y el diseño explica mucho. Los cursos que funcionan tienen estructura predecible, presencia docente visible y regular, expectativas explícitas y actividades con propósito. Los que fracasan acumulan materiales sin secuencia, delegan la interacción a foros sin función y dejan al estudiante solo con su autorregulación.",
+ "practica":"El diseño define la estructura semanal —qué encuentra el estudiante y en qué orden—, el plan de presencia docente —cuándo aparece el docente, con qué frecuencia y con qué tipo de intervención— y las actividades de interacción con su objetivo declarado. Un foro sin propósito produce participación obligatoria y vacía; uno con función clara sostiene el aprendizaje.",
+ "limites":"La comparación entre modalidades presencial y en línea rinde poco: las diferencias observadas se explican mejor por el diseño, el tiempo dedicado y las características de los estudiantes que por el medio. Y la educación en línea amplifica la desigualdad de condiciones: conectividad, dispositivo, espacio y tiempo no están distribuidos por igual.",
+ "errores":[
+  "Trasladar el curso presencial a la plataforma sin rediseñar la secuencia ni la evaluación.",
+  "Exigir participación en foros sin un objetivo de aprendizaje que la justifique."],
+ "criterios":[
+  "la estructura es predecible y el estudiante sabe qué hacer sin preguntar;",
+  "el plan de presencia docente declara frecuencia y tipo de intervención;"],
+ "preguntas":[
+  "¿Puede un estudiante nuevo saber qué hacer sin escribirte?",
+  "¿Cada cuánto apareces efectivamente en el aula virtual y para qué?",
+  "¿Qué objetivo cumple cada foro de tu curso?"],
+ "lecturas":[
+  ["Garrison, D., Anderson, T. & Archer, W. (2000). *Critical Inquiry in a Text-Based Environment*.","modelo de presencia docente, social y cognitiva; sigue siendo el marco más usado."],
+  ["Means, B. et al. (2013). *The Effectiveness of Online and Blended Learning*. Teachers College Record.","síntesis que muestra que el diseño y el tiempo explican más que la modalidad."]],
+ "inclusion":"Las condiciones de conectividad, dispositivo y espacio de estudio son muy desiguales. Ofrecer materiales descargables, formatos livianos y alternativas asincrónicas evita que el diseño excluya por infraestructura.",
+ "reto":"Rediseña la estructura de una unidad en tu aula virtual y aplica un plan de presencia docente. Compara la participación y la entrega con la unidad anterior.",
+ "conexion":"Se apoya en la clase 118 y sostiene la implementación de las clases 130 y 168."},
+
+{"n":159,"evidencia":"ROBUSTA",
+ "foco":"qué combinación de texto, imagen y audio ayuda a aprender y cuál estorba",
+ "proposito":"Diseñar recursos digitales aplicando los principios empíricos del aprendizaje multimedia: coherencia, señalización, redundancia, contigüidad, segmentación y modalidad.",
+ "decision":"determinar qué elementos de tu recurso están ayudando y cuáles solo aumentan la carga",
+ "entregable":"un recurso digital rediseñado con los principios aplicados y la justificación de cada cambio",
+ "conceptos":[
+  ["Principio de coherencia","eliminar todo elemento que no contribuye al objetivo, aunque resulte atractivo"],
+  ["Principio de redundancia","evitar presentar el mismo texto por escrito y en audio simultáneamente"],
+  ["Contigüidad espacial y temporal","situar juntos en el espacio y en el tiempo los elementos que deben integrarse"],
+  ["Segmentación","dividir la presentación en tramos con control del ritmo por parte del estudiante"]],
+ "desarrollo":"Los principios del aprendizaje multimedia están entre los hallazgos más replicados de la investigación instruccional, y casi todos son contraintuitivos para quien diseña material: agregar música de fondo, imágenes decorativas o texto que repite el audio empeora el aprendizaje, aunque el material resulte más atractivo. La razón es la capacidad limitada de procesamiento, no el gusto del estudiante.",
+ "practica":"El rediseño es un ejercicio de eliminación: quitar lo decorativo, integrar la leyenda dentro de la imagen, evitar leer en voz alta el texto en pantalla, dividir la presentación en segmentos con control del estudiante. Cada cambio se justifica por un principio, lo que permite discutir el diseño con criterio y no con preferencias estéticas.",
+ "limites":"Algunos principios se invierten con la experticia: la información redundante que estorba al novato puede ayudar al experto, y el andamiaje detallado deja de ser útil cuando el esquema ya existe. Además, los estudios se realizaron mayormente en condiciones controladas y con materiales breves.",
+ "errores":[
+  "Agregar elementos decorativos porque hacen el material más atractivo.",
+  "Leer en voz alta el mismo texto que el estudiante está leyendo en pantalla."],
+ "criterios":[
+  "cada cambio del rediseño se justifica con un principio identificado;",
+  "el recurso declara para qué nivel de conocimiento previo está optimizado;"],
+ "preguntas":[
+  "¿Qué elemento de tu material no contribuye a ningún objetivo?",
+  "¿Dónde estás duplicando el mismo contenido en dos canales a la vez?",
+  "¿Quién controla el ritmo de tu presentación?"],
+ "lecturas":[
+  ["Mayer, R. (2021). *Multimedia Learning* (3.ª ed.).","los principios con su evidencia experimental y sus condiciones límite."],
+  ["Clark, R. & Mayer, R. (2016). *e-Learning and the Science of Instruction*.","traduce los principios a decisiones de diseño de material y de cursos en línea."]],
+ "inclusion":"Un recurso bien diseñado según estos principios suele ser también más accesible: menos ruido visual, mejor estructura y control del ritmo benefician a estudiantes con dificultades atencionales, sensoriales o de lectura.",
+ "reto":"Rediseña un recurso propio aplicando al menos tres principios. Pruébalo con estudiantes y compara la comprensión con la versión anterior.",
+ "conexion":"Aplica las clases 018 y 019 y es la base técnica de los materiales de la clase 168."},
+
+{"n":160,"evidencia":"EN-DEBATE",
+ "foco":"qué produce realmente la gamificación cuando se retiran los puntos",
+ "proposito":"Evaluar la gamificación con criterio: distinguir mecánicas que apoyan el aprendizaje de las que solo agregan recompensas externas, y anticipar sus efectos sobre la motivación.",
+ "decision":"determinar qué mecánica de juego aporta a tu objetivo de aprendizaje y cuál solo agrega ruido",
+ "entregable":"el diseño de una experiencia gamificada con la mecánica justificada y su plan de evaluación del efecto",
+ "conceptos":[
+  ["Gamificación","uso de elementos de juego en contextos no lúdicos para influir en la conducta"],
+  ["Mecánica","componente concreto: puntos, niveles, insignias, tablas de posición, narrativa, desafío"],
+  ["Motivación externa","impulso derivado de la recompensa y no del interés en la tarea"],
+  ["Efecto de novedad","mejora inicial que desaparece cuando el elemento deja de ser nuevo"]],
+ "desarrollo":"La evidencia sobre gamificación muestra efectos positivos pequeños, muy heterogéneos y frecuentemente atribuibles al efecto de novedad. Las mecánicas más usadas —puntos, insignias y tablas de posición— son también las más problemáticas: agregan motivación externa a una tarea, pueden reducir el interés propio y las tablas de posición desmotivan sistemáticamente a quienes están en la parte baja.",
+ "practica":"Las mecánicas con mejor fundamento son las que se conectan con mecanismos de aprendizaje: desafío ajustado al nivel, retroalimentación inmediata, progresión visible del propio avance y posibilidad de reintentar sin costo. Todas ellas se pueden implementar sin puntos ni competencia, y son precisamente las que sostienen el efecto cuando la novedad se agota.",
+ "limites":"La comparación entre estudios es difícil porque el término abarca intervenciones muy distintas, y muchos trabajos miden satisfacción y no aprendizaje. Además, la duración de los estudios rara vez permite distinguir efecto real de efecto de novedad. Prometer aumentos de aprendizaje por gamificar excede lo que la evidencia sostiene.",
+ "errores":[
+  "Usar tablas de posición públicas, que desmotivan a quienes más apoyo necesitan.",
+  "Evaluar la gamificación por la satisfacción declarada y no por el aprendizaje verificado."],
+ "criterios":[
+  "cada mecánica se justifica por el mecanismo de aprendizaje al que apoya;",
+  "el plan de evaluación mide aprendizaje y no solo participación o satisfacción;"],
+ "preguntas":[
+  "¿Qué mecánica de tu diseño sobreviviría a la desaparición de la novedad?",
+  "¿A quién desmotiva tu tabla de posiciones?",
+  "¿Qué pasa con la conducta cuando retiras los puntos?"],
+ "lecturas":[
+  ["Sailer, M. & Homner, L. (2020). *The Gamification of Learning: A Meta-Analysis*.","síntesis con efectos, moderadores y limitaciones metodológicas."],
+  ["Deci, E., Koestner, R. & Ryan, R. (1999). *Meta-Analytic Review of Extrinsic Rewards*.","fundamenta el riesgo de sustituir interés propio por recompensa externa."]],
+ "inclusion":"Las mecánicas competitivas y públicas perjudican a los estudiantes con menor desempeño, que son quienes menos margen tienen para perder motivación. La progresión individual visible produce el mismo efecto motivador sin ese costo.",
+ "reto":"Diseña una experiencia con progresión individual y sin competencia pública. Compara aprendizaje y participación con una versión basada en puntos.",
+ "conexion":"Se apoya en la clase 022 y comparte criterio de evaluación con la clase 095."},
+
+{"n":161,"evidencia":"EMERGENTE",
+ "foco":"qué se puede decidir con los datos que las plataformas producen y qué es sobreinterpretación",
+ "proposito":"Usar analítica de aprendizaje con criterio: qué indicadores tienen valor pedagógico, qué decisiones justifican y qué límites éticos y técnicos tienen.",
+ "decision":"determinar qué indicador de tu plataforma justifica una intervención pedagógica concreta",
+ "entregable":"un tablero de analítica con indicadores, decisiones asociadas y límites de interpretación declarados",
+ "conceptos":[
+  ["Analítica de aprendizaje","recolección y análisis de datos sobre estudiantes para comprender y mejorar el aprendizaje"],
+  ["Indicador de proceso","medida de actividad —accesos, tiempo, entregas— que no equivale a aprendizaje"],
+  ["Alerta temprana","señal derivada de datos que anticipa riesgo de rezago o de abandono"],
+  ["Límite de interpretación","frontera entre lo que el dato muestra y lo que se le atribuye"]],
+ "desarrollo":"Las plataformas producen abundantes datos de actividad y muy pocos de aprendizaje. Tiempo de conexión, número de accesos y clics indican comportamiento, no comprensión: un estudiante puede tener la pestaña abierta sin leer nada, y otro puede aprender fuera de la plataforma. El uso defendible es el de alerta temprana —detectar inactividad prolongada o entregas faltantes— seguido de contacto humano.",
+ "practica":"El tablero útil incluye pocos indicadores con decisiones asociadas: si un estudiante no entrega dos actividades seguidas, se contacta; si el rendimiento en una actividad cae bajo un umbral en el grupo, se reenseña. Y cada indicador declara su límite de interpretación para evitar que se use como medida de esfuerzo o de compromiso.",
+ "limites":"La analítica plantea problemas éticos serios: vigilancia, perfilamiento, efectos de expectativa cuando el docente ve una predicción de riesgo, y sesgos de los modelos que la producen. Además, casi toda la evidencia disponible proviene de educación superior en línea y no se traslada sin más a otros contextos.",
+ "errores":[
+  "Interpretar tiempo de conexión o número de accesos como medida de esfuerzo o de aprendizaje.",
+  "Usar predicciones de riesgo sin protocolo de intervención ni resguardo de los datos."],
+ "criterios":[
+  "cada indicador tiene una decisión pedagógica asociada y un límite de interpretación declarado;",
+  "el uso de datos declara base legal, resguardo y quién accede;"],
+ "preguntas":[
+  "¿Qué mide realmente el indicador que estás usando?",
+  "¿Qué haces cuando el sistema marca a un estudiante en riesgo?",
+  "¿Quién puede ver estos datos y con qué justificación?"],
+ "lecturas":[
+  ["Siemens, G. & Gašević, D. *Learning Analytics: fundamentos y aplicaciones*.","introducción al campo, sus métodos y sus límites."],
+  ["Slade, S. & Prinsloo, P. (2013). *Learning Analytics: Ethical Issues and Dilemmas*.","sistematiza los problemas éticos del uso de datos de estudiantes."]],
+ "inclusion":"Los modelos de riesgo entrenados con datos históricos reproducen las desigualdades que contienen y pueden etiquetar a estudiantes por su origen. Cualquier alerta debe activar apoyo, nunca expectativas más bajas.",
+ "reto":"Construye tu tablero con tres indicadores y decisiones asociadas. Aplícalo un mes y evalúa cuántas intervenciones produjo y con qué resultado.",
+ "conexion":"Se conecta con la clase 011 sobre indicadores y con la clase 167 sobre resguardo de datos."},
+
+{"n":162,"evidencia":"EMERGENTE",
+ "foco":"qué hacen realmente los sistemas que prometen adaptarse a cada estudiante",
+ "proposito":"Evaluar sistemas de aprendizaje adaptativo con criterio técnico: qué adaptan, con qué modelo, con qué evidencia de efecto y qué decisiones pedagógicas delegan.",
+ "decision":"determinar si un sistema adaptativo aporta a tu objetivo o solo automatiza la asignación de ejercicios",
+ "entregable":"una evaluación fundamentada de un sistema adaptativo con sus supuestos, su evidencia y sus riesgos",
+ "conceptos":[
+  ["Aprendizaje adaptativo","sistema que ajusta contenido o dificultad según el desempeño del estudiante"],
+  ["Modelo del estudiante","representación interna que el sistema construye sobre lo que el estudiante sabe"],
+  ["Ruta adaptativa","secuencia individualizada que el sistema propone a partir de su modelo"],
+  ["Delegación pedagógica","decisiones de enseñanza que quedan en manos del sistema y no del docente"]],
+ "desarrollo":"Los sistemas adaptativos varían enormemente: algunos ajustan solo la dificultad de ejercicios, otros modelan conocimiento con precisión razonable. La evidencia sobre tutores inteligentes en dominios bien estructurados —matemática, programación— es más favorable que la de sistemas generalistas, y en todos los casos los efectos dependen de la calidad del modelo de dominio subyacente.",
+ "practica":"La evaluación de un sistema debe preguntar qué adapta exactamente, con qué información construye su modelo, qué evidencia de eficacia presenta y qué decisiones deja al docente. Un sistema que solo reordena ejercicios por dificultad no es adaptativo en sentido fuerte, aunque se anuncie así.",
+ "limites":"Buena parte de la evidencia proviene de los propios proveedores y con diseños débiles. Además, la adaptación puede reducir la exposición a contenido desafiante y consolidar trayectorias divergentes: quien empieza atrás recibe siempre lo más fácil. Esa consecuencia debe vigilarse explícitamente.",
+ "errores":[
+  "Adoptar un sistema por su descripción comercial sin evaluar qué adapta y con qué evidencia.",
+  "Delegar la ruta de aprendizaje sin revisar si el sistema está reduciendo la exigencia a los mismos estudiantes."],
+ "criterios":[
+  "la evaluación identifica qué adapta el sistema y con qué modelo;",
+  "declara la evidencia de eficacia disponible y su origen;"],
+ "preguntas":[
+  "¿Qué adapta exactamente el sistema que estás considerando?",
+  "¿Qué evidencia independiente respalda sus resultados?",
+  "¿A qué estudiantes les está ofreciendo siempre lo más fácil?"],
+ "lecturas":[
+  ["VanLehn, K. (2011). *The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems*.","compara efectos con rigor y ordena expectativas sobre lo que estos sistemas logran."],
+  ["Koedinger, K. & Aleven, V. (2007). *Exploring the Assistance Dilemma*.","analiza cuánta ayuda debe dar un sistema y cuándo la ayuda excesiva perjudica."]],
+ "inclusion":"La adaptación puede convertirse en segregación algorítmica si los estudiantes con menor desempeño quedan permanentemente en rutas de menor exigencia. Vigilar la distribución de contenido por estudiante es parte del uso responsable.",
+ "reto":"Evalúa un sistema adaptativo real con tus criterios. Revisa qué contenido recibió cada estudiante durante un mes y si la exigencia se distribuyó de forma justificable.",
+ "conexion":"Se apoya en la clase 127 y se articula con las clases 165 y 168."},
+
+{"n":163,"evidencia":"CONSISTENTE",
+ "foco":"qué necesita entender un docente sobre cómo funciona la IA para decidir su uso con criterio",
+ "proposito":"Comprender los fundamentos técnicos de la inteligencia artificial aplicada a educación: aprendizaje a partir de datos, modelos, entrenamiento, inferencia, y por qué los sistemas fallan como fallan.",
+ "decision":"determinar qué puede y qué no puede hacer un sistema de IA en la tarea educativa que estás evaluando",
+ "entregable":"una explicación propia, en lenguaje no técnico, de cómo funciona un sistema de IA y de sus límites",
+ "conceptos":[
+  ["Aprendizaje automático","construcción de modelos a partir de datos en lugar de reglas escritas a mano"],
+  ["Entrenamiento e inferencia","fase en que el modelo aprende de datos y fase en que responde a una entrada nueva"],
+  ["Sesgo de datos","distorsión heredada de los datos con que se entrenó el sistema"],
+  ["Límite del modelo","tipo de tarea o de dato en que el sistema falla de forma predecible"]],
+ "desarrollo":"Un sistema de aprendizaje automático no razona sobre reglas: ajusta parámetros para reproducir patrones presentes en sus datos. De ahí se derivan casi todas sus propiedades relevantes para educación: funciona bien en tareas parecidas a sus datos, hereda sus sesgos, no distingue verdad de plausibilidad y falla de forma difícil de anticipar en casos poco representados. Entender ese mecanismo permite decidir usos con criterio en vez de con entusiasmo o rechazo.",
+ "practica":"La prueba de comprensión es poder explicarlo a un colega sin jerga y responder preguntas incómodas: por qué el sistema inventa datos, por qué funciona mejor con unos estudiantes que con otros, por qué su respuesta cambia si se le pregunta distinto. Esa explicación es la base de cualquier decisión institucional informada.",
+ "limites":"El campo cambia rápido y los detalles técnicos se desactualizan; los principios generales —dependencia de los datos, sesgo, falta de garantía de veracidad, dificultad de explicar decisiones— se sostienen mejor que las descripciones de sistemas específicos. Conviene verificar capacidades actuales antes de afirmar límites concretos.",
+ "errores":[
+  "Atribuir comprensión o intención al sistema por la fluidez de sus respuestas.",
+  "Rechazar el uso por principio sin entender qué hace el sistema en la tarea concreta."],
+ "criterios":[
+  "la explicación es correcta y comprensible para un colega sin formación técnica;",
+  "identifica al menos dos límites del sistema con un ejemplo educativo concreto;"],
+ "preguntas":[
+  "¿Por qué un sistema de lenguaje produce información falsa con tono seguro?",
+  "¿De qué datos aprendió el sistema que estás evaluando?",
+  "¿En qué tarea educativa fallará de forma predecible?"],
+ "lecturas":[
+  ["Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach*.","referencia estándar; útil para los fundamentos conceptuales sin depender de una tecnología concreta."],
+  ["UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*.","marco internacional de principios aplicables a decisiones institucionales."]],
+ "inclusion":"Los sistemas entrenados con datos no representativos funcionan peor con hablantes de variedades lingüísticas minorizadas y con estudiantes de contextos poco presentes en los datos. Ese desempeño desigual debe verificarse antes de adoptar, no después.",
+ "reto":"Escribe tu explicación y preséntala a un colega sin formación técnica. Corrige todo punto donde no pudiste responder su pregunta.",
+ "conexion":"Es la base técnica de las clases 164 a 168 y se apoya en la clase 157."},
+
+{"n":164,"evidencia":"EMERGENTE",
+ "foco":"para qué sirve un modelo de lenguaje en la preparación de clases y dónde empieza el riesgo",
+ "proposito":"Usar modelos de lenguaje en tareas docentes con criterio profesional: generación de borradores, variantes, ejemplos y retroalimentación, siempre con verificación y responsabilidad humana.",
+ "decision":"determinar en qué tareas usarás un modelo de lenguaje y qué verificación aplicarás a cada salida",
+ "entregable":"un protocolo de uso profesional con tareas permitidas, verificación exigida y registro de lo verificado",
+ "conceptos":[
+  ["Modelo de lenguaje","sistema que produce texto plausible a partir de patrones aprendidos, sin garantía de veracidad"],
+  ["Alucinación","producción de información falsa presentada con la misma seguridad que la correcta"],
+  ["Verificación","comprobación humana de la exactitud y la pertinencia de la salida antes de usarla"],
+  ["Responsabilidad profesional","principio de que quien usa la salida responde por ella, sin importar cómo se generó"]],
+ "desarrollo":"Los modelos de lenguaje son útiles en tareas donde el docente puede verificar el resultado con rapidez: generar variantes de ejercicios, producir borradores, proponer ejemplos, reformular explicaciones, anticipar errores frecuentes. Son riesgosos en tareas donde la verificación es costosa o donde el error pasa inadvertido: datos históricos, cifras, referencias bibliográficas y normativa, que es precisamente donde más se equivocan.",
+ "practica":"Un protocolo profesional define qué tareas se delegan, qué verificación exige cada una y qué queda registrado. La regla de fondo es simple: la responsabilidad no se delega. Si un material tiene un error, responde quien lo entregó a sus estudiantes, con independencia de la herramienta usada para producirlo.",
+ "limites":"Las capacidades cambian rápido y cualquier afirmación específica sobre lo que un modelo puede o no hacer envejece; lo estable es la exigencia de verificación. Además, la evidencia sobre efectos en el aprendizaje de los estudiantes es todavía escasa y de corto plazo, y conviene distinguir el uso docente —mejor documentado en ahorro de tiempo— del uso directo por estudiantes.",
+ "errores":[
+  "Usar referencias bibliográficas generadas por un modelo sin verificar que existan.",
+  "Entregar a los estudiantes material generado sin revisión, delegando también la responsabilidad."],
+ "criterios":[
+  "el protocolo define verificación específica para cada tipo de tarea;",
+  "declara qué información no se ingresa nunca al sistema por resguardo de datos;"],
+ "preguntas":[
+  "¿Qué error de un material generado no detectarías al revisarlo?",
+  "¿Qué datos de tus estudiantes nunca deberías ingresar a estas herramientas?",
+  "¿Quién responde si el material tiene un error?"],
+ "lecturas":[
+  ["UNESCO (2023). *Guidance for Generative AI in Education and Research*.","la referencia internacional más usada para políticas institucionales de uso."],
+  ["Bender, E. et al. (2021). *On the Dangers of Stochastic Parrots*.","el contrapunto crítico sobre límites, sesgos y costos de estos sistemas."]],
+ "inclusion":"Estas herramientas pueden ampliar el acceso —traducción, simplificación de textos, generación de formatos alternativos— y también amplificar sesgos. Ambas cosas ocurren a la vez y exigen verificación específica cuando el material se dirige a estudiantes con necesidades de apoyo.",
+ "reto":"Aplica tu protocolo durante dos semanas y registra cuántos errores detectaste en las salidas. Ajusta la verificación donde los errores pasaron más cerca de llegar a los estudiantes.",
+ "conexion":"Se apoya en la clase 163 y es condición de las clases 165, 166 y 168."},
+
+{"n":165,"evidencia":"EMERGENTE",
+ "foco":"cómo se construye un asistente que responda con el material del curso y no con lo que inventa",
+ "proposito":"Diseñar tutores o asistentes basados en recuperación sobre documentos propios, entendiendo qué problema resuelve la recuperación y cuál no.",
+ "decision":"determinar qué fuentes alimentarán tu asistente y cómo verificarás la calidad de sus respuestas",
+ "entregable":"el diseño de un asistente con su corpus de fuentes, su protocolo de verificación y sus límites declarados",
+ "conceptos":[
+  ["Recuperación aumentada","técnica que busca fragmentos relevantes en documentos propios y los entrega al modelo como contexto"],
+  ["Corpus","conjunto de documentos que el asistente puede consultar; define lo que puede responder bien"],
+  ["Trazabilidad","posibilidad de mostrar de qué documento proviene cada afirmación de la respuesta"],
+  ["Pregunta fuera de alcance","consulta que el corpus no cubre y que el sistema debería declarar como tal"]],
+ "desarrollo":"La recuperación sobre documentos propios reduce la invención porque obliga al modelo a responder a partir de fragmentos concretos, y permite mostrar la fuente de cada afirmación. No elimina el problema: el sistema puede seleccionar mal el fragmento, combinarlo incorrectamente o responder igualmente cuando el corpus no cubre la pregunta. La trazabilidad es lo que permite detectarlo.",
+ "practica":"El diseño empieza por el corpus: qué documentos, con qué versión y fecha, revisados por quién. Después, la verificación: un conjunto de preguntas de prueba con respuestas conocidas, incluidas preguntas fuera de alcance que el sistema debe rechazar. Y la declaración de límites, visible para el estudiante: qué puede responder y qué no.",
+ "limites":"La evidencia sobre efectos de estos asistentes en el aprendizaje es incipiente. Su beneficio más claro es de acceso —disponibilidad permanente, paciencia, repetición— y su riesgo más claro es el desplazamiento del esfuerzo: un estudiante puede obtener respuestas sin realizar el trabajo cognitivo que producía el aprendizaje.",
+ "errores":[
+  "Construir el asistente sin conjunto de preguntas de prueba ni verificación de respuestas.",
+  "Omitir la trazabilidad, con lo que ningún error puede rastrearse hasta su fuente."],
+ "criterios":[
+  "el corpus está identificado con versión, fecha y responsable de revisión;",
+  "existe un conjunto de preguntas de prueba, incluidas preguntas fuera de alcance;"],
+ "preguntas":[
+  "¿Qué preguntas debería rechazar tu asistente y las rechaza?",
+  "¿Puedes rastrear cada afirmación hasta el documento que la respalda?",
+  "¿Qué trabajo cognitivo del estudiante está reemplazando tu asistente?"],
+ "lecturas":[
+  ["Lewis, P. et al. (2020). *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*.","el trabajo que formaliza la técnica y explica qué problema resuelve."],
+  ["UNESCO (2023). *Guidance for Generative AI in Education and Research*.","criterios institucionales para el despliegue de asistentes con estudiantes."]],
+ "inclusion":"Un asistente disponible a cualquier hora beneficia a estudiantes que trabajan o que no tienen quién les explique en casa. Requiere, para cumplir esa promesa, funcionar en dispositivos modestos y con conectividad limitada.",
+ "reto":"Construye o evalúa un asistente con corpus propio y aplícale veinte preguntas de prueba, incluidas cinco fuera de alcance. Documenta sus fallas.",
+ "conexion":"Se apoya en las clases 163 y 164 y es el núcleo técnico del proyecto de la clase 168."},
+
+{"n":166,"evidencia":"EMERGENTE",
+ "foco":"qué cambia cuando un sistema no solo responde sino que ejecuta acciones",
+ "proposito":"Comprender los agentes educativos —sistemas que planifican y ejecutan acciones— y decidir qué tareas pueden delegarse, con qué supervisión y con qué resguardos.",
+ "decision":"determinar qué tarea educativa puede ejecutar un agente y qué control humano debe conservarse",
+ "entregable":"el diseño de un agente para una tarea acotada, con puntos de control humano y criterios de detención",
+ "conceptos":[
+  ["Agente","sistema que planifica y ejecuta acciones para cumplir un objetivo, no solo genera texto"],
+  ["Autonomía acotada","límite explícito de lo que el agente puede hacer sin autorización humana"],
+  ["Punto de control","instancia en que una persona revisa y autoriza antes de continuar"],
+  ["Criterio de detención","condición que obliga al agente a detenerse y escalar a una persona"]],
+ "desarrollo":"Un agente se distingue de un asistente porque actúa: consulta, produce, envía, registra. Esa capacidad amplía la utilidad y multiplica el riesgo, porque un error deja de ser una respuesta equivocada y pasa a ser una acción ejecutada. En contextos educativos, donde las acciones afectan a personas y a sus datos, la autonomía debe acotarse de forma explícita y no por omisión.",
+ "practica":"El diseño responsable define la tarea con precisión, los límites de lo que el agente puede hacer sin autorización, los puntos de control humano y los criterios que obligan a detenerse. Las tareas candidatas razonables son administrativas y verificables —organizar material, preparar borradores, revisar formato—; las que afectan directamente a estudiantes exigen control humano en cada paso.",
+ "limites":"Es un campo en desarrollo rápido y con poca evidencia educativa. Los riesgos conocidos incluyen ejecución de acciones erróneas, propagación de errores en cadena y exposición de datos. Ninguna decisión que afecte la trayectoria de un estudiante debería delegarse a un sistema automático sin revisión humana explícita.",
+ "errores":[
+  "Delegar a un agente tareas que afectan a estudiantes sin punto de control humano.",
+  "Definir la tarea de forma vaga, con lo que el agente actúa fuera del alcance previsto."],
+ "criterios":[
+  "el diseño declara autonomía acotada, puntos de control y criterios de detención;",
+  "ninguna acción que afecte a un estudiante ocurre sin autorización humana;"],
+ "preguntas":[
+  "¿Qué acción de tu agente sería irreversible?",
+  "¿En qué punto se detiene y pide autorización?",
+  "¿Qué dato de estudiantes toca y con qué base legal?"],
+ "lecturas":[
+  ["UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*.","principios de supervisión humana y responsabilidad aplicables a sistemas autónomos."],
+  ["OCDE. *Principios sobre inteligencia artificial*.","marco internacional sobre transparencia, robustez y rendición de cuentas."]],
+ "inclusion":"Las decisiones automatizadas sobre personas pueden reproducir sesgos con apariencia de objetividad. En educación, cualquier sistema que clasifique, priorice o derive estudiantes debe conservar revisión humana y vía de impugnación.",
+ "reto":"Diseña un agente para una tarea administrativa acotada con puntos de control. Ejecútalo con supervisión y documenta qué habría ocurrido sin control humano.",
+ "conexion":"Se apoya en las clases 163 a 165 y se rige por los criterios de la clase 167."},
+
+{"n":167,"evidencia":"MARCO-NORMATIVO",
+ "foco":"qué obligaciones concretas asume una institución cuando usa tecnología con datos de estudiantes",
+ "proposito":"Aplicar criterios de ética, privacidad y sesgo al uso de tecnología educativa: base legal del tratamiento de datos, minimización, transparencia, supervisión humana y evaluación de impacto.",
+ "decision":"determinar si el uso de una herramienta cumple con las obligaciones de protección de datos y de trato justo",
+ "entregable":"una evaluación de una herramienta con base legal, datos tratados, riesgos, sesgos y medidas de mitigación",
+ "conceptos":[
+  ["Base legal","fundamento jurídico que autoriza el tratamiento de datos personales"],
+  ["Minimización","principio de tratar solo los datos estrictamente necesarios para la finalidad declarada"],
+  ["Sesgo algorítmico","desempeño sistemáticamente distinto del sistema entre grupos de personas"],
+  ["Supervisión humana","exigencia de que una persona revise y pueda revertir decisiones que afectan a otras"]],
+ "desarrollo":"Toda herramienta que procesa datos de estudiantes genera obligaciones: base legal para el tratamiento, información a los titulares, minimización, resguardo, plazos de conservación y, tratándose de menores, protecciones reforzadas. A eso se suma la exigencia ética de verificar que el sistema no funcione peor con determinados grupos, que es un fenómeno documentado y no una hipótesis.",
+ "practica":"La evaluación de una herramienta debe responder por escrito: qué datos trata, con qué finalidad, con qué base legal, dónde se almacenan, quién accede, cuánto se conservan y qué ocurre si el proveedor cambia sus condiciones. Y para sistemas que clasifican o predicen, cómo se verificará su desempeño entre grupos y qué vía de impugnación existe.",
+ "limites":"El marco normativo varía por país y está en evolución: en Chile, la normativa de protección de datos personales y su institucionalidad han cambiado, y en otros sistemas existen regulaciones específicas sobre IA. Toda afirmación normativa debe verificarse en su versión vigente antes de fundar una decisión institucional.",
+ "errores":[
+  "Adoptar una herramienta sin verificar qué datos trata ni dónde se almacenan.",
+  "Usar sistemas que clasifican estudiantes sin comprobar su desempeño entre grupos ni ofrecer impugnación."],
+ "criterios":[
+  "la evaluación declara datos tratados, base legal, resguardo y plazo de conservación;",
+  "incluye verificación de desempeño por grupo y vía de impugnación para decisiones automatizadas;"],
+ "preguntas":[
+  "¿Qué datos de tus estudiantes salen de la institución al usar esta herramienta?",
+  "¿Con qué base legal los tratas y quién lo informó a las familias?",
+  "¿Funciona igual de bien este sistema con todos tus estudiantes?"],
+ "lecturas":[
+  ["UNESCO (2021). *Recomendación sobre la ética de la inteligencia artificial*.","principios éticos con desarrollo específico para educación."],
+  ["Normativa chilena de protección de datos personales y orientaciones del Mineduc sobre uso de plataformas.","marco de obligaciones aplicables; verifica su versión vigente antes de decidir."]],
+ "inclusion":"Los sistemas con peor desempeño en variedades lingüísticas minorizadas o con estudiantes poco representados en los datos producen exclusión técnica. Verificarlo antes de adoptar es parte del deber profesional, no una consideración adicional.",
+ "reto":"Evalúa una herramienta que ya usas con estos criterios. Documenta los incumplimientos y propón su corrección o su reemplazo.",
+ "conexion":"Rige el uso de todas las clases de la parte 13 y se apoya en la clase 004."},
+
+{"n":168,"evidencia":"EMERGENTE",
+ "foco":"cómo se construye y se prueba un tutor con IA que puedas defender ante tu comunidad educativa",
+ "proposito":"Integrar la parte construyendo un tutor o asistente educativo con IA responsable: propósito pedagógico, corpus verificado, protocolo de verificación, resguardo de datos y evaluación de su efecto.",
+ "decision":"determinar el diseño completo del tutor y qué evidencia mostrará que aporta al aprendizaje",
+ "entregable":"un tutor con IA documentado: propósito, corpus, verificación, resguardos, límites y plan de evaluación",
+ "conceptos":[
+  ["Propósito pedagógico","aprendizaje concreto que el tutor apoya; condición previa a cualquier decisión técnica"],
+  ["Documentación del sistema","registro de fuentes, límites, verificación y responsables"],
+  ["Evaluación de efecto","comprobación de si el tutor mejora el aprendizaje y no solo la satisfacción"],
+  ["Defensa ante la comunidad","capacidad de explicar a estudiantes y familias qué hace el sistema y con qué resguardos"]],
+ "desarrollo":"El proyecto integrador exige articular lo pedagógico, lo técnico y lo ético. Un tutor defendible declara qué aprendizaje apoya, con qué fuentes responde, cómo se verificó, qué datos trata y qué no puede hacer. La prueba práctica es poder presentarlo a una comunidad educativa exigente y responder sus preguntas sin recurrir a promesas.",
+ "practica":"El desarrollo sigue el orden inverso al habitual: primero el propósito pedagógico y la evidencia de efecto que se buscará, después el diseño técnico. Se prueba con un conjunto de preguntas conocidas, se declara lo que no cubre, se resguardan los datos y se evalúa con estudiantes reales antes de escalar el uso.",
+ "limites":"La evidencia sobre efectos de tutores con IA en el aprendizaje es incipiente: los estudios disponibles son de corto plazo y con medidas variadas. Un proyecto honesto declara que su evaluación produce evidencia local sobre su propio uso, y no una demostración general de eficacia.",
+ "errores":[
+  "Construir el sistema primero y buscar después qué aprendizaje apoya.",
+  "Evaluar el tutor por satisfacción de los usuarios y no por aprendizaje verificado."],
+ "criterios":[
+  "el sistema documenta propósito, corpus, verificación, resguardos y límites;",
+  "el plan de evaluación mide aprendizaje y declara qué puede y qué no puede concluir;"],
+ "preguntas":[
+  "¿Qué aprendizaje concreto apoya tu tutor, y cómo lo comprobarás?",
+  "¿Qué le responderías a una familia que pregunta qué datos recoge?",
+  "¿Qué hace tu tutor que un buen material bien diseñado no haría?"],
+ "lecturas":[
+  ["UNESCO (2023). *Guidance for Generative AI in Education and Research*.","criterios para el despliegue institucional responsable de sistemas con IA."],
+  ["VanLehn, K. (2011). *The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems*.","referencia para calibrar expectativas de efecto y diseñar la evaluación."]],
+ "inclusion":"El tutor debe funcionar con dispositivos y conexiones modestas, ser accesible con lectores de pantalla y no penalizar variedades lingüísticas. Si no cumple eso, beneficia a quienes ya tenían ventaja.",
+ "reto":"Construye el tutor, pruébalo con un grupo real y evalúa su efecto sobre un aprendizaje concreto. Presenta el resultado con sus límites a tu equipo.",
+ "conexion":"Cierra la parte 13 integrando sus once clases previas y aplica los criterios de las partes 11 y 16."}
+]

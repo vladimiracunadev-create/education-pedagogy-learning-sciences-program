@@ -1,0 +1,361 @@
+[
+{"n":1,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"por qué usar «enseñanza» y «aprendizaje» como sinónimos produce planificaciones que después no se pueden evaluar",
+ "proposito":"Separar cuatro términos que el habla cotidiana confunde y que, mal usados, hacen imposible saber si una clase funcionó. Enseñar y aprender no son la misma acción, no las ejecuta la misma persona y no se comprueban con la misma evidencia.",
+ "decision":"decidir qué se va a observar para afirmar que hubo aprendizaje y no solo actividad",
+ "entregable":"una ficha de una página que distinga los cuatro términos con un ejemplo propio, un contraejemplo y el indicador observable que usarías",
+ "conceptos":[
+  ["Educación","proceso social e intencionado de formación de personas; incluye mucho más que la escuela"],
+  ["Pedagogía","disciplina que estudia y fundamenta la acción educativa; produce criterios, no recetas"],
+  ["Enseñanza","acción deliberada de un tercero para que alguien aprenda algo determinado"],
+  ["Aprendizaje","cambio relativamente duradero en lo que una persona sabe o puede hacer, inferible desde su desempeño"]],
+ "desarrollo":"La distinción no es académica: es operativa. Enseñar es una acción del docente; aprender es un cambio en el estudiante. Que ocurra la primera no garantiza la segunda, y por eso una clase «bien hecha» puede terminar sin aprendizaje. La pedagogía es el cuerpo de conocimiento que permite decidir entre acciones de enseñanza alternativas, y la educación es el marco social que define para qué se enseña. Cuando estos cuatro niveles se colapsan en uno, las conversaciones profesionales derivan en preferencias personales, porque nadie está discutiendo lo mismo.",
+ "practica":"La consecuencia práctica aparece en la planificación. Un objetivo escrito en términos de enseñanza —«presentar el sistema circulatorio»— no admite verificación; escrito en términos de aprendizaje —«explicar el recorrido de la sangre señalando dónde se oxigena»— determina qué evidencia hay que recoger. Adoptar esta disciplina de escritura cambia también la conversación con colegas y directivos: se deja de discutir si la clase estuvo buena y se empieza a discutir qué mostró el trabajo de los estudiantes.",
+ "limites":"Ninguna definición resuelve por sí sola los casos de frontera. Hay aprendizaje sin enseñanza —el más frecuente en la vida— y hay enseñanza que produce aprendizajes no buscados, incluidos los indeseables. Tampoco todo aprendizaje es observable en el momento: parte de lo que se aprende se manifiesta meses después o en un contexto distinto. Por eso el indicador observable es una decisión profesional acotada, no una definición de lo que la persona sabe.",
+ "errores":[
+  "Escribir objetivos que describen lo que hará el docente y evaluarlos como si describieran al estudiante.",
+  "Tratar la pedagogía como conjunto de técnicas y no como el marco que permite elegir entre ellas."],
+ "criterios":[
+  "los cuatro términos se distinguen con un ejemplo y un contraejemplo propios, no con definiciones copiadas;",
+  "el indicador observable declarado permitiría a otra persona decidir si hubo aprendizaje o no;"],
+ "preguntas":[
+  "¿Qué observarías mañana para afirmar que tus estudiantes aprendieron algo y no solo estuvieron ocupados?",
+  "¿Puedes nombrar un aprendizaje reciente tuyo que no haya sido producto de enseñanza alguna?",
+  "¿Qué cambia en tu planificación si escribes el objetivo desde el estudiante y no desde ti?"],
+ "lecturas":[
+  ["Dewey, J. (1916). *Democracy and Education*, cap. 1–2.","establece la diferencia entre educación como proceso vital y escolarización como institución; base del resto de la parte."],
+  ["Biesta, G. (2010). *Good Education in an Age of Measurement*.","muestra que la pregunta «¿qué es buena educación?» no se responde midiendo mejor, sino decidiendo qué se persigue."]],
+ "inclusion":"Definir el aprendizaje por su evidencia observable tiene un riesgo de exclusión: quien no puede demostrarlo por la vía habitual queda registrado como si no hubiera aprendido. La regla profesional es separar el aprendizaje de su vía de demostración, y ofrecer más de una forma de mostrar lo mismo antes de concluir que algo no se logró.",
+ "reto":"Toma una planificación real —tuya o publicada— y reescribe sus objetivos desde el estudiante. Después responde por escrito qué evidencia recogerías para cada uno y qué harías si esa evidencia no aparece.",
+ "conexion":"Esta clase fija el vocabulario que usan las 215 restantes. La distinción entre enseñanza y aprendizaje reaparece con toda su fuerza en la parte 09 (alineamiento constructivo) y en la parte 11 (validez de la inferencia evaluativa)."},
+
+{"n":2,"evidencia":"MARCO-NORMATIVO",
+ "foco":"por qué casi ninguna práctica escolar actual es obvia, y de qué problema histórico concreto vino cada una",
+ "proposito":"Reconocer que la escuela que conocemos —cursos por edad, horario fragmentado, asignaturas, calificaciones— es una construcción histórica reciente y contingente, diseñada para problemas específicos. Saber de dónde viene una práctica es el primer paso para evaluar si sigue sirviendo.",
+ "decision":"decidir qué práctica heredada de tu institución conviene conservar, cuál revisar y con qué argumento",
+ "entregable":"una línea de tiempo comentada que rastree tres prácticas de tu institución hasta el problema histórico que las originó",
+ "conceptos":[
+  ["Forma escolar","conjunto de rasgos —aula, grupo por edad, horario, currículo— que hacen reconocible a una escuela"],
+  ["Graduación por edad","organización de estudiantes en cursos según año de nacimiento, no según dominio"],
+  ["Escolarización de masas","proceso de extensión de la escuela a toda la población, ligado a la formación de los Estados nacionales"],
+  ["Tradición pedagógica","corriente con supuestos propios sobre fines, método y autoridad, que sigue operando en prácticas actuales"]],
+ "desarrollo":"La escuela graduada, con un docente por grupo de edad y un currículo secuenciado, se generaliza en el siglo XIX junto con la construcción de los Estados nacionales y la necesidad de escolarizar a poblaciones enteras con recursos limitados. No fue una conclusión pedagógica: fue una solución organizacional eficiente. Muchas discusiones actuales —agrupar por nivel de dominio, flexibilizar el tiempo, evaluar por competencias— chocan con esa forma escolar, y entender su origen explica por qué las reformas que la ignoran fracasan.",
+ "practica":"En Chile, la historia del sistema explica su estructura actual: la expansión estatal del siglo XIX y XX, la reforma de 1965, la municipalización de 1981 con su lógica de subvención por asistencia, y el ciclo de reformas posterior a 1990 hasta la creación del Sistema de Educación Pública. Cada capa dejó instituciones que siguen operando. Un docente que conoce esa secuencia entiende por qué su establecimiento tiene los incentivos que tiene y cuáles puede modificar desde el aula.",
+ "limites":"La historia explica el origen, no justifica la permanencia ni condena la práctica. Que la graduación por edad tenga origen administrativo no la vuelve indefendible: agrupar por edad tiene razones sociales y de desarrollo. El error simétrico es igual de común: rechazar una práctica solo por antigua o defenderla solo por tradicional. En ambos casos falta el paso que importa, que es preguntar qué evidencia hay hoy sobre su efecto.",
+ "errores":[
+  "Presentar la historia de la educación como galería de personajes en vez de como historia de problemas y soluciones.",
+  "Suponer que la forma escolar actual es la única posible o la más natural."],
+ "criterios":[
+  "cada práctica rastreada queda conectada con el problema concreto que intentó resolver;",
+  "se distingue el origen histórico de una práctica de su justificación actual;"],
+ "preguntas":[
+  "¿Qué problema resolvía el horario de bloques de 45 minutos cuando se instaló, y sigue resolviéndolo?",
+  "¿Qué práctica de tu establecimiento nadie sabe explicar por qué existe?",
+  "¿Qué reforma reciente chocó con la forma escolar y por eso no prendió?"],
+ "lecturas":[
+  ["Tyack, D. & Cuban, L. (1995). *Tinkering toward Utopia: A Century of Public School Reform*.","explica por qué la «gramática de la escuela» sobrevive a casi todas las reformas; imprescindible antes de proponer un cambio grande."],
+  ["Serrano, S., Ponce de León, M. & Rengifo, F. (eds.). *Historia de la Educación en Chile*.","reconstruye la formación del sistema escolar chileno con fuentes primarias; base para situar la normativa actual."]],
+ "inclusion":"La historia de la escolarización es también la historia de quiénes quedaron fuera: mujeres, pueblos originarios, población rural, personas con discapacidad. Rastrear una práctica incluye preguntar a quién dejó afuera cuando se instaló, porque muchos mecanismos de exclusión sobreviven sin que nadie los haya vuelto a decidir.",
+ "reto":"Escoge una práctica que te incomode de tu institución. Reconstruye su origen con al menos una fuente histórica y decide, por escrito, si la conservarías, la modificarías o la eliminarías, y qué evidencia sostiene tu decisión.",
+ "conexion":"Prepara la parte 15 (liderazgo y mejora escolar): quien no conoce la forma escolar propone cambios que la organización devuelve intactos. Se apoya en la clase 001 y anticipa la clase 005, sobre sistemas comparados."},
+
+{"n":3,"evidencia":"EN-DEBATE",
+ "foco":"por qué toda decisión pedagógica supone una respuesta a preguntas filosóficas que rara vez se hacen explícitas",
+ "proposito":"Explicitar los supuestos filosóficos que operan bajo las decisiones cotidianas: qué es conocer, qué vale la pena enseñar, qué autoridad tiene el docente y cuánta autonomía corresponde al estudiante. No se trata de adherir a una escuela filosófica sino de saber cuál estás usando.",
+ "decision":"decidir qué fines educativos vas a priorizar cuando entren en conflicto entre sí",
+ "entregable":"un ensayo breve que defienda una posición sobre el fin de la educación y responda a la objeción más fuerte en contra",
+ "conceptos":[
+  ["Fines de la educación","aquello que se persigue formar; determina qué cuenta como éxito y qué como fracaso"],
+  ["Autoridad pedagógica","legitimidad del docente para dirigir el aprendizaje, distinta del poder institucional"],
+  ["Autonomía","capacidad de la persona de darse sus propias razones; fin educativo y a la vez condición del aprendizaje"],
+  ["Tradición y emancipación","dos justificaciones en tensión: transmitir lo valioso heredado o habilitar para transformarlo"]],
+ "desarrollo":"Tres funciones distintas conviven en cualquier sistema educativo: calificar a las personas para desempeñarse, socializarlas en una cultura y formar sujetos capaces de decidir por sí mismos. La mayoría de los conflictos escolares surge cuando estas funciones se contradicen: exigir autonomía y a la vez obediencia estricta, promover pensamiento crítico y castigar el desacuerdo, declarar formación integral y medir solo resultados en pruebas. Hacer explícito el conflicto no lo elimina, pero permite decidirlo con criterio en vez de resolverlo por inercia institucional.",
+ "practica":"El ejercicio profesional consiste en detectar la pregunta filosófica escondida en una discusión aparentemente técnica. ¿Debe permitirse repetir una evaluación? Debajo hay una posición sobre si la nota certifica un momento o un aprendizaje. ¿Corresponde exigir uniforme? Debajo hay una posición sobre socialización e identidad. Nombrar el supuesto convierte una discusión de reglamento en una discusión decidible.",
+ "limites":"Aquí no hay evidencia empírica que zanje. La investigación puede decir qué efecto tiene una práctica, no si ese efecto es deseable. Esta clase está en debate por naturaleza y su exigencia es otra: consistencia. Una posición vale por la calidad de sus razones y por su capacidad de sostener la objeción más fuerte, no por su popularidad ni por el prestigio de quien la enuncia.",
+ "errores":[
+  "Presentar preferencias personales como conclusiones de la investigación educativa.",
+  "Evitar la discusión de fines y quedarse solo en el «cómo», que es donde el conflicto reaparece disfrazado."],
+ "criterios":[
+  "la posición defendida enfrenta explícitamente la objeción más fuerte en su contra;",
+  "se distingue lo que la evidencia puede zanjar de lo que corresponde a una decisión valórica;"],
+ "preguntas":[
+  "¿Qué fin educativo estás priorizando cuando decides no repetir una evaluación a un estudiante que faltó?",
+  "¿Qué harías si formar personas autónomas te obligara a tolerar decisiones que consideras erróneas?",
+  "¿Qué argumento te haría cambiar de posición sobre el fin principal de la escuela?"],
+ "lecturas":[
+  ["Biesta, G. (2010). *Good Education in an Age of Measurement*.","distingue calificación, socialización y subjetivación; el instrumento más útil para ordenar la discusión de fines."],
+  ["Nussbaum, M. (2010). *Sin fines de lucro: por qué la democracia necesita de las humanidades*.","defiende una posición fuerte y discutible sobre el fin de la educación; buen material para practicar la objeción."]],
+ "inclusion":"La discusión sobre fines define quién cuenta como educable. Históricamente, negar capacidad de autonomía a un grupo —por discapacidad, género u origen— fue el argumento para ofrecerle una educación empobrecida. Toda posición sobre fines debe poder responder qué implica para el estudiante con mayores necesidades de apoyo del curso.",
+ "reto":"Escribe tu posición sobre el fin principal de la educación en no más de 400 palabras. Pide a un colega que redacte la objeción más fuerte y responde a esa objeción sin cambiar tu tesis original.",
+ "conexion":"Sostiene la clase 004 sobre ética profesional y la 011 sobre calidad y equidad, donde la discusión de fines se vuelve discusión de indicadores. Reaparece en la parte 13, al decidir el uso aceptable de la IA."},
+
+{"n":4,"evidencia":"MARCO-NORMATIVO",
+ "foco":"dónde termina el criterio profesional del docente y dónde empieza una obligación que no admite interpretación",
+ "proposito":"Delimitar el ejercicio ético del rol docente: qué se puede decidir, qué se debe consultar, qué se debe informar y qué está prohibido. La ética profesional no es una lista de buenas intenciones, sino un conjunto de deberes exigibles con consecuencias reales.",
+ "decision":"decidir, ante una situación concreta, si corresponde actuar, consultar al equipo, informar formalmente o denunciar",
+ "entregable":"un árbol de decisión propio para tres situaciones frecuentes, con actor responsable, plazo y registro en cada rama",
+ "conceptos":[
+  ["Deber de cuidado","obligación de proteger la integridad física y psicológica de los estudiantes a cargo"],
+  ["Confidencialidad","resguardo de la información sensible del estudiante, con sus excepciones legales explícitas"],
+  ["Conflicto de interés","situación en que un interés personal puede afectar la imparcialidad de una decisión profesional"],
+  ["Deber de denuncia","obligación legal de poner en conocimiento de la autoridad hechos que puedan constituir delito"]],
+ "desarrollo":"La docencia es una profesión con asimetría de poder sobre personas que en muchos casos son menores de edad. Esa asimetría genera deberes que no dependen de la voluntad ni del estilo personal: proteger, no dañar, no aprovechar la posición, resguardar información y denunciar cuando corresponde. En Chile, además, existen plazos legales para denunciar hechos que pueden constituir delito contra un menor, y el incumplimiento tiene consecuencias para el funcionario y para el establecimiento.",
+ "practica":"La competencia que esta clase entrena es de clasificación rápida: distinguir un problema pedagógico, un conflicto de convivencia, una falta reglamentaria y una posible vulneración de derechos. Cada categoría activa una respuesta distinta y con distinto plazo. Un docente que trata una posible vulneración como conflicto entre pares comete un error grave; y quien activa protocolos de vulneración ante cualquier conflicto desgasta el sistema y expone innecesariamente al estudiante.",
+ "limites":"El marco legal define pisos, no techos, y cambia. Lo que aquí se enseña es el razonamiento; la norma específica —plazos, formularios, autoridad competente— debe verificarse en su versión vigente antes de aplicarse. Existe además una zona genuinamente gris, donde profesionales competentes discrepan de buena fe: para esa zona el resguardo es el registro escrito, la consulta al equipo y la decisión documentada.",
+ "errores":[
+  "Prometer confidencialidad absoluta a un estudiante antes de saber qué va a contar.",
+  "Resolver en solitario una situación que la norma exige derivar, por temor a exponer al estudiante."],
+ "criterios":[
+  "cada rama del árbol identifica actor, plazo y registro, no solo la acción;",
+  "se distingue con claridad lo que es obligación legal de lo que es buena práctica profesional;"],
+ "preguntas":[
+  "¿Qué harías si un estudiante te pide que no cuentes algo antes de contártelo?",
+  "¿Cuál es el plazo legal para denunciar en tu jurisdicción, y dónde lo verificaste?",
+  "¿Qué registro dejarías hoy que te permitiría explicar tu decisión dentro de un año?"],
+ "lecturas":[
+  ["Campbell, E. (2003). *The Ethical Teacher*.","documenta la ética docente como práctica cotidiana y no como código abstracto; útil para reconocer dilemas reales."],
+  ["Mineduc. *Marco para la Buena Enseñanza* (versión vigente) y normativa de convivencia escolar.","define los estándares profesionales exigibles en Chile y sus obligaciones asociadas."]],
+ "inclusion":"Las situaciones éticas más difíciles suelen involucrar a estudiantes en mayor vulnerabilidad: migrantes sin red de apoyo, estudiantes con discapacidad que dependen de terceros para comunicar, jóvenes cuya identidad no es aceptada en su casa. La regla es que el resguardo aumenta cuando aumenta la dependencia, y que nunca se comunica información sensible sin evaluar el riesgo para la persona.",
+ "reto":"Construye tu árbol de decisión y somételo a un colega con más años de ejercicio. Registra en qué punto discrepan y verifica cuál de las dos versiones se ajusta a la norma vigente.",
+ "conexion":"Es el piso ético del programa completo y se aplica en cada clase mediante el protocolo de práctica responsable. Se profundiza en la parte 12 (protocolos y crisis) y en la parte 16 (ética de la investigación con personas)."},
+
+{"n":5,"evidencia":"CONSISTENTE",
+ "foco":"qué se puede y qué no se puede concluir al comparar sistemas educativos de países distintos",
+ "proposito":"Leer comparaciones internacionales sin caer en el uso más frecuente que se les da: importar la política de un país exitoso ignorando las condiciones que la hicieron funcionar allí. Comparar sirve para entender mecanismos, no para copiar recetas.",
+ "decision":"decidir qué elemento de un sistema extranjero es transferible a tu contexto y bajo qué condiciones",
+ "entregable":"una comparación estructurada entre dos sistemas educativos con tres dimensiones y una conclusión sobre transferibilidad",
+ "conceptos":[
+  ["Sistema educativo","conjunto articulado de niveles, instituciones, financiamiento, currículo y regulación de un país"],
+  ["Gobernanza","distribución de la autoridad para decidir sobre currículo, financiamiento, personal y evaluación"],
+  ["Transferibilidad","grado en que una política funciona fuera de las condiciones en que fue diseñada"],
+  ["Evaluación internacional","estudio comparado que mide desempeños con instrumentos comunes entre países"]],
+ "desarrollo":"Los sistemas educativos se diferencian en pocas dimensiones que explican mucho: quién financia y cómo, quién decide el currículo, cómo se selecciona y forma a los docentes, cuándo se separa a los estudiantes por trayectorias y cómo se rinde cuenta de los resultados. Comparar bien significa comparar esas dimensiones, no anécdotas. Y significa incorporar el contexto: la política finlandesa de confianza en el docente descansa en una selección universitaria altamente competitiva y en una profesión de alto estatus social, condiciones que no se importan con un decreto.",
+ "practica":"En Chile, la comparación tiene un uso profesional concreto: entender que el sistema combina provisión pública y privada con financiamiento por subvención, evaluación externa nacional y un marco curricular común. Cada uno de esos rasgos tiene análogos y contrastes internacionales que ayudan a discutir reformas con argumentos y no con impresiones. La regla de trabajo es explicitar siempre qué condición local haría que el mecanismo importado funcione o fracase.",
+ "limites":"Las evaluaciones internacionales miden un subconjunto acotado de aprendizajes y su comparabilidad depende de supuestos técnicos fuertes —traducción, equivalencia de ítems, muestreo, exclusiones—. Los rankings amplifican diferencias que muchas veces no son estadísticamente significativas. Sirven para detectar tendencias y desigualdades internas de un país; no sirven para afirmar que un sistema es mejor que otro en sentido global.",
+ "errores":[
+  "Importar una política sin las condiciones institucionales que la sostienen en su país de origen.",
+  "Leer el ranking y no la diferencia estadística ni el intervalo de confianza."],
+ "criterios":[
+  "la comparación usa dimensiones estructurales y no anécdotas de aula;",
+  "la conclusión sobre transferibilidad declara qué condición local sería indispensable;"],
+ "preguntas":[
+  "¿Qué condición institucional hace funcionar en su país la política que te gustaría importar?",
+  "¿Qué mide y qué no mide la evaluación internacional que estás citando?",
+  "¿Qué diferencia de puntaje entre dos países es realmente distinguible del error de medición?"],
+ "lecturas":[
+  ["OCDE. *Education at a Glance* (edición vigente).","compendio anual comparado de indicadores; úsalo por sus definiciones y notas metodológicas, no solo por sus tablas."],
+  ["Sahlberg, P. (2011). *Finnish Lessons*.","caso paradigmático de sistema admirado; léelo prestando atención a las condiciones históricas que el propio autor describe."]],
+ "inclusion":"Los promedios nacionales esconden las brechas que más importan. Un sistema con buen promedio puede tener resultados muy desiguales por origen socioeconómico, ruralidad, género o condición de discapacidad. Toda comparación seria reporta dispersión y brechas, no solo posición en la tabla.",
+ "reto":"Elige una política educativa extranjera que te parezca atractiva. Identifica las tres condiciones que la sostienen en su origen y evalúa, con evidencia local, cuáles existen en tu contexto y cuáles no.",
+ "conexion":"Da contexto a la clase 011 sobre calidad y equidad, y al material de `international-education/`. Se usa de nuevo en la parte 15, cuando una institución quiere adoptar un modelo de gestión de otro país."},
+
+{"n":6,"evidencia":"CONSISTENTE",
+ "foco":"por qué buena parte de lo que la gente sabe hacer no lo aprendió en una sala de clases",
+ "proposito":"Reconocer los tres ámbitos donde ocurre el aprendizaje —formal, no formal e informal— y usar esa distinción para diseñar mejor: la escuela no compite con ellos, se apoya en ellos o los ignora en su perjuicio.",
+ "decision":"decidir qué parte de un aprendizaje conviene formalizar y qué parte se sostiene mejor fuera del aula",
+ "entregable":"un mapa de aprendizajes de un grupo real que identifique origen formal, no formal e informal de sus competencias actuales",
+ "conceptos":[
+  ["Educación formal","la que conduce a certificación reconocida dentro del sistema escolar o superior"],
+  ["Educación no formal","actividad educativa organizada e intencionada fuera del sistema reglado; suele certificar sin conducir a grado"],
+  ["Aprendizaje informal","el que ocurre en la vida cotidiana sin intención educativa explícita ni estructura"],
+  ["Reconocimiento de aprendizajes previos","procedimiento que valida competencias adquiridas fuera del sistema formal"]],
+ "desarrollo":"La distinción importa porque cambia el diseño. En lo formal se controla secuencia, tiempo y evaluación; en lo no formal se controla el propósito pero no la trayectoria previa; en lo informal no se controla nada, y sin embargo allí se aprende el idioma materno, buena parte del oficio y casi todas las competencias sociales. Un docente que desconoce lo que sus estudiantes ya aprendieron fuera enseña sobre un vacío inexistente, y suele confundir falta de escolarización con falta de conocimiento.",
+ "practica":"La aplicación más rentable es diagnóstica: preguntar deliberadamente qué sabe hacer el grupo por fuera del currículo y usarlo como anclaje. En educación técnica y de adultos esto es determinante, porque muchos estudiantes llegan con competencias reales sin certificación; ahí los procedimientos de reconocimiento de aprendizajes previos evitan repetir lo que ya se domina y liberan tiempo para lo que falta.",
+ "limites":"El aprendizaje informal es potente pero desigual y a veces erróneo: quien aprendió una técnica mal la sostiene con mucha convicción, y las oportunidades de aprendizaje informal están distribuidas de forma injusta. Apoyarse en él sin verificarlo puede consolidar errores y ampliar brechas. La regla es reconocerlo, comprobarlo y corregirlo, en ese orden.",
+ "errores":[
+  "Suponer que lo que no fue enseñado formalmente no fue aprendido.",
+  "Dar por válido un aprendizaje previo sin comprobar su calidad ni su alcance real."],
+ "criterios":[
+  "el mapa identifica al menos un aprendizaje relevante de cada uno de los tres ámbitos;",
+  "se declara cómo se comprobó el aprendizaje previo y no solo cómo se supuso;"],
+ "preguntas":[
+  "¿Qué sabe hacer tu grupo que nunca le enseñó la escuela?",
+  "¿Qué contenido estás enseñando desde cero que parte del curso ya domina por otra vía?",
+  "¿Cómo verificarías un aprendizaje adquirido fuera del sistema sin humillar a quien lo trae?"],
+ "lecturas":[
+  ["Coombs, P. & Ahmed, M. (1974). *Attacking Rural Poverty: How Nonformal Education Can Help*.","origen de la distinción formal / no formal / informal y de su utilidad para políticas educativas."],
+  ["UNESCO. *Directrices para el reconocimiento, validación y acreditación de los resultados del aprendizaje no formal e informal*.","marco internacional de referencia para validar competencias adquiridas fuera del sistema reglado."]],
+ "inclusion":"Los estudiantes con trayectorias interrumpidas, migrantes y adultos que retoman estudios suelen traer aprendizajes valiosos y desconocidos por la institución. Ignorarlos produce desmotivación inmediata; reconocerlos formalmente es una de las medidas de inclusión más efectivas y menos costosas que existen.",
+ "reto":"Diseña una actividad de diagnóstico de diez minutos que revele aprendizajes previos no escolares relevantes para tu asignatura, y define qué harás con esa información en la clase siguiente.",
+ "conexion":"Es la base de la parte 07 (educación de adultos) y de la parte 06 (reconocimiento de aprendizajes previos en formación técnica). Complementa la clase 001 al mostrar que el aprendizaje excede a la enseñanza."},
+
+{"n":7,"evidencia":"MARCO-NORMATIVO",
+ "foco":"qué obligaciones concretas genera para tu institución el hecho de que la educación sea un derecho y no un servicio",
+ "proposito":"Traducir el derecho a la educación desde el enunciado general a las obligaciones exigibles que rigen tu práctica: acceso, permanencia, no discriminación, participación y debido proceso.",
+ "decision":"decidir si una práctica institucional cotidiana vulnera o resguarda un derecho exigible",
+ "entregable":"una revisión de tres prácticas de tu establecimiento contrastadas con la norma vigente, con brechas y plan de corrección",
+ "conceptos":[
+  ["Derecho a la educación","garantía exigible de acceso, permanencia y calidad, con obligaciones para el Estado y los sostenedores"],
+  ["No discriminación arbitraria","prohibición de tratar de forma desigual sin justificación razonable y proporcional"],
+  ["Debido proceso","conjunto de garantías —información, defensa, plazos, proporcionalidad— antes de una sanción"],
+  ["Interés superior del niño","criterio que obliga a considerar primero el bienestar del estudiante en toda decisión que lo afecte"]],
+ "desarrollo":"Que la educación sea un derecho cambia la naturaleza de las decisiones escolares: dejan de ser potestades discrecionales del establecimiento y pasan a ser actos que deben poder justificarse. Cancelar una matrícula, aplicar una suspensión, negar la participación en una actividad o condicionar el acceso a un apoyo son decisiones revisables. En Chile, la Ley General de Educación, la Ley de Inclusión y la normativa de la Superintendencia de Educación fijan obligaciones concretas y vías de reclamo para las familias.",
+ "practica":"El uso profesional de esta clase es preventivo. Antes de aplicar una medida, se comprueban cuatro cosas: si está contemplada en el reglamento interno, si se informó previamente, si es proporcional a la falta y si el estudiante tuvo oportunidad de ser oído. Una medida que falla en cualquiera de esas cuatro es revocable, y su revocación posterior daña más la autoridad del establecimiento que no haberla aplicado.",
+ "limites":"El derecho fija el marco, no resuelve los conflictos entre derechos: el derecho de un estudiante a permanecer puede tensionarse con el derecho de sus compañeros a un ambiente seguro. Esos casos exigen ponderación fundada, no aplicación automática de una regla. Además, la normativa cambia: cualquier afirmación normativa de esta clase debe verificarse en su versión vigente antes de usarse en una decisión real.",
+ "errores":[
+  "Aplicar sanciones no contempladas en el reglamento interno vigente.",
+  "Tratar la exclusión de una actividad como medida pedagógica sin evaluar su proporcionalidad."],
+ "criterios":[
+  "cada brecha detectada cita la norma o el instrumento institucional que la define;",
+  "el plan de corrección tiene responsable, plazo y forma de verificación;"],
+ "preguntas":[
+  "¿Qué medida frecuente en tu establecimiento no resistiría una revisión de proporcionalidad?",
+  "¿Dónde puede reclamar formalmente una familia y qué plazo tiene la institución para responder?",
+  "¿Cómo se documenta que un estudiante fue oído antes de una sanción?"],
+ "lecturas":[
+  ["Naciones Unidas (1989). *Convención sobre los Derechos del Niño*, arts. 28 y 29.","fija el contenido del derecho a la educación y el criterio de interés superior; es derecho vigente en Chile."],
+  ["Biblioteca del Congreso Nacional de Chile. *Ley General de Educación* y *Ley de Inclusión Escolar*.","texto consolidado y vigente; consulta siempre la versión a la fecha en que aplicarás la medida."]],
+  "inclusion":"El derecho a la educación se vulnera con más frecuencia respecto de estudiantes migrantes, con discapacidad, embarazadas o en situación de vulneración. Revisar prácticas institucionales con este foco suele revelar barreras administrativas —documentación exigida, cupos, condiciones de permanencia— que operan como discriminación indirecta.",
+ "reto":"Toma el reglamento interno de un establecimiento real y localiza una disposición que sea incompatible con la normativa vigente. Redacta la propuesta de modificación con su fundamento legal.",
+ "conexion":"Sostiene la parte 08 (inclusión) y la parte 12 (convivencia y debido proceso). Vuelve en la parte 15, donde la responsabilidad por estas prácticas es del equipo directivo."},
+
+{"n":8,"evidencia":"EN-DEBATE",
+ "foco":"qué parte de los resultados escolares se explica por lo que hace la escuela y qué parte por lo que la escuela recibe",
+ "proposito":"Situar el papel real de la escuela entre dos posiciones extremas: la que le atribuye poder para compensar cualquier desigualdad y la que la considera mera reproductora del orden social. Ambas fallan, y la diferencia importa para saber qué exigirle a un docente.",
+ "decision":"decidir qué parte de un resultado educativo es responsabilidad de la práctica pedagógica y cuál exige acción fuera del aula",
+ "entregable":"un análisis de un resultado real de tu grupo que separe factores pedagógicos, institucionales y externos, con acciones para cada uno",
+ "conceptos":[
+  ["Reproducción social","mecanismo por el cual la escuela transmite y legitima desigualdades de origen"],
+  ["Capital cultural","conjunto de disposiciones, códigos y saberes valorados por la escuela que no todos los hogares proveen"],
+  ["Efecto escuela","porción de la variación de resultados atribuible a lo que hace el establecimiento"],
+  ["Segregación escolar","concentración de estudiantes de origen socioeconómico similar en los mismos establecimientos"]],
+ "desarrollo":"La investigación sobre efecto escuela muestra un resultado incómodo y estable: la mayor parte de la variación en resultados se asocia a características de los estudiantes y sus familias, y una porción menor pero real —y modificable— al establecimiento y al docente. Esa porción menor es exactamente el campo de acción profesional, y es suficiente para cambiar trayectorias individuales. Negarla lleva al fatalismo; exagerarla lleva a culpar al docente por desigualdades que se producen fuera de la escuela.",
+ "practica":"Aplicado a la práctica, esto obliga a distinguir tres planos ante un mal resultado: lo que depende de la enseñanza —claridad, secuencia, retroalimentación, tiempo efectivo—, lo que depende de la institución —asistencia, clima, recursos, estabilidad docente— y lo que depende del contexto —pobreza, salud, cuidado, migración—. Solo el primero se corrige mañana; el segundo se negocia; el tercero se articula con otros servicios. Confundirlos produce planes de mejora que fracasan por diseño.",
+ "limites":"El tamaño del efecto escuela varía según sistema, nivel y forma de medirlo, y su estimación depende de supuestos discutidos. En sistemas altamente segregados, como el chileno, separar el efecto de la escuela del efecto de su composición social es técnicamente difícil. Por eso la clase se declara en debate: la existencia del efecto está bien establecida, su magnitud exacta no.",
+ "errores":[
+  "Atribuir todo resultado al esfuerzo individual del estudiante o del docente.",
+  "Usar el peso del contexto como argumento para no revisar la práctica de enseñanza."],
+ "criterios":[
+  "el análisis separa los tres planos con evidencia y no con impresiones;",
+  "cada plano tiene una acción distinta y proporcional a quien puede ejecutarla;"],
+ "preguntas":[
+  "¿Qué parte del resultado de tu curso podrías cambiar solo con decisiones de enseñanza?",
+  "¿Qué acción de tu institución sostiene o corrige la desigualdad de partida?",
+  "¿Qué necesitarías saber para distinguir efecto de la escuela de efecto de su composición?"],
+ "lecturas":[
+  ["Bourdieu, P. & Passeron, J.-C. (1970). *La reproducción*.","la formulación clásica de la escuela como reproductora; léelo como hipótesis potente y discutida, no como conclusión."],
+  ["Bellei, C. (2013). *El estudio de la segregación socioeconómica y académica de la educación chilena*.","documenta con datos la segregación del sistema chileno y sus consecuencias sobre los resultados."]],
+ "inclusion":"El riesgo específico de esta discusión es el determinismo: usar el origen social como pronóstico y bajar la exigencia en consecuencia. La evidencia sobre expectativas docentes muestra que ese pronóstico se cumple solo, y que es una de las formas más difíciles de detectar de exclusión.",
+ "reto":"Toma un resultado bajo de tu grupo. Escribe una explicación pedagógica, una institucional y una contextual, y define para cada una qué evidencia la confirmaría o la descartaría.",
+ "conexion":"Anticipa la clase 011 sobre calidad y equidad y la parte 15 sobre mejora escolar. Se apoya en la clase 005, donde los sistemas comparados muestran cuánto varía este equilibrio entre países."},
+
+{"n":9,"evidencia":"PRACTICA-PROFESIONAL",
+ "foco":"quién hace qué en una institución educativa, y qué decisiones no te corresponde tomar en solitario",
+ "proposito":"Mapear los roles profesionales del ecosistema educativo —docentes, educadoras diferenciales, psicólogos, orientadores, directivos, asistentes de la educación— y las fronteras de competencia entre ellos, para trabajar en equipo sin invadir ni delegar mal.",
+ "decision":"decidir a quién corresponde una decisión y con quién debe tomarse de forma conjunta",
+ "entregable":"una matriz de roles y decisiones de tu institución que indique quién decide, quién es consultado y quién debe ser informado",
+ "conceptos":[
+  ["Rol profesional","conjunto de funciones, competencias y responsabilidades asignadas formalmente a un cargo"],
+  ["Frontera de competencia","límite de lo que un profesional puede afirmar o decidir según su formación y su rol"],
+  ["Trabajo colaborativo","forma de coordinación en que dos o más profesionales comparten diseño, ejecución y evaluación"],
+  ["Derivación","traspaso formal de una situación a otro profesional o servicio, con información suficiente y seguimiento"]],
+ "desarrollo":"Buena parte de los errores institucionales no provienen de mala voluntad sino de fronteras difusas: un docente que diagnostica sin competencia para hacerlo, un especialista que decide didáctica sin conocer el curso, un directivo que interviene en una relación pedagógica sin información. La solución no es rigidez sino explicitación: acordar quién decide qué, quién debe ser consultado antes y quién debe quedar informado después. Escrito, ese acuerdo dura; hablado, se disuelve en la primera urgencia.",
+ "practica":"La matriz de decisiones es el instrumento. Se construye listando decisiones reales y frecuentes —adecuación curricular, derivación a especialista, cambio de evaluación, sanción, contacto con la familia— y asignando roles a cada una. El valor aparece cuando surge la primera discrepancia: el conflicto se resuelve consultando el acuerdo, no negociando poder en medio de una situación tensa.",
+ "limites":"Las descripciones formales de cargo rara vez coinciden con la práctica real, y en instituciones pequeñas una persona cumple varios roles. La matriz debe describir lo que efectivamente ocurre y no lo que dice el organigrama, y debe revisarse cuando cambia el equipo. También hay que reconocer una tensión real: aumentar la formalización mejora la claridad y puede reducir la agilidad.",
+ "errores":[
+  "Emitir juicios diagnósticos sobre un estudiante sin la formación ni el rol para hacerlo.",
+  "Derivar sin información suficiente y dar por cerrada la responsabilidad propia."],
+ "criterios":[
+  "la matriz distingue decidir, consultar e informar para cada decisión listada;",
+  "incluye al menos una decisión que hoy se toma sin claridad sobre quién es responsable;"],
+ "preguntas":[
+  "¿Qué decisión tomas habitualmente que en rigor no te corresponde tomar solo?",
+  "¿Qué información mínima debería contener una derivación para ser útil?",
+  "¿Qué ocurre en tu institución cuando dos profesionales discrepan sobre un mismo estudiante?"],
+ "lecturas":[
+  ["Mineduc. *Orientaciones para el trabajo colaborativo y la codocencia* (Programa de Integración Escolar).","define en Chile cómo se articulan docente de aula y profesionales de apoyo, con tiempos y funciones."],
+  ["Hargreaves, A. & O'Connor, M. (2018). *Collaborative Professionalism*.","distingue colaboración real de reuniones frecuentes; útil para diseñar el trabajo conjunto y no solo declararlo."]],
+ "inclusion":"El estudiante con mayores necesidades de apoyo es quien más pierde cuando los roles están difusos: recibe intervenciones descoordinadas, evaluaciones contradictorias o ninguna. La coordinación explícita entre aula y equipo de apoyo es, en la práctica, una medida de inclusión.",
+ "reto":"Levanta la matriz real de tu institución entrevistando a dos personas de roles distintos. Identifica una decisión donde ambas creen que decide la otra, y propón el acuerdo que cierra ese vacío.",
+ "conexion":"Prepara la parte 08 (equipo de aula y coordinación de apoyos) y la parte 15 (gestión de equipos). Se apoya en la clase 004: muchas fronteras de rol son, en el fondo, obligaciones éticas."},
+
+{"n":10,"evidencia":"CONSISTENTE",
+ "foco":"por qué dos escuelas con los mismos recursos y el mismo currículo funcionan de forma completamente distinta",
+ "proposito":"Leer la cultura escolar —supuestos compartidos, rutinas, lenguaje, lo que se celebra y lo que se castiga— como variable que condiciona cualquier innovación pedagógica que intentes introducir.",
+ "decision":"decidir qué cambio pedagógico es viable en la cultura actual de tu institución y cuál requiere trabajar primero la cultura",
+ "entregable":"un diagnóstico de cultura escolar con evidencia observada y una propuesta de cambio ajustada a lo que la cultura permite",
+ "conceptos":[
+  ["Cultura escolar","supuestos compartidos, normalmente implícitos, sobre cómo se hacen las cosas en esta institución"],
+  ["Clima escolar","percepción de las personas sobre la convivencia, la seguridad y las relaciones; se mide, la cultura se interpreta"],
+  ["Confianza relacional","calidad de las expectativas mutuas entre docentes, directivos, estudiantes y familias"],
+  ["Comunidad educativa","conjunto de actores con interés legítimo en el proyecto del establecimiento"]],
+ "desarrollo":"La cultura escolar es lo que responde por defecto cuando nadie decide nada: cómo se recibe a un estudiante nuevo, qué se hace con un colega que innova, si el error se trata como información o como falta. Es invisible desde dentro y decisiva para cualquier cambio: una innovación que contradice la cultura se abandona en semanas, aunque tenga evidencia a favor y financiamiento. Por eso, antes de proponer un cambio, conviene diagnosticar qué permite la cultura y qué rechaza.",
+ "practica":"El diagnóstico se hace con evidencia observable, no con encuestas de percepción únicamente: qué se conversa en la sala de profesores, qué se expone en los muros, a quién se pide ayuda, qué ocurre cuando alguien pide tiempo para probar algo. A partir de ahí, la estrategia realista es empezar por cambios que la cultura tolere, mostrar resultado y usarlo para ampliar el margen. La confianza es el recurso que se gasta y se acumula en cada uno de esos intentos.",
+ "limites":"La cultura no es una variable manipulable a voluntad ni tiene una relación causal simple con los aprendizajes. Los estudios que la vinculan con resultados suelen ser correlacionales, y el clima medido por encuestas y la cultura profunda no son lo mismo. Sirve como marco de decisión estratégica; no sirve como explicación única de por qué una escuela obtiene ciertos resultados.",
+ "errores":[
+  "Introducir una innovación sin evaluar si la cultura institucional la va a rechazar.",
+  "Confundir el clima medido por una encuesta con la cultura real de la organización."],
+ "criterios":[
+  "el diagnóstico se apoya en al menos tres evidencias observadas, no solo en percepciones;",
+  "la propuesta de cambio declara qué supuesto cultural debe moverse para que funcione;"],
+ "preguntas":[
+  "¿Qué pasa en tu institución cuando alguien reconoce que una clase le salió mal?",
+  "¿Qué comportamiento se premia informalmente aunque no esté en ningún documento?",
+  "¿Qué innovación fracasó ahí y qué supuesto cultural la derrotó?"],
+ "lecturas":[
+  ["Bryk, A. & Schneider, B. (2002). *Trust in Schools*.","muestra con datos longitudinales que la confianza relacional predice capacidad de mejora."],
+  ["Schein, E. (2010). *Organizational Culture and Leadership*.","el modelo de tres niveles —artefactos, valores declarados, supuestos básicos— aplicado aquí a la escuela."]],
+ "inclusion":"Las culturas escolares también definen a quién se considera «de aquí». Estudiantes migrantes, con discapacidad o de trayectorias irregulares suelen chocar con supuestos no escritos sobre el estudiante esperado. Detectar esos supuestos es condición para que cualquier política de inclusión pase del papel a la práctica.",
+ "reto":"Documenta durante una semana tres situaciones en que la cultura de tu institución decidió por sobre la norma escrita. Explica qué supuesto operó en cada una.",
+ "conexion":"Es antecedente directo de la parte 12 (clima y convivencia) y de la parte 15 (liderazgo y mejora). Se apoya en la clase 002: mucha cultura escolar es historia sedimentada."},
+
+{"n":11,"evidencia":"EN-DEBATE",
+ "foco":"qué se está midiendo realmente cuando se afirma que un sistema educativo tiene calidad",
+ "proposito":"Someter a examen dos palabras que se usan como si fueran obvias. Calidad y equidad admiten definiciones distintas y en tensión, y cada definición conduce a políticas, indicadores y prácticas de aula diferentes.",
+ "decision":"decidir con qué indicadores vas a afirmar que tu curso, programa o institución mejoró",
+ "entregable":"un tablero de tres a cinco indicadores propios, con definición, fuente, límite y el sesgo que cada uno introduce",
+ "conceptos":[
+  ["Calidad educativa","juicio sobre el valor de los procesos y resultados educativos; depende de los fines que se declaren"],
+  ["Equidad","distribución justa de oportunidades y resultados; no es lo mismo que igualdad de trato"],
+  ["Indicador","medida observable que se usa como aproximación de algo que no se puede medir directamente"],
+  ["Efecto de indicador","distorsión que produce medir: lo que se mide se prioriza y lo que no se mide se abandona"]],
+ "desarrollo":"Definir calidad solo por resultados en pruebas estandarizadas es defendible, pero tiene consecuencias conocidas: estrecha el currículo hacia lo evaluado, incentiva la selección de estudiantes y castiga a las instituciones que atienden a los más desaventajados. Definirla por procesos evita esos efectos pero pierde comparabilidad. No hay solución técnica a este dilema: hay decisiones que deben hacerse explícitas y compensarse con más de un indicador y con lecturas que consideren el punto de partida.",
+ "practica":"En el aula, la traducción es directa: si tu único indicador es el promedio del curso, estás midiendo también quién entró sabiendo. Un tablero razonable combina resultado, progreso individual, cobertura efectiva del currículo, participación y algo que capture al grupo más rezagado. La regla profesional es declarar el límite de cada indicador junto al indicador mismo, para que nadie lo lea como si midiera más de lo que mide.",
+ "limites":"Ninguna definición de calidad es neutra, y esta clase no zanja el debate: lo hace explícito. Además, todos los indicadores educativos tienen error de medición, y las comparaciones de corto plazo entre grupos pequeños suelen estar dentro del ruido. Afirmar mejora con una diferencia de dos puntos en un curso de treinta estudiantes es, casi siempre, un error de lectura.",
+ "errores":[
+  "Usar un único indicador y tratarlo como definición de calidad.",
+  "Comparar resultados entre grupos sin considerar el punto de partida ni el error de medición."],
+ "criterios":[
+  "cada indicador declara qué mide, qué no mide y qué conducta induce;",
+  "el tablero incluye al menos un indicador sensible a la situación del grupo más rezagado;"],
+ "preguntas":[
+  "¿Qué comportamiento induce en ti y en tus estudiantes el indicador que hoy usas?",
+  "¿Con qué indicador se vería mal una práctica que consideras valiosa?",
+  "¿Cómo distinguirías una mejora real de una fluctuación aleatoria en tu curso?"],
+ "lecturas":[
+  ["Biesta, G. (2010). *Good Education in an Age of Measurement*.","argumenta que medir bien no responde qué es buena educación; el contrapeso necesario a los tableros."],
+  ["Agencia de Calidad de la Educación (Chile). *Informes técnicos y Otros Indicadores de Calidad*.","muestra un intento institucional de ampliar la definición de calidad más allá del puntaje; léelo con sus notas técnicas."]],
+ "inclusion":"Los indicadores promedio ocultan sistemáticamente a los estudiantes con mayores dificultades: una mejora del promedio puede coexistir con un deterioro en el grupo más rezagado. Todo tablero con pretensión de equidad debe poder mostrar qué pasó con quienes estaban más abajo.",
+ "reto":"Construye tu tablero y aplícalo a datos reales de tu grupo. Identifica un caso donde el indicador te habría llevado a una conclusión equivocada y explica qué información faltaba.",
+ "conexion":"Cierra la discusión abierta en las clases 003 y 008, y prepara la parte 11 (validez y uso de los resultados) y la parte 15 (indicadores institucionales)."},
+
+{"n":12,"evidencia":"MARCO-NORMATIVO",
+ "foco":"cómo se conecta cada decisión de tu aula con la estructura, el financiamiento y la regulación del sistema en que trabajas",
+ "proposito":"Integrar la parte en un producto profesional: un mapa del sistema educativo que muestre actores, competencias, flujos de decisión y vías de reclamo, y que permita ubicar cualquier problema concreto en el nivel donde efectivamente se resuelve.",
+ "decision":"decidir a qué nivel del sistema corresponde resolver un problema y con qué instrumento",
+ "entregable":"el mapa del sistema educativo chileno con actores, competencias y vías de reclamo, más tres casos ubicados en él",
+ "conceptos":[
+  ["Nivel de decisión","instancia —aula, establecimiento, sostenedor, autoridad nacional— con competencia sobre un asunto"],
+  ["Sostenedor","persona jurídica responsable del establecimiento ante la autoridad, con obligaciones legales propias"],
+  ["Aseguramiento de la calidad","conjunto de instituciones que evalúan, fiscalizan y apoyan a los establecimientos"],
+  ["Vía de reclamo","procedimiento formal por el que un miembro de la comunidad exige el cumplimiento de un derecho"]],
+ "desarrollo":"El proyecto integrador exige poner junto lo que la parte trató por separado. Un problema de aula —un estudiante sin apoyos, una sanción desproporcionada, un currículo imposible de cubrir— casi nunca se resuelve en un solo nivel. Saber quién tiene la competencia, qué instrumento la ejerce y qué plazo corre es lo que separa un reclamo eficaz de una queja. El mapa que construyas aquí es una herramienta de trabajo, no un ejercicio académico.",
+ "practica":"Construye el mapa con cuatro capas: actores e instituciones con sus competencias; instrumentos que cada uno maneja; flujos de decisión entre ellos; y vías de reclamo disponibles para estudiantes y familias. Después ubica tres casos reales y sigue su recorrido completo. Si un caso no encuentra su vía, es una señal de que el mapa está incompleto, no de que el caso sea irresoluble.",
+ "limites":"El mapa refleja la institucionalidad vigente a una fecha y envejece: las competencias se redistribuyen, los servicios cambian de nombre y las vías de reclamo se modifican. Debe llevar fecha de elaboración y fuente, y revisarse antes de usarlo para una decisión con consecuencias. Un mapa desactualizado orienta con seguridad hacia el lugar equivocado.",
+ "errores":[
+  "Dibujar el organigrama y llamarlo mapa del sistema, sin instrumentos ni vías de reclamo.",
+  "Omitir la fecha y la fuente, con lo que el mapa deja de ser verificable."],
+ "criterios":[
+  "el mapa incluye actores, competencias, instrumentos y vías de reclamo, con fuente y fecha;",
+  "los tres casos recorren el mapa completo hasta una instancia que efectivamente puede resolver;"],
+ "preguntas":[
+  "¿Dónde se decide realmente el problema que más te afecta en tu práctica?",
+  "¿Qué instrumento concreto usarías para exigir el cumplimiento de un derecho vulnerado?",
+  "¿Qué parte de tu mapa quedará obsoleta primero y cómo lo verificarás?"],
+ "lecturas":[
+  ["Biblioteca del Congreso Nacional de Chile. *LeyChile*.","fuente oficial de normativa consolidada; usa siempre la versión vigente a la fecha en que aplicarás la norma."],
+  ["Mineduc, Agencia de Calidad y Superintendencia de Educación. *Sitios institucionales*.","definen competencias, procedimientos y vías de reclamo del sistema de aseguramiento de la calidad."]],
+ "inclusion":"Las familias con menos capital cultural y las que no hablan español con fluidez son las que menos usan las vías de reclamo existentes. Un mapa útil incluye cómo se comunica esa información a quienes más la necesitan, no solo dónde está publicada.",
+ "reto":"Presenta tu mapa a alguien ajeno al sistema educativo y pídele que ubique un problema propio. Corrige el mapa en todo punto donde esa persona se pierda: si no se entiende, no sirve.",
+ "conexion":"Cierra la parte 00 integrando las clases 005, 007, 009 y 011. Es la base institucional sobre la que trabajan la parte 12 (protocolos), la parte 15 (gestión) y todo el material de `chile-education-system/`."}
+]

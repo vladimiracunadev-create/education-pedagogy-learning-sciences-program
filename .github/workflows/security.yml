@@ -1,0 +1,80 @@
+name: Seguridad
+
+on:
+  pull_request:
+  push:
+    branches: ["main"]
+  schedule:
+    # Revisión semanal: los hallazgos de secretos y de workflows no dependen de que
+    # alguien empuje código, y este repositorio cambia por temporadas.
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: seguridad-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  secretos:
+    name: Búsqueda de secretos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout con historial completo
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          fetch-depth: 0
+
+      - name: gitleaks
+        uses: gitleaks/gitleaks-action@ff98106e4c7b2bc287b24eaf42907196329070c7 # v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  workflows:
+    name: Auditoría de workflows
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Setup Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: "3.12"
+
+      - name: zizmor
+        run: |
+          python -m pip install --upgrade pip
+          pip install zizmor
+          zizmor .github/workflows/
+
+  datos-personales:
+    name: Sin datos personales ni archivos privados
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      # Este repositorio se compromete a no contener datos reales de estudiantes.
+      # La comprobación es simple a propósito: detecta los descuidos habituales.
+      - name: Comprobar que no entraron archivos excluidos
+        run: |
+          encontrados=$(git ls-files | grep -E '^(privado/|datos-reales/)|\.(xlsx|pem|key|p12|pfx)$' || true)
+          if [ -n "$encontrados" ]; then
+            echo "FALLÓ: archivos que no deben versionarse:"
+            echo "$encontrados"
+            exit 1
+          fi
+          echo "OK: no hay archivos excluidos versionados."
+
+      - name: Comprobar que los datasets siguen siendo sintéticos
+        run: |
+          if [ -d datasets ]; then
+            grep -rl "sintétic" datasets --include='*.md' >/dev/null || {
+              echo "FALLÓ: datasets/ debe declarar explícitamente que sus datos son sintéticos."
+              exit 1
+            }
+          fi
+          echo "OK: los datos declaran su origen sintético."

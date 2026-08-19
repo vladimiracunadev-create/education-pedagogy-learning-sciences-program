@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Participación desigual",
+    "situation": "Cinco estudiantes responden casi todo; el resto permanece pasivo.",
+    "options": [
+      {
+        "text": "Seguir preguntando solo a voluntarios",
+        "score": 0
+      },
+      {
+        "text": "Dar tiempo de pensamiento y usar participación estructurada",
+        "score": 2
+      },
+      {
+        "text": "Reprender al curso por no participar",
+        "score": -1
+      }
+    ],
+    "reflection": "Distingue falta de conocimiento, tiempo de procesamiento, seguridad psicológica y estructura de participación."
+  },
+  {
+    "id": 2,
+    "title": "Tarea copiada",
+    "situation": "Dos estudiantes entregan respuestas idénticas y no pueden explicarlas.",
+    "options": [
+      {
+        "text": "Calificar sin revisar porque está correcto",
+        "score": -1
+      },
+      {
+        "text": "Pedir explicación, recoger evidencia adicional y aplicar política conocida",
+        "score": 2
+      },
+      {
+        "text": "Acusar públicamente de deshonestidad",
+        "score": -2
+      }
+    ],
+    "reflection": "La evaluación debe distinguir producto de aprendizaje demostrado y respetar procedimientos."
+  }
+]
