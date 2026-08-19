@@ -18,6 +18,10 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from fuentes import es_institucional  # noqa: E402
+
 RAIZ = Path(__file__).resolve().parents[1]
 CURRICULO = RAIZ / "curriculum"
 MANIFIESTOS = RAIZ / "manifests"
@@ -237,30 +241,15 @@ def metricas() -> dict[str, int]:
     }
 
 
-# Marcas de fuente institucional o normativa: útiles y necesarias, pero no
-# sustituyen a un libro o a un artículo cuando la clase afirma algo sobre
-# cómo se aprende o cómo se enseña.
-INSTITUCIONALES = (
-    "mineduc", "ministerio", "biblioteca del congreso", "agencia de calidad",
-    "superintendencia", "ocde", "unesco", "unicef", "organización", "organizacion",
-    "comisión europea", "comision europea", "banco mundial", "foro económico",
-    "education endowment", "casel", "cast", "ley ", "decreto ", "convención",
-    "convencion", "national autism", "programa de educación", "sistema de créditos",
-    "sistema de creditos", "normativa", "informe belmont", "declaration on research",
-    "tuning", "aera", "who", "oit", "unevoc", "w3c", "aaidd", "comisión nacional",
-    "comision nacional", "subsecretaría", "subsecretaria", "center on the developing",
-    "international center for academic", "committee on publication", "what works clearinghouse",
-)
-
+# Las fuentes institucionales son útiles y necesarias, pero no sustituyen a un libro
+# o a un artículo cuando la clase afirma algo sobre cómo se aprende o cómo se enseña.
+# Quién es organismo y quién es autor lo decide `fuentes.es_institucional`, que es la
+# misma función que usan el índice de obras citadas y el registro de fuentes.
+#
 # Una fuente sirve para volver a ella. Se exige año de publicación o, para los
 # documentos vivos, la marca explícita de que se cita la versión en curso.
 ANIO = re.compile(r"\((?:\d{4}[a-z]?|eds?\.,? ?\d{4}|edición vigente|version vigente)\)")
 VIGENTE = "edición vigente"
-
-
-def es_institucional(cita: str) -> bool:
-    minuscula = cita.strip().lower()
-    return any(minuscula.startswith(marca) for marca in INSTITUCIONALES)
 
 
 def validar_fuentes(fallos: list[str]) -> int:

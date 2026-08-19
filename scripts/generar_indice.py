@@ -20,6 +20,10 @@ import json
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from fuentes import es_institucional  # noqa: E402
+
 RAIZ = Path(__file__).resolve().parents[1]
 MANIFIESTOS = RAIZ / "manifests"
 CURRICULO = RAIZ / "curriculum"
@@ -100,6 +104,12 @@ def construir_status(curriculo, packs, clases, etapas) -> str:
     lecturas = sum(len(c["lecturas"]) for c in clases.values())
     docs = sorted((RAIZ / "docs").glob("*.md"))
 
+    # El registro de fuentes es la única cifra que no sale de los manifiestos: sale
+    # de lo que las APIs y los sitios oficiales respondieron. Se lee, no se estima.
+    registro = json.loads((RAIZ / "sources" / "bibliography.json").read_text(encoding="utf-8"))
+    obras = registro["entries"]
+    resueltas = [o for o in obras if o.get("status") == "verificada"]
+
     por_evidencia: dict[str, int] = {}
     for registro in clases.values():
         por_evidencia[registro["evidencia"]] = por_evidencia.get(registro["evidencia"], 0) + 1
@@ -137,6 +147,9 @@ coincidiendo con lo publicado.
 | Evidencias de aprendizaje definidas | {len(curriculo)} |
 | Preguntas de comprobación | {numero(len(curriculo) * 3)} |
 | Referencias bibliográficas citadas en clases | {numero(lecturas)} |
+| Obras en el registro de fuentes | {len(obras)} |
+| Obras con localizador verificado (ISBN-13, DOI o URL oficial) | {len(resueltas)} ({len(resueltas) * 100 // len(obras)}%) |
+| Obras pendientes de localizador, declaradas y no borradas | {len(obras) - len(resueltas)} |
 | Documentos transversales (`docs/`) | {len(docs)} |
 | Casos profesionales (`cases/`) | {len(list((RAIZ / 'cases').glob('*.md')))} |
 | Proyectos integradores mayores (`projects/`) | {len(list((RAIZ / 'projects').glob('*.md')))} |
@@ -162,6 +175,7 @@ robusta y cuánto es marco normativo o práctica profesional.
 
 ```bash
 python scripts/generar_clases.py --check
+python scripts/verificar_fuentes.py --check
 python scripts/validar_estructura.py --resumen
 python scripts/validar_encoding.py
 python -m unittest discover -s tests -v
@@ -188,6 +202,7 @@ DESCRIPCIONES = {
     "docs": "documentos transversales: metodología, guías, bibliografía, marcos y protocolos",
     "rutas": "guías de carrera por rol: qué es, día a día, ruta en el programa y credenciales",
     "scripts": "generadores y validadores; todo lo publicado se reconstruye con ellos",
+    "sources": "registro de fuentes: cada obra citada con su ISBN-13, su DOI o su URL oficial",
     "tests": "pruebas estructurales del repositorio",
     "cases": "casos profesionales para resolver con el marco del programa",
     "projects": "proyectos integradores mayores del programa",
@@ -416,23 +431,6 @@ def construir_glosario(curriculo, clases) -> str:
 # --------------------------------------------------------------------------- #
 # docs/OBRAS_CITADAS.md
 # --------------------------------------------------------------------------- #
-
-INSTITUCIONALES = (
-    "mineduc", "ministerio", "biblioteca del congreso", "agencia de calidad",
-    "superintendencia", "ocde", "unesco", "unicef", "organización", "organizacion",
-    "comisión europea", "comision europea", "banco mundial", "foro económico",
-    "education endowment", "casel", "cast", "ley ", "decreto ", "convención",
-    "convencion", "national autism", "programa de educación", "sistema de créditos",
-    "sistema de creditos", "normativa", "informe belmont", "declaration on research",
-    "tuning", "aera", "who", "oit", "unevoc",
-)
-
-
-def es_institucional(cita: str) -> bool:
-    """Distingue una fuente institucional o normativa de un libro o artículo."""
-    minuscula = cita.strip().lower()
-    return any(minuscula.startswith(marca) for marca in INSTITUCIONALES)
-
 
 def construir_obras_citadas(curriculo, packs, clases) -> str:
     """Índice exhaustivo de lo que citan las clases, generado desde los manifiestos.

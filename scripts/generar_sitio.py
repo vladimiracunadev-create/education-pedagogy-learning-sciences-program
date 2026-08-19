@@ -77,6 +77,11 @@ def en_linea(texto: str) -> str:
     texto = re.sub(r"`([^`]+)`", guardar, texto)
     texto = html.escape(texto, quote=False)
     texto = re.sub(r"&lt;br\s*/?&gt;", "<br>", texto)
+    # Ancla vacía de una fila del registro de fuentes: es la que permite enlazar una
+    # cita de clase con la ficha exacta de su obra. Se restaura tras el escapado
+    # porque el patrón es cerrado —solo un id en kebab-case— y el contenido lo genera
+    # este mismo repositorio, no una entrada externa.
+    texto = re.sub(r'&lt;a id="([a-z0-9-]+)"&gt;&lt;/a&gt;', lambda m: f'<a id="{m.group(1)}"></a>', texto)
     for patron, reemplazo in EN_LINEA:
         texto = patron.sub(reemplazo, texto)
     for indice, fragmento in enumerate(fragmentos):

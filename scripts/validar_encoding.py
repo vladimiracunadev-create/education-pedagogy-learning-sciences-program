@@ -22,7 +22,7 @@ RAIZ = Path(__file__).resolve().parents[1]
 
 EXTENSIONES = {".md", ".py", ".json", ".yml", ".yaml", ".txt", ".html", ".css", ".js", ".csv", ".toml"}
 IGNORADOS = {".git", "node_modules", ".venv", "venv", "__pycache__", "site", "capacitacion",
-             ".ruff_cache", ".pytest_cache", "output"}
+             ".ruff_cache", ".pytest_cache", ".cache", "output"}
 
 # Secuencias que solo aparecen cuando UTF-8 se interpretó como Latin-1 o cp1252.
 # Se construyen en tiempo de ejecución y no como literales: escribirlas a mano haría
