@@ -16,8 +16,8 @@ Lo que comprueba:
   5. ninguna entrada del registro queda sin usar, y `used_in` refleja exactamente
      lo que dicen los manifiestos;
   6. ningún bloque de fuentes se repite entre clases;
-  7. `docs/REGISTRO_DE_FUENTES.md` y las cifras del README coinciden con el
-     recuento del registro —las cifras las escribe este script, no una persona.
+  7. `docs/REGISTRO_DE_FUENTES.md` está al día y las cifras que el README da sobre
+     las fuentes coinciden con el recuento —las escribe este script, no una persona.
 
 Uso:
   python scripts/verificar_fuentes.py            # escribe el documento y las cifras
@@ -314,41 +314,23 @@ def documento_registro(registro: dict) -> str:
     return "\n".join(lineas)
 
 
-def bloque_readme(registro: dict) -> str:
-    d = F.resumen(registro)
-    return "\n".join([
-        MARCA_INICIO,
-        "",
-        "➡️ **[Registro de fuentes con localizador](docs/REGISTRO_DE_FUENTES.md)** — cada obra "
-        "con su ISBN-13, su DOI o la URL oficial que la resuelve.",
-        "",
-        "| Registro de fuentes | Cifra |",
-        "|---|---:|",
-        f"| Obras en el registro | **{d['obras']}** |",
-        f"| Con localizador verificado | **{d['verificadas']}** ({d['cobertura']} %) |",
-        f"| Pendientes, declaradas y no borradas | **{d['pendientes']}** |",
-        f"| Libros con ISBN-13 · artículos con DOI · normas con URL oficial | "
-        f"{d['libros']} · {d['articulos']} · {d['normas']} |",
-        f"| Obras usadas por una clase o parte, todas en el registro | "
-        f"{d['en_registro']}/{d['usadas']} |",
-        "",
-        "Las cifras de esta tabla las escribe `python scripts/verificar_fuentes.py`, que corre "
-        "en CI: si alguien las edita a mano, el CI se pone rojo.",
-        "",
-        MARCA_FIN,
-    ])
+def sin_bloque_de_registro(texto: str) -> str:
+    """Quita del README el bloque de cifras del registro, si quedara alguno.
+
+    El README presenta el programa; auditarlo es tarea de STATUS.md y del propio
+    documento del registro. Repetir ahí la misma tabla obligaba a leer dos veces
+    lo mismo sin añadir nada, así que el bloque se retira y no se vuelve a poner.
+    """
+    if MARCA_INICIO not in texto or MARCA_FIN not in texto:
+        return texto
+    inicio = texto.index(MARCA_INICIO)
+    fin = texto.index(MARCA_FIN) + len(MARCA_FIN)
+    return texto[:inicio].rstrip("\n") + "\n\n" + texto[fin:].lstrip("\n")
 
 
 def aplicar_readme(texto: str, registro: dict) -> str:
     d = F.resumen(registro)
-    bloque = bloque_readme(registro)
-    if MARCA_INICIO in texto and MARCA_FIN in texto:
-        inicio = texto.index(MARCA_INICIO)
-        fin = texto.index(MARCA_FIN) + len(MARCA_FIN)
-        texto = texto[:inicio] + bloque + texto[fin:]
-    else:
-        ancla = "**Las obras que más sostienen el programa:**"
-        texto = texto.replace(ancla, bloque + "\n\n" + ancla, 1)
+    texto = sin_bloque_de_registro(texto)
     texto = NAV_BIBLIOGRAFIA.sub(
         f"[📚 Bibliografía ({d['obras']} obras · {d['verificadas']} con localizador)]"
         "(docs/BIBLIOGRAFIA.md)",

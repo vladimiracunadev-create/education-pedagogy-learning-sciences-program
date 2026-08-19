@@ -439,22 +439,6 @@ quedar fuera del registro**, y el CI falla si alguna lo hace.
 ➡️ **[Obras citadas, clase por clase](docs/OBRAS_CITADAS.md)** — cada obra con el lente que aporta
 y el enlace a las clases que la usan.
 
-<!-- registro-de-fuentes:inicio -->
-
-➡️ **[Registro de fuentes con localizador](docs/REGISTRO_DE_FUENTES.md)** — cada obra con su ISBN-13, su DOI o la URL oficial que la resuelve.
-
-| Registro de fuentes | Cifra |
-|---|---:|
-| Obras en el registro | **489** |
-| Con localizador verificado | **376** (76.9 %) |
-| Pendientes, declaradas y no borradas | **113** |
-| Libros con ISBN-13 · artículos con DOI · normas con URL oficial | 127 · 165 · 84 |
-| Obras usadas por una clase o parte, todas en el registro | 489/489 |
-
-Las cifras de esta tabla las escribe `python scripts/verificar_fuentes.py`, que corre en CI: si alguien las edita a mano, el CI se pone rojo.
-
-<!-- registro-de-fuentes:fin -->
-
 **Las obras que más sostienen el programa:**
 
 | Obra | Aporta | Clases |
