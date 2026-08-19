@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-La segregación del sistema chileno es el rasgo que más condiciona las posibilidades de cualquier establecimiento, y opera antes de que cualquier decisión pedagógica se tome.
+La segregación del sistema chileno es el rasgo que más condiciona las posibilidades de cualquier establecimiento, y opera antes de que cualquier decisión pedagógica se tome. Su efecto práctico es que dos escuelas con la misma calidad de enseñanza obtienen resultados distintos, y que la comparación pública entre ellas premia a quien recibió a los estudiantes con más ventajas de origen.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

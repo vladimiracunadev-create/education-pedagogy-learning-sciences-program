@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Riesgo** | probabilidad de que ocurra un daño asociado a una tarea, equipo o condición |
 | **Medida de control** | acción que elimina, reduce o señaliza un riesgo, con jerarquía definida |
 | **Cultura preventiva** | conjunto de prácticas y supuestos compartidos que hacen de la seguridad una conducta por defecto |
-| **Responsabilidad institucional** | obligaciones del establecimiento sobre condiciones, supervisión y registro |
+| **Responsabilidad institucional** | obligaciones del establecimiento sobre condiciones del taller, supervisión, elementos de protección y registro de incidentes, exigibles con independencia de la conducta del estudiante |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Riesgo** no es l
 mismo que **Medida de control** —acción que elimina, reduce o señaliza un riesgo, con jerarquía definida—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Cultura preventiva** y
 **Responsabilidad institucional** describen aspectos distintos de la misma situación: el primero
-conjunto de prácticas y supuestos compartidos que hacen de la seguridad una conducta por defecto, mientras el segundo obligaciones del establecimiento sobre condiciones, supervisión y registro.
+conjunto de prácticas y supuestos compartidos que hacen de la seguridad una conducta por defecto, mientras el segundo obligaciones del establecimiento sobre condiciones del taller, supervisión, elementos de protección y registro de incidentes, exigibles con independencia de la conducta del estudiante.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no

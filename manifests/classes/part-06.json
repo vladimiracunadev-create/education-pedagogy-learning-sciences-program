@@ -123,7 +123,7 @@
       ],
       [
         "Práctica con corrección",
-        "ejecución del estudiante con retroalimentación inmediata sobre el error"
+        "ejecución del estudiante acompañada de retroalimentación inmediata sobre el error, antes de que el procedimiento incorrecto se automatice"
       ],
       [
         "Tiempo de práctica efectiva",
@@ -135,7 +135,7 @@
       ]
     ],
     "desarrollo": "El taller tiene una restricción estructural: equipos limitados y muchos estudiantes. Sin diseño, esa restricción produce clases donde unos pocos practican y el resto observa. La secuencia con mejor rendimiento es conocida —demostración con puntos críticos explícitos, práctica inmediata con corrección, práctica independiente y verificación individual— y su implementación depende enteramente de cómo se organiza la rotación y qué hacen los que esperan.",
-    "practica": "Diseñar la sesión implica calcular el tiempo de práctica efectiva por estudiante y organizar estaciones o tareas paralelas para que nadie espere sin hacer nada. La verificación individual al cierre es indispensable: sin ella, el estudiante que nunca ejecutó correctamente pasa inadvertido hasta la evaluación final.",
+    "practica": "Diseñar la sesión implica calcular el tiempo de práctica efectiva por estudiante y organizar estaciones o tareas paralelas para que nadie espere sin hacer nada. La verificación individual al cierre es indispensable: sin ella, el estudiante que nunca ejecutó correctamente pasa inadvertido hasta la evaluación final. El cálculo suele ser revelador: con veinticinco estudiantes, cuatro puestos de trabajo y noventa minutos, cada uno dispone de unos catorce minutos de máquina, y toda la planificación debe construirse sobre esa cifra y no sobre la duración nominal del taller.",
     "limites": "La demostración es necesaria y no suficiente: observar a un experto produce la ilusión de saber hacerlo. Esa ilusión es sistemática y explica por qué los estudiantes se sorprenden al fallar en la ejecución. La corrección inmediata durante la primera práctica es lo que evita que el error se consolide.",
     "errores": [
       "Diseñar la sesión sin calcular el tiempo real de práctica por estudiante.",
@@ -186,7 +186,7 @@
       ],
       [
         "Responsabilidad institucional",
-        "obligaciones del establecimiento sobre condiciones, supervisión y registro"
+        "obligaciones del establecimiento sobre condiciones del taller, supervisión, elementos de protección y registro de incidentes, exigibles con independencia de la conducta del estudiante"
       ]
     ],
     "desarrollo": "Un desempeño técnico ejecutado sin las medidas de seguridad no es un desempeño competente al que le falta algo: es un desempeño incorrecto. Formular así el criterio cambia la evaluación y también la cultura, porque el estudiante aprende que ambas cosas son la misma. En sentido inverso, un establecimiento que enseña seguridad como módulo teórico y luego tolera su incumplimiento en el taller enseña, con más fuerza, que la norma es opcional.",
@@ -249,7 +249,7 @@
       ]
     ],
     "desarrollo": "La rúbrica es el instrumento central de la evaluación técnica y la mayoría de las que circulan no cumplen su función, porque sus niveles se distinguen con adverbios —«siempre», «a veces», «adecuadamente»— que trasladan el juicio al evaluador. Una rúbrica útil describe qué se observa en cada nivel: qué tolerancia, qué acabado, qué secuencia, qué tiempo. Solo así dos evaluadores pueden coincidir.",
-    "practica": "Construirla exige partir de desempeños reales: mirar trabajos de distinta calidad y describir en qué se diferencian. Después se calibra con otro evaluador sobre casos reales y se reescriben los descriptores que produjeron desacuerdo. La rúbrica también debe declarar los criterios críticos, aquellos cuyo incumplimiento hace inválido el desempeño aunque el resto esté bien.",
+    "practica": "Construirla exige partir de desempeños reales: mirar trabajos de distinta calidad y describir en qué se diferencian. Después se calibra con otro evaluador sobre casos reales y se reescriben los descriptores que produjeron desacuerdo. La rúbrica también debe declarar los criterios críticos, aquellos cuyo incumplimiento hace inválido el desempeño aunque el resto esté bien. En especialidades donde hay riesgo físico, el criterio crítico suele ser de seguridad, y conviene que su incumplimiento detenga la evaluación en el momento en que ocurre.",
     "limites": "Las rúbricas mejoran la consistencia pero no garantizan validez: pueden ser muy consistentes midiendo lo que no importa. Además, descomponer demasiado el desempeño produce listas de verificación que pierden la calidad global del trabajo. El equilibrio entre analítico y holístico es una decisión profesional que depende del uso que se dará al resultado.",
     "errores": [
       "Diferenciar niveles con adverbios de frecuencia en vez de con rasgos observables.",
@@ -303,8 +303,8 @@
         "garantía de que la evidencia fue producida por el estudiante en las condiciones declaradas"
       ]
     ],
-    "desarrollo": "Un portafolio sin criterios es una carpeta. Lo que lo convierte en instrumento de evaluación es la definición previa de qué evidencia se exige por competencia, cuánta es suficiente y cómo se verifica su autenticidad. Esa definición debe hacerse antes de recolectar; hacerlo después obliga a aceptar lo que haya, que es como se llega a certificar competencias con evidencia insuficiente.",
-    "practica": "La estructura útil asocia cada competencia con sus evidencias requeridas —producto, registro de desempeño observado, fotografía fechada, informe del supervisor—, define el mínimo de cada tipo y establece cómo se verifica. La reflexión del estudiante sobre su propio proceso agrega valor formativo, pero no sustituye la evidencia de desempeño.",
+    "desarrollo": "Un portafolio sin criterios es una carpeta. Lo que lo convierte en instrumento de evaluación es la definición previa de qué evidencia se exige por competencia, cuánta es suficiente y cómo se verifica su autenticidad. Esa definición debe hacerse antes de recolectar; hacerlo después obliga a aceptar lo que haya, que es como se llega a certificar competencias con evidencia insuficiente. Conviene distinguir además evidencia de producto —lo que quedó hecho— de evidencia de desempeño —cómo lo hizo—, porque hay competencias que solo se acreditan observando el proceso.",
+    "practica": "La estructura útil asocia cada competencia con sus evidencias requeridas —producto, registro de desempeño observado, fotografía fechada, informe del supervisor—, define el mínimo de cada tipo y establece cómo se verifica. La reflexión del estudiante sobre su propio proceso agrega valor formativo, pero no sustituye la evidencia de desempeño. Conviene revisar el portafolio en dos momentos del año y no solo al final: la revisión intermedia permite recolectar lo que falta mientras todavía hay oportunidad de producirlo.",
     "limites": "Los portafolios son costosos de evaluar y su consistencia entre evaluadores es baja sin criterios explícitos y calibración. Además, la autenticidad es un problema real, agravado por las herramientas digitales: la evidencia documental sin observación directa del desempeño no basta para certificar una competencia técnica.",
     "errores": [
       "Definir los criterios de suficiencia después de haber recolectado las evidencias.",
@@ -358,9 +358,9 @@
         "correspondencia entre lo aprendido en cada espacio, de modo que se refuercen mutuamente"
       ]
     ],
-    "desarrollo": "Los sistemas duales muestran buenos resultados en transición al empleo en varios países, pero su eficacia depende de condiciones que rara vez se importan junto con el modelo: empresas con capacidad formativa, maestros guía preparados, currículo articulado y supervisión efectiva. Sin ellas, la alternancia se convierte en mano de obra barata con certificado, que es el riesgo principal del formato.",
+    "desarrollo": "Los sistemas duales muestran buenos resultados en transición al empleo en varios países, pero su eficacia depende de condiciones que rara vez se importan junto con el modelo: empresas con capacidad formativa, maestros guía preparados, currículo articulado y supervisión efectiva. Sin ellas, la alternancia se convierte en mano de obra barata con certificado, que es el riesgo principal del formato. La señal de alerta es observable: cuando el estudiante repite durante meses la misma tarea de baja complejidad, la empresa está resolviendo una necesidad operativa y no formando a nadie.",
     "practica": "El plan de alternancia debe declarar qué aprendizajes ocurren en cada espacio, cómo se registra el avance y quién evalúa qué. La preparación del maestro guía es la variable más descuidada y la más determinante: una persona competente en el oficio no necesariamente sabe enseñarlo ni evaluarlo, y el establecimiento tiene la responsabilidad de apoyarlo.",
-    "limites": "Los estudios comparados muestran resultados positivos en inserción laboral temprana y resultados más discutidos en trayectorias de largo plazo y movilidad. Además, la calidad varía enormemente entre empresas: promediar resultados oculta que una parte de los estudiantes tuvo una experiencia formativa y otra no.",
+    "limites": "Los estudios comparados muestran resultados positivos en inserción laboral temprana y resultados más discutidos en trayectorias de largo plazo y movilidad. Además, la calidad varía enormemente entre empresas: promediar resultados oculta que una parte de los estudiantes tuvo una experiencia formativa y otra no. Conviene por eso evaluar por centro de práctica y no en agregado, y estar dispuesto a retirar la alternancia de una empresa que no cumple, que es la decisión más incómoda y la que sostiene la calidad del programa.",
     "errores": [
       "Enviar estudiantes a empresas sin plan de alternancia ni acuerdos escritos.",
       "Suponer que un buen profesional de la empresa sabe formar y evaluar sin apoyo."
@@ -406,7 +406,7 @@
       ],
       [
         "Beneficio mutuo",
-        "condición para la sostenibilidad: ambas partes obtienen algo verificable"
+        "condición de sostenibilidad de la relación con la empresa: ambas partes obtienen algo verificable, más allá de la buena voluntad de una persona"
       ],
       [
         "Consejo asesor empresarial",
@@ -533,7 +533,7 @@
     ],
     "desarrollo": "Las competencias transversales son las más demandadas por los empleadores y las peor enseñadas por las instituciones, porque se tratan como rasgos y no como desempeños. La evidencia sugiere que son fuertemente dependientes del dominio: alguien que comunica bien en su oficio no necesariamente lo hace en otro contexto. Por eso se enseñan situadas en tareas reales del oficio, con desempeños definidos, y no como talleres genéricos.",
     "practica": "El procedimiento es el mismo que para cualquier competencia técnica: definir el desempeño observable en el contexto del oficio, modelarlo, practicarlo con retroalimentación y evaluarlo con criterios. «Trabajar en equipo» se convierte en «coordinar la entrega de un turno registrando lo pendiente y verificando que el receptor lo comprendió», que sí se puede enseñar y evaluar.",
-    "limites": "Hay debate real sobre la transferibilidad de estas competencias entre contextos, y la evidencia sobre programas genéricos de habilidades blandas es débil. Además, muchos instrumentos de evaluación miden autopercepción y no desempeño. La posición defendible es enseñarlas situadas y evaluarlas por desempeño observado.",
+    "limites": "Hay debate real sobre la transferibilidad de estas competencias entre contextos, y la evidencia sobre programas genéricos de habilidades blandas es débil. Además, muchos instrumentos de evaluación miden autopercepción y no desempeño. La posición defendible es enseñarlas situadas y evaluarlas por desempeño observado. Conviene además desconfiar de las listas de competencias del futuro que se renuevan cada dos años: describen tendencias del mercado y no resultados de aprendizaje, y confundirlas produce programas que persiguen etiquetas.",
     "errores": [
       "Enseñar habilidades transversales en talleres genéricos desconectados del oficio.",
       "Evaluar con escalas de autopercepción en vez de con desempeños observados."
@@ -575,11 +575,11 @@
     "conceptos": [
       [
         "Transición al trabajo",
-        "proceso entre la titulación y la inserción laboral estable"
+        "período entre la titulación y la inserción laboral estable, donde se juega buena parte del valor de la formación recibida"
       ],
       [
         "Seguimiento de egresados",
-        "recolección sistemática de información sobre trayectorias posteriores"
+        "recolección sistemática y periódica de información sobre las trayectorias posteriores, que permite corregir el programa con datos y no con impresiones"
       ],
       [
         "Empleabilidad",
@@ -638,7 +638,7 @@
       ],
       [
         "Coherencia del módulo",
-        "correspondencia entre competencia declarada, enseñanza diseñada y evaluación aplicada"
+        "correspondencia verificable entre la competencia declarada, la enseñanza efectivamente diseñada y la evaluación que certifica el desempeño"
       ],
       [
         "Progresión de dominio",
@@ -649,9 +649,9 @@
         "conjunto de evidencias que respalda la afirmación de competencia lograda"
       ]
     ],
-    "desarrollo": "El proyecto integrador exige que todos los instrumentos de la parte funcionen juntos. La prueba de calidad es simple de enunciar y difícil de pasar: tomar una competencia declarada y seguirla hasta la evidencia que la certifica, comprobando que la enseñanza intermedia efectivamente la desarrolla. La mayoría de los módulos falla en algún punto de esa cadena.",
-    "practica": "El diseño se ordena desde la competencia: estándar, evidencias, progresión de taller, matriz de riesgos incorporada a los criterios, rúbricas calibradas y estructura de portafolio. Después se ejecuta al menos una parte y se documenta la diferencia entre lo diseñado y lo ocurrido, que es donde aparece el aprendizaje profesional.",
-    "limites": "Un módulo bien diseñado no garantiza aprendizaje: depende de tiempo real, equipamiento disponible, tamaño del grupo y competencia del docente de taller. Declarar esas condiciones como supuestos del diseño es parte del rigor, y permite explicar los resultados sin atribuirlos a los estudiantes.",
+    "desarrollo": "El proyecto integrador exige que todos los instrumentos de la parte funcionen juntos. La prueba de calidad es simple de enunciar y difícil de pasar: tomar una competencia declarada y seguirla hasta la evidencia que la certifica, comprobando que la enseñanza intermedia efectivamente la desarrolla. La mayoría de los módulos falla en algún punto de esa cadena. El punto de quiebre más frecuente está entre la enseñanza y la evaluación: se enseña un procedimiento completo y se evalúa solo su resultado, con lo que la certificación acredita menos de lo que declara.",
+    "practica": "El diseño se ordena desde la competencia: estándar, evidencias, progresión de taller, matriz de riesgos incorporada a los criterios, rúbricas calibradas y estructura de portafolio. Después se ejecuta al menos una parte y se documenta la diferencia entre lo diseñado y lo ocurrido, que es donde aparece el aprendizaje profesional. Conviene incluir en el diseño la variable que más condiciona el taller: qué se hace cuando falta un insumo o se descompone una máquina, que ocurre todos los años y casi nunca está planificado.",
+    "limites": "Un módulo bien diseñado no garantiza aprendizaje: depende de tiempo real, equipamiento disponible, tamaño del grupo y competencia del docente de taller. Declarar esas condiciones como supuestos del diseño es parte del rigor, y permite explicar los resultados sin atribuirlos a los estudiantes. Hay además un límite de vigencia: los estándares del sector productivo cambian, y un módulo sin fecha de revisión termina formando para una práctica que la industria ya abandonó.",
     "errores": [
       "Diseñar el módulo desde las actividades disponibles en vez de desde la competencia.",
       "Certificar competencias con evidencia insuficiente por falta de tiempo o equipamiento."

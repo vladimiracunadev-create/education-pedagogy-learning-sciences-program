@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Experiencia de aprendizaje** | situación diseñada con intención pedagógica que integra ambiente, mediación y evidencia |
-| **Coherencia interna** | correspondencia entre objetivo, ambiente, mediación y evidencia recogida |
+| **Coherencia interna** | correspondencia entre el objetivo declarado, el ambiente dispuesto, la mediación del adulto y la evidencia que efectivamente se recoge |
 | **Mediación planificada** | previsión de qué dirá y hará el adulto para ampliar el aprendizaje durante la experiencia |
 | **Análisis posterior** | revisión de la evidencia para decidir qué se conserva, qué se ajusta y qué sigue |
 
@@ -88,13 +88,13 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El proyecto integrador exige que las decisiones que la parte trabajó por separado se sostengan juntas y sin contradicción. Es frecuente encontrar planificaciones con objetivos ambiciosos, ambientes que no los permiten y evaluaciones que miden otra cosa. La coherencia interna es el criterio central de esta evaluación, y se comprueba leyendo la experiencia completa de principio a fin.
+El proyecto integrador exige que las decisiones que la parte trabajó por separado se sostengan juntas y sin contradicción. Es frecuente encontrar planificaciones con objetivos ambiciosos, ambientes que no los permiten y evaluaciones que miden otra cosa. La coherencia interna es el criterio central de esta evaluación, y se comprueba leyendo la experiencia completa de principio a fin. Un punto de quiebre habitual está en el ambiente: se declara una experiencia de exploración autónoma y el material está guardado en altura, fuera del alcance de los niños.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Experiencia de aprendizaje** no es lo
-mismo que **Coherencia interna** —correspondencia entre objetivo, ambiente, mediación y evidencia recogida—, y tratarlos como sinónimos hace
+mismo que **Coherencia interna** —correspondencia entre el objetivo declarado, el ambiente dispuesto, la mediación del adulto y la evidencia que efectivamente se recoge—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Mediación planificada** y
 **Análisis posterior** describen aspectos distintos de la misma situación: el primero
 previsión de qué dirá y hará el adulto para ampliar el aprendizaje durante la experiencia, mientras el segundo revisión de la evidencia para decidir qué se conserva, qué se ajusta y qué sigue.
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Experiencia de aprendizaje** | Situación diseñada con intención pedagógica que integra ambiente, mediación y evidencia | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Coherencia interna** | Correspondencia entre objetivo, ambiente, mediación y evidencia recogida | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Coherencia interna** | Correspondencia entre el objetivo declarado, el ambiente dispuesto, la mediación del adulto y la evidencia que efectivamente se recoge | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

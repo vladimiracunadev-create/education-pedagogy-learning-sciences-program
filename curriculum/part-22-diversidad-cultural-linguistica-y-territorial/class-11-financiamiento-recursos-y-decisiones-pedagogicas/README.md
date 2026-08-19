@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-Los recursos adicionales existen precisamente para los estudiantes con más barreras. Gastarlos sin conexión con un problema documentado desvía el instrumento de equidad más importante del sistema.
+Los recursos adicionales existen precisamente para los estudiantes con más barreras. Gastarlos sin conexión con un problema documentado desvía el instrumento de equidad más importante del sistema. Conviene además revisar en qué se ejecutaron los últimos tres años: la respuesta suele mostrar una preferencia por compras visibles y una ausencia de inversión en tiempo docente, que es lo que efectivamente cambia lo que ocurre en la sala.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

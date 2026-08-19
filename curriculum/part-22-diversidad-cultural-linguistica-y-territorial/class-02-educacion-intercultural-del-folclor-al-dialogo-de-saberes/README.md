@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-La folclorización produce un daño específico: expone a los estudiantes de la cultura tratada como objeto de observación de sus compañeros, invirtiendo el propósito declarado del enfoque.
+La folclorización produce un daño específico: expone a los estudiantes de la cultura tratada como objeto de observación de sus compañeros, invirtiendo el propósito declarado del enfoque. Conviene además no delegar en ellos la representación de su pueblo: pedirle a un estudiante que explique «cómo son» sus tradiciones lo convierte en informante y no en aprendiz, que es exactamente el lugar que la escuela debía ofrecerle.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

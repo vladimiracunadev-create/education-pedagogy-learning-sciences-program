@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Construirla exige partir de desempeños reales: mirar trabajos de distinta calidad y describir en qué se diferencian. Después se calibra con otro evaluador sobre casos reales y se reescriben los descriptores que produjeron desacuerdo. La rúbrica también debe declarar los criterios críticos, aquellos cuyo incumplimiento hace inválido el desempeño aunque el resto esté bien.
+Construirla exige partir de desempeños reales: mirar trabajos de distinta calidad y describir en qué se diferencian. Después se calibra con otro evaluador sobre casos reales y se reescriben los descriptores que produjeron desacuerdo. La rúbrica también debe declarar los criterios críticos, aquellos cuyo incumplimiento hace inválido el desempeño aunque el resto esté bien. En especialidades donde hay riesgo físico, el criterio crítico suele ser de seguridad, y conviene que su incumplimiento detenga la evaluación en el momento en que ocurre.
 
 ### 5. Qué sostiene la evidencia y qué no
 

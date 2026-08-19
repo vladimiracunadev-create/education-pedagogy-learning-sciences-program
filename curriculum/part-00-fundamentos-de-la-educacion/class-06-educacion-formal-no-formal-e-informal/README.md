@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Educación formal** | la que conduce a certificación reconocida dentro del sistema escolar o superior |
 | **Educación no formal** | actividad educativa organizada e intencionada fuera del sistema reglado; suele certificar sin conducir a grado |
 | **Aprendizaje informal** | el que ocurre en la vida cotidiana sin intención educativa explícita ni estructura |
-| **Reconocimiento de aprendizajes previos** | procedimiento que valida competencias adquiridas fuera del sistema formal |
+| **Reconocimiento de aprendizajes previos** | procedimiento formal que evalúa y certifica competencias adquiridas fuera del sistema escolar, para no obligar a recorrer de nuevo lo ya aprendido |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Educación forma
 mismo que **Educación no formal** —actividad educativa organizada e intencionada fuera del sistema reglado; suele certificar sin conducir a grado—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Aprendizaje informal** y
 **Reconocimiento de aprendizajes previos** describen aspectos distintos de la misma situación: el primero
-el que ocurre en la vida cotidiana sin intención educativa explícita ni estructura, mientras el segundo procedimiento que valida competencias adquiridas fuera del sistema formal.
+el que ocurre en la vida cotidiana sin intención educativa explícita ni estructura, mientras el segundo procedimiento formal que evalúa y certifica competencias adquiridas fuera del sistema escolar, para no obligar a recorrer de nuevo lo ya aprendido.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no

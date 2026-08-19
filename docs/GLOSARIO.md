@@ -29,7 +29,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Acompañamiento en el puesto** — apoyo en el aula real, donde el cambio de práctica efectivamente ocurre. [Clase 215](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-11-formacion-de-docentes/README.md)
 
-- **Acompañamiento entre pares** — mentoría o apoyo estructurado que reduce el aislamiento profesional. [Clase 287](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-11-cuidado-del-equipo-y-liderazgo-del-bienestar/README.md)
+- **Acompañamiento entre pares** — apoyo estructurado entre docentes, con tiempo asignado y foco declarado, que reduce el aislamiento profesional de quien recién llega o enfrenta un curso difícil. [Clase 287](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-11-cuidado-del-equipo-y-liderazgo-del-bienestar/README.md)
 
 - **Acoso escolar** — conducta agresiva intencional, repetida en el tiempo y con asimetría de poder entre las partes. [Clase 257](../curriculum/part-21-desafios-actuales-del-aula/class-05-acoso-escolar-deteccion-e-intervencion-con-evidencia/README.md)
 
@@ -57,7 +57,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Acuerdo entre evaluadores** — grado en que dos personas asignan el mismo nivel al mismo desempeño. [Clase 077](../curriculum/part-06-educacion-tecnico-profesional/class-05-rubricas-de-desempeno/README.md)
 
-- **Acuerdo verificable** — compromiso concreto con responsable, plazo y forma de comprobación. [Clase 154](../curriculum/part-12-gestion-del-aula-y-convivencia/class-10-trabajo-con-apoderados/README.md)
+- **Acuerdo verificable** — compromiso concreto que declara quién hace qué, en qué plazo y cómo se comprobará, en vez de una intención general de mejorar. [Clase 154](../curriculum/part-12-gestion-del-aula-y-convivencia/class-10-trabajo-con-apoderados/README.md)
 - **Acuerdo verificable** — compromiso específico entre quien observa y quien enseña, con indicador observable, plazo declarado y fecha de revisión acordada. [Clase 184](../curriculum/part-15-gestion-y-liderazgo-educativo/class-04-feedback-a-docentes/README.md)
 
 - **Acumulación por adición** — dinámica por la cual se agregan tareas sin retirar ninguna, hasta que el conjunto se vuelve inejecutable. [Clase 285](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-09-carga-docente-tiempo-y-sostenibilidad/README.md)
@@ -266,10 +266,10 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Autonomía progresiva** — traspaso gradual de decisiones al estudiante conforme avanza su competencia. [Clase 179](../curriculum/part-14-docencia-universitaria/class-11-supervision-inicial-de-investigacion/README.md)
 
-- **Autoría** — reconocimiento de quienes contribuyeron sustantivamente, con criterios explícitos. [Clase 213](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-09-publicacion-y-peer-review/README.md)
+- **Autoría** — reconocimiento de quienes hicieron una contribución sustantiva al trabajo, con criterios de inclusión y de orden acordados por escrito al inicio. [Clase 213](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-09-publicacion-y-peer-review/README.md)
 
 - **Autoridad pedagógica** — legitimidad del docente para dirigir el aprendizaje, distinta del poder institucional. [Clase 003](../curriculum/part-00-fundamentos-de-la-educacion/class-03-filosofia-de-la-educacion/README.md)
-- **Autoridad pedagógica** — legitimidad reconocida por los estudiantes para dirigir el aprendizaje. [Clase 063](../curriculum/part-05-educacion-media-y-adolescencia/class-03-autoridad-pedagogica/README.md)
+- **Autoridad pedagógica** — legitimidad que los estudiantes reconocen para dirigir el aprendizaje, construida sobre competencia, justicia y consistencia, no sobre la jerarquía del cargo. [Clase 063](../curriculum/part-05-educacion-media-y-adolescencia/class-03-autoridad-pedagogica/README.md)
 
 - **Autorregulación** — ciclo de planificar, ejecutar, monitorear y ajustar el propio aprendizaje. [Clase 021](../curriculum/part-01-ciencias-del-aprendizaje/class-09-metacognicion/README.md)
 
@@ -291,11 +291,11 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Barrera observable** — obstáculo concreto y verificable que impide participar o aprender en una situación determinada. [Clase 241](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-01-de-la-categoria-diagnostica-a-la-estrategia-de-aula/README.md)
 
-- **Base legal** — fundamento jurídico que autoriza el tratamiento de datos personales. [Clase 167](../curriculum/part-13-tecnologia-e-ia-educativa/class-11-etica-privacidad-y-sesgos/README.md)
+- **Base legal** — fundamento jurídico que autoriza el tratamiento de datos personales; sin él, el consentimiento posterior no regulariza lo ya recogido. [Clase 167](../curriculum/part-13-tecnologia-e-ia-educativa/class-11-etica-privacidad-y-sesgos/README.md)
 
 - **Base segura** — función del adulto que permite al niño explorar sabiendo que hay retorno disponible. [Clase 030](../curriculum/part-02-desarrollo-humano/class-06-apego-y-vinculos/README.md)
 
-- **Beneficio mutuo** — condición para la sostenibilidad: ambas partes obtienen algo verificable. [Clase 080](../curriculum/part-06-educacion-tecnico-profesional/class-08-vinculo-educacion-empresa/README.md)
+- **Beneficio mutuo** — condición de sostenibilidad de la relación con la empresa: ambas partes obtienen algo verificable, más allá de la buena voluntad de una persona. [Clase 080](../curriculum/part-06-educacion-tecnico-profesional/class-08-vinculo-educacion-empresa/README.md)
 
 - **Bibliografía justificada** — selección de lecturas con indicación de para qué sirve cada una. [Clase 171](../curriculum/part-14-docencia-universitaria/class-03-syllabus-universitario/README.md)
 
@@ -311,7 +311,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Cadena de coherencia** — alineación entre currículum, formación docente, material y evaluación, que opera como sistema. [Clase 292](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-04-singapur-curriculum-formacion-docente-y-matematica/README.md)
 
-- **Calibración** — correspondencia entre la confianza declarada y el desempeño real. [Clase 021](../curriculum/part-01-ciencias-del-aprendizaje/class-09-metacognicion/README.md)
+- **Calibración** — correspondencia entre la confianza que el estudiante declara y su desempeño real; la sobreconfianza es la causa más frecuente de estudiar poco. [Clase 021](../curriculum/part-01-ciencias-del-aprendizaje/class-09-metacognicion/README.md)
 - **Calibración** — proceso de acordar la aplicación de la rúbrica entre evaluadores hasta lograr consistencia. [Clase 071](../curriculum/part-05-educacion-media-y-adolescencia/class-11-evaluacion-autentica/README.md)
 - **Calibración** — proceso de acuerdo entre evaluadores sobre la aplicación de los descriptores. [Clase 138](../curriculum/part-11-evaluacion-y-psicometria/class-06-rubricas-y-escalas/README.md)
 
@@ -350,16 +350,16 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Castigo** — consecuencia que disminuye la probabilidad de una conducta; con efectos secundarios documentados. [Clase 013](../curriculum/part-01-ciencias-del-aprendizaje/class-01-conductismo-y-aprendizaje-observable/README.md)
 
-- **Ciberacoso** — agresión sostenida mediante medios digitales; tiene tratamiento normativo específico. [Clase 070](../curriculum/part-05-educacion-media-y-adolescencia/class-10-ciudadania-digital/README.md)
+- **Ciberacoso** — agresión sostenida mediante medios digitales, con permanencia del contenido y audiencia indeterminada; tiene tratamiento normativo específico. [Clase 070](../curriculum/part-05-educacion-media-y-adolescencia/class-10-ciudadania-digital/README.md)
 - **Ciberacoso** — agresión sostenida mediante medios digitales, con posibilidad de anonimato, difusión amplia y permanencia del contenido. [Clase 258](../curriculum/part-21-desafios-actuales-del-aula/class-06-ciberacoso-y-conflictos-que-entran-desde-fuera/README.md)
 
 - **Ciclo de escalada** — secuencia predecible —disparador, agitación, crisis, recuperación— que permite intervenir antes del punto crítico. [Clase 259](../curriculum/part-21-desafios-actuales-del-aula/class-07-conductas-agresivas-y-desregulacion-emocional/README.md)
 
 - **Ciclo de mejora** — secuencia corta de probar, medir y ajustar sobre un problema específico. [Clase 189](../curriculum/part-15-gestion-y-liderazgo-educativo/class-09-mejora-escolar/README.md)
 
-- **Ciclo experiencial** — secuencia de experiencia concreta, reflexión, conceptualización y experimentación activa. [Clase 094](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-10-aprendizaje-experiencial/README.md)
+- **Ciclo experiencial** — secuencia de experiencia concreta, reflexión sobre lo ocurrido, conceptualización y nueva experimentación; sin la fase de reflexión el ciclo no se cierra y la experiencia no enseña. [Clase 094](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-10-aprendizaje-experiencial/README.md)
 
-- **Ciclo iterativo** — secuencia de diseño, implementación, análisis y rediseño. [Clase 210](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-06-investigacion-basada-en-diseno/README.md)
+- **Ciclo iterativo** — secuencia de diseño, implementación, análisis y rediseño, donde cada vuelta pone a prueba una conjetura declarada de antemano. [Clase 210](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-06-investigacion-basada-en-diseno/README.md)
 
 - **Cierre** — término planificado de la relación, con evaluación de lo logrado. [Clase 092](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-08-mentoria/README.md)
 
@@ -368,7 +368,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Cierre relacional** — acción final que restablece la relación de trabajo después de la corrección. [Clase 149](../curriculum/part-12-gestion-del-aula-y-convivencia/class-05-comunicacion-docente/README.md)
 
-- **Ciudadanía digital** — ejercicio responsable de derechos y deberes en entornos digitales. [Clase 070](../curriculum/part-05-educacion-media-y-adolescencia/class-10-ciudadania-digital/README.md)
+- **Ciudadanía digital** — ejercicio responsable de derechos y deberes en entornos digitales, que incluye consentimiento para difundir contenido de otros y cuidado de la propia exposición. [Clase 070](../curriculum/part-05-educacion-media-y-adolescencia/class-10-ciudadania-digital/README.md)
 
 - **Claridad de rol** — definición explícita de funciones, decisiones y expectativas de cada integrante. [Clase 187](../curriculum/part-15-gestion-y-liderazgo-educativo/class-07-gestion-de-equipos/README.md)
 
@@ -382,7 +382,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Clima de respeto** — trato que reconoce al adulto como profesional y no como alumno que debe ser controlado. [Clase 088](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-04-motivacion-en-adultos/README.md)
 
-- **Clima de transferencia** — condiciones organizacionales —apoyo, oportunidad, tiempo, herramientas— que permiten aplicar. [Clase 089](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-05-capacitacion-laboral/README.md)
+- **Clima de transferencia** — conjunto de condiciones organizacionales —apoyo de la jefatura, oportunidad de aplicar, tiempo y herramientas— sin las cuales lo aprendido no llega al puesto de trabajo. [Clase 089](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-05-capacitacion-laboral/README.md)
 
 - **Clima emocional del aula** — tono afectivo predominante en la interacción; condiciona la disposición a aprender. [Clase 029](../curriculum/part-02-desarrollo-humano/class-05-desarrollo-socioemocional/README.md)
 
@@ -402,21 +402,21 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Coherencia con la institución** — correspondencia entre el plan del docente y el reglamento y los protocolos vigentes. [Clase 156](../curriculum/part-12-gestion-del-aula-y-convivencia/class-12-proyecto-integrador-plan-de-gestion-de-aula/README.md)
 
-- **Coherencia curricular** — correspondencia verificable entre todos los niveles del diseño. [Clase 120](../curriculum/part-09-diseno-curricular/class-12-proyecto-integrador-curriculo-completo/README.md)
+- **Coherencia curricular** — correspondencia verificable entre perfil, mapa, secuencia, programas y evaluaciones, comprobable siguiendo un aprendizaje de punta a punta. [Clase 120](../curriculum/part-09-diseno-curricular/class-12-proyecto-integrador-curriculo-completo/README.md)
 
 - **Coherencia de apoyos** — conexión entre planificación de aula, plan de apoyo individual y trabajo del equipo. [Clase 108](../curriculum/part-08-inclusion-y-educacion-especial/class-12-proyecto-integrador-aula-accesible/README.md)
 
 - **Coherencia de programa** — articulación con las asignaturas previas y posteriores de la carrera. [Clase 170](../curriculum/part-14-docencia-universitaria/class-02-diseno-de-asignaturas/README.md)
 
-- **Coherencia del módulo** — correspondencia entre competencia declarada, enseñanza diseñada y evaluación aplicada. [Clase 084](../curriculum/part-06-educacion-tecnico-profesional/class-12-proyecto-integrador-modulo-tp/README.md)
+- **Coherencia del módulo** — correspondencia verificable entre la competencia declarada, la enseñanza efectivamente diseñada y la evaluación que certifica el desempeño. [Clase 084](../curriculum/part-06-educacion-tecnico-profesional/class-12-proyecto-integrador-modulo-tp/README.md)
 
 - **Coherencia evaluativa** — correspondencia verificable entre los aprendizajes declarados, los instrumentos que los miden y las decisiones que se toman con sus resultados. [Clase 144](../curriculum/part-11-evaluacion-y-psicometria/class-12-proyecto-integrador-sistema-de-evaluacion/README.md)
 
-- **Coherencia interna** — correspondencia entre objetivo, ambiente, mediación y evidencia recogida. [Clase 048](../curriculum/part-03-educacion-parvularia/class-12-proyecto-integrador-experiencia-parvularia/README.md)
-- **Coherencia interna** — correspondencia entre pregunta, marco, diseño, análisis y conclusiones. [Clase 204](../curriculum/part-16-investigacion-educativa/class-12-proyecto-integrador-investigacion-de-nivel-magister/README.md)
+- **Coherencia interna** — correspondencia entre el objetivo declarado, el ambiente dispuesto, la mediación del adulto y la evidencia que efectivamente se recoge. [Clase 048](../curriculum/part-03-educacion-parvularia/class-12-proyecto-integrador-experiencia-parvularia/README.md)
+- **Coherencia interna** — correspondencia verificable entre pregunta, marco, diseño, análisis y conclusiones, de modo que ninguna afirmación final exceda lo que el camino permite sostener. [Clase 204](../curriculum/part-16-investigacion-educativa/class-12-proyecto-integrador-investigacion-de-nivel-magister/README.md)
 - **Coherencia interna** — correspondencia entre lo que el plan enseña y lo que la institución efectivamente hace. [Clase 288](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-12-proyecto-integrador/README.md)
 
-- **Coherencia metodológica** — correspondencia entre supuestos declarados, pregunta y método elegido. [Clase 193](../curriculum/part-16-investigacion-educativa/class-01-epistemologia-de-la-investigacion/README.md)
+- **Coherencia metodológica** — correspondencia verificable entre los supuestos declarados, la pregunta formulada y el método elegido para responderla. [Clase 193](../curriculum/part-16-investigacion-educativa/class-01-epistemologia-de-la-investigacion/README.md)
 
 - **Compactación curricular** — eliminación del contenido ya dominado, comprobada con evaluación previa, para liberar tiempo. [Clase 250](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-10-altas-capacidades-enriquecimiento-y-aceleracion/README.md)
 
@@ -494,7 +494,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Condición de ejecución** — contexto, materiales, tiempo y restricciones en que se demuestra el desempeño. [Clase 073](../curriculum/part-06-educacion-tecnico-profesional/class-01-formacion-por-competencias/README.md)
 
-- **Condición de fracaso** — circunstancia local previsible que impediría que el mecanismo funcione. [Clase 300](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-12-proyecto-integrador/README.md)
+- **Condición de fracaso** — circunstancia local previsible —falta de tiempo docente, rotación, ausencia de formación— que impediría que el mecanismo funcione aquí aunque haya funcionado allá. [Clase 300](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-12-proyecto-integrador/README.md)
 
 - **Condición de implementación** — requisito sin el cual el método declarado no es el método que ocurre en la sala. [Clase 229](../curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-01-como-se-compara-un-enfoque-pedagogico/README.md)
 
@@ -517,8 +517,8 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Confidencialidad** — resguardo de la información sensible del estudiante, con sus excepciones legales explícitas. [Clase 004](../curriculum/part-00-fundamentos-de-la-educacion/class-04-etica-profesional-docente/README.md)
 
-- **Conflicto** — desacuerdo entre partes con poder relativamente equivalente; es mediable. [Clase 150](../curriculum/part-12-gestion-del-aula-y-convivencia/class-06-conflictos-entre-estudiantes/README.md)
-- **Conflicto** — desacuerdo entre partes con poder comparable, susceptible de mediación. [Clase 256](../curriculum/part-21-desafios-actuales-del-aula/class-04-violencia-escolar-tipos-factores-y-respuesta/README.md)
+- **Conflicto** — desacuerdo entre partes con poder relativamente equivalente, sin patrón de repetición ni asimetría sostenida; admite mediación. [Clase 150](../curriculum/part-12-gestion-del-aula-y-convivencia/class-06-conflictos-entre-estudiantes/README.md)
+- **Conflicto** — desacuerdo entre partes con poder comparable y sin patrón de repetición, que admite mediación y no requiere activar el protocolo de acoso. [Clase 256](../curriculum/part-21-desafios-actuales-del-aula/class-04-violencia-escolar-tipos-factores-y-respuesta/README.md)
 
 - **Conflicto cognitivo** — situación en que la evidencia contradice la concepción previa y fuerza su revisión. [Clase 015](../curriculum/part-01-ciencias-del-aprendizaje/class-03-constructivismo/README.md)
 
@@ -555,7 +555,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Consistencia** — correspondencia entre lo que se anuncia y lo que efectivamente ocurre, sostenida en el tiempo. [Clase 063](../curriculum/part-05-educacion-media-y-adolescencia/class-03-autoridad-pedagogica/README.md)
 
-- **Consistencia institucional** — aplicación uniforme de la política en todo el establecimiento. [Clase 153](../curriculum/part-12-gestion-del-aula-y-convivencia/class-09-uso-de-celulares-y-distracciones/README.md)
+- **Consistencia institucional** — aplicación uniforme de la política por todos los docentes del establecimiento, sin la cual la norma se negocia clase a clase. [Clase 153](../curriculum/part-12-gestion-del-aula-y-convivencia/class-09-uso-de-celulares-y-distracciones/README.md)
 
 - **Consistencia interna** — grado en que los ítems de una prueba miden lo mismo; se estima con coeficientes. [Clase 141](../curriculum/part-11-evaluacion-y-psicometria/class-09-confiabilidad/README.md)
 
@@ -587,7 +587,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Contraindicación** — condición —asimetría de poder, riesgo, no voluntariedad— que hace inapropiada la mediación. [Clase 261](../curriculum/part-21-desafios-actuales-del-aula/class-09-mediacion-escolar-y-practicas-restaurativas/README.md)
 
-- **Contrato de aprendizaje** — acuerdo explícito sobre metas, plazos, evidencia y apoyos disponibles. [Clase 087](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-03-aprendizaje-autodirigido/README.md)
+- **Contrato de aprendizaje** — acuerdo explícito entre quien aprende y quien forma sobre metas, plazos, evidencia comprometida y apoyos disponibles durante el proceso. [Clase 087](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-03-aprendizaje-autodirigido/README.md)
 
 - **Contribución** — aporte concreto al conocimiento o a la práctica que el estudio produce. [Clase 204](../curriculum/part-16-investigacion-educativa/class-12-proyecto-integrador-investigacion-de-nivel-magister/README.md)
 
@@ -599,9 +599,9 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Contribución intelectual** — aporte que hace avanzar la discusión, distinto de la cantidad de intervenciones. [Clase 173](../curriculum/part-14-docencia-universitaria/class-05-seminarios/README.md)
 
-- **Contribución metodológica** — desarrollo o validación de un instrumento, procedimiento o diseño. [Clase 206](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-02-contribucion-al-conocimiento/README.md)
+- **Contribución metodológica** — desarrollo o validación de un instrumento, procedimiento o diseño que otros podrán usar en contextos distintos del original. [Clase 206](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-02-contribucion-al-conocimiento/README.md)
 
-- **Contribución teórica** — aporte que modifica, refina o refuta una explicación existente. [Clase 206](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-02-contribucion-al-conocimiento/README.md)
+- **Contribución teórica** — aporte que modifica, refina o refuta una explicación existente, y no solo agrega un caso más a lo ya establecido. [Clase 206](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-02-contribucion-al-conocimiento/README.md)
 
 - **Control** — medida que reduce el efecto de una amenaza sin destruir la autenticidad de la tarea. [Clase 136](../curriculum/part-11-evaluacion-y-psicometria/class-04-evaluacion-autentica/README.md)
 
@@ -617,7 +617,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Corpus** — conjunto de documentos que el asistente puede consultar; define lo que puede responder bien. [Clase 165](../curriculum/part-13-tecnologia-e-ia-educativa/class-09-rag-y-tutores-educativos/README.md)
 
-- **Corrección oportuna** — retroalimentación entregada antes de que el error se consolide. [Clase 128](../curriculum/part-10-didactica-avanzada/class-08-practica-guiada-e-independiente/README.md)
+- **Corrección oportuna** — retroalimentación entregada antes de que el error se consolide, cuyo momento adecuado depende de la fase de aprendizaje y no es siempre inmediato. [Clase 128](../curriculum/part-10-didactica-avanzada/class-08-practica-guiada-e-independiente/README.md)
 
 - **Corregulación** — apoyo del adulto que permite al niño regularse antes de poder hacerlo solo. [Clase 029](../curriculum/part-02-desarrollo-humano/class-05-desarrollo-socioemocional/README.md)
 - **Corregulación** — apoyo del adulto que presta calma y lenguaje mientras el niño no puede regularse solo. [Clase 045](../curriculum/part-03-educacion-parvularia/class-09-desarrollo-socioemocional/README.md)
@@ -661,7 +661,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Criterio de inclusión** — regla explícita que define qué estudios entran en la revisión y cuáles no. [Clase 195](../curriculum/part-16-investigacion-educativa/class-03-revision-de-literatura/README.md)
 
-- **Criterio de logro** — nivel mínimo aceptable para considerar alcanzado el resultado. [Clase 112](../curriculum/part-09-diseno-curricular/class-04-resultados-de-aprendizaje/README.md)
+- **Criterio de logro** — nivel mínimo aceptable para considerar alcanzado el resultado, expresado de modo que dos evaluadores lleguen a la misma decisión. [Clase 112](../curriculum/part-09-diseno-curricular/class-04-resultados-de-aprendizaje/README.md)
 
 - **Criterio de retirada** — condición declarada de antemano que indica cuándo el apoyo deja de ser necesario. [Clase 241](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-01-de-la-categoria-diagnostica-a-la-estrategia-de-aula/README.md)
 
@@ -679,9 +679,9 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Currículo disciplinar** — organización en torno a la estructura del conocimiento de cada disciplina. [Clase 111](../curriculum/part-09-diseno-curricular/class-03-competencias/README.md)
 
-- **Currículo en espiral** — retorno planificado sobre un mismo contenido con mayor profundidad. [Clase 114](../curriculum/part-09-diseno-curricular/class-06-secuenciacion-curricular/README.md)
+- **Currículo en espiral** — retorno planificado sobre un mismo contenido con mayor profundidad y en contexto nuevo, distinto de repetir lo mismo en otro curso. [Clase 114](../curriculum/part-09-diseno-curricular/class-06-secuenciacion-curricular/README.md)
 
-- **Currículo por competencias** — organización en torno a desempeños integrados en situaciones reales. [Clase 111](../curriculum/part-09-diseno-curricular/class-03-competencias/README.md)
+- **Currículo por competencias** — organización del plan en torno a desempeños integrados en situaciones reales, en vez de en torno a la estructura interna de las disciplinas. [Clase 111](../curriculum/part-09-diseno-curricular/class-03-competencias/README.md)
 
 - **Currículo significativo** — contenido académico ajustado en complejidad pero no vaciado de sentido. [Clase 106](../curriculum/part-08-inclusion-y-educacion-especial/class-10-discapacidad-intelectual/README.md)
 
@@ -702,7 +702,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Deber de denuncia** — obligación legal de informar a la autoridad determinados hechos de los que se toma conocimiento. [Clase 263](../curriculum/part-21-desafios-actuales-del-aula/class-11-consumo-riesgo-psicosocial-y-derivacion/README.md)
 
 - **Debido proceso** — conjunto de garantías —información, defensa, plazos, proporcionalidad— antes de una sanción. [Clase 007](../curriculum/part-00-fundamentos-de-la-educacion/class-07-derecho-a-la-educacion/README.md)
-- **Debido proceso** — procedimiento justo ante una acusación de falta de integridad. [Clase 152](../curriculum/part-12-gestion-del-aula-y-convivencia/class-08-copias-plagio-e-integridad/README.md)
+- **Debido proceso** — conjunto de garantías —evidencia suficiente, oportunidad de explicar, proporcionalidad y registro— exigibles antes de sancionar una falta de integridad. [Clase 152](../curriculum/part-12-gestion-del-aula-y-convivencia/class-08-copias-plagio-e-integridad/README.md)
 - **Debido proceso** — conjunto de garantías —evidencia suficiente, derecho a defensa y proporcionalidad de la consecuencia— exigible antes de sancionar una acusación de deshonestidad. [Clase 177](../curriculum/part-14-docencia-universitaria/class-09-integridad-academica/README.md)
 
 - **Decisión asociada** — acción de enseñanza definida de antemano para cada resultado posible. [Clase 133](../curriculum/part-11-evaluacion-y-psicometria/class-01-evaluacion-diagnostica/README.md)
@@ -720,11 +720,11 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Decodificación** — conversión de la cadena escrita en lenguaje oral mediante correspondencias entre grafemas y fonemas. [Clase 049](../curriculum/part-04-educacion-basica/class-01-didactica-de-la-lectura/README.md)
 
-- **Defensa** — argumentación fundamentada de las decisiones ante una comisión especializada. [Clase 216](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-12-proyecto-integrador-propuesta-doctoral-defendible/README.md)
+- **Defensa** — argumentación fundamentada de cada decisión del trabajo ante una comisión especializada, que incluye reconocer con precisión los límites de lo que se puede afirmar. [Clase 216](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-12-proyecto-integrador-propuesta-doctoral-defendible/README.md)
 
 - **Defensa ante la comunidad** — capacidad de explicar a estudiantes y familias qué hace el sistema y con qué resguardos. [Clase 168](../curriculum/part-13-tecnologia-e-ia-educativa/class-12-proyecto-integrador-tutor-ia-responsable/README.md)
 
-- **Definición operacional** — traducción de un concepto a algo observable o medible. [Clase 196](../curriculum/part-16-investigacion-educativa/class-04-marco-teorico/README.md)
+- **Definición operacional** — traducción de un concepto a algo observable o medible, de modo que dos investigadores distintos reconozcan el mismo fenómeno. [Clase 196](../curriculum/part-16-investigacion-educativa/class-04-marco-teorico/README.md)
 
 - **Delegación pedagógica** — decisiones de enseñanza que quedan en manos del sistema y no del docente. [Clase 162](../curriculum/part-13-tecnologia-e-ia-educativa/class-06-aprendizaje-adaptativo/README.md)
 
@@ -801,7 +801,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Desregulación emocional** — pérdida temporal de la capacidad de modular la respuesta emocional, en que el razonamiento no está disponible. [Clase 259](../curriculum/part-21-desafios-actuales-del-aula/class-07-conductas-agresivas-y-desregulacion-emocional/README.md)
 
 - **Desvanecimiento** — retirada progresiva del modelo a medida que el estudiante puede ejecutar solo. [Clase 126](../curriculum/part-10-didactica-avanzada/class-06-modelamiento-y-think-aloud/README.md)
-- **Desvanecimiento** — retirada progresiva del apoyo conforme aumenta el dominio. [Clase 127](../curriculum/part-10-didactica-avanzada/class-07-scaffolding/README.md)
+- **Desvanecimiento** — retirada progresiva y planificada del apoyo conforme aumenta el dominio, con un criterio declarado que indica cuándo corresponde quitarlo. [Clase 127](../curriculum/part-10-didactica-avanzada/class-07-scaffolding/README.md)
 
 - **Detección** — identificación de señales que ameritan atención, función que sí corresponde a la escuela. [Clase 277](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-01-salud-mental-escolar-alcance-y-limites-de-la-escuela/README.md)
 
@@ -811,7 +811,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Diálogo de saberes** — puesta en relación de sistemas de conocimiento distintos, con reconocimiento de la validez de ambos. [Clase 266](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-02-educacion-intercultural-del-folclor-al-dialogo-de-saberes/README.md)
 
-- **Diálogo pedagógico** — conversación estructurada orientada a construir comprensión colectiva. [Clase 125](../curriculum/part-10-didactica-avanzada/class-05-dialogo-socratico/README.md)
+- **Diálogo pedagógico** — conversación estructurada donde las intervenciones se encadenan y se exige fundamentar, orientada a construir comprensión colectiva y no a recoger opiniones. [Clase 125](../curriculum/part-10-didactica-avanzada/class-05-dialogo-socratico/README.md)
 
 - **Diálogo problematizador** — método que parte de una situación significativa para el grupo y la convierte en objeto de análisis. [Clase 235](../curriculum/part-19-metodologias-y-enfoques-pedagogicos/class-07-pedagogia-critica-y-educacion-popular/README.md)
 
@@ -827,7 +827,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Digitalización educativa** — incorporación sistémica de tecnología en gestión y enseñanza, frecuentemente sobreatribuida como causa. [Clase 293](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-05-estonia-equidad-y-digitalizacion/README.md)
 
-- **Dirección de tesis** — acompañamiento del proceso investigativo con traspaso progresivo de autonomía. [Clase 214](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-10-direccion-y-evaluacion-de-tesis/README.md)
+- **Dirección de tesis** — acompañamiento del proceso investigativo con traspaso progresivo de autonomía, desde definir el problema junto al estudiante hasta dejarlo defender solo sus decisiones. [Clase 214](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-10-direccion-y-evaluacion-de-tesis/README.md)
 
 - **Discontinuidad en la regresión** — diseño que aprovecha un punto de corte administrativo para estimar efectos. [Clase 207](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-03-disenos-avanzados-de-investigacion/README.md)
 
@@ -835,7 +835,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Diseño basado en evidencia** — proceso de decidir la enseñanza a partir de mecanismos documentados y de evidencia disponible. [Clase 024](../curriculum/part-01-ciencias-del-aprendizaje/class-12-proyecto-integrador-diseno-basado-en-evidencia/README.md)
 
-- **Diseño cuasiexperimental** — comparación sin aleatorización, con controles que reducen algunas amenazas. [Clase 197](../curriculum/part-16-investigacion-educativa/class-05-disenos-cuantitativos/README.md)
+- **Diseño cuasiexperimental** — comparación entre grupos sin asignación aleatoria, con controles que reducen algunas amenazas a la validez pero no todas. [Clase 197](../curriculum/part-16-investigacion-educativa/class-05-disenos-cuantitativos/README.md)
 
 - **Diseño de ingeniería** — ciclo de definir, idear, prototipar, probar y mejorar bajo restricciones. [Clase 068](../curriculum/part-05-educacion-media-y-adolescencia/class-08-stem-y-steam/README.md)
 
@@ -849,7 +849,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Dislexia** — dificultad persistente y específica en el reconocimiento preciso y fluido de palabras, de base fonológica y no explicada por falta de enseñanza. [Clase 224](../curriculum/part-18-alfabetizacion-inicial-y-ciencia-de-la-lectura/class-08-dislexia-y-dificultades-especificas-de-lectura/README.md)
 
-- **Distractor diagnóstico** — opción incorrecta diseñada para revelar un error conceptual específico. [Clase 124](../curriculum/part-10-didactica-avanzada/class-04-preguntas-de-alto-nivel/README.md)
+- **Distractor diagnóstico** — opción incorrecta construida a partir de un error conceptual real, de modo que elegirla informe qué está fallando. [Clase 124](../curriculum/part-10-didactica-avanzada/class-04-preguntas-de-alto-nivel/README.md)
 
 - **Distractor plausible** — alternativa incorrecta que resulta atractiva para quien tiene un error conceptual específico. [Clase 137](../curriculum/part-11-evaluacion-y-psicometria/class-05-construccion-de-items/README.md)
 
@@ -863,7 +863,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Documentación del diseño** — registro que permite a otros entender y sostener las decisiones tomadas. [Clase 120](../curriculum/part-09-diseno-curricular/class-12-proyecto-integrador-curriculo-completo/README.md)
 
-- **Documentación del sistema** — registro de fuentes, límites, verificación y responsables. [Clase 168](../curriculum/part-13-tecnologia-e-ia-educativa/class-12-proyecto-integrador-tutor-ia-responsable/README.md)
+- **Documentación del sistema** — registro de fuentes, límites, procedimiento de verificación y responsables, que permite auditar el tutor sin depender de quien lo construyó. [Clase 168](../curriculum/part-13-tecnologia-e-ia-educativa/class-12-proyecto-integrador-tutor-ia-responsable/README.md)
 
 - **Documentación evolutiva** — registro sistemático y fechado de observaciones que permite ver cambio en el tiempo. [Clase 036](../curriculum/part-02-desarrollo-humano/class-12-proyecto-integrador-trayectoria-de-desarrollo/README.md)
 
@@ -931,7 +931,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Ejecutabilidad** — propiedad de un plan que puede aplicar un docente que no participó en su elaboración. [Clase 252](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-12-proyecto-integrador/README.md)
 
-- **Ejemplo** — caso que cumple todas las condiciones del concepto. [Clase 123](../curriculum/part-10-didactica-avanzada/class-03-ejemplos-y-contraejemplos/README.md)
+- **Ejemplo** — caso que cumple todas las condiciones del concepto; varía en su apariencia superficial para que el estudiante no asocie el concepto con un contexto único. [Clase 123](../curriculum/part-10-didactica-avanzada/class-03-ejemplos-y-contraejemplos/README.md)
 
 - **Ejemplo modelo** — trabajo real que ilustra el criterio y hace visible el estándar esperado. [Clase 113](../curriculum/part-09-diseno-curricular/class-05-objetivos-de-aprendizaje/README.md)
 
@@ -940,14 +940,14 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Elemento común** — coincidencia entre casos distintos, que aumenta la plausibilidad de un mecanismo. [Clase 297](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-09-portugal-y-polonia-reformas-que-movieron-resultados/README.md)
 
-- **Emparejamiento** — proceso de asignar mentor y participante según criterios explícitos. [Clase 092](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-08-mentoria/README.md)
+- **Emparejamiento** — proceso de asignar mentor y participante según criterios explícitos de área, experiencia y disponibilidad, en vez de por cercanía o afinidad casual. [Clase 092](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-08-mentoria/README.md)
 - **Emparejamiento** — procedimiento que construye grupos comparables a partir de características observadas. [Clase 207](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-03-disenos-avanzados-de-investigacion/README.md)
 
 - **Empleabilidad** — conjunto de competencias, credenciales y redes que facilitan obtener y sostener un empleo. [Clase 083](../curriculum/part-06-educacion-tecnico-profesional/class-11-empleabilidad-y-transicion-al-trabajo/README.md)
 
 - **Encadenamiento** — conexión de cada intervención con la anterior para que la discusión progrese. [Clase 125](../curriculum/part-10-didactica-avanzada/class-05-dialogo-socratico/README.md)
 
-- **Enfoque concreto-pictórico-abstracto** — progresión de representaciones característica del método de matemática singapurense. [Clase 292](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-04-singapur-curriculum-formacion-docente-y-matematica/README.md)
+- **Enfoque concreto-pictórico-abstracto** — progresión de representaciones que va del material manipulable al dibujo y de ahí al símbolo, característica del método de matemática singapurense. [Clase 292](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-04-singapur-curriculum-formacion-docente-y-matematica/README.md)
 
 - **Enfoque profundo** — intención de comprender, relacionar y aplicar; se asocia con mejores resultados de largo plazo. [Clase 169](../curriculum/part-14-docencia-universitaria/class-01-aprendizaje-en-educacion-superior/README.md)
 
@@ -1008,7 +1008,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Estabilidad de política** — continuidad de las orientaciones a lo largo de décadas y de gobiernos sucesivos. [Clase 291](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-03-finlandia-que-se-malinterpreto/README.md)
 
-- **Estadística descriptiva** — resumen de los datos observados: distribución, tendencia central, dispersión. [Clase 201](../curriculum/part-16-investigacion-educativa/class-09-estadistica-descriptiva-e-inferencial/README.md)
+- **Estadística descriptiva** — resumen de los datos efectivamente observados —distribución, tendencia central, dispersión— sin pretender aún inferir sobre una población. [Clase 201](../curriculum/part-16-investigacion-educativa/class-09-estadistica-descriptiva-e-inferencial/README.md)
 
 - **Estado del arte** — síntesis crítica de lo que el campo sabe, discute y no ha resuelto. [Clase 205](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-01-problema-doctoral-y-originalidad/README.md)
 
@@ -1075,7 +1075,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Evaluación sumativa** — valoración del logro al final de un período, con consecuencias para el estudiante. [Clase 135](../curriculum/part-11-evaluacion-y-psicometria/class-03-evaluacion-sumativa/README.md)
 
-- **Evidencia** — observación registrada que permite apoyar o descartar una explicación. [Clase 052](../curriculum/part-04-educacion-basica/class-04-didactica-de-las-ciencias/README.md)
+- **Evidencia** — observación registrada que permite apoyar o descartar una explicación, distinta de la opinión sobre lo que debería haber ocurrido. [Clase 052](../curriculum/part-04-educacion-basica/class-04-didactica-de-las-ciencias/README.md)
 - **Evidencia** — información verificable que respalda una razón; distinta de la opinión y de la anécdota. [Clase 067](../curriculum/part-05-educacion-media-y-adolescencia/class-07-debate-y-argumentacion/README.md)
 
 - **Evidencia aceptable** — desempeño o producto que permitiría afirmar con confianza que el aprendizaje ocurrió. [Clase 116](../curriculum/part-09-diseno-curricular/class-08-backward-design/README.md)
@@ -1096,7 +1096,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Exclusión** — impedimento de acceso, permanencia o participación, incluso cuando el estudiante está presente. [Clase 097](../curriculum/part-08-inclusion-y-educacion-especial/class-01-educacion-inclusiva/README.md)
 
-- **Exigencia con apoyo** — combinación de expectativas altas con andamiaje suficiente para alcanzarlas. [Clase 145](../curriculum/part-12-gestion-del-aula-y-convivencia/class-01-clima-de-aula/README.md)
+- **Exigencia con apoyo** — combinación de expectativas altas con el andamiaje suficiente para alcanzarlas; sin apoyo la exigencia excluye, sin exigencia el apoyo condesciende. [Clase 145](../curriculum/part-12-gestion-del-aula-y-convivencia/class-01-clima-de-aula/README.md)
 
 - **Exigencia de fundamento** — norma de que toda afirmación se acompaña de una razón o de evidencia. [Clase 125](../curriculum/part-10-didactica-avanzada/class-05-dialogo-socratico/README.md)
 
@@ -1218,7 +1218,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Hipótesis explicativa** — conjetura sobre la causa de un resultado, que debe evaluarse por la evidencia que la respalda. [Clase 293](../curriculum/part-24-modelos-educativos-internacionales-y-evidencia-comparada/class-05-estonia-equidad-y-digitalizacion/README.md)
 
-- **Historia de fracaso** — acumulación de experiencias que hacen racional dejar de intentar. [Clase 151](../curriculum/part-12-gestion-del-aula-y-convivencia/class-07-desmotivacion-y-resistencia/README.md)
+- **Historia de fracaso** — acumulación de experiencias escolares negativas que vuelve racional dejar de intentar, porque el esfuerzo solo confirmaría públicamente la dificultad. [Clase 151](../curriculum/part-12-gestion-del-aula-y-convivencia/class-07-desmotivacion-y-resistencia/README.md)
 
 - **Hito de avance** — punto de control con entrega y retroalimentación en fecha definida. [Clase 178](../curriculum/part-14-docencia-universitaria/class-10-proyectos-de-titulo/README.md)
 
@@ -1395,7 +1395,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Lengua de señas chilena** — lengua natural de la comunidad sorda del país, reconocida legalmente y distinta del castellano. [Clase 247](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-07-discapacidad-visual-y-auditiva-estrategias-de-acceso/README.md)
 
-- **Lenguaje artístico** — sistema de recursos expresivos propios de una disciplina artística. [Clase 054](../curriculum/part-04-educacion-basica/class-06-arte-y-creatividad/README.md)
+- **Lenguaje artístico** — sistema de recursos expresivos propios de una disciplina artística —color, ritmo, encuadre, gesto—, que se enseñan como contenido y no como resultado espontáneo. [Clase 054](../curriculum/part-04-educacion-basica/class-06-arte-y-creatividad/README.md)
 
 - **Lenguaje descriptivo** — descripción de la conducta observada sin juicio sobre la persona. [Clase 149](../curriculum/part-12-gestion-del-aula-y-convivencia/class-05-comunicacion-docente/README.md)
 
@@ -1533,7 +1533,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Necesidad educativa especial** — requerimiento de apoyos adicionales para acceder y progresar en el currículo. [Clase 101](../curriculum/part-08-inclusion-y-educacion-especial/class-05-necesidades-educativas-especiales/README.md)
 
-- **Necesidad permanente y transitoria** — distinción normativa que determina apoyos, plazos y procedimientos distintos. [Clase 101](../curriculum/part-08-inclusion-y-educacion-especial/class-05-necesidades-educativas-especiales/README.md)
+- **Necesidad permanente y transitoria** — distinción normativa que determina qué apoyos corresponden, con qué plazos y con qué procedimientos de evaluación y revisión. [Clase 101](../curriculum/part-08-inclusion-y-educacion-especial/class-05-necesidades-educativas-especiales/README.md)
 
 - **Neuromito** — creencia sobre el cerebro ampliamente difundida y refutada por la evidencia. [Clase 035](../curriculum/part-02-desarrollo-humano/class-11-diferencias-individuales/README.md)
 
@@ -1541,7 +1541,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Nivel de aprendizaje** — verificación de lo aprendido con instrumentos distintos de la autopercepción. [Clase 095](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-11-evaluacion-en-formacion-de-adultos/README.md)
 
-- **Nivel de conducta** — cambio observable en el desempeño del puesto de trabajo. [Clase 095](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-11-evaluacion-en-formacion-de-adultos/README.md)
+- **Nivel de conducta** — cambio observable en el desempeño del puesto de trabajo semanas después de la formación, distinto de la satisfacción declarada al terminar la sesión. [Clase 095](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-11-evaluacion-en-formacion-de-adultos/README.md)
 
 - **Nivel de decisión** — instancia —aula, establecimiento, sostenedor, autoridad nacional— con competencia sobre un asunto. [Clase 012](../curriculum/part-00-fundamentos-de-la-educacion/class-12-proyecto-integrador-mapa-del-sistema-educativo/README.md)
 
@@ -1580,7 +1580,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Observación sistemática** — mirar con un propósito definido y registrar lo observado de forma comparable. [Clase 044](../curriculum/part-03-educacion-parvularia/class-08-exploracion-del-entorno/README.md)
 - **Observación sistemática** — registro planificado de conductas específicas, con foco y criterio definidos de antemano. [Clase 046](../curriculum/part-03-educacion-parvularia/class-10-observacion-y-documentacion-pedagogica/README.md)
 
-- **Ontología** — supuestos sobre la naturaleza de aquello que se estudia. [Clase 193](../curriculum/part-16-investigacion-educativa/class-01-epistemologia-de-la-investigacion/README.md)
+- **Ontología** — supuestos sobre la naturaleza de aquello que se investiga: si existe con independencia de quien lo observa o si se constituye en la interacción. [Clase 193](../curriculum/part-16-investigacion-educativa/class-01-epistemologia-de-la-investigacion/README.md)
 
 - **Oportunidad de uso** — instancia posterior, planificada de antemano, donde el estudiante puede aplicar lo señalado sobre una tarea equivalente. [Clase 139](../curriculum/part-11-evaluacion-y-psicometria/class-07-retroalimentacion-efectiva/README.md)
 
@@ -1612,7 +1612,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Pedagogía** — disciplina que estudia y fundamenta la acción educativa; produce criterios, no recetas. [Clase 001](../curriculum/part-00-fundamentos-de-la-educacion/class-01-educacion-pedagogia-ensenanza-y-aprendizaje/README.md)
 
-- **Pensamiento en voz alta** — verbalización del razonamiento interno mientras se ejecuta la tarea. [Clase 126](../curriculum/part-10-didactica-avanzada/class-06-modelamiento-y-think-aloud/README.md)
+- **Pensamiento en voz alta** — verbalización del razonamiento mientras se ejecuta la tarea, incluidas las dudas y los descartes que el resultado final ya no muestra. [Clase 126](../curriculum/part-10-didactica-avanzada/class-06-modelamiento-y-think-aloud/README.md)
 
 - **Pensamiento histórico** — conjunto de operaciones —contextualizar, corroborar, atribuir— propias del oficio del historiador. [Clase 053](../curriculum/part-04-educacion-basica/class-05-historia-geografia-y-ciudadania/README.md)
 
@@ -1683,7 +1683,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Potencia estadística** — probabilidad de detectar un efecto existente; depende del tamaño de muestra y del efecto esperado. [Clase 200](../curriculum/part-16-investigacion-educativa/class-08-muestreo/README.md)
 
-- **Práctica con corrección** — ejecución del estudiante con retroalimentación inmediata sobre el error. [Clase 075](../curriculum/part-06-educacion-tecnico-profesional/class-03-talleres-y-laboratorios/README.md)
+- **Práctica con corrección** — ejecución del estudiante acompañada de retroalimentación inmediata sobre el error, antes de que el procedimiento incorrecto se automatice. [Clase 075](../curriculum/part-06-educacion-tecnico-profesional/class-03-talleres-y-laboratorios/README.md)
 
 - **Práctica de recuperación** — acto de traer a la memoria lo aprendido sin tenerlo a la vista; fortalece la retención más que releer. [Clase 020](../curriculum/part-01-ciencias-del-aprendizaje/class-08-practica-de-recuperacion-y-espaciado/README.md)
 
@@ -1714,7 +1714,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Pregunta de coaching** — intervención que ayuda a analizar el propio desempeño en vez de entregar la respuesta. [Clase 093](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-09-coaching-educativo/README.md)
 
-- **Pregunta de verificación** — interrogante diseñada para revelar comprensión o su ausencia. [Clase 124](../curriculum/part-10-didactica-avanzada/class-04-preguntas-de-alto-nivel/README.md)
+- **Pregunta de verificación** — interrogante diseñada para revelar comprensión o su ausencia en todo el grupo, y no para confirmar que alguien puede repetir lo dicho. [Clase 124](../curriculum/part-10-didactica-avanzada/class-04-preguntas-de-alto-nivel/README.md)
 
 - **Pregunta en vez de solución** — práctica de guiar el razonamiento en lugar de entregar la respuesta. [Clase 175](../curriculum/part-14-docencia-universitaria/class-07-tutorias-y-ayudantias/README.md)
 
@@ -1854,7 +1854,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Reconocimiento** — valoración específica del trabajo bien hecho; una de las pocas palancas siempre disponibles. [Clase 187](../curriculum/part-15-gestion-y-liderazgo-educativo/class-07-gestion-de-equipos/README.md)
 
-- **Reconocimiento de aprendizajes previos** — procedimiento que valida competencias adquiridas fuera del sistema formal. [Clase 006](../curriculum/part-00-fundamentos-de-la-educacion/class-06-educacion-formal-no-formal-e-informal/README.md)
+- **Reconocimiento de aprendizajes previos** — procedimiento formal que evalúa y certifica competencias adquiridas fuera del sistema escolar, para no obligar a recorrer de nuevo lo ya aprendido. [Clase 006](../curriculum/part-00-fundamentos-de-la-educacion/class-06-educacion-formal-no-formal-e-informal/README.md)
 
 - **Reconocimiento de estudios** — procedimiento que valida la escolaridad previa cursada en otro país. [Clase 268](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-04-estudiantes-migrantes-acogida-trayectoria-y-derechos/README.md)
 
@@ -1880,14 +1880,14 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Reflexividad** — examen explícito del efecto del investigador sobre el campo y sobre la interpretación. [Clase 198](../curriculum/part-16-investigacion-educativa/class-06-disenos-cualitativos/README.md)
 
 - **Reforzamiento** — consecuencia que aumenta la probabilidad de que una conducta se repita. [Clase 013](../curriculum/part-01-ciencias-del-aprendizaje/class-01-conductismo-y-aprendizaje-observable/README.md)
-- **Reforzamiento** — consecuencia que aumenta la probabilidad de una conducta deseada. [Clase 148](../curriculum/part-12-gestion-del-aula-y-convivencia/class-04-refuerzo-y-consecuencias/README.md)
+- **Reforzamiento** — consecuencia que sigue a una conducta y aumenta la probabilidad de que se repita; su efecto depende de la certeza y la inmediatez, no de la intensidad. [Clase 148](../curriculum/part-12-gestion-del-aula-y-convivencia/class-04-refuerzo-y-consecuencias/README.md)
 
 - **Registro** — documentación de lo conversado y acordado, firmada o confirmada por ambas partes. [Clase 154](../curriculum/part-12-gestion-del-aula-y-convivencia/class-10-trabajo-con-apoderados/README.md)
 - **Registro** — documentación fechada de lo observado, lo actuado y lo informado. [Clase 155](../curriculum/part-12-gestion-del-aula-y-convivencia/class-11-crisis-y-derivacion-responsable/README.md)
 
-- **Registro anecdótico** — descripción breve, fechada y objetiva de un episodio significativo. [Clase 046](../curriculum/part-03-educacion-parvularia/class-10-observacion-y-documentacion-pedagogica/README.md)
+- **Registro anecdótico** — descripción breve, fechada y objetiva de un episodio significativo, escrita sin interpretación para que pueda ser leída después por otro adulto. [Clase 046](../curriculum/part-03-educacion-parvularia/class-10-observacion-y-documentacion-pedagogica/README.md)
 
-- **Registro de implementación** — documentación de lo que efectivamente ocurrió, incluidas las desviaciones. [Clase 132](../curriculum/part-10-didactica-avanzada/class-12-proyecto-integrador-secuencia-didactica/README.md)
+- **Registro de implementación** — documentación de lo que efectivamente ocurrió en cada sesión, incluidas las desviaciones respecto del diseño y su razón. [Clase 132](../curriculum/part-10-didactica-avanzada/class-12-proyecto-integrador-secuencia-didactica/README.md)
 
 - **Registro formal** — variedad usada en contextos institucionales y académicos, que la escuela debe enseñar explícitamente. [Clase 271](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-07-variedades-linguisticas-y-prejuicio/README.md)
 
@@ -1909,7 +1909,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Relación estable** — vínculo sostenido con al menos un adulto, uno de los factores protectores mejor documentados. [Clase 281](../curriculum/part-23-bienestar-salud-mental-y-sostenibilidad-del-oficio/class-05-adversidad-trauma-y-practicas-sensibles/README.md)
 
-- **Relación teórica** — vínculo propuesto entre conceptos, del que se derivan predicciones. [Clase 196](../curriculum/part-16-investigacion-educativa/class-04-marco-teorico/README.md)
+- **Relación teórica** — vínculo propuesto entre dos o más conceptos, del que se derivan predicciones que el estudio puede confirmar o refutar. [Clase 196](../curriculum/part-16-investigacion-educativa/class-04-marco-teorico/README.md)
 
 - **Relevancia** — aporte de la respuesta al conocimiento disponible o a una decisión práctica. [Clase 194](../curriculum/part-16-investigacion-educativa/class-02-pregunta-y-problema-de-investigacion/README.md)
 
@@ -1940,7 +1940,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Responsabilidad individual** — exigencia de que cada integrante responda por su aprendizaje, no solo el grupo por el producto. [Clase 129](../curriculum/part-10-didactica-avanzada/class-09-aprendizaje-colaborativo/README.md)
 
-- **Responsabilidad institucional** — obligaciones del establecimiento sobre condiciones, supervisión y registro. [Clase 076](../curriculum/part-06-educacion-tecnico-profesional/class-04-seguridad-y-cultura-preventiva/README.md)
+- **Responsabilidad institucional** — obligaciones del establecimiento sobre condiciones del taller, supervisión, elementos de protección y registro de incidentes, exigibles con independencia de la conducta del estudiante. [Clase 076](../curriculum/part-06-educacion-tecnico-profesional/class-04-seguridad-y-cultura-preventiva/README.md)
 
 - **Responsabilidad profesional** — principio de que quien usa la salida responde por ella, sin importar cómo se generó. [Clase 164](../curriculum/part-13-tecnologia-e-ia-educativa/class-08-llm-y-generacion-de-contenidos/README.md)
 
@@ -1996,7 +1996,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Revisión de pares docente** — evaluación del diseño por colegas antes o después de su implementación. [Clase 180](../curriculum/part-14-docencia-universitaria/class-12-proyecto-integrador-asignatura-universitaria/README.md)
 
-- **Revisión entre pares previa** — lectura crítica de colegas antes de someter el manuscrito. [Clase 212](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-08-escritura-cientifica/README.md)
+- **Revisión entre pares previa** — lectura crítica solicitada a colegas antes de someter el manuscrito, que anticipa las objeciones que hará la revista. [Clase 212](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-08-escritura-cientifica/README.md)
 
 - **Revisión periódica** — instancia planificada para ajustar el plan con evidencia de su funcionamiento. [Clase 156](../curriculum/part-12-gestion-del-aula-y-convivencia/class-12-proyecto-integrador-plan-de-gestion-de-aula/README.md)
 
@@ -2044,14 +2044,14 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Saturación** — punto en que nuevos datos dejan de aportar información relevante a las categorías. [Clase 198](../curriculum/part-16-investigacion-educativa/class-06-disenos-cualitativos/README.md)
 
-- **Secuencia** — orden de los componentes: exploratorio, explicativo o convergente. [Clase 199](../curriculum/part-16-investigacion-educativa/class-07-metodos-mixtos/README.md)
+- **Secuencia** — orden en que se ejecutan los componentes —exploratorio, explicativo o convergente— y que determina cómo uno alimenta al otro. [Clase 199](../curriculum/part-16-investigacion-educativa/class-07-metodos-mixtos/README.md)
 
 - **Secuencia didáctica** — conjunto ordenado de decisiones de enseñanza para un contenido determinado. [Clase 132](../curriculum/part-10-didactica-avanzada/class-12-proyecto-integrador-secuencia-didactica/README.md)
 
 - **Segmentación** — división de la explicación en partes con pausas de procesamiento entre ellas. [Clase 122](../curriculum/part-10-didactica-avanzada/class-02-explicaciones-efectivas/README.md)
 - **Segmentación** — dividir la presentación en tramos con control del ritmo por parte del estudiante. [Clase 159](../curriculum/part-13-tecnologia-e-ia-educativa/class-03-diseno-de-recursos-digitales/README.md)
 
-- **Segmentación de la tarea** — división del trabajo en pasos cortos con verificación intermedia. [Clase 103](../curriculum/part-08-inclusion-y-educacion-especial/class-07-tdah-y-autorregulacion/README.md)
+- **Segmentación de la tarea** — división del trabajo en pasos cortos con un cierre visible y verificación al final de cada uno, que reduce la demanda de sostenimiento. [Clase 103](../curriculum/part-08-inclusion-y-educacion-especial/class-07-tdah-y-autorregulacion/README.md)
 
 - **Segregación escolar** — concentración de estudiantes de origen socioeconómico similar en los mismos establecimientos. [Clase 008](../curriculum/part-00-fundamentos-de-la-educacion/class-08-rol-social-de-la-escuela/README.md)
 - **Segregación escolar** — distribución desigual de los estudiantes entre establecimientos según nivel socioeconómico o académico. [Clase 274](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-10-segregacion-escolar-y-efecto-par/README.md)
@@ -2059,7 +2059,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Seguimiento** — instancia posterior en que se revisa el acuerdo, sin la cual la conversación se disuelve. [Clase 184](../curriculum/part-15-gestion-y-liderazgo-educativo/class-04-feedback-a-docentes/README.md)
 - **Seguimiento** — instancia periódica que revisa avance y ajusta, con consecuencias sobre las decisiones. [Clase 186](../curriculum/part-15-gestion-y-liderazgo-educativo/class-06-planificacion-estrategica/README.md)
 
-- **Seguimiento de egresados** — recolección sistemática de información sobre trayectorias posteriores. [Clase 083](../curriculum/part-06-educacion-tecnico-profesional/class-11-empleabilidad-y-transicion-al-trabajo/README.md)
+- **Seguimiento de egresados** — recolección sistemática y periódica de información sobre las trayectorias posteriores, que permite corregir el programa con datos y no con impresiones. [Clase 083](../curriculum/part-06-educacion-tecnico-profesional/class-11-empleabilidad-y-transicion-al-trabajo/README.md)
 
 - **Seguimiento verificado** — comprobación posterior con la víctima de que la conducta cesó efectivamente. [Clase 257](../curriculum/part-21-desafios-actuales-del-aula/class-05-acoso-escolar-deteccion-e-intervencion-con-evidencia/README.md)
 
@@ -2083,15 +2083,15 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Sensibilidad social** — mayor reactividad a la evaluación de los pares y al estatus dentro del grupo. [Clase 032](../curriculum/part-02-desarrollo-humano/class-08-adolescencia/README.md)
 
-- **Sentido numérico** — comprensión intuitiva de cantidad, magnitud y relaciones entre números. [Clase 041](../curriculum/part-03-educacion-parvularia/class-05-pensamiento-matematico-temprano/README.md)
+- **Sentido numérico** — comprensión intuitiva de cantidad, magnitud y relaciones entre números, que se construye antes del cálculo escrito y lo hace posible. [Clase 041](../curriculum/part-03-educacion-parvularia/class-05-pensamiento-matematico-temprano/README.md)
 
 - **Separación de propósitos** — distinción entre observación para desarrollo y observación para evaluación del desempeño. [Clase 183](../curriculum/part-15-gestion-y-liderazgo-educativo/class-03-observacion-de-clases/README.md)
 
-- **Sesgo algorítmico** — desempeño sistemáticamente distinto del sistema entre grupos de personas. [Clase 167](../curriculum/part-13-tecnologia-e-ia-educativa/class-11-etica-privacidad-y-sesgos/README.md)
+- **Sesgo algorítmico** — desempeño sistemáticamente distinto de un sistema entre grupos de personas, que reproduce desigualdades presentes en los datos con que fue construido. [Clase 167](../curriculum/part-13-tecnologia-e-ia-educativa/class-11-etica-privacidad-y-sesgos/README.md)
 
 - **Sesgo de datos** — distorsión heredada de los datos con que se entrenó el sistema. [Clase 163](../curriculum/part-13-tecnologia-e-ia-educativa/class-07-fundamentos-de-ia-para-docentes/README.md)
 
-- **Sesgo de publicación** — sobrerrepresentación de resultados positivos en la literatura publicada. [Clase 209](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-05-meta-analisis-y-revision-sistematica/README.md)
+- **Sesgo de publicación** — sobrerrepresentación de resultados positivos en la literatura publicada, porque los estudios sin efecto tienen menos probabilidad de llegar a una revista. [Clase 209](../curriculum/part-17-investigacion-doctoral-y-formacion-de-formadores/class-05-meta-analisis-y-revision-sistematica/README.md)
 
 - **Sesgo de selección** — distorsión producida cuando quienes participan difieren sistemáticamente de quienes no. [Clase 200](../curriculum/part-16-investigacion-educativa/class-08-muestreo/README.md)
 
@@ -2114,7 +2114,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 - **Sostenibilidad** — posibilidad real de mantener la diversificación con la carga docente existente. [Clase 100](../curriculum/part-08-inclusion-y-educacion-especial/class-04-diversificacion-de-la-ensenanza/README.md)
 - **Sostenibilidad** — posibilidad de mantener el plan más allá del entusiasmo inicial y del cambio de personas. [Clase 192](../curriculum/part-15-gestion-y-liderazgo-educativo/class-12-proyecto-integrador-plan-de-mejora-institucional/README.md)
 
-- **Subitización** — reconocimiento inmediato de cantidades pequeñas sin contar. [Clase 041](../curriculum/part-03-educacion-parvularia/class-05-pensamiento-matematico-temprano/README.md)
+- **Subitización** — reconocimiento inmediato de cantidades pequeñas sin necesidad de contar, base temprana de la comparación de magnitudes. [Clase 041](../curriculum/part-03-educacion-parvularia/class-05-pensamiento-matematico-temprano/README.md)
 
 - **Subrendimiento** — desempeño muy por debajo de la capacidad demostrada, frecuente y asociado a desenganche. [Clase 250](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-10-altas-capacidades-enriquecimiento-y-aceleracion/README.md)
 
@@ -2217,7 +2217,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Transición** — cambio entre actividades; concentra la mayoría de los problemas de conducta. [Clase 059](../curriculum/part-04-educacion-basica/class-11-gestion-de-aula-en-ninez-media/README.md)
 
-- **Transición al trabajo** — proceso entre la titulación y la inserción laboral estable. [Clase 083](../curriculum/part-06-educacion-tecnico-profesional/class-11-empleabilidad-y-transicion-al-trabajo/README.md)
+- **Transición al trabajo** — período entre la titulación y la inserción laboral estable, donde se juega buena parte del valor de la formación recibida. [Clase 083](../curriculum/part-06-educacion-tecnico-profesional/class-11-empleabilidad-y-transicion-al-trabajo/README.md)
 
 - **Transparencia** — condición de que el estudiante pueda anticipar qué se le exigirá y cómo se calificará. [Clase 118](../curriculum/part-09-diseno-curricular/class-10-diseno-de-syllabus/README.md)
 - **Transparencia** — comunicación de los criterios de decisión a quienes son afectados por ella. [Clase 191](../curriculum/part-15-gestion-y-liderazgo-educativo/class-11-etica-de-la-direccion/README.md)
@@ -2246,7 +2246,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Tutoría** — enseñanza individual o en grupo muy pequeño, con alta capacidad de ajuste al estudiante. [Clase 175](../curriculum/part-14-docencia-universitaria/class-07-tutorias-y-ayudantias/README.md)
 
-- **Tutoría de proceso** — acompañamiento que orienta el razonamiento sin entregar la solución. [Clase 066](../curriculum/part-05-educacion-media-y-adolescencia/class-06-aprendizaje-basado-en-problemas/README.md)
+- **Tutoría de proceso** — acompañamiento que orienta el razonamiento del grupo mediante preguntas, sin entregar la solución ni dejar que el grupo se pierda indefinidamente. [Clase 066](../curriculum/part-05-educacion-media-y-adolescencia/class-06-aprendizaje-basado-en-problemas/README.md)
 
 - **Tutoría entre pares** — enseñanza de un estudiante a otro, con beneficio documentado para ambos cuando está estructurada. [Clase 273](../curriculum/part-22-diversidad-cultural-linguistica-y-territorial/class-09-aula-multigrado-varios-niveles-a-la-vez/README.md)
 
@@ -2275,7 +2275,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Vacío** — aspecto del problema que la literatura no resuelve y que justifica una nueva investigación. [Clase 195](../curriculum/part-16-investigacion-educativa/class-03-revision-de-literatura/README.md)
 
-- **Vacío curricular** — elemento del perfil que ninguna asignatura desarrolla o evalúa. [Clase 115](../curriculum/part-09-diseno-curricular/class-07-mapas-curriculares/README.md)
+- **Vacío curricular** — elemento del perfil que ninguna asignatura desarrolla ni evalúa, y que sin embargo se promete en el documento institucional. [Clase 115](../curriculum/part-09-diseno-curricular/class-07-mapas-curriculares/README.md)
 
 - **Validación de la experiencia** — reconocimiento explícito de lo que el participante sabe antes de corregir lo que sabe mal. [Clase 086](../curriculum/part-07-educacion-de-adultos-y-andragogia/class-02-experiencia-previa-como-recurso/README.md)
 
@@ -2311,7 +2311,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 - **Verificación con el usuario** — comprobación del ajuste con el propio estudiante, que es quien sabe si funciona. [Clase 247](../curriculum/part-20-estrategias-pedagogicas-para-necesidades-educativas-especificas/class-07-discapacidad-visual-y-auditiva-estrategias-de-acceso/README.md)
 
-- **Verificación de preparación** — mecanismo que comprueba y hace consecuente el trabajo previo. [Clase 130](../curriculum/part-10-didactica-avanzada/class-10-flipped-classroom/README.md)
+- **Verificación de preparación** — mecanismo breve al inicio de la clase que comprueba el trabajo previo y lo hace consecuente, sin el cual el modelo se desarma en la primera semana. [Clase 130](../curriculum/part-10-didactica-avanzada/class-10-flipped-classroom/README.md)
 
 - **Verificación en gran grupo** — técnica que revela el estado de comprensión de un curso numeroso en poco tiempo. [Clase 172](../curriculum/part-14-docencia-universitaria/class-04-clase-magistral-efectiva/README.md)
 
@@ -2337,7 +2337,7 @@ Un término puede aparecer definido en más de una clase cuando cambia lo que im
 
 ## Y
 
-- **Yuxtaposición** — error de presentar dos estudios paralelos sin integración real. [Clase 199](../curriculum/part-16-investigacion-educativa/class-07-metodos-mixtos/README.md)
+- **Yuxtaposición** — error de presentar dos estudios paralelos sin punto de integración, de modo que ninguna conclusión depende de haberlos combinado. [Clase 199](../curriculum/part-16-investigacion-educativa/class-07-metodos-mixtos/README.md)
 
 ## Z
 

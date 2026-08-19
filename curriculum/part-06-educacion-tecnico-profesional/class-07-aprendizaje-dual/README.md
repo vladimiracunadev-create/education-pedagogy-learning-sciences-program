@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los sistemas duales muestran buenos resultados en transición al empleo en varios países, pero su eficacia depende de condiciones que rara vez se importan junto con el modelo: empresas con capacidad formativa, maestros guía preparados, currículo articulado y supervisión efectiva. Sin ellas, la alternancia se convierte en mano de obra barata con certificado, que es el riesgo principal del formato.
+Los sistemas duales muestran buenos resultados en transición al empleo en varios países, pero su eficacia depende de condiciones que rara vez se importan junto con el modelo: empresas con capacidad formativa, maestros guía preparados, currículo articulado y supervisión efectiva. Sin ellas, la alternancia se convierte en mano de obra barata con certificado, que es el riesgo principal del formato. La señal de alerta es observable: cuando el estudiante repite durante meses la misma tarea de baja complejidad, la empresa está resolviendo una necesidad operativa y no formando a nadie.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ El plan de alternancia debe declarar qué aprendizajes ocurren en cada espacio, 
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Los estudios comparados muestran resultados positivos en inserción laboral temprana y resultados más discutidos en trayectorias de largo plazo y movilidad. Además, la calidad varía enormemente entre empresas: promediar resultados oculta que una parte de los estudiantes tuvo una experiencia formativa y otra no.
+Los estudios comparados muestran resultados positivos en inserción laboral temprana y resultados más discutidos en trayectorias de largo plazo y movilidad. Además, la calidad varía enormemente entre empresas: promediar resultados oculta que una parte de los estudiantes tuvo una experiencia formativa y otra no. Conviene por eso evaluar por centro de práctica y no en agregado, y estar dispuesto a retirar la alternancia de una empresa que no cumple, que es la decisión más incómoda y la que sostiene la calidad del programa.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

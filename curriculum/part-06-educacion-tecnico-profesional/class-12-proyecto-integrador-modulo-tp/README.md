@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Módulo técnico** | unidad formativa que desarrolla competencias específicas del perfil de egreso |
-| **Coherencia del módulo** | correspondencia entre competencia declarada, enseñanza diseñada y evaluación aplicada |
+| **Coherencia del módulo** | correspondencia verificable entre la competencia declarada, la enseñanza efectivamente diseñada y la evaluación que certifica el desempeño |
 | **Progresión de dominio** | secuencia que lleva del desempeño asistido al desempeño autónomo con estándar |
 | **Evidencia de certificación** | conjunto de evidencias que respalda la afirmación de competencia lograda |
 
@@ -88,13 +88,13 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El proyecto integrador exige que todos los instrumentos de la parte funcionen juntos. La prueba de calidad es simple de enunciar y difícil de pasar: tomar una competencia declarada y seguirla hasta la evidencia que la certifica, comprobando que la enseñanza intermedia efectivamente la desarrolla. La mayoría de los módulos falla en algún punto de esa cadena.
+El proyecto integrador exige que todos los instrumentos de la parte funcionen juntos. La prueba de calidad es simple de enunciar y difícil de pasar: tomar una competencia declarada y seguirla hasta la evidencia que la certifica, comprobando que la enseñanza intermedia efectivamente la desarrolla. La mayoría de los módulos falla en algún punto de esa cadena. El punto de quiebre más frecuente está entre la enseñanza y la evaluación: se enseña un procedimiento completo y se evalúa solo su resultado, con lo que la certificación acredita menos de lo que declara.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Módulo técnico** no es lo
-mismo que **Coherencia del módulo** —correspondencia entre competencia declarada, enseñanza diseñada y evaluación aplicada—, y tratarlos como sinónimos hace
+mismo que **Coherencia del módulo** —correspondencia verificable entre la competencia declarada, la enseñanza efectivamente diseñada y la evaluación que certifica el desempeño—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Progresión de dominio** y
 **Evidencia de certificación** describen aspectos distintos de la misma situación: el primero
 secuencia que lleva del desempeño asistido al desempeño autónomo con estándar, mientras el segundo conjunto de evidencias que respalda la afirmación de competencia lograda.
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño se ordena desde la competencia: estándar, evidencias, progresión de taller, matriz de riesgos incorporada a los criterios, rúbricas calibradas y estructura de portafolio. Después se ejecuta al menos una parte y se documenta la diferencia entre lo diseñado y lo ocurrido, que es donde aparece el aprendizaje profesional.
+El diseño se ordena desde la competencia: estándar, evidencias, progresión de taller, matriz de riesgos incorporada a los criterios, rúbricas calibradas y estructura de portafolio. Después se ejecuta al menos una parte y se documenta la diferencia entre lo diseñado y lo ocurrido, que es donde aparece el aprendizaje profesional. Conviene incluir en el diseño la variable que más condiciona el taller: qué se hace cuando falta un insumo o se descompone una máquina, que ocurre todos los años y casi nunca está planificado.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Un módulo bien diseñado no garantiza aprendizaje: depende de tiempo real, equipamiento disponible, tamaño del grupo y competencia del docente de taller. Declarar esas condiciones como supuestos del diseño es parte del rigor, y permite explicar los resultados sin atribuirlos a los estudiantes.
+Un módulo bien diseñado no garantiza aprendizaje: depende de tiempo real, equipamiento disponible, tamaño del grupo y competencia del docente de taller. Declarar esas condiciones como supuestos del diseño es parte del rigor, y permite explicar los resultados sin atribuirlos a los estudiantes. Hay además un límite de vigencia: los estándares del sector productivo cambian, y un módulo sin fecha de revisión termina formando para una práctica que la industria ya abandonó.
 
 > **Cómo leer el estado de evidencia `MARCO-NORMATIVO`.** El contenido no se decide por evidencia empírica sino por norma, política pública o marco institucional vigente. Verifica siempre la versión vigente a la fecha en que vas a aplicarlo: la norma cambia y la clase no se actualiza sola.
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Módulo técnico** | Unidad formativa que desarrolla competencias específicas del perfil de egreso | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Coherencia del módulo** | Correspondencia entre competencia declarada, enseñanza diseñada y evaluación aplicada | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Coherencia del módulo** | Correspondencia verificable entre la competencia declarada, la enseñanza efectivamente diseñada y la evaluación que certifica el desempeño | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

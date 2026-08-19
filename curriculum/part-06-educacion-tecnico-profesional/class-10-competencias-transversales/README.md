@@ -125,7 +125,7 @@ El procedimiento es el mismo que para cualquier competencia técnica: definir el
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Hay debate real sobre la transferibilidad de estas competencias entre contextos, y la evidencia sobre programas genéricos de habilidades blandas es débil. Además, muchos instrumentos de evaluación miden autopercepción y no desempeño. La posición defendible es enseñarlas situadas y evaluarlas por desempeño observado.
+Hay debate real sobre la transferibilidad de estas competencias entre contextos, y la evidencia sobre programas genéricos de habilidades blandas es débil. Además, muchos instrumentos de evaluación miden autopercepción y no desempeño. La posición defendible es enseñarlas situadas y evaluarlas por desempeño observado. Conviene además desconfiar de las listas de competencias del futuro que se renuevan cada dos años: describen tendencias del mercado y no resultados de aprendizaje, y confundirlas produce programas que persiguen etiquetas.
 
 > **Cómo leer el estado de evidencia `EN-DEBATE`.** Hay desacuerdo activo y publicado entre especialistas competentes. La clase presenta las posiciones y sus argumentos; tu tarea no es escoger un bando, sino saber qué evidencia te haría cambiar de posición.
 

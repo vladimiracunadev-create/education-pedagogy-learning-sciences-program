@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Lenguaje artístico** | sistema de recursos expresivos propios de una disciplina artística |
+| **Lenguaje artístico** | sistema de recursos expresivos propios de una disciplina artística —color, ritmo, encuadre, gesto—, que se enseñan como contenido y no como resultado espontáneo |
 | **Apreciación** | observación y análisis de obras con criterios; se enseña y se evalúa |
 | **Producción** | creación con decisiones propias del estudiante dentro de restricciones dadas |
 | **Criterio de evaluación artística** | referencia explícita que permite juzgar el trabajo sin reducirlo a limpieza o parecido |
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El arte escolar suele quedar atrapado entre dos reducciones: la manualidad decorativa y la ilustración de contenidos de otras asignaturas. Ambas eliminan su contenido propio. Una unidad con objetivos artísticos enseña recursos expresivos, ofrece referentes, exige decisiones y evalúa con criterios que el estudiante conoce de antemano, igual que cualquier otra disciplina.
+El arte escolar suele quedar atrapado entre dos reducciones: la manualidad decorativa y la ilustración de contenidos de otras asignaturas. Ambas eliminan su contenido propio. Una unidad con objetivos artísticos enseña recursos expresivos, ofrece referentes, exige decisiones y evalúa con criterios que el estudiante conoce de antemano, igual que cualquier otra disciplina. Conviene además distinguir la evaluación del proceso creativo de la del producto: el estudiante que arriesga y falla puede haber aprendido más que quien repite una fórmula segura, y eso solo se ve si el criterio lo contempla.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Lenguaje artístico** | Sistema de recursos expresivos propios de una disciplina artística | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Lenguaje artístico** | Sistema de recursos expresivos propios de una disciplina artística —color, ritmo, encuadre, gesto—, que se enseñan como contenido y no como resultado espontáneo | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Apreciación** | Observación y análisis de obras con criterios; se enseña y se evalúa | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

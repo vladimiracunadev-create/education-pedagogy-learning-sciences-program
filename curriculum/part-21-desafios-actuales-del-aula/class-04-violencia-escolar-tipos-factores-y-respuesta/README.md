@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Violencia escolar** | conjunto amplio de conductas que dañan a miembros de la comunidad educativa, con formas y gravedades muy distintas |
-| **Conflicto** | desacuerdo entre partes con poder comparable, susceptible de mediación |
+| **Conflicto** | desacuerdo entre partes con poder comparable y sin patrón de repetición, que admite mediación y no requiere activar el protocolo de acoso |
 | **Vulneración de derechos** | situación que afecta la integridad de un estudiante y obliga a activar protocolo y, en su caso, denuncia |
 | **Proporcionalidad** | correspondencia entre la gravedad del hecho y la intensidad de la respuesta institucional |
 
@@ -94,7 +94,7 @@ El error más costoso en violencia escolar es de clasificación. Tratar como con
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Violencia escolar** no es lo
-mismo que **Conflicto** —desacuerdo entre partes con poder comparable, susceptible de mediación—, y tratarlos como sinónimos hace
+mismo que **Conflicto** —desacuerdo entre partes con poder comparable y sin patrón de repetición, que admite mediación y no requiere activar el protocolo de acoso—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Vulneración de derechos** y
 **Proporcionalidad** describen aspectos distintos de la misma situación: el primero
 situación que afecta la integridad de un estudiante y obliga a activar protocolo y, en su caso, denuncia, mientras el segundo correspondencia entre la gravedad del hecho y la intensidad de la respuesta institucional.
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Violencia escolar** | Conjunto amplio de conductas que dañan a miembros de la comunidad educativa, con formas y gravedades muy distintas | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Conflicto** | Desacuerdo entre partes con poder comparable, susceptible de mediación | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Conflicto** | Desacuerdo entre partes con poder comparable y sin patrón de repetición, que admite mediación y no requiere activar el protocolo de acoso | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

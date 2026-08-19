@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-La confusión entre dominio lingüístico y capacidad es una de las principales causas de derivación errónea a educación especial de estudiantes migrantes, documentada en varios sistemas escolares.
+La confusión entre dominio lingüístico y capacidad es una de las principales causas de derivación errónea a educación especial de estudiantes migrantes, documentada en varios sistemas escolares. La señal que permite distinguirlas es observable: un estudiante con barrera de lengua resuelve tareas equivalentes cuando el enunciado se simplifica o se apoya con imágenes; uno con dificultad de aprendizaje mantiene la dificultad aunque la lengua deje de estorbar.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

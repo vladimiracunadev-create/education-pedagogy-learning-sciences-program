@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Para un equipo educativo esto significa proteger las condiciones que hacen posible la interacción sensible: proporción adulto-niño, estabilidad del personal, tiempo real de contacto individual, y rutinas de cuidado tratadas como oportunidades pedagógicas y no como trámites. Cuando hay que priorizar con recursos escasos, esas variables preceden a cualquier innovación curricular.
+Para un equipo educativo esto significa proteger las condiciones que hacen posible la interacción sensible: proporción adulto-niño, estabilidad del personal, tiempo real de contacto individual, y rutinas de cuidado tratadas como oportunidades pedagógicas y no como trámites. Cuando hay que priorizar con recursos escasos, esas variables preceden a cualquier innovación curricular. Conviene mirar el dato más simple y menos observado: cuántos minutos al día un adulto conversa efectivamente con cada niño, que en salas sobrecargadas puede reducirse a menos de dos.
 
 ### 5. Qué sostiene la evidencia y qué no
 

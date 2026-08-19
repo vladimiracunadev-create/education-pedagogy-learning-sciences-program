@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Propuesta de adaptación** | documento que traduce un mecanismo externo a condiciones locales, con sus renuncias explícitas |
 | **Descarte justificado** | elemento del modelo original que no se adopta, con la razón declarada |
-| **Condición de fracaso** | circunstancia local previsible que impediría que el mecanismo funcione |
+| **Condición de fracaso** | circunstancia local previsible —falta de tiempo docente, rotación, ausencia de formación— que impediría que el mecanismo funcione aquí aunque haya funcionado allá |
 | **Prueba en pequeño** | implementación acotada que permite verificar antes de comprometer al sistema completo |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Propuesta de ada
 mismo que **Descarte justificado** —elemento del modelo original que no se adopta, con la razón declarada—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Condición de fracaso** y
 **Prueba en pequeño** describen aspectos distintos de la misma situación: el primero
-circunstancia local previsible que impediría que el mecanismo funcione, mientras el segundo implementación acotada que permite verificar antes de comprometer al sistema completo.
+circunstancia local previsible —falta de tiempo docente, rotación, ausencia de formación— que impediría que el mecanismo funcione aquí aunque haya funcionado allá, mientras el segundo implementación acotada que permite verificar antes de comprometer al sistema completo.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-Toda adopción distribuye beneficios de manera desigual. La propuesta debe declarar a quién favorece y a quién exige más, y qué se hace con los segundos.
+Toda adopción distribuye beneficios de manera desigual. La propuesta debe declarar a quién favorece y a quién exige más, y qué se hace con los segundos. Conviene mirar en particular a los estudiantes que hoy están más abajo: una práctica que mejora el promedio y aumenta la dispersión deja peor a quienes más necesitaban el cambio.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

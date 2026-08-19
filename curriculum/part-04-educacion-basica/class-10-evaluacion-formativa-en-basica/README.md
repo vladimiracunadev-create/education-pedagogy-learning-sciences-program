@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La evaluación formativa muestra efectos consistentes cuando cumple una condición que suele omitirse: que la evidencia recogida cambie algo. Recolectar información sobre la comprensión y seguir con lo planificado no es evaluación formativa. Las técnicas eficaces son breves y revelan el estado del curso completo: pizarras individuales, respuestas simultáneas, tarjetas de salida, preguntas con opciones diseñadas para exponer errores típicos.
+La evaluación formativa muestra efectos consistentes cuando cumple una condición que suele omitirse: que la evidencia recogida cambie algo. Recolectar información sobre la comprensión y seguir con lo planificado no es evaluación formativa. Las técnicas eficaces son breves y revelan el estado del curso completo: pizarras individuales, respuestas simultáneas, tarjetas de salida, preguntas con opciones diseñadas para exponer errores típicos. La clave está en la simultaneidad: preguntar al curso y avanzar con las tres manos levantadas informa sobre esos tres estudiantes y sobre nadie más.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

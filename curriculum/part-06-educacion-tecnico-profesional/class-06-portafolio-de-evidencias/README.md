@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Un portafolio sin criterios es una carpeta. Lo que lo convierte en instrumento de evaluación es la definición previa de qué evidencia se exige por competencia, cuánta es suficiente y cómo se verifica su autenticidad. Esa definición debe hacerse antes de recolectar; hacerlo después obliga a aceptar lo que haya, que es como se llega a certificar competencias con evidencia insuficiente.
+Un portafolio sin criterios es una carpeta. Lo que lo convierte en instrumento de evaluación es la definición previa de qué evidencia se exige por competencia, cuánta es suficiente y cómo se verifica su autenticidad. Esa definición debe hacerse antes de recolectar; hacerlo después obliga a aceptar lo que haya, que es como se llega a certificar competencias con evidencia insuficiente. Conviene distinguir además evidencia de producto —lo que quedó hecho— de evidencia de desempeño —cómo lo hizo—, porque hay competencias que solo se acreditan observando el proceso.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La estructura útil asocia cada competencia con sus evidencias requeridas —producto, registro de desempeño observado, fotografía fechada, informe del supervisor—, define el mínimo de cada tipo y establece cómo se verifica. La reflexión del estudiante sobre su propio proceso agrega valor formativo, pero no sustituye la evidencia de desempeño.
+La estructura útil asocia cada competencia con sus evidencias requeridas —producto, registro de desempeño observado, fotografía fechada, informe del supervisor—, define el mínimo de cada tipo y establece cómo se verifica. La reflexión del estudiante sobre su propio proceso agrega valor formativo, pero no sustituye la evidencia de desempeño. Conviene revisar el portafolio en dos momentos del año y no solo al final: la revisión intermedia permite recolectar lo que falta mientras todavía hay oportunidad de producirlo.
 
 ### 5. Qué sostiene la evidencia y qué no
 

@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Con adolescentes, la forma de la corrección importa tanto como su contenido. Una corrección pública activa la sensibilidad al estatus y obliga al estudiante a responder ante sus pares, lo que convierte una conducta menor en un enfrentamiento. Una escala graduada —proximidad, señal no verbal, indicación breve, conversación privada, medida formal— permite detener la conducta con el menor costo relacional posible.
+Con adolescentes, la forma de la corrección importa tanto como su contenido. Una corrección pública activa la sensibilidad al estatus y obliga al estudiante a responder ante sus pares, lo que convierte una conducta menor en un enfrentamiento. Una escala graduada —proximidad, señal no verbal, indicación breve, conversación privada, medida formal— permite detener la conducta con el menor costo relacional posible. Vale la pena tener presente el mecanismo: en la adolescencia, la aprobación del grupo pesa más que la del adulto, y una corrección que expone obliga a elegir entre obedecer y conservar el lugar entre sus pares.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

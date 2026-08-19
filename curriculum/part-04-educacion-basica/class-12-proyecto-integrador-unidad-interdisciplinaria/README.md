@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La integración es atractiva y frágil: cuando funciona, hace visible la utilidad del conocimiento; cuando falla, produce actividades vistosas donde ninguna asignatura logra su objetivo. La diferencia está en si cada disciplina conserva objetivos propios y evaluación propia dentro del proyecto común. Un proyecto sin objetivos disciplinares verificables no es interdisciplinario: es una actividad temática.
+La integración es atractiva y frágil: cuando funciona, hace visible la utilidad del conocimiento; cuando falla, produce actividades vistosas donde ninguna asignatura logra su objetivo. La diferencia está en si cada disciplina conserva objetivos propios y evaluación propia dentro del proyecto común. Un proyecto sin objetivos disciplinares verificables no es interdisciplinario: es una actividad temática. Conviene además acordar entre los docentes qué evalúa cada uno antes de comenzar, porque cuando se decide al final aparecen contenidos que todos supusieron que enseñaría otro.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Las decisiones útiles son concretas: mostrar referentes con los que el grupo pueda identificarse, hacer explícita la utilidad del contenido con ejemplos del mundo real de los estudiantes, dar tareas donde el esfuerzo produzca mejora visible, y cuidar el lenguaje al corregir para que el error no confirme una identidad de incapacidad.
+Las decisiones útiles son concretas: mostrar referentes con los que el grupo pueda identificarse, hacer explícita la utilidad del contenido con ejemplos del mundo real de los estudiantes, dar tareas donde el esfuerzo produzca mejora visible, y cuidar el lenguaje al corregir para que el error no confirme una identidad de incapacidad. Conviene además preguntarles directamente qué les parece útil de la asignatura: las respuestas suelen ser más concretas y más aprovechables que las hipótesis del docente sobre sus intereses.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Las intervenciones breves de mentalidad y pertenencia han mostrado en replicaciones a gran escala efectos pequeños, concentrados en subgrupos y dependientes del clima escolar. No sustituyen enseñanza de calidad ni resuelven desigualdades estructurales. Presentarlas como solución general contradice la evidencia disponible.
+Las intervenciones breves de mentalidad y pertenencia han mostrado en replicaciones a gran escala efectos pequeños, concentrados en subgrupos y dependientes del clima escolar. No sustituyen enseñanza de calidad ni resuelven desigualdades estructurales. Presentarlas como solución general contradice la evidencia disponible. Y hay un riesgo específico cuando se aplican mal: insistir en que el esfuerzo lo puede todo, en un contexto que efectivamente pone barreras, traslada al estudiante la responsabilidad de un obstáculo que no creó.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

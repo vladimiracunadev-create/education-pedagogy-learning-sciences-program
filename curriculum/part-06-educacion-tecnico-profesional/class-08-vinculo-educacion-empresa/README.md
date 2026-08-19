@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Vinculación con el medio** | relación sistemática entre la institución formativa y el sector productivo |
-| **Beneficio mutuo** | condición para la sostenibilidad: ambas partes obtienen algo verificable |
+| **Beneficio mutuo** | condición de sostenibilidad de la relación con la empresa: ambas partes obtienen algo verificable, más allá de la buena voluntad de una persona |
 | **Consejo asesor empresarial** | instancia que aporta información sobre estándares y cambios del oficio |
 | **Actualización del perfil** | revisión periódica de competencias a partir de lo que exige el sector |
 
@@ -94,7 +94,7 @@ La relación con empresas se sostiene cuando ambas partes obtienen algo concreto
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Vinculación con el medio** no es lo
-mismo que **Beneficio mutuo** —condición para la sostenibilidad: ambas partes obtienen algo verificable—, y tratarlos como sinónimos hace
+mismo que **Beneficio mutuo** —condición de sostenibilidad de la relación con la empresa: ambas partes obtienen algo verificable, más allá de la buena voluntad de una persona—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Consejo asesor empresarial** y
 **Actualización del perfil** describen aspectos distintos de la misma situación: el primero
 instancia que aporta información sobre estándares y cambios del oficio, mientras el segundo revisión periódica de competencias a partir de lo que exige el sector.
@@ -182,7 +182,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Vinculación con el medio** | Relación sistemática entre la institución formativa y el sector productivo | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Beneficio mutuo** | Condición para la sostenibilidad: ambas partes obtienen algo verificable | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Beneficio mutuo** | Condición de sostenibilidad de la relación con la empresa: ambas partes obtienen algo verificable, más allá de la buena voluntad de una persona | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

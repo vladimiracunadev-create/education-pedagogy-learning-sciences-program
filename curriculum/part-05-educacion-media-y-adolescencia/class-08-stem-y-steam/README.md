@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El ciclo de diseño de ingeniería aporta algo valioso a la enseñanza científica: obliga a decidir bajo restricciones y a probar contra la realidad. El riesgo es conocido: actividades de construcción entretenidas donde no se aprende contenido de ninguna de las disciplinas involucradas. La diferencia está en si el problema exige el contenido y si el aprendizaje se evalúa por disciplina.
+El ciclo de diseño de ingeniería aporta algo valioso a la enseñanza científica: obliga a decidir bajo restricciones y a probar contra la realidad. El riesgo es conocido: actividades de construcción entretenidas donde no se aprende contenido de ninguna de las disciplinas involucradas. La diferencia está en si el problema exige el contenido y si el aprendizaje se evalúa por disciplina. Una prueba útil al planificar es preguntarse qué concepto quedaría sin usar si se quitara de la actividad: si la respuesta es ninguno, el proyecto es manual y no científico.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

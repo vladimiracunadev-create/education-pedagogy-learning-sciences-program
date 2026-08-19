@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Indagación guiada** | investigación estructurada por el docente donde el estudiante predice, prueba y explica |
 | **Concepción alternativa** | idea previa sobre fenómenos naturales, coherente y resistente a la enseñanza |
 | **Modelo científico escolar** | representación simplificada y correcta que permite explicar y predecir en el nivel |
-| **Evidencia** | observación registrada que permite apoyar o descartar una explicación |
+| **Evidencia** | observación registrada que permite apoyar o descartar una explicación, distinta de la opinión sobre lo que debería haber ocurrido |
 
 ## 🧠 Modelo mental
 
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Las actividades prácticas por sí solas producen poco aprendizaje conceptual: los estudiantes ejecutan procedimientos y confirman lo que ya creían. Lo que cambia el resultado es la combinación de predicción explícita, contraste con la observación y explicación posterior del docente que conecta lo observado con el modelo científico. La secuencia predecir-observar-explicar es simple y tiene respaldo consistente.
+Las actividades prácticas por sí solas producen poco aprendizaje conceptual: los estudiantes ejecutan procedimientos y confirman lo que ya creían. Lo que cambia el resultado es la combinación de predicción explícita, contraste con la observación y explicación posterior del docente que conecta lo observado con el modelo científico. La secuencia predecir-observar-explicar es simple y tiene respaldo consistente. Su fase decisiva es la predicción escrita antes de manipular nada: sin ella, el estudiante ajusta su recuerdo a lo que vio y nunca enfrenta la contradicción que haría cambiar su modelo.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Indagación guia
 mismo que **Concepción alternativa** —idea previa sobre fenómenos naturales, coherente y resistente a la enseñanza—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Modelo científico escolar** y
 **Evidencia** describen aspectos distintos de la misma situación: el primero
-representación simplificada y correcta que permite explicar y predecir en el nivel, mientras el segundo observación registrada que permite apoyar o descartar una explicación.
+representación simplificada y correcta que permite explicar y predecir en el nivel, mientras el segundo observación registrada que permite apoyar o descartar una explicación, distinta de la opinión sobre lo que debería haber ocurrido.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no

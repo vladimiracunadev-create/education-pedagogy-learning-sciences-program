@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-Los programas socioemocionales pueden imponer un modelo cultural específico de expresión emocional. Verificar la pertinencia cultural del material es parte de la implementación, especialmente en comunidades interculturales.
+Los programas socioemocionales pueden imponer un modelo cultural específico de expresión emocional. Verificar la pertinencia cultural del material es parte de la implementación, especialmente en comunidades interculturales. Conviene revisar también qué se hace con los estudiantes que no quieren compartir lo que sienten: obligar a exponerse en público es una práctica frecuente en estos programas y no tiene respaldo alguno.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

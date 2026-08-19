@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Autoridad pedagógica** | legitimidad reconocida por los estudiantes para dirigir el aprendizaje |
+| **Autoridad pedagógica** | legitimidad que los estudiantes reconocen para dirigir el aprendizaje, construida sobre competencia, justicia y consistencia, no sobre la jerarquía del cargo |
 | **Poder institucional** | capacidad de sancionar derivada del cargo; existe aunque no haya legitimidad |
 | **Consistencia** | correspondencia entre lo que se anuncia y lo que efectivamente ocurre, sostenida en el tiempo |
 | **Reparación** | acción deliberada para restablecer la relación después de un error propio o de un conflicto |
@@ -125,7 +125,7 @@ Lo que más rinde es también lo más difícil de sostener: cumplir siempre lo a
 
 ### 5. Qué sostiene la evidencia y qué no
 
-No existe evidencia experimental sólida sobre construcción de autoridad: es conocimiento profesional acumulado, sensible al contexto cultural e institucional. Además, la autoridad individual no compensa condiciones institucionales deterioradas: cuando la escuela no sostiene criterios comunes, cada docente negocia solo y el desgaste es alto.
+No existe evidencia experimental sólida sobre construcción de autoridad: es conocimiento profesional acumulado, sensible al contexto cultural e institucional. Además, la autoridad individual no compensa condiciones institucionales deterioradas: cuando la escuela no sostiene criterios comunes, cada docente negocia solo y el desgaste es alto. Conviene también reconocer que la autoridad se reconoce de manera desigual: docentes jóvenes, mujeres y quienes recién llegan enfrentan una exigencia de legitimación que otros no tienen, y nombrarlo evita atribuir a falta de carácter lo que es un patrón del contexto.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Autoridad pedagógica** | Legitimidad reconocida por los estudiantes para dirigir el aprendizaje | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Autoridad pedagógica** | Legitimidad que los estudiantes reconocen para dirigir el aprendizaje, construida sobre competencia, justicia y consistencia, no sobre la jerarquía del cargo | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Poder institucional** | Capacidad de sancionar derivada del cargo; existe aunque no haya legitimidad | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

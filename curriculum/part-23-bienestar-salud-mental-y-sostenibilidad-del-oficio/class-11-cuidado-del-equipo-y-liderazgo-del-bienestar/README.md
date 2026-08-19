@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Liderazgo del bienestar** | función directiva de asegurar condiciones que permitan sostener el trabajo en el tiempo |
 | **Inducción** | proceso estructurado de incorporación de docentes nuevos, principal factor de retención en los primeros años |
-| **Acompañamiento entre pares** | mentoría o apoyo estructurado que reduce el aislamiento profesional |
+| **Acompañamiento entre pares** | apoyo estructurado entre docentes, con tiempo asignado y foco declarado, que reduce el aislamiento profesional de quien recién llega o enfrenta un curso difícil |
 | **Rotación docente** | proporción del equipo que se renueva cada año; indicador directo de la sostenibilidad del trabajo |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Liderazgo del bi
 mismo que **Inducción** —proceso estructurado de incorporación de docentes nuevos, principal factor de retención en los primeros años—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Acompañamiento entre pares** y
 **Rotación docente** describen aspectos distintos de la misma situación: el primero
-mentoría o apoyo estructurado que reduce el aislamiento profesional, mientras el segundo proporción del equipo que se renueva cada año;.
+apoyo estructurado entre docentes, con tiempo asignado y foco declarado, que reduce el aislamiento profesional de quien recién llega o enfrenta un curso difícil, mientras el segundo proporción del equipo que se renueva cada año;.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no

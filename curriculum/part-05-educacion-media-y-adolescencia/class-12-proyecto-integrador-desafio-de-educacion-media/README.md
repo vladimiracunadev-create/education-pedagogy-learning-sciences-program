@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El proyecto integrador de la parte exige sostener a la vez lo que las clases anteriores trataron por separado: relación, autonomía, estructura, contenido y evaluación defendible. La dificultad práctica es que las tensiones aparecen juntas: dar autonomía y mantener el contenido, permitir trabajo grupal y evaluar individualmente, hacer público el producto y proteger a quienes se exponen.
+El proyecto integrador de la parte exige sostener a la vez lo que las clases anteriores trataron por separado: relación, autonomía, estructura, contenido y evaluación defendible. La dificultad práctica es que las tensiones aparecen juntas: dar autonomía y mantener el contenido, permitir trabajo grupal y evaluar individualmente, hacer público el producto y proteger a quienes se exponen. Conviene resolver esas tensiones por escrito antes de comenzar, porque en medio del proyecto se resuelven por urgencia y casi siempre en contra del estudiante que menos reclama.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

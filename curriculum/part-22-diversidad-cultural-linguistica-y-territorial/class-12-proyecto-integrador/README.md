@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-El plan debe declarar explícitamente a quién beneficia cada acción y verificar que los estudiantes con más barreras estén efectivamente incluidos, no solo mencionados en la introducción.
+El plan debe declarar explícitamente a quién beneficia cada acción y verificar que los estudiantes con más barreras estén efectivamente incluidos, no solo mencionados en la introducción. Una comprobación simple es tomar tres estudiantes concretos —uno migrante recién llegado, uno de la comunidad indígena del territorio, uno con trayectoria interrumpida— y recorrer el plan preguntando qué cambia para cada uno.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

@@ -39,8 +39,8 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Transición al trabajo** | proceso entre la titulación y la inserción laboral estable |
-| **Seguimiento de egresados** | recolección sistemática de información sobre trayectorias posteriores |
+| **Transición al trabajo** | período entre la titulación y la inserción laboral estable, donde se juega buena parte del valor de la formación recibida |
+| **Seguimiento de egresados** | recolección sistemática y periódica de información sobre las trayectorias posteriores, que permite corregir el programa con datos y no con impresiones |
 | **Empleabilidad** | conjunto de competencias, credenciales y redes que facilitan obtener y sostener un empleo |
 | **Red profesional** | contactos del sector que abren acceso a oportunidades no publicadas |
 
@@ -94,7 +94,7 @@ La formación técnica se evalúa finalmente por lo que ocurre después. La evid
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Transición al trabajo** no es lo
-mismo que **Seguimiento de egresados** —recolección sistemática de información sobre trayectorias posteriores—, y tratarlos como sinónimos hace
+mismo que **Seguimiento de egresados** —recolección sistemática y periódica de información sobre las trayectorias posteriores, que permite corregir el programa con datos y no con impresiones—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Empleabilidad** y
 **Red profesional** describen aspectos distintos de la misma situación: el primero
 conjunto de competencias, credenciales y redes que facilitan obtener y sostener un empleo, mientras el segundo contactos del sector que abren acceso a oportunidades no publicadas.
@@ -181,8 +181,8 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Transición al trabajo** | Proceso entre la titulación y la inserción laboral estable | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Seguimiento de egresados** | Recolección sistemática de información sobre trayectorias posteriores | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Transición al trabajo** | Período entre la titulación y la inserción laboral estable, donde se juega buena parte del valor de la formación recibida | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Seguimiento de egresados** | Recolección sistemática y periódica de información sobre las trayectorias posteriores, que permite corregir el programa con datos y no con impresiones | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

@@ -428,35 +428,65 @@ preguntas de comprobación como cuestionario de cierre.
 [🎓 Migración a capacitación y LMS](docs/MIGRACION_A_CAPACITACION.md) ·
 [♿ Accesibilidad](docs/ACCESIBILIDAD.md)
 
+## 📚 Sobre qué está construido
+
+El programa no cita para adornar: **cada clase declara de dos a tres obras y explica qué aporta
+cada una**. En total, **489 obras** sostienen las 300 clases y sus 25 partes con **622 citas** —**382 libros y
+artículos** de investigación y **107 fuentes institucionales o normativas**—. Todas están en un
+índice generado desde la misma fuente que las clases, de modo que **ninguna obra citada puede
+quedar fuera del registro**, y el CI falla si alguna lo hace.
+
+➡️ **[Obras citadas, clase por clase](docs/OBRAS_CITADAS.md)** — cada obra con el lente que aporta
+y el enlace a las clases que la usan.
+
+**Las obras que más sostienen el programa:**
+
+| Obra | Aporta | Clases |
+|---|---|---:|
+| Biggs, J. & Tang, C. (2011). *Teaching for Quality Learning at University* | alineamiento constructivo: coherencia entre lo declarado, lo enseñado y lo evaluado | 9 |
+| Booth, T. & Ainscow, M. (2011). *Index for Inclusion* | convierte la inclusión en indicadores revisables, no en declaración | 8 |
+| Bryk, A. et al. (2015). *Learning to Improve* | probar en pequeño y con datos antes de comprometer a toda la institución | 7 |
+| Bryk, A. & Schneider, B. (2002). *Trust in Schools* | la confianza relacional como condición de cualquier mejora sostenida | 6 |
+| Castles, A., Rastle, K. & Nation, K. (2018). *Ending the Reading Wars* | qué está resuelto y qué sigue abierto en la enseñanza de la lectura | 6 |
+| Rosenshine, B. (2012). *Principles of Instruction* | los principios de enseñanza con respaldo empírico convergente | 6 |
+| Seidenberg, M. (2017). *Language at the Speed of Sight* | el mecanismo cognitivo de la lectura y por qué fallan ciertos métodos | 5 |
+| Wiliam, D. (2011). *Embedded Formative Assessment* | qué distingue la evaluación formativa de una prueba con nota baja | 5 |
+| AERA, APA & NCME (2014). *Standards for Educational and Psychological Testing* | el uso previsto se declara antes de aplicar cualquier instrumento | 5 |
+| UNESCO (2023). *Guidance for Generative AI in Education and Research* | marco de referencia para decidir el uso de IA en educación | 5 |
+
 <details>
-<summary><b>📚 Base bibliográfica — las 438 obras que ordenan cada parte</b></summary>
+<summary><b>📖 Las áreas bibliográficas del programa</b></summary>
 
 <br>
 
-El programa usa libros y artículos para ordenar conceptos y profundidad; **toda la redacción es
-original y no reproduce sus textos**. Cada obra declara el *lente* que aporta, y cada clase cita de
-dos a tres.
+Cada área ordena las obras que sostienen una o varias partes. Toda la redacción del programa es
+original: **ninguna obra se reproduce**, se cita para orientar la lectura directa de la fuente.
 
 | Área | Obras guía |
 |---|---|
 | Ciencias del aprendizaje | *How People Learn II* · *Cognitive Load Theory* · *Multimedia Learning* · *Why Don't Students Like School?* |
 | Desarrollo humano | *From Neurons to Neighborhoods* · *Mind in Society* · *The Ecology of Human Development* · *Age of Opportunity* |
-| Educación parvularia | *Bases Curriculares de la Educación Parvularia* · *A Secure Base* · *In Dialogue with Reggio Emilia* |
+| Educación parvularia | *Bases Curriculares de la Educación Parvularia* · *A Secure Base* · *The Hundred Languages of Children* |
 | Lectura, escritura y matemática | *Ending the Reading Wars* · *Language at the Speed of Sight* · *Writing Next* · *Developing Early Literacy* |
 | Didáctica y enseñanza | *Principles of Instruction* · *Those Who Understand* · *Cognitive Apprenticeship* · *A Dialogic Teaching Companion* |
+| Enfoques y metodologías | *Why Minimal Guidance During Instruction Does Not Work* · *Montessori: The Science Behind the Genius* · *Pedagogía del oprimido* |
 | Currículum y diseño | *Understanding by Design* · *Basic Principles of Curriculum and Instruction* · *A Taxonomy for Learning* |
 | Evaluación y psicometría | *Standards for Educational and Psychological Testing* · *The Power of Feedback* · *Embedded Formative Assessment* |
 | Inclusión y educación especial | *Universal Design for Learning* · *Index for Inclusion* · *ADHD in the Schools* · *CIF (OMS)* |
-| Gestión de aula y convivencia | *Discipline and Group Management in Classrooms* · *Classroom Management That Works* · *Trust in Schools* |
+| Necesidades específicas | *Attention-Deficit Hyperactivity Disorder: A Handbook* · *Autism Spectrum Disorder* (Lancet) · *A Nation Empowered* |
+| Convivencia y violencia escolar | *Bullying at School* · *Bullying and the Peer Group* · *Lost at School* · *The Little Book of Restorative Justice* |
 | Adultos y formación técnica | *The Adult Learner* · *Experiential Learning* · *Learning in the Workplace* · *Transfer of Training* |
+| Diversidad cultural y territorial | *Funds of Knowledge for Teaching* · *Toward a Theory of Culturally Relevant Pedagogy* · *Escuela Nueva* |
+| Bienestar y trabajo docente | *Understanding the Burnout Experience* · *Mental Health Promotion in Schools* · *Ordinary Magic* |
 | Educación superior | *Teaching for Quality Learning at University* · *Scholarship Reconsidered* · *How Learning Works* |
-| Liderazgo y mejora escolar | *Student-Centered Leadership* · *Learning to Improve* · *Seven Strong Claims* |
+| Liderazgo y mejora escolar | *Student-Centered Leadership* · *Learning to Improve* · *Trust in Schools* |
 | Tecnología e IA | *Guidance for Generative AI in Education* (UNESCO) · *Technological Pedagogical Content Knowledge* |
+| Educación comparada | *Cleverlands* · *Finnish Lessons* · *The Global Politics of Educational Borrowing and Lending* |
 | Investigación educativa | *Experimental and Quasi-Experimental Designs* · *Research Design* · *Using Thematic Analysis* |
 | Fundamentos y filosofía | *Democracy and Education* · *Pedagogía del oprimido* · *Good Education in an Age of Measurement* |
-| Fuentes institucionales | Ley General de Educación · Decretos 83/2015 y 170/2009 · Bases Curriculares · Estándares de la profesión docente |
 
-[Bibliografía completa con el lente de cada obra](docs/BIBLIOGRAFIA.md) ·
+[Bibliografía comentada por área](docs/BIBLIOGRAFIA.md) ·
+[Obras citadas clase por clase](docs/OBRAS_CITADAS.md) ·
 [Fuentes oficiales y cómo leerlas](docs/FUENTES.md)
 
 </details>

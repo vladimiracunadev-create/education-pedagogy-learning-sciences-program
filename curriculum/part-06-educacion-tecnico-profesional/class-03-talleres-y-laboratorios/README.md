@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Demostración** | ejecución modelada por el docente con explicación de los puntos críticos |
-| **Práctica con corrección** | ejecución del estudiante con retroalimentación inmediata sobre el error |
+| **Práctica con corrección** | ejecución del estudiante acompañada de retroalimentación inmediata sobre el error, antes de que el procedimiento incorrecto se automatice |
 | **Tiempo de práctica efectiva** | minutos reales en que cada estudiante ejecuta la tarea, no en que observa o espera |
 | **Rotación** | organización que distribuye el acceso a equipos limitados sin dejar a nadie inactivo |
 
@@ -94,7 +94,7 @@ El taller tiene una restricción estructural: equipos limitados y muchos estudia
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Demostración** no es lo
-mismo que **Práctica con corrección** —ejecución del estudiante con retroalimentación inmediata sobre el error—, y tratarlos como sinónimos hace
+mismo que **Práctica con corrección** —ejecución del estudiante acompañada de retroalimentación inmediata sobre el error, antes de que el procedimiento incorrecto se automatice—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Tiempo de práctica efectiva** y
 **Rotación** describen aspectos distintos de la misma situación: el primero
 minutos reales en que cada estudiante ejecuta la tarea, no en que observa o espera, mientras el segundo organización que distribuye el acceso a equipos limitados sin dejar a nadie inactivo.
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Diseñar la sesión implica calcular el tiempo de práctica efectiva por estudiante y organizar estaciones o tareas paralelas para que nadie espere sin hacer nada. La verificación individual al cierre es indispensable: sin ella, el estudiante que nunca ejecutó correctamente pasa inadvertido hasta la evaluación final.
+Diseñar la sesión implica calcular el tiempo de práctica efectiva por estudiante y organizar estaciones o tareas paralelas para que nadie espere sin hacer nada. La verificación individual al cierre es indispensable: sin ella, el estudiante que nunca ejecutó correctamente pasa inadvertido hasta la evaluación final. El cálculo suele ser revelador: con veinticinco estudiantes, cuatro puestos de trabajo y noventa minutos, cada uno dispone de unos catorce minutos de máquina, y toda la planificación debe construirse sobre esa cifra y no sobre la duración nominal del taller.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Demostración** | Ejecución modelada por el docente con explicación de los puntos críticos | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Práctica con corrección** | Ejecución del estudiante con retroalimentación inmediata sobre el error | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Práctica con corrección** | Ejecución del estudiante acompañada de retroalimentación inmediata sobre el error, antes de que el procedimiento incorrecto se automatice | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

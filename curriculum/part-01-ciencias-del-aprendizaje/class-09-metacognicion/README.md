@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Metacognición** | conocimiento y regulación de los propios procesos de pensamiento y aprendizaje |
 | **Monitoreo** | juicio en curso sobre el propio nivel de comprensión mientras se estudia o se resuelve |
-| **Calibración** | correspondencia entre la confianza declarada y el desempeño real |
+| **Calibración** | correspondencia entre la confianza que el estudiante declara y su desempeño real; la sobreconfianza es la causa más frecuente de estudiar poco |
 | **Autorregulación** | ciclo de planificar, ejecutar, monitorear y ajustar el propio aprendizaje |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Metacognición**
 mismo que **Monitoreo** —juicio en curso sobre el propio nivel de comprensión mientras se estudia o se resuelve—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Calibración** y
 **Autorregulación** describen aspectos distintos de la misma situación: el primero
-correspondencia entre la confianza declarada y el desempeño real, mientras el segundo ciclo de planificar, ejecutar, monitorear y ajustar el propio aprendizaje.
+correspondencia entre la confianza que el estudiante declara y su desempeño real;, mientras el segundo ciclo de planificar, ejecutar, monitorear y ajustar el propio aprendizaje.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no

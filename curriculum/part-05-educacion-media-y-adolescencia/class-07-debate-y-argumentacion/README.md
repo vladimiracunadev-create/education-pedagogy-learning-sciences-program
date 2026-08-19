@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Argumentar bien no es una habilidad natural: exige estructura enseñada. Los estudiantes tienden a defender posiciones sin evidencia, a confundir intensidad con solidez y a no anticipar objeciones. La enseñanza explícita de la estructura —tesis, razones, evidencia, objeción, respuesta— mejora la calidad de los textos y de las discusiones, y transfiere a la escritura académica posterior.
+Argumentar bien no es una habilidad natural: exige estructura enseñada. Los estudiantes tienden a defender posiciones sin evidencia, a confundir intensidad con solidez y a no anticipar objeciones. La enseñanza explícita de la estructura —tesis, razones, evidencia, objeción, respuesta— mejora la calidad de los textos y de las discusiones, y transfiere a la escritura académica posterior. El componente que más cuesta y más rinde es la objeción: pedir que cada estudiante formule el mejor argumento contrario al suyo cambia por completo la calidad de lo que escribe después.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

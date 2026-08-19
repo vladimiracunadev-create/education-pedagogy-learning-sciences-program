@@ -186,10 +186,10 @@
       ],
       [
         "Evidencia",
-        "observación registrada que permite apoyar o descartar una explicación"
+        "observación registrada que permite apoyar o descartar una explicación, distinta de la opinión sobre lo que debería haber ocurrido"
       ]
     ],
-    "desarrollo": "Las actividades prácticas por sí solas producen poco aprendizaje conceptual: los estudiantes ejecutan procedimientos y confirman lo que ya creían. Lo que cambia el resultado es la combinación de predicción explícita, contraste con la observación y explicación posterior del docente que conecta lo observado con el modelo científico. La secuencia predecir-observar-explicar es simple y tiene respaldo consistente.",
+    "desarrollo": "Las actividades prácticas por sí solas producen poco aprendizaje conceptual: los estudiantes ejecutan procedimientos y confirman lo que ya creían. Lo que cambia el resultado es la combinación de predicción explícita, contraste con la observación y explicación posterior del docente que conecta lo observado con el modelo científico. La secuencia predecir-observar-explicar es simple y tiene respaldo consistente. Su fase decisiva es la predicción escrita antes de manipular nada: sin ella, el estudiante ajusta su recuerdo a lo que vio y nunca enfrenta la contradicción que haría cambiar su modelo.",
     "practica": "El diseño empieza identificando la concepción alternativa dominante del grupo y buscando una situación que ella no pueda explicar. Después se pide predicción escrita —comprometerse antes de mirar es parte del mecanismo—, se observa, se registra y se explica. Sin la explicación final, la mayoría reinterpreta lo observado para que quepa en su idea original.",
     "limites": "La indagación con guía mínima muestra resultados pobres, especialmente en estudiantes con menos conocimiento previo. Y una concepción alternativa robusta no desaparece con una sola experiencia: convive con la explicación escolar durante mucho tiempo. Prometer cambio conceptual con una actividad aislada es sobreestimar el efecto.",
     "errores": [
@@ -284,7 +284,7 @@
     "conceptos": [
       [
         "Lenguaje artístico",
-        "sistema de recursos expresivos propios de una disciplina artística"
+        "sistema de recursos expresivos propios de una disciplina artística —color, ritmo, encuadre, gesto—, que se enseñan como contenido y no como resultado espontáneo"
       ],
       [
         "Apreciación",
@@ -299,7 +299,7 @@
         "referencia explícita que permite juzgar el trabajo sin reducirlo a limpieza o parecido"
       ]
     ],
-    "desarrollo": "El arte escolar suele quedar atrapado entre dos reducciones: la manualidad decorativa y la ilustración de contenidos de otras asignaturas. Ambas eliminan su contenido propio. Una unidad con objetivos artísticos enseña recursos expresivos, ofrece referentes, exige decisiones y evalúa con criterios que el estudiante conoce de antemano, igual que cualquier otra disciplina.",
+    "desarrollo": "El arte escolar suele quedar atrapado entre dos reducciones: la manualidad decorativa y la ilustración de contenidos de otras asignaturas. Ambas eliminan su contenido propio. Una unidad con objetivos artísticos enseña recursos expresivos, ofrece referentes, exige decisiones y evalúa con criterios que el estudiante conoce de antemano, igual que cualquier otra disciplina. Conviene además distinguir la evaluación del proceso creativo de la del producto: el estudiante que arriesga y falla puede haber aprendido más que quien repite una fórmula segura, y eso solo se ve si el criterio lo contempla.",
     "practica": "La evaluación es el punto crítico. Si el criterio implícito es la prolijidad, se premia una habilidad motora y se castiga la exploración. Criterios como uso deliberado de un recurso, coherencia entre intención y resultado, o calidad de las decisiones tomadas ante una restricción, permiten evaluar sin reducir. La documentación del proceso —bocetos, versiones, decisiones— hace visible lo que el producto final oculta.",
     "limites": "La evidencia sobre efectos del arte en el rendimiento en otras asignaturas es débil y las promesas de transferencia no se sostienen en revisiones sistemáticas. Justificar el arte por su utilidad instrumental lo debilita: cuando la promesa no se cumple, se recorta. Su defensa sólida es disciplinar, no instrumental.",
     "errores": [
@@ -464,8 +464,8 @@
         "información sobre el aprendizaje recogida durante la unidad y no solo al final"
       ]
     ],
-    "desarrollo": "La planificación fracasa habitualmente por dos causas: falta de alineamiento —se evalúa algo distinto de lo declarado— y sobreestimación del tiempo disponible. La segunda es tan frecuente que muchos programas se planifican para un año que nunca existe. Calcular el tiempo real, con interrupciones incluidas, y priorizar en consecuencia es una operación profesional básica y poco practicada.",
-    "practica": "El procedimiento con mejor rendimiento es inverso: definir primero qué evidencia aceptaría como prueba de logro, después las actividades que llevan a producirla, y solo entonces el calendario. Cada tramo debe tener una evidencia intermedia prevista, para no descubrir en la evaluación final que la mitad del curso se perdió en la semana dos.",
+    "desarrollo": "La planificación fracasa habitualmente por dos causas: falta de alineamiento —se evalúa algo distinto de lo declarado— y sobreestimación del tiempo disponible. La segunda es tan frecuente que muchos programas se planifican para un año que nunca existe. Calcular el tiempo real, con interrupciones incluidas, y priorizar en consecuencia es una operación profesional básica y poco practicada. Basta contar las clases efectivas del semestre en el calendario escolar para descubrir que suelen ser bastantes menos que las nominales, y esa cifra debería anteceder a cualquier decisión de contenido.",
+    "practica": "El procedimiento con mejor rendimiento es inverso: definir primero qué evidencia aceptaría como prueba de logro, después las actividades que llevan a producirla, y solo entonces el calendario. Cada tramo debe tener una evidencia intermedia prevista, para no descubrir en la evaluación final que la mitad del curso se perdió en la semana dos. Conviene marcar también qué contenido se protege si el tiempo se acorta, decidido con calma y no en la última semana de noviembre.",
     "limites": "Una planificación es una hipótesis, no un contrato: se ajusta con la evidencia que aparece. Las planificaciones rígidas que se cumplen a costa del aprendizaje son un problema tan grave como la ausencia de planificación. El criterio de calidad no es cumplirla, sino haber previsto dónde y cómo se comprobaría el avance.",
     "errores": [
       "Planificar sobre el tiempo nominal y no sobre el tiempo real disponible.",
@@ -519,7 +519,7 @@
         "comentario que el estudiante puede aplicar en un trabajo posterior"
       ]
     ],
-    "desarrollo": "La evaluación formativa muestra efectos consistentes cuando cumple una condición que suele omitirse: que la evidencia recogida cambie algo. Recolectar información sobre la comprensión y seguir con lo planificado no es evaluación formativa. Las técnicas eficaces son breves y revelan el estado del curso completo: pizarras individuales, respuestas simultáneas, tarjetas de salida, preguntas con opciones diseñadas para exponer errores típicos.",
+    "desarrollo": "La evaluación formativa muestra efectos consistentes cuando cumple una condición que suele omitirse: que la evidencia recogida cambie algo. Recolectar información sobre la comprensión y seguir con lo planificado no es evaluación formativa. Las técnicas eficaces son breves y revelan el estado del curso completo: pizarras individuales, respuestas simultáneas, tarjetas de salida, preguntas con opciones diseñadas para exponer errores típicos. La clave está en la simultaneidad: preguntar al curso y avanzar con las tres manos levantadas informa sobre esos tres estudiantes y sobre nadie más.",
     "practica": "El ciclo completo tiene tres pasos: recoger evidencia de todo el curso en menos de cinco minutos, interpretarla en el momento y ajustar la clase siguiente o la siguiente actividad. El registro de esos ciclos es lo que permite comprobar si la práctica existe realmente o solo se declara. Y la retroalimentación escrita rinde mucho más si llega antes de la calificación, porque después casi nadie la lee.",
     "limites": "El tamaño de efecto de la evaluación formativa se ha citado con cifras infladas provenientes de síntesis heterogéneas. El efecto es real y valioso, pero depende de la implementación y de la calidad de las decisiones que toma el docente con la evidencia. Aplicar las técnicas sin cambiar la enseñanza produce ceremonias sin resultado.",
     "errores": [
@@ -629,7 +629,7 @@
         "acuerdo explícito entre docentes sobre objetivos, tiempos y criterios de evaluación"
       ]
     ],
-    "desarrollo": "La integración es atractiva y frágil: cuando funciona, hace visible la utilidad del conocimiento; cuando falla, produce actividades vistosas donde ninguna asignatura logra su objetivo. La diferencia está en si cada disciplina conserva objetivos propios y evaluación propia dentro del proyecto común. Un proyecto sin objetivos disciplinares verificables no es interdisciplinario: es una actividad temática.",
+    "desarrollo": "La integración es atractiva y frágil: cuando funciona, hace visible la utilidad del conocimiento; cuando falla, produce actividades vistosas donde ninguna asignatura logra su objetivo. La diferencia está en si cada disciplina conserva objetivos propios y evaluación propia dentro del proyecto común. Un proyecto sin objetivos disciplinares verificables no es interdisciplinario: es una actividad temática. Conviene además acordar entre los docentes qué evalúa cada uno antes de comenzar, porque cuando se decide al final aparecen contenidos que todos supusieron que enseñaría otro.",
     "practica": "El diseño exige coordinación real: acordar el problema, declarar qué aporta cada asignatura, definir la evaluación por objetivo y calendarizar. Es trabajo docente que consume tiempo y que rara vez está considerado en la carga horaria, y esa es la principal causa de que estas unidades se abandonen después del primer intento. Preverlo forma parte del diseño.",
     "limites": "La evidencia sobre enfoques integrados es mixta y depende fuertemente de la calidad del diseño y del conocimiento previo de los estudiantes. La integración no mejora por sí sola el aprendizaje y puede reducirlo si diluye la enseñanza explícita. Se justifica cuando el problema elegido exige genuinamente más de una disciplina.",
     "errores": [

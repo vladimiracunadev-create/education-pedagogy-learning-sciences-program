@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La planificación fracasa habitualmente por dos causas: falta de alineamiento —se evalúa algo distinto de lo declarado— y sobreestimación del tiempo disponible. La segunda es tan frecuente que muchos programas se planifican para un año que nunca existe. Calcular el tiempo real, con interrupciones incluidas, y priorizar en consecuencia es una operación profesional básica y poco practicada.
+La planificación fracasa habitualmente por dos causas: falta de alineamiento —se evalúa algo distinto de lo declarado— y sobreestimación del tiempo disponible. La segunda es tan frecuente que muchos programas se planifican para un año que nunca existe. Calcular el tiempo real, con interrupciones incluidas, y priorizar en consecuencia es una operación profesional básica y poco practicada. Basta contar las clases efectivas del semestre en el calendario escolar para descubrir que suelen ser bastantes menos que las nominales, y esa cifra debería anteceder a cualquier decisión de contenido.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El procedimiento con mejor rendimiento es inverso: definir primero qué evidencia aceptaría como prueba de logro, después las actividades que llevan a producirla, y solo entonces el calendario. Cada tramo debe tener una evidencia intermedia prevista, para no descubrir en la evaluación final que la mitad del curso se perdió en la semana dos.
+El procedimiento con mejor rendimiento es inverso: definir primero qué evidencia aceptaría como prueba de logro, después las actividades que llevan a producirla, y solo entonces el calendario. Cada tramo debe tener una evidencia intermedia prevista, para no descubrir en la evaluación final que la mitad del curso se perdió en la semana dos. Conviene marcar también qué contenido se protege si el tiempo se acorta, decidido con calma y no en la última semana de noviembre.
 
 ### 5. Qué sostiene la evidencia y qué no
 

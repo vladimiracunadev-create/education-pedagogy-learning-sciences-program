@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Dirección de tesis** | acompañamiento del proceso investigativo con traspaso progresivo de autonomía |
+| **Dirección de tesis** | acompañamiento del proceso investigativo con traspaso progresivo de autonomía, desde definir el problema junto al estudiante hasta dejarlo defender solo sus decisiones |
 | **Criterio de evaluación** | estándar explícito con que se juzga el trabajo, conocido antes de su elaboración |
 | **Retroalimentación sobre el texto** | comentario que permite al estudiante corregir, distinto de la reescritura por el director |
 | **Decisión fundamentada** | juicio evaluativo justificado con referencia a criterios y a evidencia del trabajo |
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Dirección de tesis** | Acompañamiento del proceso investigativo con traspaso progresivo de autonomía | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Dirección de tesis** | Acompañamiento del proceso investigativo con traspaso progresivo de autonomía, desde definir el problema junto al estudiante hasta dejarlo defender solo sus decisiones | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Criterio de evaluación** | Estándar explícito con que se juzga el trabajo, conocido antes de su elaboración | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

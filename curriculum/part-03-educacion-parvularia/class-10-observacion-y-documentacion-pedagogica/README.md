@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Observación sistemática** | registro planificado de conductas específicas, con foco y criterio definidos de antemano |
 | **Documentación pedagógica** | conjunto de registros que hace visible el aprendizaje y permite interpretarlo en equipo |
-| **Registro anecdótico** | descripción breve, fechada y objetiva de un episodio significativo |
+| **Registro anecdótico** | descripción breve, fechada y objetiva de un episodio significativo, escrita sin interpretación para que pueda ser leída después por otro adulto |
 | **Interpretación en equipo** | análisis colectivo de la evidencia; reduce el sesgo individual del observador |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Observación sis
 mismo que **Documentación pedagógica** —conjunto de registros que hace visible el aprendizaje y permite interpretarlo en equipo—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Registro anecdótico** y
 **Interpretación en equipo** describen aspectos distintos de la misma situación: el primero
-descripción breve, fechada y objetiva de un episodio significativo, mientras el segundo análisis colectivo de la evidencia;.
+descripción breve, fechada y objetiva de un episodio significativo, escrita sin interpretación para que pueda ser leída después por otro adulto, mientras el segundo análisis colectivo de la evidencia;.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Un sistema realista define pocos instrumentos y los sostiene: registros anecdóticos breves, evidencias de trabajo con fecha, y una pauta de observación focalizada por período. Lo que convierte esto en evaluación es el paso final: interpretar y decidir. Documentación que no cambia ninguna decisión pedagógica es archivo, no evaluación.
+Un sistema realista define pocos instrumentos y los sostiene: registros anecdóticos breves, evidencias de trabajo con fecha, y una pauta de observación focalizada por período. Lo que convierte esto en evaluación es el paso final: interpretar y decidir. Documentación que no cambia ninguna decisión pedagógica es archivo, no evaluación. Conviene fijar además a quién se observa cada semana, porque sin ese turno explícito el registro se concentra en los niños que más llaman la atención y deja fuera a los que nunca la piden.
 
 ### 5. Qué sostiene la evidencia y qué no
 

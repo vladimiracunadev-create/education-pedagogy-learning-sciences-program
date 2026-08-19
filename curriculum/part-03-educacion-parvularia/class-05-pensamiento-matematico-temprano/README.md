@@ -39,9 +39,9 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Sentido numérico** | comprensión intuitiva de cantidad, magnitud y relaciones entre números |
+| **Sentido numérico** | comprensión intuitiva de cantidad, magnitud y relaciones entre números, que se construye antes del cálculo escrito y lo hace posible |
 | **Principios del conteo** | reglas que hacen que contar signifique algo: correspondencia uno a uno, orden estable y cardinalidad |
-| **Subitización** | reconocimiento inmediato de cantidades pequeñas sin contar |
+| **Subitización** | reconocimiento inmediato de cantidades pequeñas sin necesidad de contar, base temprana de la comparación de magnitudes |
 | **Patrón** | regularidad que se puede reconocer, continuar y describir; base del razonamiento algebraico posterior |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Sentido numéric
 mismo que **Principios del conteo** —reglas que hacen que contar signifique algo: correspondencia uno a uno, orden estable y cardinalidad—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Subitización** y
 **Patrón** describen aspectos distintos de la misma situación: el primero
-reconocimiento inmediato de cantidades pequeñas sin contar, mientras el segundo regularidad que se puede reconocer, continuar y describir;.
+reconocimiento inmediato de cantidades pequeñas sin necesidad de contar, base temprana de la comparación de magnitudes, mientras el segundo regularidad que se puede reconocer, continuar y describir;.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Sentido numérico** | Comprensión intuitiva de cantidad, magnitud y relaciones entre números | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Sentido numérico** | Comprensión intuitiva de cantidad, magnitud y relaciones entre números, que se construye antes del cálculo escrito y lo hace posible | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Principios del conteo** | Reglas que hacen que contar signifique algo: correspondencia uno a uno, orden estable y cardinalidad | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

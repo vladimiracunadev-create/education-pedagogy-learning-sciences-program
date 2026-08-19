@@ -39,9 +39,9 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Ciudadanía digital** | ejercicio responsable de derechos y deberes en entornos digitales |
+| **Ciudadanía digital** | ejercicio responsable de derechos y deberes en entornos digitales, que incluye consentimiento para difundir contenido de otros y cuidado de la propia exposición |
 | **Privacidad** | control sobre la información personal propia y ajena; se enseña con casos concretos |
-| **Ciberacoso** | agresión sostenida mediante medios digitales; tiene tratamiento normativo específico |
+| **Ciberacoso** | agresión sostenida mediante medios digitales, con permanencia del contenido y audiencia indeterminada; tiene tratamiento normativo específico |
 | **Respuesta institucional** | conjunto de acciones que el establecimiento debe ejecutar ante un incidente digital |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los conflictos digitales entre estudiantes ocurren mayormente fuera del horario escolar y estallan dentro de la escuela. La respuesta más común —prohibir dispositivos— administra el síntoma y no enseña criterio. Un enfoque completo combina enseñanza preventiva con casos reales, reglas claras sobre uso en el establecimiento, y un procedimiento de respuesta ante incidentes que distinga conflicto, falta y posible delito.
+Los conflictos digitales entre estudiantes ocurren mayormente fuera del horario escolar y estallan dentro de la escuela. La respuesta más común —prohibir dispositivos— administra el síntoma y no enseña criterio. Un enfoque completo combina enseñanza preventiva con casos reales, reglas claras sobre uso en el establecimiento, y un procedimiento de respuesta ante incidentes que distinga conflicto, falta y posible delito. Esa última distinción es la que más falta hace: hay conductas digitales entre adolescentes que tienen consecuencias penales, y el equipo debe saber reconocerlas antes de intentar resolverlas internamente.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Ciudadanía digi
 mismo que **Privacidad** —control sobre la información personal propia y ajena; se enseña con casos concretos—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Ciberacoso** y
 **Respuesta institucional** describen aspectos distintos de la misma situación: el primero
-agresión sostenida mediante medios digitales;, mientras el segundo conjunto de acciones que el establecimiento debe ejecutar ante un incidente digital.
+agresión sostenida mediante medios digitales, con permanencia del contenido y audiencia indeterminada;, mientras el segundo conjunto de acciones que el establecimiento debe ejecutar ante un incidente digital.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Ciudadanía digital** | Ejercicio responsable de derechos y deberes en entornos digitales | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Ciudadanía digital** | Ejercicio responsable de derechos y deberes en entornos digitales, que incluye consentimiento para difundir contenido de otros y cuidado de la propia exposición | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Privacidad** | Control sobre la información personal propia y ajena; se enseña con casos concretos | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

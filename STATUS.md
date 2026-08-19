@@ -13,8 +13,8 @@ coincidiendo con lo publicado.
 | Partes | 25 |
 | Clases | 300 |
 | Clases por parte | 12 |
-| Palabras en las 300 clases | 1.181.651 |
-| Palabras por clase | 3774–4178 (mediana 3940) |
+| Palabras en las 300 clases | 1.189.170 |
+| Palabras por clase | 3826–4178 (mediana 3959) |
 | Diagramas mermaid | 325 (uno por clase y uno por parte) |
 | Conceptos con definición operacional | 1.200 |
 | Decisiones profesionales habilitadas | 300 (una por clase) |

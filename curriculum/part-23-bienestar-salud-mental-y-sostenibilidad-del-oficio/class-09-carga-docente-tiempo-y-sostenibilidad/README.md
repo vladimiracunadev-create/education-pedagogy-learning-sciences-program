@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-La carga se distribuye de manera desigual: docentes jefes, quienes atienden cursos con más necesidades y quienes tienen menos antigüedad asumen sistemáticamente más trabajo no reconocido.
+La carga se distribuye de manera desigual: docentes jefes, quienes atienden cursos con más necesidades y quienes tienen menos antigüedad asumen sistemáticamente más trabajo no reconocido. A eso se suma un patrón documentado de género: las tareas de contención, comunicación con familias y coordinación recaen con más frecuencia en las docentes mujeres, sin que ninguna asignación formal lo establezca.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

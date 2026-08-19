@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Problema mal estructurado** | situación sin una única solución correcta ni un procedimiento evidente; exige decisiones |
-| **Tutoría de proceso** | acompañamiento que orienta el razonamiento sin entregar la solución |
+| **Tutoría de proceso** | acompañamiento que orienta el razonamiento del grupo mediante preguntas, sin entregar la solución ni dejar que el grupo se pierda indefinidamente |
 | **Activación de conocimiento previo** | fase inicial en que el grupo determina qué sabe y qué necesita averiguar |
 | **Cierre conceptual** | momento en que se sistematiza el contenido aprendido para que no quede disperso |
 
@@ -94,7 +94,7 @@ En el aprendizaje basado en problemas el problema viene primero y motiva la bús
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Problema mal estructurado** no es lo
-mismo que **Tutoría de proceso** —acompañamiento que orienta el razonamiento sin entregar la solución—, y tratarlos como sinónimos hace
+mismo que **Tutoría de proceso** —acompañamiento que orienta el razonamiento del grupo mediante preguntas, sin entregar la solución ni dejar que el grupo se pierda indefinidamente—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Activación de conocimiento previo** y
 **Cierre conceptual** describen aspectos distintos de la misma situación: el primero
 fase inicial en que el grupo determina qué sabe y qué necesita averiguar, mientras el segundo momento en que se sistematiza el contenido aprendido para que no quede disperso.
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Un buen problema es realista, admite más de una respuesta defendible y exige exactamente el contenido que se quiere enseñar. La tutoría se prepara: preguntas previstas, recursos disponibles, puntos donde intervenir. Y el cierre no es opcional: sin una sistematización final, cada grupo se queda con la versión parcial que construyó.
+Un buen problema es realista, admite más de una respuesta defendible y exige exactamente el contenido que se quiere enseñar. La tutoría se prepara: preguntas previstas, recursos disponibles, puntos donde intervenir. Y el cierre no es opcional: sin una sistematización final, cada grupo se queda con la versión parcial que construyó. Una prueba rápida antes de usarlo: si el problema se puede resolver buscando la respuesta en internet, todavía no exige el razonamiento que se quería enseñar.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Problema mal estructurado** | Situación sin una única solución correcta ni un procedimiento evidente; exige decisiones | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Tutoría de proceso** | Acompañamiento que orienta el razonamiento sin entregar la solución | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Tutoría de proceso** | Acompañamiento que orienta el razonamiento del grupo mediante preguntas, sin entregar la solución ni dejar que el grupo se pierda indefinidamente | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

@@ -11,7 +11,7 @@ repositorio.
 |---|---:|
 | Partes del currículo | 25 |
 | Clases | 300 |
-| Palabras en las clases | 1.181.651 |
+| Palabras en las clases | 1.189.170 |
 | Conceptos con definición operacional | 1.200 |
 | Señales observables exigidas | 900 |
 | Obras distintas citadas en clase | 451 |

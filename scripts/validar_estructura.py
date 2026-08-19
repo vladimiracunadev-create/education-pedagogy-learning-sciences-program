@@ -306,6 +306,34 @@ def validar_fuentes(fallos: list[str]) -> int:
     return citas
 
 
+# Piso de profundidad por campo del manifiesto. No mide calidad —eso lo revisa
+# una persona— pero impide que una clase se degrade a ficha: cada campo debe
+# desarrollar su idea, no enunciarla.
+PISO = {"desarrollo": 62, "practica": 55, "limites": 45, "inclusion": 28}
+PISO_CONCEPTO = 10
+
+
+def validar_profundidad(fallos: list[str]) -> None:
+    """Cada clase explica lo que afirma: desarrollo, práctica, límites e inclusión."""
+    for archivo in sorted((MANIFIESTOS / "classes").glob("*.json")):
+        for registro in json.loads(archivo.read_text(encoding="utf-8")):
+            numero = registro["n"]
+            for campo, minimo in PISO.items():
+                palabras = len(registro[campo].split())
+                if palabras < minimo:
+                    error(
+                        fallos,
+                        f"clase {numero:03d}: «{campo}» tiene {palabras} palabras y el piso es {minimo}",
+                    )
+            for termino, definicion in registro["conceptos"]:
+                if len(definicion.split()) < PISO_CONCEPTO:
+                    error(
+                        fallos,
+                        f"clase {numero:03d}: la definición de «{termino}» es demasiado breve "
+                        f"({len(definicion.split())} palabras, piso {PISO_CONCEPTO})",
+                    )
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--resumen", action="store_true", help="imprime métricas del repositorio")
@@ -322,6 +350,7 @@ def main() -> int:
     enlaces = validar_enlaces(fallos)
     validar_manifiestos(fallos)
     citas = validar_fuentes(fallos)
+    validar_profundidad(fallos)
 
     if fallos:
         print(f"FALLÓ: {len(fallos)} problema(s) de estructura.")

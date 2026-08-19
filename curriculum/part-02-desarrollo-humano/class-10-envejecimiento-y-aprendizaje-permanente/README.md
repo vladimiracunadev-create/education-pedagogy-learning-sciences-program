@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Los ajustes útiles son de diseño, no de contenido: dar más tiempo sin señalarlo como concesión, reducir la carga de material nuevo por sesión, apoyarse explícitamente en la experiencia acumulada, cuidar condiciones sensoriales —tamaño de letra, contraste, audio— y evitar formatos que penalicen la rapidez. Ninguno implica simplificar el objetivo.
+Los ajustes útiles son de diseño, no de contenido: dar más tiempo sin señalarlo como concesión, reducir la carga de material nuevo por sesión, apoyarse explícitamente en la experiencia acumulada, cuidar condiciones sensoriales —tamaño de letra, contraste, audio— y evitar formatos que penalicen la rapidez. Ninguno implica simplificar el objetivo. Conviene además tratar la tecnología como contenido y no como supuesto: dar por sabido el manejo de una plataforma excluye antes de que la clase empiece.
 
 ### 5. Qué sostiene la evidencia y qué no
 
