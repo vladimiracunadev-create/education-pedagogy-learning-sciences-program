@@ -17,7 +17,7 @@ específicas, desafíos del aula, diversidad, bienestar docente y evidencia comp
 
 [![Versión](https://img.shields.io/badge/versión-2.0.0-e67e22?style=for-the-badge)](CHANGELOG.md)
 [![Clases](https://img.shields.io/badge/clases-300%20·%2025%20partes-7c5cff?style=for-the-badge)](CURRICULUM.md)
-[![Contenido](https://img.shields.io/badge/contenido-1.207.284%20palabras-2e8b57?style=for-the-badge)](MANIFEST.md)
+[![Contenido](https://img.shields.io/badge/contenido-1.176.335%20palabras-2e8b57?style=for-the-badge)](MANIFEST.md)
 [![Rutas](https://img.shields.io/badge/rutas%20por%20rol-14-007c83?style=for-the-badge)](rutas/README.md)
 [![Licencia](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-3fb950?style=for-the-badge)](LICENSE-CONTENT.md)
 
@@ -36,7 +36,7 @@ específicas, desafíos del aula, diversidad, bienestar docente y evidencia comp
 [🧑‍🏫 Guía del formador](docs/GUIA_DEL_FORMADOR.md) ·
 [🧰 Banco de actividades](actividades/README.md) ·
 [📖 Glosario](docs/GLOSARIO.md) ·
-[📚 Bibliografía (353 obras)](docs/BIBLIOGRAFIA.md) ·
+[📚 Bibliografía (438 obras)](docs/BIBLIOGRAFIA.md) ·
 [📊 Estado verificable](STATUS.md) ·
 [📦 Manifiesto](MANIFEST.md) ·
 [🗺️ Roadmap](ROADMAP.md) ·
@@ -100,11 +100,11 @@ obligatorias que el CI verifica:
 
 | Superficie | Cobertura |
 |---|---|
-| 📚 Currículo | 300/300 clases · 1.207.284 palabras · estándar `clase-profunda` de 22 secciones |
+| 📚 Currículo | 300/300 clases · 1.176.335 palabras · estándar `clase-profunda` de 22 secciones |
 | 📏 Profundidad | 3.765–4.133 palabras por clase (mediana 3.875), verificada en CI |
 | 🔬 Evidencia | cada clase declara su estado —`ROBUSTA` a `PRACTICA-PROFESIONAL`— y sus límites |
-| 🧩 Conceptos | 864 definiciones operacionales · glosario generado de 806 términos enlazados a su clase |
-| 📕 Bibliografía | 432 citas en clase sobre 353 obras distintas, con el lente que aporta cada una |
+| 🧩 Conceptos | 1.200 definiciones operacionales · glosario generado de 1.097 términos enlazados a su clase |
+| 📕 Bibliografía | 600 citas en clase sobre 438 obras distintas, con el lente que aporta cada una |
 | 🏫 Casos | 25 casos persistentes: cada parte trabaja las 12 clases sobre la misma realidad |
 | 🗺️ Diagramas | 325 mapas Mermaid: uno por clase y uno por parte |
 | 🏆 Evaluación | 300 evidencias de aprendizaje, 900 preguntas de comprobación, rúbrica maestra |
@@ -429,7 +429,7 @@ preguntas de comprobación como cuestionario de cierre.
 [♿ Accesibilidad](docs/ACCESIBILIDAD.md)
 
 <details>
-<summary><b>📚 Base bibliográfica — las 353 obras que ordenan cada parte</b></summary>
+<summary><b>📚 Base bibliográfica — las 438 obras que ordenan cada parte</b></summary>
 
 <br>
 

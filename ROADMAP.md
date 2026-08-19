@@ -71,7 +71,7 @@ doctoral que resistió las tres objeciones más fuertes de un especialista.
 
 - Etapa F con siete partes nuevas: alfabetización inicial, metodologías, necesidades educativas
   específicas, desafíos del aula, diversidad cultural y territorial, bienestar y evidencia
-  comparada. 300 clases en 25 partes, 1.207.284 palabras.
+  comparada. 300 clases en 25 partes, 1.176.335 palabras.
 - Banco de 60 actividades prácticas, filtrable por ciclo, asignatura, modalidad y contexto.
 - Especialización de etapa F declarada en las 14 guías de carrera.
 
