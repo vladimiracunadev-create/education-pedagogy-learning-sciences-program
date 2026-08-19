@@ -39,9 +39,9 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Base legal** | fundamento jurídico que autoriza el tratamiento de datos personales |
+| **Base legal** | fundamento jurídico que autoriza el tratamiento de datos personales; sin él, el consentimiento posterior no regulariza lo ya recogido |
 | **Minimización** | principio de tratar solo los datos estrictamente necesarios para la finalidad declarada |
-| **Sesgo algorítmico** | desempeño sistemáticamente distinto del sistema entre grupos de personas |
+| **Sesgo algorítmico** | desempeño sistemáticamente distinto de un sistema entre grupos de personas, que reproduce desigualdades presentes en los datos con que fue construido |
 | **Supervisión humana** | exigencia de que una persona revise y pueda revertir decisiones que afectan a otras |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Toda herramienta que procesa datos de estudiantes genera obligaciones: base legal para el tratamiento, información a los titulares, minimización, resguardo, plazos de conservación y, tratándose de menores, protecciones reforzadas. A eso se suma la exigencia ética de verificar que el sistema no funcione peor con determinados grupos, que es un fenómeno documentado y no una hipótesis.
+Toda herramienta que procesa datos de estudiantes genera obligaciones: base legal para el tratamiento, información a los titulares, minimización, resguardo, plazos de conservación y, tratándose de menores, protecciones reforzadas. A eso se suma la exigencia ética de verificar que el sistema no funcione peor con determinados grupos, que es un fenómeno documentado y no una hipótesis. La minimización es el principio que más se incumple y el más fácil de aplicar: antes de habilitar una plataforma, conviene preguntarse qué dato de los que pide es realmente necesario para lo que se quiere lograr.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Base legal** no 
 mismo que **Minimización** —principio de tratar solo los datos estrictamente necesarios para la finalidad declarada—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Sesgo algorítmico** y
 **Supervisión humana** describen aspectos distintos de la misma situación: el primero
-desempeño sistemáticamente distinto del sistema entre grupos de personas, mientras el segundo exigencia de que una persona revise y pueda revertir decisiones que afectan a otras.
+desempeño sistemáticamente distinto de un sistema entre grupos de personas, que reproduce desigualdades presentes en los datos con que fue construido, mientras el segundo exigencia de que una persona revise y pueda revertir decisiones que afectan a otras.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Base legal** | Fundamento jurídico que autoriza el tratamiento de datos personales | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Base legal** | Fundamento jurídico que autoriza el tratamiento de datos personales; sin él, el consentimiento posterior no regulariza lo ya recogido | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Minimización** | Principio de tratar solo los datos estrictamente necesarios para la finalidad declarada | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

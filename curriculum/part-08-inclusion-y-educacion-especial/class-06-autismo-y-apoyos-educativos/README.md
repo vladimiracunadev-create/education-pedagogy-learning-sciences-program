@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los apoyos con mejor respaldo en contextos educativos son concretos: anticipar cambios, hacer visible la secuencia de la jornada, dar consignas explícitas y literales, ofrecer un espacio de regulación y garantizar una vía de comunicación efectiva. Estos apoyos reducen conductas que suelen interpretarse como desafío y que en realidad son respuestas a un entorno impredecible o sensorialmente sobrecargado.
+Los apoyos con mejor respaldo en contextos educativos son concretos: anticipar cambios, hacer visible la secuencia de la jornada, dar consignas explícitas y literales, ofrecer un espacio de regulación y garantizar una vía de comunicación efectiva. Estos apoyos reducen conductas que suelen interpretarse como desafío y que en realidad son respuestas a un entorno impredecible o sensorialmente sobrecargado. Conviene además revisar el ambiente antes que la conducta: el ruido del comedor, la luz parpadeante o el timbre pueden explicar más de lo que explica cualquier interpretación sobre la intención del estudiante.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño parte del perfil concreto: qué situaciones desregulan, qué apoyos ya funcionan, cómo se comunica mejor. En Chile, la Ley 21.545 establece obligaciones específicas para los establecimientos respecto de estudiantes autistas, incluidos ajustes y protocolos. Conviene conocerla y verificar su versión vigente antes de aplicar cualquier medida.
+El diseño parte del perfil concreto: qué situaciones desregulan, qué apoyos ya funcionan, cómo se comunica mejor. En Chile, la Ley 21.545 establece obligaciones específicas para los establecimientos respecto de estudiantes autistas, incluidos ajustes y protocolos. Conviene conocerla y verificar su versión vigente antes de aplicar cualquier medida. Y conviene preguntar a la familia y, cuando es posible, al propio estudiante: son quienes mejor saben qué apoyos han funcionado en años anteriores y cuáles fracasaron.
 
 ### 5. Qué sostiene la evidencia y qué no
 

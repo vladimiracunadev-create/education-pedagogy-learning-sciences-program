@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El proyecto integrador de esta parte tiene una exigencia particular: el programa debe poder ser ejecutado por otra persona. Eso obliga a explicitar lo que un formador experimentado hace de forma implícita —cómo abre la sesión, qué pregunta, qué ejemplos usa, cómo maneja la objeción típica— y convierte el diseño en un producto transferible y no en una actuación personal.
+El proyecto integrador de esta parte tiene una exigencia particular: el programa debe poder ser ejecutado por otra persona. Eso obliga a explicitar lo que un formador experimentado hace de forma implícita —cómo abre la sesión, qué pregunta, qué ejemplos usa, cómo maneja la objeción típica— y convierte el diseño en un producto transferible y no en una actuación personal. Esa exigencia tiene un beneficio inesperado para quien lo escribe: al describir las propias decisiones aparecen las que se tomaban por costumbre y no por razón.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El paquete completo incluye diagnóstico documentado, objetivos de desempeño, secuencia de sesiones con guion, materiales del participante, plan de transferencia acordado y plan de evaluación. La prueba de calidad es entregarlo a otro formador y observar su ejecución: lo que él no logre reproducir es lo que faltaba explicitar.
+El paquete completo incluye diagnóstico documentado, objetivos de desempeño, secuencia de sesiones con guion, materiales del participante, plan de transferencia acordado y plan de evaluación. La prueba de calidad es entregarlo a otro formador y observar su ejecución: lo que él no logre reproducir es lo que faltaba explicitar. Conviene incluir además el listado de objeciones frecuentes con la respuesta que ha funcionado, porque es lo primero que necesita quien dicta el programa por primera vez.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Un programa bien diseñado no garantiza transferencia: las condiciones organizacionales pesan tanto como el diseño. Declararlo por escrito, junto con los supuestos del diseño, protege al programa de ser evaluado por resultados que dependen de decisiones ajenas al formador.
+Un programa bien diseñado no garantiza transferencia: las condiciones organizacionales pesan tanto como el diseño. Declararlo por escrito, junto con los supuestos del diseño, protege al programa de ser evaluado por resultados que dependen de decisiones ajenas al formador. Conviene además declarar la fecha de caducidad de los contenidos normativos o técnicos, para que quien lo ejecute dentro de dos años sepa qué debe verificar antes de usarlo.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 
@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-Un programa transferible debe declarar sus requisitos de accesibilidad: materiales legibles, alternativas a la exposición oral, subtítulos y consideración de participantes con lectura o conectividad limitadas.
+Un programa transferible debe declarar sus requisitos de accesibilidad: materiales legibles, alternativas a la exposición oral, subtítulos y consideración de participantes con lectura o conectividad limitadas. En capacitación laboral esto importa especialmente, porque el nivel de escolaridad del grupo suele ser muy heterogéneo y nadie lo declara al inscribirse.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

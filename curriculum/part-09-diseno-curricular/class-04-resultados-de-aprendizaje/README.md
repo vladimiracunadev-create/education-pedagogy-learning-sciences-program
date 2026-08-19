@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Resultado de aprendizaje** | declaración de lo que el estudiante podrá hacer al finalizar, verificable con evidencia |
 | **Verbo observable** | acción que puede constatarse externamente; excluye «conocer», «comprender» y «valorar» sin más |
 | **Condición de desempeño** | contexto, recursos y restricciones bajo los cuales se demuestra el resultado |
-| **Criterio de logro** | nivel mínimo aceptable para considerar alcanzado el resultado |
+| **Criterio de logro** | nivel mínimo aceptable para considerar alcanzado el resultado, expresado de modo que dos evaluadores lleguen a la misma decisión |
 
 ## 🧠 Modelo mental
 
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Un resultado mal redactado hace imposible la evaluación justa: si dice «comprender el ciclo del agua», cada evaluador decidirá qué cuenta como comprensión. Escribirlo con verbo observable, objeto preciso, condición y criterio convierte una intención en un compromiso verificable. No es formalismo administrativo: es lo que permite que dos docentes evalúen igual y que el estudiante sepa qué se le exige.
+Un resultado mal redactado hace imposible la evaluación justa: si dice «comprender el ciclo del agua», cada evaluador decidirá qué cuenta como comprensión. Escribirlo con verbo observable, objeto preciso, condición y criterio convierte una intención en un compromiso verificable. No es formalismo administrativo: es lo que permite que dos docentes evalúen igual y que el estudiante sepa qué se le exige. La prueba es breve: si dos personas leen el resultado y describen tareas distintas para comprobarlo, todavía falta precisión.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Resultado de apr
 mismo que **Verbo observable** —acción que puede constatarse externamente; excluye «conocer», «comprender» y «valorar» sin más—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Condición de desempeño** y
 **Criterio de logro** describen aspectos distintos de la misma situación: el primero
-contexto, recursos y restricciones bajo los cuales se demuestra el resultado, mientras el segundo nivel mínimo aceptable para considerar alcanzado el resultado.
+contexto, recursos y restricciones bajo los cuales se demuestra el resultado, mientras el segundo nivel mínimo aceptable para considerar alcanzado el resultado, expresado de modo que dos evaluadores lleguen a la misma decisión.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no

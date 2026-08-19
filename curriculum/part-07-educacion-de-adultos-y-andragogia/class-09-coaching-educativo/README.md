@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El coaching instruccional aplicado a docentes muestra efectos prometedores cuando combina observación, retroalimentación específica y práctica, con acompañamiento sostenido en el tiempo. La diferencia con la mentoría es de foco: el mentor comparte experiencia, el coach trabaja sobre el desempeño observado de la otra persona. Confundirlos produce conversaciones donde el acompañante habla de sí mismo.
+El coaching instruccional aplicado a docentes muestra efectos prometedores cuando combina observación, retroalimentación específica y práctica, con acompañamiento sostenido en el tiempo. La diferencia con la mentoría es de foco: el mentor comparte experiencia, el coach trabaja sobre el desempeño observado de la otra persona. Confundirlos produce conversaciones donde el acompañante habla de sí mismo. Hay una condición que decide el resultado y suele omitirse: el ciclo debe cerrarse con una nueva observación, porque sin ella la conversación queda como consejo y no como aprendizaje verificado.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

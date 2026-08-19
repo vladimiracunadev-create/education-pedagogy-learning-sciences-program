@@ -24,9 +24,9 @@
         "dificultad del especialista para ver qué pasos necesita quien no sabe"
       ]
     ],
-    "desarrollo": "Dominar una disciplina no basta para enseñarla, y en parte estorba: el experto tiene su conocimiento tan automatizado que olvida los pasos intermedios. El conocimiento pedagógico del contenido es el saber específico que llena ese vacío: qué analogía funciona para este concepto, qué error aparece siempre, qué ejemplo hace visible la distinción, en qué orden conviene presentar los casos.",
+    "desarrollo": "Dominar una disciplina no basta para enseñarla, y en parte estorba: el experto tiene su conocimiento tan automatizado que olvida los pasos intermedios. El conocimiento pedagógico del contenido es el saber específico que llena ese vacío: qué analogía funciona para este concepto, qué error aparece siempre, qué ejemplo hace visible la distinción, en qué orden conviene presentar los casos. Es un saber que se acumula en la práctica y que casi nunca se escribe, y por eso se pierde cuando el docente cambia de establecimiento: nadie hereda su lista de errores frecuentes ni sus mejores analogías.",
     "practica": "Este conocimiento se construye con registro sistemático. Después de cada clase, anotar qué error apareció, qué explicación funcionó y cuál no, qué pregunta reveló la confusión. En tres años eso produce un repertorio propio que ninguna formación entrega. Compartirlo entre colegas de la misma asignatura multiplica su valor y es la forma más eficiente de desarrollo profesional disponible.",
-    "limites": "Es conocimiento específico de contenido: no se transfiere entre asignaturas ni entre niveles. Un docente excelente en un tema puede ser novato en otro del mismo curso. Y su construcción es lenta: no hay atajo formativo que sustituya la experiencia registrada y analizada.",
+    "limites": "Es conocimiento específico de contenido: no se transfiere entre asignaturas ni entre niveles. Un docente excelente en un tema puede ser novato en otro del mismo curso. Y su construcción es lenta: no hay atajo formativo que sustituya la experiencia registrada y analizada. Conviene además reconocer un problema de medición: se sabe distinguir a quien lo tiene de quien no, y se sabe mucho menos sobre cómo acelerar su desarrollo, que es justo lo que una formación inicial necesitaría saber.",
     "errores": [
       "Explicar desde la lógica del experto, saltando los pasos que el novato necesita.",
       "No registrar los errores típicos y volver a sorprenderse con los mismos cada año."
@@ -79,7 +79,7 @@
         "comprobación de comprensión antes de avanzar, sobre todo el curso y no sobre algunos"
       ]
     ],
-    "desarrollo": "La claridad de una explicación no la juzga quien la da: la juzga quien la recibe. Las explicaciones que funcionan comparten rasgos verificables: parten de algo conocido, avanzan en segmentos con pausas, marcan explícitamente lo importante, usan ejemplos concretos antes de la formulación general y comprueban comprensión antes de seguir. Todo eso se puede diseñar; no depende de carisma.",
+    "desarrollo": "La claridad de una explicación no la juzga quien la da: la juzga quien la recibe. Las explicaciones que funcionan comparten rasgos verificables: parten de algo conocido, avanzan en segmentos con pausas, marcan explícitamente lo importante, usan ejemplos concretos antes de la formulación general y comprueban comprensión antes de seguir. Todo eso se puede diseñar; no depende de carisma. Hay una señal de alerta fácil de detectar: si al explicar aparecen tres ideas nuevas en la misma oración, el problema no será de atención del curso sino de segmentación de la explicación.",
     "practica": "El diseño concreto consiste en escribir la explicación antes de darla: qué se dice primero, dónde va el ejemplo, dónde se detiene, qué pregunta verifica. Parece excesivo y deja de serlo cuando se comprueba cuántas explicaciones improvisadas fallan en el mismo punto todos los años. La verificación inmediata es la parte que más rinde y la que más se omite.",
     "limites": "Una explicación excelente no basta para aprender: sin práctica posterior, el contenido se olvida. Y hay contenidos donde la explicación previa es contraproducente porque elimina el problema que el estudiante debía enfrentar. La decisión sobre cuándo explicar y cuándo dejar explorar depende del conocimiento previo del grupo.",
     "errores": [
@@ -119,7 +119,7 @@
     "conceptos": [
       [
         "Ejemplo",
-        "caso que cumple todas las condiciones del concepto"
+        "caso que cumple todas las condiciones del concepto; varía en su apariencia superficial para que el estudiante no asocie el concepto con un contexto único"
       ],
       [
         "Contraejemplo",
@@ -135,7 +135,7 @@
       ]
     ],
     "desarrollo": "Los estudiantes forman conceptos por inducción sobre los casos que ven, de modo que la selección de ejemplos determina el concepto que construyen. Si todos los triángulos que ven son equiláteros y están apoyados en su base, construirán un concepto erróneo. Los contraejemplos —casos que parecen cumplir y no cumplen— son lo que fija el límite, y la comparación explícita entre casos es uno de los procedimientos con mejor evidencia para producir comprensión estructural.",
-    "practica": "El diseño requiere elegir los casos con criterio: ejemplos variados en superficie, contraejemplos cercanos —no absurdos— y una actividad que obligue a comparar y a formular la diferencia. Los contraejemplos lejanos no enseñan nada; los cercanos, los que casi cumplen, son los que producen la discriminación fina que el concepto exige.",
+    "practica": "El diseño requiere elegir los casos con criterio: ejemplos variados en superficie, contraejemplos cercanos —no absurdos— y una actividad que obligue a comparar y a formular la diferencia. Los contraejemplos lejanos no enseñan nada; los cercanos, los que casi cumplen, son los que producen la discriminación fina que el concepto exige. Vale la pena pedir después que los estudiantes construyan su propio contraejemplo: quien logra fabricar un caso que casi cumple ha entendido el límite del concepto mejor que quien solo lo reconoce.",
     "limites": "Demasiados casos simultáneos saturan la memoria de trabajo y producen confusión en vez de precisión. Y la comparación exige que el estudiante tenga suficiente conocimiento base para percibir la diferencia: presentada demasiado temprano, no se ve. La secuencia y la dosificación son parte del diseño.",
     "errores": [
       "Usar siempre ejemplos prototípicos y producir conceptos asociados a rasgos accidentales.",
@@ -174,7 +174,7 @@
     "conceptos": [
       [
         "Pregunta de verificación",
-        "interrogante diseñada para revelar comprensión o su ausencia"
+        "interrogante diseñada para revelar comprensión o su ausencia en todo el grupo, y no para confirmar que alguien puede repetir lo dicho"
       ],
       [
         "Tiempo de espera",
@@ -186,7 +186,7 @@
       ],
       [
         "Distractor diagnóstico",
-        "opción incorrecta diseñada para revelar un error conceptual específico"
+        "opción incorrecta construida a partir de un error conceptual real, de modo que elegirla informe qué está fallando"
       ]
     ],
     "desarrollo": "La mayoría de las preguntas de aula se responde por los mismos estudiantes y en menos de un segundo. Dos cambios simples tienen efectos documentados: aumentar el tiempo de espera a tres segundos, que mejora la extensión y la calidad de las respuestas, y usar técnicas de respuesta simultánea, que hacen visible lo que la mano levantada oculta. La pregunta con distractores diagnósticos es la herramienta más eficiente para detectar errores conceptuales en segundos.",
@@ -229,7 +229,7 @@
     "conceptos": [
       [
         "Diálogo pedagógico",
-        "conversación estructurada orientada a construir comprensión colectiva"
+        "conversación estructurada donde las intervenciones se encadenan y se exige fundamentar, orientada a construir comprensión colectiva y no a recoger opiniones"
       ],
       [
         "Encadenamiento",
@@ -288,7 +288,7 @@
       ],
       [
         "Pensamiento en voz alta",
-        "verbalización del razonamiento interno mientras se ejecuta la tarea"
+        "verbalización del razonamiento mientras se ejecuta la tarea, incluidas las dudas y los descartes que el resultado final ya no muestra"
       ],
       [
         "Ejemplo trabajado",
@@ -300,8 +300,8 @@
       ]
     ],
     "desarrollo": "El experto ejecuta sin verbalizar y el novato ve solo el resultado, no las decisiones que lo produjeron: por qué se descartó una alternativa, dónde se detuvo a comprobar, qué hizo cuando se equivocó. Hacer visible ese proceso —hablar mientras se resuelve, incluyendo las dudas— es una de las prácticas con mejor respaldo, y es la base del efecto documentado de los ejemplos trabajados.",
-    "practica": "El guion de modelamiento incluye lo que se dirá en cada paso, dónde se hará una pausa, qué error se cometerá deliberadamente para mostrar la corrección. Ese último recurso es potente: los estudiantes aprenden que equivocarse y comprobar forma parte del procedimiento experto, no de la incompetencia.",
-    "limites": "El modelamiento pierde eficacia con estudiantes que ya dominan el procedimiento: el efecto de los ejemplos trabajados se invierte con la experticia. Además, observar produce la ilusión de saber hacer: sin práctica inmediata, el modelamiento no se convierte en competencia.",
+    "practica": "El guion de modelamiento incluye lo que se dirá en cada paso, dónde se hará una pausa, qué error se cometerá deliberadamente para mostrar la corrección. Ese último recurso es potente: los estudiantes aprenden que equivocarse y comprobar forma parte del procedimiento experto, no de la incompetencia. Conviene escribir el guion, aunque parezca innecesario: al hacerlo aparecen los pasos que uno da sin darse cuenta, que son precisamente los que el estudiante no ve y no puede imitar.",
+    "limites": "El modelamiento pierde eficacia con estudiantes que ya dominan el procedimiento: el efecto de los ejemplos trabajados se invierte con la experticia. Además, observar produce la ilusión de saber hacer: sin práctica inmediata, el modelamiento no se convierte en competencia. Por eso conviene planificar el paso siguiente antes que el modelamiento mismo: cuántos minutos quedarán para que intenten, y qué se hará si esos minutos se consumen en la demostración.",
     "errores": [
       "Mostrar el procedimiento terminado sin verbalizar las decisiones que lo produjeron.",
       "Prolongar el modelamiento con estudiantes que ya deberían estar practicando."
@@ -347,7 +347,7 @@
       ],
       [
         "Desvanecimiento",
-        "retirada progresiva del apoyo conforme aumenta el dominio"
+        "retirada progresiva y planificada del apoyo conforme aumenta el dominio, con un criterio declarado que indica cuándo corresponde quitarlo"
       ],
       [
         "Dependencia inducida",
@@ -356,7 +356,7 @@
     ],
     "desarrollo": "El andamiaje tiene tres propiedades que lo distinguen de la simple ayuda: es contingente al desempeño observado, es temporal y tiene criterio de retiro. La ayuda que se da siempre igual, independiente de cómo va el estudiante, no es andamiaje: es una muleta. Y el apoyo que nunca se retira produce dependencia, que en la práctica se observa como estudiantes que solo trabajan cuando el docente está al lado.",
     "practica": "Escribir el criterio de retiro junto con el apoyo es lo que convierte la intuición en decisión profesional: «se retira la plantilla cuando complete dos tareas sin errores en la estructura». Sin ese criterio, el apoyo permanece por inercia y nadie nota el problema hasta la evaluación final, cuando el estudiante ya no tiene el andamio.",
-    "limites": "El andamiaje contingente exige observar de cerca, lo que en cursos numerosos es difícil de sostener para todos. La alternativa realista es andamiaje diferenciado por grupos y no individual, con criterios de retiro por grupo. Reconocer esa restricción evita diseños ideales que nadie ejecuta.",
+    "limites": "El andamiaje contingente exige observar de cerca, lo que en cursos numerosos es difícil de sostener para todos. La alternativa realista es andamiaje diferenciado por grupos y no individual, con criterios de retiro por grupo. Reconocer esa restricción evita diseños ideales que nadie ejecuta. Hay además un riesgo simétrico y menos discutido: el apoyo que no se retira produce dependencia, y un estudiante que solo resuelve con la plantilla del docente no ha aprendido el procedimiento, ha aprendido a usar la plantilla.",
     "errores": [
       "Ofrecer siempre el mismo apoyo sin relación con el desempeño observado.",
       "Retirar el andamiaje por calendario y no por criterio de dominio."
@@ -402,7 +402,7 @@
       ],
       [
         "Corrección oportuna",
-        "retroalimentación entregada antes de que el error se consolide"
+        "retroalimentación entregada antes de que el error se consolide, cuyo momento adecuado depende de la fase de aprendizaje y no es siempre inmediato"
       ],
       [
         "Dosificación",
@@ -411,7 +411,7 @@
     ],
     "desarrollo": "El error más costoso en la enseñanza de procedimientos es dejar practicar demasiado pronto sin corrección: el estudiante repite el procedimiento equivocado hasta automatizarlo, y desaprenderlo cuesta mucho más que aprenderlo bien la primera vez. La regla derivada de la investigación sobre docentes eficaces es simple: no se pasa a práctica independiente hasta que el desempeño guiado es correcto de forma consistente.",
     "practica": "El diseño explicita el criterio de paso —por ejemplo, tres ejecuciones correctas seguidas— y organiza la corrección: quién corrige, cuándo y cómo, considerando que un docente no puede revisar treinta ejecuciones simultáneas. Autocorrección con pauta, corrección entre pares con criterios y muestreo del docente son alternativas viables. Y la práctica se distribuye en el tiempo en vez de concentrarse.",
-    "limites": "La práctica excesiva sin variación produce ejecución rígida que no transfiere. Y la corrección inmediata, útil al inicio, puede volverse contraproducente después: en fases avanzadas, demorar la retroalimentación favorece la retención. Ajustar el momento de la corrección según la fase es parte del oficio.",
+    "limites": "La práctica excesiva sin variación produce ejecución rígida que no transfiere. Y la corrección inmediata, útil al inicio, puede volverse contraproducente después: en fases avanzadas, demorar la retroalimentación favorece la retención. Ajustar el momento de la corrección según la fase es parte del oficio. Conviene tener presente también el costo de la variación: introducirla demasiado pronto, antes de que el procedimiento básico esté firme, genera confusión que se confunde con falta de estudio.",
     "errores": [
       "Enviar a práctica independiente antes de comprobar desempeño correcto consistente.",
       "Concentrar toda la práctica en una sesión y no volver sobre el procedimiento."
@@ -464,8 +464,8 @@
         "conductas concretas —escuchar, pedir aclaración, distribuir— que se enseñan explícitamente"
       ]
     ],
-    "desarrollo": "Poner a los estudiantes en grupos no produce aprendizaje colaborativo: produce reparto de tareas, donde uno hace, otro copia y otro se desconecta. La investigación identifica condiciones específicas que hacen la diferencia, y la más determinante es la combinación de interdependencia positiva con responsabilidad individual: la tarea debe requerir a todos y cada uno debe responder por lo aprendido.",
-    "practica": "Diseñar estas condiciones exige decisiones concretas: información distribuida entre integrantes, roles con función real, evaluación individual del contenido además del producto grupal, y enseñanza explícita de las conductas de colaboración. Los grupos de tres a cuatro funcionan mejor que los grandes, donde la desconexión es más fácil.",
+    "desarrollo": "Poner a los estudiantes en grupos no produce aprendizaje colaborativo: produce reparto de tareas, donde uno hace, otro copia y otro se desconecta. La investigación identifica condiciones específicas que hacen la diferencia, y la más determinante es la combinación de interdependencia positiva con responsabilidad individual: la tarea debe requerir a todos y cada uno debe responder por lo aprendido. Sin la primera condición el grupo se fragmenta; sin la segunda, se esconde tras el resultado colectivo.",
+    "practica": "Diseñar estas condiciones exige decisiones concretas: información distribuida entre integrantes, roles con función real, evaluación individual del contenido además del producto grupal, y enseñanza explícita de las conductas de colaboración. Los grupos de tres a cuatro funcionan mejor que los grandes, donde la desconexión es más fácil. Y conviene enseñar cómo se pide ayuda y cómo se explica sin dar la respuesta: son conductas que el trabajo grupal supone y que casi nadie enseña.",
     "limites": "El aprendizaje colaborativo tiene evidencia sólida cuando se cumplen sus condiciones y resultados pobres cuando no. También tiene costos: consume más tiempo que la instrucción directa para el mismo contenido, de modo que conviene reservarlo para objetivos que lo justifiquen —explicar, argumentar, resolver problemas complejos— y no para todo.",
     "errores": [
       "Evaluar solo el producto grupal, con lo que se premia el reparto y no el aprendizaje.",
@@ -512,7 +512,7 @@
       ],
       [
         "Verificación de preparación",
-        "mecanismo que comprueba y hace consecuente el trabajo previo"
+        "mecanismo breve al inicio de la clase que comprueba el trabajo previo y lo hace consecuente, sin el cual el modelo se desarma en la primera semana"
       ],
       [
         "Uso del tiempo presencial",
@@ -521,7 +521,7 @@
     ],
     "desarrollo": "El aula invertida tiene una lógica sólida: si la exposición puede consumirse de forma asincrónica, el tiempo presencial se reserva para lo que requiere al docente y a los pares —práctica corregida, resolución de dificultades, discusión—. La condición crítica es que el material previo se trabaje efectivamente, y ahí fracasa la mayoría de las implementaciones. Sin verificación con consecuencia, entre la mitad y dos tercios llega sin preparación.",
     "practica": "El diseño requiere material breve —no una clase grabada de cincuenta minutos—, con preguntas incorporadas, y una verificación al inicio de la sesión que tenga alguna consecuencia. Y el tiempo presencial debe cambiar realmente: si se vuelve a explicar lo mismo, el modelo se anula y los estudiantes aprenden que no vale la pena prepararse.",
-    "limites": "Los metaanálisis muestran efectos positivos pequeños a moderados, con alta heterogeneidad y dependientes del diseño. El modelo traslada carga de trabajo al estudiante y penaliza a quienes tienen menos tiempo o peor conectividad, lo que puede aumentar desigualdades si no se compensa.",
+    "limites": "Los metaanálisis muestran efectos positivos pequeños a moderados, con alta heterogeneidad y dependientes del diseño. El modelo traslada carga de trabajo al estudiante y penaliza a quienes tienen menos tiempo o peor conectividad, lo que puede aumentar desigualdades si no se compensa. Conviene además revisar de dónde viene el efecto reportado: en varios estudios la clase invertida se compara con una clase expositiva sin actividad, de modo que lo que mejora podría ser el trabajo activo en aula y no la inversión del orden.",
     "errores": [
       "Grabar la clase completa y llamarlo aula invertida.",
       "Repetir la explicación en la sesión presencial, con lo que se elimina el incentivo a prepararse."
@@ -622,15 +622,15 @@
       ],
       [
         "Registro de implementación",
-        "documentación de lo que efectivamente ocurrió, incluidas las desviaciones"
+        "documentación de lo que efectivamente ocurrió en cada sesión, incluidas las desviaciones respecto del diseño y su razón"
       ],
       [
         "Análisis de resultados",
         "comparación entre lo esperado y lo obtenido, con hipótesis sobre las diferencias"
       ]
     ],
-    "desarrollo": "La secuencia integradora exige elegir: no todas las técnicas caben en una unidad, y usarlas todas produce clases sobrecargadas. La competencia profesional consiste en escoger las que corresponden al contenido, al grupo y al tiempo disponible, y justificar cada elección. Un docente experto no usa más técnicas: usa las adecuadas y las ejecuta bien.",
-    "practica": "El trabajo incluye diseñar, ejecutar y registrar. El registro de implementación es lo que permite interpretar los resultados: una secuencia que no funcionó puede haber estado mal diseñada o mal ejecutada, y sin registro no se puede distinguir. Ese es el mismo criterio que la parte 16 exige a cualquier investigación.",
+    "desarrollo": "La secuencia integradora exige elegir: no todas las técnicas caben en una unidad, y usarlas todas produce clases sobrecargadas. La competencia profesional consiste en escoger las que corresponden al contenido, al grupo y al tiempo disponible, y justificar cada elección. Un docente experto no usa más técnicas: usa las adecuadas y las ejecuta bien. Una señal de que la secuencia está sobrecargada es que ninguna actividad tenga tiempo para cerrarse: cuando todo queda a medias, el problema no es el ritmo del curso sino la cantidad de decisiones apiladas en la misma hora.",
+    "practica": "El trabajo incluye diseñar, ejecutar y registrar. El registro de implementación es lo que permite interpretar los resultados: una secuencia que no funcionó puede haber estado mal diseñada o mal ejecutada, y sin registro no se puede distinguir. Ese es el mismo criterio que la parte 16 exige a cualquier investigación. Basta con anotar al final de cada clase qué se alcanzó a hacer, qué se saltó y por qué: tres líneas por sesión bastan para reconstruir después lo que ocurrió.",
     "limites": "Una secuencia aplicada una vez, con un grupo, no prueba nada sobre la eficacia de las técnicas: hay efecto de novedad, esfuerzo adicional y particularidades del grupo. Lo que produce es evidencia sobre tu propia práctica, suficiente para decidir la siguiente iteración y no para generalizar.",
     "errores": [
       "Incorporar todas las técnicas de la parte y sobrecargar la secuencia.",

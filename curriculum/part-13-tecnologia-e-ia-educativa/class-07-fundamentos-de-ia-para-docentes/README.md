@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La prueba de comprensión es poder explicarlo a un colega sin jerga y responder preguntas incómodas: por qué el sistema inventa datos, por qué funciona mejor con unos estudiantes que con otros, por qué su respuesta cambia si se le pregunta distinto. Esa explicación es la base de cualquier decisión institucional informada.
+La prueba de comprensión es poder explicarlo a un colega sin jerga y responder preguntas incómodas: por qué el sistema inventa datos, por qué funciona mejor con unos estudiantes que con otros, por qué su respuesta cambia si se le pregunta distinto. Esa explicación es la base de cualquier decisión institucional informada. Un ejercicio breve y revelador es pedirle al sistema tres referencias bibliográficas sobre un tema que domines y verificar una por una: la experiencia enseña más sobre sus límites que cualquier explicación técnica.
 
 ### 5. Qué sostiene la evidencia y qué no
 

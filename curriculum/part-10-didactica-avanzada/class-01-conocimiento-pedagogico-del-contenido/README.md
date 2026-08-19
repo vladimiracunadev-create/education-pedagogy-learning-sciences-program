@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Dominar una disciplina no basta para enseñarla, y en parte estorba: el experto tiene su conocimiento tan automatizado que olvida los pasos intermedios. El conocimiento pedagógico del contenido es el saber específico que llena ese vacío: qué analogía funciona para este concepto, qué error aparece siempre, qué ejemplo hace visible la distinción, en qué orden conviene presentar los casos.
+Dominar una disciplina no basta para enseñarla, y en parte estorba: el experto tiene su conocimiento tan automatizado que olvida los pasos intermedios. El conocimiento pedagógico del contenido es el saber específico que llena ese vacío: qué analogía funciona para este concepto, qué error aparece siempre, qué ejemplo hace visible la distinción, en qué orden conviene presentar los casos. Es un saber que se acumula en la práctica y que casi nunca se escribe, y por eso se pierde cuando el docente cambia de establecimiento: nadie hereda su lista de errores frecuentes ni sus mejores analogías.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ Este conocimiento se construye con registro sistemático. Después de cada clase
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Es conocimiento específico de contenido: no se transfiere entre asignaturas ni entre niveles. Un docente excelente en un tema puede ser novato en otro del mismo curso. Y su construcción es lenta: no hay atajo formativo que sustituya la experiencia registrada y analizada.
+Es conocimiento específico de contenido: no se transfiere entre asignaturas ni entre niveles. Un docente excelente en un tema puede ser novato en otro del mismo curso. Y su construcción es lenta: no hay atajo formativo que sustituya la experiencia registrada y analizada. Conviene además reconocer un problema de medición: se sabe distinguir a quien lo tiene de quien no, y se sabe mucho menos sobre cómo acelerar su desarrollo, que es justo lo que una formación inicial necesitaría saber.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

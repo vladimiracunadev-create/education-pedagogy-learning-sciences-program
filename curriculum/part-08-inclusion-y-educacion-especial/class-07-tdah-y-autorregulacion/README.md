@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Función ejecutiva** | conjunto de procesos de planificación, inhibición y memoria de trabajo implicados en la conducta dirigida a metas |
 | **Estructura externa** | apoyos del entorno que sustituyen temporalmente la regulación que el estudiante no puede sostener |
-| **Segmentación de la tarea** | división del trabajo en pasos cortos con verificación intermedia |
+| **Segmentación de la tarea** | división del trabajo en pasos cortos con un cierre visible y verificación al final de cada uno, que reduce la demanda de sostenimiento |
 | **Retroalimentación frecuente** | información inmediata sobre el desempeño, que sostiene la conducta mejor que la consecuencia diferida |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El TDAH no es un déficit de voluntad ni de conocimiento de las reglas: es una dificultad de regulación con base neurobiológica bien documentada. Los apoyos con mejor respaldo en el aula son estructurales: consignas breves y visibles, tareas segmentadas, retroalimentación inmediata, ubicación que reduzca distractores y oportunidades de movimiento. Todos disminuyen la cantidad de autorregulación que la clase exige.
+El TDAH no es un déficit de voluntad ni de conocimiento de las reglas: es una dificultad de regulación con base neurobiológica bien documentada. Los apoyos con mejor respaldo en el aula son estructurales: consignas breves y visibles, tareas segmentadas, retroalimentación inmediata, ubicación que reduzca distractores y oportunidades de movimiento. Todos disminuyen la cantidad de autorregulación que la clase exige. Es útil recordar el mecanismo cuando aparece la frase «cuando quiere, puede»: la atención se sostiene con recompensa inmediata y se desploma con recompensa lejana, y casi todo el trabajo escolar es del segundo tipo.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Función ejecuti
 mismo que **Estructura externa** —apoyos del entorno que sustituyen temporalmente la regulación que el estudiante no puede sostener—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Segmentación de la tarea** y
 **Retroalimentación frecuente** describen aspectos distintos de la misma situación: el primero
-división del trabajo en pasos cortos con verificación intermedia, mientras el segundo información inmediata sobre el desempeño, que sostiene la conducta mejor que la consecuencia diferida.
+división del trabajo en pasos cortos con un cierre visible y verificación al final de cada uno, que reduce la demanda de sostenimiento, mientras el segundo información inmediata sobre el desempeño, que sostiene la conducta mejor que la consecuencia diferida.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La implementación es concreta: escribir la consigna además de decirla, dividir el trabajo en tramos con revisión al final de cada uno, dar retroalimentación en el momento, permitir movimiento legítimo. Estos ajustes benefician al curso completo, no solo al estudiante con diagnóstico, y por eso conviene aplicarlos como diseño y no como excepción visible.
+La implementación es concreta: escribir la consigna además de decirla, dividir el trabajo en tramos con revisión al final de cada uno, dar retroalimentación en el momento, permitir movimiento legítimo. Estos ajustes benefician al curso completo, no solo al estudiante con diagnóstico, y por eso conviene aplicarlos como diseño y no como excepción visible. Conviene además acordar con el estudiante una señal discreta para volver a la tarea, que evita la corrección pública repetida y su costo sobre el vínculo.
 
 ### 5. Qué sostiene la evidencia y qué no
 

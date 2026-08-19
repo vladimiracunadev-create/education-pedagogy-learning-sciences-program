@@ -125,7 +125,7 @@ El paso decisivo es el segundo: escribir la evidencia aceptable antes de haber p
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El diseño inverso ordena el trabajo y no garantiza calidad: una unidad perfectamente alineada puede perseguir objetivos triviales. Además, aplicado de forma rígida puede excluir aprendizajes valiosos difíciles de evidenciar. Conviene usarlo como disciplina de diseño y no como criterio único de valor.
+El diseño inverso ordena el trabajo y no garantiza calidad: una unidad perfectamente alineada puede perseguir objetivos triviales. Además, aplicado de forma rígida puede excluir aprendizajes valiosos difíciles de evidenciar. Conviene usarlo como disciplina de diseño y no como criterio único de valor. Hay también una tensión práctica: la evidencia se define antes, cuando todavía no se conoce al grupo, de modo que el diseño debe dejar margen para ajustar la tarea sin cambiar el aprendizaje comprometido.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

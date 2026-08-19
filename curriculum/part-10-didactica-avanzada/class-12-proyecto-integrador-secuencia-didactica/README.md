@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Secuencia didáctica** | conjunto ordenado de decisiones de enseñanza para un contenido determinado |
 | **Justificación técnica** | fundamento de cada decisión en un mecanismo de aprendizaje documentado |
-| **Registro de implementación** | documentación de lo que efectivamente ocurrió, incluidas las desviaciones |
+| **Registro de implementación** | documentación de lo que efectivamente ocurrió en cada sesión, incluidas las desviaciones respecto del diseño y su razón |
 | **Análisis de resultados** | comparación entre lo esperado y lo obtenido, con hipótesis sobre las diferencias |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La secuencia integradora exige elegir: no todas las técnicas caben en una unidad, y usarlas todas produce clases sobrecargadas. La competencia profesional consiste en escoger las que corresponden al contenido, al grupo y al tiempo disponible, y justificar cada elección. Un docente experto no usa más técnicas: usa las adecuadas y las ejecuta bien.
+La secuencia integradora exige elegir: no todas las técnicas caben en una unidad, y usarlas todas produce clases sobrecargadas. La competencia profesional consiste en escoger las que corresponden al contenido, al grupo y al tiempo disponible, y justificar cada elección. Un docente experto no usa más técnicas: usa las adecuadas y las ejecuta bien. Una señal de que la secuencia está sobrecargada es que ninguna actividad tenga tiempo para cerrarse: cuando todo queda a medias, el problema no es el ritmo del curso sino la cantidad de decisiones apiladas en la misma hora.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Secuencia didác
 mismo que **Justificación técnica** —fundamento de cada decisión en un mecanismo de aprendizaje documentado—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Registro de implementación** y
 **Análisis de resultados** describen aspectos distintos de la misma situación: el primero
-documentación de lo que efectivamente ocurrió, incluidas las desviaciones, mientras el segundo comparación entre lo esperado y lo obtenido, con hipótesis sobre las diferencias.
+documentación de lo que efectivamente ocurrió en cada sesión, incluidas las desviaciones respecto del diseño y su razón, mientras el segundo comparación entre lo esperado y lo obtenido, con hipótesis sobre las diferencias.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El trabajo incluye diseñar, ejecutar y registrar. El registro de implementación es lo que permite interpretar los resultados: una secuencia que no funcionó puede haber estado mal diseñada o mal ejecutada, y sin registro no se puede distinguir. Ese es el mismo criterio que la parte 16 exige a cualquier investigación.
+El trabajo incluye diseñar, ejecutar y registrar. El registro de implementación es lo que permite interpretar los resultados: una secuencia que no funcionó puede haber estado mal diseñada o mal ejecutada, y sin registro no se puede distinguir. Ese es el mismo criterio que la parte 16 exige a cualquier investigación. Basta con anotar al final de cada clase qué se alcanzó a hacer, qué se saltó y por qué: tres líneas por sesión bastan para reconstruir después lo que ocurrió.
 
 ### 5. Qué sostiene la evidencia y qué no
 

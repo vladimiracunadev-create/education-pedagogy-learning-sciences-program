@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La investigación sobre educación en línea es consistente en un punto: la plataforma explica poco y el diseño explica mucho. Los cursos que funcionan tienen estructura predecible, presencia docente visible y regular, expectativas explícitas y actividades con propósito. Los que fracasan acumulan materiales sin secuencia, delegan la interacción a foros sin función y dejan al estudiante solo con su autorregulación.
+La investigación sobre educación en línea es consistente en un punto: la plataforma explica poco y el diseño explica mucho. Los cursos que funcionan tienen estructura predecible, presencia docente visible y regular, expectativas explícitas y actividades con propósito. Los que fracasan acumulan materiales sin secuencia, delegan la interacción a foros sin función y dejan al estudiante solo con su autorregulación. Esa última condición merece atención: el aula virtual traslada al estudiante una carga de organización que en la sala presencial asumía la estructura del horario, y quienes menos hábitos de estudio traen son los primeros en quedarse atrás.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-Las condiciones de conectividad, dispositivo y espacio de estudio son muy desiguales. Ofrecer materiales descargables, formatos livianos y alternativas asincrónicas evita que el diseño excluya por infraestructura.
+Las condiciones de conectividad, dispositivo y espacio de estudio son muy desiguales. Ofrecer materiales descargables, formatos livianos y alternativas asincrónicas evita que el diseño excluya por infraestructura. Conviene preguntarlo al inicio y no suponerlo: cuántos estudiantes acceden solo por teléfono, cuántos comparten el dispositivo con hermanos y en qué horario tienen conexión estable son datos que cambian por completo qué se puede pedir.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

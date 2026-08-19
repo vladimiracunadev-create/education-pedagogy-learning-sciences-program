@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los modelos de lenguaje son útiles en tareas donde el docente puede verificar el resultado con rapidez: generar variantes de ejercicios, producir borradores, proponer ejemplos, reformular explicaciones, anticipar errores frecuentes. Son riesgosos en tareas donde la verificación es costosa o donde el error pasa inadvertido: datos históricos, cifras, referencias bibliográficas y normativa, que es precisamente donde más se equivocan.
+Los modelos de lenguaje son útiles en tareas donde el docente puede verificar el resultado con rapidez: generar variantes de ejercicios, producir borradores, proponer ejemplos, reformular explicaciones, anticipar errores frecuentes. Son riesgosos en tareas donde la verificación es costosa o donde el error pasa inadvertido: datos históricos, cifras, referencias bibliográficas y normativa, que es precisamente donde más se equivocan. La regla que ordena el uso es el costo de verificar: si comprobar la respuesta cuesta más que producirla uno mismo, la herramienta no está ahorrando trabajo, lo está desplazando.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Un protocolo profesional define qué tareas se delegan, qué verificación exige cada una y qué queda registrado. La regla de fondo es simple: la responsabilidad no se delega. Si un material tiene un error, responde quien lo entregó a sus estudiantes, con independencia de la herramienta usada para producirlo.
+Un protocolo profesional define qué tareas se delegan, qué verificación exige cada una y qué queda registrado. La regla de fondo es simple: la responsabilidad no se delega. Si un material tiene un error, responde quien lo entregó a sus estudiantes, con independencia de la herramienta usada para producirlo. Conviene además revisar lo generado con una pregunta pedagógica y no solo factual: si el ejercicio propuesto se puede resolver sin entender el concepto, no sirve aunque sea correcto.
 
 ### 5. Qué sostiene la evidencia y qué no
 

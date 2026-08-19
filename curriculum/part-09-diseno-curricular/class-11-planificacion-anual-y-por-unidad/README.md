@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Toda planificación anual se enfrenta al mismo hecho: el año real tiene menos horas que el nominal. Interrupciones, actos, evaluaciones institucionales, ausencias y contingencias consumen una fracción significativa. Planificar sin holgura obliga a recortar en marcha, y ese recorte improvisado suele eliminar lo último del programa, que muchas veces es lo más importante.
+Toda planificación anual se enfrenta al mismo hecho: el año real tiene menos horas que el nominal. Interrupciones, actos, evaluaciones institucionales, ausencias y contingencias consumen una fracción significativa. Planificar sin holgura obliga a recortar en marcha, y ese recorte improvisado suele eliminar lo último del programa, que muchas veces es lo más importante. La alternativa es decidir la prioridad al inicio: qué se enseñará aunque se pierdan semanas, y qué se dejará si el tiempo no alcanza, escrito antes de que la presión decida por uno.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ La solución profesional es decidir antes: qué aprendizajes son irrenunciables,
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La priorización tiene costos: recortar es renunciar a aprendizajes que alguien consideró importantes. Y en sistemas con evaluaciones externas, la decisión local está condicionada por lo que se medirá. Hacer explícito ese condicionamiento permite discutirlo en vez de sufrirlo como inevitable.
+La priorización tiene costos: recortar es renunciar a aprendizajes que alguien consideró importantes. Y en sistemas con evaluaciones externas, la decisión local está condicionada por lo que se medirá. Hacer explícito ese condicionamiento permite discutirlo en vez de sufrirlo como inevitable. Conviene además revisar la planificación a mitad de año con el calendario real en la mano: a esa altura ya se sabe cuántas clases se perdieron, y todavía queda margen para redistribuir.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 

@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Coherencia curricular** | correspondencia verificable entre todos los niveles del diseño |
+| **Coherencia curricular** | correspondencia verificable entre perfil, mapa, secuencia, programas y evaluaciones, comprobable siguiendo un aprendizaje de punta a punta |
 | **Trazabilidad** | posibilidad de seguir un aprendizaje del perfil hasta su evaluación concreta |
 | **Auditoría interna** | revisión sistemática de la coherencia realizada por el propio equipo |
 | **Documentación del diseño** | registro que permite a otros entender y sostener las decisiones tomadas |
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El proyecto integrador exige demostrar coherencia, no declararla. La prueba es la trazabilidad: tomar un elemento del perfil y seguirlo hasta la tarea concreta que lo evalúa, pasando por el mapa, la secuencia y el syllabus. Casi ningún programa real resiste ese recorrido completo la primera vez, y encontrar dónde se rompe es el aprendizaje central de la parte.
+El proyecto integrador exige demostrar coherencia, no declararla. La prueba es la trazabilidad: tomar un elemento del perfil y seguirlo hasta la tarea concreta que lo evalúa, pasando por el mapa, la secuencia y el syllabus. Casi ningún programa real resiste ese recorrido completo la primera vez, y encontrar dónde se rompe es el aprendizaje central de la parte. Conviene hacer el recorrido con dos elementos opuestos: uno técnico y fácil de evidenciar, y otro transversal —trabajo en equipo, ética profesional—, que es donde la trazabilidad casi siempre se corta.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Coherencia curricular** | Correspondencia verificable entre todos los niveles del diseño | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Coherencia curricular** | Correspondencia verificable entre perfil, mapa, secuencia, programas y evaluaciones, comprobable siguiendo un aprendizaje de punta a punta | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Trazabilidad** | Posibilidad de seguir un aprendizaje del perfil hasta su evaluación concreta | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

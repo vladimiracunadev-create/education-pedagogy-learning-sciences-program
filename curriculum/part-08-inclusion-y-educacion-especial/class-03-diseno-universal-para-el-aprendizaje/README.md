@@ -125,7 +125,7 @@ El rediseño empieza por el objetivo: qué debe lograr el estudiante, sin negoci
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La evidencia sobre el marco completo es limitada: hay estudios sobre componentes específicos —opciones de representación, andamiaje— con resultados favorables, y poca evidencia experimental sobre el marco como sistema. Además, mal entendido, se usa para justificar bajar objetivos o para multiplicar materiales sin criterio.
+La evidencia sobre el marco completo es limitada: hay estudios sobre componentes específicos —opciones de representación, andamiaje— con resultados favorables, y poca evidencia experimental sobre el marco como sistema. Además, mal entendido, se usa para justificar bajar objetivos o para multiplicar materiales sin criterio. Conviene tener a la vista la distinción que evita ambos errores: el diseño universal cambia cómo se accede y cómo se demuestra el aprendizaje, no qué se aprende.
 
 > **Cómo leer el estado de evidencia `EMERGENTE`.** El cuerpo de estudios es reciente, escaso o poco replicado. Úsala como hipótesis de trabajo con seguimiento explícito, nunca como argumento de autoridad ni como base para una política de establecimiento.
 

@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Ejemplo** | caso que cumple todas las condiciones del concepto |
+| **Ejemplo** | caso que cumple todas las condiciones del concepto; varía en su apariencia superficial para que el estudiante no asocie el concepto con un contexto único |
 | **Contraejemplo** | caso que no cumple alguna condición y hace visible el límite del concepto |
 | **Variabilidad de superficie** | cambio en rasgos irrelevantes que impide asociar el concepto a características accidentales |
 | **Comparación explícita** | yuxtaposición deliberada de casos para que el estudiante identifique la diferencia estructural |
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño requiere elegir los casos con criterio: ejemplos variados en superficie, contraejemplos cercanos —no absurdos— y una actividad que obligue a comparar y a formular la diferencia. Los contraejemplos lejanos no enseñan nada; los cercanos, los que casi cumplen, son los que producen la discriminación fina que el concepto exige.
+El diseño requiere elegir los casos con criterio: ejemplos variados en superficie, contraejemplos cercanos —no absurdos— y una actividad que obligue a comparar y a formular la diferencia. Los contraejemplos lejanos no enseñan nada; los cercanos, los que casi cumplen, son los que producen la discriminación fina que el concepto exige. Vale la pena pedir después que los estudiantes construyan su propio contraejemplo: quien logra fabricar un caso que casi cumple ha entendido el límite del concepto mejor que quien solo lo reconoce.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Ejemplo** | Caso que cumple todas las condiciones del concepto | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Ejemplo** | Caso que cumple todas las condiciones del concepto; varía en su apariencia superficial para que el estudiante no asocie el concepto con un contexto único | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Contraejemplo** | Caso que no cumple alguna condición y hace visible el límite del concepto | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

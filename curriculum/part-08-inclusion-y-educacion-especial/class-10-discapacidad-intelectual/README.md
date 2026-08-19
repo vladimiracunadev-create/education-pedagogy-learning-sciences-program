@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El principal riesgo en la enseñanza de estudiantes con discapacidad intelectual no es la sobreexigencia sino la subestimación: se reduce el currículo a tareas repetitivas de bajo valor y se confirma el pronóstico. La evidencia disponible muestra que muchos estudiantes progresan en contenidos académicos significativos cuando reciben enseñanza sistemática con apoyos adecuados y expectativas sostenidas.
+El principal riesgo en la enseñanza de estudiantes con discapacidad intelectual no es la sobreexigencia sino la subestimación: se reduce el currículo a tareas repetitivas de bajo valor y se confirma el pronóstico. La evidencia disponible muestra que muchos estudiantes progresan en contenidos académicos significativos cuando reciben enseñanza sistemática con apoyos adecuados y expectativas sostenidas. El desplazamiento conceptual del campo va en la misma dirección: la pregunta dejó de ser cuánto puede aprender esta persona y pasó a ser qué apoyos necesita para aprender esto.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

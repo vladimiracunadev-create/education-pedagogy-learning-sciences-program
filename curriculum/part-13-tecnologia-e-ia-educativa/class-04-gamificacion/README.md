@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La evidencia sobre gamificación muestra efectos positivos pequeños, muy heterogéneos y frecuentemente atribuibles al efecto de novedad. Las mecánicas más usadas —puntos, insignias y tablas de posición— son también las más problemáticas: agregan motivación externa a una tarea, pueden reducir el interés propio y las tablas de posición desmotivan sistemáticamente a quienes están en la parte baja.
+La evidencia sobre gamificación muestra efectos positivos pequeños, muy heterogéneos y frecuentemente atribuibles al efecto de novedad. Las mecánicas más usadas —puntos, insignias y tablas de posición— son también las más problemáticas: agregan motivación externa a una tarea, pueden reducir el interés propio y las tablas de posición desmotivan sistemáticamente a quienes están en la parte baja. Conviene además notar qué se está premiando: casi siempre la cantidad de actividad completada, que es lo fácil de contar, y casi nunca la calidad del razonamiento, que es lo que interesaba.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Las mecánicas con mejor fundamento son las que se conectan con mecanismos de aprendizaje: desafío ajustado al nivel, retroalimentación inmediata, progresión visible del propio avance y posibilidad de reintentar sin costo. Todas ellas se pueden implementar sin puntos ni competencia, y son precisamente las que sostienen el efecto cuando la novedad se agota.
+Las mecánicas con mejor fundamento son las que se conectan con mecanismos de aprendizaje: desafío ajustado al nivel, retroalimentación inmediata, progresión visible del propio avance y posibilidad de reintentar sin costo. Todas ellas se pueden implementar sin puntos ni competencia, y son precisamente las que sostienen el efecto cuando la novedad se agota. Si aun así se decide usar puntos, conviene decidir desde el inicio cuándo se retiran y qué los reemplazará, porque quitarlos sin plan produce una caída de participación peor que la situación original.
 
 ### 5. Qué sostiene la evidencia y qué no
 

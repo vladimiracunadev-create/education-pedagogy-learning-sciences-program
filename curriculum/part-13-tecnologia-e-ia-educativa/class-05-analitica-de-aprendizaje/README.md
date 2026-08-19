@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Las plataformas producen abundantes datos de actividad y muy pocos de aprendizaje. Tiempo de conexión, número de accesos y clics indican comportamiento, no comprensión: un estudiante puede tener la pestaña abierta sin leer nada, y otro puede aprender fuera de la plataforma. El uso defendible es el de alerta temprana —detectar inactividad prolongada o entregas faltantes— seguido de contacto humano.
+Las plataformas producen abundantes datos de actividad y muy pocos de aprendizaje. Tiempo de conexión, número de accesos y clics indican comportamiento, no comprensión: un estudiante puede tener la pestaña abierta sin leer nada, y otro puede aprender fuera de la plataforma. El uso defendible es el de alerta temprana —detectar inactividad prolongada o entregas faltantes— seguido de contacto humano. Y conviene tener presente el riesgo de la lectura inversa: interpretar poca actividad como poco compromiso castiga a quien tiene mala conexión o estudia desde el teléfono en horarios de trabajo.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El tablero útil incluye pocos indicadores con decisiones asociadas: si un estudiante no entrega dos actividades seguidas, se contacta; si el rendimiento en una actividad cae bajo un umbral en el grupo, se reenseña. Y cada indicador declara su límite de interpretación para evitar que se use como medida de esfuerzo o de compromiso.
+El tablero útil incluye pocos indicadores con decisiones asociadas: si un estudiante no entrega dos actividades seguidas, se contacta; si el rendimiento en una actividad cae bajo un umbral en el grupo, se reenseña. Y cada indicador declara su límite de interpretación para evitar que se use como medida de esfuerzo o de compromiso. Conviene además acordar quién mira el tablero y cuándo: sin un responsable y una frecuencia, los datos se acumulan y la alerta llega cuando el estudiante ya se retiró.
 
 ### 5. Qué sostiene la evidencia y qué no
 

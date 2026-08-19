@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Mentoría** | relación en que una persona con más experiencia acompaña el desarrollo de otra en su contexto |
 | **Acuerdo de mentoría** | documento breve con objetivos, frecuencia, duración y confidencialidad de la relación |
-| **Emparejamiento** | proceso de asignar mentor y participante según criterios explícitos |
+| **Emparejamiento** | proceso de asignar mentor y participante según criterios explícitos de área, experiencia y disponibilidad, en vez de por cercanía o afinidad casual |
 | **Cierre** | término planificado de la relación, con evaluación de lo logrado |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La mentoría muestra efectos positivos en desarrollo profesional, retención y satisfacción, con magnitudes moderadas y muy dependientes de la estructura. Los programas que funcionan tienen objetivos acordados, frecuencia definida, preparación de los mentores y un cierre planificado. Los que fracasan asignan parejas y esperan que la relación se organice sola, con lo cual la mitad se disuelve en dos meses.
+La mentoría muestra efectos positivos en desarrollo profesional, retención y satisfacción, con magnitudes moderadas y muy dependientes de la estructura. Los programas que funcionan tienen objetivos acordados, frecuencia definida, preparación de los mentores y un cierre planificado. Los que fracasan asignan parejas y esperan que la relación se organice sola, con lo cual la mitad se disuelve en dos meses. El cierre planificado merece atención propia: sin una fecha de término acordada, la relación se apaga sin evaluación y nadie sabe si sirvió.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Mentoría** no e
 mismo que **Acuerdo de mentoría** —documento breve con objetivos, frecuencia, duración y confidencialidad de la relación—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Emparejamiento** y
 **Cierre** describen aspectos distintos de la misma situación: el primero
-proceso de asignar mentor y participante según criterios explícitos, mientras el segundo término planificado de la relación, con evaluación de lo logrado.
+proceso de asignar mentor y participante según criterios explícitos de área, experiencia y disponibilidad, en vez de por cercanía o afinidad casual, mientras el segundo término planificado de la relación, con evaluación de lo logrado.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El acuerdo inicial es el instrumento clave: define qué se espera lograr, cada cuánto se reúnen, cuánto dura el programa y qué es confidencial. La preparación del mentor importa tanto como su experiencia: escuchar, preguntar y dar retroalimentación útil no son habilidades automáticas de quien sabe mucho de su oficio.
+El acuerdo inicial es el instrumento clave: define qué se espera lograr, cada cuánto se reúnen, cuánto dura el programa y qué es confidencial. La preparación del mentor importa tanto como su experiencia: escuchar, preguntar y dar retroalimentación útil no son habilidades automáticas de quien sabe mucho de su oficio. Conviene también acordar qué queda fuera del alcance —evaluación de desempeño, decisiones de carrera— para que la persona acompañada pueda hablar sin calcular las consecuencias.
 
 ### 5. Qué sostiene la evidencia y qué no
 

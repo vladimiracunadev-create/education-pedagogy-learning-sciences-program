@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La claridad de una explicación no la juzga quien la da: la juzga quien la recibe. Las explicaciones que funcionan comparten rasgos verificables: parten de algo conocido, avanzan en segmentos con pausas, marcan explícitamente lo importante, usan ejemplos concretos antes de la formulación general y comprueban comprensión antes de seguir. Todo eso se puede diseñar; no depende de carisma.
+La claridad de una explicación no la juzga quien la da: la juzga quien la recibe. Las explicaciones que funcionan comparten rasgos verificables: parten de algo conocido, avanzan en segmentos con pausas, marcan explícitamente lo importante, usan ejemplos concretos antes de la formulación general y comprueban comprensión antes de seguir. Todo eso se puede diseñar; no depende de carisma. Hay una señal de alerta fácil de detectar: si al explicar aparecen tres ideas nuevas en la misma oración, el problema no será de atención del curso sino de segmentación de la explicación.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

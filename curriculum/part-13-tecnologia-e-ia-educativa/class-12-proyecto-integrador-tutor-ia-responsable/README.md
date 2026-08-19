@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Propósito pedagógico** | aprendizaje concreto que el tutor apoya; condición previa a cualquier decisión técnica |
-| **Documentación del sistema** | registro de fuentes, límites, verificación y responsables |
+| **Documentación del sistema** | registro de fuentes, límites, procedimiento de verificación y responsables, que permite auditar el tutor sin depender de quien lo construyó |
 | **Evaluación de efecto** | comprobación de si el tutor mejora el aprendizaje y no solo la satisfacción |
 | **Defensa ante la comunidad** | capacidad de explicar a estudiantes y familias qué hace el sistema y con qué resguardos |
 
@@ -88,13 +88,13 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El proyecto integrador exige articular lo pedagógico, lo técnico y lo ético. Un tutor defendible declara qué aprendizaje apoya, con qué fuentes responde, cómo se verificó, qué datos trata y qué no puede hacer. La prueba práctica es poder presentarlo a una comunidad educativa exigente y responder sus preguntas sin recurrir a promesas.
+El proyecto integrador exige articular lo pedagógico, lo técnico y lo ético. Un tutor defendible declara qué aprendizaje apoya, con qué fuentes responde, cómo se verificó, qué datos trata y qué no puede hacer. La prueba práctica es poder presentarlo a una comunidad educativa exigente y responder sus preguntas sin recurrir a promesas. Conviene anticipar las tres preguntas que siempre aparecen: qué pasa si se equivoca, quién responde por eso, y qué ocurre con lo que los estudiantes escriben en la conversación.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Propósito pedagógico** no es lo
-mismo que **Documentación del sistema** —registro de fuentes, límites, verificación y responsables—, y tratarlos como sinónimos hace
+mismo que **Documentación del sistema** —registro de fuentes, límites, procedimiento de verificación y responsables, que permite auditar el tutor sin depender de quien lo construyó—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Evaluación de efecto** y
 **Defensa ante la comunidad** describen aspectos distintos de la misma situación: el primero
 comprobación de si el tutor mejora el aprendizaje y no solo la satisfacción, mientras el segundo capacidad de explicar a estudiantes y familias qué hace el sistema y con qué resguardos.
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El desarrollo sigue el orden inverso al habitual: primero el propósito pedagógico y la evidencia de efecto que se buscará, después el diseño técnico. Se prueba con un conjunto de preguntas conocidas, se declara lo que no cubre, se resguardan los datos y se evalúa con estudiantes reales antes de escalar el uso.
+El desarrollo sigue el orden inverso al habitual: primero el propósito pedagógico y la evidencia de efecto que se buscará, después el diseño técnico. Se prueba con un conjunto de preguntas conocidas, se declara lo que no cubre, se resguardan los datos y se evalúa con estudiantes reales antes de escalar el uso. Y se define desde el inicio la condición de retiro: qué resultado observado haría suspender el tutor, decidida antes de tenerle cariño al proyecto.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Propósito pedagógico** | Aprendizaje concreto que el tutor apoya; condición previa a cualquier decisión técnica | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Documentación del sistema** | Registro de fuentes, límites, verificación y responsables | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Documentación del sistema** | Registro de fuentes, límites, procedimiento de verificación y responsables, que permite auditar el tutor sin depender de quien lo construyó | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El instrumento de activación cumple dos funciones: revela qué experiencia existe y expone las creencias que habrá que confrontar. La secuencia eficaz reconoce primero lo válido de la práctica actual, muestra después la situación donde falla, y solo entonces ofrece la alternativa. Invertir ese orden produce resistencia inmediata y pérdida de credibilidad del formador.
+El instrumento de activación cumple dos funciones: revela qué experiencia existe y expone las creencias que habrá que confrontar. La secuencia eficaz reconoce primero lo válido de la práctica actual, muestra después la situación donde falla, y solo entonces ofrece la alternativa. Invertir ese orden produce resistencia inmediata y pérdida de credibilidad del formador. Conviene que la situación donde la práctica actual falla provenga del propio grupo y no de un ejemplo ajeno: nadie discute un caso que reconoce como suyo.
 
 ### 5. Qué sostiene la evidencia y qué no
 

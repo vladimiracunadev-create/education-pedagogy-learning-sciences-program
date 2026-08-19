@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los principios del aprendizaje multimedia están entre los hallazgos más replicados de la investigación instruccional, y casi todos son contraintuitivos para quien diseña material: agregar música de fondo, imágenes decorativas o texto que repite el audio empeora el aprendizaje, aunque el material resulte más atractivo. La razón es la capacidad limitada de procesamiento, no el gusto del estudiante.
+Los principios del aprendizaje multimedia están entre los hallazgos más replicados de la investigación instruccional, y casi todos son contraintuitivos para quien diseña material: agregar música de fondo, imágenes decorativas o texto que repite el audio empeora el aprendizaje, aunque el material resulte más atractivo. La razón es la capacidad limitada de procesamiento, no el gusto del estudiante. De ahí una consecuencia práctica que ahorra mucho trabajo: mejorar una presentación casi siempre significa quitar elementos, no agregarlos.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ El rediseño es un ejercicio de eliminación: quitar lo decorativo, integrar la 
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Algunos principios se invierten con la experticia: la información redundante que estorba al novato puede ayudar al experto, y el andamiaje detallado deja de ser útil cuando el esquema ya existe. Además, los estudios se realizaron mayormente en condiciones controladas y con materiales breves.
+Algunos principios se invierten con la experticia: la información redundante que estorba al novato puede ayudar al experto, y el andamiaje detallado deja de ser útil cuando el esquema ya existe. Además, los estudios se realizaron mayormente en condiciones controladas y con materiales breves, de modo que su traslado a un curso completo de un semestre está menos documentado de lo que sugiere la confianza con que suelen citarse.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 

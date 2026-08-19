@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Las altas capacidades no garantizan buen desempeño escolar: un estudiante que nunca es desafiado puede desconectarse, aburrirse y obtener resultados bajos, lo que retrasa aún más su identificación. La evidencia sobre aceleración es más favorable de lo que suele suponerse, incluida la aceleración de asignatura, y no muestra los efectos sociales negativos que se le atribuyen con frecuencia.
+Las altas capacidades no garantizan buen desempeño escolar: un estudiante que nunca es desafiado puede desconectarse, aburrirse y obtener resultados bajos, lo que retrasa aún más su identificación. La evidencia sobre aceleración es más favorable de lo que suele suponerse, incluida la aceleración de asignatura, y no muestra los efectos sociales negativos que se le atribuyen con frecuencia. Existe además la doble excepcionalidad —altas capacidades junto a una dificultad específica— donde ambos perfiles se enmascaran mutuamente y el resultado es un estudiante promedio que no recibe ninguno de los dos apoyos.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ El enriquecimiento útil no es «más de lo mismo» sino profundización real: p
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El campo tiene desacuerdos reales sobre definición, identificación e intervención, y los instrumentos usados favorecen sistemáticamente a estudiantes de mayor nivel socioeconómico. La identificación por nominación docente también arrastra sesgos conocidos de género y origen. Reconocerlo es parte del tratamiento profesional del tema.
+El campo tiene desacuerdos reales sobre definición, identificación e intervención, y los instrumentos usados favorecen sistemáticamente a estudiantes de mayor nivel socioeconómico. La identificación por nominación docente también arrastra sesgos conocidos de género y origen. Reconocerlo es parte del tratamiento profesional del tema, y tiene una consecuencia práctica: conviene usar más de una vía de identificación y revisar quién queda fuera cada vez.
 
 > **Cómo leer el estado de evidencia `EN-DEBATE`.** Hay desacuerdo activo y publicado entre especialistas competentes. La clase presenta las posiciones y sus argumentos; tu tarea no es escoger un bando, sino saber qué evidencia te haría cambiar de posición.
 

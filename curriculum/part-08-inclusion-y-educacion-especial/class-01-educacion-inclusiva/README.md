@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diagnóstico se hace con prácticas concretas: cómo se matricula, quién participa de las salidas, quién queda fuera de las evaluaciones, qué ocurre con un estudiante durante la clase de la que fue retirado para su apoyo. Esas observaciones muestran el enfoque real de la institución mucho mejor que su proyecto educativo declarado.
+El diagnóstico se hace con prácticas concretas: cómo se matricula, quién participa de las salidas, quién queda fuera de las evaluaciones, qué ocurre con un estudiante durante la clase de la que fue retirado para su apoyo. Esas observaciones muestran el enfoque real de la institución mucho mejor que su proyecto educativo declarado. Conviene mirar además los datos que ya existen: quiénes repiten, quiénes son derivados y quiénes se cambian de establecimiento, desagregados por condición, revelan patrones que ninguna declaración de principios corrige.
 
 ### 5. Qué sostiene la evidencia y qué no
 

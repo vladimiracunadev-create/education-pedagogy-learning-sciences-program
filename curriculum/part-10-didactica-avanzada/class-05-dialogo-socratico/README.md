@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Diálogo pedagógico** | conversación estructurada orientada a construir comprensión colectiva |
+| **Diálogo pedagógico** | conversación estructurada donde las intervenciones se encadenan y se exige fundamentar, orientada a construir comprensión colectiva y no a recoger opiniones |
 | **Encadenamiento** | conexión de cada intervención con la anterior para que la discusión progrese |
 | **Exigencia de fundamento** | norma de que toda afirmación se acompaña de una razón o de evidencia |
 | **Cierre conceptual** | sistematización final que fija lo aprendido y evita que la discusión se disuelva |
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Diálogo pedagógico** | Conversación estructurada orientada a construir comprensión colectiva | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Diálogo pedagógico** | Conversación estructurada donde las intervenciones se encadenan y se exige fundamentar, orientada a construir comprensión colectiva y no a recoger opiniones | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Encadenamiento** | Conexión de cada intervención con la anterior para que la discusión progrese | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

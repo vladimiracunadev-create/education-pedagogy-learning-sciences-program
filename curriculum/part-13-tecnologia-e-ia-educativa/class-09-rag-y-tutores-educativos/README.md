@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La recuperación sobre documentos propios reduce la invención porque obliga al modelo a responder a partir de fragmentos concretos, y permite mostrar la fuente de cada afirmación. No elimina el problema: el sistema puede seleccionar mal el fragmento, combinarlo incorrectamente o responder igualmente cuando el corpus no cubre la pregunta. La trazabilidad es lo que permite detectarlo.
+La recuperación sobre documentos propios reduce la invención porque obliga al modelo a responder a partir de fragmentos concretos, y permite mostrar la fuente de cada afirmación. No elimina el problema: el sistema puede seleccionar mal el fragmento, combinarlo incorrectamente o responder igualmente cuando el corpus no cubre la pregunta. La trazabilidad es lo que permite detectarlo. Por eso la decisión de diseño más importante no es técnica sino curricular: qué documentos entran al corpus, quién los valida y con qué frecuencia se actualizan.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño empieza por el corpus: qué documentos, con qué versión y fecha, revisados por quién. Después, la verificación: un conjunto de preguntas de prueba con respuestas conocidas, incluidas preguntas fuera de alcance que el sistema debe rechazar. Y la declaración de límites, visible para el estudiante: qué puede responder y qué no.
+El diseño empieza por el corpus: qué documentos, con qué versión y fecha, revisados por quién. Después, la verificación: un conjunto de preguntas de prueba con respuestas conocidas, incluidas preguntas fuera de alcance que el sistema debe rechazar. Y la declaración de límites, visible para el estudiante: qué puede responder y qué no. Conviene guardar ese conjunto de preguntas y volver a aplicarlo cada vez que cambie el corpus o el modelo, porque una actualización silenciosa puede degradar respuestas que antes eran correctas.
 
 ### 5. Qué sostiene la evidencia y qué no
 

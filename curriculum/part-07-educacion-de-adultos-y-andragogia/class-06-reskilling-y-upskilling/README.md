@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La reconversión falla habitualmente por dos razones opuestas: subestimar la brecha —cursos breves que prometen cambiar de rubro— o ignorar lo transferible, obligando a empezar de cero a personas con veinte años de experiencia laboral. Un diagnóstico serio identifica ambas cosas: qué se conserva y qué falta realmente, con el nivel de detalle de un perfil de competencias.
+La reconversión falla habitualmente por dos razones opuestas: subestimar la brecha —cursos breves que prometen cambiar de rubro— o ignorar lo transferible, obligando a empezar de cero a personas con veinte años de experiencia laboral. Un diagnóstico serio identifica ambas cosas: qué se conserva y qué falta realmente, con el nivel de detalle de un perfil de competencias. A eso se agrega una dimensión que los programas técnicos suelen omitir: cambiar de oficio afecta la identidad profesional, y una persona que fue reconocida como experta durante décadas vuelve a la posición de quien no sabe, lo que exige un acompañamiento distinto del puramente instruccional.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

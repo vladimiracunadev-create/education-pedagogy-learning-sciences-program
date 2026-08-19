@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Necesidad educativa especial** | requerimiento de apoyos adicionales para acceder y progresar en el currículo |
-| **Necesidad permanente y transitoria** | distinción normativa que determina apoyos, plazos y procedimientos distintos |
+| **Necesidad permanente y transitoria** | distinción normativa que determina qué apoyos corresponden, con qué plazos y con qué procedimientos de evaluación y revisión |
 | **Plan de apoyo individual** | documento que traduce la evaluación en decisiones de enseñanza concretas |
 | **Equipo de aula** | conjunto de profesionales que planifica y ejecuta los apoyos junto al docente |
 
@@ -94,7 +94,7 @@ El diagnóstico cumple una función administrativa —asignar recursos y apoyos�
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Necesidad educativa especial** no es lo
-mismo que **Necesidad permanente y transitoria** —distinción normativa que determina apoyos, plazos y procedimientos distintos—, y tratarlos como sinónimos hace
+mismo que **Necesidad permanente y transitoria** —distinción normativa que determina qué apoyos corresponden, con qué plazos y con qué procedimientos de evaluación y revisión—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Plan de apoyo individual** y
 **Equipo de aula** describen aspectos distintos de la misma situación: el primero
 documento que traduce la evaluación en decisiones de enseñanza concretas, mientras el segundo conjunto de profesionales que planifica y ejecuta los apoyos junto al docente.
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-En Chile la normativa define instrumentos, plazos, profesionales habilitados y procedimientos para la evaluación y para las adecuaciones. Conocerla evita dos errores frecuentes: incumplir obligaciones y, en sentido contrario, exigir procedimientos donde la norma no los pide. El plan debe conectarse con la planificación de aula, no vivir en una carpeta paralela.
+En Chile la normativa define instrumentos, plazos, profesionales habilitados y procedimientos para la evaluación y para las adecuaciones. Conocerla evita dos errores frecuentes: incumplir obligaciones y, en sentido contrario, exigir procedimientos donde la norma no los pide. El plan debe conectarse con la planificación de aula, no vivir en una carpeta paralela. La prueba de esa conexión es simple: si el plan menciona un apoyo que el docente de asignatura no conoce, el documento existe pero el apoyo no.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Necesidad educativa especial** | Requerimiento de apoyos adicionales para acceder y progresar en el currículo | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Necesidad permanente y transitoria** | Distinción normativa que determina apoyos, plazos y procedimientos distintos | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Necesidad permanente y transitoria** | Distinción normativa que determina qué apoyos corresponden, con qué plazos y con qué procedimientos de evaluación y revisión | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

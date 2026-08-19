@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Modelamiento** | demostración del procedimiento por parte del docente con explicación de sus decisiones |
-| **Pensamiento en voz alta** | verbalización del razonamiento interno mientras se ejecuta la tarea |
+| **Pensamiento en voz alta** | verbalización del razonamiento mientras se ejecuta la tarea, incluidas las dudas y los descartes que el resultado final ya no muestra |
 | **Ejemplo trabajado** | problema resuelto paso a paso que reduce la carga del novato |
 | **Desvanecimiento** | retirada progresiva del modelo a medida que el estudiante puede ejecutar solo |
 
@@ -94,7 +94,7 @@ El experto ejecuta sin verbalizar y el novato ve solo el resultado, no las decis
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Modelamiento** no es lo
-mismo que **Pensamiento en voz alta** —verbalización del razonamiento interno mientras se ejecuta la tarea—, y tratarlos como sinónimos hace
+mismo que **Pensamiento en voz alta** —verbalización del razonamiento mientras se ejecuta la tarea, incluidas las dudas y los descartes que el resultado final ya no muestra—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Ejemplo trabajado** y
 **Desvanecimiento** describen aspectos distintos de la misma situación: el primero
 problema resuelto paso a paso que reduce la carga del novato, mientras el segundo retirada progresiva del modelo a medida que el estudiante puede ejecutar solo.
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El guion de modelamiento incluye lo que se dirá en cada paso, dónde se hará una pausa, qué error se cometerá deliberadamente para mostrar la corrección. Ese último recurso es potente: los estudiantes aprenden que equivocarse y comprobar forma parte del procedimiento experto, no de la incompetencia.
+El guion de modelamiento incluye lo que se dirá en cada paso, dónde se hará una pausa, qué error se cometerá deliberadamente para mostrar la corrección. Ese último recurso es potente: los estudiantes aprenden que equivocarse y comprobar forma parte del procedimiento experto, no de la incompetencia. Conviene escribir el guion, aunque parezca innecesario: al hacerlo aparecen los pasos que uno da sin darse cuenta, que son precisamente los que el estudiante no ve y no puede imitar.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El modelamiento pierde eficacia con estudiantes que ya dominan el procedimiento: el efecto de los ejemplos trabajados se invierte con la experticia. Además, observar produce la ilusión de saber hacer: sin práctica inmediata, el modelamiento no se convierte en competencia.
+El modelamiento pierde eficacia con estudiantes que ya dominan el procedimiento: el efecto de los ejemplos trabajados se invierte con la experticia. Además, observar produce la ilusión de saber hacer: sin práctica inmediata, el modelamiento no se convierte en competencia. Por eso conviene planificar el paso siguiente antes que el modelamiento mismo: cuántos minutos quedarán para que intenten, y qué se hará si esos minutos se consumen en la demostración.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Modelamiento** | Demostración del procedimiento por parte del docente con explicación de sus decisiones | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Pensamiento en voz alta** | Verbalización del razonamiento interno mientras se ejecuta la tarea | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Pensamiento en voz alta** | Verbalización del razonamiento mientras se ejecuta la tarea, incluidas las dudas y los descartes que el resultado final ya no muestra | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Poner a los estudiantes en grupos no produce aprendizaje colaborativo: produce reparto de tareas, donde uno hace, otro copia y otro se desconecta. La investigación identifica condiciones específicas que hacen la diferencia, y la más determinante es la combinación de interdependencia positiva con responsabilidad individual: la tarea debe requerir a todos y cada uno debe responder por lo aprendido.
+Poner a los estudiantes en grupos no produce aprendizaje colaborativo: produce reparto de tareas, donde uno hace, otro copia y otro se desconecta. La investigación identifica condiciones específicas que hacen la diferencia, y la más determinante es la combinación de interdependencia positiva con responsabilidad individual: la tarea debe requerir a todos y cada uno debe responder por lo aprendido. Sin la primera condición el grupo se fragmenta; sin la segunda, se esconde tras el resultado colectivo.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Diseñar estas condiciones exige decisiones concretas: información distribuida entre integrantes, roles con función real, evaluación individual del contenido además del producto grupal, y enseñanza explícita de las conductas de colaboración. Los grupos de tres a cuatro funcionan mejor que los grandes, donde la desconexión es más fácil.
+Diseñar estas condiciones exige decisiones concretas: información distribuida entre integrantes, roles con función real, evaluación individual del contenido además del producto grupal, y enseñanza explícita de las conductas de colaboración. Los grupos de tres a cuatro funcionan mejor que los grandes, donde la desconexión es más fácil. Y conviene enseñar cómo se pide ayuda y cómo se explica sin dar la respuesta: son conductas que el trabajo grupal supone y que casi nadie enseña.
 
 ### 5. Qué sostiene la evidencia y qué no
 

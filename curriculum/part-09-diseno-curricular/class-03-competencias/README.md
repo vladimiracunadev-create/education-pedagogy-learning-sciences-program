@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Currículo por competencias** | organización en torno a desempeños integrados en situaciones reales |
+| **Currículo por competencias** | organización del plan en torno a desempeños integrados en situaciones reales, en vez de en torno a la estructura interna de las disciplinas |
 | **Currículo disciplinar** | organización en torno a la estructura del conocimiento de cada disciplina |
 | **Conocimiento poderoso** | conocimiento especializado que la escuela ofrece y que no se adquiere en la experiencia cotidiana |
 | **Integración de saberes** | articulación entre conocimiento, procedimiento y criterio dentro de una competencia |
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La decisión práctica no es adherir a un bando sino explicitar la estructura: qué parte del programa se organiza por competencias, qué parte conserva progresión disciplinar y cómo se articulan. Los programas técnicos y profesionales suelen requerir lo primero; las disciplinas con estructura jerárquica fuerte —matemática, ciencias— pierden si se desarma su progresión.
+La decisión práctica no es adherir a un bando sino explicitar la estructura: qué parte del programa se organiza por competencias, qué parte conserva progresión disciplinar y cómo se articulan. Los programas técnicos y profesionales suelen requerir lo primero; las disciplinas con estructura jerárquica fuerte —matemática, ciencias— pierden si se desarma su progresión. Y conviene decidirlo antes de escribir el plan, porque mezclar ambas lógicas sin declararlo produce programas donde nadie sabe si lo que se evalúa es el desempeño integrado o el contenido de la unidad.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Currículo por competencias** | Organización en torno a desempeños integrados en situaciones reales | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Currículo por competencias** | Organización del plan en torno a desempeños integrados en situaciones reales, en vez de en torno a la estructura interna de las disciplinas | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Currículo disciplinar** | Organización en torno a la estructura del conocimiento de cada disciplina | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

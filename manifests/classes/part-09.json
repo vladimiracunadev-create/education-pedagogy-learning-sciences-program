@@ -80,7 +80,7 @@
       ]
     ],
     "desarrollo": "Un perfil de egreso cumple su función cuando permite responder dos preguntas: qué puede hacer esta persona y dónde en el plan de estudios lo aprendió. La mayoría de los perfiles publicados falla en ambas: enumera atributos deseables —crítico, íntegro, comprometido— que no se pueden verificar ni rastrear. La matriz de contribución expone ese problema de inmediato, porque obliga a señalar dónde se enseña y dónde se evalúa cada elemento.",
-    "practica": "El trabajo consiste en escribir desempeños observables con su nivel y su contexto, y después construir la matriz asignatura por asignatura. Los vacíos aparecen solos: elementos del perfil que nadie desarrolla, o que se declaran en diez asignaturas y no se evalúan en ninguna. Cerrar esos vacíos es la principal utilidad práctica del ejercicio.",
+    "practica": "El trabajo consiste en escribir desempeños observables con su nivel y su contexto, y después construir la matriz asignatura por asignatura. Los vacíos aparecen solos: elementos del perfil que nadie desarrolla, o que se declaran en diez asignaturas y no se evalúan en ninguna. Cerrar esos vacíos es la principal utilidad práctica del ejercicio. Conviene construir la matriz preguntando a cada docente qué evalúa realmente, y no leyendo los programas: la diferencia entre ambas versiones suele ser el hallazgo que justifica todo el trabajo.",
     "limites": "Un perfil bien escrito no garantiza que el programa lo produzca: la matriz muestra intención, no efecto. Comprobar el logro exige evidencia de desempeño al egreso, que pocas instituciones recogen. Además, los procesos de acreditación pueden incentivar perfiles escritos para el evaluador externo y no para el diseño interno.",
     "errores": [
       "Redactar el perfil con atributos de personalidad en vez de desempeños verificables.",
@@ -119,7 +119,7 @@
     "conceptos": [
       [
         "Currículo por competencias",
-        "organización en torno a desempeños integrados en situaciones reales"
+        "organización del plan en torno a desempeños integrados en situaciones reales, en vez de en torno a la estructura interna de las disciplinas"
       ],
       [
         "Currículo disciplinar",
@@ -135,7 +135,7 @@
       ]
     ],
     "desarrollo": "El enfoque por competencias corrige un problema real: currículos que acumulan contenidos sin que nadie pueda hacer nada con ellos. Pero arrastra un riesgo simétrico, señalado por autores de la sociología del currículum: si todo se organiza por desempeños situados, se puede perder el acceso al conocimiento disciplinar sistemático, que es precisamente lo que la escuela ofrece y el entorno cotidiano no.",
-    "practica": "La decisión práctica no es adherir a un bando sino explicitar la estructura: qué parte del programa se organiza por competencias, qué parte conserva progresión disciplinar y cómo se articulan. Los programas técnicos y profesionales suelen requerir lo primero; las disciplinas con estructura jerárquica fuerte —matemática, ciencias— pierden si se desarma su progresión.",
+    "practica": "La decisión práctica no es adherir a un bando sino explicitar la estructura: qué parte del programa se organiza por competencias, qué parte conserva progresión disciplinar y cómo se articulan. Los programas técnicos y profesionales suelen requerir lo primero; las disciplinas con estructura jerárquica fuerte —matemática, ciencias— pierden si se desarma su progresión. Y conviene decidirlo antes de escribir el plan, porque mezclar ambas lógicas sin declararlo produce programas donde nadie sabe si lo que se evalúa es el desempeño integrado o el contenido de la unidad.",
     "limites": "No hay evidencia concluyente de que un enfoque produzca mejores aprendizajes que el otro: los resultados dependen más de la calidad de la enseñanza y de la evaluación que de la etiqueta curricular. El debate es real y legítimo, y las posiciones extremas de ambos lados suelen apoyarse en caricaturas del contrario.",
     "errores": [
       "Adoptar el lenguaje de competencias sin cambiar la evaluación, con lo que solo cambia la portada.",
@@ -186,10 +186,10 @@
       ],
       [
         "Criterio de logro",
-        "nivel mínimo aceptable para considerar alcanzado el resultado"
+        "nivel mínimo aceptable para considerar alcanzado el resultado, expresado de modo que dos evaluadores lleguen a la misma decisión"
       ]
     ],
-    "desarrollo": "Un resultado mal redactado hace imposible la evaluación justa: si dice «comprender el ciclo del agua», cada evaluador decidirá qué cuenta como comprensión. Escribirlo con verbo observable, objeto preciso, condición y criterio convierte una intención en un compromiso verificable. No es formalismo administrativo: es lo que permite que dos docentes evalúen igual y que el estudiante sepa qué se le exige.",
+    "desarrollo": "Un resultado mal redactado hace imposible la evaluación justa: si dice «comprender el ciclo del agua», cada evaluador decidirá qué cuenta como comprensión. Escribirlo con verbo observable, objeto preciso, condición y criterio convierte una intención en un compromiso verificable. No es formalismo administrativo: es lo que permite que dos docentes evalúen igual y que el estudiante sepa qué se le exige. La prueba es breve: si dos personas leen el resultado y describen tareas distintas para comprobarlo, todavía falta precisión.",
     "practica": "El procedimiento de escritura es simple y su dificultad está en sostenerlo: elegir el verbo por el desempeño real esperado, precisar el objeto, declarar la condición y fijar el criterio. La revisión por pares es indispensable, porque el autor siempre entiende lo que quiso decir. La prueba definitiva es pedir a un colega que diseñe la evaluación a partir del resultado escrito.",
     "limites": "Llevado al extremo, este enfoque fragmenta el aprendizaje en listas interminables de microresultados y pierde de vista la comprensión integrada. Además, no todo lo valioso se deja escribir así: hay disposiciones y sensibilidades que se cultivan y no se certifican. Reconocerlo evita convertir el currículo en un inventario.",
     "errores": [
@@ -292,15 +292,15 @@
       ],
       [
         "Currículo en espiral",
-        "retorno planificado sobre un mismo contenido con mayor profundidad"
+        "retorno planificado sobre un mismo contenido con mayor profundidad y en contexto nuevo, distinto de repetir lo mismo en otro curso"
       ],
       [
         "Prerrequisito",
         "conocimiento previo verificado que la secuencia supone en un punto determinado"
       ]
     ],
-    "desarrollo": "Buena parte del fracaso escolar acumulativo se explica por secuencias que suponen prerrequisitos no verificados. Enseñar fracciones a quien no domina división, o argumentación a quien no distingue hecho de opinión, produce un fracaso que se atribuye al estudiante y que en realidad es de diseño. El mapa de dependencias hace visible ese riesgo antes de que ocurra.",
-    "practica": "La secuenciación exige tres decisiones: qué depende de qué, cómo aumenta la complejidad y cuándo se vuelve sobre lo importante. El retorno planificado —el currículo en espiral bien entendido— no es repetir lo mismo, sino volver con mayor profundidad y en contexto nuevo, lo que además produce práctica distribuida.",
+    "desarrollo": "Buena parte del fracaso escolar acumulativo se explica por secuencias que suponen prerrequisitos no verificados. Enseñar fracciones a quien no domina división, o argumentación a quien no distingue hecho de opinión, produce un fracaso que se atribuye al estudiante y que en realidad es de diseño. El mapa de dependencias hace visible ese riesgo antes de que ocurra. Vale la pena distinguir dos tipos de dependencia: la lógica, donde un contenido es imposible sin otro, y la de conveniencia, donde solo resulta más fácil en cierto orden; confundirlas produce secuencias rígidas sin razón.",
+    "practica": "La secuenciación exige tres decisiones: qué depende de qué, cómo aumenta la complejidad y cuándo se vuelve sobre lo importante. El retorno planificado —el currículo en espiral bien entendido— no es repetir lo mismo, sino volver con mayor profundidad y en contexto nuevo, lo que además produce práctica distribuida. Conviene marcar en el mapa los tres o cuatro contenidos que sostienen todo lo demás, porque son los que justifican detenerse aunque el calendario apriete.",
     "limites": "No todas las secuencias tienen dependencias fuertes: en muchos dominios el orden es convencional y su efecto sobre el aprendizaje es menor de lo que se supone. Discutir el orden puede consumir tiempo que rendiría más en la calidad de la enseñanza de cada unidad. La secuenciación importa donde las dependencias son reales.",
     "errores": [
       "Suponer prerrequisitos sin verificarlos al inicio de la unidad.",
@@ -347,15 +347,15 @@
       ],
       [
         "Vacío curricular",
-        "elemento del perfil que ninguna asignatura desarrolla o evalúa"
+        "elemento del perfil que ninguna asignatura desarrolla ni evalúa, y que sin embargo se promete en el documento institucional"
       ],
       [
         "Redundancia",
         "repetición sin progresión de un mismo aprendizaje en varias asignaturas"
       ]
     ],
-    "desarrollo": "El mapa curricular convierte un plan de estudios en información utilizable. Su valor no está en el documento sino en lo que revela: aprendizajes declarados que nadie desarrolla, contenidos repetidos cinco veces al mismo nivel, evaluaciones concentradas en el mismo semestre, competencias que se evalúan antes de haberse enseñado. Todo eso es invisible en una malla y evidente en un mapa.",
-    "practica": "Se construye consultando a los docentes reales, no leyendo programas: la pregunta es qué se enseña y se evalúa efectivamente. El resultado suele diferir de los documentos oficiales, y esa diferencia es la información más valiosa del ejercicio. Después se decide: cerrar vacíos, eliminar redundancias y redistribuir la carga de evaluación.",
+    "desarrollo": "El mapa curricular convierte un plan de estudios en información utilizable. Su valor no está en el documento sino en lo que revela: aprendizajes declarados que nadie desarrolla, contenidos repetidos cinco veces al mismo nivel, evaluaciones concentradas en el mismo semestre, competencias que se evalúan antes de haberse enseñado. Todo eso es invisible en una malla y evidente en un mapa. La sorpresa más frecuente al construirlo es la carga de evaluación: al superponer los calendarios de todas las asignaturas aparecen semanas con cinco entregas y otras completamente vacías.",
+    "practica": "Se construye consultando a los docentes reales, no leyendo programas: la pregunta es qué se enseña y se evalúa efectivamente. El resultado suele diferir de los documentos oficiales, y esa diferencia es la información más valiosa del ejercicio. Después se decide: cerrar vacíos, eliminar redundancias y redistribuir la carga de evaluación. Conviene presentar el mapa al equipo completo antes de proponer cambios, porque casi siempre alguien explica una repetición aparente que en realidad cumple una función.",
     "limites": "El mapa refleja declaraciones de los docentes y envejece con cada cambio de equipo. No prueba que el aprendizaje ocurra: muestra dónde se intenta. Su utilidad depende de que se revise periódicamente y de que las decisiones que sugiere se tomen efectivamente; un mapa que no cambia nada es un ejercicio administrativo.",
     "errores": [
       "Construir el mapa a partir de programas oficiales y no de lo que se enseña realmente.",
@@ -411,7 +411,7 @@
     ],
     "desarrollo": "La secuencia habitual —elegir actividades, enseñarlas y después construir la evaluación— produce el desalineamiento crónico entre lo declarado y lo medido. El diseño inverso lo corrige invirtiendo el orden: primero qué debe lograrse, después qué evidencia lo probaría y por último cómo enseñar para producir esa evidencia. El cambio es simple de enunciar y difícil de sostener, porque las actividades son lo más entretenido de planificar.",
     "practica": "El paso decisivo es el segundo: escribir la evidencia aceptable antes de haber pensado en las actividades. Ese ejercicio revela objetivos imposibles de evaluar, evaluaciones que miden otra cosa y actividades favoritas que no contribuyen a nada. También ordena la conversación de equipo: se discute qué prueba el aprendizaje en vez de qué actividad gusta más.",
-    "limites": "El diseño inverso ordena el trabajo y no garantiza calidad: una unidad perfectamente alineada puede perseguir objetivos triviales. Además, aplicado de forma rígida puede excluir aprendizajes valiosos difíciles de evidenciar. Conviene usarlo como disciplina de diseño y no como criterio único de valor.",
+    "limites": "El diseño inverso ordena el trabajo y no garantiza calidad: una unidad perfectamente alineada puede perseguir objetivos triviales. Además, aplicado de forma rígida puede excluir aprendizajes valiosos difíciles de evidenciar. Conviene usarlo como disciplina de diseño y no como criterio único de valor. Hay también una tensión práctica: la evidencia se define antes, cuando todavía no se conoce al grupo, de modo que el diseño debe dejar margen para ajustar la tarea sin cambiar el aprendizaje comprometido.",
     "errores": [
       "Diseñar las actividades primero y construir la evaluación al final de la unidad.",
       "Aceptar como evidencia la realización de la actividad en vez del desempeño que prueba el aprendizaje."
@@ -520,7 +520,7 @@
       ]
     ],
     "desarrollo": "Un buen syllabus responde por adelantado las preguntas que después generan conflicto: qué se evalúa, con qué peso, con qué criterios, qué pasa si se entrega tarde, qué uso de herramientas se permite. Escribir eso antes evita discusiones caso a caso y protege tanto al estudiante como al docente. Y el cálculo de carga de trabajo, casi siempre omitido, es lo que distingue un plan realista de uno imposible.",
-    "practica": "Estimar la carga significa contar todo: lectura, preparación, trabajos, estudio para evaluaciones. Cuando se hace, muchos cursos resultan exigir el doble de tiempo del que declaran, lo que explica entregas de baja calidad y abandono. Ajustar el diseño a la carga real es una decisión profesional, no una concesión.",
+    "practica": "Estimar la carga significa contar todo: lectura, preparación, trabajos, estudio para evaluaciones. Cuando se hace, muchos cursos resultan exigir el doble de tiempo del que declaran, lo que explica entregas de baja calidad y abandono. Ajustar el diseño a la carga real es una decisión profesional, no una concesión. Un procedimiento simple es cronometrar la primera lectura de la semana y multiplicar por el ritmo de un estudiante que aún no domina el vocabulario del campo, que suele ser dos o tres veces el del docente.",
     "limites": "El syllabus no sustituye la comunicación durante el curso ni congela decisiones: los ajustes son legítimos si se comunican y se justifican. Y un documento extenso que nadie lee cumple una función defensiva y no comunicativa; conviene priorizar lo que el estudiante necesita para decidir y organizarse.",
     "errores": [
       "Publicar el syllabus sin haber calculado la carga real de trabajo del estudiante.",
@@ -574,9 +574,9 @@
         "regla decidida de antemano sobre qué se recorta cuando falta tiempo"
       ]
     ],
-    "desarrollo": "Toda planificación anual se enfrenta al mismo hecho: el año real tiene menos horas que el nominal. Interrupciones, actos, evaluaciones institucionales, ausencias y contingencias consumen una fracción significativa. Planificar sin holgura obliga a recortar en marcha, y ese recorte improvisado suele eliminar lo último del programa, que muchas veces es lo más importante.",
+    "desarrollo": "Toda planificación anual se enfrenta al mismo hecho: el año real tiene menos horas que el nominal. Interrupciones, actos, evaluaciones institucionales, ausencias y contingencias consumen una fracción significativa. Planificar sin holgura obliga a recortar en marcha, y ese recorte improvisado suele eliminar lo último del programa, que muchas veces es lo más importante. La alternativa es decidir la prioridad al inicio: qué se enseñará aunque se pierdan semanas, y qué se dejará si el tiempo no alcanza, escrito antes de que la presión decida por uno.",
     "practica": "La solución profesional es decidir antes: qué aprendizajes son irrenunciables, cuáles se profundizan si hay tiempo y cuáles se recortan primero. Declarado por escrito, el ajuste deja de ser una pérdida y pasa a ser una decisión. La holgura planificada —entre un diez y un quince por ciento del tiempo— convierte lo imprevisto en algo absorbible.",
-    "limites": "La priorización tiene costos: recortar es renunciar a aprendizajes que alguien consideró importantes. Y en sistemas con evaluaciones externas, la decisión local está condicionada por lo que se medirá. Hacer explícito ese condicionamiento permite discutirlo en vez de sufrirlo como inevitable.",
+    "limites": "La priorización tiene costos: recortar es renunciar a aprendizajes que alguien consideró importantes. Y en sistemas con evaluaciones externas, la decisión local está condicionada por lo que se medirá. Hacer explícito ese condicionamiento permite discutirlo en vez de sufrirlo como inevitable. Conviene además revisar la planificación a mitad de año con el calendario real en la mano: a esa altura ya se sabe cuántas clases se perdieron, y todavía queda margen para redistribuir.",
     "errores": [
       "Planificar sobre el tiempo nominal y recortar improvisadamente en noviembre.",
       "Dejar la priorización implícita, con lo que se sacrifica siempre lo que viene al final del programa."
@@ -614,7 +614,7 @@
     "conceptos": [
       [
         "Coherencia curricular",
-        "correspondencia verificable entre todos los niveles del diseño"
+        "correspondencia verificable entre perfil, mapa, secuencia, programas y evaluaciones, comprobable siguiendo un aprendizaje de punta a punta"
       ],
       [
         "Trazabilidad",
@@ -629,7 +629,7 @@
         "registro que permite a otros entender y sostener las decisiones tomadas"
       ]
     ],
-    "desarrollo": "El proyecto integrador exige demostrar coherencia, no declararla. La prueba es la trazabilidad: tomar un elemento del perfil y seguirlo hasta la tarea concreta que lo evalúa, pasando por el mapa, la secuencia y el syllabus. Casi ningún programa real resiste ese recorrido completo la primera vez, y encontrar dónde se rompe es el aprendizaje central de la parte.",
+    "desarrollo": "El proyecto integrador exige demostrar coherencia, no declararla. La prueba es la trazabilidad: tomar un elemento del perfil y seguirlo hasta la tarea concreta que lo evalúa, pasando por el mapa, la secuencia y el syllabus. Casi ningún programa real resiste ese recorrido completo la primera vez, y encontrar dónde se rompe es el aprendizaje central de la parte. Conviene hacer el recorrido con dos elementos opuestos: uno técnico y fácil de evidenciar, y otro transversal —trabajo en equipo, ética profesional—, que es donde la trazabilidad casi siempre se corta.",
     "practica": "El trabajo se organiza en capas y se audita al final con la tabla de alineamiento. Documentar las decisiones —por qué esta secuencia, por qué esta evaluación, qué se priorizó y qué se dejó fuera— es lo que permite que el currículo sobreviva al cambio de equipo, que es la principal causa de pérdida de coherencia con el tiempo.",
     "limites": "Un currículo coherente no garantiza aprendizaje: la implementación, la calidad de la enseñanza y las condiciones institucionales deciden el resultado. El diseño elimina un conjunto de fallas evitables; el resto depende de lo que ocurra en la sala, que es materia de las partes 10 y 12.",
     "errores": [

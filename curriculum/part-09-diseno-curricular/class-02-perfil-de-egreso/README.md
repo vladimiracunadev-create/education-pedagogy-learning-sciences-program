@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El trabajo consiste en escribir desempeños observables con su nivel y su contexto, y después construir la matriz asignatura por asignatura. Los vacíos aparecen solos: elementos del perfil que nadie desarrolla, o que se declaran en diez asignaturas y no se evalúan en ninguna. Cerrar esos vacíos es la principal utilidad práctica del ejercicio.
+El trabajo consiste en escribir desempeños observables con su nivel y su contexto, y después construir la matriz asignatura por asignatura. Los vacíos aparecen solos: elementos del perfil que nadie desarrolla, o que se declaran en diez asignaturas y no se evalúan en ninguna. Cerrar esos vacíos es la principal utilidad práctica del ejercicio. Conviene construir la matriz preguntando a cada docente qué evalúa realmente, y no leyendo los programas: la diferencia entre ambas versiones suele ser el hallazgo que justifica todo el trabajo.
 
 ### 5. Qué sostiene la evidencia y qué no
 

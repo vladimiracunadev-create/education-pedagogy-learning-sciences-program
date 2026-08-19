@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Mapa curricular** | representación de la contribución de cada asignatura a los aprendizajes del perfil |
 | **Nivel de desarrollo** | grado en que una asignatura introduce, desarrolla o consolida un aprendizaje |
-| **Vacío curricular** | elemento del perfil que ninguna asignatura desarrolla o evalúa |
+| **Vacío curricular** | elemento del perfil que ninguna asignatura desarrolla ni evalúa, y que sin embargo se promete en el documento institucional |
 | **Redundancia** | repetición sin progresión de un mismo aprendizaje en varias asignaturas |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El mapa curricular convierte un plan de estudios en información utilizable. Su valor no está en el documento sino en lo que revela: aprendizajes declarados que nadie desarrolla, contenidos repetidos cinco veces al mismo nivel, evaluaciones concentradas en el mismo semestre, competencias que se evalúan antes de haberse enseñado. Todo eso es invisible en una malla y evidente en un mapa.
+El mapa curricular convierte un plan de estudios en información utilizable. Su valor no está en el documento sino en lo que revela: aprendizajes declarados que nadie desarrolla, contenidos repetidos cinco veces al mismo nivel, evaluaciones concentradas en el mismo semestre, competencias que se evalúan antes de haberse enseñado. Todo eso es invisible en una malla y evidente en un mapa. La sorpresa más frecuente al construirlo es la carga de evaluación: al superponer los calendarios de todas las asignaturas aparecen semanas con cinco entregas y otras completamente vacías.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Mapa curricular*
 mismo que **Nivel de desarrollo** —grado en que una asignatura introduce, desarrolla o consolida un aprendizaje—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Vacío curricular** y
 **Redundancia** describen aspectos distintos de la misma situación: el primero
-elemento del perfil que ninguna asignatura desarrolla o evalúa, mientras el segundo repetición sin progresión de un mismo aprendizaje en varias asignaturas.
+elemento del perfil que ninguna asignatura desarrolla ni evalúa, y que sin embargo se promete en el documento institucional, mientras el segundo repetición sin progresión de un mismo aprendizaje en varias asignaturas.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Se construye consultando a los docentes reales, no leyendo programas: la pregunta es qué se enseña y se evalúa efectivamente. El resultado suele diferir de los documentos oficiales, y esa diferencia es la información más valiosa del ejercicio. Después se decide: cerrar vacíos, eliminar redundancias y redistribuir la carga de evaluación.
+Se construye consultando a los docentes reales, no leyendo programas: la pregunta es qué se enseña y se evalúa efectivamente. El resultado suele diferir de los documentos oficiales, y esa diferencia es la información más valiosa del ejercicio. Después se decide: cerrar vacíos, eliminar redundancias y redistribuir la carga de evaluación. Conviene presentar el mapa al equipo completo antes de proponer cambios, porque casi siempre alguien explica una repetición aparente que en realidad cumple una función.
 
 ### 5. Qué sostiene la evidencia y qué no
 

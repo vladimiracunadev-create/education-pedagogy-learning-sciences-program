@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Análisis de necesidades** | diagnóstico que distingue si el problema se resuelve con formación o con otra intervención |
 | **Objetivo de desempeño** | cambio observable en el trabajo, distinto de un objetivo de conocimiento |
 | **Transferencia** | aplicación efectiva de lo aprendido en el puesto de trabajo |
-| **Clima de transferencia** | condiciones organizacionales —apoyo, oportunidad, tiempo, herramientas— que permiten aplicar |
+| **Clima de transferencia** | conjunto de condiciones organizacionales —apoyo de la jefatura, oportunidad de aplicar, tiempo y herramientas— sin las cuales lo aprendido no llega al puesto de trabajo |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Análisis de nec
 mismo que **Objetivo de desempeño** —cambio observable en el trabajo, distinto de un objetivo de conocimiento—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Transferencia** y
 **Clima de transferencia** describen aspectos distintos de la misma situación: el primero
-aplicación efectiva de lo aprendido en el puesto de trabajo, mientras el segundo condiciones organizacionales —apoyo, oportunidad, tiempo, herramientas— que permiten aplicar.
+aplicación efectiva de lo aprendido en el puesto de trabajo, mientras el segundo conjunto de condiciones organizacionales —apoyo de la jefatura, oportunidad de aplicar, tiempo y herramientas— sin las cuales lo aprendido no llega al puesto de trabajo.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -125,7 +125,7 @@ Cuando la formación sí corresponde, el diseño se organiza desde el desempeño
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La evidencia sobre transferencia muestra que los factores organizacionales pesan tanto como el diseño instruccional, y que muchos programas exitosos en aprendizaje fracasan en transferencia por razones ajenas a la formación. Reconocerlo evita responsabilizar al formador de lo que decide la organización.
+La evidencia sobre transferencia muestra que los factores organizacionales pesan tanto como el diseño instruccional, y que muchos programas exitosos en aprendizaje fracasan en transferencia por razones ajenas a la formación. Reconocerlo evita responsabilizar al formador de lo que decide la organización. La consecuencia práctica es de encuadre: conviene acordar antes de capacitar qué condiciones de aplicación garantiza la organización, y dejarlo por escrito junto con los objetivos del programa.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

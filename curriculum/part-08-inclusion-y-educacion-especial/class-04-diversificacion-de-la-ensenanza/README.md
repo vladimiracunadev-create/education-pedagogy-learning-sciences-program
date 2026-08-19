@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La diversificación sostenible se logra eligiendo una dimensión y no todas: variar el producto manteniendo el proceso, o variar el proceso manteniendo el producto. Intentar diversificar todo produce planificaciones inaplicables que se abandonan en dos semanas, con lo cual el estudiante queda peor que con una clase única bien hecha.
+La diversificación sostenible se logra eligiendo una dimensión y no todas: variar el producto manteniendo el proceso, o variar el proceso manteniendo el producto. Intentar diversificar todo produce planificaciones inaplicables que se abandonan en dos semanas, con lo cual el estudiante queda peor que con una clase única bien hecha. Un punto de partida realista es diversificar solo la evaluación durante un semestre completo: es la dimensión que más cambia los resultados y la que menos trabajo adicional exige por clase.
 
 ### 5. Qué sostiene la evidencia y qué no
 

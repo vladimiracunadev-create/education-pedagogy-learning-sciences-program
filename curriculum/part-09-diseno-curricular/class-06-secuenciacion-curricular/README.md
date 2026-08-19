@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Dependencia** | relación por la que un aprendizaje es condición para otro |
 | **Progresión** | aumento planificado de complejidad, autonomía o abstracción en un mismo aprendizaje |
-| **Currículo en espiral** | retorno planificado sobre un mismo contenido con mayor profundidad |
+| **Currículo en espiral** | retorno planificado sobre un mismo contenido con mayor profundidad y en contexto nuevo, distinto de repetir lo mismo en otro curso |
 | **Prerrequisito** | conocimiento previo verificado que la secuencia supone en un punto determinado |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Buena parte del fracaso escolar acumulativo se explica por secuencias que suponen prerrequisitos no verificados. Enseñar fracciones a quien no domina división, o argumentación a quien no distingue hecho de opinión, produce un fracaso que se atribuye al estudiante y que en realidad es de diseño. El mapa de dependencias hace visible ese riesgo antes de que ocurra.
+Buena parte del fracaso escolar acumulativo se explica por secuencias que suponen prerrequisitos no verificados. Enseñar fracciones a quien no domina división, o argumentación a quien no distingue hecho de opinión, produce un fracaso que se atribuye al estudiante y que en realidad es de diseño. El mapa de dependencias hace visible ese riesgo antes de que ocurra. Vale la pena distinguir dos tipos de dependencia: la lógica, donde un contenido es imposible sin otro, y la de conveniencia, donde solo resulta más fácil en cierto orden; confundirlas produce secuencias rígidas sin razón.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Dependencia** no
 mismo que **Progresión** —aumento planificado de complejidad, autonomía o abstracción en un mismo aprendizaje—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Currículo en espiral** y
 **Prerrequisito** describen aspectos distintos de la misma situación: el primero
-retorno planificado sobre un mismo contenido con mayor profundidad, mientras el segundo conocimiento previo verificado que la secuencia supone en un punto determinado.
+retorno planificado sobre un mismo contenido con mayor profundidad y en contexto nuevo, distinto de repetir lo mismo en otro curso, mientras el segundo conocimiento previo verificado que la secuencia supone en un punto determinado.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La secuenciación exige tres decisiones: qué depende de qué, cómo aumenta la complejidad y cuándo se vuelve sobre lo importante. El retorno planificado —el currículo en espiral bien entendido— no es repetir lo mismo, sino volver con mayor profundidad y en contexto nuevo, lo que además produce práctica distribuida.
+La secuenciación exige tres decisiones: qué depende de qué, cómo aumenta la complejidad y cuándo se vuelve sobre lo importante. El retorno planificado —el currículo en espiral bien entendido— no es repetir lo mismo, sino volver con mayor profundidad y en contexto nuevo, lo que además produce práctica distribuida. Conviene marcar en el mapa los tres o cuatro contenidos que sostienen todo lo demás, porque son los que justifican detenerse aunque el calendario apriete.
 
 ### 5. Qué sostiene la evidencia y qué no
 

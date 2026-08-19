@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Estimar la carga significa contar todo: lectura, preparación, trabajos, estudio para evaluaciones. Cuando se hace, muchos cursos resultan exigir el doble de tiempo del que declaran, lo que explica entregas de baja calidad y abandono. Ajustar el diseño a la carga real es una decisión profesional, no una concesión.
+Estimar la carga significa contar todo: lectura, preparación, trabajos, estudio para evaluaciones. Cuando se hace, muchos cursos resultan exigir el doble de tiempo del que declaran, lo que explica entregas de baja calidad y abandono. Ajustar el diseño a la carga real es una decisión profesional, no una concesión. Un procedimiento simple es cronometrar la primera lectura de la semana y multiplicar por el ritmo de un estudiante que aún no domina el vocabulario del campo, que suele ser dos o tres veces el del docente.
 
 ### 5. Qué sostiene la evidencia y qué no
 

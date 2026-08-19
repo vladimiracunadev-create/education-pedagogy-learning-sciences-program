@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Andamiaje** | apoyo temporal ajustado que permite un desempeño todavía no autónomo |
 | **Ajuste** | correspondencia entre el apoyo ofrecido y el desempeño observado, no el esperado |
-| **Desvanecimiento** | retirada progresiva del apoyo conforme aumenta el dominio |
+| **Desvanecimiento** | retirada progresiva y planificada del apoyo conforme aumenta el dominio, con un criterio declarado que indica cuándo corresponde quitarlo |
 | **Dependencia inducida** | situación en que el apoyo permanente impide el desarrollo de la autonomía |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Andamiaje** no e
 mismo que **Ajuste** —correspondencia entre el apoyo ofrecido y el desempeño observado, no el esperado—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Desvanecimiento** y
 **Dependencia inducida** describen aspectos distintos de la misma situación: el primero
-retirada progresiva del apoyo conforme aumenta el dominio, mientras el segundo situación en que el apoyo permanente impide el desarrollo de la autonomía.
+retirada progresiva y planificada del apoyo conforme aumenta el dominio, con un criterio declarado que indica cuándo corresponde quitarlo, mientras el segundo situación en que el apoyo permanente impide el desarrollo de la autonomía.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -125,7 +125,7 @@ Escribir el criterio de retiro junto con el apoyo es lo que convierte la intuici
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El andamiaje contingente exige observar de cerca, lo que en cursos numerosos es difícil de sostener para todos. La alternativa realista es andamiaje diferenciado por grupos y no individual, con criterios de retiro por grupo. Reconocer esa restricción evita diseños ideales que nadie ejecuta.
+El andamiaje contingente exige observar de cerca, lo que en cursos numerosos es difícil de sostener para todos. La alternativa realista es andamiaje diferenciado por grupos y no individual, con criterios de retiro por grupo. Reconocer esa restricción evita diseños ideales que nadie ejecuta. Hay además un riesgo simétrico y menos discutido: el apoyo que no se retira produce dependencia, y un estudiante que solo resuelve con la plantilla del docente no ha aprendido el procedimiento, ha aprendido a usar la plantilla.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 

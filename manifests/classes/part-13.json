@@ -25,8 +25,8 @@
       ]
     ],
     "desarrollo": "La competencia digital docente no se mide por la cantidad de herramientas que se dominan sino por la calidad de las decisiones que se toman con ellas. Los marcos de referencia internacionales coinciden en un núcleo: uso profesional, selección y creación de recursos, enseñanza y evaluación mediadas, empoderamiento de los estudiantes y desarrollo de su competencia digital. A eso se suma un componente que se volvió urgente: protección de datos y criterio ético.",
-    "practica": "La autoevaluación contra un marco revela vacíos que la práctica cotidiana oculta. El plan de desarrollo debe priorizar por necesidad real: si tu contexto exige evaluación en línea con resguardo de datos, esa competencia precede a cualquier otra. Aprender herramientas sin necesidad definida produce acumulación de aplicaciones y ninguna mejora del aprendizaje.",
-    "limites": "Los marcos de competencia son normativos: describen lo deseable sin demostrar que su desarrollo mejore los aprendizajes. Y envejecen rápido, porque la tecnología cambia más rápido que su revisión. Úsalos como estructura para ordenar el desarrollo profesional, no como evidencia de eficacia.",
+    "practica": "La autoevaluación contra un marco revela vacíos que la práctica cotidiana oculta. El plan de desarrollo debe priorizar por necesidad real: si tu contexto exige evaluación en línea con resguardo de datos, esa competencia precede a cualquier otra. Aprender herramientas sin necesidad definida produce acumulación de aplicaciones y ninguna mejora del aprendizaje. Un orden que funciona es partir por un problema que ya tienes —estudiantes que no entregan, retroalimentación que llega tarde, material inaccesible— y buscar qué competencia digital lo resolvería; el catálogo de herramientas viene después, si es que hace falta.",
+    "limites": "Los marcos de competencia son normativos: describen lo deseable sin demostrar que su desarrollo mejore los aprendizajes. Y envejecen rápido, porque la tecnología cambia más rápido que su revisión. Úsalos como estructura para ordenar el desarrollo profesional, no como evidencia de eficacia. Hay además una asimetría que los marcos rara vez consideran: describen competencias que suponen infraestructura disponible, y en un establecimiento sin conectividad estable la mitad del marco no es evaluable ni aplicable.",
     "errores": [
       "Confundir dominio de herramientas con competencia digital pedagógica.",
       "Adoptar herramientas por acumulación y sin necesidad definida por un objetivo de aprendizaje."
@@ -83,7 +83,7 @@
         "actividad de intercambio diseñada para un objetivo y no por sí misma"
       ]
     ],
-    "desarrollo": "La investigación sobre educación en línea es consistente en un punto: la plataforma explica poco y el diseño explica mucho. Los cursos que funcionan tienen estructura predecible, presencia docente visible y regular, expectativas explícitas y actividades con propósito. Los que fracasan acumulan materiales sin secuencia, delegan la interacción a foros sin función y dejan al estudiante solo con su autorregulación.",
+    "desarrollo": "La investigación sobre educación en línea es consistente en un punto: la plataforma explica poco y el diseño explica mucho. Los cursos que funcionan tienen estructura predecible, presencia docente visible y regular, expectativas explícitas y actividades con propósito. Los que fracasan acumulan materiales sin secuencia, delegan la interacción a foros sin función y dejan al estudiante solo con su autorregulación. Esa última condición merece atención: el aula virtual traslada al estudiante una carga de organización que en la sala presencial asumía la estructura del horario, y quienes menos hábitos de estudio traen son los primeros en quedarse atrás.",
     "practica": "El diseño define la estructura semanal —qué encuentra el estudiante y en qué orden—, el plan de presencia docente —cuándo aparece el docente, con qué frecuencia y con qué tipo de intervención— y las actividades de interacción con su objetivo declarado. Un foro sin propósito produce participación obligatoria y vacía; uno con función clara sostiene el aprendizaje.",
     "limites": "La comparación entre modalidades presencial y en línea rinde poco: las diferencias observadas se explican mejor por el diseño, el tiempo dedicado y las características de los estudiantes que por el medio. Y la educación en línea amplifica la desigualdad de condiciones: conectividad, dispositivo, espacio y tiempo no están distribuidos por igual.",
     "errores": [
@@ -109,7 +109,7 @@
         "síntesis que muestra que el diseño y el tiempo explican más que la modalidad."
       ]
     ],
-    "inclusion": "Las condiciones de conectividad, dispositivo y espacio de estudio son muy desiguales. Ofrecer materiales descargables, formatos livianos y alternativas asincrónicas evita que el diseño excluya por infraestructura.",
+    "inclusion": "Las condiciones de conectividad, dispositivo y espacio de estudio son muy desiguales. Ofrecer materiales descargables, formatos livianos y alternativas asincrónicas evita que el diseño excluya por infraestructura. Conviene preguntarlo al inicio y no suponerlo: cuántos estudiantes acceden solo por teléfono, cuántos comparten el dispositivo con hermanos y en qué horario tienen conexión estable son datos que cambian por completo qué se puede pedir.",
     "reto": "Rediseña la estructura de una unidad en tu aula virtual y aplica un plan de presencia docente. Compara la participación y la entrega con la unidad anterior.",
     "conexion": "Se apoya en la clase 118 y sostiene la implementación de las clases 130 y 168."
   },
@@ -138,9 +138,9 @@
         "dividir la presentación en tramos con control del ritmo por parte del estudiante"
       ]
     ],
-    "desarrollo": "Los principios del aprendizaje multimedia están entre los hallazgos más replicados de la investigación instruccional, y casi todos son contraintuitivos para quien diseña material: agregar música de fondo, imágenes decorativas o texto que repite el audio empeora el aprendizaje, aunque el material resulte más atractivo. La razón es la capacidad limitada de procesamiento, no el gusto del estudiante.",
+    "desarrollo": "Los principios del aprendizaje multimedia están entre los hallazgos más replicados de la investigación instruccional, y casi todos son contraintuitivos para quien diseña material: agregar música de fondo, imágenes decorativas o texto que repite el audio empeora el aprendizaje, aunque el material resulte más atractivo. La razón es la capacidad limitada de procesamiento, no el gusto del estudiante. De ahí una consecuencia práctica que ahorra mucho trabajo: mejorar una presentación casi siempre significa quitar elementos, no agregarlos.",
     "practica": "El rediseño es un ejercicio de eliminación: quitar lo decorativo, integrar la leyenda dentro de la imagen, evitar leer en voz alta el texto en pantalla, dividir la presentación en segmentos con control del estudiante. Cada cambio se justifica por un principio, lo que permite discutir el diseño con criterio y no con preferencias estéticas.",
-    "limites": "Algunos principios se invierten con la experticia: la información redundante que estorba al novato puede ayudar al experto, y el andamiaje detallado deja de ser útil cuando el esquema ya existe. Además, los estudios se realizaron mayormente en condiciones controladas y con materiales breves.",
+    "limites": "Algunos principios se invierten con la experticia: la información redundante que estorba al novato puede ayudar al experto, y el andamiaje detallado deja de ser útil cuando el esquema ya existe. Además, los estudios se realizaron mayormente en condiciones controladas y con materiales breves, de modo que su traslado a un curso completo de un semestre está menos documentado de lo que sugiere la confianza con que suelen citarse.",
     "errores": [
       "Agregar elementos decorativos porque hacen el material más atractivo.",
       "Leer en voz alta el mismo texto que el estudiante está leyendo en pantalla."
@@ -193,8 +193,8 @@
         "mejora inicial que desaparece cuando el elemento deja de ser nuevo"
       ]
     ],
-    "desarrollo": "La evidencia sobre gamificación muestra efectos positivos pequeños, muy heterogéneos y frecuentemente atribuibles al efecto de novedad. Las mecánicas más usadas —puntos, insignias y tablas de posición— son también las más problemáticas: agregan motivación externa a una tarea, pueden reducir el interés propio y las tablas de posición desmotivan sistemáticamente a quienes están en la parte baja.",
-    "practica": "Las mecánicas con mejor fundamento son las que se conectan con mecanismos de aprendizaje: desafío ajustado al nivel, retroalimentación inmediata, progresión visible del propio avance y posibilidad de reintentar sin costo. Todas ellas se pueden implementar sin puntos ni competencia, y son precisamente las que sostienen el efecto cuando la novedad se agota.",
+    "desarrollo": "La evidencia sobre gamificación muestra efectos positivos pequeños, muy heterogéneos y frecuentemente atribuibles al efecto de novedad. Las mecánicas más usadas —puntos, insignias y tablas de posición— son también las más problemáticas: agregan motivación externa a una tarea, pueden reducir el interés propio y las tablas de posición desmotivan sistemáticamente a quienes están en la parte baja. Conviene además notar qué se está premiando: casi siempre la cantidad de actividad completada, que es lo fácil de contar, y casi nunca la calidad del razonamiento, que es lo que interesaba.",
+    "practica": "Las mecánicas con mejor fundamento son las que se conectan con mecanismos de aprendizaje: desafío ajustado al nivel, retroalimentación inmediata, progresión visible del propio avance y posibilidad de reintentar sin costo. Todas ellas se pueden implementar sin puntos ni competencia, y son precisamente las que sostienen el efecto cuando la novedad se agota. Si aun así se decide usar puntos, conviene decidir desde el inicio cuándo se retiran y qué los reemplazará, porque quitarlos sin plan produce una caída de participación peor que la situación original.",
     "limites": "La comparación entre estudios es difícil porque el término abarca intervenciones muy distintas, y muchos trabajos miden satisfacción y no aprendizaje. Además, la duración de los estudios rara vez permite distinguir efecto real de efecto de novedad. Prometer aumentos de aprendizaje por gamificar excede lo que la evidencia sostiene.",
     "errores": [
       "Usar tablas de posición públicas, que desmotivan a quienes más apoyo necesitan.",
@@ -248,8 +248,8 @@
         "frontera entre lo que el dato muestra y lo que se le atribuye"
       ]
     ],
-    "desarrollo": "Las plataformas producen abundantes datos de actividad y muy pocos de aprendizaje. Tiempo de conexión, número de accesos y clics indican comportamiento, no comprensión: un estudiante puede tener la pestaña abierta sin leer nada, y otro puede aprender fuera de la plataforma. El uso defendible es el de alerta temprana —detectar inactividad prolongada o entregas faltantes— seguido de contacto humano.",
-    "practica": "El tablero útil incluye pocos indicadores con decisiones asociadas: si un estudiante no entrega dos actividades seguidas, se contacta; si el rendimiento en una actividad cae bajo un umbral en el grupo, se reenseña. Y cada indicador declara su límite de interpretación para evitar que se use como medida de esfuerzo o de compromiso.",
+    "desarrollo": "Las plataformas producen abundantes datos de actividad y muy pocos de aprendizaje. Tiempo de conexión, número de accesos y clics indican comportamiento, no comprensión: un estudiante puede tener la pestaña abierta sin leer nada, y otro puede aprender fuera de la plataforma. El uso defendible es el de alerta temprana —detectar inactividad prolongada o entregas faltantes— seguido de contacto humano. Y conviene tener presente el riesgo de la lectura inversa: interpretar poca actividad como poco compromiso castiga a quien tiene mala conexión o estudia desde el teléfono en horarios de trabajo.",
+    "practica": "El tablero útil incluye pocos indicadores con decisiones asociadas: si un estudiante no entrega dos actividades seguidas, se contacta; si el rendimiento en una actividad cae bajo un umbral en el grupo, se reenseña. Y cada indicador declara su límite de interpretación para evitar que se use como medida de esfuerzo o de compromiso. Conviene además acordar quién mira el tablero y cuándo: sin un responsable y una frecuencia, los datos se acumulan y la alerta llega cuando el estudiante ya se retiró.",
     "limites": "La analítica plantea problemas éticos serios: vigilancia, perfilamiento, efectos de expectativa cuando el docente ve una predicción de riesgo, y sesgos de los modelos que la producen. Además, casi toda la evidencia disponible proviene de educación superior en línea y no se traslada sin más a otros contextos.",
     "errores": [
       "Interpretar tiempo de conexión o número de accesos como medida de esfuerzo o de aprendizaje.",
@@ -303,9 +303,9 @@
         "decisiones de enseñanza que quedan en manos del sistema y no del docente"
       ]
     ],
-    "desarrollo": "Los sistemas adaptativos varían enormemente: algunos ajustan solo la dificultad de ejercicios, otros modelan conocimiento con precisión razonable. La evidencia sobre tutores inteligentes en dominios bien estructurados —matemática, programación— es más favorable que la de sistemas generalistas, y en todos los casos los efectos dependen de la calidad del modelo de dominio subyacente.",
-    "practica": "La evaluación de un sistema debe preguntar qué adapta exactamente, con qué información construye su modelo, qué evidencia de eficacia presenta y qué decisiones deja al docente. Un sistema que solo reordena ejercicios por dificultad no es adaptativo en sentido fuerte, aunque se anuncie así.",
-    "limites": "Buena parte de la evidencia proviene de los propios proveedores y con diseños débiles. Además, la adaptación puede reducir la exposición a contenido desafiante y consolidar trayectorias divergentes: quien empieza atrás recibe siempre lo más fácil. Esa consecuencia debe vigilarse explícitamente.",
+    "desarrollo": "Los sistemas adaptativos varían enormemente: algunos ajustan solo la dificultad de ejercicios, otros modelan conocimiento con precisión razonable. La evidencia sobre tutores inteligentes en dominios bien estructurados —matemática, programación— es más favorable que la de sistemas generalistas, y en todos los casos los efectos dependen de la calidad del modelo de dominio subyacente. La diferencia práctica es reconocible: un buen sistema sabe qué error específico cometió el estudiante y responde a ese error; uno débil solo sabe que falló y le entrega otro ejercicio parecido.",
+    "practica": "La evaluación de un sistema debe preguntar qué adapta exactamente, con qué información construye su modelo, qué evidencia de eficacia presenta y qué decisiones deja al docente. Un sistema que solo reordena ejercicios por dificultad no es adaptativo en sentido fuerte, aunque se anuncie así. Conviene pedir además los datos desagregados de la evidencia que presenta el proveedor: con qué estudiantes se probó, en qué contexto y cuántos abandonaron durante el estudio.",
+    "limites": "Buena parte de la evidencia proviene de los propios proveedores y con diseños débiles. Además, la adaptación puede reducir la exposición a contenido desafiante y consolidar trayectorias divergentes: quien empieza atrás recibe siempre lo más fácil. Esa consecuencia debe vigilarse explícitamente, revisando cada cierto tiempo qué contenido está recibiendo efectivamente el grupo más rezagado y decidiendo si corresponde intervenir con enseñanza directa en vez de con más ejercitación.",
     "errores": [
       "Adoptar un sistema por su descripción comercial sin evaluar qué adapta y con qué evidencia.",
       "Delegar la ruta de aprendizaje sin revisar si el sistema está reduciendo la exigencia a los mismos estudiantes."
@@ -359,7 +359,7 @@
       ]
     ],
     "desarrollo": "Un sistema de aprendizaje automático no razona sobre reglas: ajusta parámetros para reproducir patrones presentes en sus datos. De ahí se derivan casi todas sus propiedades relevantes para educación: funciona bien en tareas parecidas a sus datos, hereda sus sesgos, no distingue verdad de plausibilidad y falla de forma difícil de anticipar en casos poco representados. Entender ese mecanismo permite decidir usos con criterio en vez de con entusiasmo o rechazo.",
-    "practica": "La prueba de comprensión es poder explicarlo a un colega sin jerga y responder preguntas incómodas: por qué el sistema inventa datos, por qué funciona mejor con unos estudiantes que con otros, por qué su respuesta cambia si se le pregunta distinto. Esa explicación es la base de cualquier decisión institucional informada.",
+    "practica": "La prueba de comprensión es poder explicarlo a un colega sin jerga y responder preguntas incómodas: por qué el sistema inventa datos, por qué funciona mejor con unos estudiantes que con otros, por qué su respuesta cambia si se le pregunta distinto. Esa explicación es la base de cualquier decisión institucional informada. Un ejercicio breve y revelador es pedirle al sistema tres referencias bibliográficas sobre un tema que domines y verificar una por una: la experiencia enseña más sobre sus límites que cualquier explicación técnica.",
     "limites": "El campo cambia rápido y los detalles técnicos se desactualizan; los principios generales —dependencia de los datos, sesgo, falta de garantía de veracidad, dificultad de explicar decisiones— se sostienen mejor que las descripciones de sistemas específicos. Conviene verificar capacidades actuales antes de afirmar límites concretos.",
     "errores": [
       "Atribuir comprensión o intención al sistema por la fluidez de sus respuestas.",
@@ -413,8 +413,8 @@
         "principio de que quien usa la salida responde por ella, sin importar cómo se generó"
       ]
     ],
-    "desarrollo": "Los modelos de lenguaje son útiles en tareas donde el docente puede verificar el resultado con rapidez: generar variantes de ejercicios, producir borradores, proponer ejemplos, reformular explicaciones, anticipar errores frecuentes. Son riesgosos en tareas donde la verificación es costosa o donde el error pasa inadvertido: datos históricos, cifras, referencias bibliográficas y normativa, que es precisamente donde más se equivocan.",
-    "practica": "Un protocolo profesional define qué tareas se delegan, qué verificación exige cada una y qué queda registrado. La regla de fondo es simple: la responsabilidad no se delega. Si un material tiene un error, responde quien lo entregó a sus estudiantes, con independencia de la herramienta usada para producirlo.",
+    "desarrollo": "Los modelos de lenguaje son útiles en tareas donde el docente puede verificar el resultado con rapidez: generar variantes de ejercicios, producir borradores, proponer ejemplos, reformular explicaciones, anticipar errores frecuentes. Son riesgosos en tareas donde la verificación es costosa o donde el error pasa inadvertido: datos históricos, cifras, referencias bibliográficas y normativa, que es precisamente donde más se equivocan. La regla que ordena el uso es el costo de verificar: si comprobar la respuesta cuesta más que producirla uno mismo, la herramienta no está ahorrando trabajo, lo está desplazando.",
+    "practica": "Un protocolo profesional define qué tareas se delegan, qué verificación exige cada una y qué queda registrado. La regla de fondo es simple: la responsabilidad no se delega. Si un material tiene un error, responde quien lo entregó a sus estudiantes, con independencia de la herramienta usada para producirlo. Conviene además revisar lo generado con una pregunta pedagógica y no solo factual: si el ejercicio propuesto se puede resolver sin entender el concepto, no sirve aunque sea correcto.",
     "limites": "Las capacidades cambian rápido y cualquier afirmación específica sobre lo que un modelo puede o no hacer envejece; lo estable es la exigencia de verificación. Además, la evidencia sobre efectos en el aprendizaje de los estudiantes es todavía escasa y de corto plazo, y conviene distinguir el uso docente —mejor documentado en ahorro de tiempo— del uso directo por estudiantes.",
     "errores": [
       "Usar referencias bibliográficas generadas por un modelo sin verificar que existan.",
@@ -468,8 +468,8 @@
         "consulta que el corpus no cubre y que el sistema debería declarar como tal"
       ]
     ],
-    "desarrollo": "La recuperación sobre documentos propios reduce la invención porque obliga al modelo a responder a partir de fragmentos concretos, y permite mostrar la fuente de cada afirmación. No elimina el problema: el sistema puede seleccionar mal el fragmento, combinarlo incorrectamente o responder igualmente cuando el corpus no cubre la pregunta. La trazabilidad es lo que permite detectarlo.",
-    "practica": "El diseño empieza por el corpus: qué documentos, con qué versión y fecha, revisados por quién. Después, la verificación: un conjunto de preguntas de prueba con respuestas conocidas, incluidas preguntas fuera de alcance que el sistema debe rechazar. Y la declaración de límites, visible para el estudiante: qué puede responder y qué no.",
+    "desarrollo": "La recuperación sobre documentos propios reduce la invención porque obliga al modelo a responder a partir de fragmentos concretos, y permite mostrar la fuente de cada afirmación. No elimina el problema: el sistema puede seleccionar mal el fragmento, combinarlo incorrectamente o responder igualmente cuando el corpus no cubre la pregunta. La trazabilidad es lo que permite detectarlo. Por eso la decisión de diseño más importante no es técnica sino curricular: qué documentos entran al corpus, quién los valida y con qué frecuencia se actualizan.",
+    "practica": "El diseño empieza por el corpus: qué documentos, con qué versión y fecha, revisados por quién. Después, la verificación: un conjunto de preguntas de prueba con respuestas conocidas, incluidas preguntas fuera de alcance que el sistema debe rechazar. Y la declaración de límites, visible para el estudiante: qué puede responder y qué no. Conviene guardar ese conjunto de preguntas y volver a aplicarlo cada vez que cambie el corpus o el modelo, porque una actualización silenciosa puede degradar respuestas que antes eran correctas.",
     "limites": "La evidencia sobre efectos de estos asistentes en el aprendizaje es incipiente. Su beneficio más claro es de acceso —disponibilidad permanente, paciencia, repetición— y su riesgo más claro es el desplazamiento del esfuerzo: un estudiante puede obtener respuestas sin realizar el trabajo cognitivo que producía el aprendizaje.",
     "errores": [
       "Construir el asistente sin conjunto de preguntas de prueba ni verificación de respuestas.",
@@ -567,7 +567,7 @@
     "conceptos": [
       [
         "Base legal",
-        "fundamento jurídico que autoriza el tratamiento de datos personales"
+        "fundamento jurídico que autoriza el tratamiento de datos personales; sin él, el consentimiento posterior no regulariza lo ya recogido"
       ],
       [
         "Minimización",
@@ -575,14 +575,14 @@
       ],
       [
         "Sesgo algorítmico",
-        "desempeño sistemáticamente distinto del sistema entre grupos de personas"
+        "desempeño sistemáticamente distinto de un sistema entre grupos de personas, que reproduce desigualdades presentes en los datos con que fue construido"
       ],
       [
         "Supervisión humana",
         "exigencia de que una persona revise y pueda revertir decisiones que afectan a otras"
       ]
     ],
-    "desarrollo": "Toda herramienta que procesa datos de estudiantes genera obligaciones: base legal para el tratamiento, información a los titulares, minimización, resguardo, plazos de conservación y, tratándose de menores, protecciones reforzadas. A eso se suma la exigencia ética de verificar que el sistema no funcione peor con determinados grupos, que es un fenómeno documentado y no una hipótesis.",
+    "desarrollo": "Toda herramienta que procesa datos de estudiantes genera obligaciones: base legal para el tratamiento, información a los titulares, minimización, resguardo, plazos de conservación y, tratándose de menores, protecciones reforzadas. A eso se suma la exigencia ética de verificar que el sistema no funcione peor con determinados grupos, que es un fenómeno documentado y no una hipótesis. La minimización es el principio que más se incumple y el más fácil de aplicar: antes de habilitar una plataforma, conviene preguntarse qué dato de los que pide es realmente necesario para lo que se quiere lograr.",
     "practica": "La evaluación de una herramienta debe responder por escrito: qué datos trata, con qué finalidad, con qué base legal, dónde se almacenan, quién accede, cuánto se conservan y qué ocurre si el proveedor cambia sus condiciones. Y para sistemas que clasifican o predicen, cómo se verificará su desempeño entre grupos y qué vía de impugnación existe.",
     "limites": "El marco normativo varía por país y está en evolución: en Chile, la normativa de protección de datos personales y su institucionalidad han cambiado, y en otros sistemas existen regulaciones específicas sobre IA. Toda afirmación normativa debe verificarse en su versión vigente antes de fundar una decisión institucional.",
     "errores": [
@@ -630,7 +630,7 @@
       ],
       [
         "Documentación del sistema",
-        "registro de fuentes, límites, verificación y responsables"
+        "registro de fuentes, límites, procedimiento de verificación y responsables, que permite auditar el tutor sin depender de quien lo construyó"
       ],
       [
         "Evaluación de efecto",
@@ -641,8 +641,8 @@
         "capacidad de explicar a estudiantes y familias qué hace el sistema y con qué resguardos"
       ]
     ],
-    "desarrollo": "El proyecto integrador exige articular lo pedagógico, lo técnico y lo ético. Un tutor defendible declara qué aprendizaje apoya, con qué fuentes responde, cómo se verificó, qué datos trata y qué no puede hacer. La prueba práctica es poder presentarlo a una comunidad educativa exigente y responder sus preguntas sin recurrir a promesas.",
-    "practica": "El desarrollo sigue el orden inverso al habitual: primero el propósito pedagógico y la evidencia de efecto que se buscará, después el diseño técnico. Se prueba con un conjunto de preguntas conocidas, se declara lo que no cubre, se resguardan los datos y se evalúa con estudiantes reales antes de escalar el uso.",
+    "desarrollo": "El proyecto integrador exige articular lo pedagógico, lo técnico y lo ético. Un tutor defendible declara qué aprendizaje apoya, con qué fuentes responde, cómo se verificó, qué datos trata y qué no puede hacer. La prueba práctica es poder presentarlo a una comunidad educativa exigente y responder sus preguntas sin recurrir a promesas. Conviene anticipar las tres preguntas que siempre aparecen: qué pasa si se equivoca, quién responde por eso, y qué ocurre con lo que los estudiantes escriben en la conversación.",
+    "practica": "El desarrollo sigue el orden inverso al habitual: primero el propósito pedagógico y la evidencia de efecto que se buscará, después el diseño técnico. Se prueba con un conjunto de preguntas conocidas, se declara lo que no cubre, se resguardan los datos y se evalúa con estudiantes reales antes de escalar el uso. Y se define desde el inicio la condición de retiro: qué resultado observado haría suspender el tutor, decidida antes de tenerle cariño al proyecto.",
     "limites": "La evidencia sobre efectos de tutores con IA en el aprendizaje es incipiente: los estudios disponibles son de corto plazo y con medidas variadas. Un proyecto honesto declara que su evaluación produce evidencia local sobre su propio uso, y no una demostración general de eficacia.",
     "errores": [
       "Construir el sistema primero y buscar después qué aprendizaje apoya.",

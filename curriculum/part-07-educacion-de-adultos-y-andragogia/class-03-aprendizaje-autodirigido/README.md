@@ -40,7 +40,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Aprendizaje autodirigido** | proceso en que la persona define metas, organiza recursos y evalúa su propio avance |
-| **Contrato de aprendizaje** | acuerdo explícito sobre metas, plazos, evidencia y apoyos disponibles |
+| **Contrato de aprendizaje** | acuerdo explícito entre quien aprende y quien forma sobre metas, plazos, evidencia comprometida y apoyos disponibles durante el proceso |
 | **Monitoreo del avance** | seguimiento sistemático que permite detectar el rezago antes del abandono |
 | **Punto de contacto** | persona o instancia a la que el participante puede recurrir cuando se atrasa |
 
@@ -94,7 +94,7 @@ La deserción es el principal problema de la formación adulta y en línea, y su
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Aprendizaje autodirigido** no es lo
-mismo que **Contrato de aprendizaje** —acuerdo explícito sobre metas, plazos, evidencia y apoyos disponibles—, y tratarlos como sinónimos hace
+mismo que **Contrato de aprendizaje** —acuerdo explícito entre quien aprende y quien forma sobre metas, plazos, evidencia comprometida y apoyos disponibles durante el proceso—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Monitoreo del avance** y
 **Punto de contacto** describen aspectos distintos de la misma situación: el primero
 seguimiento sistemático que permite detectar el rezago antes del abandono, mientras el segundo persona o instancia a la que el participante puede recurrir cuando se atrasa.
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Aprendizaje autodirigido** | Proceso en que la persona define metas, organiza recursos y evalúa su propio avance | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Contrato de aprendizaje** | Acuerdo explícito sobre metas, plazos, evidencia y apoyos disponibles | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Contrato de aprendizaje** | Acuerdo explícito entre quien aprende y quien forma sobre metas, plazos, evidencia comprometida y apoyos disponibles durante el proceso | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los sistemas adaptativos varían enormemente: algunos ajustan solo la dificultad de ejercicios, otros modelan conocimiento con precisión razonable. La evidencia sobre tutores inteligentes en dominios bien estructurados —matemática, programación— es más favorable que la de sistemas generalistas, y en todos los casos los efectos dependen de la calidad del modelo de dominio subyacente.
+Los sistemas adaptativos varían enormemente: algunos ajustan solo la dificultad de ejercicios, otros modelan conocimiento con precisión razonable. La evidencia sobre tutores inteligentes en dominios bien estructurados —matemática, programación— es más favorable que la de sistemas generalistas, y en todos los casos los efectos dependen de la calidad del modelo de dominio subyacente. La diferencia práctica es reconocible: un buen sistema sabe qué error específico cometió el estudiante y responde a ese error; uno débil solo sabe que falló y le entrega otro ejercicio parecido.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La evaluación de un sistema debe preguntar qué adapta exactamente, con qué información construye su modelo, qué evidencia de eficacia presenta y qué decisiones deja al docente. Un sistema que solo reordena ejercicios por dificultad no es adaptativo en sentido fuerte, aunque se anuncie así.
+La evaluación de un sistema debe preguntar qué adapta exactamente, con qué información construye su modelo, qué evidencia de eficacia presenta y qué decisiones deja al docente. Un sistema que solo reordena ejercicios por dificultad no es adaptativo en sentido fuerte, aunque se anuncie así. Conviene pedir además los datos desagregados de la evidencia que presenta el proveedor: con qué estudiantes se probó, en qué contexto y cuántos abandonaron durante el estudio.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Buena parte de la evidencia proviene de los propios proveedores y con diseños débiles. Además, la adaptación puede reducir la exposición a contenido desafiante y consolidar trayectorias divergentes: quien empieza atrás recibe siempre lo más fácil. Esa consecuencia debe vigilarse explícitamente.
+Buena parte de la evidencia proviene de los propios proveedores y con diseños débiles. Además, la adaptación puede reducir la exposición a contenido desafiante y consolidar trayectorias divergentes: quien empieza atrás recibe siempre lo más fácil. Esa consecuencia debe vigilarse explícitamente, revisando cada cierto tiempo qué contenido está recibiendo efectivamente el grupo más rezagado y decidiendo si corresponde intervenir con enseñanza directa en vez de con más ejercitación.
 
 > **Cómo leer el estado de evidencia `EMERGENTE`.** El cuerpo de estudios es reciente, escaso o poco replicado. Úsala como hipótesis de trabajo con seguimiento explícito, nunca como argumento de autoridad ni como base para una política de establecimiento.
 

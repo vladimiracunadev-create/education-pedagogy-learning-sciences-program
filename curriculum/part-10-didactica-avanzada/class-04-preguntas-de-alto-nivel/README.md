@@ -39,10 +39,10 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Pregunta de verificación** | interrogante diseñada para revelar comprensión o su ausencia |
+| **Pregunta de verificación** | interrogante diseñada para revelar comprensión o su ausencia en todo el grupo, y no para confirmar que alguien puede repetir lo dicho |
 | **Tiempo de espera** | pausa tras la pregunta antes de aceptar respuesta; aumenta la calidad y la cantidad de participación |
 | **Respuesta simultánea** | técnica que obliga a responder a todo el curso a la vez y hace visible el estado general |
-| **Distractor diagnóstico** | opción incorrecta diseñada para revelar un error conceptual específico |
+| **Distractor diagnóstico** | opción incorrecta construida a partir de un error conceptual real, de modo que elegirla informe qué está fallando |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Pregunta de veri
 mismo que **Tiempo de espera** —pausa tras la pregunta antes de aceptar respuesta; aumenta la calidad y la cantidad de participación—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Respuesta simultánea** y
 **Distractor diagnóstico** describen aspectos distintos de la misma situación: el primero
-técnica que obliga a responder a todo el curso a la vez y hace visible el estado general, mientras el segundo opción incorrecta diseñada para revelar un error conceptual específico.
+técnica que obliga a responder a todo el curso a la vez y hace visible el estado general, mientras el segundo opción incorrecta construida a partir de un error conceptual real, de modo que elegirla informe qué está fallando.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Pregunta de verificación** | Interrogante diseñada para revelar comprensión o su ausencia | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Pregunta de verificación** | Interrogante diseñada para revelar comprensión o su ausencia en todo el grupo, y no para confirmar que alguien puede repetir lo dicho | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Tiempo de espera** | Pausa tras la pregunta antes de aceptar respuesta; aumenta la calidad y la cantidad de participación | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Práctica guiada** | ejecución del estudiante con verificación y corrección inmediata del docente |
 | **Práctica independiente** | ejecución autónoma, cuando el desempeño ya es correcto de forma consistente |
-| **Corrección oportuna** | retroalimentación entregada antes de que el error se consolide |
+| **Corrección oportuna** | retroalimentación entregada antes de que el error se consolide, cuyo momento adecuado depende de la fase de aprendizaje y no es siempre inmediato |
 | **Dosificación** | cantidad y distribución de la práctica necesaria para automatizar sin saturar |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Práctica guiada
 mismo que **Práctica independiente** —ejecución autónoma, cuando el desempeño ya es correcto de forma consistente—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Corrección oportuna** y
 **Dosificación** describen aspectos distintos de la misma situación: el primero
-retroalimentación entregada antes de que el error se consolide, mientras el segundo cantidad y distribución de la práctica necesaria para automatizar sin saturar.
+retroalimentación entregada antes de que el error se consolide, cuyo momento adecuado depende de la fase de aprendizaje y no es siempre inmediato, mientras el segundo cantidad y distribución de la práctica necesaria para automatizar sin saturar.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -125,7 +125,7 @@ El diseño explicita el criterio de paso —por ejemplo, tres ejecuciones correc
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La práctica excesiva sin variación produce ejecución rígida que no transfiere. Y la corrección inmediata, útil al inicio, puede volverse contraproducente después: en fases avanzadas, demorar la retroalimentación favorece la retención. Ajustar el momento de la corrección según la fase es parte del oficio.
+La práctica excesiva sin variación produce ejecución rígida que no transfiere. Y la corrección inmediata, útil al inicio, puede volverse contraproducente después: en fases avanzadas, demorar la retroalimentación favorece la retención. Ajustar el momento de la corrección según la fase es parte del oficio. Conviene tener presente también el costo de la variación: introducirla demasiado pronto, antes de que el procedimiento básico esté firme, genera confusión que se confunde con falta de estudio.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 

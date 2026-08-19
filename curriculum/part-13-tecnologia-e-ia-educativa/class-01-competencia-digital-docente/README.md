@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La autoevaluación contra un marco revela vacíos que la práctica cotidiana oculta. El plan de desarrollo debe priorizar por necesidad real: si tu contexto exige evaluación en línea con resguardo de datos, esa competencia precede a cualquier otra. Aprender herramientas sin necesidad definida produce acumulación de aplicaciones y ninguna mejora del aprendizaje.
+La autoevaluación contra un marco revela vacíos que la práctica cotidiana oculta. El plan de desarrollo debe priorizar por necesidad real: si tu contexto exige evaluación en línea con resguardo de datos, esa competencia precede a cualquier otra. Aprender herramientas sin necesidad definida produce acumulación de aplicaciones y ninguna mejora del aprendizaje. Un orden que funciona es partir por un problema que ya tienes —estudiantes que no entregan, retroalimentación que llega tarde, material inaccesible— y buscar qué competencia digital lo resolvería; el catálogo de herramientas viene después, si es que hace falta.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Los marcos de competencia son normativos: describen lo deseable sin demostrar que su desarrollo mejore los aprendizajes. Y envejecen rápido, porque la tecnología cambia más rápido que su revisión. Úsalos como estructura para ordenar el desarrollo profesional, no como evidencia de eficacia.
+Los marcos de competencia son normativos: describen lo deseable sin demostrar que su desarrollo mejore los aprendizajes. Y envejecen rápido, porque la tecnología cambia más rápido que su revisión. Úsalos como estructura para ordenar el desarrollo profesional, no como evidencia de eficacia. Hay además una asimetría que los marcos rara vez consideran: describen competencias que suponen infraestructura disponible, y en un establecimiento sin conectividad estable la mitad del marco no es evaluable ni aplicable.
 
 > **Cómo leer el estado de evidencia `MARCO-NORMATIVO`.** El contenido no se decide por evidencia empírica sino por norma, política pública o marco institucional vigente. Verifica siempre la versión vigente a la fecha en que vas a aplicarlo: la norma cambia y la clase no se actualiza sola.
 

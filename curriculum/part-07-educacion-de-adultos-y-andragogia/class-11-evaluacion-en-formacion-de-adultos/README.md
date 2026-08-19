@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Nivel de reacción** | satisfacción declarada por el participante; el más fácil de medir y el menos informativo |
 | **Nivel de aprendizaje** | verificación de lo aprendido con instrumentos distintos de la autopercepción |
-| **Nivel de conducta** | cambio observable en el desempeño del puesto de trabajo |
+| **Nivel de conducta** | cambio observable en el desempeño del puesto de trabajo semanas después de la formación, distinto de la satisfacción declarada al terminar la sesión |
 | **Nivel de resultado** | efecto en indicadores de la organización; el más difícil de atribuir |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Nivel de reacci�
 mismo que **Nivel de aprendizaje** —verificación de lo aprendido con instrumentos distintos de la autopercepción—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Nivel de conducta** y
 **Nivel de resultado** describen aspectos distintos de la misma situación: el primero
-cambio observable en el desempeño del puesto de trabajo, mientras el segundo efecto en indicadores de la organización;.
+cambio observable en el desempeño del puesto de trabajo semanas después de la formación, distinto de la satisfacción declarada al terminar la sesión, mientras el segundo efecto en indicadores de la organización;.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no

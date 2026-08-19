@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La motivación adulta se explica mejor por costos y beneficios percibidos que por rasgos personales. Un participante obligado puede comprometerse si ve utilidad inmediata; uno voluntario abandona si el costo en tiempo supera el beneficio esperado. El costo es la variable más subestimada por quienes diseñan: cada hora adicional no declarada compite con trabajo, familia y descanso.
+La motivación adulta se explica mejor por costos y beneficios percibidos que por rasgos personales. Un participante obligado puede comprometerse si ve utilidad inmediata; uno voluntario abandona si el costo en tiempo supera el beneficio esperado. El costo es la variable más subestimada por quienes diseñan: cada hora adicional no declarada compite con trabajo, familia y descanso. Y el beneficio debe ser reconocible en el corto plazo: prometer utilidad dentro de un año no sostiene la asistencia de la sexta sesión.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ Las intervenciones eficaces reducen costo y aumentan relevancia: respetar el tie
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Ninguna intervención motivacional compensa una formación irrelevante o una organización que no permite aplicar lo aprendido. Cuando el entorno de trabajo bloquea la transferencia, la desmotivación es una respuesta racional. Diagnosticar eso evita atribuir al participante un problema que es organizacional.
+Ninguna intervención motivacional compensa una formación irrelevante o una organización que no permite aplicar lo aprendido. Cuando el entorno de trabajo bloquea la transferencia, la desmotivación es una respuesta racional. Diagnosticar eso evita atribuir al participante un problema que es organizacional. Conviene además distinguir el abandono por costo del abandono por dificultad: el primero se corrige ajustando la carga, el segundo exige revisar el punto de partida del programa.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

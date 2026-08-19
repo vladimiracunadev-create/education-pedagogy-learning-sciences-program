@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Ciclo experiencial** | secuencia de experiencia concreta, reflexión, conceptualización y experimentación activa |
+| **Ciclo experiencial** | secuencia de experiencia concreta, reflexión sobre lo ocurrido, conceptualización y nueva experimentación; sin la fase de reflexión el ciclo no se cierra y la experiencia no enseña |
 | **Reflexión estructurada** | análisis guiado por preguntas que impide quedarse en la impresión de la experiencia |
 | **Conceptualización** | paso en que la experiencia se conecta con un modelo o principio que permite transferirla |
 | **Simulación** | recreación controlada de una situación real para practicar sin consecuencias reales |
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Ciclo experiencial** | Secuencia de experiencia concreta, reflexión, conceptualización y experimentación activa | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Ciclo experiencial** | Secuencia de experiencia concreta, reflexión sobre lo ocurrido, conceptualización y nueva experimentación; sin la fase de reflexión el ciclo no se cierra y la experiencia no enseña | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Reflexión estructurada** | Análisis guiado por preguntas que impide quedarse en la impresión de la experiencia | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

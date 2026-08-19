@@ -80,7 +80,7 @@
       ]
     ],
     "desarrollo": "La experiencia adulta es un recurso y un obstáculo a la vez. Un técnico con quince años de oficio aprende rápido lo que se conecta con su práctica y se resiste a lo que la contradice, sobre todo si su método le ha funcionado. Ese desaprendizaje es costoso y no ocurre por autoridad del instructor: requiere evidencia que el participante pueda comprobar y un reconocimiento previo de lo que sí sabe hacer.",
-    "practica": "El instrumento de activación cumple dos funciones: revela qué experiencia existe y expone las creencias que habrá que confrontar. La secuencia eficaz reconoce primero lo válido de la práctica actual, muestra después la situación donde falla, y solo entonces ofrece la alternativa. Invertir ese orden produce resistencia inmediata y pérdida de credibilidad del formador.",
+    "practica": "El instrumento de activación cumple dos funciones: revela qué experiencia existe y expone las creencias que habrá que confrontar. La secuencia eficaz reconoce primero lo válido de la práctica actual, muestra después la situación donde falla, y solo entonces ofrece la alternativa. Invertir ese orden produce resistencia inmediata y pérdida de credibilidad del formador. Conviene que la situación donde la práctica actual falla provenga del propio grupo y no de un ejemplo ajeno: nadie discute un caso que reconoce como suyo.",
     "limites": "No toda creencia arraigada es errónea: a veces el participante sabe algo del contexto real que el diseño de formación ignora. Un formador que descarta la experiencia por principio pierde información valiosa y credibilidad. La regla es tratarla como hipótesis a comprobar, en ambas direcciones.",
     "errores": [
       "Corregir la práctica del participante antes de reconocer lo que su experiencia tiene de válido.",
@@ -123,7 +123,7 @@
       ],
       [
         "Contrato de aprendizaje",
-        "acuerdo explícito sobre metas, plazos, evidencia y apoyos disponibles"
+        "acuerdo explícito entre quien aprende y quien forma sobre metas, plazos, evidencia comprometida y apoyos disponibles durante el proceso"
       ],
       [
         "Monitoreo del avance",
@@ -189,9 +189,9 @@
         "trato que reconoce al adulto como profesional y no como alumno que debe ser controlado"
       ]
     ],
-    "desarrollo": "La motivación adulta se explica mejor por costos y beneficios percibidos que por rasgos personales. Un participante obligado puede comprometerse si ve utilidad inmediata; uno voluntario abandona si el costo en tiempo supera el beneficio esperado. El costo es la variable más subestimada por quienes diseñan: cada hora adicional no declarada compite con trabajo, familia y descanso.",
+    "desarrollo": "La motivación adulta se explica mejor por costos y beneficios percibidos que por rasgos personales. Un participante obligado puede comprometerse si ve utilidad inmediata; uno voluntario abandona si el costo en tiempo supera el beneficio esperado. El costo es la variable más subestimada por quienes diseñan: cada hora adicional no declarada compite con trabajo, familia y descanso. Y el beneficio debe ser reconocible en el corto plazo: prometer utilidad dentro de un año no sostiene la asistencia de la sexta sesión.",
     "practica": "Las intervenciones eficaces reducen costo y aumentan relevancia: respetar el tiempo declarado sin encargos encubiertos, permitir aplicar de inmediato lo aprendido, partir de un problema real del participante y garantizar una experiencia temprana de éxito. El clima de respeto es la condición de base: un adulto tratado como escolar desconecta aunque el contenido sea excelente.",
-    "limites": "Ninguna intervención motivacional compensa una formación irrelevante o una organización que no permite aplicar lo aprendido. Cuando el entorno de trabajo bloquea la transferencia, la desmotivación es una respuesta racional. Diagnosticar eso evita atribuir al participante un problema que es organizacional.",
+    "limites": "Ninguna intervención motivacional compensa una formación irrelevante o una organización que no permite aplicar lo aprendido. Cuando el entorno de trabajo bloquea la transferencia, la desmotivación es una respuesta racional. Diagnosticar eso evita atribuir al participante un problema que es organizacional. Conviene además distinguir el abandono por costo del abandono por dificultad: el primero se corrige ajustando la carga, el segundo exige revisar el punto de partida del programa.",
     "errores": [
       "Atribuir la baja participación a falta de compromiso sin revisar el costo real que impone el diseño.",
       "Tratar a profesionales adultos con formatos y controles propios de la escuela."
@@ -241,12 +241,12 @@
       ],
       [
         "Clima de transferencia",
-        "condiciones organizacionales —apoyo, oportunidad, tiempo, herramientas— que permiten aplicar"
+        "conjunto de condiciones organizacionales —apoyo de la jefatura, oportunidad de aplicar, tiempo y herramientas— sin las cuales lo aprendido no llega al puesto de trabajo"
       ]
     ],
     "desarrollo": "Buena parte de los problemas que se derivan a capacitación no son problemas de formación: son de proceso, de herramientas, de incentivos o de dotación. Capacitar a alguien que ya sabe hacer algo pero no puede hacerlo produce frustración y desperdicia recursos. Por eso el análisis de necesidades debe empezar preguntando si el desempeño falla por no saber, por no poder o por no querer, porque cada causa tiene una solución distinta.",
     "practica": "Cuando la formación sí corresponde, el diseño se organiza desde el desempeño esperado en el puesto y no desde el contenido. El plan de transferencia se acuerda antes con la jefatura: qué podrá aplicar el participante, cuándo, con qué apoyo y cómo se verificará. Sin ese acuerdo, la capacitación termina el viernes y el lunes todo vuelve a ser igual.",
-    "limites": "La evidencia sobre transferencia muestra que los factores organizacionales pesan tanto como el diseño instruccional, y que muchos programas exitosos en aprendizaje fracasan en transferencia por razones ajenas a la formación. Reconocerlo evita responsabilizar al formador de lo que decide la organización.",
+    "limites": "La evidencia sobre transferencia muestra que los factores organizacionales pesan tanto como el diseño instruccional, y que muchos programas exitosos en aprendizaje fracasan en transferencia por razones ajenas a la formación. Reconocerlo evita responsabilizar al formador de lo que decide la organización. La consecuencia práctica es de encuadre: conviene acordar antes de capacitar qué condiciones de aplicación garantiza la organización, y dejarlo por escrito junto con los objetivos del programa.",
     "errores": [
       "Aceptar una solicitud de capacitación sin verificar si el problema es de formación.",
       "Diseñar sin acordar con la jefatura las condiciones que permitirán aplicar lo aprendido."
@@ -299,7 +299,7 @@
         "capacidad del oficio anterior que sigue siendo válida en el nuevo contexto"
       ]
     ],
-    "desarrollo": "La reconversión falla habitualmente por dos razones opuestas: subestimar la brecha —cursos breves que prometen cambiar de rubro— o ignorar lo transferible, obligando a empezar de cero a personas con veinte años de experiencia laboral. Un diagnóstico serio identifica ambas cosas: qué se conserva y qué falta realmente, con el nivel de detalle de un perfil de competencias.",
+    "desarrollo": "La reconversión falla habitualmente por dos razones opuestas: subestimar la brecha —cursos breves que prometen cambiar de rubro— o ignorar lo transferible, obligando a empezar de cero a personas con veinte años de experiencia laboral. Un diagnóstico serio identifica ambas cosas: qué se conserva y qué falta realmente, con el nivel de detalle de un perfil de competencias. A eso se agrega una dimensión que los programas técnicos suelen omitir: cambiar de oficio afecta la identidad profesional, y una persona que fue reconocida como experta durante décadas vuelve a la posición de quien no sabe, lo que exige un acompañamiento distinto del puramente instruccional.",
     "practica": "La ruta se prioriza por dos criterios: qué competencias son condición para todo lo demás y cuáles permiten un primer resultado laboral temprano. Ese resultado temprano importa: sostiene la motivación y a veces también el ingreso durante el proceso. La estimación de tiempo debe ser honesta, porque una promesa incumplida de empleabilidad tiene costos personales altos.",
     "limites": "La evidencia sobre programas de reconversión es heterogénea y sus resultados dependen fuertemente del mercado laboral local y de la duración del programa. Los programas breves muestran efectos limitados en cambios de rubro profundos. Prometer transiciones rápidas hacia sectores con alta demanda declarada, sin verificar la demanda local, es un riesgo real para el participante.",
     "errores": [
@@ -358,8 +358,8 @@
         "riesgo de dividir un contenido complejo hasta perder la comprensión del conjunto"
       ]
     ],
-    "desarrollo": "Los formatos breves aprovechan bien dos mecanismos con evidencia: el espaciado y la práctica de recuperación. Funcionan para procedimientos acotados, recordatorios, actualizaciones normativas y refuerzo de contenidos ya enseñados. No funcionan para construir comprensión conceptual compleja, que requiere elaboración sostenida y no cabe en unidades de cinco minutos sin perder precisamente lo que la hace comprensión.",
-    "practica": "El diseño exige acotar el objetivo hasta que sea verificable en la unidad, planificar el espaciado entre unidades y verificar aprendizaje en vez de registrar visualizaciones. La tentación habitual es medir consumo —cuántos abrieron la cápsula— que es un indicador de actividad y no de aprendizaje.",
+    "desarrollo": "Los formatos breves aprovechan bien dos mecanismos con evidencia: el espaciado y la práctica de recuperación. Funcionan para procedimientos acotados, recordatorios, actualizaciones normativas y refuerzo de contenidos ya enseñados. No funcionan para construir comprensión conceptual compleja, que requiere elaboración sostenida y no cabe en unidades de cinco minutos sin perder precisamente lo que la hace comprensión. La pregunta que ordena la decisión es si el contenido admite fragmentarse sin dejar de tener sentido: una lista de pasos sí, una discusión sobre cómo evaluar no.",
+    "practica": "El diseño exige acotar el objetivo hasta que sea verificable en la unidad, planificar el espaciado entre unidades y verificar aprendizaje en vez de registrar visualizaciones. La tentación habitual es medir consumo —cuántos abrieron la cápsula— que es un indicador de actividad y no de aprendizaje. Conviene además fijar el momento de entrega según el trabajo real: una cápsula que llega cuando la persona está por usar el procedimiento rinde mucho más que la misma cápsula enviada en un plan mensual.",
     "limites": "La evidencia específica sobre microaprendizaje es limitada y de calidad variable; lo respaldado son sus mecanismos subyacentes, no el formato como tal. Y su principal riesgo es la fragmentación: contenidos complejos troceados en píldoras producen la ilusión de haber cubierto el tema sin que nadie haya construido el conjunto.",
     "errores": [
       "Trocear contenido conceptual complejo en cápsulas y suponer que se reconstruye solo.",
@@ -406,15 +406,15 @@
       ],
       [
         "Emparejamiento",
-        "proceso de asignar mentor y participante según criterios explícitos"
+        "proceso de asignar mentor y participante según criterios explícitos de área, experiencia y disponibilidad, en vez de por cercanía o afinidad casual"
       ],
       [
         "Cierre",
         "término planificado de la relación, con evaluación de lo logrado"
       ]
     ],
-    "desarrollo": "La mentoría muestra efectos positivos en desarrollo profesional, retención y satisfacción, con magnitudes moderadas y muy dependientes de la estructura. Los programas que funcionan tienen objetivos acordados, frecuencia definida, preparación de los mentores y un cierre planificado. Los que fracasan asignan parejas y esperan que la relación se organice sola, con lo cual la mitad se disuelve en dos meses.",
-    "practica": "El acuerdo inicial es el instrumento clave: define qué se espera lograr, cada cuánto se reúnen, cuánto dura el programa y qué es confidencial. La preparación del mentor importa tanto como su experiencia: escuchar, preguntar y dar retroalimentación útil no son habilidades automáticas de quien sabe mucho de su oficio.",
+    "desarrollo": "La mentoría muestra efectos positivos en desarrollo profesional, retención y satisfacción, con magnitudes moderadas y muy dependientes de la estructura. Los programas que funcionan tienen objetivos acordados, frecuencia definida, preparación de los mentores y un cierre planificado. Los que fracasan asignan parejas y esperan que la relación se organice sola, con lo cual la mitad se disuelve en dos meses. El cierre planificado merece atención propia: sin una fecha de término acordada, la relación se apaga sin evaluación y nadie sabe si sirvió.",
+    "practica": "El acuerdo inicial es el instrumento clave: define qué se espera lograr, cada cuánto se reúnen, cuánto dura el programa y qué es confidencial. La preparación del mentor importa tanto como su experiencia: escuchar, preguntar y dar retroalimentación útil no son habilidades automáticas de quien sabe mucho de su oficio. Conviene también acordar qué queda fuera del alcance —evaluación de desempeño, decisiones de carrera— para que la persona acompañada pueda hablar sin calcular las consecuencias.",
     "limites": "Los efectos reportados provienen sobre todo de estudios correlacionales con autoselección: quienes participan en mentoría suelen ser ya más motivados. Además, una mala relación de mentoría puede ser perjudicial, especialmente si hay asimetría de poder jerárquico entre mentor y participante dentro de la misma organización.",
     "errores": [
       "Asignar parejas sin acuerdo de objetivos ni frecuencia definida.",
@@ -468,7 +468,7 @@
         "frontera entre acompañar el desempeño y abordar asuntos que exigen otro profesional"
       ]
     ],
-    "desarrollo": "El coaching instruccional aplicado a docentes muestra efectos prometedores cuando combina observación, retroalimentación específica y práctica, con acompañamiento sostenido en el tiempo. La diferencia con la mentoría es de foco: el mentor comparte experiencia, el coach trabaja sobre el desempeño observado de la otra persona. Confundirlos produce conversaciones donde el acompañante habla de sí mismo.",
+    "desarrollo": "El coaching instruccional aplicado a docentes muestra efectos prometedores cuando combina observación, retroalimentación específica y práctica, con acompañamiento sostenido en el tiempo. La diferencia con la mentoría es de foco: el mentor comparte experiencia, el coach trabaja sobre el desempeño observado de la otra persona. Confundirlos produce conversaciones donde el acompañante habla de sí mismo. Hay una condición que decide el resultado y suele omitirse: el ciclo debe cerrarse con una nueva observación, porque sin ella la conversación queda como consejo y no como aprendizaje verificado.",
     "practica": "Un protocolo funcional tiene estructura: acordar el foco, observar, describir lo observado sin juicio, preguntar, definir un cambio concreto y verificar en la siguiente sesión. Ese ciclo corto y repetido produce más cambio que las conversaciones extensas y ocasionales. Y exige explicitar límites: el coaching no aborda salud mental ni conflictos laborales que requieren otra instancia.",
     "limites": "El término se usa para prácticas muy distintas y buena parte de la oferta comercial carece de base empírica. La evidencia más sólida proviene del coaching instruccional escolar con protocolos definidos; los resultados no se extienden automáticamente a formatos genéricos. Además, los efectos disminuyen al escalar los programas, lo que sugiere alta dependencia de la calidad del coach.",
     "errores": [
@@ -508,7 +508,7 @@
     "conceptos": [
       [
         "Ciclo experiencial",
-        "secuencia de experiencia concreta, reflexión, conceptualización y experimentación activa"
+        "secuencia de experiencia concreta, reflexión sobre lo ocurrido, conceptualización y nueva experimentación; sin la fase de reflexión el ciclo no se cierra y la experiencia no enseña"
       ],
       [
         "Reflexión estructurada",
@@ -571,7 +571,7 @@
       ],
       [
         "Nivel de conducta",
-        "cambio observable en el desempeño del puesto de trabajo"
+        "cambio observable en el desempeño del puesto de trabajo semanas después de la formación, distinto de la satisfacción declarada al terminar la sesión"
       ],
       [
         "Nivel de resultado",
@@ -633,9 +633,9 @@
         "posibilidad de repetir el programa con otros formadores y grupos sin perder calidad"
       ]
     ],
-    "desarrollo": "El proyecto integrador de esta parte tiene una exigencia particular: el programa debe poder ser ejecutado por otra persona. Eso obliga a explicitar lo que un formador experimentado hace de forma implícita —cómo abre la sesión, qué pregunta, qué ejemplos usa, cómo maneja la objeción típica— y convierte el diseño en un producto transferible y no en una actuación personal.",
-    "practica": "El paquete completo incluye diagnóstico documentado, objetivos de desempeño, secuencia de sesiones con guion, materiales del participante, plan de transferencia acordado y plan de evaluación. La prueba de calidad es entregarlo a otro formador y observar su ejecución: lo que él no logre reproducir es lo que faltaba explicitar.",
-    "limites": "Un programa bien diseñado no garantiza transferencia: las condiciones organizacionales pesan tanto como el diseño. Declararlo por escrito, junto con los supuestos del diseño, protege al programa de ser evaluado por resultados que dependen de decisiones ajenas al formador.",
+    "desarrollo": "El proyecto integrador de esta parte tiene una exigencia particular: el programa debe poder ser ejecutado por otra persona. Eso obliga a explicitar lo que un formador experimentado hace de forma implícita —cómo abre la sesión, qué pregunta, qué ejemplos usa, cómo maneja la objeción típica— y convierte el diseño en un producto transferible y no en una actuación personal. Esa exigencia tiene un beneficio inesperado para quien lo escribe: al describir las propias decisiones aparecen las que se tomaban por costumbre y no por razón.",
+    "practica": "El paquete completo incluye diagnóstico documentado, objetivos de desempeño, secuencia de sesiones con guion, materiales del participante, plan de transferencia acordado y plan de evaluación. La prueba de calidad es entregarlo a otro formador y observar su ejecución: lo que él no logre reproducir es lo que faltaba explicitar. Conviene incluir además el listado de objeciones frecuentes con la respuesta que ha funcionado, porque es lo primero que necesita quien dicta el programa por primera vez.",
+    "limites": "Un programa bien diseñado no garantiza transferencia: las condiciones organizacionales pesan tanto como el diseño. Declararlo por escrito, junto con los supuestos del diseño, protege al programa de ser evaluado por resultados que dependen de decisiones ajenas al formador. Conviene además declarar la fecha de caducidad de los contenidos normativos o técnicos, para que quien lo ejecute dentro de dos años sepa qué debe verificar antes de usarlo.",
     "errores": [
       "Diseñar un programa que solo su autor puede ejecutar.",
       "Comprometer resultados de negocio sin haber acordado las condiciones de transferencia."
@@ -659,7 +659,7 @@
         "evidencia sobre qué condiciones del diseño y del entorno predicen transferencia."
       ]
     ],
-    "inclusion": "Un programa transferible debe declarar sus requisitos de accesibilidad: materiales legibles, alternativas a la exposición oral, subtítulos y consideración de participantes con lectura o conectividad limitadas.",
+    "inclusion": "Un programa transferible debe declarar sus requisitos de accesibilidad: materiales legibles, alternativas a la exposición oral, subtítulos y consideración de participantes con lectura o conectividad limitadas. En capacitación laboral esto importa especialmente, porque el nivel de escolaridad del grupo suele ser muy heterogéneo y nadie lo declara al inscribirse.",
     "reto": "Entrega tu programa a otro formador y observa una sesión ejecutada por él. Documenta qué no pudo reproducir y corrige el guion.",
     "conexion": "Cierra la parte 07 integrando sus once clases previas. Es el puente directo hacia la migración de este mismo programa a modalidad de capacitación."
   }

@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los formatos breves aprovechan bien dos mecanismos con evidencia: el espaciado y la práctica de recuperación. Funcionan para procedimientos acotados, recordatorios, actualizaciones normativas y refuerzo de contenidos ya enseñados. No funcionan para construir comprensión conceptual compleja, que requiere elaboración sostenida y no cabe en unidades de cinco minutos sin perder precisamente lo que la hace comprensión.
+Los formatos breves aprovechan bien dos mecanismos con evidencia: el espaciado y la práctica de recuperación. Funcionan para procedimientos acotados, recordatorios, actualizaciones normativas y refuerzo de contenidos ya enseñados. No funcionan para construir comprensión conceptual compleja, que requiere elaboración sostenida y no cabe en unidades de cinco minutos sin perder precisamente lo que la hace comprensión. La pregunta que ordena la decisión es si el contenido admite fragmentarse sin dejar de tener sentido: una lista de pasos sí, una discusión sobre cómo evaluar no.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño exige acotar el objetivo hasta que sea verificable en la unidad, planificar el espaciado entre unidades y verificar aprendizaje en vez de registrar visualizaciones. La tentación habitual es medir consumo —cuántos abrieron la cápsula— que es un indicador de actividad y no de aprendizaje.
+El diseño exige acotar el objetivo hasta que sea verificable en la unidad, planificar el espaciado entre unidades y verificar aprendizaje en vez de registrar visualizaciones. La tentación habitual es medir consumo —cuántos abrieron la cápsula— que es un indicador de actividad y no de aprendizaje. Conviene además fijar el momento de entrega según el trabajo real: una cápsula que llega cuando la persona está por usar el procedimiento rinde mucho más que la misma cápsula enviada en un plan mensual.
 
 ### 5. Qué sostiene la evidencia y qué no
 

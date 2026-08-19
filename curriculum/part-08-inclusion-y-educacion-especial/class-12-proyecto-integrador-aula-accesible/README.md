@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El proyecto integrador exige que todos los instrumentos de la parte operen juntos. La prueba de calidad es directa: tomar al estudiante con mayores necesidades de apoyo del curso y mostrar, con evidencia, que accede al mismo objetivo de aprendizaje que sus compañeros. Si no se puede mostrar, el rediseño todavía no cumple, aunque haya mejorado en muchos aspectos.
+El proyecto integrador exige que todos los instrumentos de la parte operen juntos. La prueba de calidad es directa: tomar al estudiante con mayores necesidades de apoyo del curso y mostrar, con evidencia, que accede al mismo objetivo de aprendizaje que sus compañeros. Si no se puede mostrar, el rediseño todavía no cumple, aunque haya mejorado en muchos aspectos. Conviene aplicar la prueba también en sentido inverso: verificar que el rediseño no haya bajado la exigencia para el resto del curso, que es el efecto secundario más frecuente de una adecuación mal planteada.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El trabajo tiene cuatro capas: mapa de barreras, rediseño universal, apoyos individuales conectados con la planificación y registro de participación. Ese último registro es el que revela lo que las percepciones ocultan: quién habla, quién trabaja con otros, quién demuestra lo aprendido y quién pasa la semana sin producir evidencia alguna.
+El trabajo tiene cuatro capas: mapa de barreras, rediseño universal, apoyos individuales conectados con la planificación y registro de participación. Ese último registro es el que revela lo que las percepciones ocultan: quién habla, quién trabaja con otros, quién demuestra lo aprendido y quién pasa la semana sin producir evidencia alguna. Basta con una plantilla simple y dos semanas de observación para que el patrón aparezca con claridad incómoda.
 
 ### 5. Qué sostiene la evidencia y qué no
 

@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Aula invertida** | modelo que traslada la primera exposición al contenido fuera de la sesión y usa el tiempo presencial para práctica |
 | **Material previo** | recurso breve y estructurado que el estudiante trabaja antes de la clase |
-| **Verificación de preparación** | mecanismo que comprueba y hace consecuente el trabajo previo |
+| **Verificación de preparación** | mecanismo breve al inicio de la clase que comprueba el trabajo previo y lo hace consecuente, sin el cual el modelo se desarma en la primera semana |
 | **Uso del tiempo presencial** | actividades que aprovechan la presencia del docente y de los pares |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Aula invertida**
 mismo que **Material previo** —recurso breve y estructurado que el estudiante trabaja antes de la clase—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Verificación de preparación** y
 **Uso del tiempo presencial** describen aspectos distintos de la misma situación: el primero
-mecanismo que comprueba y hace consecuente el trabajo previo, mientras el segundo actividades que aprovechan la presencia del docente y de los pares.
+mecanismo breve al inicio de la clase que comprueba el trabajo previo y lo hace consecuente, sin el cual el modelo se desarma en la primera semana, mientras el segundo actividades que aprovechan la presencia del docente y de los pares.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -125,7 +125,7 @@ El diseño requiere material breve —no una clase grabada de cincuenta minutos�
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Los metaanálisis muestran efectos positivos pequeños a moderados, con alta heterogeneidad y dependientes del diseño. El modelo traslada carga de trabajo al estudiante y penaliza a quienes tienen menos tiempo o peor conectividad, lo que puede aumentar desigualdades si no se compensa.
+Los metaanálisis muestran efectos positivos pequeños a moderados, con alta heterogeneidad y dependientes del diseño. El modelo traslada carga de trabajo al estudiante y penaliza a quienes tienen menos tiempo o peor conectividad, lo que puede aumentar desigualdades si no se compensa. Conviene además revisar de dónde viene el efecto reportado: en varios estudios la clase invertida se compara con una clase expositiva sin actividad, de modo que lo que mejora podría ser el trabajo activo en aula y no la inversión del orden.
 
 > **Cómo leer el estado de evidencia `EN-DEBATE`.** Hay desacuerdo activo y publicado entre especialistas competentes. La clase presenta las posiciones y sus argumentos; tu tarea no es escoger un bando, sino saber qué evidencia te haría cambiar de posición.
 
