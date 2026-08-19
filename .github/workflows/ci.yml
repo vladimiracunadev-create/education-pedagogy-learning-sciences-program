@@ -153,20 +153,23 @@ jobs:
       # que quedó dentro y se comprueba que las lecciones no estén vacías.
       - name: Verificar el contenido del paquete
         run: |
-          lecciones=$(find capacitacion/contenido -name 'clase-*.html' | wc -l)
-          paginas=$(find capacitacion/paginas -name 'clase-*.html' | wc -l)
-          echo "Lecciones: $lecciones · Páginas: $paginas"
-          test "$lecciones" -eq 216
-          test "$paginas" -eq 216
           test -f capacitacion/manifiesto.json
           test -f capacitacion/programa.csv
+          # Las cifras se derivan de catalog.json: el paquete debe contener el
+          # currículo completo, sea cual sea su tamaño en esta versión.
           python - <<'PY'
           import json, pathlib
+          catalogo = json.loads(pathlib.Path("catalog.json").read_text(encoding="utf-8"))
+          clases, partes = catalogo["clases"], catalogo["partes"]
+          contenido = list(pathlib.Path("capacitacion/contenido").glob("clase-*.html"))
+          paginas = list(pathlib.Path("capacitacion/paginas").glob("clase-*.html"))
+          print(f"Lecciones: {len(contenido)} · Páginas: {len(paginas)} · Esperado: {clases}")
+          assert len(contenido) == clases, len(contenido)
+          assert len(paginas) == clases, len(paginas)
           manifiesto = json.loads(pathlib.Path("capacitacion/manifiesto.json").read_text(encoding="utf-8"))
-          assert len(manifiesto["modulos"]) == 18, manifiesto["modulos"]
-          assert sum(len(m["lecciones"]) for m in manifiesto["modulos"]) == 216
-          vacias = [p.name for p in pathlib.Path("capacitacion/contenido").glob("*.html")
-                    if len(p.read_text(encoding="utf-8")) < 2000]
+          assert len(manifiesto["modulos"]) == partes, manifiesto["modulos"]
+          assert sum(len(m["lecciones"]) for m in manifiesto["modulos"]) == clases
+          vacias = [p.name for p in contenido if len(p.read_text(encoding="utf-8")) < 2000]
           assert not vacias, f"lecciones con contenido insuficiente: {vacias[:5]}"
-          print("OK: 18 modulos, 216 lecciones, ninguna vacia.")
+          print(f"OK: {partes} modulos, {clases} lecciones, ninguna vacia.")
           PY
