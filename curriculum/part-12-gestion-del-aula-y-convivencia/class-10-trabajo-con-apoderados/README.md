@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Preparación de la entrevista** | definición previa del objetivo, la evidencia y el acuerdo buscado |
 | **Comunicación de información difícil** | entrega de información sensible con evidencia, sin juicio y con vía de salida |
-| **Acuerdo verificable** | compromiso concreto con responsable, plazo y forma de comprobación |
+| **Acuerdo verificable** | compromiso concreto que declara quién hace qué, en qué plazo y cómo se comprobará, en vez de una intención general de mejorar |
 | **Registro** | documentación de lo conversado y acordado, firmada o confirmada por ambas partes |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Las entrevistas con apoderados fallan por falta de preparación: se convocan sin objetivo claro, se entrega información sin evidencia y se termina sin acuerdo. Una entrevista profesional define antes qué se busca lograr, reúne evidencia concreta de lo que se afirmará, anticipa la reacción probable y termina con un acuerdo verificable y registrado.
+Las entrevistas con apoderados fallan por falta de preparación: se convocan sin objetivo claro, se entrega información sin evidencia y se termina sin acuerdo. Una entrevista profesional define antes qué se busca lograr, reúne evidencia concreta de lo que se afirmará, anticipa la reacción probable y termina con un acuerdo verificable y registrado. Hay un detalle de encuadre que cambia el tono desde el primer minuto: empezar por algo que el estudiante hace bien no es una cortesía, es información que la familia necesita para creer que quien habla conoce a su hijo.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Preparación de 
 mismo que **Comunicación de información difícil** —entrega de información sensible con evidencia, sin juicio y con vía de salida—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Acuerdo verificable** y
 **Registro** describen aspectos distintos de la misma situación: el primero
-compromiso concreto con responsable, plazo y forma de comprobación, mientras el segundo documentación de lo conversado y acordado, firmada o confirmada por ambas partes.
+compromiso concreto que declara quién hace qué, en qué plazo y cómo se comprobará, en vez de una intención general de mejorar, mientras el segundo documentación de lo conversado y acordado, firmada o confirmada por ambas partes.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La comunicación de información difícil se sostiene en evidencia y no en interpretaciones: mostrar el trabajo del estudiante, los registros de asistencia o las observaciones fechadas evita la discusión sobre percepciones. Y el acuerdo debe ser realista para la familia: comprometer lo imposible garantiza el incumplimiento y deteriora la relación para las próximas conversaciones.
+La comunicación de información difícil se sostiene en evidencia y no en interpretaciones: mostrar el trabajo del estudiante, los registros de asistencia o las observaciones fechadas evita la discusión sobre percepciones. Y el acuerdo debe ser realista para la familia: comprometer lo imposible garantiza el incumplimiento y deteriora la relación para las próximas conversaciones. Conviene preguntar qué es posible en su casa antes de proponer, porque una familia que trabaja en turnos no puede supervisar tareas a las siete de la tarde por mucho que lo firme.
 
 ### 5. Qué sostiene la evidencia y qué no
 

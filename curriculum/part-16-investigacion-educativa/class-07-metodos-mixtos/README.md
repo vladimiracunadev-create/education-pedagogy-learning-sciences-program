@@ -40,9 +40,9 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Diseño mixto** | investigación que combina componentes cuantitativos y cualitativos con integración explícita |
-| **Secuencia** | orden de los componentes: exploratorio, explicativo o convergente |
+| **Secuencia** | orden en que se ejecutan los componentes —exploratorio, explicativo o convergente— y que determina cómo uno alimenta al otro |
 | **Integración** | punto y forma en que los resultados de ambos componentes se combinan para producir una conclusión |
-| **Yuxtaposición** | error de presentar dos estudios paralelos sin integración real |
+| **Yuxtaposición** | error de presentar dos estudios paralelos sin punto de integración, de modo que ninguna conclusión depende de haberlos combinado |
 
 ## 🧠 Modelo mental
 
@@ -88,16 +88,16 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los métodos mixtos aportan cuando la pregunta tiene dos partes que ningún método responde solo: cuánto ocurre y por qué ocurre, o qué efecto tiene y cómo lo experimentan quienes lo reciben. El error más frecuente es la yuxtaposición: dos estudios pegados sin integración, donde el componente cualitativo funciona como ilustración anecdótica del cuantitativo.
+Los métodos mixtos aportan cuando la pregunta tiene dos partes que ningún método responde solo: cuánto ocurre y por qué ocurre, o qué efecto tiene y cómo lo experimentan quienes lo reciben. El error más frecuente es la yuxtaposición: dos estudios pegados sin integración, donde el componente cualitativo funciona como ilustración anecdótica del cuantitativo. La integración real deja huella en algún punto concreto del trabajo: en el muestreo, cuando los casos cualitativos se eligen a partir de los resultados numéricos; o en el análisis, cuando ambos conjuntos de datos se confrontan y la discrepancia se investiga en vez de suavizarse.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Diseño mixto** no es lo
-mismo que **Secuencia** —orden de los componentes: exploratorio, explicativo o convergente—, y tratarlos como sinónimos hace
+mismo que **Secuencia** —orden en que se ejecutan los componentes —exploratorio, explicativo o convergente— y que determina cómo uno alimenta al otro—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Integración** y
 **Yuxtaposición** describen aspectos distintos de la misma situación: el primero
-punto y forma en que los resultados de ambos componentes se combinan para producir una conclusión, mientras el segundo error de presentar dos estudios paralelos sin integración real.
+punto y forma en que los resultados de ambos componentes se combinan para producir una conclusión, mientras el segundo error de presentar dos estudios paralelos sin punto de integración, de modo que ninguna conclusión depende de haberlos combinado.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Diseño mixto** | Investigación que combina componentes cuantitativos y cualitativos con integración explícita | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Secuencia** | Orden de los componentes: exploratorio, explicativo o convergente | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Secuencia** | Orden en que se ejecutan los componentes —exploratorio, explicativo o convergente— y que determina cómo uno alimenta al otro | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

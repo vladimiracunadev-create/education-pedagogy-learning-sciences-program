@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Revisión sistemática** | síntesis con protocolo previo, búsqueda exhaustiva y criterios explícitos de inclusión |
 | **Metaanálisis** | síntesis cuantitativa que combina tamaños de efecto de estudios comparables |
 | **Heterogeneidad** | variación entre estudios que no se explica por el azar; puede invalidar el promedio |
-| **Sesgo de publicación** | sobrerrepresentación de resultados positivos en la literatura publicada |
+| **Sesgo de publicación** | sobrerrepresentación de resultados positivos en la literatura publicada, porque los estudios sin efecto tienen menos probabilidad de llegar a una revista |
 
 ## 🧠 Modelo mental
 
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Un metaanálisis mal hecho es más peligroso que ningún metaanálisis, porque presenta con apariencia de precisión el promedio de estudios que no debían promediarse. Las condiciones son exigentes: protocolo previo, búsqueda exhaustiva incluida la literatura no publicada, evaluación de calidad de cada estudio, y análisis explícito de heterogeneidad y de sesgo de publicación.
+Un metaanálisis mal hecho es más peligroso que ningún metaanálisis, porque presenta con apariencia de precisión el promedio de estudios que no debían promediarse. Las condiciones son exigentes: protocolo previo, búsqueda exhaustiva incluida la literatura no publicada, evaluación de calidad de cada estudio, y análisis explícito de heterogeneidad y de sesgo de publicación. Hay una pregunta que conviene hacerse antes de calcular nada: si dos estudios llamaron «aprendizaje cooperativo» a prácticas distintas, ¿qué significa el promedio de sus efectos?
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Revisión sistem
 mismo que **Metaanálisis** —síntesis cuantitativa que combina tamaños de efecto de estudios comparables—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Heterogeneidad** y
 **Sesgo de publicación** describen aspectos distintos de la misma situación: el primero
-variación entre estudios que no se explica por el azar;, mientras el segundo sobrerrepresentación de resultados positivos en la literatura publicada.
+variación entre estudios que no se explica por el azar;, mientras el segundo sobrerrepresentación de resultados positivos en la literatura publicada, porque los estudios sin efecto tienen menos probabilidad de llegar a una revista.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -125,7 +125,7 @@ El protocolo se registra antes de empezar, con criterios de inclusión, variable
 
 ### 5. Qué sostiene la evidencia y qué no
 
-En educación la heterogeneidad suele ser alta porque las intervenciones, los contextos y las medidas difieren. Además, las síntesis que promedian estudios de calidad muy dispar producen estimaciones infladas. Las síntesis más citadas del campo han sido criticadas precisamente por combinar lo incombinable.
+En educación la heterogeneidad suele ser alta porque las intervenciones, los contextos y las medidas difieren. Además, las síntesis que promedian estudios de calidad muy dispar producen estimaciones infladas. Las síntesis más citadas del campo han sido criticadas precisamente por combinar lo incombinable. Conviene por eso leer con cuidado los rankings de tamaños de efecto que circulan entre equipos directivos: ordenan prácticas muy distintas en una misma escala como si fueran comparables, y esa comparación rara vez se sostiene.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 

@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Atención dividida** | alternancia entre tareas con costo de rendimiento; no es procesamiento simultáneo |
 | **Uso instruccional** | empleo del dispositivo para una tarea de aprendizaje definida y acotada |
-| **Consistencia institucional** | aplicación uniforme de la política en todo el establecimiento |
+| **Consistencia institucional** | aplicación uniforme de la política por todos los docentes del establecimiento, sin la cual la norma se negocia clase a clase |
 | **Comunicación anticipada** | información a estudiantes y familias antes de aplicar la regla |
 
 ## 🧠 Modelo mental
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Atención dividi
 mismo que **Uso instruccional** —empleo del dispositivo para una tarea de aprendizaje definida y acotada—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Consistencia institucional** y
 **Comunicación anticipada** describen aspectos distintos de la misma situación: el primero
-aplicación uniforme de la política en todo el establecimiento, mientras el segundo información a estudiantes y familias antes de aplicar la regla.
+aplicación uniforme de la política por todos los docentes del establecimiento, sin la cual la norma se negocia clase a clase, mientras el segundo información a estudiantes y familias antes de aplicar la regla.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-Una política aplicable define momentos y usos: guardado por defecto, uso autorizado y acotado para tareas específicas, y procedimiento claro ante el incumplimiento. La condición decisiva es la consistencia institucional: si cada docente aplica una regla distinta, la política se negocia clase a clase y desgasta la relación.
+Una política aplicable define momentos y usos: guardado por defecto, uso autorizado y acotado para tareas específicas, y procedimiento claro ante el incumplimiento. La condición decisiva es la consistencia institucional: si cada docente aplica una regla distinta, la política se negocia clase a clase y desgasta la relación. Conviene también explicar la razón —que la sola presencia del dispositivo consume atención aunque no se use— porque una norma que se entiende se sostiene sin vigilancia permanente, y una que solo se impone exige un adulto mirando todo el tiempo.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La evidencia sobre prohibiciones a nivel de establecimiento es mixta y los estudios disponibles tienen limitaciones de diseño. Además, hay estudiantes que requieren el dispositivo como tecnología de apoyo, y cualquier política debe contemplarlo explícitamente para no producir exclusión.
+La evidencia sobre prohibiciones a nivel de establecimiento es mixta y los estudios disponibles tienen limitaciones de diseño. Además, hay estudiantes que requieren el dispositivo como tecnología de apoyo, y cualquier política debe contemplarlo explícitamente para no producir exclusión. Un tercer límite es de alcance: la política regula el uso dentro de la jornada y no modifica los hábitos que se forman fuera de ella, que es donde ocurre la mayor parte del tiempo de pantalla.
 
 > **Cómo leer el estado de evidencia `EN-DEBATE`.** Hay desacuerdo activo y publicado entre especialistas competentes. La clase presenta las posiciones y sus argumentos; tu tarea no es escoger un bando, sino saber qué evidencia te haría cambiar de posición.
 

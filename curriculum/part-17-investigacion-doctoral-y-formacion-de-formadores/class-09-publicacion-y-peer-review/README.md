@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Revisión por pares** | evaluación del manuscrito por especialistas del campo antes de su publicación |
 | **Ajuste a la revista** | correspondencia entre el trabajo y el alcance, la audiencia y el formato de la publicación |
 | **Carta de respuesta** | documento que responde punto por punto a cada observación de los revisores |
-| **Autoría** | reconocimiento de quienes contribuyeron sustantivamente, con criterios explícitos |
+| **Autoría** | reconocimiento de quienes hicieron una contribución sustantiva al trabajo, con criterios de inclusión y de orden acordados por escrito al inicio |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Revisión por pa
 mismo que **Ajuste a la revista** —correspondencia entre el trabajo y el alcance, la audiencia y el formato de la publicación—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Carta de respuesta** y
 **Autoría** describen aspectos distintos de la misma situación: el primero
-documento que responde punto por punto a cada observación de los revisores, mientras el segundo reconocimiento de quienes contribuyeron sustantivamente, con criterios explícitos.
+documento que responde punto por punto a cada observación de los revisores, mientras el segundo reconocimiento de quienes hicieron una contribución sustantiva al trabajo, con criterios de inclusión y de orden acordados por escrito al inicio.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La selección de revista debe hacerse antes de escribir la versión final, porque determina formato, extensión y audiencia. Y la ética de la autoría exige criterios explícitos: quién contribuyó sustantivamente, en qué orden y por qué. Los conflictos de autoría son frecuentes y casi siempre se originan en acuerdos no explicitados al inicio.
+La selección de revista debe hacerse antes de escribir la versión final, porque determina formato, extensión y audiencia. Y la ética de la autoría exige criterios explícitos: quién contribuyó sustantivamente, en qué orden y por qué. Los conflictos de autoría son frecuentes y casi siempre se originan en acuerdos no explicitados al inicio. Ante un rechazo, el procedimiento profesional es dejar pasar unos días, separar las objeciones de fondo de las de forma, y responder por escrito a cada una aunque la revista no lo exija: ese documento mejora el manuscrito para la revista siguiente.
 
 ### 5. Qué sostiene la evidencia y qué no
 

@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Las normas publicadas al inicio y nunca practicadas se incumplen sistemáticamente, y su incumplimiento se atribuye a los estudiantes. La alternativa es tratarlas como contenido: pocas normas, formuladas en positivo, explicadas en su razón, modeladas por el docente, practicadas y corregidas con paciencia durante las primeras semanas. El tiempo invertido ahí se recupera con creces durante el año.
+Las normas publicadas al inicio y nunca practicadas se incumplen sistemáticamente, y su incumplimiento se atribuye a los estudiantes. La alternativa es tratarlas como contenido: pocas normas, formuladas en positivo, explicadas en su razón, modeladas por el docente, practicadas y corregidas con paciencia durante las primeras semanas. El tiempo invertido ahí se recupera con creces durante el año. Conviene distinguir norma de rutina: la norma dice qué se espera —«escuchamos sin interrumpir»— y la rutina dice exactamente cómo se hace algo —cómo se entra, cómo se reparte el material, qué se hace al terminar—. Las rutinas son las que devuelven minutos de clase, y son también las que casi nadie enseña explícitamente.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

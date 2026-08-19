@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-En una situación tensa, la elección de palabras decide el resultado. Describir la conducta —«estás hablando mientras explico»— permite corregir; calificar a la persona —«eres un desordenado»— obliga al estudiante a defenderse ante sus pares y garantiza la escalada. El tono y la postura pesan tanto como las palabras: acercarse, bajar la voz y no exigir contacto visual reducen la confrontación.
+En una situación tensa, la elección de palabras decide el resultado. Describir la conducta —«estás hablando mientras explico»— permite corregir; calificar a la persona —«eres un desordenado»— obliga al estudiante a defenderse ante sus pares y garantiza la escalada. El tono y la postura pesan tanto como las palabras: acercarse, bajar la voz y no exigir contacto visual reducen la confrontación. Ayuda tener preparadas de antemano tres o cuatro frases para los momentos que se repiten, porque en el momento del conflicto nadie improvisa bien: se dice lo primero que aparece, y lo primero que aparece suele ser lo que uno escuchó cuando era estudiante.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ Tener guiones preparados para las situaciones frecuentes evita improvisar bajo p
 
 ### 5. Qué sostiene la evidencia y qué no
 
-No hay evidencia experimental robusta sobre fórmulas verbales específicas: es conocimiento profesional acumulado y sensible al contexto cultural. Lo que sí está documentado es el efecto de la corrección pública sobre el estatus en la adolescencia, y de la consistencia sobre la legitimidad.
+No hay evidencia experimental robusta sobre fórmulas verbales específicas: es conocimiento profesional acumulado y sensible al contexto cultural. Lo que sí está documentado es el efecto de la corrección pública sobre el estatus en la adolescencia, y de la consistencia sobre la legitimidad. Conviene además desconfiar de los guiones cerrados: una frase que se repite igual ante cualquier situación se percibe como técnica y pierde el efecto que tenía cuando comunicaba atención real a lo que estaba pasando.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 

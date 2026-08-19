@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Clima de aula** | calidad percibida de las relaciones, la seguridad y las condiciones de trabajo en la sala |
 | **Previsibilidad** | grado en que el estudiante puede anticipar lo que ocurrirá y qué se espera de él |
 | **Seguridad psicológica** | condición que permite equivocarse, preguntar y participar sin costo social |
-| **Exigencia con apoyo** | combinación de expectativas altas con andamiaje suficiente para alcanzarlas |
+| **Exigencia con apoyo** | combinación de expectativas altas con el andamiaje suficiente para alcanzarlas; sin apoyo la exigencia excluye, sin exigencia el apoyo condesciende |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Clima de aula** 
 mismo que **Previsibilidad** —grado en que el estudiante puede anticipar lo que ocurrirá y qué se espera de él—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Seguridad psicológica** y
 **Exigencia con apoyo** describen aspectos distintos de la misma situación: el primero
-condición que permite equivocarse, preguntar y participar sin costo social, mientras el segundo combinación de expectativas altas con andamiaje suficiente para alcanzarlas.
+condición que permite equivocarse, preguntar y participar sin costo social, mientras el segundo combinación de expectativas altas con el andamiaje suficiente para alcanzarlas;.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no

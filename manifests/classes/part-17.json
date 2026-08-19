@@ -64,11 +64,11 @@
     "conceptos": [
       [
         "Contribución teórica",
-        "aporte que modifica, refina o refuta una explicación existente"
+        "aporte que modifica, refina o refuta una explicación existente, y no solo agrega un caso más a lo ya establecido"
       ],
       [
         "Contribución metodológica",
-        "desarrollo o validación de un instrumento, procedimiento o diseño"
+        "desarrollo o validación de un instrumento, procedimiento o diseño que otros podrán usar en contextos distintos del original"
       ],
       [
         "Contribución empírica",
@@ -80,7 +80,7 @@
       ]
     ],
     "desarrollo": "En educación la contribución puede tomar varias formas, y cada una se juzga con criterios distintos. Una contribución empírica se valora por la calidad de la evidencia y por el vacío que llena; una teórica, por su capacidad explicativa y su alcance; una metodológica, por su validación; una de síntesis, por su rigor y por lo que reordena. Declarar el tipo evita que el trabajo se evalúe con criterios que no le corresponden.",
-    "practica": "La defensa de la contribución debe formularse en una frase verificable: «este estudio muestra que X ocurre bajo condiciones Y, lo que el modelo Z no predecía». Esa formulación obliga a precisar y expone de inmediato las contribuciones débiles, que son las que se enuncian en términos generales de aporte al conocimiento del área.",
+    "practica": "La defensa de la contribución debe formularse en una frase verificable: «este estudio muestra que X ocurre bajo condiciones Y, lo que el modelo Z no predecía». Esa formulación obliga a precisar y expone de inmediato las contribuciones débiles, que son las que se enuncian en términos generales de aporte al conocimiento del área. Conviene además ubicar la contribución en una conversación concreta: qué autores están discutiendo esto hoy, qué sostiene cada uno y en qué punto exacto de esa discusión entra el trabajo propio.",
     "limites": "La magnitud de la contribución no se decide por autoevaluación: la juzga la comunidad del campo a través de la revisión por pares y del uso posterior del trabajo. Y en investigación aplicada existe una tensión legítima entre contribución al conocimiento y utilidad práctica, que conviene explicitar en vez de resolver por omisión.",
     "errores": [
       "Declarar la contribución en términos generales sin especificar qué cambia en el conocimiento del campo.",
@@ -134,9 +134,9 @@
         "condición que debe cumplirse para que el diseño permita la inferencia causal declarada"
       ]
     ],
-    "desarrollo": "Los diseños avanzados no son técnicas más sofisticadas por sí mismas: son estrategias para identificar efectos cuando la aleatorización no es posible. Cada uno descansa en supuestos de identificación que deben declararse y, cuando es posible, someterse a prueba. Un diseño avanzado con supuestos incumplidos produce estimaciones precisas de algo que no es el efecto buscado.",
-    "practica": "La elección parte de la estructura del problema y de los datos existentes: si hay un punto de corte administrativo, si hay mediciones repetidas, si hay una fuente de variación exógena. En educación, los datos administrativos ofrecen oportunidades reales para estos diseños, y su uso exige tanto competencia técnica como resguardo de los datos.",
-    "limites": "Estos diseños exigen competencia estadística específica y, en muchos casos, colaboración con especialistas. Además, sus supuestos son fuertes y en ocasiones no verificables: la honestidad consiste en declararlos y en analizar la sensibilidad de los resultados a su incumplimiento.",
+    "desarrollo": "Los diseños avanzados no son técnicas más sofisticadas por sí mismas: son estrategias para identificar efectos cuando la aleatorización no es posible. Cada uno descansa en supuestos de identificación que deben declararse y, cuando es posible, someterse a prueba. Un diseño avanzado con supuestos incumplidos produce estimaciones precisas de algo que no es el efecto buscado. Conviene tener presente el orden real de trabajo: primero se examina qué generó la variación observada en el mundo, y solo después se elige la técnica que puede aprovecharla.",
+    "practica": "La elección parte de la estructura del problema y de los datos existentes: si hay un punto de corte administrativo, si hay mediciones repetidas, si hay una fuente de variación exógena. En educación, los datos administrativos ofrecen oportunidades reales para estos diseños, y su uso exige tanto competencia técnica como resguardo de los datos. Antes de comprometerse conviene escribir el supuesto de identificación en lenguaje corriente y mostrárselo a alguien del establecimiento: si esa persona conoce una razón por la que el supuesto no se cumple, el diseño se cae ahí y no seis meses después.",
+    "limites": "Estos diseños exigen competencia estadística específica y, en muchos casos, colaboración con especialistas. Además, sus supuestos son fuertes y en ocasiones no verificables: la honestidad consiste en declararlos y en analizar la sensibilidad de los resultados a su incumplimiento. Hay además un límite de alcance que se comunica mal: varios de estos diseños estiman el efecto para un subgrupo particular —quienes están cerca del punto de corte, por ejemplo— y ese resultado no autoriza a hablar del efecto para toda la población.",
     "errores": [
       "Aplicar un diseño avanzado sin declarar ni examinar sus supuestos de identificación.",
       "Presentar la sofisticación técnica como sustituto de la validez del constructo medido."
@@ -189,9 +189,9 @@
         "observaciones sucesivas del mismo sujeto, que permiten modelar trayectorias individuales"
       ]
     ],
-    "desarrollo": "En educación, los datos casi siempre están anidados: los estudiantes de un mismo curso se parecen más entre sí que estudiantes de cursos distintos, porque comparten docente, contexto y selección. Analizarlos como observaciones independientes subestima los errores estándar e infla la significación, produciendo hallazgos que no se replican. Es uno de los errores técnicos más frecuentes en tesis educativas.",
+    "desarrollo": "En educación, los datos casi siempre están anidados: los estudiantes de un mismo curso se parecen más entre sí que estudiantes de cursos distintos, porque comparten docente, contexto y selección. Analizarlos como observaciones independientes subestima los errores estándar e infla la significación, produciendo hallazgos que no se replican. Es uno de los errores técnicos más frecuentes en tesis educativas. La magnitud del problema se puede estimar antes de decidir el modelo: el coeficiente de correlación intraclase indica cuánta de la variación total ocurre entre cursos, y con eso se sabe si ignorar el anidamiento es un detalle o una falla mayor.",
     "practica": "El punto de partida es declarar la estructura y estimar cuánta varianza corresponde a cada nivel. A partir de ahí, el modelo multinivel permite estimar efectos a nivel de estudiante, de curso y de establecimiento, y examinar si un efecto varía entre unidades, que suele ser la pregunta más interesante. En datos longitudinales, el mismo enfoque modela trayectorias individuales.",
-    "limites": "Los modelos multinivel exigen un número suficiente de unidades de nivel superior: con pocos establecimientos, las estimaciones de ese nivel son inestables. Y su complejidad puede exceder la pregunta: cuando el interés es descriptivo, un modelo más simple bien interpretado comunica mejor.",
+    "limites": "Los modelos multinivel exigen un número suficiente de unidades de nivel superior: con pocos establecimientos, las estimaciones de ese nivel son inestables. Y su complejidad puede exceder la pregunta: cuando el interés es descriptivo, un modelo más simple bien interpretado comunica mejor. Conviene además cuidar la interpretación de los coeficientes de nivel superior, que se leen con frecuencia como efectos causales del establecimiento cuando en realidad recogen también las diferencias de composición entre las matrículas.",
     "errores": [
       "Analizar datos anidados con métodos que suponen independencia.",
       "Estimar efectos de nivel superior con muy pocas unidades en ese nivel."
@@ -241,12 +241,12 @@
       ],
       [
         "Sesgo de publicación",
-        "sobrerrepresentación de resultados positivos en la literatura publicada"
+        "sobrerrepresentación de resultados positivos en la literatura publicada, porque los estudios sin efecto tienen menos probabilidad de llegar a una revista"
       ]
     ],
-    "desarrollo": "Un metaanálisis mal hecho es más peligroso que ningún metaanálisis, porque presenta con apariencia de precisión el promedio de estudios que no debían promediarse. Las condiciones son exigentes: protocolo previo, búsqueda exhaustiva incluida la literatura no publicada, evaluación de calidad de cada estudio, y análisis explícito de heterogeneidad y de sesgo de publicación.",
+    "desarrollo": "Un metaanálisis mal hecho es más peligroso que ningún metaanálisis, porque presenta con apariencia de precisión el promedio de estudios que no debían promediarse. Las condiciones son exigentes: protocolo previo, búsqueda exhaustiva incluida la literatura no publicada, evaluación de calidad de cada estudio, y análisis explícito de heterogeneidad y de sesgo de publicación. Hay una pregunta que conviene hacerse antes de calcular nada: si dos estudios llamaron «aprendizaje cooperativo» a prácticas distintas, ¿qué significa el promedio de sus efectos?",
     "practica": "El protocolo se registra antes de empezar, con criterios de inclusión, variables de interés y plan de análisis. Y la heterogeneidad no es un inconveniente: es información. Cuando los estudios difieren sistemáticamente, la pregunta interesante deja de ser cuál es el efecto promedio y pasa a ser bajo qué condiciones el efecto es mayor o menor.",
-    "limites": "En educación la heterogeneidad suele ser alta porque las intervenciones, los contextos y las medidas difieren. Además, las síntesis que promedian estudios de calidad muy dispar producen estimaciones infladas. Las síntesis más citadas del campo han sido criticadas precisamente por combinar lo incombinable.",
+    "limites": "En educación la heterogeneidad suele ser alta porque las intervenciones, los contextos y las medidas difieren. Además, las síntesis que promedian estudios de calidad muy dispar producen estimaciones infladas. Las síntesis más citadas del campo han sido criticadas precisamente por combinar lo incombinable. Conviene por eso leer con cuidado los rankings de tamaños de efecto que circulan entre equipos directivos: ordenan prácticas muy distintas en una misma escala como si fueran comparables, y esa comparación rara vez se sostiene.",
     "errores": [
       "Combinar estudios con diseños, medidas y poblaciones no comparables.",
       "Reportar un efecto promedio sin analizar heterogeneidad ni sesgo de publicación."
@@ -292,15 +292,15 @@
       ],
       [
         "Ciclo iterativo",
-        "secuencia de diseño, implementación, análisis y rediseño"
+        "secuencia de diseño, implementación, análisis y rediseño, donde cada vuelta pone a prueba una conjetura declarada de antemano"
       ],
       [
         "Conjetura de diseño",
         "hipótesis sobre cómo un componente de la intervención produciría el aprendizaje buscado"
       ]
     ],
-    "desarrollo": "La investigación basada en diseño responde a un problema real del campo: los experimentos controlados dicen si algo funcionó en promedio y no explican por qué ni cómo adaptarlo. Esta metodología desarrolla la intervención en el contexto real, documenta las decisiones y sus efectos, y produce principios de diseño transferibles que otros pueden usar y poner a prueba.",
-    "practica": "El trabajo exige documentar sistemáticamente: qué se diseñó, con qué conjetura, qué ocurrió, qué se cambió y por qué. Esa documentación es el dato de la investigación y no una bitácora administrativa. Sin ella, el resultado es una intervención mejorada sin conocimiento transferible, que es lo que suele ocurrir en los proyectos de innovación.",
+    "desarrollo": "La investigación basada en diseño responde a un problema real del campo: los experimentos controlados dicen si algo funcionó en promedio y no explican por qué ni cómo adaptarlo. Esta metodología desarrolla la intervención en el contexto real, documenta las decisiones y sus efectos, y produce principios de diseño transferibles que otros pueden usar y poner a prueba. Su exigencia propia es la conjetura: cada versión de la intervención encarna una hipótesis sobre por qué debería funcionar, y esa hipótesis se escribe antes de implementar para poder saber si falló el diseño o la explicación.",
+    "practica": "El trabajo exige documentar sistemáticamente: qué se diseñó, con qué conjetura, qué ocurrió, qué se cambió y por qué. Esa documentación es el dato de la investigación y no una bitácora administrativa. Sin ella, el resultado es una intervención mejorada sin conocimiento transferible, que es lo que suele ocurrir en los proyectos de innovación. Conviene fijar el momento de cierre de cada ciclo por adelantado: sin ese corte, la iteración continúa indefinidamente y nunca se llega a formular el principio que el trabajo debía producir.",
     "limites": "La metodología tiene una debilidad reconocida: la cercanía entre quien diseña y quien evalúa dificulta la crítica y facilita la interpretación favorable. Los resguardos incluyen documentación previa de las conjeturas, participación de observadores externos y reporte explícito de lo que no funcionó, que es lo que casi nunca se publica.",
     "errores": [
       "Documentar solo lo que funcionó y presentar la intervención final sin sus fracasos intermedios.",
@@ -355,8 +355,8 @@
       ]
     ],
     "desarrollo": "Los datos de interacción permiten estudiar procesos que antes eran invisibles: cuándo se abandona una tarea, qué secuencias preceden al error, cómo se distribuye el estudio en el tiempo. Su límite es conocido: predicen sin explicar, y su desempeño se degrada cuando cambia el contexto. Un modelo que predice bien la deserción en una cohorte puede fallar en la siguiente sin que nadie lo note.",
-    "practica": "El diseño exige validación externa y monitoreo de la deriva, además de un protocolo ético estricto: los estudiantes deben saber qué se recoge, para qué y con qué resguardos. Y toda predicción sobre personas debe conectarse con apoyo y no con clasificación: un modelo que identifica riesgo sin protocolo de intervención solo produce etiquetas.",
-    "limites": "El campo tiene un problema de replicación y de generalización: muchos modelos publicados no se validan fuera de su contexto original. Y la abundancia de datos de proceso no compensa la ausencia de medidas de aprendizaje: la traza registra actividad, no comprensión.",
+    "practica": "El diseño exige validación externa y monitoreo de la deriva, además de un protocolo ético estricto: los estudiantes deben saber qué se recoge, para qué y con qué resguardos. Y toda predicción sobre personas debe conectarse con apoyo y no con clasificación: un modelo que identifica riesgo sin protocolo de intervención solo produce etiquetas. Conviene revisar además el desempeño del modelo por subgrupo antes de usarlo: un sistema que funciona bien en promedio puede fallar sistemáticamente con estudiantes que tienen menos conectividad o patrones de uso distintos.",
+    "limites": "El campo tiene un problema de replicación y de generalización: muchos modelos publicados no se validan fuera de su contexto original. Y la abundancia de datos de proceso no compensa la ausencia de medidas de aprendizaje: la traza registra actividad, no comprensión. Hay también un efecto que conviene anticipar: cuando los estudiantes saben qué se registra, ajustan su conducta para verse bien en el indicador, y el dato deja de medir lo que medía.",
     "errores": [
       "Reportar desempeño predictivo sin validación en datos externos.",
       "Construir modelos de riesgo sin protocolo de intervención asociado."
@@ -406,12 +406,12 @@
       ],
       [
         "Revisión entre pares previa",
-        "lectura crítica de colegas antes de someter el manuscrito"
+        "lectura crítica solicitada a colegas antes de someter el manuscrito, que anticipa las objeciones que hará la revista"
       ]
     ],
     "desarrollo": "La escritura científica no es un adorno del trabajo: es la forma en que el conocimiento se hace público y verificable. Un texto sin argumento central explícito obliga al lector a reconstruirlo, y la mayoría no lo hará. La estructura convencional del campo —introducción, método, resultados, discusión— no es una camisa de fuerza: es un protocolo que permite al lector encontrar rápido lo que necesita para juzgar.",
-    "practica": "La disciplina más útil es escribir el argumento central en una frase antes de redactar, y comprobar al final que cada sección lo sostiene. Y la precisión exige revisar cada afirmación contra la evidencia: las palabras «demuestra», «prueba» y «confirma» rara vez son correctas; «sugiere», «es consistente con» y «no permite descartar» suelen serlo.",
-    "limites": "Las convenciones varían por disciplina y por revista, y la escritura académica en un idioma no materno impone una carga adicional real que los procesos de revisión no siempre reconocen. Buscar apoyo de edición no es una debilidad sino una práctica profesional habitual.",
+    "practica": "La disciplina más útil es escribir el argumento central en una frase antes de redactar, y comprobar al final que cada sección lo sostiene. Y la precisión exige revisar cada afirmación contra la evidencia: las palabras «demuestra», «prueba» y «confirma» rara vez son correctas; «sugiere», «es consistente con» y «no permite descartar» suelen serlo. Ayuda escribir primero los resultados y el método, que son los más objetivos, y dejar la introducción para el final: solo entonces se sabe con precisión qué se está introduciendo.",
+    "limites": "Las convenciones varían por disciplina y por revista, y la escritura académica en un idioma no materno impone una carga adicional real que los procesos de revisión no siempre reconocen. Buscar apoyo de edición no es una debilidad sino una práctica profesional habitual. Existe además una asimetría de acceso que conviene nombrar: publicar en revistas de alto alcance suele exigir cargos por procesamiento que muchos investigadores de la región no pueden pagar, y eso condiciona dónde termina circulando el conocimiento producido localmente.",
     "errores": [
       "Escribir sin haber formulado el argumento central en una frase.",
       "Usar verbos de certeza —demuestra, prueba— donde la evidencia solo sugiere."
@@ -461,11 +461,11 @@
       ],
       [
         "Autoría",
-        "reconocimiento de quienes contribuyeron sustantivamente, con criterios explícitos"
+        "reconocimiento de quienes hicieron una contribución sustantiva al trabajo, con criterios de inclusión y de orden acordados por escrito al inicio"
       ]
     ],
     "desarrollo": "La revisión por pares es imperfecta y sigue siendo el mejor mecanismo disponible de control de calidad. Entender su funcionamiento reduce la frustración: los rechazos son frecuentes incluso para trabajos sólidos, y la mayoría se debe a ajuste con la revista o a problemas de claridad antes que a errores metodológicos. La carta de respuesta es un género propio: se responde a todo, se corrige lo que corresponde y se replica con fundamento lo que no.",
-    "practica": "La selección de revista debe hacerse antes de escribir la versión final, porque determina formato, extensión y audiencia. Y la ética de la autoría exige criterios explícitos: quién contribuyó sustantivamente, en qué orden y por qué. Los conflictos de autoría son frecuentes y casi siempre se originan en acuerdos no explicitados al inicio.",
+    "practica": "La selección de revista debe hacerse antes de escribir la versión final, porque determina formato, extensión y audiencia. Y la ética de la autoría exige criterios explícitos: quién contribuyó sustantivamente, en qué orden y por qué. Los conflictos de autoría son frecuentes y casi siempre se originan en acuerdos no explicitados al inicio. Ante un rechazo, el procedimiento profesional es dejar pasar unos días, separar las objeciones de fondo de las de forma, y responder por escrito a cada una aunque la revista no lo exija: ese documento mejora el manuscrito para la revista siguiente.",
     "limites": "El sistema de publicación tiene problemas conocidos: sesgo hacia resultados positivos, lentitud, desigualdad de acceso para investigadores de países con menos recursos, y proliferación de editoriales predatorias. Conocer esos problemas es parte de la formación doctoral, y también los criterios para distinguir una revista legítima de una que solo cobra por publicar.",
     "errores": [
       "Someter un manuscrito sin verificar el ajuste con el alcance de la revista.",
@@ -523,9 +523,9 @@
         "juicio evaluativo justificado con referencia a criterios y a evidencia del trabajo"
       ]
     ],
-    "desarrollo": "Dirigir tesis mal produce dos resultados igualmente malos: trabajos escritos por el director y estudiantes abandonados a su suerte. El equilibrio se sostiene con acuerdos explícitos y con traspaso progresivo de autonomía. Y la evaluación exige criterios públicos: cuando el estándar se descubre en la defensa, la evaluación se percibe —con razón— como arbitraria.",
+    "desarrollo": "Dirigir tesis mal produce dos resultados igualmente malos: trabajos escritos por el director y estudiantes abandonados a su suerte. El equilibrio se sostiene con acuerdos explícitos y con traspaso progresivo de autonomía. Y la evaluación exige criterios públicos: cuando el estándar se descubre en la defensa, la evaluación se percibe —con razón— como arbitraria. Una manera concreta de graduar la autonomía es cambiar el tipo de pregunta del director a lo largo del proceso: al inicio, qué vas a hacer y por qué; hacia el final, qué objeción esperas y cómo la responderías.",
     "practica": "El protocolo de dirección define frecuencia, formato de entregas, plazos de respuesta y etapas de autonomía. La pauta de evaluación se entrega al inicio y describe qué se espera en cada criterio, con ejemplos de niveles. Y la evaluación misma debe fundamentarse por escrito, especialmente cuando es negativa: es la única forma de que el estudiante pueda corregir o apelar.",
-    "limites": "No hay evidencia experimental sobre modelos de dirección: es conocimiento profesional con variación disciplinar y cultural fuerte. Lo que sí está documentado es que la calidad de la supervisión predice la finalización y la experiencia del estudiante mejor que casi cualquier otra variable institucional.",
+    "limites": "No hay evidencia experimental sobre modelos de dirección: es conocimiento profesional con variación disciplinar y cultural fuerte. Lo que sí está documentado es que la calidad de la supervisión predice la finalización y la experiencia del estudiante mejor que casi cualquier otra variable institucional. Conviene reconocer también el peso de las condiciones: dirigir bien exige tiempo asignado, y en muchos programas la dirección de tesis se realiza fuera de la carga formal reconocida.",
     "errores": [
       "Reescribir el texto del estudiante en vez de retroalimentarlo para que lo corrija.",
       "Evaluar con criterios que el estudiante no conoció antes de escribir."
@@ -549,7 +549,7 @@
         "criterios sobre autoría y contribución aplicables también a la relación de dirección."
       ]
     ],
-    "inclusion": "Los estudiantes sin capital académico familiar desconocen las reglas implícitas del posgrado. Explicitar criterios y procedimientos es la intervención más directa de equidad disponible en este nivel.",
+    "inclusion": "Los estudiantes sin capital académico familiar desconocen las reglas implícitas del posgrado: cuánto se puede preguntar, qué significa un plazo, cómo se pide una prórroga, qué se espera en una defensa. Explicitar criterios y procedimientos es la intervención más directa de equidad disponible en este nivel, y cuesta una conversación de treinta minutos al inicio del proceso.",
     "reto": "Construye tu pauta de evaluación y entrégala a un estudiante al inicio de su trabajo. Evalúa con ella y contrasta tu juicio con el de un par.",
     "conexion": "Aplica la clase 179 al nivel doctoral y se conecta con la clase 213 en la evaluación entre pares."
   },
@@ -580,7 +580,7 @@
     ],
     "desarrollo": "La evidencia sobre desarrollo profesional docente es clara en lo que no funciona: talleres aislados, sin seguimiento y sobre técnicas generales desconectadas del contenido. Y razonablemente clara en lo que sí: foco en el contenido específico y su didáctica, duración sostenida, oportunidades de práctica con retroalimentación, colaboración entre docentes y acompañamiento en el aula. Ese conjunto es más caro y más lento que un taller, y es la diferencia entre cambiar la práctica y llenar un registro de capacitación.",
     "practica": "El diseño debe declarar cómo cumple cada característica y cómo evaluará el cambio en la práctica, no solo la satisfacción ni el conocimiento declarado. La observación de aula antes y después, con un instrumento acotado, es el mínimo defendible. Y el acompañamiento en el puesto suele ser el componente que más se recorta por costo, siendo el más determinante.",
-    "limites": "La evidencia proviene mayormente de programas bien financiados y bien implementados, y los efectos caen al escalar. Además, ningún programa de formación compensa condiciones institucionales que impiden aplicar lo aprendido: sin tiempo, sin materiales y sin respaldo directivo, el cambio no se sostiene.",
+    "limites": "La evidencia proviene mayormente de programas bien financiados y bien implementados, y los efectos caen al escalar. Además, ningún programa de formación compensa condiciones institucionales que impiden aplicar lo aprendido: sin tiempo, sin materiales y sin respaldo directivo, el cambio no se sostiene. Hay un problema adicional de medición que conviene tener presente: la mayoría de los estudios reporta satisfacción de los participantes y no cambio en la práctica ni en el aprendizaje de sus estudiantes, que son los resultados que interesan.",
     "errores": [
       "Diseñar formación en formato de taller aislado y esperar cambio en la práctica.",
       "Evaluar el programa con encuestas de satisfacción y conocimiento declarado."
@@ -630,7 +630,7 @@
       ],
       [
         "Defensa",
-        "argumentación fundamentada de las decisiones ante una comisión especializada"
+        "argumentación fundamentada de cada decisión del trabajo ante una comisión especializada, que incluye reconocer con precisión los límites de lo que se puede afirmar"
       ]
     ],
     "desarrollo": "El proyecto que cierra el programa exige articular todo lo trabajado: un problema que el campo reconozca, una contribución formulada con precisión, un diseño coherente con la pregunta, un plan de análisis que corresponda a los datos, resguardos éticos completos y un cronograma que alguien con experiencia considere realista. La factibilidad es donde más propuestas fallan, y es la parte que las comisiones examinan con más dureza.",

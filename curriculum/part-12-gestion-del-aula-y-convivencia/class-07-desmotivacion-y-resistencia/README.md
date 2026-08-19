@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Resistencia** | conducta de rechazo activo o pasivo que suele proteger de una amenaza percibida |
 | **Desenganche** | retiro progresivo del esfuerzo y de la participación, con frecuencia silencioso |
-| **Historia de fracaso** | acumulación de experiencias que hacen racional dejar de intentar |
+| **Historia de fracaso** | acumulación de experiencias escolares negativas que vuelve racional dejar de intentar, porque el esfuerzo solo confirmaría públicamente la dificultad |
 | **Reingreso** | proceso gradual de recuperación de la participación con logros verificables |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-No esforzarse protege: si nunca lo intentas, el fracaso no informa sobre tu capacidad. Vista así, la desmotivación deja de ser un defecto de carácter y pasa a ser una estrategia comprensible ante una historia de fracaso. La intervención, en consecuencia, no consiste en exigir más esfuerzo sino en cambiar las condiciones que hacen racional no intentarlo.
+No esforzarse protege: si nunca lo intentas, el fracaso no informa sobre tu capacidad. Vista así, la desmotivación deja de ser un defecto de carácter y pasa a ser una estrategia comprensible ante una historia de fracaso. La intervención, en consecuencia, no consiste en exigir más esfuerzo sino en cambiar las condiciones que hacen racional no intentarlo. La primera condición que hay que revisar es si el estudiante tiene alguna posibilidad real de éxito con lo que se le está pidiendo hoy: cuando la tarea está muy por encima de lo que puede hacer solo, retirarse no es una actitud, es una lectura correcta de la situación.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Resistencia** no
 mismo que **Desenganche** —retiro progresivo del esfuerzo y de la participación, con frecuencia silencioso—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Historia de fracaso** y
 **Reingreso** describen aspectos distintos de la misma situación: el primero
-acumulación de experiencias que hacen racional dejar de intentar, mientras el segundo proceso gradual de recuperación de la participación con logros verificables.
+acumulación de experiencias escolares negativas que vuelve racional dejar de intentar, porque el esfuerzo solo confirmaría públicamente la dificultad, mientras el segundo proceso gradual de recuperación de la participación con logros verificables.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -125,7 +125,7 @@ El plan parte de una hipótesis explícita: qué protege esta conducta. Después
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La desmotivación puede tener causas que exceden la asignatura: situación familiar, salud mental, consumo, vulneración. La intervención pedagógica no las resuelve y puede retrasar la derivación necesaria. La regla es intervenir en lo propio y observar señales que exigen derivar.
+La desmotivación puede tener causas que exceden la asignatura: situación familiar, salud mental, consumo, vulneración. La intervención pedagógica no las resuelve y puede retrasar la derivación necesaria. La regla es intervenir en lo propio y observar señales que exigen derivar. Conviene también evitar la lectura contraria, igual de frecuente: atribuir a un problema personal lo que es una respuesta a una asignatura mal diseñada, donde ningún estudiante entiende para qué sirve lo que está haciendo.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

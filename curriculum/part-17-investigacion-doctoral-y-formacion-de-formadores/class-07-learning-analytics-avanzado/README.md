@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño exige validación externa y monitoreo de la deriva, además de un protocolo ético estricto: los estudiantes deben saber qué se recoge, para qué y con qué resguardos. Y toda predicción sobre personas debe conectarse con apoyo y no con clasificación: un modelo que identifica riesgo sin protocolo de intervención solo produce etiquetas.
+El diseño exige validación externa y monitoreo de la deriva, además de un protocolo ético estricto: los estudiantes deben saber qué se recoge, para qué y con qué resguardos. Y toda predicción sobre personas debe conectarse con apoyo y no con clasificación: un modelo que identifica riesgo sin protocolo de intervención solo produce etiquetas. Conviene revisar además el desempeño del modelo por subgrupo antes de usarlo: un sistema que funciona bien en promedio puede fallar sistemáticamente con estudiantes que tienen menos conectividad o patrones de uso distintos.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El campo tiene un problema de replicación y de generalización: muchos modelos publicados no se validan fuera de su contexto original. Y la abundancia de datos de proceso no compensa la ausencia de medidas de aprendizaje: la traza registra actividad, no comprensión.
+El campo tiene un problema de replicación y de generalización: muchos modelos publicados no se validan fuera de su contexto original. Y la abundancia de datos de proceso no compensa la ausencia de medidas de aprendizaje: la traza registra actividad, no comprensión. Hay también un efecto que conviene anticipar: cuando los estudiantes saben qué se registra, ajustan su conducta para verse bien en el indicador, y el dato deja de medir lo que medía.
 
 > **Cómo leer el estado de evidencia `EMERGENTE`.** El cuerpo de estudios es reciente, escaso o poco replicado. Úsala como hipótesis de trabajo con seguimiento explícito, nunca como argumento de autoridad ni como base para una política de establecimiento.
 

@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Ante una crisis, el orden importa: primero se asegura la integridad, después se activa el protocolo institucional, luego se informa a quien corresponde y se registra. Improvisar produce dos errores típicos: actuar solo en situaciones que exigen derivación, o derivar sin información suficiente y dar por cerrada la responsabilidad. Ambos dejan al estudiante sin protección real.
+Ante una crisis, el orden importa: primero se asegura la integridad, después se activa el protocolo institucional, luego se informa a quien corresponde y se registra. Improvisar produce dos errores típicos: actuar solo en situaciones que exigen derivación, o derivar sin información suficiente y dar por cerrada la responsabilidad. Ambos dejan al estudiante sin protección real. El registro merece una advertencia propia: se escriben hechos observados con fecha y contexto, no interpretaciones ni diagnósticos, porque ese documento puede terminar siendo el respaldo de una decisión que otros tomarán meses después.
 
 ### 2. Frontera conceptual: qué es y qué no es
 

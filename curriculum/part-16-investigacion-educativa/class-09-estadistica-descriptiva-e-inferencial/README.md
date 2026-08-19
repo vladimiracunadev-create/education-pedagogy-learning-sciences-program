@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Estadística descriptiva** | resumen de los datos observados: distribución, tendencia central, dispersión |
+| **Estadística descriptiva** | resumen de los datos efectivamente observados —distribución, tendencia central, dispersión— sin pretender aún inferir sobre una población |
 | **Tamaño de efecto** | magnitud de la diferencia o de la relación, independiente del tamaño de muestra |
 | **Intervalo de confianza** | rango de valores compatibles con los datos; comunica incertidumbre mejor que un valor único |
 | **Significación estadística** | probabilidad de observar estos datos si no hubiera efecto; no indica importancia ni magnitud |
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El error de interpretación más extendido en investigación educativa es tratar la significación estadística como sinónimo de importancia. Un efecto trivial puede ser significativo con una muestra grande, y un efecto relevante puede no serlo con una muestra pequeña. Reportar tamaños de efecto con intervalos de confianza y describir la distribución antes de inferir corrige la mayor parte de esos errores.
+El error de interpretación más extendido en investigación educativa es tratar la significación estadística como sinónimo de importancia. Un efecto trivial puede ser significativo con una muestra grande, y un efecto relevante puede no serlo con una muestra pequeña. Reportar tamaños de efecto con intervalos de confianza y describir la distribución antes de inferir corrige la mayor parte de esos errores. Vale la pena traducir el tamaño de efecto a algo que un equipo escolar entienda: cuántos meses de aprendizaje adicional, o cuántos estudiantes más alcanzarían el umbral, dice mucho más que un valor de d aislado.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El orden de trabajo importa: mirar los datos primero —distribuciones, valores extremos, datos faltantes—, describir, y solo después inferir. Los datos faltantes merecen atención explícita: en educación rara vez faltan al azar, y quienes no responden suelen ser precisamente los casos de interés.
+El orden de trabajo importa: mirar los datos primero —distribuciones, valores extremos, datos faltantes—, describir, y solo después inferir. Los datos faltantes merecen atención explícita: en educación rara vez faltan al azar, y quienes no responden suelen ser precisamente los casos de interés. Un ejercicio disciplinante es escribir el plan de análisis antes de ver los resultados y dejarlo fechado; cualquier análisis posterior que no estaba en ese plan se reporta como exploratorio, que es lo honesto y lo que permite que otro lo lea con el peso adecuado.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El análisis correcto no rescata un diseño débil: ninguna técnica estadística convierte una comparación sesgada en evidencia causal. Y la práctica de probar múltiples análisis hasta encontrar uno significativo invalida la interpretación, aunque cada análisis por separado sea correcto.
+El análisis correcto no rescata un diseño débil: ninguna técnica estadística convierte una comparación sesgada en evidencia causal. Y la práctica de probar múltiples análisis hasta encontrar uno significativo invalida la interpretación, aunque cada análisis por separado sea correcto. Conviene añadir un límite de contexto: las muestras disponibles en investigación de aula suelen ser pequeñas, de modo que la ausencia de significación casi nunca autoriza a concluir que no hay efecto, solo que este estudio no tenía potencia para detectarlo.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Estadística descriptiva** | Resumen de los datos observados: distribución, tendencia central, dispersión | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Estadística descriptiva** | Resumen de los datos efectivamente observados —distribución, tendencia central, dispersión— sin pretender aún inferir sobre una población | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Tamaño de efecto** | Magnitud de la diferencia o de la relación, independiente del tamaño de muestra | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

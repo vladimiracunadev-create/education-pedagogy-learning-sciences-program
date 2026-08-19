@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El hallazgo clásico de la investigación sobre gestión de aula sigue vigente: la diferencia entre docentes con muchos y pocos problemas no está en cómo responden sino en qué hacen antes. Percepción simultánea, ritmo sostenido, transiciones breves y ausencia de tiempos muertos eliminan la mayor parte de las oportunidades de disrupción. La conducta problemática aparece, sobre todo, en el vacío.
+El hallazgo clásico de la investigación sobre gestión de aula sigue vigente: la diferencia entre docentes con muchos y pocos problemas no está en cómo responden sino en qué hacen antes. Percepción simultánea, ritmo sostenido, transiciones breves y ausencia de tiempos muertos eliminan la mayor parte de las oportunidades de disrupción. La conducta problemática aparece, sobre todo, en el vacío. Ese hallazgo tiene una consecuencia poco cómoda para la formación docente: se enseña mucho sobre cómo responder a la disrupción y muy poco sobre cómo diseñar una clase donde no haya lugar para ella.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El análisis de momentos críticos es directo: registrar cuándo ocurren los problemas durante una semana. El patrón aparece rápido —los primeros minutos, las transiciones, el momento en que unos terminan antes— y cada momento tiene una solución de diseño: una tarea al entrar, una señal de transición ensayada, trabajo previsto para quien termina antes.
+El análisis de momentos críticos es directo: registrar cuándo ocurren los problemas durante una semana. El patrón aparece rápido —los primeros minutos, las transiciones, el momento en que unos terminan antes— y cada momento tiene una solución de diseño: una tarea al entrar, una señal de transición ensayada, trabajo previsto para quien termina antes. Conviene registrar también qué estaba haciendo el docente en cada episodio: la mayoría ocurre mientras se atiende a un estudiante de espaldas al curso, y esa observación cambia más la práctica que cualquier técnica de disciplina.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La prevención reduce la disrupción ordinaria y no resuelve situaciones que tienen causas fuera del aula: violencia, vulneración, salud mental o conflicto sostenido entre estudiantes requieren otra respuesta. Confundirlas produce docentes que intentan resolver con técnica lo que necesita intervención institucional.
+La prevención reduce la disrupción ordinaria y no resuelve situaciones que tienen causas fuera del aula: violencia, vulneración, salud mental o conflicto sostenido entre estudiantes requieren otra respuesta. Confundirlas produce docentes que intentan resolver con técnica lo que necesita intervención institucional. Hay además un límite de condiciones: cuarenta estudiantes en una sala pequeña, sin espacio para circular, restringen de entrada varias de las prácticas preventivas mejor documentadas, y nombrar esa restricción es más honesto que atribuir el resultado a la habilidad del docente.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

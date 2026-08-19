@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La investigación cualitativa no busca generalizar a poblaciones sino comprender mecanismos, significados y procesos en contextos concretos. Sus criterios de calidad son propios: selección justificada, recolección sistemática, análisis trazable, búsqueda deliberada de casos que contradigan la interpretación y reflexividad sobre la posición del investigador. Aplicarle criterios cuantitativos —tamaño muestral, representatividad— es un error categorial frecuente.
+La investigación cualitativa no busca generalizar a poblaciones sino comprender mecanismos, significados y procesos en contextos concretos. Sus criterios de calidad son propios: selección justificada, recolección sistemática, análisis trazable, búsqueda deliberada de casos que contradigan la interpretación y reflexividad sobre la posición del investigador. Aplicarle criterios cuantitativos —tamaño muestral, representatividad— es un error categorial frecuente. Lo que sí puede ofrecer, y es mucho, es transferibilidad: describir el contexto con suficiente detalle para que otro juzgue si sus condiciones se parecen a las suyas.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El diseño declara por qué esos casos, con qué técnicas se recogerán los datos, cómo se registrarán y cómo se analizarán. La búsqueda activa de evidencia discrepante es el control de calidad más potente: si el investigador solo encuentra confirmaciones, probablemente no las buscó.
+El diseño declara por qué esos casos, con qué técnicas se recogerán los datos, cómo se registrarán y cómo se analizarán. La búsqueda activa de evidencia discrepante es el control de calidad más potente: si el investigador solo encuentra confirmaciones, probablemente no las buscó. Un hábito que ordena el trabajo es llevar un diario de decisiones metodológicas con fecha: por qué se agregó un caso, por qué se cambió una pregunta de la entrevista, qué se hizo cuando un participante se retiró. Ese registro es después la mitad del capítulo de método.
 
 ### 5. Qué sostiene la evidencia y qué no
 

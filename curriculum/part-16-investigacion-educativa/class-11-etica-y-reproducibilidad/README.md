@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Investigar en educación implica trabajar con menores de edad, dentro de instituciones con relaciones de poder y con datos sensibles. Eso exige consentimiento del adulto responsable, asentimiento del propio estudiante, resguardo efectivo de los datos y una evaluación honesta del beneficio: nadie debería participar en un estudio que no le reporta ningún beneficio, ni directo ni al grupo al que pertenece.
+Investigar en educación implica trabajar con menores de edad, dentro de instituciones con relaciones de poder y con datos sensibles. Eso exige consentimiento del adulto responsable, asentimiento del propio estudiante, resguardo efectivo de los datos y una evaluación honesta del beneficio: nadie debería participar en un estudio que no le reporta ningún beneficio, ni directo ni al grupo al que pertenece. El asentimiento merece un cuidado propio: se pide en un lenguaje que el estudiante entienda, se comprueba que comprendió qué se hará con lo que diga, y se mantiene abierta la posibilidad de retirarse sin consecuencia y sin tener que explicar por qué.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ El protocolo debe incluir documentos comprensibles —no formularios legales inc
 
 ### 5. Qué sostiene la evidencia y qué no
 
-El rol dual docente-investigador plantea un problema específico: el estudiante puede sentir que negarse afecta su relación o su calificación. Ese riesgo exige resguardos adicionales —consentimiento gestionado por un tercero, disociación entre participación y evaluación— que muchas investigaciones de aula omiten.
+El rol dual docente-investigador plantea un problema específico: el estudiante puede sentir que negarse afecta su relación o su calificación. Ese riesgo exige resguardos adicionales —consentimiento gestionado por un tercero, disociación entre participación y evaluación— que muchas investigaciones de aula omiten. Hay además un límite que se descubre tarde: la anonimización es más difícil de lo que parece en una escuela, donde describir «la única docente de física del establecimiento» identifica a una persona aunque no se escriba su nombre.
 
 > **Cómo leer el estado de evidencia `MARCO-NORMATIVO`.** El contenido no se decide por evidencia empírica sino por norma, política pública o marco institucional vigente. Verifica siempre la versión vigente a la fecha en que vas a aplicarlo: la norma cambia y la clase no se actualiza sola.
 

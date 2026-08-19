@@ -41,7 +41,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 |---|---|
 | **Investigación basada en diseño** | metodología que desarrolla y estudia intervenciones en contextos reales mediante ciclos iterativos |
 | **Principio de diseño** | afirmación transferible sobre qué funciona, para quién y bajo qué condiciones |
-| **Ciclo iterativo** | secuencia de diseño, implementación, análisis y rediseño |
+| **Ciclo iterativo** | secuencia de diseño, implementación, análisis y rediseño, donde cada vuelta pone a prueba una conjetura declarada de antemano |
 | **Conjetura de diseño** | hipótesis sobre cómo un componente de la intervención produciría el aprendizaje buscado |
 
 ## 🧠 Modelo mental
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La investigación basada en diseño responde a un problema real del campo: los experimentos controlados dicen si algo funcionó en promedio y no explican por qué ni cómo adaptarlo. Esta metodología desarrolla la intervención en el contexto real, documenta las decisiones y sus efectos, y produce principios de diseño transferibles que otros pueden usar y poner a prueba.
+La investigación basada en diseño responde a un problema real del campo: los experimentos controlados dicen si algo funcionó en promedio y no explican por qué ni cómo adaptarlo. Esta metodología desarrolla la intervención en el contexto real, documenta las decisiones y sus efectos, y produce principios de diseño transferibles que otros pueden usar y poner a prueba. Su exigencia propia es la conjetura: cada versión de la intervención encarna una hipótesis sobre por qué debería funcionar, y esa hipótesis se escribe antes de implementar para poder saber si falló el diseño o la explicación.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Investigación b
 mismo que **Principio de diseño** —afirmación transferible sobre qué funciona, para quién y bajo qué condiciones—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Ciclo iterativo** y
 **Conjetura de diseño** describen aspectos distintos de la misma situación: el primero
-secuencia de diseño, implementación, análisis y rediseño, mientras el segundo hipótesis sobre cómo un componente de la intervención produciría el aprendizaje buscado.
+secuencia de diseño, implementación, análisis y rediseño, donde cada vuelta pone a prueba una conjetura declarada de antemano, mientras el segundo hipótesis sobre cómo un componente de la intervención produciría el aprendizaje buscado.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El trabajo exige documentar sistemáticamente: qué se diseñó, con qué conjetura, qué ocurrió, qué se cambió y por qué. Esa documentación es el dato de la investigación y no una bitácora administrativa. Sin ella, el resultado es una intervención mejorada sin conocimiento transferible, que es lo que suele ocurrir en los proyectos de innovación.
+El trabajo exige documentar sistemáticamente: qué se diseñó, con qué conjetura, qué ocurrió, qué se cambió y por qué. Esa documentación es el dato de la investigación y no una bitácora administrativa. Sin ella, el resultado es una intervención mejorada sin conocimiento transferible, que es lo que suele ocurrir en los proyectos de innovación. Conviene fijar el momento de cierre de cada ciclo por adelantado: sin ese corte, la iteración continúa indefinidamente y nunca se llega a formular el principio que el trabajo debía producir.
 
 ### 5. Qué sostiene la evidencia y qué no
 

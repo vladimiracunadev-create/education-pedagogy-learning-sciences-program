@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-En educación, los datos casi siempre están anidados: los estudiantes de un mismo curso se parecen más entre sí que estudiantes de cursos distintos, porque comparten docente, contexto y selección. Analizarlos como observaciones independientes subestima los errores estándar e infla la significación, produciendo hallazgos que no se replican. Es uno de los errores técnicos más frecuentes en tesis educativas.
+En educación, los datos casi siempre están anidados: los estudiantes de un mismo curso se parecen más entre sí que estudiantes de cursos distintos, porque comparten docente, contexto y selección. Analizarlos como observaciones independientes subestima los errores estándar e infla la significación, produciendo hallazgos que no se replican. Es uno de los errores técnicos más frecuentes en tesis educativas. La magnitud del problema se puede estimar antes de decidir el modelo: el coeficiente de correlación intraclase indica cuánta de la variación total ocurre entre cursos, y con eso se sabe si ignorar el anidamiento es un detalle o una falla mayor.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ El punto de partida es declarar la estructura y estimar cuánta varianza corresp
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Los modelos multinivel exigen un número suficiente de unidades de nivel superior: con pocos establecimientos, las estimaciones de ese nivel son inestables. Y su complejidad puede exceder la pregunta: cuando el interés es descriptivo, un modelo más simple bien interpretado comunica mejor.
+Los modelos multinivel exigen un número suficiente de unidades de nivel superior: con pocos establecimientos, las estimaciones de ese nivel son inestables. Y su complejidad puede exceder la pregunta: cuando el interés es descriptivo, un modelo más simple bien interpretado comunica mejor. Conviene además cuidar la interpretación de los coeficientes de nivel superior, que se leen con frecuencia como efectos causales del establecimiento cuando en realidad recogen también las diferencias de composición entre las matrículas.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 

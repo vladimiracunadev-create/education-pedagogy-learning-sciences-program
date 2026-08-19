@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Los diseños avanzados no son técnicas más sofisticadas por sí mismas: son estrategias para identificar efectos cuando la aleatorización no es posible. Cada uno descansa en supuestos de identificación que deben declararse y, cuando es posible, someterse a prueba. Un diseño avanzado con supuestos incumplidos produce estimaciones precisas de algo que no es el efecto buscado.
+Los diseños avanzados no son técnicas más sofisticadas por sí mismas: son estrategias para identificar efectos cuando la aleatorización no es posible. Cada uno descansa en supuestos de identificación que deben declararse y, cuando es posible, someterse a prueba. Un diseño avanzado con supuestos incumplidos produce estimaciones precisas de algo que no es el efecto buscado. Conviene tener presente el orden real de trabajo: primero se examina qué generó la variación observada en el mundo, y solo después se elige la técnica que puede aprovecharla.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La elección parte de la estructura del problema y de los datos existentes: si hay un punto de corte administrativo, si hay mediciones repetidas, si hay una fuente de variación exógena. En educación, los datos administrativos ofrecen oportunidades reales para estos diseños, y su uso exige tanto competencia técnica como resguardo de los datos.
+La elección parte de la estructura del problema y de los datos existentes: si hay un punto de corte administrativo, si hay mediciones repetidas, si hay una fuente de variación exógena. En educación, los datos administrativos ofrecen oportunidades reales para estos diseños, y su uso exige tanto competencia técnica como resguardo de los datos. Antes de comprometerse conviene escribir el supuesto de identificación en lenguaje corriente y mostrárselo a alguien del establecimiento: si esa persona conoce una razón por la que el supuesto no se cumple, el diseño se cae ahí y no seis meses después.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Estos diseños exigen competencia estadística específica y, en muchos casos, colaboración con especialistas. Además, sus supuestos son fuertes y en ocasiones no verificables: la honestidad consiste en declararlos y en analizar la sensibilidad de los resultados a su incumplimiento.
+Estos diseños exigen competencia estadística específica y, en muchos casos, colaboración con especialistas. Además, sus supuestos son fuertes y en ocasiones no verificables: la honestidad consiste en declararlos y en analizar la sensibilidad de los resultados a su incumplimiento. Hay además un límite de alcance que se comunica mal: varios de estos diseños estiman el efecto para un subgrupo particular —quienes están cerca del punto de corte, por ejemplo— y ese resultado no autoriza a hablar del efecto para toda la población.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 

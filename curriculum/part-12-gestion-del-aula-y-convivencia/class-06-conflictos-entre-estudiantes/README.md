@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Conflicto** | desacuerdo entre partes con poder relativamente equivalente; es mediable |
+| **Conflicto** | desacuerdo entre partes con poder relativamente equivalente, sin patrón de repetición ni asimetría sostenida; admite mediación |
 | **Hostigamiento** | agresión sostenida con asimetría de poder; no es mediable y requiere intervención específica |
 | **Práctica restaurativa** | enfoque centrado en reparar el daño y restablecer relaciones, con evidencia emergente |
 | **Derivación** | traspaso a la instancia competente cuando la situación excede la mediación pedagógica |
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La primera decisión es de clasificación y determina todo lo demás: un conflicto entre pares con poder equivalente se puede mediar; una situación de hostigamiento sostenido no, porque la mediación expone a quien es agredido y legitima una equivalencia que no existe. Confundir ambas es el error más grave y más frecuente en la gestión de convivencia escolar.
+La primera decisión es de clasificación y determina todo lo demás: un conflicto entre pares con poder equivalente se puede mediar; una situación de hostigamiento sostenido no, porque la mediación expone a quien es agredido y legitima una equivalencia que no existe. Confundir ambas es el error más grave y más frecuente en la gestión de convivencia escolar. La confusión tiene una causa identificable: quien agrede suele relatar el episodio como un conflicto mutuo, y ese relato es más fácil de administrar para el adulto que la alternativa, que obliga a activar un protocolo y a sostener una intervención larga.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El protocolo define primero los criterios de clasificación —asimetría, repetición, intención, efecto— y después el procedimiento para cada caso. Para el conflicto mediable, un procedimiento restaurativo con preguntas estructuradas y acuerdo verificable. Para el hostigamiento, protección de la víctima, intervención sobre el agresor y activación del protocolo institucional.
+El protocolo define primero los criterios de clasificación —asimetría, repetición, intención, efecto— y después el procedimiento para cada caso. Para el conflicto mediable, un procedimiento restaurativo con preguntas estructuradas y acuerdo verificable. Para el hostigamiento, protección de la víctima, intervención sobre el agresor y activación del protocolo institucional. En ambos casos, la clasificación se hace después de reunir antecedentes y no durante el primer relato: preguntar a terceros, revisar registros previos y conversar por separado suele cambiar la lectura inicial.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La evidencia sobre prácticas restaurativas en escuelas es prometedora y todavía limitada: los estudios muestran efectos en clima y en reducción de sanciones, con alta variabilidad según implementación. No sustituyen los protocolos obligatorios ante situaciones que la norma tipifica.
+La evidencia sobre prácticas restaurativas en escuelas es prometedora y todavía limitada: los estudios muestran efectos en clima y en reducción de sanciones, con alta variabilidad según implementación. No sustituyen los protocolos obligatorios ante situaciones que la norma tipifica. Tampoco funcionan sin formación: una mediación conducida por alguien sin preparación tiende a derivar en un pacto de silencio entre las partes, que cierra el episodio sin reparar nada.
 
 > **Cómo leer el estado de evidencia `EMERGENTE`.** El cuerpo de estudios es reciente, escaso o poco replicado. Úsala como hipótesis de trabajo con seguimiento explícito, nunca como argumento de autoridad ni como base para una política de establecimiento.
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Conflicto** | Desacuerdo entre partes con poder relativamente equivalente; es mediable | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Conflicto** | Desacuerdo entre partes con poder relativamente equivalente, sin patrón de repetición ni asimetría sostenida; admite mediación | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Hostigamiento** | Agresión sostenida con asimetría de poder; no es mediable y requiere intervención específica | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

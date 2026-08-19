@@ -39,10 +39,10 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Ontología** | supuestos sobre la naturaleza de aquello que se estudia |
+| **Ontología** | supuestos sobre la naturaleza de aquello que se investiga: si existe con independencia de quien lo observa o si se constituye en la interacción |
 | **Epistemología** | supuestos sobre qué cuenta como conocimiento válido y cómo se obtiene |
 | **Paradigma** | conjunto articulado de supuestos, preguntas y métodos compartido por una comunidad de investigación |
-| **Coherencia metodológica** | correspondencia entre supuestos declarados, pregunta y método elegido |
+| **Coherencia metodológica** | correspondencia verificable entre los supuestos declarados, la pregunta formulada y el método elegido para responderla |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Ontología** no 
 mismo que **Epistemología** —supuestos sobre qué cuenta como conocimiento válido y cómo se obtiene—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Paradigma** y
 **Coherencia metodológica** describen aspectos distintos de la misma situación: el primero
-conjunto articulado de supuestos, preguntas y métodos compartido por una comunidad de investigación, mientras el segundo correspondencia entre supuestos declarados, pregunta y método elegido.
+conjunto articulado de supuestos, preguntas y métodos compartido por una comunidad de investigación, mientras el segundo correspondencia verificable entre los supuestos declarados, la pregunta formulada y el método elegido para responderla.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La declaración epistemológica no es un trámite de tesis: es lo que permite defender la coherencia del diseño. Cuando un estudiante declara un paradigma interpretativo y luego pretende generalizar a una población, la incoherencia se ve de inmediato. Escribir los supuestos antes de elegir el método previene esa contradicción.
+La declaración epistemológica no es un trámite de tesis: es lo que permite defender la coherencia del diseño. Cuando un estudiante declara un paradigma interpretativo y luego pretende generalizar a una población, la incoherencia se ve de inmediato. Escribir los supuestos antes de elegir el método previene esa contradicción. Hay una manera rápida de sacarlos a la luz: responde qué tendría que ocurrir para que aceptes que tu respuesta es falsa. Quien no puede contestar esa pregunta todavía no sabe qué entiende por conocer, y cualquier método que elija será una decisión heredada del programa de posgrado y no una decisión propia.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Ontología** | Supuestos sobre la naturaleza de aquello que se estudia | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Ontología** | Supuestos sobre la naturaleza de aquello que se investiga: si existe con independencia de quien lo observa o si se constituye en la interacción | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Epistemología** | Supuestos sobre qué cuenta como conocimiento válido y cómo se obtiene | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

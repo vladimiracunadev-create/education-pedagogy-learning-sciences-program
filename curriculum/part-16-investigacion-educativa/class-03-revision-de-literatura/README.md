@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Una revisión no es una lista de resúmenes: es un argumento sobre el estado del conocimiento. Su producto es una afirmación —esto está establecido, esto se discute, esto no se ha estudiado— que justifica la pregunta propia. Documentar la estrategia de búsqueda es lo que separa una revisión de una selección conveniente de estudios que confirman lo que ya se pensaba.
+Una revisión no es una lista de resúmenes: es un argumento sobre el estado del conocimiento. Su producto es una afirmación —esto está establecido, esto se discute, esto no se ha estudiado— que justifica la pregunta propia. Documentar la estrategia de búsqueda es lo que separa una revisión de una selección conveniente de estudios que confirman lo que ya se pensaba. Hay un sesgo que conviene tener presente desde el inicio: lo publicado sobreestima los efectos, porque los estudios que no encontraron nada tienen menos probabilidad de haber llegado a una revista.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El procedimiento incluye definir fuentes y términos, registrar la búsqueda con fecha, aplicar criterios de inclusión declarados, evaluar críticamente cada estudio y sintetizar por temas o por hallazgos y no por autores. La síntesis por autores —«Pérez dice, González dice»— es el error más común y el que revela que no hubo integración.
+El procedimiento incluye definir fuentes y términos, registrar la búsqueda con fecha, aplicar criterios de inclusión declarados, evaluar críticamente cada estudio y sintetizar por temas o por hallazgos y no por autores. La síntesis por autores —«Pérez dice, González dice»— es el error más común y el que revela que no hubo integración. Una tabla de extracción con pocas columnas —contexto, diseño, muestra, resultado principal, límite reconocido— obliga a leer cada estudio con el mismo criterio y hace visible dónde se concentra la evidencia y dónde no hay nada.
 
 ### 5. Qué sostiene la evidencia y qué no
 

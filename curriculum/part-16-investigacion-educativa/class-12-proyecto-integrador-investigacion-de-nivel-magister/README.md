@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Coherencia interna** | correspondencia entre pregunta, marco, diseño, análisis y conclusiones |
+| **Coherencia interna** | correspondencia verificable entre pregunta, marco, diseño, análisis y conclusiones, de modo que ninguna afirmación final exceda lo que el camino permite sostener |
 | **Alcance declarado** | afirmación explícita de a qué contexto y población se aplican los hallazgos |
 | **Limitación** | restricción del estudio que condiciona sus conclusiones; se declara, no se disimula |
 | **Contribución** | aporte concreto al conocimiento o a la práctica que el estudio produce |
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El informe debe permitir que otra persona evalúe cada decisión: por qué esa pregunta, ese diseño, esa muestra, ese análisis. Y debe distinguir con claridad hallazgo de interpretación y de recomendación, que es la separación que más frecuentemente se pierde en las tesis educativas.
+El informe debe permitir que otra persona evalúe cada decisión: por qué esa pregunta, ese diseño, esa muestra, ese análisis. Y debe distinguir con claridad hallazgo de interpretación y de recomendación, que es la separación que más frecuentemente se pierde en las tesis educativas. Una manera práctica de comprobarlo antes de la defensa es marcar el borrador con tres colores y verificar que ninguna recomendación descanse sobre una interpretación que, a su vez, no descanse sobre un hallazgo efectivamente reportado.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Coherencia interna** | Correspondencia entre pregunta, marco, diseño, análisis y conclusiones | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Coherencia interna** | Correspondencia verificable entre pregunta, marco, diseño, análisis y conclusiones, de modo que ninguna afirmación final exceda lo que el camino permite sostener | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Alcance declarado** | Afirmación explícita de a qué contexto y población se aplican los hallazgos | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

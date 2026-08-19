@@ -9,7 +9,7 @@
     "conceptos": [
       [
         "Ontología",
-        "supuestos sobre la naturaleza de aquello que se estudia"
+        "supuestos sobre la naturaleza de aquello que se investiga: si existe con independencia de quien lo observa o si se constituye en la interacción"
       ],
       [
         "Epistemología",
@@ -21,11 +21,11 @@
       ],
       [
         "Coherencia metodológica",
-        "correspondencia entre supuestos declarados, pregunta y método elegido"
+        "correspondencia verificable entre los supuestos declarados, la pregunta formulada y el método elegido para responderla"
       ]
     ],
     "desarrollo": "Toda investigación supone una posición sobre qué se puede conocer y cómo. Quien busca establecer el efecto promedio de una intervención supone que existe un efecto estimable y que la comparación controlada lo revela; quien estudia cómo un grupo construye el sentido de una práctica supone que ese sentido es situado y no generalizable. Ninguna posición es superior en abstracto: la superioridad depende de la pregunta.",
-    "practica": "La declaración epistemológica no es un trámite de tesis: es lo que permite defender la coherencia del diseño. Cuando un estudiante declara un paradigma interpretativo y luego pretende generalizar a una población, la incoherencia se ve de inmediato. Escribir los supuestos antes de elegir el método previene esa contradicción.",
+    "practica": "La declaración epistemológica no es un trámite de tesis: es lo que permite defender la coherencia del diseño. Cuando un estudiante declara un paradigma interpretativo y luego pretende generalizar a una población, la incoherencia se ve de inmediato. Escribir los supuestos antes de elegir el método previene esa contradicción. Hay una manera rápida de sacarlos a la luz: responde qué tendría que ocurrir para que aceptes que tu respuesta es falsa. Quien no puede contestar esa pregunta todavía no sabe qué entiende por conocer, y cualquier método que elija será una decisión heredada del programa de posgrado y no una decisión propia.",
     "limites": "La discusión paradigmática se ha usado con frecuencia para descalificar métodos ajenos en vez de para orientar decisiones. Las llamadas guerras de paradigmas produjeron más trincheras que conocimiento. La posición razonable es instrumental: los supuestos orientan la elección, y la elección se justifica por la pregunta.",
     "errores": [
       "Elegir el método por afinidad personal y construir después la justificación epistemológica.",
@@ -79,8 +79,8 @@
         "posibilidad real de responder la pregunta con el acceso, el tiempo y los recursos disponibles"
       ]
     ],
-    "desarrollo": "Una pregunta demasiado amplia no se responde; una demasiado obvia no aporta; una cuya respuesta no cambiaría nada no justifica el esfuerzo. El trabajo de delimitación es el menos glamoroso y el que más determina el destino de una investigación. Un buen indicador: si no puedes anticipar cómo se vería la respuesta y qué implicaría, la pregunta todavía no está lista.",
-    "practica": "El procedimiento consiste en escribir la pregunta, anticipar sus respuestas posibles y declarar qué cambiaría con cada una. Si todas las respuestas llevan a la misma conclusión práctica, la pregunta no discrimina. Y la factibilidad debe evaluarse antes: acceso al campo, permisos, tiempo real disponible y competencias metodológicas propias.",
+    "desarrollo": "Una pregunta demasiado amplia no se responde; una demasiado obvia no aporta; una cuya respuesta no cambiaría nada no justifica el esfuerzo. El trabajo de delimitación es el menos glamoroso y el que más determina el destino de una investigación. Un buen indicador: si no puedes anticipar cómo se vería la respuesta y qué implicaría, la pregunta todavía no está lista. Suele ayudar el camino inverso: en vez de partir del tema —«la motivación en enseñanza media»—, parte de la decisión que alguien tendría que tomar distinto y retrocede desde ahí hasta la pregunta que la informaría.",
+    "practica": "El procedimiento consiste en escribir la pregunta, anticipar sus respuestas posibles y declarar qué cambiaría con cada una. Si todas las respuestas llevan a la misma conclusión práctica, la pregunta no discrimina. Y la factibilidad debe evaluarse antes: acceso al campo, permisos, tiempo real disponible y competencias metodológicas propias. Conviene hacer esa evaluación con fechas en la mano y no en abstracto: quien investiga mientras trabaja en aula dispone, en la práctica, de las vacaciones de invierno y de dos horas por semana, y una pregunta que exige cuarenta entrevistas no cabe en ese presupuesto.",
     "limites": "No hay una fórmula para producir buenas preguntas: se construyen con conocimiento del campo, y por eso la revisión de literatura es previa y no posterior. Además, la pregunta suele reformularse durante el proceso, y eso no es un defecto siempre que la reformulación se documente y no se presente como plan original.",
     "errores": [
       "Formular una pregunta cuya respuesta ya está establecida en la literatura.",
@@ -134,8 +134,8 @@
         "aspecto del problema que la literatura no resuelve y que justifica una nueva investigación"
       ]
     ],
-    "desarrollo": "Una revisión no es una lista de resúmenes: es un argumento sobre el estado del conocimiento. Su producto es una afirmación —esto está establecido, esto se discute, esto no se ha estudiado— que justifica la pregunta propia. Documentar la estrategia de búsqueda es lo que separa una revisión de una selección conveniente de estudios que confirman lo que ya se pensaba.",
-    "practica": "El procedimiento incluye definir fuentes y términos, registrar la búsqueda con fecha, aplicar criterios de inclusión declarados, evaluar críticamente cada estudio y sintetizar por temas o por hallazgos y no por autores. La síntesis por autores —«Pérez dice, González dice»— es el error más común y el que revela que no hubo integración.",
+    "desarrollo": "Una revisión no es una lista de resúmenes: es un argumento sobre el estado del conocimiento. Su producto es una afirmación —esto está establecido, esto se discute, esto no se ha estudiado— que justifica la pregunta propia. Documentar la estrategia de búsqueda es lo que separa una revisión de una selección conveniente de estudios que confirman lo que ya se pensaba. Hay un sesgo que conviene tener presente desde el inicio: lo publicado sobreestima los efectos, porque los estudios que no encontraron nada tienen menos probabilidad de haber llegado a una revista.",
+    "practica": "El procedimiento incluye definir fuentes y términos, registrar la búsqueda con fecha, aplicar criterios de inclusión declarados, evaluar críticamente cada estudio y sintetizar por temas o por hallazgos y no por autores. La síntesis por autores —«Pérez dice, González dice»— es el error más común y el que revela que no hubo integración. Una tabla de extracción con pocas columnas —contexto, diseño, muestra, resultado principal, límite reconocido— obliga a leer cada estudio con el mismo criterio y hace visible dónde se concentra la evidencia y dónde no hay nada.",
     "limites": "Toda revisión tiene sesgo de publicación: los estudios con resultados nulos se publican menos, de modo que la literatura sobreestima los efectos. Y las revisiones no sistemáticas tienen sesgo de selección del autor. Reconocerlo y declararlo es parte del rigor, y en algunos casos justifica una revisión sistemática formal.",
     "errores": [
       "Sintetizar por autores en vez de por hallazgos, sin integrar ni contrastar.",
@@ -178,20 +178,20 @@
       ],
       [
         "Definición operacional",
-        "traducción de un concepto a algo observable o medible"
+        "traducción de un concepto a algo observable o medible, de modo que dos investigadores distintos reconozcan el mismo fenómeno"
       ],
       [
         "Relación teórica",
-        "vínculo propuesto entre conceptos, del que se derivan predicciones"
+        "vínculo propuesto entre dos o más conceptos, del que se derivan predicciones que el estudio puede confirmar o refutar"
       ],
       [
         "Consecuencia observable",
         "hecho que debería ocurrir si la teoría propuesta es adecuada"
       ]
     ],
-    "desarrollo": "Un marco teórico que no orienta ninguna decisión de diseño es decorativo. Su función es doble: definir con precisión los conceptos que se usarán —de modo que otros entiendan qué se midió o se observó— y proponer relaciones que generen expectativas verificables. Si de tu marco no se deriva ninguna predicción, no es un marco: es un capítulo de antecedentes.",
-    "practica": "La prueba práctica consiste en derivar del marco al menos dos observaciones esperadas y una que no se esperaría. Esa última es la más valiosa, porque hace la teoría falsable en el contexto del estudio. Y las definiciones operacionales deben escribirse antes de recoger datos, no después de mirarlos.",
-    "limites": "En investigación cualitativa exploratoria, un marco demasiado rígido puede cerrar la observación a lo previsto y perder lo emergente. Ahí el marco funciona como sensibilizador y no como predictor. Declarar cuál de las dos funciones cumple evita la incoherencia entre marco y método.",
+    "desarrollo": "Un marco teórico que no orienta ninguna decisión de diseño es decorativo. Su función es doble: definir con precisión los conceptos que se usarán —de modo que otros entiendan qué se midió o se observó— y proponer relaciones que generen expectativas verificables. Si de tu marco no se deriva ninguna predicción, no es un marco: es un capítulo de antecedentes. La prueba más simple es preguntarse qué decisión del diseño sería distinta si se hubiera elegido otra teoría; cuando la respuesta es «ninguna», la teoría está puesta encima del estudio y no dentro de él.",
+    "practica": "La prueba práctica consiste en derivar del marco al menos dos observaciones esperadas y una que no se esperaría. Esa última es la más valiosa, porque hace la teoría falsable en el contexto del estudio. Y las definiciones operacionales deben escribirse antes de recoger datos, no después de mirarlos. Escribirlas antes tiene un efecto secundario útil: obliga a descubrir que dos conceptos que parecían distintos se iban a medir con el mismo instrumento, que es un problema de diseño y no de redacción.",
+    "limites": "En investigación cualitativa exploratoria, un marco demasiado rígido puede cerrar la observación a lo previsto y perder lo emergente. Ahí el marco funciona como sensibilizador y no como predictor. Declarar cuál de las dos funciones cumple evita la incoherencia entre marco y método. Conviene además reconocer una tensión real del campo educativo: buena parte de sus teorías proviene de contextos culturales e institucionales distintos, y adoptarlas sin examinar ese origen importa supuestos que aquí no se sostienen.",
     "errores": [
       "Escribir un capítulo de teoría que no orienta ninguna decisión del diseño.",
       "Definir los conceptos después de haber recogido los datos, ajustándolos al resultado."
@@ -241,12 +241,12 @@
       ],
       [
         "Diseño cuasiexperimental",
-        "comparación sin aleatorización, con controles que reducen algunas amenazas"
+        "comparación entre grupos sin asignación aleatoria, con controles que reducen algunas amenazas a la validez pero no todas"
       ]
     ],
     "desarrollo": "Un diseño no es una etiqueta: es un argumento sobre qué explicaciones alternativas quedan descartadas. Un pretest-postest sin grupo de comparación no permite atribuir el cambio a la intervención, porque la maduración, la historia y la regresión a la media explican igual de bien el resultado. Conocer las amenazas y qué controla cada diseño es lo que permite elegir con criterio y, sobre todo, afirmar solo lo que corresponde.",
-    "practica": "El trabajo consiste en listar las amenazas plausibles para tu contexto y decidir qué diseño las controla. En educación, la asignación aleatoria suele ser inviable o inaceptable, y los diseños cuasiexperimentales bien construidos —con grupo de comparación equivalente, medición previa y controles— sostienen inferencias razonables si sus supuestos se declaran.",
-    "limites": "Ningún diseño observacional elimina la posibilidad de variables no medidas. Y los efectos promedio no describen a ningún estudiante en particular: un efecto positivo puede coexistir con perjuicio para un subgrupo. Reportar heterogeneidad de efectos es parte del rigor y rara vez se hace.",
+    "practica": "El trabajo consiste en listar las amenazas plausibles para tu contexto y decidir qué diseño las controla. En educación, la asignación aleatoria suele ser inviable o inaceptable, y los diseños cuasiexperimentales bien construidos —con grupo de comparación equivalente, medición previa y controles— sostienen inferencias razonables si sus supuestos se declaran. Antes de comprometerse con un diseño conviene escribir la explicación alternativa más incómoda: si el grupo que recibió la intervención mejoró porque su docente es mejor y no por la intervención, ¿qué elemento del diseño permitiría notarlo?",
+    "limites": "Ningún diseño observacional elimina la posibilidad de variables no medidas. Y los efectos promedio no describen a ningún estudiante en particular: un efecto positivo puede coexistir con perjuicio para un subgrupo. Reportar heterogeneidad de efectos es parte del rigor y rara vez se hace. En el aula aparece además un problema práctico: los grupos no son independientes, porque los estudiantes comparten docente y curso, y tratar cada respuesta como un dato aislado infla artificialmente la certeza de los resultados.",
     "errores": [
       "Atribuir causalidad a partir de un pretest-postest sin grupo de comparación.",
       "Reportar un efecto promedio sin examinar si beneficia por igual a los distintos subgrupos."
@@ -299,8 +299,8 @@
         "examen explícito del efecto del investigador sobre el campo y sobre la interpretación"
       ]
     ],
-    "desarrollo": "La investigación cualitativa no busca generalizar a poblaciones sino comprender mecanismos, significados y procesos en contextos concretos. Sus criterios de calidad son propios: selección justificada, recolección sistemática, análisis trazable, búsqueda deliberada de casos que contradigan la interpretación y reflexividad sobre la posición del investigador. Aplicarle criterios cuantitativos —tamaño muestral, representatividad— es un error categorial frecuente.",
-    "practica": "El diseño declara por qué esos casos, con qué técnicas se recogerán los datos, cómo se registrarán y cómo se analizarán. La búsqueda activa de evidencia discrepante es el control de calidad más potente: si el investigador solo encuentra confirmaciones, probablemente no las buscó.",
+    "desarrollo": "La investigación cualitativa no busca generalizar a poblaciones sino comprender mecanismos, significados y procesos en contextos concretos. Sus criterios de calidad son propios: selección justificada, recolección sistemática, análisis trazable, búsqueda deliberada de casos que contradigan la interpretación y reflexividad sobre la posición del investigador. Aplicarle criterios cuantitativos —tamaño muestral, representatividad— es un error categorial frecuente. Lo que sí puede ofrecer, y es mucho, es transferibilidad: describir el contexto con suficiente detalle para que otro juzgue si sus condiciones se parecen a las suyas.",
+    "practica": "El diseño declara por qué esos casos, con qué técnicas se recogerán los datos, cómo se registrarán y cómo se analizarán. La búsqueda activa de evidencia discrepante es el control de calidad más potente: si el investigador solo encuentra confirmaciones, probablemente no las buscó. Un hábito que ordena el trabajo es llevar un diario de decisiones metodológicas con fecha: por qué se agregó un caso, por qué se cambió una pregunta de la entrevista, qué se hizo cuando un participante se retiró. Ese registro es después la mitad del capítulo de método.",
     "limites": "El estudio cualitativo no permite estimar prevalencia ni efecto promedio, y su transferibilidad a otros contextos la juzga el lector a partir de la descripción, no el investigador. Además, el análisis es interpretativo y por eso exige documentar el camino: sin trazabilidad, no hay forma de distinguir hallazgo de impresión.",
     "errores": [
       "Generalizar a poblaciones a partir de un estudio de casos.",
@@ -343,7 +343,7 @@
       ],
       [
         "Secuencia",
-        "orden de los componentes: exploratorio, explicativo o convergente"
+        "orden en que se ejecutan los componentes —exploratorio, explicativo o convergente— y que determina cómo uno alimenta al otro"
       ],
       [
         "Integración",
@@ -351,10 +351,10 @@
       ],
       [
         "Yuxtaposición",
-        "error de presentar dos estudios paralelos sin integración real"
+        "error de presentar dos estudios paralelos sin punto de integración, de modo que ninguna conclusión depende de haberlos combinado"
       ]
     ],
-    "desarrollo": "Los métodos mixtos aportan cuando la pregunta tiene dos partes que ningún método responde solo: cuánto ocurre y por qué ocurre, o qué efecto tiene y cómo lo experimentan quienes lo reciben. El error más frecuente es la yuxtaposición: dos estudios pegados sin integración, donde el componente cualitativo funciona como ilustración anecdótica del cuantitativo.",
+    "desarrollo": "Los métodos mixtos aportan cuando la pregunta tiene dos partes que ningún método responde solo: cuánto ocurre y por qué ocurre, o qué efecto tiene y cómo lo experimentan quienes lo reciben. El error más frecuente es la yuxtaposición: dos estudios pegados sin integración, donde el componente cualitativo funciona como ilustración anecdótica del cuantitativo. La integración real deja huella en algún punto concreto del trabajo: en el muestreo, cuando los casos cualitativos se eligen a partir de los resultados numéricos; o en el análisis, cuando ambos conjuntos de datos se confrontan y la discrepancia se investiga en vez de suavizarse.",
     "practica": "El diseño debe declarar el punto de integración desde el inicio: si el componente cualitativo informa el instrumento cuantitativo, si explica sus resultados, o si ambos se comparan para buscar convergencias y discrepancias. Las discrepancias entre componentes son el hallazgo más valioso de un diseño mixto y el que más se omite en los informes.",
     "limites": "Los diseños mixtos exigen competencia en ambas tradiciones y consumen más recursos. Si la pregunta se responde bien con un solo método, mezclar agrega costo sin aportar. Y la integración auténtica es difícil: la mayoría de las tesis que se declaran mixtas presentan dos capítulos separados.",
     "errores": [
@@ -449,7 +449,7 @@
     "conceptos": [
       [
         "Estadística descriptiva",
-        "resumen de los datos observados: distribución, tendencia central, dispersión"
+        "resumen de los datos efectivamente observados —distribución, tendencia central, dispersión— sin pretender aún inferir sobre una población"
       ],
       [
         "Tamaño de efecto",
@@ -464,9 +464,9 @@
         "probabilidad de observar estos datos si no hubiera efecto; no indica importancia ni magnitud"
       ]
     ],
-    "desarrollo": "El error de interpretación más extendido en investigación educativa es tratar la significación estadística como sinónimo de importancia. Un efecto trivial puede ser significativo con una muestra grande, y un efecto relevante puede no serlo con una muestra pequeña. Reportar tamaños de efecto con intervalos de confianza y describir la distribución antes de inferir corrige la mayor parte de esos errores.",
-    "practica": "El orden de trabajo importa: mirar los datos primero —distribuciones, valores extremos, datos faltantes—, describir, y solo después inferir. Los datos faltantes merecen atención explícita: en educación rara vez faltan al azar, y quienes no responden suelen ser precisamente los casos de interés.",
-    "limites": "El análisis correcto no rescata un diseño débil: ninguna técnica estadística convierte una comparación sesgada en evidencia causal. Y la práctica de probar múltiples análisis hasta encontrar uno significativo invalida la interpretación, aunque cada análisis por separado sea correcto.",
+    "desarrollo": "El error de interpretación más extendido en investigación educativa es tratar la significación estadística como sinónimo de importancia. Un efecto trivial puede ser significativo con una muestra grande, y un efecto relevante puede no serlo con una muestra pequeña. Reportar tamaños de efecto con intervalos de confianza y describir la distribución antes de inferir corrige la mayor parte de esos errores. Vale la pena traducir el tamaño de efecto a algo que un equipo escolar entienda: cuántos meses de aprendizaje adicional, o cuántos estudiantes más alcanzarían el umbral, dice mucho más que un valor de d aislado.",
+    "practica": "El orden de trabajo importa: mirar los datos primero —distribuciones, valores extremos, datos faltantes—, describir, y solo después inferir. Los datos faltantes merecen atención explícita: en educación rara vez faltan al azar, y quienes no responden suelen ser precisamente los casos de interés. Un ejercicio disciplinante es escribir el plan de análisis antes de ver los resultados y dejarlo fechado; cualquier análisis posterior que no estaba en ese plan se reporta como exploratorio, que es lo honesto y lo que permite que otro lo lea con el peso adecuado.",
+    "limites": "El análisis correcto no rescata un diseño débil: ninguna técnica estadística convierte una comparación sesgada en evidencia causal. Y la práctica de probar múltiples análisis hasta encontrar uno significativo invalida la interpretación, aunque cada análisis por separado sea correcto. Conviene añadir un límite de contexto: las muestras disponibles en investigación de aula suelen ser pequeñas, de modo que la ausencia de significación casi nunca autoriza a concluir que no hay efecto, solo que este estudio no tenía potencia para detectarlo.",
     "errores": [
       "Reportar significación estadística sin tamaño de efecto ni intervalo de confianza.",
       "Probar múltiples análisis y reportar solo el que resultó significativo."
@@ -519,8 +519,8 @@
         "construcción de códigos desde los datos o desde un marco previo"
       ]
     ],
-    "desarrollo": "El análisis temático es el procedimiento cualitativo más usado y peor aplicado: con frecuencia se declara sin haberlo ejecutado, presentando citas escogidas como si fueran hallazgos. El procedimiento real tiene fases —familiarización, codificación sistemática de todo el material, construcción de temas, revisión contra los datos y definición— y produce un sistema de códigos documentado que permite auditar el camino.",
-    "practica": "La documentación es el control de calidad: un libro de códigos con definiciones, ejemplos y decisiones tomadas durante el proceso. Y la revisión contra los datos es la fase que más se omite: cada tema debe volver a contrastarse con el material completo para verificar que lo representa y no solo que resulta atractivo.",
+    "desarrollo": "El análisis temático es el procedimiento cualitativo más usado y peor aplicado: con frecuencia se declara sin haberlo ejecutado, presentando citas escogidas como si fueran hallazgos. El procedimiento real tiene fases —familiarización, codificación sistemática de todo el material, construcción de temas, revisión contra los datos y definición— y produce un sistema de códigos documentado que permite auditar el camino. Un tema no es un asunto que aparece varias veces: es un patrón con significado compartido que responde algo de la pregunta de investigación, y esa distinción es la que separa un análisis de un resumen ordenado por tópicos.",
+    "practica": "La documentación es el control de calidad: un libro de códigos con definiciones, ejemplos y decisiones tomadas durante el proceso. Y la revisión contra los datos es la fase que más se omite: cada tema debe volver a contrastarse con el material completo para verificar que lo representa y no solo que resulta atractivo. Conviene fijar además qué se hace con lo que no encaja en ningún tema; ese material sobrante suele contener lo más interesante del estudio, y descartarlo sin examinarlo es la forma más silenciosa de forzar los resultados.",
     "limites": "El análisis temático es flexible y esa flexibilidad exige declarar decisiones: si es inductivo o deductivo, si busca significados latentes o manifiestos, y desde qué posición epistemológica se interpreta. Sin esas declaraciones, el método se vuelve una etiqueta que no informa nada sobre lo que efectivamente se hizo.",
     "errores": [
       "Presentar citas seleccionadas como resultados sin mostrar el sistema de códigos.",
@@ -574,9 +574,9 @@
         "publicación anticipada de hipótesis y plan de análisis para evitar la reinterpretación posterior"
       ]
     ],
-    "desarrollo": "Investigar en educación implica trabajar con menores de edad, dentro de instituciones con relaciones de poder y con datos sensibles. Eso exige consentimiento del adulto responsable, asentimiento del propio estudiante, resguardo efectivo de los datos y una evaluación honesta del beneficio: nadie debería participar en un estudio que no le reporta ningún beneficio, ni directo ni al grupo al que pertenece.",
+    "desarrollo": "Investigar en educación implica trabajar con menores de edad, dentro de instituciones con relaciones de poder y con datos sensibles. Eso exige consentimiento del adulto responsable, asentimiento del propio estudiante, resguardo efectivo de los datos y una evaluación honesta del beneficio: nadie debería participar en un estudio que no le reporta ningún beneficio, ni directo ni al grupo al que pertenece. El asentimiento merece un cuidado propio: se pide en un lenguaje que el estudiante entienda, se comprueba que comprendió qué se hará con lo que diga, y se mantiene abierta la posibilidad de retirarse sin consecuencia y sin tener que explicar por qué.",
     "practica": "El protocolo debe incluir documentos comprensibles —no formularios legales incomprensibles—, plan de anonimización, almacenamiento seguro, plazos de conservación y destrucción, y la aprobación del comité correspondiente cuando se requiere. Y las prácticas de reproducibilidad —preregistro, publicación de instrumentos, disponibilidad de datos anonimizados cuando es posible— fortalecen la credibilidad de un campo golpeado por problemas de replicación.",
-    "limites": "El rol dual docente-investigador plantea un problema específico: el estudiante puede sentir que negarse afecta su relación o su calificación. Ese riesgo exige resguardos adicionales —consentimiento gestionado por un tercero, disociación entre participación y evaluación— que muchas investigaciones de aula omiten.",
+    "limites": "El rol dual docente-investigador plantea un problema específico: el estudiante puede sentir que negarse afecta su relación o su calificación. Ese riesgo exige resguardos adicionales —consentimiento gestionado por un tercero, disociación entre participación y evaluación— que muchas investigaciones de aula omiten. Hay además un límite que se descubre tarde: la anonimización es más difícil de lo que parece en una escuela, donde describir «la única docente de física del establecimiento» identifica a una persona aunque no se escriba su nombre.",
     "errores": [
       "Obtener consentimiento con documentos que las familias no pueden comprender.",
       "Investigar con los propios estudiantes sin resguardar el efecto del rol dual sobre su libertad de negarse."
@@ -614,7 +614,7 @@
     "conceptos": [
       [
         "Coherencia interna",
-        "correspondencia entre pregunta, marco, diseño, análisis y conclusiones"
+        "correspondencia verificable entre pregunta, marco, diseño, análisis y conclusiones, de modo que ninguna afirmación final exceda lo que el camino permite sostener"
       ],
       [
         "Alcance declarado",
@@ -630,7 +630,7 @@
       ]
     ],
     "desarrollo": "El proyecto integrador exige coherencia de principio a fin: una pregunta que el diseño pueda responder, un análisis que corresponda a los datos y conclusiones que no excedan la evidencia. La sección de limitaciones es la prueba de honestidad del trabajo: cuando se escribe como trámite —«el tamaño de muestra fue reducido»— no cumple su función; cuando declara qué afirmaciones quedan sin sostén, fortalece el trabajo.",
-    "practica": "El informe debe permitir que otra persona evalúe cada decisión: por qué esa pregunta, ese diseño, esa muestra, ese análisis. Y debe distinguir con claridad hallazgo de interpretación y de recomendación, que es la separación que más frecuentemente se pierde en las tesis educativas.",
+    "practica": "El informe debe permitir que otra persona evalúe cada decisión: por qué esa pregunta, ese diseño, esa muestra, ese análisis. Y debe distinguir con claridad hallazgo de interpretación y de recomendación, que es la separación que más frecuentemente se pierde en las tesis educativas. Una manera práctica de comprobarlo antes de la defensa es marcar el borrador con tres colores y verificar que ninguna recomendación descanse sobre una interpretación que, a su vez, no descanse sobre un hallazgo efectivamente reportado.",
     "limites": "Una investigación de magíster produce evidencia acotada: un contexto, un período, una muestra limitada. Su valor está en la calidad de sus decisiones y en la honestidad de sus límites, no en la magnitud de sus conclusiones. Presentarla como generalizable es el error que más credibilidad quita a un trabajo por lo demás sólido.",
     "errores": [
       "Extender las conclusiones más allá de lo que el diseño y la muestra permiten.",

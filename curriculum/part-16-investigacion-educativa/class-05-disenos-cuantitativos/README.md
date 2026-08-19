@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Validez interna** | grado en que el diseño permite atribuir el resultado a la intervención y no a otra causa |
 | **Amenaza a la validez** | explicación alternativa del resultado: maduración, selección, historia, regresión a la media |
 | **Asignación aleatoria** | procedimiento que equilibra en promedio las diferencias previas entre grupos |
-| **Diseño cuasiexperimental** | comparación sin aleatorización, con controles que reducen algunas amenazas |
+| **Diseño cuasiexperimental** | comparación entre grupos sin asignación aleatoria, con controles que reducen algunas amenazas a la validez pero no todas |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Validez interna*
 mismo que **Amenaza a la validez** —explicación alternativa del resultado: maduración, selección, historia, regresión a la media—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Asignación aleatoria** y
 **Diseño cuasiexperimental** describen aspectos distintos de la misma situación: el primero
-procedimiento que equilibra en promedio las diferencias previas entre grupos, mientras el segundo comparación sin aleatorización, con controles que reducen algunas amenazas.
+procedimiento que equilibra en promedio las diferencias previas entre grupos, mientras el segundo comparación entre grupos sin asignación aleatoria, con controles que reducen algunas amenazas a la validez pero no todas.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El trabajo consiste en listar las amenazas plausibles para tu contexto y decidir qué diseño las controla. En educación, la asignación aleatoria suele ser inviable o inaceptable, y los diseños cuasiexperimentales bien construidos —con grupo de comparación equivalente, medición previa y controles— sostienen inferencias razonables si sus supuestos se declaran.
+El trabajo consiste en listar las amenazas plausibles para tu contexto y decidir qué diseño las controla. En educación, la asignación aleatoria suele ser inviable o inaceptable, y los diseños cuasiexperimentales bien construidos —con grupo de comparación equivalente, medición previa y controles— sostienen inferencias razonables si sus supuestos se declaran. Antes de comprometerse con un diseño conviene escribir la explicación alternativa más incómoda: si el grupo que recibió la intervención mejoró porque su docente es mejor y no por la intervención, ¿qué elemento del diseño permitiría notarlo?
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Ningún diseño observacional elimina la posibilidad de variables no medidas. Y los efectos promedio no describen a ningún estudiante en particular: un efecto positivo puede coexistir con perjuicio para un subgrupo. Reportar heterogeneidad de efectos es parte del rigor y rara vez se hace.
+Ningún diseño observacional elimina la posibilidad de variables no medidas. Y los efectos promedio no describen a ningún estudiante en particular: un efecto positivo puede coexistir con perjuicio para un subgrupo. Reportar heterogeneidad de efectos es parte del rigor y rara vez se hace. En el aula aparece además un problema práctico: los grupos no son independientes, porque los estudiantes comparten docente y curso, y tratar cada respuesta como un dato aislado infla artificialmente la certeza de los resultados.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 

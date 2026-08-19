@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Integridad académica** | conjunto de normas sobre autoría, honestidad y uso legítimo de fuentes y herramientas |
 | **Evaluación resistente** | tarea cuyo resultado no puede producirse sin el aprendizaje que declara evaluar |
 | **Uso legítimo declarado** | política explícita sobre qué herramientas se permiten y bajo qué condiciones |
-| **Debido proceso** | procedimiento justo ante una acusación de falta de integridad |
+| **Debido proceso** | conjunto de garantías —evidencia suficiente, oportunidad de explicar, proporcionalidad y registro— exigibles antes de sancionar una falta de integridad |
 
 ## 🧠 Modelo mental
 
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-La disponibilidad de herramientas generativas volvió inviable la verificación de autoría por inspección del texto, y los detectores automáticos tienen tasas de error que no permiten sostener una acusación. El desplazamiento razonable es doble: hacia evaluaciones donde el producto no se pueda generar sin aprendizaje —defensa oral, producción en clase, trabajo sobre datos propios— y hacia reglas explícitas sobre uso legítimo.
+La disponibilidad de herramientas generativas volvió inviable la verificación de autoría por inspección del texto, y los detectores automáticos tienen tasas de error que no permiten sostener una acusación. El desplazamiento razonable es doble: hacia evaluaciones donde el producto no se pueda generar sin aprendizaje —defensa oral, producción en clase, trabajo sobre datos propios— y hacia reglas explícitas sobre uso legítimo. Vale la pena decirlo con claridad ante el curso: el problema no es la herramienta, es que entregar un texto que uno no entiende impide saber qué aprendió, y esa información le sirve primero al propio estudiante.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Integridad acad�
 mismo que **Evaluación resistente** —tarea cuyo resultado no puede producirse sin el aprendizaje que declara evaluar—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Uso legítimo declarado** y
 **Debido proceso** describen aspectos distintos de la misma situación: el primero
-política explícita sobre qué herramientas se permiten y bajo qué condiciones, mientras el segundo procedimiento justo ante una acusación de falta de integridad.
+política explícita sobre qué herramientas se permiten y bajo qué condiciones, mientras el segundo conjunto de garantías —evidencia suficiente, oportunidad de explicar, proporcionalidad y registro— exigibles antes de sancionar una falta de integridad.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La política de curso debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos concretos. Y el procedimiento ante un incumplimiento debe respetar debido proceso: evidencia, oportunidad de explicar, proporcionalidad y registro. Acusar a partir de un detector automático es técnicamente insostenible y produce daños graves e injustos.
+La política de curso debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos concretos. Y el procedimiento ante un incumplimiento debe respetar debido proceso: evidencia, oportunidad de explicar, proporcionalidad y registro. Acusar a partir de un detector automático es técnicamente insostenible y produce daños graves e injustos. Cuando hay sospecha, la conversación sobre el proceso —qué decidió, qué descartó, por qué eligió ese ejemplo— resuelve la mayoría de los casos sin acusar a nadie.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Hay desacuerdo genuino sobre qué usos son legítimos y sobre cómo evaluar en este contexto: el campo está cambiando y las políticas institucionales van detrás. Cualquier posición debe declararse como decisión provisional y revisable, y comunicarse con anticipación a los estudiantes.
+Hay desacuerdo genuino sobre qué usos son legítimos y sobre cómo evaluar en este contexto: el campo está cambiando y las políticas institucionales van detrás. Cualquier posición debe declararse como decisión provisional y revisable, y comunicarse con anticipación a los estudiantes. Conviene además considerar el efecto de equidad: los detectores producen más falsos positivos en textos de quienes escriben en una segunda lengua, de modo que una política apoyada en ellos castiga más a quienes ya enfrentan más barreras.
 
 > **Cómo leer el estado de evidencia `EN-DEBATE`.** Hay desacuerdo activo y publicado entre especialistas competentes. La clase presenta las posiciones y sus argumentos; tu tarea no es escoger un bando, sino saber qué evidencia te haría cambiar de posición.
 

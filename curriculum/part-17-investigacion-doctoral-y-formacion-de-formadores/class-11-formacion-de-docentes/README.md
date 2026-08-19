@@ -125,7 +125,7 @@ El diseño debe declarar cómo cumple cada característica y cómo evaluará el 
 
 ### 5. Qué sostiene la evidencia y qué no
 
-La evidencia proviene mayormente de programas bien financiados y bien implementados, y los efectos caen al escalar. Además, ningún programa de formación compensa condiciones institucionales que impiden aplicar lo aprendido: sin tiempo, sin materiales y sin respaldo directivo, el cambio no se sostiene.
+La evidencia proviene mayormente de programas bien financiados y bien implementados, y los efectos caen al escalar. Además, ningún programa de formación compensa condiciones institucionales que impiden aplicar lo aprendido: sin tiempo, sin materiales y sin respaldo directivo, el cambio no se sostiene. Hay un problema adicional de medición que conviene tener presente: la mayoría de los estudios reporta satisfacción de los participantes y no cambio en la práctica ni en el aprendizaje de sus estudiantes, que son los resultados que interesan.
 
 > **Cómo leer el estado de evidencia `ROBUSTA`.** Hay evidencia convergente de varios equipos, países y diseños de investigación, incluidos estudios experimentales o cuasiexperimentales, y el efecto se sostiene al replicarlo. Puedes apoyar una decisión profesional en ella, sin olvidar que ningún efecto promedio describe a un estudiante concreto.
 

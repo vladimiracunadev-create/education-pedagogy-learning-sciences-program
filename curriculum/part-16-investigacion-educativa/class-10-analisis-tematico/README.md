@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-El análisis temático es el procedimiento cualitativo más usado y peor aplicado: con frecuencia se declara sin haberlo ejecutado, presentando citas escogidas como si fueran hallazgos. El procedimiento real tiene fases —familiarización, codificación sistemática de todo el material, construcción de temas, revisión contra los datos y definición— y produce un sistema de códigos documentado que permite auditar el camino.
+El análisis temático es el procedimiento cualitativo más usado y peor aplicado: con frecuencia se declara sin haberlo ejecutado, presentando citas escogidas como si fueran hallazgos. El procedimiento real tiene fases —familiarización, codificación sistemática de todo el material, construcción de temas, revisión contra los datos y definición— y produce un sistema de códigos documentado que permite auditar el camino. Un tema no es un asunto que aparece varias veces: es un patrón con significado compartido que responde algo de la pregunta de investigación, y esa distinción es la que separa un análisis de un resumen ordenado por tópicos.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La documentación es el control de calidad: un libro de códigos con definiciones, ejemplos y decisiones tomadas durante el proceso. Y la revisión contra los datos es la fase que más se omite: cada tema debe volver a contrastarse con el material completo para verificar que lo representa y no solo que resulta atractivo.
+La documentación es el control de calidad: un libro de códigos con definiciones, ejemplos y decisiones tomadas durante el proceso. Y la revisión contra los datos es la fase que más se omite: cada tema debe volver a contrastarse con el material completo para verificar que lo representa y no solo que resulta atractivo. Conviene fijar además qué se hace con lo que no encaja en ningún tema; ese material sobrante suele contener lo más interesante del estudio, y descartarlo sin examinarlo es la forma más silenciosa de forzar los resultados.
 
 ### 5. Qué sostiene la evidencia y qué no
 

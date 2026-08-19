@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Propuesta doctoral** | documento que compromete un problema, un diseño y un plan verificable de ejecución |
 | **Factibilidad** | posibilidad real de ejecutar la investigación con el acceso, el tiempo y los recursos disponibles |
 | **Objeción anticipada** | crítica previsible que la propuesta responde antes de que se formule |
-| **Defensa** | argumentación fundamentada de las decisiones ante una comisión especializada |
+| **Defensa** | argumentación fundamentada de cada decisión del trabajo ante una comisión especializada, que incluye reconocer con precisión los límites de lo que se puede afirmar |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Propuesta doctor
 mismo que **Factibilidad** —posibilidad real de ejecutar la investigación con el acceso, el tiempo y los recursos disponibles—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Objeción anticipada** y
 **Defensa** describen aspectos distintos de la misma situación: el primero
-crítica previsible que la propuesta responde antes de que se formule, mientras el segundo argumentación fundamentada de las decisiones ante una comisión especializada.
+crítica previsible que la propuesta responde antes de que se formule, mientras el segundo argumentación fundamentada de cada decisión del trabajo ante una comisión especializada, que incluye reconocer con precisión los límites de lo que se puede afirmar.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no

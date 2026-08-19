@@ -40,8 +40,8 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | Concepto | Comprensión verificable |
 |---|---|
 | **Marco teórico** | conjunto articulado de conceptos y relaciones que orienta el diseño y la interpretación |
-| **Definición operacional** | traducción de un concepto a algo observable o medible |
-| **Relación teórica** | vínculo propuesto entre conceptos, del que se derivan predicciones |
+| **Definición operacional** | traducción de un concepto a algo observable o medible, de modo que dos investigadores distintos reconozcan el mismo fenómeno |
+| **Relación teórica** | vínculo propuesto entre dos o más conceptos, del que se derivan predicciones que el estudio puede confirmar o refutar |
 | **Consecuencia observable** | hecho que debería ocurrir si la teoría propuesta es adecuada |
 
 ## 🧠 Modelo mental
@@ -88,16 +88,16 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Un marco teórico que no orienta ninguna decisión de diseño es decorativo. Su función es doble: definir con precisión los conceptos que se usarán —de modo que otros entiendan qué se midió o se observó— y proponer relaciones que generen expectativas verificables. Si de tu marco no se deriva ninguna predicción, no es un marco: es un capítulo de antecedentes.
+Un marco teórico que no orienta ninguna decisión de diseño es decorativo. Su función es doble: definir con precisión los conceptos que se usarán —de modo que otros entiendan qué se midió o se observó— y proponer relaciones que generen expectativas verificables. Si de tu marco no se deriva ninguna predicción, no es un marco: es un capítulo de antecedentes. La prueba más simple es preguntarse qué decisión del diseño sería distinta si se hubiera elegido otra teoría; cuando la respuesta es «ninguna», la teoría está puesta encima del estudio y no dentro de él.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Marco teórico** no es lo
-mismo que **Definición operacional** —traducción de un concepto a algo observable o medible—, y tratarlos como sinónimos hace
+mismo que **Definición operacional** —traducción de un concepto a algo observable o medible, de modo que dos investigadores distintos reconozcan el mismo fenómeno—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Relación teórica** y
 **Consecuencia observable** describen aspectos distintos de la misma situación: el primero
-vínculo propuesto entre conceptos, del que se derivan predicciones, mientras el segundo hecho que debería ocurrir si la teoría propuesta es adecuada.
+vínculo propuesto entre dos o más conceptos, del que se derivan predicciones que el estudio puede confirmar o refutar, mientras el segundo hecho que debería ocurrir si la teoría propuesta es adecuada.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La prueba práctica consiste en derivar del marco al menos dos observaciones esperadas y una que no se esperaría. Esa última es la más valiosa, porque hace la teoría falsable en el contexto del estudio. Y las definiciones operacionales deben escribirse antes de recoger datos, no después de mirarlos.
+La prueba práctica consiste en derivar del marco al menos dos observaciones esperadas y una que no se esperaría. Esa última es la más valiosa, porque hace la teoría falsable en el contexto del estudio. Y las definiciones operacionales deben escribirse antes de recoger datos, no después de mirarlos. Escribirlas antes tiene un efecto secundario útil: obliga a descubrir que dos conceptos que parecían distintos se iban a medir con el mismo instrumento, que es un problema de diseño y no de redacción.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-En investigación cualitativa exploratoria, un marco demasiado rígido puede cerrar la observación a lo previsto y perder lo emergente. Ahí el marco funciona como sensibilizador y no como predictor. Declarar cuál de las dos funciones cumple evita la incoherencia entre marco y método.
+En investigación cualitativa exploratoria, un marco demasiado rígido puede cerrar la observación a lo previsto y perder lo emergente. Ahí el marco funciona como sensibilizador y no como predictor. Declarar cuál de las dos funciones cumple evita la incoherencia entre marco y método. Conviene además reconocer una tensión real del campo educativo: buena parte de sus teorías proviene de contextos culturales e institucionales distintos, y adoptarlas sin examinar ese origen importa supuestos que aquí no se sostienen.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 
@@ -181,7 +181,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
 | Intervenir sobre **Marco teórico** | Conjunto articulado de conceptos y relaciones que orienta el diseño y la interpretación | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Definición operacional** | Traducción de un concepto a algo observable o medible | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Definición operacional** | Traducción de un concepto a algo observable o medible, de modo que dos investigadores distintos reconozcan el mismo fenómeno | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

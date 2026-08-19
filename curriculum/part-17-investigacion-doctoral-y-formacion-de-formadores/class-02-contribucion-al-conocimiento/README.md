@@ -39,8 +39,8 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Contribución teórica** | aporte que modifica, refina o refuta una explicación existente |
-| **Contribución metodológica** | desarrollo o validación de un instrumento, procedimiento o diseño |
+| **Contribución teórica** | aporte que modifica, refina o refuta una explicación existente, y no solo agrega un caso más a lo ya establecido |
+| **Contribución metodológica** | desarrollo o validación de un instrumento, procedimiento o diseño que otros podrán usar en contextos distintos del original |
 | **Contribución empírica** | evidencia nueva sobre un fenómeno, población o contexto no estudiado |
 | **Contribución de síntesis** | integración de evidencia dispersa que reorganiza lo que el campo sabe |
 
@@ -94,7 +94,7 @@ En educación la contribución puede tomar varias formas, y cada una se juzga co
 
 Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
 inocua: produce decisiones que atacan el problema equivocado. **Contribución teórica** no es lo
-mismo que **Contribución metodológica** —desarrollo o validación de un instrumento, procedimiento o diseño—, y tratarlos como sinónimos hace
+mismo que **Contribución metodológica** —desarrollo o validación de un instrumento, procedimiento o diseño que otros podrán usar en contextos distintos del original—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Contribución empírica** y
 **Contribución de síntesis** describen aspectos distintos de la misma situación: el primero
 evidencia nueva sobre un fenómeno, población o contexto no estudiado, mientras el segundo integración de evidencia dispersa que reorganiza lo que el campo sabe.
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La defensa de la contribución debe formularse en una frase verificable: «este estudio muestra que X ocurre bajo condiciones Y, lo que el modelo Z no predecía». Esa formulación obliga a precisar y expone de inmediato las contribuciones débiles, que son las que se enuncian en términos generales de aporte al conocimiento del área.
+La defensa de la contribución debe formularse en una frase verificable: «este estudio muestra que X ocurre bajo condiciones Y, lo que el modelo Z no predecía». Esa formulación obliga a precisar y expone de inmediato las contribuciones débiles, que son las que se enuncian en términos generales de aporte al conocimiento del área. Conviene además ubicar la contribución en una conversación concreta: qué autores están discutiendo esto hoy, qué sostiene cada uno y en qué punto exacto de esa discusión entra el trabajo propio.
 
 ### 5. Qué sostiene la evidencia y qué no
 
@@ -180,8 +180,8 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Contribución teórica** | Aporte que modifica, refina o refuta una explicación existente | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
-| Intervenir sobre **Contribución metodológica** | Desarrollo o validación de un instrumento, procedimiento o diseño | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Intervenir sobre **Contribución teórica** | Aporte que modifica, refina o refuta una explicación existente, y no solo agrega un caso más a lo ya establecido | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Contribución metodológica** | Desarrollo o validación de un instrumento, procedimiento o diseño que otros podrán usar en contextos distintos del original | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
 

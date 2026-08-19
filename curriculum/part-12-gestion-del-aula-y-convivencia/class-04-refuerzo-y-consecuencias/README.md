@@ -39,7 +39,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 
 | Concepto | Comprensión verificable |
 |---|---|
-| **Reforzamiento** | consecuencia que aumenta la probabilidad de una conducta deseada |
+| **Reforzamiento** | consecuencia que sigue a una conducta y aumenta la probabilidad de que se repita; su efecto depende de la certeza y la inmediatez, no de la intensidad |
 | **Consecuencia lógica** | respuesta relacionada con la conducta y proporcional a su gravedad |
 | **Previsibilidad** | condición de que la consecuencia sea conocida de antemano y se aplique con consistencia |
 | **Retirada del sistema externo** | plan para que la conducta se sostenga sin depender del refuerzo aplicado |
@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Las consecuencias funcionan cuando son previsibles, proporcionales y se aplican con consistencia; fallan cuando son arbitrarias, desproporcionadas o dependen del ánimo del adulto. El reconocimiento tiene el mismo requisito: reconocer conductas específicas —«completaste el procedimiento sin saltarte la verificación»— enseña; elogiar la persona no. Y todo sistema externo necesita plan de retirada, porque su objetivo es volverse innecesario.
+Las consecuencias funcionan cuando son previsibles, proporcionales y se aplican con consistencia; fallan cuando son arbitrarias, desproporcionadas o dependen del ánimo del adulto. El reconocimiento tiene el mismo requisito: reconocer conductas específicas —«completaste el procedimiento sin saltarte la verificación»— enseña; elogiar la persona no. Y todo sistema externo necesita plan de retirada, porque su objetivo es volverse innecesario. Vale la pena recordar por qué: la certeza de que la consecuencia llegará pesa más que su severidad, de modo que subir el castigo cuando el sistema no funciona suele empeorar el problema en vez de corregirlo.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -180,7 +180,7 @@ elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
 
 | Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
 |---|---|---|---|
-| Intervenir sobre **Reforzamiento** | Consecuencia que aumenta la probabilidad de una conducta deseada | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Reforzamiento** | Consecuencia que sigue a una conducta y aumenta la probabilidad de que se repita; su efecto depende de la certeza y la inmediatez, no de la intensidad | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
 | Intervenir sobre **Consecuencia lógica** | Respuesta relacionada con la conducta y proporcional a su gravedad | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
 | Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
 | Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |

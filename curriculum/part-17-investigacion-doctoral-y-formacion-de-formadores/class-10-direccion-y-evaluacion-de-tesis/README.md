@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Dirigir tesis mal produce dos resultados igualmente malos: trabajos escritos por el director y estudiantes abandonados a su suerte. El equilibrio se sostiene con acuerdos explícitos y con traspaso progresivo de autonomía. Y la evaluación exige criterios públicos: cuando el estándar se descubre en la defensa, la evaluación se percibe —con razón— como arbitraria.
+Dirigir tesis mal produce dos resultados igualmente malos: trabajos escritos por el director y estudiantes abandonados a su suerte. El equilibrio se sostiene con acuerdos explícitos y con traspaso progresivo de autonomía. Y la evaluación exige criterios públicos: cuando el estándar se descubre en la defensa, la evaluación se percibe —con razón— como arbitraria. Una manera concreta de graduar la autonomía es cambiar el tipo de pregunta del director a lo largo del proceso: al inicio, qué vas a hacer y por qué; hacia el final, qué objeción esperas y cómo la responderías.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -125,7 +125,7 @@ El protocolo de dirección define frecuencia, formato de entregas, plazos de res
 
 ### 5. Qué sostiene la evidencia y qué no
 
-No hay evidencia experimental sobre modelos de dirección: es conocimiento profesional con variación disciplinar y cultural fuerte. Lo que sí está documentado es que la calidad de la supervisión predice la finalización y la experiencia del estudiante mejor que casi cualquier otra variable institucional.
+No hay evidencia experimental sobre modelos de dirección: es conocimiento profesional con variación disciplinar y cultural fuerte. Lo que sí está documentado es que la calidad de la supervisión predice la finalización y la experiencia del estudiante mejor que casi cualquier otra variable institucional. Conviene reconocer también el peso de las condiciones: dirigir bien exige tiempo asignado, y en muchos programas la dirección de tesis se realiza fuera de la carga formal reconocida.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 
@@ -305,7 +305,7 @@ ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de
 
 ## ♿ Diversidad, accesibilidad y ética
 
-Los estudiantes sin capital académico familiar desconocen las reglas implícitas del posgrado. Explicitar criterios y procedimientos es la intervención más directa de equidad disponible en este nivel.
+Los estudiantes sin capital académico familiar desconocen las reglas implícitas del posgrado: cuánto se puede preguntar, qué significa un plazo, cómo se pide una prórroga, qué se espera en una defensa. Explicitar criterios y procedimientos es la intervención más directa de equidad disponible en este nivel, y cuesta una conversación de treinta minutos al inicio del proceso.
 
 Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revisa el
 [protocolo de práctica responsable](../../../docs/ETICA_Y_PRACTICA_RESPONSABLE.md):

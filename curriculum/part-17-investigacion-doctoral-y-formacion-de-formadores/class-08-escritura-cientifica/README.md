@@ -42,7 +42,7 @@ producción de evidencia: es la única parte que prueba el aprendizaje.
 | **Argumento central** | afirmación principal que el texto sostiene, formulable en una frase |
 | **Estructura convencional** | organización esperada por el campo, que facilita la lectura y la revisión |
 | **Precisión** | correspondencia exacta entre lo que se afirma y lo que la evidencia sostiene |
-| **Revisión entre pares previa** | lectura crítica de colegas antes de someter el manuscrito |
+| **Revisión entre pares previa** | lectura crítica solicitada a colegas antes de someter el manuscrito, que anticipa las objeciones que hará la revista |
 
 ## 🧠 Modelo mental
 
@@ -97,7 +97,7 @@ inocua: produce decisiones que atacan el problema equivocado. **Argumento centra
 mismo que **Estructura convencional** —organización esperada por el campo, que facilita la lectura y la revisión—, y tratarlos como sinónimos hace
 que la intervención se dirija al lugar incorrecto. Del mismo modo, **Precisión** y
 **Revisión entre pares previa** describen aspectos distintos de la misma situación: el primero
-correspondencia exacta entre lo que se afirma y lo que la evidencia sostiene, mientras el segundo lectura crítica de colegas antes de someter el manuscrito.
+correspondencia exacta entre lo que se afirma y lo que la evidencia sostiene, mientras el segundo lectura crítica solicitada a colegas antes de someter el manuscrito, que anticipa las objeciones que hará la revista.
 
 La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
 observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-La disciplina más útil es escribir el argumento central en una frase antes de redactar, y comprobar al final que cada sección lo sostiene. Y la precisión exige revisar cada afirmación contra la evidencia: las palabras «demuestra», «prueba» y «confirma» rara vez son correctas; «sugiere», «es consistente con» y «no permite descartar» suelen serlo.
+La disciplina más útil es escribir el argumento central en una frase antes de redactar, y comprobar al final que cada sección lo sostiene. Y la precisión exige revisar cada afirmación contra la evidencia: las palabras «demuestra», «prueba» y «confirma» rara vez son correctas; «sugiere», «es consistente con» y «no permite descartar» suelen serlo. Ayuda escribir primero los resultados y el método, que son los más objetivos, y dejar la introducción para el final: solo entonces se sabe con precisión qué se está introduciendo.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Las convenciones varían por disciplina y por revista, y la escritura académica en un idioma no materno impone una carga adicional real que los procesos de revisión no siempre reconocen. Buscar apoyo de edición no es una debilidad sino una práctica profesional habitual.
+Las convenciones varían por disciplina y por revista, y la escritura académica en un idioma no materno impone una carga adicional real que los procesos de revisión no siempre reconocen. Buscar apoyo de edición no es una debilidad sino una práctica profesional habitual. Existe además una asimetría de acceso que conviene nombrar: publicar en revistas de alto alcance suele exigir cargos por procesamiento que muchos investigadores de la región no pueden pagar, y eso condiciona dónde termina circulando el conocimiento producido localmente.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
 

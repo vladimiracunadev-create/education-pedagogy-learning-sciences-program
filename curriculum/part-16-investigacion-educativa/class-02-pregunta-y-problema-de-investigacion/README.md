@@ -88,7 +88,7 @@ flowchart TB
 
 ### 1. El fondo del asunto
 
-Una pregunta demasiado amplia no se responde; una demasiado obvia no aporta; una cuya respuesta no cambiaría nada no justifica el esfuerzo. El trabajo de delimitación es el menos glamoroso y el que más determina el destino de una investigación. Un buen indicador: si no puedes anticipar cómo se vería la respuesta y qué implicaría, la pregunta todavía no está lista.
+Una pregunta demasiado amplia no se responde; una demasiado obvia no aporta; una cuya respuesta no cambiaría nada no justifica el esfuerzo. El trabajo de delimitación es el menos glamoroso y el que más determina el destino de una investigación. Un buen indicador: si no puedes anticipar cómo se vería la respuesta y qué implicaría, la pregunta todavía no está lista. Suele ayudar el camino inverso: en vez de partir del tema —«la motivación en enseñanza media»—, parte de la decisión que alguien tendría que tomar distinto y retrocede desde ahí hasta la pregunta que la informaría.
 
 ### 2. Frontera conceptual: qué es y qué no es
 
@@ -121,7 +121,7 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El procedimiento consiste en escribir la pregunta, anticipar sus respuestas posibles y declarar qué cambiaría con cada una. Si todas las respuestas llevan a la misma conclusión práctica, la pregunta no discrimina. Y la factibilidad debe evaluarse antes: acceso al campo, permisos, tiempo real disponible y competencias metodológicas propias.
+El procedimiento consiste en escribir la pregunta, anticipar sus respuestas posibles y declarar qué cambiaría con cada una. Si todas las respuestas llevan a la misma conclusión práctica, la pregunta no discrimina. Y la factibilidad debe evaluarse antes: acceso al campo, permisos, tiempo real disponible y competencias metodológicas propias. Conviene hacer esa evaluación con fechas en la mano y no en abstracto: quien investiga mientras trabaja en aula dispone, en la práctica, de las vacaciones de invierno y de dos horas por semana, y una pregunta que exige cuarenta entrevistas no cabe en ese presupuesto.
 
 ### 5. Qué sostiene la evidencia y qué no
 

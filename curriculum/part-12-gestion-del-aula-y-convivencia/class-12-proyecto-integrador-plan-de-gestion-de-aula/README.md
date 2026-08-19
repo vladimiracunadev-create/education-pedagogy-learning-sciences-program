@@ -121,11 +121,11 @@ su trabajo.
 
 ### 4. Cómo se traduce en decisiones de enseñanza
 
-El plan se organiza en capas: diseño preventivo, sistema de normas y rutinas, escala de respuesta, comunicación y trabajo con familias, y protocolos de derivación. Y define indicadores simples de seguimiento: minutos hasta el inicio efectivo, número de intervenciones por semana, participación distribuida, incidentes registrados.
+El plan se organiza en capas: diseño preventivo, sistema de normas y rutinas, escala de respuesta, comunicación y trabajo con familias, y protocolos de derivación. Y define indicadores simples de seguimiento: minutos hasta el inicio efectivo, número de intervenciones por semana, participación distribuida, incidentes registrados. Conviene fijar además la primera semana con detalle —qué se enseña cada día de las rutinas, en qué orden— porque es el período que define el resto del año y el que más frecuentemente se improvisa.
 
 ### 5. Qué sostiene la evidencia y qué no
 
-Ningún plan de aula compensa condiciones institucionales adversas ni situaciones que exceden lo pedagógico. Declarar esos límites protege al docente de asumir responsabilidades que no le corresponden y permite argumentar ante el equipo directivo con evidencia.
+Ningún plan de aula compensa condiciones institucionales adversas ni situaciones que exceden lo pedagógico. Declarar esos límites protege al docente de asumir responsabilidades que no le corresponden y permite argumentar ante el equipo directivo con evidencia. Hay además un límite temporal que conviene anticipar: los sistemas de aula se erosionan hacia mitad de año, cuando la rutina se relaja y la energía baja, de modo que el plan debería incluir un momento previsto para reenseñar lo que se dio por instalado en marzo.
 
 > **Cómo leer el estado de evidencia `CONSISTENTE`.** La evidencia es amplia y coherente, pero proviene sobre todo de estudios correlacionales, de síntesis con heterogeneidad alta o de contextos distintos al tuyo. Sirve para orientar la decisión y exige que compruebes el efecto en tu propio grupo.
 

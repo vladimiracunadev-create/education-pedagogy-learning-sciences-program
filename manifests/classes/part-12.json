@@ -21,7 +21,7 @@
       ],
       [
         "Exigencia con apoyo",
-        "combinación de expectativas altas con andamiaje suficiente para alcanzarlas"
+        "combinación de expectativas altas con el andamiaje suficiente para alcanzarlas; sin apoyo la exigencia excluye, sin exigencia el apoyo condesciende"
       ]
     ],
     "desarrollo": "El clima no es un ambiente que se produce solo: es el resultado acumulado de decisiones. La previsibilidad de la rutina, la equidad del trato, la forma de corregir el error y el nivel de exigencia sostenido con apoyo explican más del clima que cualquier característica personal. Y el clima importa porque condiciona la disposición a arriesgarse: en un curso donde equivocarse tiene costo social, nadie pregunta.",
@@ -79,7 +79,7 @@
         "estado en que la rutina se ejecuta sin necesidad de recordarla"
       ]
     ],
-    "desarrollo": "Las normas publicadas al inicio y nunca practicadas se incumplen sistemáticamente, y su incumplimiento se atribuye a los estudiantes. La alternativa es tratarlas como contenido: pocas normas, formuladas en positivo, explicadas en su razón, modeladas por el docente, practicadas y corregidas con paciencia durante las primeras semanas. El tiempo invertido ahí se recupera con creces durante el año.",
+    "desarrollo": "Las normas publicadas al inicio y nunca practicadas se incumplen sistemáticamente, y su incumplimiento se atribuye a los estudiantes. La alternativa es tratarlas como contenido: pocas normas, formuladas en positivo, explicadas en su razón, modeladas por el docente, practicadas y corregidas con paciencia durante las primeras semanas. El tiempo invertido ahí se recupera con creces durante el año. Conviene distinguir norma de rutina: la norma dice qué se espera —«escuchamos sin interrumpir»— y la rutina dice exactamente cómo se hace algo —cómo se entra, cómo se reparte el material, qué se hace al terminar—. Las rutinas son las que devuelven minutos de clase, y son también las que casi nadie enseña explícitamente.",
     "practica": "La instalación se verifica observando: si hay que recordar la rutina cada vez, aún no está instalada. La corrección durante la fase de enseñanza no es sanción: es enseñanza. Y la participación de los estudiantes en la formulación de las normas aumenta su legitimidad, especialmente en cursos mayores, siempre que la participación sea real y no una consulta decorativa.",
     "limites": "Las normas ordenan la convivencia cotidiana y no resuelven conflictos de fondo ni situaciones que requieren protocolo. Además, un sistema demasiado extenso se vuelve inaplicable: pocas normas sostenidas funcionan mejor que muchas enunciadas y aplicadas de forma selectiva, que es lo que más deteriora la legitimidad.",
     "errores": [
@@ -134,9 +134,9 @@
         "instante recurrente —inicio, transiciones, entrega de material, cierre— donde se concentran los problemas"
       ]
     ],
-    "desarrollo": "El hallazgo clásico de la investigación sobre gestión de aula sigue vigente: la diferencia entre docentes con muchos y pocos problemas no está en cómo responden sino en qué hacen antes. Percepción simultánea, ritmo sostenido, transiciones breves y ausencia de tiempos muertos eliminan la mayor parte de las oportunidades de disrupción. La conducta problemática aparece, sobre todo, en el vacío.",
-    "practica": "El análisis de momentos críticos es directo: registrar cuándo ocurren los problemas durante una semana. El patrón aparece rápido —los primeros minutos, las transiciones, el momento en que unos terminan antes— y cada momento tiene una solución de diseño: una tarea al entrar, una señal de transición ensayada, trabajo previsto para quien termina antes.",
-    "limites": "La prevención reduce la disrupción ordinaria y no resuelve situaciones que tienen causas fuera del aula: violencia, vulneración, salud mental o conflicto sostenido entre estudiantes requieren otra respuesta. Confundirlas produce docentes que intentan resolver con técnica lo que necesita intervención institucional.",
+    "desarrollo": "El hallazgo clásico de la investigación sobre gestión de aula sigue vigente: la diferencia entre docentes con muchos y pocos problemas no está en cómo responden sino en qué hacen antes. Percepción simultánea, ritmo sostenido, transiciones breves y ausencia de tiempos muertos eliminan la mayor parte de las oportunidades de disrupción. La conducta problemática aparece, sobre todo, en el vacío. Ese hallazgo tiene una consecuencia poco cómoda para la formación docente: se enseña mucho sobre cómo responder a la disrupción y muy poco sobre cómo diseñar una clase donde no haya lugar para ella.",
+    "practica": "El análisis de momentos críticos es directo: registrar cuándo ocurren los problemas durante una semana. El patrón aparece rápido —los primeros minutos, las transiciones, el momento en que unos terminan antes— y cada momento tiene una solución de diseño: una tarea al entrar, una señal de transición ensayada, trabajo previsto para quien termina antes. Conviene registrar también qué estaba haciendo el docente en cada episodio: la mayoría ocurre mientras se atiende a un estudiante de espaldas al curso, y esa observación cambia más la práctica que cualquier técnica de disciplina.",
+    "limites": "La prevención reduce la disrupción ordinaria y no resuelve situaciones que tienen causas fuera del aula: violencia, vulneración, salud mental o conflicto sostenido entre estudiantes requieren otra respuesta. Confundirlas produce docentes que intentan resolver con técnica lo que necesita intervención institucional. Hay además un límite de condiciones: cuarenta estudiantes en una sala pequeña, sin espacio para circular, restringen de entrada varias de las prácticas preventivas mejor documentadas, y nombrar esa restricción es más honesto que atribuir el resultado a la habilidad del docente.",
     "errores": [
       "Diseñar la clase sin previsión para quienes terminan antes.",
       "Atribuir a la conducta de los estudiantes problemas que se originan en tiempos muertos del diseño."
@@ -174,7 +174,7 @@
     "conceptos": [
       [
         "Reforzamiento",
-        "consecuencia que aumenta la probabilidad de una conducta deseada"
+        "consecuencia que sigue a una conducta y aumenta la probabilidad de que se repita; su efecto depende de la certeza y la inmediatez, no de la intensidad"
       ],
       [
         "Consecuencia lógica",
@@ -189,7 +189,7 @@
         "plan para que la conducta se sostenga sin depender del refuerzo aplicado"
       ]
     ],
-    "desarrollo": "Las consecuencias funcionan cuando son previsibles, proporcionales y se aplican con consistencia; fallan cuando son arbitrarias, desproporcionadas o dependen del ánimo del adulto. El reconocimiento tiene el mismo requisito: reconocer conductas específicas —«completaste el procedimiento sin saltarte la verificación»— enseña; elogiar la persona no. Y todo sistema externo necesita plan de retirada, porque su objetivo es volverse innecesario.",
+    "desarrollo": "Las consecuencias funcionan cuando son previsibles, proporcionales y se aplican con consistencia; fallan cuando son arbitrarias, desproporcionadas o dependen del ánimo del adulto. El reconocimiento tiene el mismo requisito: reconocer conductas específicas —«completaste el procedimiento sin saltarte la verificación»— enseña; elogiar la persona no. Y todo sistema externo necesita plan de retirada, porque su objetivo es volverse innecesario. Vale la pena recordar por qué: la certeza de que la consecuencia llegará pesa más que su severidad, de modo que subir el castigo cuando el sistema no funciona suele empeorar el problema en vez de corregirlo.",
     "practica": "El sistema graduado se decide antes: qué se hace ante una conducta menor, ante su repetición y ante una falta seria. Escrito y conocido, elimina la negociación en el momento. La retirada se planifica desde el inicio: espaciar el reconocimiento, trasladar el foco al progreso propio y hacer explícito el criterio interno de la conducta.",
     "limites": "Los sistemas de puntos y premios producen efectos a corto plazo y riesgos conocidos: pueden reducir la motivación en tareas que ya interesaban y crear dependencia del refuerzo. Además, en conductas cuya causa es una dificultad de regulación, el castigo no enseña la conducta faltante: solo la sanciona.",
     "errores": [
@@ -244,9 +244,9 @@
         "acción final que restablece la relación de trabajo después de la corrección"
       ]
     ],
-    "desarrollo": "En una situación tensa, la elección de palabras decide el resultado. Describir la conducta —«estás hablando mientras explico»— permite corregir; calificar a la persona —«eres un desordenado»— obliga al estudiante a defenderse ante sus pares y garantiza la escalada. El tono y la postura pesan tanto como las palabras: acercarse, bajar la voz y no exigir contacto visual reducen la confrontación.",
+    "desarrollo": "En una situación tensa, la elección de palabras decide el resultado. Describir la conducta —«estás hablando mientras explico»— permite corregir; calificar a la persona —«eres un desordenado»— obliga al estudiante a defenderse ante sus pares y garantiza la escalada. El tono y la postura pesan tanto como las palabras: acercarse, bajar la voz y no exigir contacto visual reducen la confrontación. Ayuda tener preparadas de antemano tres o cuatro frases para los momentos que se repiten, porque en el momento del conflicto nadie improvisa bien: se dice lo primero que aparece, y lo primero que aparece suele ser lo que uno escuchó cuando era estudiante.",
     "practica": "Tener guiones preparados para las situaciones frecuentes evita improvisar bajo presión. Un guion incluye la frase inicial, la respuesta prevista del estudiante, la segunda intervención y el cierre. Y siempre termina con un cierre relacional posterior: una interacción normal a los pocos minutos que muestre que la corrección terminó con la conducta y no con la relación.",
-    "limites": "No hay evidencia experimental robusta sobre fórmulas verbales específicas: es conocimiento profesional acumulado y sensible al contexto cultural. Lo que sí está documentado es el efecto de la corrección pública sobre el estatus en la adolescencia, y de la consistencia sobre la legitimidad.",
+    "limites": "No hay evidencia experimental robusta sobre fórmulas verbales específicas: es conocimiento profesional acumulado y sensible al contexto cultural. Lo que sí está documentado es el efecto de la corrección pública sobre el estatus en la adolescencia, y de la consistencia sobre la legitimidad. Conviene además desconfiar de los guiones cerrados: una frase que se repite igual ante cualquier situación se percibe como técnica y pierde el efecto que tenía cuando comunicaba atención real a lo que estaba pasando.",
     "errores": [
       "Calificar a la persona en vez de describir la conducta.",
       "Terminar la corrección sin ninguna interacción posterior que restablezca la relación."
@@ -284,7 +284,7 @@
     "conceptos": [
       [
         "Conflicto",
-        "desacuerdo entre partes con poder relativamente equivalente; es mediable"
+        "desacuerdo entre partes con poder relativamente equivalente, sin patrón de repetición ni asimetría sostenida; admite mediación"
       ],
       [
         "Hostigamiento",
@@ -299,9 +299,9 @@
         "traspaso a la instancia competente cuando la situación excede la mediación pedagógica"
       ]
     ],
-    "desarrollo": "La primera decisión es de clasificación y determina todo lo demás: un conflicto entre pares con poder equivalente se puede mediar; una situación de hostigamiento sostenido no, porque la mediación expone a quien es agredido y legitima una equivalencia que no existe. Confundir ambas es el error más grave y más frecuente en la gestión de convivencia escolar.",
-    "practica": "El protocolo define primero los criterios de clasificación —asimetría, repetición, intención, efecto— y después el procedimiento para cada caso. Para el conflicto mediable, un procedimiento restaurativo con preguntas estructuradas y acuerdo verificable. Para el hostigamiento, protección de la víctima, intervención sobre el agresor y activación del protocolo institucional.",
-    "limites": "La evidencia sobre prácticas restaurativas en escuelas es prometedora y todavía limitada: los estudios muestran efectos en clima y en reducción de sanciones, con alta variabilidad según implementación. No sustituyen los protocolos obligatorios ante situaciones que la norma tipifica.",
+    "desarrollo": "La primera decisión es de clasificación y determina todo lo demás: un conflicto entre pares con poder equivalente se puede mediar; una situación de hostigamiento sostenido no, porque la mediación expone a quien es agredido y legitima una equivalencia que no existe. Confundir ambas es el error más grave y más frecuente en la gestión de convivencia escolar. La confusión tiene una causa identificable: quien agrede suele relatar el episodio como un conflicto mutuo, y ese relato es más fácil de administrar para el adulto que la alternativa, que obliga a activar un protocolo y a sostener una intervención larga.",
+    "practica": "El protocolo define primero los criterios de clasificación —asimetría, repetición, intención, efecto— y después el procedimiento para cada caso. Para el conflicto mediable, un procedimiento restaurativo con preguntas estructuradas y acuerdo verificable. Para el hostigamiento, protección de la víctima, intervención sobre el agresor y activación del protocolo institucional. En ambos casos, la clasificación se hace después de reunir antecedentes y no durante el primer relato: preguntar a terceros, revisar registros previos y conversar por separado suele cambiar la lectura inicial.",
+    "limites": "La evidencia sobre prácticas restaurativas en escuelas es prometedora y todavía limitada: los estudios muestran efectos en clima y en reducción de sanciones, con alta variabilidad según implementación. No sustituyen los protocolos obligatorios ante situaciones que la norma tipifica. Tampoco funcionan sin formación: una mediación conducida por alguien sin preparación tiende a derivar en un pacto de silencio entre las partes, que cierra el episodio sin reparar nada.",
     "errores": [
       "Mediar una situación de hostigamiento como si fuera un conflicto entre iguales.",
       "Cerrar la intervención sin acuerdo verificable ni seguimiento posterior."
@@ -347,16 +347,16 @@
       ],
       [
         "Historia de fracaso",
-        "acumulación de experiencias que hacen racional dejar de intentar"
+        "acumulación de experiencias escolares negativas que vuelve racional dejar de intentar, porque el esfuerzo solo confirmaría públicamente la dificultad"
       ],
       [
         "Reingreso",
         "proceso gradual de recuperación de la participación con logros verificables"
       ]
     ],
-    "desarrollo": "No esforzarse protege: si nunca lo intentas, el fracaso no informa sobre tu capacidad. Vista así, la desmotivación deja de ser un defecto de carácter y pasa a ser una estrategia comprensible ante una historia de fracaso. La intervención, en consecuencia, no consiste en exigir más esfuerzo sino en cambiar las condiciones que hacen racional no intentarlo.",
+    "desarrollo": "No esforzarse protege: si nunca lo intentas, el fracaso no informa sobre tu capacidad. Vista así, la desmotivación deja de ser un defecto de carácter y pasa a ser una estrategia comprensible ante una historia de fracaso. La intervención, en consecuencia, no consiste en exigir más esfuerzo sino en cambiar las condiciones que hacen racional no intentarlo. La primera condición que hay que revisar es si el estudiante tiene alguna posibilidad real de éxito con lo que se le está pidiendo hoy: cuando la tarea está muy por encima de lo que puede hacer solo, retirarse no es una actitud, es una lectura correcta de la situación.",
     "practica": "El plan parte de una hipótesis explícita: qué protege esta conducta. Después, tres acciones con seguimiento: una experiencia temprana de éxito auténtico, una relación con un adulto que note su presencia, y una reducción del costo de intentar —empezar con una tarea acotada, sin exposición pública—. El seguimiento con fechas es lo que distingue un plan de una buena intención.",
-    "limites": "La desmotivación puede tener causas que exceden la asignatura: situación familiar, salud mental, consumo, vulneración. La intervención pedagógica no las resuelve y puede retrasar la derivación necesaria. La regla es intervenir en lo propio y observar señales que exigen derivar.",
+    "limites": "La desmotivación puede tener causas que exceden la asignatura: situación familiar, salud mental, consumo, vulneración. La intervención pedagógica no las resuelve y puede retrasar la derivación necesaria. La regla es intervenir en lo propio y observar señales que exigen derivar. Conviene también evitar la lectura contraria, igual de frecuente: atribuir a un problema personal lo que es una respuesta a una asignatura mal diseñada, donde ningún estudiante entiende para qué sirve lo que está haciendo.",
     "errores": [
       "Interpretar la resistencia como falta de voluntad y responder con más exigencia.",
       "Sostener el plan sin fechas de seguimiento, con lo que se disuelve en dos semanas."
@@ -406,12 +406,12 @@
       ],
       [
         "Debido proceso",
-        "procedimiento justo ante una acusación de falta de integridad"
+        "conjunto de garantías —evidencia suficiente, oportunidad de explicar, proporcionalidad y registro— exigibles antes de sancionar una falta de integridad"
       ]
     ],
-    "desarrollo": "La disponibilidad de herramientas generativas volvió inviable la verificación de autoría por inspección del texto, y los detectores automáticos tienen tasas de error que no permiten sostener una acusación. El desplazamiento razonable es doble: hacia evaluaciones donde el producto no se pueda generar sin aprendizaje —defensa oral, producción en clase, trabajo sobre datos propios— y hacia reglas explícitas sobre uso legítimo.",
-    "practica": "La política de curso debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos concretos. Y el procedimiento ante un incumplimiento debe respetar debido proceso: evidencia, oportunidad de explicar, proporcionalidad y registro. Acusar a partir de un detector automático es técnicamente insostenible y produce daños graves e injustos.",
-    "limites": "Hay desacuerdo genuino sobre qué usos son legítimos y sobre cómo evaluar en este contexto: el campo está cambiando y las políticas institucionales van detrás. Cualquier posición debe declararse como decisión provisional y revisable, y comunicarse con anticipación a los estudiantes.",
+    "desarrollo": "La disponibilidad de herramientas generativas volvió inviable la verificación de autoría por inspección del texto, y los detectores automáticos tienen tasas de error que no permiten sostener una acusación. El desplazamiento razonable es doble: hacia evaluaciones donde el producto no se pueda generar sin aprendizaje —defensa oral, producción en clase, trabajo sobre datos propios— y hacia reglas explícitas sobre uso legítimo. Vale la pena decirlo con claridad ante el curso: el problema no es la herramienta, es que entregar un texto que uno no entiende impide saber qué aprendió, y esa información le sirve primero al propio estudiante.",
+    "practica": "La política de curso debe declarar qué está permitido, qué debe declararse y qué está prohibido, con ejemplos concretos. Y el procedimiento ante un incumplimiento debe respetar debido proceso: evidencia, oportunidad de explicar, proporcionalidad y registro. Acusar a partir de un detector automático es técnicamente insostenible y produce daños graves e injustos. Cuando hay sospecha, la conversación sobre el proceso —qué decidió, qué descartó, por qué eligió ese ejemplo— resuelve la mayoría de los casos sin acusar a nadie.",
+    "limites": "Hay desacuerdo genuino sobre qué usos son legítimos y sobre cómo evaluar en este contexto: el campo está cambiando y las políticas institucionales van detrás. Cualquier posición debe declararse como decisión provisional y revisable, y comunicarse con anticipación a los estudiantes. Conviene además considerar el efecto de equidad: los detectores producen más falsos positivos en textos de quienes escriben en una segunda lengua, de modo que una política apoyada en ellos castiga más a quienes ya enfrentan más barreras.",
     "errores": [
       "Acusar de plagio a partir del resultado de un detector automático.",
       "Prohibir sin definir usos legítimos, con lo que la regla se vuelve inaplicable y arbitraria."
@@ -461,7 +461,7 @@
       ],
       [
         "Consistencia institucional",
-        "aplicación uniforme de la política en todo el establecimiento"
+        "aplicación uniforme de la política por todos los docentes del establecimiento, sin la cual la norma se negocia clase a clase"
       ],
       [
         "Comunicación anticipada",
@@ -469,8 +469,8 @@
       ]
     ],
     "desarrollo": "La evidencia sobre uso de dispositivos en clase muestra efectos negativos sobre la atención y el desempeño cuando el uso no está vinculado a la tarea, incluidos efectos sobre quienes están alrededor. También muestra que la mera presencia visible del teléfono puede afectar el rendimiento en tareas exigentes. Al mismo tiempo, la prohibición total desaprovecha usos instruccionales legítimos y es difícil de sostener sin respaldo institucional.",
-    "practica": "Una política aplicable define momentos y usos: guardado por defecto, uso autorizado y acotado para tareas específicas, y procedimiento claro ante el incumplimiento. La condición decisiva es la consistencia institucional: si cada docente aplica una regla distinta, la política se negocia clase a clase y desgasta la relación.",
-    "limites": "La evidencia sobre prohibiciones a nivel de establecimiento es mixta y los estudios disponibles tienen limitaciones de diseño. Además, hay estudiantes que requieren el dispositivo como tecnología de apoyo, y cualquier política debe contemplarlo explícitamente para no producir exclusión.",
+    "practica": "Una política aplicable define momentos y usos: guardado por defecto, uso autorizado y acotado para tareas específicas, y procedimiento claro ante el incumplimiento. La condición decisiva es la consistencia institucional: si cada docente aplica una regla distinta, la política se negocia clase a clase y desgasta la relación. Conviene también explicar la razón —que la sola presencia del dispositivo consume atención aunque no se use— porque una norma que se entiende se sostiene sin vigilancia permanente, y una que solo se impone exige un adulto mirando todo el tiempo.",
+    "limites": "La evidencia sobre prohibiciones a nivel de establecimiento es mixta y los estudios disponibles tienen limitaciones de diseño. Además, hay estudiantes que requieren el dispositivo como tecnología de apoyo, y cualquier política debe contemplarlo explícitamente para no producir exclusión. Un tercer límite es de alcance: la política regula el uso dentro de la jornada y no modifica los hábitos que se forman fuera de ella, que es donde ocurre la mayor parte del tiempo de pantalla.",
     "errores": [
       "Aplicar una política individual distinta de la institucional y negociarla clase a clase.",
       "Prohibir sin contemplar los usos como tecnología de apoyo para estudiantes que la requieren."
@@ -516,15 +516,15 @@
       ],
       [
         "Acuerdo verificable",
-        "compromiso concreto con responsable, plazo y forma de comprobación"
+        "compromiso concreto que declara quién hace qué, en qué plazo y cómo se comprobará, en vez de una intención general de mejorar"
       ],
       [
         "Registro",
         "documentación de lo conversado y acordado, firmada o confirmada por ambas partes"
       ]
     ],
-    "desarrollo": "Las entrevistas con apoderados fallan por falta de preparación: se convocan sin objetivo claro, se entrega información sin evidencia y se termina sin acuerdo. Una entrevista profesional define antes qué se busca lograr, reúne evidencia concreta de lo que se afirmará, anticipa la reacción probable y termina con un acuerdo verificable y registrado.",
-    "practica": "La comunicación de información difícil se sostiene en evidencia y no en interpretaciones: mostrar el trabajo del estudiante, los registros de asistencia o las observaciones fechadas evita la discusión sobre percepciones. Y el acuerdo debe ser realista para la familia: comprometer lo imposible garantiza el incumplimiento y deteriora la relación para las próximas conversaciones.",
+    "desarrollo": "Las entrevistas con apoderados fallan por falta de preparación: se convocan sin objetivo claro, se entrega información sin evidencia y se termina sin acuerdo. Una entrevista profesional define antes qué se busca lograr, reúne evidencia concreta de lo que se afirmará, anticipa la reacción probable y termina con un acuerdo verificable y registrado. Hay un detalle de encuadre que cambia el tono desde el primer minuto: empezar por algo que el estudiante hace bien no es una cortesía, es información que la familia necesita para creer que quien habla conoce a su hijo.",
+    "practica": "La comunicación de información difícil se sostiene en evidencia y no en interpretaciones: mostrar el trabajo del estudiante, los registros de asistencia o las observaciones fechadas evita la discusión sobre percepciones. Y el acuerdo debe ser realista para la familia: comprometer lo imposible garantiza el incumplimiento y deteriora la relación para las próximas conversaciones. Conviene preguntar qué es posible en su casa antes de proponer, porque una familia que trabaja en turnos no puede supervisar tareas a las siete de la tarde por mucho que lo firme.",
     "limites": "Hay situaciones donde el acuerdo con la familia no es posible o donde la familia es parte del problema. En esos casos la entrevista tiene otro propósito —informar, derivar, activar protocolo— y conviene tenerlo claro antes de convocar. Y toda información sensible del estudiante tiene resguardos que hay que respetar.",
     "errores": [
       "Convocar sin objetivo definido ni evidencia concreta de lo que se afirmará.",
@@ -578,7 +578,7 @@
         "documentación fechada de lo observado, lo actuado y lo informado"
       ]
     ],
-    "desarrollo": "Ante una crisis, el orden importa: primero se asegura la integridad, después se activa el protocolo institucional, luego se informa a quien corresponde y se registra. Improvisar produce dos errores típicos: actuar solo en situaciones que exigen derivación, o derivar sin información suficiente y dar por cerrada la responsabilidad. Ambos dejan al estudiante sin protección real.",
+    "desarrollo": "Ante una crisis, el orden importa: primero se asegura la integridad, después se activa el protocolo institucional, luego se informa a quien corresponde y se registra. Improvisar produce dos errores típicos: actuar solo en situaciones que exigen derivación, o derivar sin información suficiente y dar por cerrada la responsabilidad. Ambos dejan al estudiante sin protección real. El registro merece una advertencia propia: se escriben hechos observados con fecha y contexto, no interpretaciones ni diagnósticos, porque ese documento puede terminar siendo el respaldo de una decisión que otros tomarán meses después.",
     "practica": "El protocolo personal debe conocer el institucional y la normativa: quién es el encargado de convivencia, qué plazos corren, qué situaciones exigen denuncia y ante quién. Tener esa información antes de necesitarla es lo que permite actuar en minutos. Y el registro debe describir hechos observados con fecha, sin interpretaciones ni juicios sobre las personas.",
     "limites": "La normativa sobre denuncia, plazos y responsabilidades es específica y cambia; debe verificarse en su versión vigente y con la autoridad competente. Y el rol docente tiene límites claros: contener, derivar y acompañar, no diagnosticar ni tratar. Exceder ese límite perjudica al estudiante y expone al profesional.",
     "errores": [
@@ -638,8 +638,8 @@
       ]
     ],
     "desarrollo": "El plan integrador exige coherencia entre lo preventivo y lo reactivo, y entre lo que decide el docente y lo que establece la institución. Un plan que contradice el reglamento interno se cae en el primer caso serio; uno que solo copia el reglamento no aporta las decisiones cotidianas que hacen la diferencia. La articulación de ambos es el trabajo de esta clase.",
-    "practica": "El plan se organiza en capas: diseño preventivo, sistema de normas y rutinas, escala de respuesta, comunicación y trabajo con familias, y protocolos de derivación. Y define indicadores simples de seguimiento: minutos hasta el inicio efectivo, número de intervenciones por semana, participación distribuida, incidentes registrados.",
-    "limites": "Ningún plan de aula compensa condiciones institucionales adversas ni situaciones que exceden lo pedagógico. Declarar esos límites protege al docente de asumir responsabilidades que no le corresponden y permite argumentar ante el equipo directivo con evidencia.",
+    "practica": "El plan se organiza en capas: diseño preventivo, sistema de normas y rutinas, escala de respuesta, comunicación y trabajo con familias, y protocolos de derivación. Y define indicadores simples de seguimiento: minutos hasta el inicio efectivo, número de intervenciones por semana, participación distribuida, incidentes registrados. Conviene fijar además la primera semana con detalle —qué se enseña cada día de las rutinas, en qué orden— porque es el período que define el resto del año y el que más frecuentemente se improvisa.",
+    "limites": "Ningún plan de aula compensa condiciones institucionales adversas ni situaciones que exceden lo pedagógico. Declarar esos límites protege al docente de asumir responsabilidades que no le corresponden y permite argumentar ante el equipo directivo con evidencia. Hay además un límite temporal que conviene anticipar: los sistemas de aula se erosionan hacia mitad de año, cuando la rutina se relaja y la energía baja, de modo que el plan debería incluir un momento previsto para reenseñar lo que se dio por instalado en marzo.",
     "errores": [
       "Diseñar un plan que contradice el reglamento interno vigente.",
       "Definir el plan sin indicadores, con lo que no se puede saber si funciona."
