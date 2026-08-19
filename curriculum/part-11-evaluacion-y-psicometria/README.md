@@ -4,7 +4,7 @@
 
 🟣 **Etapa C — Núcleo profesional docente** · salida de la etapa: diseñar, enseñar, evaluar y gestionar un curso completo con evidencia
 
-**Clases:** 12 (133–144) · **Población de referencia:** transversal, con foco en instrumentos y decisiones · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (133–144) · **Población de referencia:** transversal, con foco en instrumentos y decisiones · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Evaluación diagnóstica, formativa, sumativa y auténtica, construcción de ítems, rúbricas, retroalimentación, validez, confiabilidad, análisis de ítems y teoría clásica e IRT
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ Evaluar es hacer una inferencia: a partir de un desempeño limitado en un moment
 La parte enseña a construir instrumentos y a criticarlos con herramientas técnicas: análisis de dificultad y discriminación, consistencia interna y sus límites, funcionamiento diferencial entre grupos, y las nociones básicas de teoría clásica y de teoría de respuesta al ítem. No para convertir al docente en psicometrista, sino para que pueda leer un informe técnico —de una prueba estandarizada, de un sistema nacional— sin que le vendan como precisión lo que es ruido.
 
 El otro eje es la retroalimentación, que es el punto donde la evaluación se convierte en enseñanza. La evidencia es clara en una cosa incómoda: entregar nota y comentario juntos anula el efecto del comentario, porque la atención va a la nota. Y es matizada en otra: la retroalimentación no siempre mejora el desempeño; puede empeorarlo cuando se dirige a la persona en vez de a la tarea. Esa distinción, bien aplicada, cambia más resultados que cualquier rediseño de prueba.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> El establecimiento decide repitencias con el promedio final y una prueba de síntesis de 40 preguntas. Dos docentes de la misma asignatura califican el mismo trabajo con dos puntos de diferencia y nadie lo considera un problema técnico.
+
+**Artefacto que produces al terminar:** sistema de evaluación de asignatura con argumento de validez, análisis de ítems y rúbricas calibradas entre evaluadores.
 
 ## 📚 Resultados de la parte
 
@@ -85,6 +94,13 @@ flowchart TB
 - [ ] el análisis técnico de una prueba aplicada con ítems corregidos;
 - [ ] una rúbrica calibrada entre al menos dos evaluadores;
 - [ ] un sistema de evaluación de asignatura completo y defendible.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

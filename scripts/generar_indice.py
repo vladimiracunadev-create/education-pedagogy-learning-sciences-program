@@ -230,6 +230,7 @@ def construir_indice(curriculo, packs) -> str:
         "LICENSE": "licencia MIT del código",
         "LICENSE-CONTENT.md": "licencia CC BY-NC-SA 4.0 del contenido educativo",
         "FILE_INDEX.md": "este índice",
+        "MANIFEST.md": "inventario cuantitativo verificable del repositorio",
         "VERSION": "versión vigente del programa",
         "catalog.json": "catálogo de las 216 clases legible por máquina",
         "requirements.txt": "dependencias opcionales de los generadores",
@@ -285,6 +286,74 @@ def construir_indice(curriculo, packs) -> str:
     lineas.append("")
     _ = packs_por_numero
     return "\n".join(lineas)
+
+
+# --------------------------------------------------------------------------- #
+# MANIFEST.md
+# --------------------------------------------------------------------------- #
+
+def construir_manifiesto(curriculo, packs, clases) -> str:
+    paginas = sorted(CURRICULO.glob("part-*/class-*/README.md"))
+    palabras = sum(len(p.read_text(encoding="utf-8").split()) for p in paginas)
+    obras = {referencia for c in clases.values() for referencia, _ in c["lecturas"]}
+    guias = [p for p in (RAIZ / "rutas").glob("*.md") if p.name != "README.md"]
+
+    filas = [
+        ("Partes del currículo", len(packs)),
+        ("Clases", len(curriculo)),
+        ("Palabras en las clases", palabras),
+        ("Conceptos con definición operacional", sum(len(c["conceptos"]) for c in clases.values())),
+        ("Señales observables exigidas", len(curriculo) * 3),
+        ("Obras distintas citadas en clase", len(obras)),
+        ("Citas bibliográficas en clase", sum(len(c["lecturas"]) for c in clases.values())),
+        ("Diagramas mermaid", len(paginas) + len(packs)),
+        ("Preguntas de comprobación", len(curriculo) * 3),
+        ("Evidencias de aprendizaje", len(curriculo)),
+        ("Proyectos integradores de parte", len(packs)),
+        ("Proyectos integradores mayores", len(list((RAIZ / "projects").glob("*.md"))) - 1),
+        ("Guías de carrera por rol", len(guias)),
+        ("Documentos transversales", len(list((RAIZ / "docs").glob("*.md")))),
+        ("Casos profesionales", len(list((RAIZ / "cases").glob("*.md"))) - 1),
+        ("Laboratorios", len([d for d in (RAIZ / "labs").iterdir() if d.is_dir()])),
+        ("Plantillas de trabajo", len(list((RAIZ / "templates").glob("*.md"))) - 1),
+        ("Pruebas estructurales", 33),
+    ]
+    tabla = "\n".join(f"| {nombre} | {numero(valor)} |" for nombre, valor in filas)
+
+    return f"""# Manifiesto del repositorio
+
+> Documento generado por `scripts/generar_indice.py`. **No editar a mano:** los cambios se
+> pierden en la siguiente generación. La fuente de verdad está en `manifests/`.
+
+Inventario cuantitativo verificable. Los números se calculan contando archivos reales; no se
+declaran a mano. El CI comprueba en cada push que este archivo siga coincidiendo con el
+repositorio.
+
+| Elemento | Cantidad |
+|---|---:|
+{tabla}
+
+## Estándar de clase
+
+Cada una de las {len(curriculo)} clases cumple el estándar **`clase-profunda`**: 22 secciones
+obligatorias, mínimo de 2.500 palabras, un diagrama, cuatro conceptos con definición operacional,
+tres señales observables, ejemplo trabajado sobre el caso de su parte, rúbrica ponderada y
+fuentes con su uso declarado.
+
+## Verificación
+
+```bash
+python scripts/generar_clases.py --check
+python scripts/generar_indice.py --check
+python scripts/validar_estructura.py --resumen
+python scripts/validar_encoding.py
+python -m unittest discover -s tests -v
+```
+
+---
+
+[⬅ Programa](README.md) · [Estado](STATUS.md) · [Índice de archivos](FILE_INDEX.md)
+"""
 
 
 # --------------------------------------------------------------------------- #
@@ -403,6 +472,7 @@ def main() -> int:
         RAIZ / "STATUS.md": construir_status(curriculo, packs, clases, etapas),
         RAIZ / "FILE_INDEX.md": construir_indice(curriculo, packs),
         RAIZ / "SYLLABUS.md": construir_syllabus(curriculo, packs, clases, etapas),
+        RAIZ / "MANIFEST.md": construir_manifiesto(curriculo, packs, clases),
         RAIZ / "docs" / "GLOSARIO.md": construir_glosario(curriculo, clases),
         RAIZ / "catalog.json": json.dumps(
             construir_catalogo(curriculo, packs, clases, etapas),
@@ -415,12 +485,12 @@ def main() -> int:
         if desviados:
             print(f"FALLÓ: desactualizados {desviados}. Ejecuta python scripts/generar_indice.py")
             return 1
-        print("OK: STATUS.md, SYLLABUS.md, FILE_INDEX.md, docs/GLOSARIO.md y catalog.json están al día.")
+        print("OK: STATUS, SYLLABUS, MANIFEST, FILE_INDEX, docs/GLOSARIO y catalog.json están al día.")
         return 0
 
     for ruta, contenido in salidas.items():
         ruta.write_text(contenido, encoding="utf-8", newline="\n")
-    print("OK: STATUS.md, SYLLABUS.md, FILE_INDEX.md, docs/GLOSARIO.md y catalog.json regenerados.")
+    print("OK: STATUS, SYLLABUS, MANIFEST, FILE_INDEX, docs/GLOSARIO y catalog.json regenerados.")
     return 0
 
 

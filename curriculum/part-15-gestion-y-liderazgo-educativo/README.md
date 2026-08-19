@@ -4,7 +4,7 @@
 
 🟠 **Etapa D — Educación superior y liderazgo** · salida de la etapa: sostener la calidad del trabajo de otros, no solo del propio
 
-**Clases:** 12 (181–192) · **Población de referencia:** equipos directivos, jefaturas técnicas y coordinaciones · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (181–192) · **Población de referencia:** equipos directivos, jefaturas técnicas y coordinaciones · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Liderazgo pedagógico, cultura organizacional, observación de clases, retroalimentación a docentes, comunidades profesionales de aprendizaje, planificación estratégica, gestión de equipos, indicadores, mejora escolar, innovación y ética directiva
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ La investigación sobre liderazgo escolar entrega un resultado consistente y út
 La segunda idea es que la mejora escolar sostenida no se produce por planes anuales ambiciosos, sino por ciclos cortos de indagación con evidencia: identificar un problema específico, probar un cambio acotado, medir, ajustar. La tradición de mejora continua aplicada a escuelas —ciclos de indagación, redes de mejoramiento— tiene mejor rendimiento que las reformas internas de gran escala, que suelen agotar al equipo antes de producir resultados.
 
 El tercer eje es la confianza relacional. Los estudios longitudinales sobre escuelas que mejoran muestran que la confianza entre docentes, directivos y familias no es un valor blando sino una condición material: donde no existe, ninguna estrategia técnica prende. Por eso esta parte trata la observación de clases y la retroalimentación a docentes como prácticas de alto riesgo relacional que deben diseñarse con reglas explícitas.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> El equipo directivo de Los Aromos tiene ocho prioridades en su plan de mejora, ninguna con línea base. El uso real del tiempo directivo muestra un 12 % dedicado a lo pedagógico y el resto a administración y emergencias.
+
+**Artefacto que produces al terminar:** plan de mejora institucional con pocas prioridades, ciclos de indagación, indicadores desagregados y sistema de seguimiento.
 
 ## 📚 Resultados de la parte
 
@@ -86,6 +95,13 @@ flowchart TB
 - [ ] un protocolo de observación y retroalimentación acordado con el equipo;
 - [ ] un ciclo de mejora ejecutado con línea base, intervención y resultado;
 - [ ] el plan de mejora institucional con indicadores y responsables.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

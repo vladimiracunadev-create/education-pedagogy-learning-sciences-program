@@ -4,7 +4,7 @@
 
 🟣 **Etapa C — Núcleo profesional docente** · salida de la etapa: diseñar, enseñar, evaluar y gestionar un curso completo con evidencia
 
-**Clases:** 12 (109–120) · **Población de referencia:** diseño de asignaturas, programas y planes de estudio · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (109–120) · **Población de referencia:** diseño de asignaturas, programas y planes de estudio · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Niveles del currículum, perfil de egreso, competencias, resultados y objetivos de aprendizaje, secuenciación, mapas curriculares, diseño inverso, alineamiento constructivo, syllabus y planificación
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ Todo curso tiene tres currículos: el declarado, el enseñado y el evaluado. Cua
 El segundo eje es la progresión. Un currículo bien diseñado no es una lista de temas ordenados por tradición, sino una secuencia donde cada aprendizaje habilita el siguiente y donde las nociones difíciles se visitan más de una vez con creciente complejidad. La mayoría de los planes de estudio fracasan aquí: acumulan contenidos, no construyen trayectorias, y el resultado es un egresado que aprobó todo sin poder hacer nada completo.
 
 El tercer eje es la escritura. Un resultado de aprendizaje mal redactado —«conocer», «comprender», «tomar conciencia»— hace imposible evaluarlo y vuelve arbitraria la calificación. Aquí se entrena la redacción de resultados verificables y su alineamiento con actividades y evaluaciones, que es la competencia que separa un syllabus profesional de un temario con formato institucional.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> El programa de la asignatura declara «pensamiento crítico» como objetivo central. La única evaluación del semestre es una prueba de selección múltiple sobre contenidos, y nadie ha notado la contradicción en cuatro años.
+
+**Artefacto que produces al terminar:** currículo completo con perfil, resultados verificables, mapa curricular y auditoría de alineamiento documentada.
 
 ## 📚 Resultados de la parte
 
@@ -85,6 +94,13 @@ flowchart TB
 - [ ] un mapa curricular con prerrequisitos y progresión visible;
 - [ ] un syllabus completo con alineamiento auditado;
 - [ ] el informe de auditoría de un programa existente con brechas y propuesta.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

@@ -1,0 +1,51 @@
+name: CodeQL
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+  schedule:
+    # Semanal: el análisis estático encuentra cosas nuevas cuando se actualizan las
+    # consultas, aunque el código del repositorio no haya cambiado.
+    - cron: "27 4 * * 1"
+  workflow_dispatch:
+
+# Los permisos se declaran por job: solo el análisis necesita escribir hallazgos.
+permissions: {}
+
+concurrency:
+  group: codeql-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  analizar:
+    name: Análisis estático de los generadores
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      actions: read
+      contents: read
+      security-events: write
+    strategy:
+      fail-fast: false
+      matrix:
+        lenguaje: ["python"]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+
+      # El repositorio es contenido educativo, pero sus generadores son código que se
+      # ejecuta en la máquina de quien lo reconstruye: se analiza como tal.
+      - name: Inicializar CodeQL
+        uses: github/codeql-action/init@988661ebb5e81487b3fb31b2185d2856c0a10679 # v4
+        with:
+          languages: ${{ matrix.lenguaje }}
+          queries: security-and-quality
+
+      - name: Analizar
+        uses: github/codeql-action/analyze@988661ebb5e81487b3fb31b2185d2856c0a10679 # v4
+        with:
+          category: "/language:${{ matrix.lenguaje }}"

@@ -20,6 +20,21 @@ Al finalizar esta clase podrás:
 4. **Producir** la evidencia de la clase —una propuesta doctoral completa con problema, contribución, diseño, ética, factibilidad y defensa de sus objeciones— y contrastarla contra el criterio de logro.
 5. **Distinguir** lo que la evidencia sostiene de lo que es práctica instalada, preferencia personal o costumbre de la institución.
 
+## 🧭 Agenda sugerida (90 minutos)
+
+| Minutos | Bloque | Qué ocurre |
+|---:|---|---|
+| 0–10 | Activación | Recuperar sin mirar la clase anterior y responder la pregunta de foco. |
+| 10–25 | Conceptos | Definir los cuatro conceptos y reconocerlos en un caso real. |
+| 25–45 | Modelo mental | Recorrer el método: delimitar el contexto y comprobar —no suponer— qué saben ya los estudiantes. |
+| 45–70 | Ejemplo trabajado | Aplicar el método al caso de la parte, paso a paso y con evidencia. |
+| 70–85 | Taller | Trasladar la decisión al contexto propio y anticipar su alternativa. |
+| 85–90 | Cierre | Fijar responsable, plazo e indicador de la evidencia de aprendizaje. |
+
+Fuera de la sesión, la clase exige aproximadamente **una hora y media** de práctica y de
+producción de la evidencia. Si el tiempo se recorta, se recorta el ejemplo trabajado, nunca la
+producción de evidencia: es la única parte que prueba el aprendizaje.
+
 ## 🧩 Conceptos centrales
 
 | Concepto | Comprensión verificable |
@@ -28,6 +43,30 @@ Al finalizar esta clase podrás:
 | **Factibilidad** | posibilidad real de ejecutar la investigación con el acceso, el tiempo y los recursos disponibles |
 | **Objeción anticipada** | crítica previsible que la propuesta responde antes de que se formule |
 | **Defensa** | argumentación fundamentada de las decisiones ante una comisión especializada |
+
+## 🧠 Modelo mental
+
+El método de esta clase, en cinco pasos que se ejecutan en orden:
+
+1. Delimitar el contexto y comprobar —no suponer— qué saben ya los estudiantes.
+2. Clasificar la situación distinguiendo **Propuesta doctoral** de **Factibilidad**.
+3. Decidir con fundamento, usando **Objeción anticipada** como criterio y declarando la fuente.
+4. Anticipar qué evidencia confirmaría la decisión y cuál la refutaría, con **Defensa** a la vista.
+5. Registrar lo ocurrido y contrastarlo contra el criterio de logro antes de avanzar.
+
+Lo que hace profesional a este método no son los pasos sino la evidencia que exige en cada uno.
+Estas son las señales observables con las que se comprueba, y que deben quedar definidas **antes**
+de recogerlas:
+
+| Señal observable | Cómo se recoge y qué significa |
+|---|---|
+| **Evidencia de partida** | qué sabían o podían hacer los estudiantes antes de la decisión, comprobado y no supuesto |
+| **Evidencia de proceso** | qué se observó mientras la decisión se aplicaba, con fecha, contexto y responsable del registro |
+| **Evidencia de logro** | qué muestra una propuesta doctoral completa con problema, contribución, diseño, ética, factibilidad y defensa de sus objeciones frente al criterio declarado de antemano |
+
+**Frontera de aplicación.** El método vale mientras las condiciones que lo sostienen se cumplan.
+Una propuesta es un compromiso provisional: Cuando esa condición falla, el paso siguiente no es forzar el método:
+es declarar el límite y decidir con menos certeza, dejándolo por escrito.
 
 ## 🗺️ Flujo de razonamiento
 
@@ -51,15 +90,119 @@ flowchart TB
 
 El proyecto que cierra el programa exige articular todo lo trabajado: un problema que el campo reconozca, una contribución formulada con precisión, un diseño coherente con la pregunta, un plan de análisis que corresponda a los datos, resguardos éticos completos y un cronograma que alguien con experiencia considere realista. La factibilidad es donde más propuestas fallan, y es la parte que las comisiones examinan con más dureza.
 
-### 2. Cómo se traduce en decisiones de enseñanza
+### 2. Frontera conceptual: qué es y qué no es
+
+Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
+inocua: produce decisiones que atacan el problema equivocado. **Propuesta doctoral** no es lo
+mismo que **Factibilidad** —posibilidad real de ejecutar la investigación con el acceso, el tiempo y los recursos disponibles—, y tratarlos como sinónimos hace
+que la intervención se dirija al lugar incorrecto. Del mismo modo, **Objeción anticipada** y
+**Defensa** describen aspectos distintos de la misma situación: el primero
+crítica previsible que la propuesta responde antes de que se formule, mientras el segundo argumentación fundamentada de las decisiones ante una comisión especializada.
+
+La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
+observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
+coinciden, el problema está en la definición y no en el observador. El error de clasificación más
+frecuente en esta materia es el primero de los que se listan más abajo, y conviene anticiparlo
+antes de aplicar nada.
+
+### 3. Cómo se observa y se mide
+
+Nada de lo anterior sirve si no se puede observar. Estas son las señales que esta clase usa y
+cómo se recogen:
+
+- **Evidencia de partida.** Qué sabían o podían hacer los estudiantes antes de la decisión, comprobado y no supuesto. Se registra con fecha y contexto; sin eso, la señal no distingue una tendencia de una casualidad.
+- **Evidencia de proceso.** Qué se observó mientras la decisión se aplicaba, con fecha, contexto y responsable del registro. Se registra con fecha y contexto; sin eso, la señal no distingue una tendencia de una casualidad.
+- **Evidencia de logro.** Qué muestra una propuesta doctoral completa con problema, contribución, diseño, ética, factibilidad y defensa de sus objeciones frente al criterio declarado de antemano. Se registra con fecha y contexto; sin eso, la señal no distingue una tendencia de una casualidad.
+
+Ninguna de estas señales es el aprendizaje: son indicios de él. Confundir el indicio con el
+fenómeno es el error clásico de la medición educativa, y por eso cada señal se interpreta junto
+con el contexto, el punto de partida del grupo y lo que el propio estudiante puede explicar sobre
+su trabajo.
+
+### 4. Cómo se traduce en decisiones de enseñanza
 
 La preparación de la defensa consiste en anticipar objeciones: escribir las tres críticas más fuertes que un especialista podría hacer y responderlas por escrito. Si alguna no tiene respuesta, la propuesta debe cambiar antes de la defensa y no después. Ese ejercicio es también el mejor filtro de calidad disponible antes de comprometer años de trabajo.
 
-### 3. Qué sostiene la evidencia y qué no
+### 5. Qué sostiene la evidencia y qué no
 
 Una propuesta es un compromiso provisional: los diseños se ajustan, el acceso cambia y los hallazgos redirigen el trabajo. Lo que se evalúa no es la certeza sino la calidad del razonamiento y la honestidad sobre lo que se sabe y lo que no. Presentar certezas donde hay supuestos es el error que más rápido detecta una comisión.
 
 > **Cómo leer el estado de evidencia `PRACTICA-PROFESIONAL`.** Es conocimiento práctico acumulado del oficio, útil y transferible, pero no probado con diseños de investigación. Trátalo como un buen punto de partida sujeto a comprobación en tu contexto.
+
+### 6. Integración: de los conceptos a una decisión defendible
+
+Una decisión es defendible cuando puede explicarse a alguien que no estuvo presente. Esta clase
+te deja en condiciones de el conjunto completo de decisiones de tu propuesta y su defensa ante la objeción más fuerte, y esa decisión se sostiene solo si
+declara cuatro cosas: la evidencia que la funda, el supuesto que asume, el indicador que la
+comprobaría y la condición que la haría cambiar.
+
+Ese es también el criterio con el que se evalúa la evidencia de aprendizaje de la clase. Un
+análisis que podría copiarse a otra clase, a otro curso o a otro establecimiento sin cambiar una
+palabra no es una decisión: es una declaración general, y el oficio empieza justo donde las
+declaraciones generales terminan.
+
+## 📚 Lectura comparada
+
+Las obras no cumplen el mismo papel. Esta tabla indica qué lente aporta cada una;
+después de leer, escribe una discrepancia real entre al menos dos fuentes.
+
+| Fuente | Lente que aporta | Pregunta crítica |
+|---|---|---|
+| Dunleavy, P. (2003). *Authoring a PhD*. | estructura y estrategia del trabajo doctoral, incluida la propuesta. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. | argumentación y anticipación de objeciones aplicadas a la propuesta de investigación. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+
+La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
+tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
+cambiarías después del contraste. Una nota que solo resume el texto no cumple el criterio.
+
+## 🧮 Ejemplo trabajado
+
+**Situación.** La red quiere formar a sus 42 docentes con un programa propio y sostenerlo tres años. El diseño inicial es un taller de ocho horas por semestre, sin acompañamiento en el aula y con evaluación por encuesta de satisfacción.
+
+**Paso 1 — Delimitar el contexto y comprobar —no suponer— qué saben ya los estudiantes.** El equipo escribe primero el supuesto asociado a **Propuesta doctoral** y se prohíbe tratarlo como hecho. Contrasta ese supuesto con **Evidencia de partida** y anota qué parte del dato todavía no existe. Del paso sale un registro fechado y una frase explícita: «cambiaríamos de decisión si…».
+
+**Paso 2 — Clasificar la situación distinguiendo Propuesta doctoral de Factibilidad.** El trabajo aquí es separar lo observado de lo interpretado sobre **Factibilidad**. La evidencia que ordena la conversación es **Evidencia de proceso**; si su definición no está escrita, escribirla es parte del paso. Nada avanza mientras el equipo no acuerde qué contaría como refutación.
+
+**Paso 3 — Decidir con fundamento, usando Objeción anticipada como criterio y declarando la fuente.** El riesgo de este paso es cerrar demasiado rápido alrededor de **Objeción anticipada**. Antes de concluir, se enumeran dos explicaciones alternativas del mismo patrón y se revisa si **Evidencia de logro** logra distinguirlas. Si no lo logra, hace falta otra evidencia y así debe quedar registrado.
+
+**Paso 4 — Anticipar qué evidencia confirmaría la decisión y cuál la refutaría, con Defensa a la vista.** Con **Defensa** ya delimitado, la pregunta pasa a ser de consecuencia: qué cambia para los estudiantes, para el tiempo de clase y para la carga del equipo. **Evidencia de partida** entrega la lectura observable; el juicio profesional sigue siendo humano y debe quedar firmado por quien lo hace.
+
+**Paso 5 — Registrar lo ocurrido y contrastarlo contra el criterio de logro antes de avanzar.** El cierre exige compromiso: responsable, fecha, indicador de logro y condición de detención. **Evidencia de proceso** se convierte en la señal de seguimiento, y se acuerda con qué frecuencia se revisa y quién puede declarar que no funcionó sin costo político.
+
+**Síntesis.** La recomendación termina con responsable, fecha, evidencia de logro y señal de
+detención. Omitir cualquiera de esas cuatro piezas convierte el análisis en una opinión que nadie
+podrá auditar dentro de tres meses, y que por lo tanto nadie corregirá.
+
+## 🔀 Comparación de caminos y límites
+
+Ante la misma situación caben varios cursos de acción. La decisión profesional no es
+elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
+
+| Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
+|---|---|---|---|
+| Intervenir sobre **Propuesta doctoral** | Documento que compromete un problema, un diseño y un plan verificable de ejecución | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Factibilidad** | Posibilidad real de ejecutar la investigación con el acceso, el tiempo y los recursos disponibles | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
+| Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
+
+**Frontera de aplicación.** Una propuesta es un compromiso provisional: Fuera de esa frontera, la comparación
+anterior deja de ser válida y la decisión debe tomarse con evidencia distinta.
+
+## 🪜 El mismo tema según el rol
+
+La misma materia cambia de forma según quién decida. Al subir de nivel aumentan las
+personas, el tiempo y las consecuencias que quedan dentro de la decisión.
+
+| Nivel | Responsabilidad sobre proyecto integrador: propuesta doctoral defendible |
+|---|---|
+| **Docente de aula** | Aplica, observa y registra la evidencia; declara qué no puede resolver desde su rol. |
+| **Equipo de apoyo o educación diferencial** | Verifica que la decisión no deje fuera a quien más barreras enfrenta y aporta los apoyos. |
+| **Jefatura técnico-pedagógica** | Convierte la decisión en criterio compartido, tiempo protegido y acompañamiento. |
+| **Dirección** | Decide si esto cambia condiciones institucionales, recursos o el plan de mejora. |
+| **Formación e investigación** | Pregunta si la decisión es generalizable, con qué evidencia y qué haría falta para probarlo. |
+
+Si trabajas en uno de esos niveles, la [guía de carrera de tu rol](../../../rutas/README.md)
+indica en qué orden conviene recorrer el programa y qué artefactos acreditan tu competencia.
 
 ## 🧪 Taller guiado
 
@@ -87,18 +230,56 @@ con un grupo no se traslada intacto a otro.
 7. Produce la evidencia de aprendizaje de la clase.
 8. Contrástala contra el criterio de logro, corrige y recién entonces avanza.
 
-### 📦 Evidencia de aprendizaje
+## 🏫 Caso profesional
+
+**Situación.** La red quiere formar a sus 42 docentes con un programa propio y sostenerlo tres años. El diseño inicial es un taller de ocho horas por semestre, sin acompañamiento en el aula y con evaluación por encuesta de satisfacción.
+
+Entrega un **informe de decisión** de una página que contenga:
+
+1. **Hechos y fuentes** — qué está documentado y con qué evidencia, separado de lo que se supone.
+2. **Hipótesis** — la explicación más probable y una alternativa que también encajaría.
+3. **Dos opciones defendibles** — no una recomendación y un espantapájaros.
+4. **Efecto esperado** — sobre los estudiantes, el tiempo de clase, el equipo y los apoyos.
+5. **Recomendación** — con su fundamento y la fuente que la respalda.
+6. **Condición de revisión** — qué resultado te haría cambiar de decisión.
+7. **Responsable y fecha** — quién ejecuta y cuándo se revisa.
+
+Usa al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta. Una
+recomendación que ninguna fuente pone en duda casi siempre está poco examinada.
+
+## 📥 Evidencia de aprendizaje
 
 Una propuesta doctoral completa con problema, contribución, diseño, ética, factibilidad y defensa de sus objeciones.
 
-Debe incluir contexto, decisión, fundamento, fuentes consultadas con su fecha, indicador de
-logro observable, riesgos previstos y qué harías distinto en la siguiente iteración.
+Guárdala en `evidence/P17-C216-proyecto-integrador-propuesta-doctoral-defendible/` con estos archivos:
+
+| Archivo | Qué contiene |
+|---|---|
+| `decision.md` | contexto, decisión, fundamento, fuentes con fecha, indicador de logro y riesgos |
+| `senales.md` | definición operacional de las tres señales, cómo se recogieron y qué no distinguen |
+| `nota-de-lectura.md` | dos fuentes contrastadas, con edición y páginas consultadas |
+| `revision-critica.md` | la objeción más fuerte a tu decisión y qué evidencia la invalidaría |
+
+Esta evidencia alimenta el artefacto de la parte: **propuesta doctoral defendible y programa de formación de formadores con acompañamiento en el puesto y evaluación de cambio de práctica**.
 
 ## 🏆 Reto verificable
 
 Defiende tu propuesta ante tres colegas con instrucción de objetarla duramente. Corrige cada punto donde no pudiste responder con fundamento.
 
-## ✅ Criterio de logro
+## ✅ Evaluación de la clase
+
+| Criterio | Peso | Evidencia esperada |
+|---|---:|---|
+| Precisión conceptual | 25 % | Distinciones correctas y observables entre los cuatro conceptos, aplicadas a un caso real. |
+| Diagnóstico y evidencia | 30 % | Conocimiento previo comprobado, evidencia recogida con fecha y contexto, y límites del dato declarados. |
+| Decisión y alternativas | 30 % | Decisión fundada, alternativa prevista si falla, y condición explícita que la haría cambiar. |
+| Responsabilidad y comunicación | 15 % | Diversidad y resguardos considerados, fuentes citadas y evidencia archivada de forma reproducible. |
+
+**Aprobación:** 80 de 100 y ningún criterio bajo el 60 %. Una respuesta que podría copiarse sin
+cambios a otra clase, a otro curso o a otro establecimiento se considera insuficiente, aunque
+esté bien escrita.
+
+**Criterio de logro de la evidencia:**
 
 - [ ] la propuesta responde por escrito a las tres objeciones más fuertes previsibles;
 - [ ] el cronograma y la factibilidad fueron revisados por alguien con experiencia en el campo;
@@ -118,6 +299,10 @@ Defiende tu propuesta ante tres colegas con instrucción de objetarla duramente.
 - Confundir novedad temática con contribución al conocimiento.
 - Analizar datos anidados como si fueran independientes.
 
+Los cuatro comparten estructura: un síntoma visible, una causa que no se ve y una corrección que
+casi siempre es de diseño y no de esfuerzo. Antes de atribuir el problema a los estudiantes o a
+ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de los otros tres.
+
 ## ♿ Diversidad, accesibilidad y ética
 
 Una propuesta seria declara a quiénes incluye y a quiénes deja fuera, y qué consecuencias tiene esa decisión para el alcance de sus conclusiones y para las personas que representa.
@@ -127,23 +312,38 @@ Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revis
 consentimiento, resguardo de datos personales, proporcionalidad de la intervención y derecho
 de cada estudiante a no ser objeto de un ensayo que no le reporta beneficio.
 
+## 🇨🇱 Contexto chileno y cumplimiento
+
+Riesgo característico de esta parte: **Confundir novedad temática con contribución al conocimiento.** Antes de aplicar
+cualquier decisión de esta clase en un establecimiento real, verifica el marco vigente:
+
+- Marco institucional y normativo: [`docs/MARCO_CHILE.md`](../../../docs/MARCO_CHILE.md).
+- Inclusión y apoyos: [`docs/INCLUSION_Y_DUA.md`](../../../docs/INCLUSION_Y_DUA.md).
+- Datos personales, IA y resguardos: [`docs/IA_EN_EDUCACION.md`](../../../docs/IA_EN_EDUCACION.md).
+- Fuentes oficiales con cómo leerlas: [`docs/FUENTES.md`](../../../docs/FUENTES.md).
+
+La regla del programa es simple: **la fuente oficial manda sobre el material pedagógico**. Si la
+norma cambió después de la fecha de esta clase, gana la norma.
+
 ## ❓ Preguntas de comprobación
 
 1. ¿Cuál es la crítica más fuerte que te pueden hacer, y qué respondes?
 2. ¿Qué parte de tu cronograma no resiste un imprevisto de tres meses?
 3. ¿Qué harías si el acceso al campo se cae?
 
-## 📕 Lecturas base
+## 📗 Fuentes y verificación
 
-**Dunleavy, P. (2003). *Authoring a PhD*.**  
-*Qué aporta a esta clase:* estructura y estrategia del trabajo doctoral, incluida la propuesta.
-
-**Booth, W., Colomb, G. & Williams, J. *The Craft of Research*.**  
-*Qué aporta a esta clase:* argumentación y anticipación de objeciones aplicadas a la propuesta de investigación.
+- Dunleavy, P. (2003). *Authoring a PhD*. **Uso en esta clase:** estructura y estrategia del trabajo doctoral, incluida la propuesta. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Booth, W., Colomb, G. & Williams, J. *The Craft of Research*. **Uso en esta clase:** argumentación y anticipación de objeciones aplicadas a la propuesta de investigación. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
+
+> **Regla de fuentes.** Las obras anteriores estructuran las perspectivas de esta materia.
+> Cualquier norma, decreto, orientación ministerial o política institucional mencionada debe
+> comprobarse en su fuente primaria vigente antes de usarse con estudiantes reales. El desarrollo
+> de esta clase es original y no reproduce capítulos protegidos por derechos de autor.
 
 ## 🔗 Conexión con el resto del programa
 

@@ -4,7 +4,7 @@
 
 🔵 **Etapa B — Enseñanza por ciclo vital** · salida de la etapa: enseñar a una población concreta con decisiones ajustadas a su desarrollo
 
-**Clases:** 12 (085–096) · **Población de referencia:** educación de adultos, capacitación laboral y formación continua · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (085–096) · **Población de referencia:** educación de adultos, capacitación laboral y formación continua · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Andragogía, experiencia previa como recurso, aprendizaje autodirigido, motivación, capacitación laboral, reskilling, microlearning, mentoría, coaching, aprendizaje experiencial y evaluación
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ Enseñar a adultos cambia tres condiciones a la vez: el tiempo es escaso y compi
 La andragogía clásica aportó los supuestos correctos —autonomía, experiencia, orientación a problemas, motivación interna— pero su estatus como teoría es discutido: describe bien al adulto típico de la formación voluntaria y describe mal al adulto obligado a capacitarse, al que retoma estudios interrumpidos o al que llega con baja confianza académica. Esta parte usa sus supuestos como hipótesis de diseño, no como ley, y los contrasta con la evidencia sobre transferencia de la capacitación.
 
 El eje práctico es la transferencia. La pregunta que ordena la parte no es si el participante quedó satisfecho, sino si algo cambió en su desempeño después. La investigación sobre evaluación de la capacitación muestra que la satisfacción correlaciona poco con el aprendizaje y menos aún con el cambio de conducta, y que la transferencia depende de factores del entorno —apoyo de la jefatura, oportunidad de aplicar, tiempo— tanto como del diseño instruccional.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> El sostenedor contrató una capacitación de 16 horas en evaluación formativa para los 42 docentes. Todos la evaluaron con nota alta y, tres meses después, ninguna práctica de aula cambió.
+
+**Artefacto que produces al terminar:** programa de capacitación ejecutable por otro formador, con diagnóstico, plan de transferencia acordado y evaluación más allá de la satisfacción.
 
 ## 📚 Resultados de la parte
 
@@ -85,6 +94,13 @@ flowchart TB
 - [ ] un diseño de programa con objetivos de desempeño y plan de transferencia;
 - [ ] un instrumento de evaluación en al menos dos niveles distintos de la satisfacción;
 - [ ] el informe de resultados con recomendaciones de rediseño.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

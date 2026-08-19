@@ -4,7 +4,7 @@
 
 🔵 **Etapa B — Enseñanza por ciclo vital** · salida de la etapa: enseñar a una población concreta con decisiones ajustadas a su desarrollo
 
-**Clases:** 12 (061–072) · **Población de referencia:** 1.º a 4.º medio (14 a 18 años) · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (061–072) · **Población de referencia:** 1.º a 4.º medio (14 a 18 años) · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Psicología de la adolescencia, identidad y motivación, autoridad pedagógica, gestión de aula, aprendizaje basado en proyectos y problemas, debate, STEM, orientación vocacional, ciudadanía digital y evaluación auténtica
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ La adolescencia reorganiza la motivación. Lo que antes movía —la aprobación
 De ahí que la autoridad pedagógica sea el eje de la parte. En educación media la autoridad no se sostiene en el cargo: se construye con consistencia, competencia disciplinar visible y trato justo, y se pierde en minutos con una humillación pública o una arbitrariedad. Nada de esto es blandura: un docente con autoridad legítima puede exigir mucho más, y de hecho lo hace, porque la exigencia se lee como confianza en la capacidad del estudiante.
 
 La parte incorpora también las metodologías activas —proyectos, problemas, debate— con una advertencia honesta. Funcionan cuando hay estructura, conocimiento previo suficiente y andamiaje, y fracasan cuando se usan como sustituto de la instrucción. La evidencia sobre aprendizaje basado en problemas es matizada y depende del diseño: aquí se enseña a construir el diseño que la hace funcionar, no a repetir la consigna de que el estudiante debe descubrirlo todo solo.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> En 2.º medio, la mitad del curso entrega trabajos hechos con herramientas generativas y el resto dejó de entregar. La respuesta institucional fue prohibir el celular; el desenganche siguió igual.
+
+**Artefacto que produces al terminar:** desafío de educación media con autoridad pedagógica explícita, evaluación auténtica y análisis de resultados estudiante por estudiante.
 
 ## 📚 Resultados de la parte
 
@@ -85,6 +94,13 @@ flowchart TB
 - [ ] un diseño de proyecto con andamiaje, hitos y evaluación intermedia;
 - [ ] una rúbrica de desempeño auténtico aplicada a trabajos reales;
 - [ ] un plan de trabajo con un estudiante desenganchado, con seguimiento.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

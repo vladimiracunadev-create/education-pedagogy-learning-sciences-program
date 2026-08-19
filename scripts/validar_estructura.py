@@ -26,24 +26,38 @@ PARTES_ESPERADAS = 18
 CLASES_ESPERADAS = 216
 CLASES_POR_PARTE = 12
 
+# Estándar `clase-profunda`: por debajo de este umbral la clase perdió alguna de sus
+# secciones o quedó reducida a un esquema. El CI lo comprueba en cada push.
+MINIMO_PALABRAS_CLASE = 2500
+
 SECCIONES_CLASE = [
     "## 🎯 Propósito",
     "## 📚 Resultados de aprendizaje",
+    "## 🧭 Agenda sugerida",
     "## 🧩 Conceptos centrales",
+    "## 🧠 Modelo mental",
     "## 🗺️ Flujo de razonamiento",
     "## 📖 Desarrollo",
+    "## 📚 Lectura comparada",
+    "## 🧮 Ejemplo trabajado",
+    "## 🔀 Comparación de caminos y límites",
+    "## 🪜 El mismo tema según el rol",
     "## 🧪 Taller guiado",
+    "## 🏫 Caso profesional",
+    "## 📥 Evidencia de aprendizaje",
     "## 🏆 Reto verificable",
-    "## ✅ Criterio de logro",
+    "## ✅ Evaluación de la clase",
     "## ⚠️ Errores frecuentes",
     "## ♿ Diversidad, accesibilidad y ética",
+    "## 🇨🇱 Contexto chileno y cumplimiento",
     "## ❓ Preguntas de comprobación",
-    "## 📕 Lecturas base",
+    "## 📗 Fuentes y verificación",
     "## 🔗 Conexión con el resto del programa",
 ]
 
 SECCIONES_PARTE = [
     "## 🎯 De qué trata esta parte",
+    "## 🏫 Caso de la parte",
     "## 📚 Resultados de la parte",
     "## 🗺️ Mapa de la parte",
     "## 🧠 Marco de referencia",
@@ -51,6 +65,7 @@ SECCIONES_PARTE = [
     "## ⚠️ Riesgos característicos",
     "## 📕 Lecturas de referencia de la parte",
     "## ✅ Evidencia mínima para dar la parte por cerrada",
+    "## 🧭 Práctica y evaluación",
 ]
 
 ENLACE = re.compile(r"\[[^\]]*\]\(([^)\s]+)\)")
@@ -97,8 +112,9 @@ def validar_secciones(fallos: list[str], partes: list[Path], clases: list[Path])
             error(fallos, f"{relativo}: no contiene diagrama mermaid")
         if not re.search(r"^# Clase \d{3} — .+$", texto, re.M):
             error(fallos, f"{relativo}: el título no sigue el formato «# Clase NNN — …»")
-        if len(texto.split()) < 900:
-            error(fallos, f"{relativo}: tiene menos de 900 palabras")
+        if len(texto.split()) < MINIMO_PALABRAS_CLASE:
+            error(fallos, f"{relativo}: tiene {len(texto.split())} palabras y el estándar "
+                          f"exige {MINIMO_PALABRAS_CLASE}")
     for parte in partes:
         texto = (parte / "README.md").read_text(encoding="utf-8")
         for seccion in SECCIONES_PARTE:

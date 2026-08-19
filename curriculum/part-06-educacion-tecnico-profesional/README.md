@@ -4,7 +4,7 @@
 
 🔵 **Etapa B — Enseñanza por ciclo vital** · salida de la etapa: enseñar a una población concreta con decisiones ajustadas a su desarrollo
 
-**Clases:** 12 (073–084) · **Población de referencia:** formación técnica de nivel medio y superior, y capacitación de oficio · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (073–084) · **Población de referencia:** formación técnica de nivel medio y superior, y capacitación de oficio · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Formación por competencias, aprendizaje situado, talleres, seguridad, rúbricas de desempeño, portafolio, formación dual, vínculo con empresa, práctica profesional, competencias transversales y empleabilidad
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ La formación técnico-profesional tiene una ventaja que el resto del sistema en
 El marco de competencias organiza el trabajo, pero exige precisión. Una competencia no es un contenido con verbo delante: es la capacidad de movilizar conocimiento, procedimiento y criterio en una situación real, con un estándar de desempeño explícito. Escribirla bien es difícil, y la mayoría de los perfiles de egreso mal formulados provienen de saltarse ese trabajo. Aquí se entrena esa escritura con el instrumento que la comprueba: la rúbrica de desempeño.
 
 El tercer eje es la relación con el mundo del trabajo, que en Chile está regulada y tiene formatos definidos —formación dual, prácticas profesionales, convenios con empresas— con obligaciones sobre supervisión y seguridad. La cultura preventiva no es un anexo: en un taller, la decisión pedagógica y la decisión de seguridad son la misma decisión, y un docente que las separa está formando un profesional que también las separará.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> En la especialidad de administración, los estudiantes aprueban las pruebas escritas del módulo y fallan en la práctica profesional: no saben conciliar una cuenta ni explicar un error a un cliente. Dos empresas devolvieron practicantes.
+
+**Artefacto que produces al terminar:** módulo técnico-profesional completo con competencias evaluables, seguridad integrada, rúbricas calibradas y portafolio de evidencias.
 
 ## 📚 Resultados de la parte
 
@@ -86,6 +95,13 @@ flowchart TB
 - [ ] una rúbrica de taller aplicada a desempeños reales o simulados;
 - [ ] un portafolio de evidencias con trazabilidad y criterios de suficiencia;
 - [ ] un plan de práctica profesional con supervisión, seguridad y evaluación.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

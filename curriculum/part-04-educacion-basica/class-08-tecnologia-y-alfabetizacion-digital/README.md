@@ -20,6 +20,21 @@ Al finalizar esta clase podrás:
 4. **Producir** la evidencia de la clase —una secuencia de alfabetización digital con una tarea de evaluación de información y sus criterios— y contrastarla contra el criterio de logro.
 5. **Distinguir** lo que la evidencia sostiene de lo que es práctica instalada, preferencia personal o costumbre de la institución.
 
+## 🧭 Agenda sugerida (90 minutos)
+
+| Minutos | Bloque | Qué ocurre |
+|---:|---|---|
+| 0–10 | Activación | Recuperar sin mirar la clase anterior y responder la pregunta de foco. |
+| 10–25 | Conceptos | Definir los cuatro conceptos y reconocerlos en un caso real. |
+| 25–45 | Modelo mental | Recorrer el método: delimitar el contexto y comprobar —no suponer— qué saben ya los estudiantes. |
+| 45–70 | Ejemplo trabajado | Aplicar el método al caso de la parte, paso a paso y con evidencia. |
+| 70–85 | Taller | Trasladar la decisión al contexto propio y anticipar su alternativa. |
+| 85–90 | Cierre | Fijar responsable, plazo e indicador de la evidencia de aprendizaje. |
+
+Fuera de la sesión, la clase exige aproximadamente **una hora y media** de práctica y de
+producción de la evidencia. Si el tiempo se recorta, se recorta el ejemplo trabajado, nunca la
+producción de evidencia: es la única parte que prueba el aprendizaje.
+
 ## 🧩 Conceptos centrales
 
 | Concepto | Comprensión verificable |
@@ -28,6 +43,30 @@ Al finalizar esta clase podrás:
 | **Evaluación de información** | juicio sobre la credibilidad de una fuente digital: quién la produce, con qué interés y con qué respaldo |
 | **Lectura lateral** | estrategia de verificar una fuente saliendo de ella y consultando otras, en vez de analizarla internamente |
 | **Huella y privacidad** | rastro de datos que deja el uso de servicios digitales y sus consecuencias |
+
+## 🧠 Modelo mental
+
+El método de esta clase, en cinco pasos que se ejecutan en orden:
+
+1. Delimitar el contexto y comprobar —no suponer— qué saben ya los estudiantes.
+2. Clasificar la situación distinguiendo **Alfabetización digital** de **Evaluación de información**.
+3. Decidir con fundamento, usando **Lectura lateral** como criterio y declarando la fuente.
+4. Anticipar qué evidencia confirmaría la decisión y cuál la refutaría, con **Huella y privacidad** a la vista.
+5. Registrar lo ocurrido y contrastarlo contra el criterio de logro antes de avanzar.
+
+Lo que hace profesional a este método no son los pasos sino la evidencia que exige en cada uno.
+Estas son las señales observables con las que se comprueba, y que deben quedar definidas **antes**
+de recogerlas:
+
+| Señal observable | Cómo se recoge y qué significa |
+|---|---|
+| **Evidencia de partida** | qué sabían o podían hacer los estudiantes antes de la decisión, comprobado y no supuesto |
+| **Evidencia de proceso** | qué se observó mientras la decisión se aplicaba, con fecha, contexto y responsable del registro |
+| **Evidencia de logro** | qué muestra una secuencia de alfabetización digital con una tarea de evaluación de información y sus criterios frente al criterio declarado de antemano |
+
+**Frontera de aplicación.** El método vale mientras las condiciones que lo sostienen se cumplan.
+El campo cambia rápido y la evidencia sobre intervenciones es limitada y de corto plazo. Cuando esa condición falla, el paso siguiente no es forzar el método:
+es declarar el límite y decidir con menos certeza, dejándolo por escrito.
 
 ## 🗺️ Flujo de razonamiento
 
@@ -51,15 +90,119 @@ flowchart TB
 
 El supuesto de que los estudiantes que crecieron con pantallas saben usarlas críticamente no se sostiene: los estudios sobre evaluación de información en línea muestran desempeños bajos en todas las edades. Lo que distingue a un lector competente es la lectura lateral —salir del sitio y verificar quién está detrás— y no el análisis del diseño de la página, que es lo que la escuela suele enseñar.
 
-### 2. Cómo se traduce en decisiones de enseñanza
+### 2. Frontera conceptual: qué es y qué no es
+
+Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
+inocua: produce decisiones que atacan el problema equivocado. **Alfabetización digital** no es lo
+mismo que **Evaluación de información** —juicio sobre la credibilidad de una fuente digital: quién la produce, con qué interés y con qué respaldo—, y tratarlos como sinónimos hace
+que la intervención se dirija al lugar incorrecto. Del mismo modo, **Lectura lateral** y
+**Huella y privacidad** describen aspectos distintos de la misma situación: el primero
+estrategia de verificar una fuente saliendo de ella y consultando otras, en vez de analizarla internamente, mientras el segundo rastro de datos que deja el uso de servicios digitales y sus consecuencias.
+
+La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
+observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
+coinciden, el problema está en la definición y no en el observador. El error de clasificación más
+frecuente en esta materia es el primero de los que se listan más abajo, y conviene anticiparlo
+antes de aplicar nada.
+
+### 3. Cómo se observa y se mide
+
+Nada de lo anterior sirve si no se puede observar. Estas son las señales que esta clase usa y
+cómo se recogen:
+
+- **Evidencia de partida.** Qué sabían o podían hacer los estudiantes antes de la decisión, comprobado y no supuesto. Se registra con fecha y contexto; sin eso, la señal no distingue una tendencia de una casualidad.
+- **Evidencia de proceso.** Qué se observó mientras la decisión se aplicaba, con fecha, contexto y responsable del registro. Se registra con fecha y contexto; sin eso, la señal no distingue una tendencia de una casualidad.
+- **Evidencia de logro.** Qué muestra una secuencia de alfabetización digital con una tarea de evaluación de información y sus criterios frente al criterio declarado de antemano. Se registra con fecha y contexto; sin eso, la señal no distingue una tendencia de una casualidad.
+
+Ninguna de estas señales es el aprendizaje: son indicios de él. Confundir el indicio con el
+fenómeno es el error clásico de la medición educativa, y por eso cada señal se interpreta junto
+con el contexto, el punto de partida del grupo y lo que el propio estudiante puede explicar sobre
+su trabajo.
+
+### 4. Cómo se traduce en decisiones de enseñanza
 
 Enseñar esto exige tareas reales: dar tres fuentes sobre un mismo tema y pedir un juicio fundado sobre cuál es más confiable y por qué. Los criterios se enseñan explícitamente y se practican, no se suponen. En paralelo conviene trabajar privacidad y huella digital con casos concretos del entorno de los estudiantes, que es donde el contenido se vuelve relevante.
 
-### 3. Qué sostiene la evidencia y qué no
+### 5. Qué sostiene la evidencia y qué no
 
 El campo cambia rápido y la evidencia sobre intervenciones es limitada y de corto plazo. Además, buena parte de los marcos de competencia digital son normativos y no empíricos: describen lo deseable sin demostrar cómo se logra. Y las afirmaciones sobre nativos digitales carecen de respaldo, pese a su difusión.
 
 > **Cómo leer el estado de evidencia `EN-DEBATE`.** Hay desacuerdo activo y publicado entre especialistas competentes. La clase presenta las posiciones y sus argumentos; tu tarea no es escoger un bando, sino saber qué evidencia te haría cambiar de posición.
+
+### 6. Integración: de los conceptos a una decisión defendible
+
+Una decisión es defendible cuando puede explicarse a alguien que no estuvo presente. Esta clase
+te deja en condiciones de qué competencia digital específica vas a enseñar y cómo la evaluarás con desempeño real, y esa decisión se sostiene solo si
+declara cuatro cosas: la evidencia que la funda, el supuesto que asume, el indicador que la
+comprobaría y la condición que la haría cambiar.
+
+Ese es también el criterio con el que se evalúa la evidencia de aprendizaje de la clase. Un
+análisis que podría copiarse a otra clase, a otro curso o a otro establecimiento sin cambiar una
+palabra no es una decisión: es una declaración general, y el oficio empieza justo donde las
+declaraciones generales terminan.
+
+## 📚 Lectura comparada
+
+Las obras no cumplen el mismo papel. Esta tabla indica qué lente aporta cada una;
+después de leer, escribe una discrepancia real entre al menos dos fuentes.
+
+| Fuente | Lente que aporta | Pregunta crítica |
+|---|---|---|
+| Wineburg, S. & McGrew, S. (2019). *Lateral Reading and the Nature of Expertise*. Teachers College Record. | muestra experimentalmente qué estrategia usan los verificadores profesionales y por qué la escuela enseña otra. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| UNESCO. *Marco de competencias digitales para docentes y estudiantes*. | referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+
+La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
+tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
+cambiarías después del contraste. Una nota que solo resume el texto no cumple el criterio.
+
+## 🧮 Ejemplo trabajado
+
+**Situación.** En 3.º básico, un tercio del curso no alcanza fluidez lectora suficiente para comprender el texto de otras asignaturas. El establecimiento compró un programa de comprensión lectora, sin medir antes qué componente estaba fallando.
+
+**Paso 1 — Delimitar el contexto y comprobar —no suponer— qué saben ya los estudiantes.** El equipo escribe primero el supuesto asociado a **Alfabetización digital** y se prohíbe tratarlo como hecho. Contrasta ese supuesto con **Evidencia de partida** y anota qué parte del dato todavía no existe. Del paso sale un registro fechado y una frase explícita: «cambiaríamos de decisión si…».
+
+**Paso 2 — Clasificar la situación distinguiendo Alfabetización digital de Evaluación de información.** El trabajo aquí es separar lo observado de lo interpretado sobre **Evaluación de información**. La evidencia que ordena la conversación es **Evidencia de proceso**; si su definición no está escrita, escribirla es parte del paso. Nada avanza mientras el equipo no acuerde qué contaría como refutación.
+
+**Paso 3 — Decidir con fundamento, usando Lectura lateral como criterio y declarando la fuente.** El riesgo de este paso es cerrar demasiado rápido alrededor de **Lectura lateral**. Antes de concluir, se enumeran dos explicaciones alternativas del mismo patrón y se revisa si **Evidencia de logro** logra distinguirlas. Si no lo logra, hace falta otra evidencia y así debe quedar registrado.
+
+**Paso 4 — Anticipar qué evidencia confirmaría la decisión y cuál la refutaría, con Huella y privacidad a la vista.** Con **Huella y privacidad** ya delimitado, la pregunta pasa a ser de consecuencia: qué cambia para los estudiantes, para el tiempo de clase y para la carga del equipo. **Evidencia de partida** entrega la lectura observable; el juicio profesional sigue siendo humano y debe quedar firmado por quien lo hace.
+
+**Paso 5 — Registrar lo ocurrido y contrastarlo contra el criterio de logro antes de avanzar.** El cierre exige compromiso: responsable, fecha, indicador de logro y condición de detención. **Evidencia de proceso** se convierte en la señal de seguimiento, y se acuerda con qué frecuencia se revisa y quién puede declarar que no funcionó sin costo político.
+
+**Síntesis.** La recomendación termina con responsable, fecha, evidencia de logro y señal de
+detención. Omitir cualquiera de esas cuatro piezas convierte el análisis en una opinión que nadie
+podrá auditar dentro de tres meses, y que por lo tanto nadie corregirá.
+
+## 🔀 Comparación de caminos y límites
+
+Ante la misma situación caben varios cursos de acción. La decisión profesional no es
+elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
+
+| Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
+|---|---|---|---|
+| Intervenir sobre **Alfabetización digital** | Capacidad de buscar, evaluar, producir y comunicar información con medios digitales | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Evaluación de información** | Juicio sobre la credibilidad de una fuente digital: quién la produce, con qué interés y con qué respaldo | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
+| Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
+
+**Frontera de aplicación.** El campo cambia rápido y la evidencia sobre intervenciones es limitada y de corto plazo. Fuera de esa frontera, la comparación
+anterior deja de ser válida y la decisión debe tomarse con evidencia distinta.
+
+## 🪜 El mismo tema según el rol
+
+La misma materia cambia de forma según quién decida. Al subir de nivel aumentan las
+personas, el tiempo y las consecuencias que quedan dentro de la decisión.
+
+| Nivel | Responsabilidad sobre tecnología y alfabetización digital |
+|---|---|
+| **Docente de aula** | Aplica, observa y registra la evidencia; declara qué no puede resolver desde su rol. |
+| **Equipo de apoyo o educación diferencial** | Verifica que la decisión no deje fuera a quien más barreras enfrenta y aporta los apoyos. |
+| **Jefatura técnico-pedagógica** | Convierte la decisión en criterio compartido, tiempo protegido y acompañamiento. |
+| **Dirección** | Decide si esto cambia condiciones institucionales, recursos o el plan de mejora. |
+| **Formación e investigación** | Pregunta si la decisión es generalizable, con qué evidencia y qué haría falta para probarlo. |
+
+Si trabajas en uno de esos niveles, la [guía de carrera de tu rol](../../../rutas/README.md)
+indica en qué orden conviene recorrer el programa y qué artefactos acreditan tu competencia.
 
 ## 🧪 Taller guiado
 
@@ -87,18 +230,56 @@ con un grupo no se traslada intacto a otro.
 7. Produce la evidencia de aprendizaje de la clase.
 8. Contrástala contra el criterio de logro, corrige y recién entonces avanza.
 
-### 📦 Evidencia de aprendizaje
+## 🏫 Caso profesional
+
+**Situación.** En 3.º básico, un tercio del curso no alcanza fluidez lectora suficiente para comprender el texto de otras asignaturas. El establecimiento compró un programa de comprensión lectora, sin medir antes qué componente estaba fallando.
+
+Entrega un **informe de decisión** de una página que contenga:
+
+1. **Hechos y fuentes** — qué está documentado y con qué evidencia, separado de lo que se supone.
+2. **Hipótesis** — la explicación más probable y una alternativa que también encajaría.
+3. **Dos opciones defendibles** — no una recomendación y un espantapájaros.
+4. **Efecto esperado** — sobre los estudiantes, el tiempo de clase, el equipo y los apoyos.
+5. **Recomendación** — con su fundamento y la fuente que la respalda.
+6. **Condición de revisión** — qué resultado te haría cambiar de decisión.
+7. **Responsable y fecha** — quién ejecuta y cuándo se revisa.
+
+Usa al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta. Una
+recomendación que ninguna fuente pone en duda casi siempre está poco examinada.
+
+## 📥 Evidencia de aprendizaje
 
 Una secuencia de alfabetización digital con una tarea de evaluación de información y sus criterios.
 
-Debe incluir contexto, decisión, fundamento, fuentes consultadas con su fecha, indicador de
-logro observable, riesgos previstos y qué harías distinto en la siguiente iteración.
+Guárdala en `evidence/P04-C056-tecnologia-y-alfabetizacion-digital/` con estos archivos:
+
+| Archivo | Qué contiene |
+|---|---|
+| `decision.md` | contexto, decisión, fundamento, fuentes con fecha, indicador de logro y riesgos |
+| `senales.md` | definición operacional de las tres señales, cómo se recogieron y qué no distinguen |
+| `nota-de-lectura.md` | dos fuentes contrastadas, con edición y páginas consultadas |
+| `revision-critica.md` | la objeción más fuerte a tu decisión y qué evidencia la invalidaría |
+
+Esta evidencia alimenta el artefacto de la parte: **unidad interdisciplinaria con diagnóstico por componente, secuencia alineada y evidencia formativa que produjo un ajuste**.
 
 ## 🏆 Reto verificable
 
 Aplica una tarea de evaluación de tres fuentes en tu curso. Registra cuántos estudiantes verifican saliendo del sitio y cuántos juzgan por la apariencia de la página.
 
-## ✅ Criterio de logro
+## ✅ Evaluación de la clase
+
+| Criterio | Peso | Evidencia esperada |
+|---|---:|---|
+| Precisión conceptual | 25 % | Distinciones correctas y observables entre los cuatro conceptos, aplicadas a un caso real. |
+| Diagnóstico y evidencia | 30 % | Conocimiento previo comprobado, evidencia recogida con fecha y contexto, y límites del dato declarados. |
+| Decisión y alternativas | 30 % | Decisión fundada, alternativa prevista si falla, y condición explícita que la haría cambiar. |
+| Responsabilidad y comunicación | 15 % | Diversidad y resguardos considerados, fuentes citadas y evidencia archivada de forma reproducible. |
+
+**Aprobación:** 80 de 100 y ningún criterio bajo el 60 %. Una respuesta que podría copiarse sin
+cambios a otra clase, a otro curso o a otro establecimiento se considera insuficiente, aunque
+esté bien escrita.
+
+**Criterio de logro de la evidencia:**
 
 - [ ] la tarea exige un juicio fundado sobre credibilidad y no solo búsqueda de información;
 - [ ] los criterios de evaluación de fuentes se enseñaron explícitamente antes de la tarea;
@@ -118,6 +299,10 @@ Aplica una tarea de evaluación de tres fuentes en tu curso. Registra cuántos e
 - Sostener métodos de lectura inicial refutados por costumbre o por identidad profesional.
 - Oponer fluidez y comprensión como si fueran alternativas excluyentes.
 
+Los cuatro comparten estructura: un síntoma visible, una causa que no se ve y una corrección que
+casi siempre es de diseño y no de esfuerzo. Antes de atribuir el problema a los estudiantes o a
+ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de los otros tres.
+
 ## ♿ Diversidad, accesibilidad y ética
 
 El acceso desigual a dispositivos y conectividad convierte cualquier tarea digital domiciliaria en una fuente de exclusión. La alfabetización digital debe enseñarse dentro del tiempo escolar y con recursos disponibles para todos.
@@ -127,23 +312,38 @@ Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revis
 consentimiento, resguardo de datos personales, proporcionalidad de la intervención y derecho
 de cada estudiante a no ser objeto de un ensayo que no le reporta beneficio.
 
+## 🇨🇱 Contexto chileno y cumplimiento
+
+Riesgo característico de esta parte: **Sostener métodos de lectura inicial refutados por costumbre o por identidad profesional.** Antes de aplicar
+cualquier decisión de esta clase en un establecimiento real, verifica el marco vigente:
+
+- Marco institucional y normativo: [`docs/MARCO_CHILE.md`](../../../docs/MARCO_CHILE.md).
+- Inclusión y apoyos: [`docs/INCLUSION_Y_DUA.md`](../../../docs/INCLUSION_Y_DUA.md).
+- Datos personales, IA y resguardos: [`docs/IA_EN_EDUCACION.md`](../../../docs/IA_EN_EDUCACION.md).
+- Fuentes oficiales con cómo leerlas: [`docs/FUENTES.md`](../../../docs/FUENTES.md).
+
+La regla del programa es simple: **la fuente oficial manda sobre el material pedagógico**. Si la
+norma cambió después de la fecha de esta clase, gana la norma.
+
 ## ❓ Preguntas de comprobación
 
 1. ¿Cómo decide tu grupo si una fuente es confiable?
 2. ¿Qué haces tú antes de creer un contenido que confirma lo que ya piensas?
 3. ¿Qué dato personal de tus estudiantes circula sin que ellos lo sepan?
 
-## 📕 Lecturas base
+## 📗 Fuentes y verificación
 
-**Wineburg, S. & McGrew, S. (2019). *Lateral Reading and the Nature of Expertise*. Teachers College Record.**  
-*Qué aporta a esta clase:* muestra experimentalmente qué estrategia usan los verificadores profesionales y por qué la escuela enseña otra.
-
-**UNESCO. *Marco de competencias digitales para docentes y estudiantes*.**  
-*Qué aporta a esta clase:* referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos.
+- Wineburg, S. & McGrew, S. (2019). *Lateral Reading and the Nature of Expertise*. Teachers College Record. **Uso en esta clase:** muestra experimentalmente qué estrategia usan los verificadores profesionales y por qué la escuela enseña otra. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- UNESCO. *Marco de competencias digitales para docentes y estudiantes*. **Uso en esta clase:** referencia normativa internacional; útil para estructurar la progresión, con sus límites empíricos. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
+
+> **Regla de fuentes.** Las obras anteriores estructuran las perspectivas de esta materia.
+> Cualquier norma, decreto, orientación ministerial o política institucional mencionada debe
+> comprobarse en su fuente primaria vigente antes de usarse con estudiantes reales. El desarrollo
+> de esta clase es original y no reproduce capítulos protegidos por derechos de autor.
 
 ## 🔗 Conexión con el resto del programa
 

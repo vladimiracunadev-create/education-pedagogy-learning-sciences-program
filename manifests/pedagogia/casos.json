@@ -1,0 +1,78 @@
+{
+  "descripcion": "Caso persistente y artefacto de cada parte. El caso atraviesa las 12 clases de su parte: cada clase lo retoma en el ejemplo trabajado y en el caso profesional, de modo que el estudiante decide siempre sobre la misma realidad y ve cómo cambia su diagnóstico a medida que avanza.",
+  "institucion": "Liceo Municipal Los Aromos y su red: un establecimiento urbano de 620 estudiantes con enseñanza básica y media, un jardín VTF asociado, especialidad técnico-profesional en administración, alta rotación docente y resultados descendentes en los últimos tres años. Todos los datos son ficticios.",
+  "partes": {
+    "0": {
+      "caso": "El equipo de Los Aromos discute si el problema de resultados es de enseñanza, de gestión o de contexto. Cada uno usa las palabras «calidad», «aprendizaje» y «pedagogía» con un significado distinto, y la reunión termina sin acuerdo por tercera vez.",
+      "artefacto": "mapa del sistema educativo con actores, competencias, instrumentos y vías de reclamo, aplicado a tres situaciones reales del establecimiento"
+    },
+    "1": {
+      "caso": "En 6.º básico, dos tercios del curso responde bien en clase y falla en la prueba dos semanas después. La docente concluye que «no estudian en casa» y aumenta la cantidad de ejercicios, sin resultados.",
+      "artefacto": "unidad rediseñada con cada decisión atribuida a un mecanismo de aprendizaje y con su evidencia de comprobación"
+    },
+    "2": {
+      "caso": "Un estudiante de 7.º básico dejó de participar, baja sus resultados y responde con agresividad a las correcciones. En el consejo aparecen cuatro explicaciones distintas —familiar, cognitiva, conductual y motivacional— y ninguna con evidencia.",
+      "artefacto": "trayectoria de desarrollo documentada con registros fechados, interpretación y decisiones por tramo"
+    },
+    "3": {
+      "caso": "En el nivel de transición del jardín asociado, la presión de las familias por «que salgan leyendo» empujó a reemplazar el juego por fichas de trazado. La educadora observa menos lenguaje, más conflictos y ninguna mejora en los precursores lectores.",
+      "artefacto": "experiencia parvularia completa con ambiente, mediación planificada y documentación pedagógica del aprendizaje de tres niños"
+    },
+    "4": {
+      "caso": "En 3.º básico, un tercio del curso no alcanza fluidez lectora suficiente para comprender el texto de otras asignaturas. El establecimiento compró un programa de comprensión lectora, sin medir antes qué componente estaba fallando.",
+      "artefacto": "unidad interdisciplinaria con diagnóstico por componente, secuencia alineada y evidencia formativa que produjo un ajuste"
+    },
+    "5": {
+      "caso": "En 2.º medio, la mitad del curso entrega trabajos hechos con herramientas generativas y el resto dejó de entregar. La respuesta institucional fue prohibir el celular; el desenganche siguió igual.",
+      "artefacto": "desafío de educación media con autoridad pedagógica explícita, evaluación auténtica y análisis de resultados estudiante por estudiante"
+    },
+    "6": {
+      "caso": "En la especialidad de administración, los estudiantes aprueban las pruebas escritas del módulo y fallan en la práctica profesional: no saben conciliar una cuenta ni explicar un error a un cliente. Dos empresas devolvieron practicantes.",
+      "artefacto": "módulo técnico-profesional completo con competencias evaluables, seguridad integrada, rúbricas calibradas y portafolio de evidencias"
+    },
+    "7": {
+      "caso": "El sostenedor contrató una capacitación de 16 horas en evaluación formativa para los 42 docentes. Todos la evaluaron con nota alta y, tres meses después, ninguna práctica de aula cambió.",
+      "artefacto": "programa de capacitación ejecutable por otro formador, con diagnóstico, plan de transferencia acordado y evaluación más allá de la satisfacción"
+    },
+    "8": {
+      "caso": "Un estudiante autista de 5.º básico tiene plan de apoyo vigente, informes completos y ninguna modificación real en la clase. Pasa la mitad de la jornada en la sala de recursos y su profesora jefe no participó del plan.",
+      "artefacto": "aula accesible con mapa de barreras observado, rediseño universal y plan de apoyo conectado con la planificación de aula"
+    },
+    "9": {
+      "caso": "El programa de la asignatura declara «pensamiento crítico» como objetivo central. La única evaluación del semestre es una prueba de selección múltiple sobre contenidos, y nadie ha notado la contradicción en cuatro años.",
+      "artefacto": "currículo completo con perfil, resultados verificables, mapa curricular y auditoría de alineamiento documentada"
+    },
+    "10": {
+      "caso": "Un docente con dominio disciplinar sólido explica con claridad y su curso obtiene malos resultados. Al revisar, se ve que nadie practica con corrección durante la clase: la práctica se envía siempre como tarea.",
+      "artefacto": "secuencia didáctica completa con modelamiento, práctica guiada y verificación de comprensión, ejecutada y registrada"
+    },
+    "11": {
+      "caso": "El establecimiento decide repitencias con el promedio final y una prueba de síntesis de 40 preguntas. Dos docentes de la misma asignatura califican el mismo trabajo con dos puntos de diferencia y nadie lo considera un problema técnico.",
+      "artefacto": "sistema de evaluación de asignatura con argumento de validez, análisis de ítems y rúbricas calibradas entre evaluadores"
+    },
+    "12": {
+      "caso": "En 8.º básico se registran 23 anotaciones en un mes, casi todas en los mismos cuatro estudiantes y casi todas en los primeros diez minutos de clase. El reglamento se aplica con criterios distintos según el docente.",
+      "artefacto": "plan de gestión de aula con rutinas enseñadas, escala de intervención graduada, protocolos y indicadores de clima"
+    },
+    "13": {
+      "caso": "El establecimiento compró licencias de una plataforma adaptativa para toda la básica. Nadie preguntó qué datos de los estudiantes trata, y el uso se concentró en los cursos que ya tenían mejores resultados.",
+      "artefacto": "tutor o asistente con IA documentado, con corpus verificado, resguardo de datos, límites declarados y plan de evaluación"
+    },
+    "14": {
+      "caso": "En la carrera de pedagogía de la universidad asociada, la asignatura de primer año reprueba al 45 % cada semestre. El programa declara 6 créditos y exige, medido en horas reales, casi el doble.",
+      "artefacto": "asignatura universitaria completa con syllabus, carga calculada, métodos activos y sistema de evaluación sostenible"
+    },
+    "15": {
+      "caso": "El equipo directivo de Los Aromos tiene ocho prioridades en su plan de mejora, ninguna con línea base. El uso real del tiempo directivo muestra un 12 % dedicado a lo pedagógico y el resto a administración y emergencias.",
+      "artefacto": "plan de mejora institucional con pocas prioridades, ciclos de indagación, indicadores desagregados y sistema de seguimiento"
+    },
+    "16": {
+      "caso": "La jefatura técnica quiere demostrar que su intervención en lectura funcionó. Solo tiene una medición al final del año, sin grupo de comparación, y la presenta como prueba de efecto de la intervención.",
+      "artefacto": "investigación completa con pregunta delimitada, diseño coherente, análisis trazable, ética resguardada y límites declarados"
+    },
+    "17": {
+      "caso": "La red quiere formar a sus 42 docentes con un programa propio y sostenerlo tres años. El diseño inicial es un taller de ocho horas por semestre, sin acompañamiento en el aula y con evaluación por encuesta de satisfacción.",
+      "artefacto": "propuesta doctoral defendible y programa de formación de formadores con acompañamiento en el puesto y evaluación de cambio de práctica"
+    }
+  }
+}

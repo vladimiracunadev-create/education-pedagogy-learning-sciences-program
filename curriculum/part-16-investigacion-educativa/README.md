@@ -4,7 +4,7 @@
 
 🔴 **Etapa E — Investigación avanzada y formación de formadores** · salida de la etapa: producir conocimiento educativo defendible y formar a quienes enseñan
 
-**Clases:** 12 (193–204) · **Población de referencia:** investigación aplicada, tesis de magíster e investigación institucional · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (193–204) · **Población de referencia:** investigación aplicada, tesis de magíster e investigación institucional · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Epistemología, pregunta y problema, revisión de literatura, marco teórico, diseños cuantitativos, cualitativos y mixtos, muestreo, estadística, análisis temático, ética y reproducibilidad
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ La mayor parte de las tesis educativas fracasa antes del método, en la pregunta
 El segundo tercio enseña diseños con su lógica, no como catálogo. Un diseño no es una etiqueta: es un argumento sobre cómo se descartan explicaciones alternativas. Quien entiende esa lógica sabe por qué un pretest-postest sin grupo de comparación no permite atribuir el cambio a la intervención, y por qué un estudio de casos bien hecho puede sostener afirmaciones fuertes sobre mecanismos aunque no generalice a poblaciones.
 
 El último tercio es ética y reproducibilidad, y en educación tiene urgencia particular: se investiga con menores de edad, en instituciones con relaciones de poder, y con datos sensibles. Además, el campo arrastra la crisis de replicación de la psicología. Preregistrar, reportar tamaños de efecto con intervalos, publicar instrumentos y datos cuando es posible, y reconocer limitaciones sin adornos, es lo que separa una investigación defendible de una que solo suena bien.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> La jefatura técnica quiere demostrar que su intervención en lectura funcionó. Solo tiene una medición al final del año, sin grupo de comparación, y la presenta como prueba de efecto de la intervención.
+
+**Artefacto que produces al terminar:** investigación completa con pregunta delimitada, diseño coherente, análisis trazable, ética resguardada y límites declarados.
 
 ## 📚 Resultados de la parte
 
@@ -87,6 +96,13 @@ flowchart TB
 - [ ] una revisión de literatura con estrategia de búsqueda documentada;
 - [ ] un protocolo de investigación con diseño, instrumentos y plan de análisis;
 - [ ] el informe final con limitaciones y consideraciones éticas declaradas.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

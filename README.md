@@ -2,7 +2,7 @@
 
 # 🎓 Programa de Pedagogía, Docencia y Ciencias del Aprendizaje
 
-## **216 clases · 18 partes · 540 horas · de cómo aprende una persona a cómo se forma a quien enseña**
+## **216 clases · 18 partes · 840.621 palabras · de cómo aprende una persona a cómo se forma a quien enseña**
 
 **El programa de formación pedagógica más completo en español — desde fundamentos de la
 educación, ciencias del aprendizaje y desarrollo humano hasta inclusión, currículum, didáctica,
@@ -12,10 +12,11 @@ investigación doctoral.**
 [![CI](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/ci.yml)
 [![Pages](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/pages.yml/badge.svg?branch=main)](https://vladimiracunadev-create.github.io/education-pedagogy-learning-sciences-program/)
 [![Seguridad](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/security.yml)
+[![CodeQL](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/education-pedagogy-learning-sciences-program/actions/workflows/codeql.yml)
 
-[![Versión](https://img.shields.io/badge/versión-1.1.0-e67e22?style=for-the-badge)](CHANGELOG.md)
+[![Versión](https://img.shields.io/badge/versión-1.2.0-e67e22?style=for-the-badge)](CHANGELOG.md)
 [![Clases](https://img.shields.io/badge/clases-216%20·%2018%20partes-7c5cff?style=for-the-badge)](CURRICULUM.md)
-[![Currículo](https://img.shields.io/badge/currículo-301.694%20palabras-2e8b57?style=for-the-badge)](STATUS.md)
+[![Contenido](https://img.shields.io/badge/contenido-840.621%20palabras-2e8b57?style=for-the-badge)](MANIFEST.md)
 [![Rutas](https://img.shields.io/badge/rutas%20por%20rol-14-007c83?style=for-the-badge)](rutas/README.md)
 [![Licencia](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-3fb950?style=for-the-badge)](LICENSE-CONTENT.md)
 
@@ -32,7 +33,10 @@ investigación doctoral.**
 [🧭 Rutas por rol](rutas/README.md) ·
 [🎓 Guía del estudiante](docs/GUIA_DEL_ESTUDIANTE.md) ·
 [🧑‍🏫 Guía del formador](docs/GUIA_DEL_FORMADOR.md) ·
+[📖 Glosario (806 términos)](docs/GLOSARIO.md) ·
+[📚 Bibliografía (353 obras)](docs/BIBLIOGRAFIA.md) ·
 [📊 Estado verificable](STATUS.md) ·
+[📦 Manifiesto](MANIFEST.md) ·
 [🗺️ Roadmap](ROADMAP.md) ·
 [🤝 Contribuir](CONTRIBUTING.md)
 
@@ -61,29 +65,36 @@ investigación doctoral.**
 ## 🎯 Qué es esto
 
 Un currículo **secuencial, basado en libros y orientado a evidencia**: 216 clases numeradas
-(001→216) en 18 partes, desde qué significa educar hasta cómo se forma a quien enseña. Cada
-clase es una carpeta con un `README.md` completo que incluye:
+(001→216) en 18 partes, desde qué significa educar hasta cómo se forma a quien enseña. Cada clase
+es un documento de **3.700 a 4.100 palabras** bajo el estándar `clase-profunda`, con 22 secciones
+obligatorias que el CI verifica:
 
-- 🎯 **Propósito** y **resultados de aprendizaje verificables**.
-- 🧩 **Cuatro conceptos** con definición operacional, no de diccionario.
-- 🗺️ **Flujo de razonamiento** en diagrama Mermaid.
-- 📖 **Desarrollo en tres capas**: el fondo del asunto · cómo se traduce en decisiones ·
-  **qué sostiene la evidencia y qué no**.
-- 🧪 **Taller guiado** aplicable en seis contextos distintos, porque nada se traslada intacto.
-- 📦 **Evidencia de aprendizaje** con **criterios de logro escritos antes** de producirla.
-- 🏆 **Reto verificable** que obliga a salir del material.
-- ⚠️ **Errores frecuentes** propios de la clase y característicos de la parte.
-- ♿ **Diversidad, accesibilidad y ética** de la decisión que acabas de tomar.
-- ❓ **Preguntas de comprobación** y 📕 **lecturas base** con la razón de esa lectura y no de otra.
+- 🎯 **Propósito** anclado a una decisión profesional concreta, no a una definición.
+- 🧭 **Agenda de 90 minutos** para dictarla, con el tiempo de práctica declarado aparte.
+- 🧩 **Cuatro conceptos con definición operacional**: dos personas que observan la misma clase
+  deben poder clasificar el mismo episodio igual.
+- 🧠 **Modelo mental**: el método en cinco pasos, sus tres señales observables y su frontera.
+- 📖 **Desarrollo en seis capas**: fondo · frontera conceptual · cómo se observa y se mide ·
+  decisiones de enseñanza · **qué sostiene la evidencia y qué no** · integración.
+- 📚 **Lectura comparada** de dos a tres obras, con el lente que aporta cada una.
+- 🧮 **Ejemplo trabajado** paso a paso sobre el caso persistente de su parte.
+- 🔀 **Comparación de caminos** con lo que privilegia y arriesga cada uno.
+- 🪜 **El mismo tema según el rol**, del aula a la dirección y a la investigación.
+- 🧪 **Taller guiado** en seis contextos y 🏫 **caso profesional** con informe de decisión.
+- 📥 **Evidencia de aprendizaje** archivable, con **rúbrica ponderada publicada antes**.
+- ⚠️ **Errores frecuentes**, ♿ **diversidad y ética**, 🇨🇱 **contexto normativo chileno**,
+  ❓ **preguntas de comprobación** y 📗 **fuentes con su uso declarado**.
 
 ## ✅ Estado verificable
 
 | Superficie | Cobertura |
 |---|---|
-| 📚 Currículo | 216/216 clases; numeración continua 001–216 en 18 partes y 5 etapas |
+| 📚 Currículo | 216/216 clases · 840.621 palabras · estándar `clase-profunda` de 22 secciones |
+| 📏 Profundidad | 3.765–4.133 palabras por clase (mediana 3.875), verificada en CI |
 | 🔬 Evidencia | cada clase declara su estado —`ROBUSTA` a `PRACTICA-PROFESIONAL`— y sus límites |
 | 🧩 Conceptos | 864 definiciones operacionales · glosario generado de 806 términos enlazados a su clase |
-| 📕 Bibliografía | 432 citas en clase sobre ~250 obras y fuentes oficiales explicadas |
+| 📕 Bibliografía | 432 citas en clase sobre 353 obras distintas, con el lente que aporta cada una |
+| 🏫 Casos | 18 casos persistentes: cada parte trabaja las 12 clases sobre la misma realidad |
 | 🗺️ Diagramas | 234 mapas Mermaid: uno por clase y uno por parte |
 | 🏆 Evaluación | 216 evidencias de aprendizaje, 648 preguntas de comprobación, rúbrica maestra |
 | 🧭 Rutas por rol | 14 guías de carrera con día a día, ruta, credenciales y mitos del oficio |
@@ -91,12 +102,14 @@ clase es una carpeta con un `README.md` completo que incluye:
 | 🖥️ Portal | sitio estático con buscador de las 216 clases, tema claro/oscuro y enlaces verificados |
 | 🏫 Capacitación | paquete exportable a LMS: HTML por lección, `manifiesto.json` y `programa.csv` |
 | 🔁 Reproducibilidad | todo lo publicado se regenera desde `manifests/`; el CI falla si difiere |
-| 🔧 Calidad | CI en Python 3.11–3.13, validadores, 25 pruebas, markdownlint, gitleaks y zizmor |
+| 🔧 Calidad | CI en Python 3.11–3.13, 4 validadores, 33 pruebas, markdownlint, gitleaks, zizmor y CodeQL |
 | 🎓 Título profesional | ⚪ no lo otorga y no lo reemplaza |
 
 ## 🌟 Qué lo hace distinto
 
 - **Cada clase habilita una decisión**, no cubre un tema. El tema es el medio.
+- **Cada parte trabaja un caso persistente**: las 12 clases deciden sobre la misma realidad, y
+  el diagnóstico cambia a medida que avanzas.
 - **Cada clase declara con qué evidencia se sostiene.** Nada se presenta como más sólido de lo
   que es, y la [distribución completa](STATUS.md) está publicada.
 - **Cada clase declara sus límites.** Una sección entera dedicada a lo que la evidencia **no**

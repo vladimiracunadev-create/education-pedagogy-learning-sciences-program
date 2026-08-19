@@ -7,6 +7,35 @@ Versionado semántico: `MAYOR.MENOR.PARCHE`.
 - **MENOR:** se agrega contenido o material de apoyo sin romper la estructura.
 - **PARCHE:** correcciones de contenido, fuentes, enlaces o generadores.
 
+## [1.2.0] — 2026-08-19
+
+Sube el estándar de clase al nivel de los demás programas del autor, sin cambiar el currículo:
+las mismas 216 clases, con casi tres veces más contenido por clase.
+
+### Añadido
+
+- **Estándar `clase-profunda`**: 22 secciones obligatorias por clase, verificadas en CI. Se
+  suman agenda de 90 minutos, modelo mental con método y señales observables, desarrollo en seis
+  capas, lectura comparada con el lente de cada obra, ejemplo trabajado paso a paso, comparación
+  de caminos con su riesgo, lectura del tema por nivel de rol, caso profesional con informe de
+  decisión, evidencia archivable, rúbrica ponderada y contexto normativo chileno por clase.
+- **18 casos persistentes** (`manifests/pedagogia/casos.json`): cada parte trabaja sus 12 clases
+  sobre la misma realidad —un establecimiento simulado— y declara el artefacto que produce.
+- **`evidence/`**: carpeta de portafolio con su protocolo de anonimización; el contenido queda
+  fuera del control de versiones a propósito.
+- **`MANIFEST.md`** generado: inventario cuantitativo contado sobre archivos reales.
+- **CodeQL** con acciones fijadas por SHA, permisos por job y ejecución semanal.
+- Validación de profundidad: una clase por debajo de 2.500 palabras rompe el CI.
+- Pruebas nuevas: profundidad, ausencia de negrita anidada y presencia del caso de la parte.
+
+### Cambiado
+
+- Las clases pasan de 1.302–1.577 palabras a **3.765–4.133** (mediana 3.875) y el currículo de
+  301.694 a **840.621 palabras**.
+- El README declara el estándar de clase, la profundidad verificada, los casos persistentes y
+  los enlaces al glosario, la bibliografía y el manifiesto con sus conteos.
+- Las páginas de parte publican su caso, su artefacto y sus enlaces de práctica.
+
 ## [1.1.0] — 2026-08-19
 
 ### Añadido

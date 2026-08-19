@@ -4,7 +4,7 @@
 
 🟢 **Etapa A — Fundamentos** · salida de la etapa: explicar cómo aprende una persona y qué hace la educación con ese hecho
 
-**Clases:** 12 (001–012) · **Población de referencia:** transversal a todo el sistema educativo · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (001–012) · **Población de referencia:** transversal a todo el sistema educativo · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Educación y pedagogía, historia, filosofía, ética profesional, derecho a la educación, sistemas comparados, calidad y equidad
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ Casi todos los conflictos pedagógicos que parecen técnicos son, en el fondo, d
 La segunda razón para empezar aquí es defensiva. La educación es un campo saturado de modas: cada década trae un método que promete resolverlo todo y que desaparece sin dejar evidencia. Quien conoce la historia del campo reconoce el patrón —la escuela nueva, la enseñanza programada, las inteligencias múltiples, la gamificación total— y deja de comprar la promesa sin pedir el dato. Conocer la historia no es erudición: es una vacuna contra el entusiasmo sin evidencia.
 
 La tercera razón es jurídica y ética. Enseñar es ejercer poder sobre personas que muchas veces no eligieron estar ahí, y ese poder está regulado por un derecho —el derecho a la educación— y por una ética profesional que no es opcional. Un docente que no distingue entre lo que puede decidir, lo que debe consultar y lo que le está prohibido, tarde o temprano toma una decisión que perjudica a un estudiante creyendo que lo ayuda.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> El equipo de Los Aromos discute si el problema de resultados es de enseñanza, de gestión o de contexto. Cada uno usa las palabras «calidad», «aprendizaje» y «pedagogía» con un significado distinto, y la reunión termina sin acuerdo por tercera vez.
+
+**Artefacto que produces al terminar:** mapa del sistema educativo con actores, competencias, instrumentos y vías de reclamo, aplicado a tres situaciones reales del establecimiento.
 
 ## 📚 Resultados de la parte
 
@@ -85,6 +94,13 @@ flowchart TB
 - [ ] un ensayo breve que defienda una posición sobre el fin de la educación y anticipe la objeción más fuerte;
 - [ ] el mapa del sistema educativo chileno con actores, competencias y vías de reclamo;
 - [ ] la autoevaluación del módulo con la rúbrica maestra.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

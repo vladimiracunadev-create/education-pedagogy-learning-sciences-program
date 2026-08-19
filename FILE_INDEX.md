@@ -13,6 +13,7 @@
 | [`FILE_INDEX.md`](FILE_INDEX.md) | este índice |
 | [`LICENSE`](LICENSE) | licencia MIT del código |
 | [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md) | licencia CC BY-NC-SA 4.0 del contenido educativo |
+| [`MANIFEST.md`](MANIFEST.md) | inventario cuantitativo verificable del repositorio |
 | [`Makefile`](Makefile) | atajos de generación y validación |
 | [`README.md`](README.md) | presentación del programa y punto de entrada |
 | [`ROADMAP.md`](ROADMAP.md) | etapas de dominio y condiciones para avanzar |
@@ -37,7 +38,7 @@
 | `docs/` | 17 | documentos transversales: metodología, guías, bibliografía, marcos y protocolos |
 | `international-education/` | 1 | comparación internacional de sistemas educativos |
 | `labs/` | 13 | laboratorios y simuladores de práctica |
-| `manifests/` | 24 | fuente única de verdad del currículo: nada se edita a mano en `curriculum/` |
+| `manifests/` | 25 | fuente única de verdad del currículo: nada se edita a mano en `curriculum/` |
 | `notebooks/` | 1 | actividades analíticas reproducibles |
 | `papers/` | 1 | plantilla de revisión crítica de artículos |
 | `projects/` | 6 | proyectos integradores mayores del programa |

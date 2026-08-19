@@ -118,11 +118,15 @@ class PruebaCurriculoPublicado(unittest.TestCase):
 
     def test_secciones_obligatorias(self) -> None:
         secciones = [
-            "## 🎯 Propósito", "## 📚 Resultados de aprendizaje", "## 🧩 Conceptos centrales",
-            "## 🗺️ Flujo de razonamiento", "## 📖 Desarrollo", "## 🧪 Taller guiado",
-            "## 🏆 Reto verificable", "## ✅ Criterio de logro", "## ⚠️ Errores frecuentes",
-            "## ♿ Diversidad, accesibilidad y ética", "## ❓ Preguntas de comprobación",
-            "## 📕 Lecturas base", "## 🔗 Conexión con el resto del programa",
+            "## 🎯 Propósito", "## 📚 Resultados de aprendizaje", "## 🧭 Agenda sugerida",
+            "## 🧩 Conceptos centrales", "## 🧠 Modelo mental", "## 🗺️ Flujo de razonamiento",
+            "## 📖 Desarrollo", "## 📚 Lectura comparada", "## 🧮 Ejemplo trabajado",
+            "## 🔀 Comparación de caminos y límites", "## 🪜 El mismo tema según el rol",
+            "## 🧪 Taller guiado", "## 🏫 Caso profesional", "## 📥 Evidencia de aprendizaje",
+            "## 🏆 Reto verificable", "## ✅ Evaluación de la clase", "## ⚠️ Errores frecuentes",
+            "## ♿ Diversidad, accesibilidad y ética", "## 🇨🇱 Contexto chileno y cumplimiento",
+            "## ❓ Preguntas de comprobación", "## 📗 Fuentes y verificación",
+            "## 🔗 Conexión con el resto del programa",
         ]
         for pagina in self.paginas:
             texto = pagina.read_text(encoding="utf-8")
@@ -136,10 +140,28 @@ class PruebaCurriculoPublicado(unittest.TestCase):
                 self.assertIn("```mermaid", pagina.read_text(encoding="utf-8"))
 
     def test_profundidad_minima(self) -> None:
+        # Estándar `clase-profunda`: por debajo de 2.500 palabras la clase perdió
+        # alguna de sus 22 secciones o quedó reducida a un esquema.
         for pagina in self.paginas:
             palabras = len(pagina.read_text(encoding="utf-8").split())
             with self.subTest(clase=pagina.parent.name):
-                self.assertGreater(palabras, 900)
+                self.assertGreater(palabras, 2500)
+
+    def test_sin_negrita_anidada(self) -> None:
+        # La negrita dentro de negrita no se renderiza y ensucia el texto publicado.
+        patron = re.compile(r"\*\*[^*\n]*\*\*[^*\n]*\*\*[^*\n]*\*\*\.\*\*")
+        for pagina in self.paginas:
+            with self.subTest(clase=pagina.parent.name):
+                self.assertIsNone(patron.search(pagina.read_text(encoding="utf-8")))
+
+    def test_caso_de_la_parte_en_cada_clase(self) -> None:
+        # El ejemplo trabajado y el caso profesional usan el caso persistente de la parte.
+        casos = leer_json(MANIFIESTOS / "pedagogia" / "casos.json")["partes"]
+        for pagina in self.paginas:
+            parte = str(int(pagina.parent.parent.name.split("-")[1]))
+            inicio = casos[parte]["caso"][:60]
+            with self.subTest(clase=pagina.parent.name):
+                self.assertIn(inicio, pagina.read_text(encoding="utf-8"))
 
     def test_titulo_con_formato_correcto(self) -> None:
         for pagina in self.paginas:

@@ -4,7 +4,7 @@
 
 🟣 **Etapa C — Núcleo profesional docente** · salida de la etapa: diseñar, enseñar, evaluar y gestionar un curso completo con evidencia
 
-**Clases:** 12 (157–168) · **Población de referencia:** transversal a niveles y modalidades · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (157–168) · **Población de referencia:** transversal a niveles y modalidades · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Competencia digital docente, LMS, diseño de recursos, gamificación, analítica de aprendizaje, adaptatividad, fundamentos de IA, modelos de lenguaje, RAG, agentes educativos y ética, privacidad y sesgos
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ El patrón histórico de la tecnología educativa es constante: llega una herram
 Con la inteligencia artificial generativa el problema cambia de escala, porque afecta a la vez a la enseñanza, a la evaluación y a la integridad académica. Un modelo de lenguaje puede producir material, explicar con paciencia infinita y también fabricar información falsa con tono seguro. El programa toma una posición explícita: la IA se usa con supervisión humana, con verificación del contenido, con resguardo de datos personales y con criterios claros sobre qué tarea deja de ser evaluable cuando la máquina la resuelve.
 
 La parte enseña además la parte técnica sin misticismo: qué es un modelo de lenguaje, por qué alucina, qué agrega la recuperación de información sobre documentos propios, qué es un agente y dónde están sus límites reales. Un docente que entiende el mecanismo puede decidir; uno que lo trata como magia solo puede prohibir o rendirse, y ninguna de las dos es una política educativa.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> El establecimiento compró licencias de una plataforma adaptativa para toda la básica. Nadie preguntó qué datos de los estudiantes trata, y el uso se concentró en los cursos que ya tenían mejores resultados.
+
+**Artefacto que produces al terminar:** tutor o asistente con IA documentado, con corpus verificado, resguardo de datos, límites declarados y plan de evaluación.
 
 ## 📚 Resultados de la parte
 
@@ -87,6 +96,13 @@ flowchart TB
 - [ ] un recurso digital diseñado con principios multimedia y probado con estudiantes;
 - [ ] un asistente o tutor con IA documentado, con sus límites y su verificación;
 - [ ] la política de uso de IA del curso, comunicable a estudiantes y familias.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

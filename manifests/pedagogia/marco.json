@@ -30,5 +30,27 @@
     "diseñar",
     "evaluar",
     "fundamentar"
+  ],
+  "rubrica_de_clase": [
+    [
+      "Precisión conceptual",
+      25,
+      "Distinciones correctas y observables entre los cuatro conceptos, aplicadas a un caso real."
+    ],
+    [
+      "Diagnóstico y evidencia",
+      30,
+      "Conocimiento previo comprobado, evidencia recogida con fecha y contexto, y límites del dato declarados."
+    ],
+    [
+      "Decisión y alternativas",
+      30,
+      "Decisión fundada, alternativa prevista si falla, y condición explícita que la haría cambiar."
+    ],
+    [
+      "Responsabilidad y comunicación",
+      15,
+      "Diversidad y resguardos considerados, fuentes citadas y evidencia archivada de forma reproducible."
+    ]
   ]
 }

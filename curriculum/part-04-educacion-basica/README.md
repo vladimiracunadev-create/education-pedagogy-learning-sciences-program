@@ -4,7 +4,7 @@
 
 🔵 **Etapa B — Enseñanza por ciclo vital** · salida de la etapa: enseñar a una población concreta con decisiones ajustadas a su desarrollo
 
-**Clases:** 12 (049–060) · **Población de referencia:** 1.º a 8.º básico (6 a 13 años) · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (049–060) · **Población de referencia:** 1.º a 8.º básico (6 a 13 años) · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Didáctica de la lectura, escritura, matemática, ciencias, historia y ciudadanía, arte, educación física, alfabetización digital, planificación de unidades, evaluación formativa y gestión de aula
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ La educación básica concentra las decisiones didácticas con mayor evidencia a
 La segunda decisión de peso es la matemática temprana. Fluidez en hechos numéricos, comprensión del valor posicional, sentido de las fracciones y resolución de problemas con representación explícita predicen desempeño posterior mejor que casi cualquier otra variable escolar. Aquí también hay un falso dilema instalado —comprensión contra práctica— que la evidencia disuelve: la fluidez libera memoria de trabajo para razonar, y el razonamiento da sentido a la práctica.
 
 El tercer eje es la evaluación formativa cotidiana, que en este nivel decide si un estudiante avanza con vacíos o se detiene a tiempo. Un docente de básica que sabe recoger evidencia de comprensión en tres minutos de clase, y actuar con ella en la clase siguiente, corrige trayectorias enteras. Esa es la competencia central de la parte, y por eso todas las didácticas se cierran con instrumentos y no con discursos.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> En 3.º básico, un tercio del curso no alcanza fluidez lectora suficiente para comprender el texto de otras asignaturas. El establecimiento compró un programa de comprensión lectora, sin medir antes qué componente estaba fallando.
+
+**Artefacto que produces al terminar:** unidad interdisciplinaria con diagnóstico por componente, secuencia alineada y evidencia formativa que produjo un ajuste.
 
 ## 📚 Resultados de la parte
 
@@ -87,6 +96,13 @@ flowchart TB
 - [ ] una clase de matemática con problemas, representaciones y práctica deliberada;
 - [ ] una unidad completa con alineamiento verificable;
 - [ ] un registro de evidencia formativa con el ajuste que produjo.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

@@ -4,7 +4,7 @@
 
 🟣 **Etapa C — Núcleo profesional docente** · salida de la etapa: diseñar, enseñar, evaluar y gestionar un curso completo con evidencia
 
-**Clases:** 12 (121–132) · **Población de referencia:** transversal a niveles y disciplinas · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (121–132) · **Población de referencia:** transversal a niveles y disciplinas · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Conocimiento pedagógico del contenido, explicaciones, ejemplos y contraejemplos, preguntas, diálogo, modelamiento, andamiaje, práctica guiada e independiente, aprendizaje colaborativo, aula invertida y aprendizaje para el dominio
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ El corazón de esta parte es el conocimiento pedagógico del contenido: ese sabe
 Sobre esa base se entrenan técnicas con respaldo empírico: explicación con ejemplos trabajados, secuencia de modelamiento a práctica independiente, preguntas que verifican comprensión de todo el curso y no solo de quien levanta la mano, y retroalimentación que corrige el trabajo en vez de calificar a la persona. Los principios de instrucción derivados de la investigación sobre docentes eficaces son la columna vertebral, y se aplican tal como fueron formulados: como principios, no como guion.
 
 La parte cierra con las metodologías que suelen adoptarse por moda —aula invertida, colaborativo, dominio— y las somete a la misma exigencia. Todas tienen condiciones de funcionamiento: el aula invertida fracasa si el material previo no se estudia; el trabajo colaborativo sin interdependencia y responsabilidad individual se convierte en trabajo de uno; el aprendizaje para el dominio exige tiempo variable, y quien no lo concede solo cambió el nombre de lo que ya hacía.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> Un docente con dominio disciplinar sólido explica con claridad y su curso obtiene malos resultados. Al revisar, se ve que nadie practica con corrección durante la clase: la práctica se envía siempre como tarea.
+
+**Artefacto que produces al terminar:** secuencia didáctica completa con modelamiento, práctica guiada y verificación de comprensión, ejecutada y registrada.
 
 ## 📚 Resultados de la parte
 
@@ -85,6 +94,13 @@ flowchart TB
 - [ ] el registro de una secuencia completa de modelamiento a práctica independiente;
 - [ ] un repertorio propio de preguntas de verificación por nivel cognitivo;
 - [ ] una secuencia didáctica completa aplicada y revisada con evidencia.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

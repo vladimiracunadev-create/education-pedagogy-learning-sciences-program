@@ -4,7 +4,7 @@
 
 🟢 **Etapa A — Fundamentos** · salida de la etapa: explicar cómo aprende una persona y qué hace la educación con ese hecho
 
-**Clases:** 12 (013–024) · **Población de referencia:** transversal: los mecanismos son generales, su aplicación no · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (013–024) · **Población de referencia:** transversal: los mecanismos son generales, su aplicación no · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Conductismo, cognitivismo, constructivismo, memoria, atención, carga cognitiva, práctica de recuperación, espaciado, metacognición, motivación y transferencia
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ Esta es la parte con más evidencia acumulada de todo el programa y también la 
 El programa toma partido en un punto: los mecanismos cognitivos son generales, pero las decisiones didácticas son locales. Que la práctica de recuperación funcione no significa que aplicar un cuestionario cada lunes mejore el aprendizaje de cualquier curso; significa que recuperar activamente lo aprendido, en el momento adecuado y con retroalimentación, funciona mejor que releer. Traducir un mecanismo en una rutina exige criterio profesional, y ese criterio es lo que esta parte entrena.
 
 También es la parte donde se desmontan los neuromitos. Estilos de aprendizaje, hemisferio dominante, uso del diez por ciento del cerebro y aprendizaje inconsciente durante el sueño siguen circulando en formaciones docentes pese a estar refutados. No se trata de ridiculizar a quien los cree, sino de mostrar por qué son verosímiles y qué evidencia los desmonta: reconocer el mecanismo del error protege mejor que memorizar la lista de mitos.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> En 6.º básico, dos tercios del curso responde bien en clase y falla en la prueba dos semanas después. La docente concluye que «no estudian en casa» y aumenta la cantidad de ejercicios, sin resultados.
+
+**Artefacto que produces al terminar:** unidad rediseñada con cada decisión atribuida a un mecanismo de aprendizaje y con su evidencia de comprobación.
 
 ## 📚 Resultados de la parte
 
@@ -85,6 +94,13 @@ flowchart TB
 - [ ] una secuencia didáctica con la carga cognitiva justificada decisión por decisión;
 - [ ] un calendario de recuperación y espaciado para una unidad completa;
 - [ ] un desmontaje escrito de un neuromito con la evidencia que lo refuta.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

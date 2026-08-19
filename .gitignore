@@ -41,3 +41,7 @@ desktop.ini
 .vscode/
 *.swp
 *~
+
+# Evidencia del portafolio: es del estudiante y puede contener datos sensibles.
+evidence/*
+!evidence/README.md

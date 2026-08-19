@@ -4,7 +4,7 @@
 
 🔴 **Etapa E — Investigación avanzada y formación de formadores** · salida de la etapa: producir conocimiento educativo defendible y formar a quienes enseñan
 
-**Clases:** 12 (205–216) · **Población de referencia:** nivel doctoral, dirección de tesis y formación docente · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (205–216) · **Población de referencia:** nivel doctoral, dirección de tesis y formación docente · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Originalidad y contribución, diseños avanzados, modelos longitudinales y multinivel, metaanálisis y revisión sistemática, investigación basada en diseño, analítica avanzada, escritura científica, publicación, dirección de tesis y formación de docentes
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ El salto doctoral no es de cantidad sino de tipo: ya no basta con aplicar bien u
 Técnicamente, la parte incorpora los diseños que el nivel exige: datos anidados que obligan a modelos multinivel porque los estudiantes están dentro de cursos y los cursos dentro de escuelas; medidas repetidas que permiten estudiar trayectorias; síntesis cuantitativa de evidencia acumulada; e investigación basada en diseño, que produce a la vez una intervención y una teoría sobre por qué funciona. No se trata de dominar todo el aparato estadístico, sino de saber qué exige cada pregunta y cuándo hay que trabajar con un especialista.
 
 El cierre del programa es la formación de formadores, y no por simetría: porque enseñar a enseñar es el único modo de que este trabajo escale. La evidencia sobre desarrollo profesional docente es clara en lo que no funciona —talleres aislados sin seguimiento— y razonablemente clara en lo que sí: foco en el contenido, duración sostenida, práctica con retroalimentación y acompañamiento en el puesto. El proyecto final del programa es exactamente eso: un dispositivo de formación docente defendible con evidencia.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> La red quiere formar a sus 42 docentes con un programa propio y sostenerlo tres años. El diseño inicial es un taller de ocho horas por semestre, sin acompañamiento en el aula y con evaluación por encuesta de satisfacción.
+
+**Artefacto que produces al terminar:** propuesta doctoral defendible y programa de formación de formadores con acompañamiento en el puesto y evaluación de cambio de práctica.
 
 ## 📚 Resultados de la parte
 
@@ -84,6 +93,13 @@ flowchart TB
 - [ ] un plan de análisis avanzado coherente con la estructura de los datos;
 - [ ] un manuscrito en formato de artículo listo para someter a revisión;
 - [ ] un programa de formación de formadores con su diseño de evaluación.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

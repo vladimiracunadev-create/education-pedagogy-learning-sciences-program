@@ -4,7 +4,7 @@
 
 🟣 **Etapa C — Núcleo profesional docente** · salida de la etapa: diseñar, enseñar, evaluar y gestionar un curso completo con evidencia
 
-**Clases:** 12 (097–108) · **Población de referencia:** todos los niveles, con foco en apoyos y accesibilidad · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (097–108) · **Población de referencia:** todos los niveles, con foco en apoyos y accesibilidad · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Educación inclusiva, barreras para el aprendizaje, Diseño Universal para el Aprendizaje, diversificación, necesidades educativas especiales, autismo, TDAH, dificultades específicas, discapacidad sensorial, motora e intelectual y altas capacidades
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ El cambio conceptual que ordena esta parte es el paso del déficit a la barrera.
 El Diseño Universal para el Aprendizaje es el marco operativo de ese giro. Su lógica es anticipar la variabilidad en vez de compensarla después: si el material existe en más de un formato, si hay más de una forma de demostrar lo aprendido y si el sentido de la tarea está explícito, muchas adecuaciones individuales dejan de ser necesarias. La evidencia experimental sobre el marco completo es más limitada de lo que su difusión sugiere, y conviene decirlo: sus principios son sólidos y ampliamente adoptados, y su eficacia global sigue en estudio.
 
 En Chile este campo está fuertemente normado —decretos de integración y de adecuaciones curriculares, ley de inclusión, ley de autismo, ley de discapacidad— y esa normativa define plazos, actores e instrumentos obligatorios. Aquí se enseña a distinguir la obligación legal de la buena práctica: la primera se cumple, la segunda se argumenta; confundirlas produce equipos que llenan formularios y no cambian la enseñanza.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> Un estudiante autista de 5.º básico tiene plan de apoyo vigente, informes completos y ninguna modificación real en la clase. Pasa la mitad de la jornada en la sala de recursos y su profesora jefe no participó del plan.
+
+**Artefacto que produces al terminar:** aula accesible con mapa de barreras observado, rediseño universal y plan de apoyo conectado con la planificación de aula.
 
 ## 📚 Resultados de la parte
 
@@ -84,6 +93,13 @@ flowchart TB
 - [ ] un rediseño de clase con DUA y su comparación con la versión original;
 - [ ] un plan de apoyo individual conectado con la planificación de aula;
 - [ ] una revisión del cumplimiento normativo con brechas y plan de cierre.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

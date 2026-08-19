@@ -4,7 +4,7 @@
 
 🟠 **Etapa D — Educación superior y liderazgo** · salida de la etapa: sostener la calidad del trabajo de otros, no solo del propio
 
-**Clases:** 12 (169–180) · **Población de referencia:** pregrado y postgrado universitario y técnico superior · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (169–180) · **Población de referencia:** pregrado y postgrado universitario y técnico superior · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Aprendizaje en educación superior, diseño de asignaturas, syllabus, clase magistral, seminarios, laboratorios, tutorías, evaluación, integridad académica, proyectos de título y supervisión inicial
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ La docencia universitaria arrastra un supuesto que la evidencia desmiente: que q
 La segunda cuestión es la clase magistral. La evidencia no dice que sea inútil: dice que, comparada con métodos que exigen participación activa, produce menos aprendizaje y más reprobación en cursos de ciencias e ingeniería. Una síntesis muy citada de estudios en educación superior mostró exactamente eso. La conclusión operativa no es eliminar la exposición, sino intercalarla con actividades que obliguen a procesar, porque el problema no es hablar: es hablar cuarenta minutos sin que nadie tenga que hacer nada.
 
 El tercer eje es institucional. En educación superior la calidad se juega también en el diseño de la asignatura dentro de un plan de estudios, en la coherencia con el perfil de egreso, en la carga académica real del estudiante y en los procesos de acreditación. Un buen profesor universitario sabe enseñar y además sabe justificar por escrito por qué su asignatura está diseñada así, que es lo que le pedirán en cualquier proceso de evaluación.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> En la carrera de pedagogía de la universidad asociada, la asignatura de primer año reprueba al 45 % cada semestre. El programa declara 6 créditos y exige, medido en horas reales, casi el doble.
+
+**Artefacto que produces al terminar:** asignatura universitaria completa con syllabus, carga calculada, métodos activos y sistema de evaluación sostenible.
 
 ## 📚 Resultados de la parte
 
@@ -84,6 +93,13 @@ flowchart TB
 - [ ] el rediseño de una cátedra con procesamiento activo y su evaluación;
 - [ ] un protocolo de tutoría y de supervisión de proyectos de título;
 - [ ] una política de integridad académica aplicable y verificable.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

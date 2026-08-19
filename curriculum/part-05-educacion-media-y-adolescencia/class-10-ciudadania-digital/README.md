@@ -20,6 +20,21 @@ Al finalizar esta clase podrás:
 4. **Producir** la evidencia de la clase —un protocolo de ciudadanía digital con enseñanza preventiva, procedimiento ante incidentes y criterios de derivación— y contrastarla contra el criterio de logro.
 5. **Distinguir** lo que la evidencia sostiene de lo que es práctica instalada, preferencia personal o costumbre de la institución.
 
+## 🧭 Agenda sugerida (90 minutos)
+
+| Minutos | Bloque | Qué ocurre |
+|---:|---|---|
+| 0–10 | Activación | Recuperar sin mirar la clase anterior y responder la pregunta de foco. |
+| 10–25 | Conceptos | Definir los cuatro conceptos y reconocerlos en un caso real. |
+| 25–45 | Modelo mental | Recorrer el método: delimitar el contexto y comprobar —no suponer— qué saben ya los estudiantes. |
+| 45–70 | Ejemplo trabajado | Aplicar el método al caso de la parte, paso a paso y con evidencia. |
+| 70–85 | Taller | Trasladar la decisión al contexto propio y anticipar su alternativa. |
+| 85–90 | Cierre | Fijar responsable, plazo e indicador de la evidencia de aprendizaje. |
+
+Fuera de la sesión, la clase exige aproximadamente **una hora y media** de práctica y de
+producción de la evidencia. Si el tiempo se recorta, se recorta el ejemplo trabajado, nunca la
+producción de evidencia: es la única parte que prueba el aprendizaje.
+
 ## 🧩 Conceptos centrales
 
 | Concepto | Comprensión verificable |
@@ -28,6 +43,30 @@ Al finalizar esta clase podrás:
 | **Privacidad** | control sobre la información personal propia y ajena; se enseña con casos concretos |
 | **Ciberacoso** | agresión sostenida mediante medios digitales; tiene tratamiento normativo específico |
 | **Respuesta institucional** | conjunto de acciones que el establecimiento debe ejecutar ante un incidente digital |
+
+## 🧠 Modelo mental
+
+El método de esta clase, en cinco pasos que se ejecutan en orden:
+
+1. Delimitar el contexto y comprobar —no suponer— qué saben ya los estudiantes.
+2. Clasificar la situación distinguiendo **Ciudadanía digital** de **Privacidad**.
+3. Decidir con fundamento, usando **Ciberacoso** como criterio y declarando la fuente.
+4. Anticipar qué evidencia confirmaría la decisión y cuál la refutaría, con **Respuesta institucional** a la vista.
+5. Registrar lo ocurrido y contrastarlo contra el criterio de logro antes de avanzar.
+
+Lo que hace profesional a este método no son los pasos sino la evidencia que exige en cada uno.
+Estas son las señales observables con las que se comprueba, y que deben quedar definidas **antes**
+de recogerlas:
+
+| Señal observable | Cómo se recoge y qué significa |
+|---|---|
+| **Evidencia de partida** | qué sabían o podían hacer los estudiantes antes de la decisión, comprobado y no supuesto |
+| **Evidencia de proceso** | qué se observó mientras la decisión se aplicaba, con fecha, contexto y responsable del registro |
+| **Evidencia de logro** | qué muestra un protocolo de ciudadanía digital con enseñanza preventiva, procedimiento ante incidentes y criterios de derivación frente al criterio declarado de antemano |
+
+**Frontera de aplicación.** El método vale mientras las condiciones que lo sostienen se cumplan.
+La evidencia sobre programas de prevención del ciberacoso muestra efectos modestos y muy dependientes de la implementación. Cuando esa condición falla, el paso siguiente no es forzar el método:
+es declarar el límite y decidir con menos certeza, dejándolo por escrito.
 
 ## 🗺️ Flujo de razonamiento
 
@@ -51,15 +90,119 @@ flowchart TB
 
 Los conflictos digitales entre estudiantes ocurren mayormente fuera del horario escolar y estallan dentro de la escuela. La respuesta más común —prohibir dispositivos— administra el síntoma y no enseña criterio. Un enfoque completo combina enseñanza preventiva con casos reales, reglas claras sobre uso en el establecimiento, y un procedimiento de respuesta ante incidentes que distinga conflicto, falta y posible delito.
 
-### 2. Cómo se traduce en decisiones de enseñanza
+### 2. Frontera conceptual: qué es y qué no es
+
+Los cuatro conceptos de esta clase se confunden entre sí con facilidad, y esa confusión no es
+inocua: produce decisiones que atacan el problema equivocado. **Ciudadanía digital** no es lo
+mismo que **Privacidad** —control sobre la información personal propia y ajena; se enseña con casos concretos—, y tratarlos como sinónimos hace
+que la intervención se dirija al lugar incorrecto. Del mismo modo, **Ciberacoso** y
+**Respuesta institucional** describen aspectos distintos de la misma situación: el primero
+agresión sostenida mediante medios digitales;, mientras el segundo conjunto de acciones que el establecimiento debe ejecutar ante un incidente digital.
+
+La prueba de que la distinción está entendida es operacional, no verbal: dos personas que
+observan la misma clase deben poder clasificar el mismo episodio de la misma manera. Si no
+coinciden, el problema está en la definición y no en el observador. El error de clasificación más
+frecuente en esta materia es el primero de los que se listan más abajo, y conviene anticiparlo
+antes de aplicar nada.
+
+### 3. Cómo se observa y se mide
+
+Nada de lo anterior sirve si no se puede observar. Estas son las señales que esta clase usa y
+cómo se recogen:
+
+- **Evidencia de partida.** Qué sabían o podían hacer los estudiantes antes de la decisión, comprobado y no supuesto. Se registra con fecha y contexto; sin eso, la señal no distingue una tendencia de una casualidad.
+- **Evidencia de proceso.** Qué se observó mientras la decisión se aplicaba, con fecha, contexto y responsable del registro. Se registra con fecha y contexto; sin eso, la señal no distingue una tendencia de una casualidad.
+- **Evidencia de logro.** Qué muestra un protocolo de ciudadanía digital con enseñanza preventiva, procedimiento ante incidentes y criterios de derivación frente al criterio declarado de antemano. Se registra con fecha y contexto; sin eso, la señal no distingue una tendencia de una casualidad.
+
+Ninguna de estas señales es el aprendizaje: son indicios de él. Confundir el indicio con el
+fenómeno es el error clásico de la medición educativa, y por eso cada señal se interpreta junto
+con el contexto, el punto de partida del grupo y lo que el propio estudiante puede explicar sobre
+su trabajo.
+
+### 4. Cómo se traduce en decisiones de enseñanza
 
 La enseñanza preventiva rinde cuando trabaja con situaciones concretas del entorno de los estudiantes y no con advertencias generales. El protocolo institucional debe estar escrito antes del primer incidente: quién recibe la denuncia, qué se resguarda como evidencia, a quién se informa, en qué plazo y cuándo corresponde denunciar a la autoridad. Improvisar en el momento produce daños adicionales.
 
-### 3. Qué sostiene la evidencia y qué no
+### 5. Qué sostiene la evidencia y qué no
 
 La evidencia sobre programas de prevención del ciberacoso muestra efectos modestos y muy dependientes de la implementación. Y el campo cambia con la tecnología más rápido de lo que se producen estudios. Además, la respuesta institucional está regulada y sus obligaciones cambian: hay que verificar la norma vigente antes de actuar.
 
 > **Cómo leer el estado de evidencia `EMERGENTE`.** El cuerpo de estudios es reciente, escaso o poco replicado. Úsala como hipótesis de trabajo con seguimiento explícito, nunca como argumento de autoridad ni como base para una política de establecimiento.
+
+### 6. Integración: de los conceptos a una decisión defendible
+
+Una decisión es defendible cuando puede explicarse a alguien que no estuvo presente. Esta clase
+te deja en condiciones de qué se enseña, qué se regula y qué se deriva cuando ocurre un incidente digital en tu comunidad, y esa decisión se sostiene solo si
+declara cuatro cosas: la evidencia que la funda, el supuesto que asume, el indicador que la
+comprobaría y la condición que la haría cambiar.
+
+Ese es también el criterio con el que se evalúa la evidencia de aprendizaje de la clase. Un
+análisis que podría copiarse a otra clase, a otro curso o a otro establecimiento sin cambiar una
+palabra no es una decisión: es una declaración general, y el oficio empieza justo donde las
+declaraciones generales terminan.
+
+## 📚 Lectura comparada
+
+Las obras no cumplen el mismo papel. Esta tabla indica qué lente aporta cada una;
+después de leer, escribe una discrepancia real entre al menos dos fuentes.
+
+| Fuente | Lente que aporta | Pregunta crítica |
+|---|---|---|
+| UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso*. | marco internacional con recomendaciones y evidencia disponible. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+| Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos*. | define obligaciones y procedimientos exigibles al establecimiento. | ¿Qué supuesto de esta clase ayuda a poner a prueba? |
+
+La lectura se evalúa por **uso**, no por cantidad de páginas. Tu nota de lectura debe indicar qué
+tesis modifica tu diagnóstico, qué evidencia del caso la tensiona y qué decisión concreta
+cambiarías después del contraste. Una nota que solo resume el texto no cumple el criterio.
+
+## 🧮 Ejemplo trabajado
+
+**Situación.** En 2.º medio, la mitad del curso entrega trabajos hechos con herramientas generativas y el resto dejó de entregar. La respuesta institucional fue prohibir el celular; el desenganche siguió igual.
+
+**Paso 1 — Delimitar el contexto y comprobar —no suponer— qué saben ya los estudiantes.** El equipo escribe primero el supuesto asociado a **Ciudadanía digital** y se prohíbe tratarlo como hecho. Contrasta ese supuesto con **Evidencia de partida** y anota qué parte del dato todavía no existe. Del paso sale un registro fechado y una frase explícita: «cambiaríamos de decisión si…».
+
+**Paso 2 — Clasificar la situación distinguiendo Ciudadanía digital de Privacidad.** El trabajo aquí es separar lo observado de lo interpretado sobre **Privacidad**. La evidencia que ordena la conversación es **Evidencia de proceso**; si su definición no está escrita, escribirla es parte del paso. Nada avanza mientras el equipo no acuerde qué contaría como refutación.
+
+**Paso 3 — Decidir con fundamento, usando Ciberacoso como criterio y declarando la fuente.** El riesgo de este paso es cerrar demasiado rápido alrededor de **Ciberacoso**. Antes de concluir, se enumeran dos explicaciones alternativas del mismo patrón y se revisa si **Evidencia de logro** logra distinguirlas. Si no lo logra, hace falta otra evidencia y así debe quedar registrado.
+
+**Paso 4 — Anticipar qué evidencia confirmaría la decisión y cuál la refutaría, con Respuesta institucional a la vista.** Con **Respuesta institucional** ya delimitado, la pregunta pasa a ser de consecuencia: qué cambia para los estudiantes, para el tiempo de clase y para la carga del equipo. **Evidencia de partida** entrega la lectura observable; el juicio profesional sigue siendo humano y debe quedar firmado por quien lo hace.
+
+**Paso 5 — Registrar lo ocurrido y contrastarlo contra el criterio de logro antes de avanzar.** El cierre exige compromiso: responsable, fecha, indicador de logro y condición de detención. **Evidencia de proceso** se convierte en la señal de seguimiento, y se acuerda con qué frecuencia se revisa y quién puede declarar que no funcionó sin costo político.
+
+**Síntesis.** La recomendación termina con responsable, fecha, evidencia de logro y señal de
+detención. Omitir cualquiera de esas cuatro piezas convierte el análisis en una opinión que nadie
+podrá auditar dentro de tres meses, y que por lo tanto nadie corregirá.
+
+## 🔀 Comparación de caminos y límites
+
+Ante la misma situación caben varios cursos de acción. La decisión profesional no es
+elegir el «correcto», sino saber qué privilegia cada uno y qué arriesga.
+
+| Camino | Qué privilegia | Cuándo elegirlo | Riesgo principal |
+|---|---|---|---|
+| Intervenir sobre **Ciudadanía digital** | Ejercicio responsable de derechos y deberes en entornos digitales | Cuando **Evidencia de partida** es observable y accionable dentro del plazo de la decisión. | Sobrerreaccionar a una señal parcial. |
+| Intervenir sobre **Privacidad** | Control sobre la información personal propia y ajena; se enseña con casos concretos | Cuando la primera explicación no distingue mecanismo ni responsable. | Convertir el concepto en etiqueta y no en intervención. |
+| Observar antes de decidir | Reducir la incertidumbre antes de comprometer tiempo y credibilidad | Cuando la decisión es reversible y la evidencia disponible no distingue causas. | Observar indefinidamente y no decidir nunca. |
+| Derivar o escalar | Poner la decisión donde están la competencia y la responsabilidad | Cuando hay normativa, resguardo de datos, salud o vulneración de derechos en juego. | Delegar hacia arriba lo que sí correspondía decidir en el aula. |
+
+**Frontera de aplicación.** La evidencia sobre programas de prevención del ciberacoso muestra efectos modestos y muy dependientes de la implementación. Fuera de esa frontera, la comparación
+anterior deja de ser válida y la decisión debe tomarse con evidencia distinta.
+
+## 🪜 El mismo tema según el rol
+
+La misma materia cambia de forma según quién decida. Al subir de nivel aumentan las
+personas, el tiempo y las consecuencias que quedan dentro de la decisión.
+
+| Nivel | Responsabilidad sobre ciudadanía digital |
+|---|---|
+| **Docente de aula** | Aplica, observa y registra la evidencia; declara qué no puede resolver desde su rol. |
+| **Equipo de apoyo o educación diferencial** | Verifica que la decisión no deje fuera a quien más barreras enfrenta y aporta los apoyos. |
+| **Jefatura técnico-pedagógica** | Convierte la decisión en criterio compartido, tiempo protegido y acompañamiento. |
+| **Dirección** | Decide si esto cambia condiciones institucionales, recursos o el plan de mejora. |
+| **Formación e investigación** | Pregunta si la decisión es generalizable, con qué evidencia y qué haría falta para probarlo. |
+
+Si trabajas en uno de esos niveles, la [guía de carrera de tu rol](../../../rutas/README.md)
+indica en qué orden conviene recorrer el programa y qué artefactos acreditan tu competencia.
 
 ## 🧪 Taller guiado
 
@@ -87,18 +230,56 @@ con un grupo no se traslada intacto a otro.
 7. Produce la evidencia de aprendizaje de la clase.
 8. Contrástala contra el criterio de logro, corrige y recién entonces avanza.
 
-### 📦 Evidencia de aprendizaje
+## 🏫 Caso profesional
+
+**Situación.** En 2.º medio, la mitad del curso entrega trabajos hechos con herramientas generativas y el resto dejó de entregar. La respuesta institucional fue prohibir el celular; el desenganche siguió igual.
+
+Entrega un **informe de decisión** de una página que contenga:
+
+1. **Hechos y fuentes** — qué está documentado y con qué evidencia, separado de lo que se supone.
+2. **Hipótesis** — la explicación más probable y una alternativa que también encajaría.
+3. **Dos opciones defendibles** — no una recomendación y un espantapájaros.
+4. **Efecto esperado** — sobre los estudiantes, el tiempo de clase, el equipo y los apoyos.
+5. **Recomendación** — con su fundamento y la fuente que la respalda.
+6. **Condición de revisión** — qué resultado te haría cambiar de decisión.
+7. **Responsable y fecha** — quién ejecuta y cuándo se revisa.
+
+Usa al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta. Una
+recomendación que ninguna fuente pone en duda casi siempre está poco examinada.
+
+## 📥 Evidencia de aprendizaje
 
 Un protocolo de ciudadanía digital con enseñanza preventiva, procedimiento ante incidentes y criterios de derivación.
 
-Debe incluir contexto, decisión, fundamento, fuentes consultadas con su fecha, indicador de
-logro observable, riesgos previstos y qué harías distinto en la siguiente iteración.
+Guárdala en `evidence/P05-C070-ciudadania-digital/` con estos archivos:
+
+| Archivo | Qué contiene |
+|---|---|
+| `decision.md` | contexto, decisión, fundamento, fuentes con fecha, indicador de logro y riesgos |
+| `senales.md` | definición operacional de las tres señales, cómo se recogieron y qué no distinguen |
+| `nota-de-lectura.md` | dos fuentes contrastadas, con edición y páginas consultadas |
+| `revision-critica.md` | la objeción más fuerte a tu decisión y qué evidencia la invalidaría |
+
+Esta evidencia alimenta el artefacto de la parte: **desafío de educación media con autoridad pedagógica explícita, evaluación auténtica y análisis de resultados estudiante por estudiante**.
 
 ## 🏆 Reto verificable
 
 Revisa el protocolo digital de tu establecimiento y simula un incidente real. Identifica dónde se detiene el procedimiento y propón la corrección.
 
-## ✅ Criterio de logro
+## ✅ Evaluación de la clase
+
+| Criterio | Peso | Evidencia esperada |
+|---|---:|---|
+| Precisión conceptual | 25 % | Distinciones correctas y observables entre los cuatro conceptos, aplicadas a un caso real. |
+| Diagnóstico y evidencia | 30 % | Conocimiento previo comprobado, evidencia recogida con fecha y contexto, y límites del dato declarados. |
+| Decisión y alternativas | 30 % | Decisión fundada, alternativa prevista si falla, y condición explícita que la haría cambiar. |
+| Responsabilidad y comunicación | 15 % | Diversidad y resguardos considerados, fuentes citadas y evidencia archivada de forma reproducible. |
+
+**Aprobación:** 80 de 100 y ningún criterio bajo el 60 %. Una respuesta que podría copiarse sin
+cambios a otra clase, a otro curso o a otro establecimiento se considera insuficiente, aunque
+esté bien escrita.
+
+**Criterio de logro de la evidencia:**
 
 - [ ] el protocolo distingue conflicto, falta reglamentaria y posible delito, con la respuesta de cada uno;
 - [ ] la enseñanza preventiva usa casos del entorno real de los estudiantes;
@@ -118,6 +299,10 @@ Revisa el protocolo digital de tu establecimiento y simula un incidente real. Id
 - Interpretar como indisciplina lo que es un desajuste entre etapa y ambiente.
 - Confundir autoridad con imposición y perder legitimidad en el primer conflicto.
 
+Los cuatro comparten estructura: un síntoma visible, una causa que no se ve y una corrección que
+casi siempre es de diseño y no de esfuerzo. Antes de atribuir el problema a los estudiantes o a
+ti, comprueba cuál de ellos está operando y qué evidencia lo distinguiría de los otros tres.
+
 ## ♿ Diversidad, accesibilidad y ética
 
 Los incidentes digitales afectan de forma desproporcionada a estudiantes con identidades minorizadas y a quienes ya sufren exclusión presencial. Un protocolo que no considera esa asimetría termina tratando como conflicto entre pares lo que es hostigamiento sistemático.
@@ -127,23 +312,38 @@ Antes de aplicar cualquier decisión de esta clase con estudiantes reales, revis
 consentimiento, resguardo de datos personales, proporcionalidad de la intervención y derecho
 de cada estudiante a no ser objeto de un ensayo que no le reporta beneficio.
 
+## 🇨🇱 Contexto chileno y cumplimiento
+
+Riesgo característico de esta parte: **Interpretar como indisciplina lo que es un desajuste entre etapa y ambiente.** Antes de aplicar
+cualquier decisión de esta clase en un establecimiento real, verifica el marco vigente:
+
+- Marco institucional y normativo: [`docs/MARCO_CHILE.md`](../../../docs/MARCO_CHILE.md).
+- Inclusión y apoyos: [`docs/INCLUSION_Y_DUA.md`](../../../docs/INCLUSION_Y_DUA.md).
+- Datos personales, IA y resguardos: [`docs/IA_EN_EDUCACION.md`](../../../docs/IA_EN_EDUCACION.md).
+- Fuentes oficiales con cómo leerlas: [`docs/FUENTES.md`](../../../docs/FUENTES.md).
+
+La regla del programa es simple: **la fuente oficial manda sobre el material pedagógico**. Si la
+norma cambió después de la fecha de esta clase, gana la norma.
+
 ## ❓ Preguntas de comprobación
 
 1. ¿Qué hace tu establecimiento en las primeras 24 horas de un incidente digital?
 2. ¿Qué evidencia se resguarda y quién la custodia?
 3. ¿Qué enseñas sobre privacidad que tus estudiantes puedan aplicar mañana?
 
-## 📕 Lecturas base
+## 📗 Fuentes y verificación
 
-**UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso*.**  
-*Qué aporta a esta clase:* marco internacional con recomendaciones y evidencia disponible.
-
-**Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos*.**  
-*Qué aporta a esta clase:* define obligaciones y procedimientos exigibles al establecimiento.
+- UNESCO. *Orientaciones sobre ciudadanía digital y prevención del ciberacoso*. **Uso en esta clase:** marco internacional con recomendaciones y evidencia disponible. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
+- Superintendencia de Educación (Chile). *Orientaciones sobre convivencia digital y protocolos*. **Uso en esta clase:** define obligaciones y procedimientos exigibles al establecimiento. Lectura selectiva: índice y capítulos pertinentes; registra edición y páginas consultadas.
 
 Catálogo completo: [bibliografía del programa](../../../docs/BIBLIOGRAFIA.md) ·
 [glosario](../../../docs/GLOSARIO.md) ·
 [fuentes oficiales y cómo leerlas](../../../docs/FUENTES.md).
+
+> **Regla de fuentes.** Las obras anteriores estructuran las perspectivas de esta materia.
+> Cualquier norma, decreto, orientación ministerial o política institucional mencionada debe
+> comprobarse en su fuente primaria vigente antes de usarse con estudiantes reales. El desarrollo
+> de esta clase es original y no reproduce capítulos protegidos por derechos de autor.
 
 ## 🔗 Conexión con el resto del programa
 

@@ -4,7 +4,7 @@
 
 🟣 **Etapa C — Núcleo profesional docente** · salida de la etapa: diseñar, enseñar, evaluar y gestionar un curso completo con evidencia
 
-**Clases:** 12 (145–156) · **Población de referencia:** transversal, con foco escolar · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (145–156) · **Población de referencia:** transversal, con foco escolar · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Clima de aula, normas y rutinas, prevención de conducta, refuerzo y consecuencias, comunicación docente, conflictos, desmotivación, integridad académica, celulares, trabajo con apoderados y crisis
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ La investigación sobre gestión de aula converge en un hallazgo poco intuitivo:
 El segundo eje es la distinción entre norma, límite y sanción. Una norma se enseña como se enseña cualquier contenido: se explica, se modela, se practica y se corrige. Un límite se sostiene sin escalada emocional. Una sanción, cuando corresponde, debe ser proporcional, previsible y reparadora. Los establecimientos que confunden estos tres niveles terminan con reglamentos extensos y prácticas arbitrarias, que es la combinación que más deteriora el clima.
 
 En Chile la convivencia escolar está regulada: hay obligación de contar con reglamento interno, protocolos de actuación ante situaciones específicas, encargado de convivencia y procedimientos con debido proceso. Conocer ese marco no es burocracia defensiva: es lo que permite actuar rápido sin vulnerar derechos, y lo que protege tanto al estudiante como al docente cuando una situación se vuelve grave.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> En 8.º básico se registran 23 anotaciones en un mes, casi todas en los mismos cuatro estudiantes y casi todas en los primeros diez minutos de clase. El reglamento se aplica con criterios distintos según el docente.
+
+**Artefacto que produces al terminar:** plan de gestión de aula con rutinas enseñadas, escala de intervención graduada, protocolos y indicadores de clima.
 
 ## 📚 Resultados de la parte
 
@@ -85,6 +94,13 @@ flowchart TB
 - [ ] el registro de una intervención conductual con análisis posterior;
 - [ ] un protocolo propio de derivación con actores, plazos y registro;
 - [ ] el plan de gestión de aula completo, con indicadores de clima.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

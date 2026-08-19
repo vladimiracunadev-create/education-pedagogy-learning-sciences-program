@@ -61,15 +61,25 @@ doctoral que resistió las tres objeciones más fuertes de un especialista.
 - Paquete exportable a LMS con manifiesto, CSV y HTML por lección.
 - Validación de estructura, enlaces, codificación y Markdown en cada push.
 
-### v1.1 — próximo
+### v1.2 — publicado
+
+- Estándar `clase-profunda`: 22 secciones por clase y 840.621 palabras de currículo.
+- 18 casos persistentes, uno por parte, con su artefacto declarado.
+- CodeQL, manifiesto generado, validación de profundidad y carpeta de evidencia.
+
+### v1.3 — próximo
 
 - [ ] Ampliar `cases/` a 18 casos, uno por parte, con pauta de resolución y solución comentada.
 - [ ] Plantillas de trabajo en `templates/`: planificación, rúbrica, plan de apoyo, protocolo de
       observación, plan de mejora y syllabus.
 - [ ] Notebooks reproducibles para las partes 11 y 16, con los datos sintéticos de `datasets/`.
+- [ ] Una evaluación por parte con bloques ponderados, y un caso extendido por parte.
+- [ ] Laboratorios con rúbrica de 100 puntos y escenario adverso obligatorio.
+- [ ] Prompt maestro y guardarraíles de IA para expandir el programa sin perder el estándar.
+- [ ] Panel de progreso local que lea `catalog.json` y registre evidencia producida.
 - [ ] Guía de lectura por parte en `books/`, con orden sugerido y nivel de dificultad.
 
-### v1.2 — planificado
+### v1.4 — planificado
 
 - [ ] Versión en lectura fácil de las clases del tronco común.
 - [ ] Descripciones largas de los diagramas para lectores de pantalla.

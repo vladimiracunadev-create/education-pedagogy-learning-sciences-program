@@ -35,6 +35,7 @@ SECCIONES = [
     ("cases", "Casos profesionales"),
     ("projects", "Proyectos integradores"),
     ("assessments", "Evaluación"),
+    ("evidence", "Evidencia y portafolio"),
     ("templates", "Plantillas"),
     ("labs", "Laboratorios"),
     ("chile-education-system", "Sistema educativo chileno"),

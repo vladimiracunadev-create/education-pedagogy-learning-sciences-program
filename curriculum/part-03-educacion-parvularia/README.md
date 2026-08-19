@@ -4,7 +4,7 @@
 
 🔵 **Etapa B — Enseñanza por ciclo vital** · salida de la etapa: enseñar a una población concreta con decisiones ajustadas a su desarrollo
 
-**Clases:** 12 (037–048) · **Población de referencia:** sala cuna, niveles medios y transición (0 a 6 años) · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (037–048) · **Población de referencia:** sala cuna, niveles medios y transición (0 a 6 años) · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Principios de la educación parvularia, juego, ambientes, lenguaje y alfabetización emergente, pensamiento matemático temprano, corporalidad, arte, exploración, socioemocional, observación y familia
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ La educación parvularia es el nivel donde peor funciona la intuición de quien 
 Eso no significa que aquí no se enseñe. Significa que se enseña de otro modo: mediante experiencias intencionadas, juego con propósito, preguntas que amplían, vocabulario que se ofrece de manera deliberada y una organización del espacio que hace posibles conductas que no aparecerían por sí solas. La diferencia entre una sala con intención pedagógica y una sala entretenida es visible en la documentación: la primera puede explicar qué aprendizaje persigue cada rincón.
 
 El nivel tiene además un marco normativo propio en Chile —Bases Curriculares de la Educación Parvularia, estándares de sala cuna y jardín, rol de la Subsecretaría y de la Intendencia de Educación Parvularia— y una historia de evidencia sobre efectos de largo plazo que conviene leer con cuidado. Los estudios longitudinales muestran efectos reales, pero condicionados a la calidad del programa: la asistencia a un jardín de baja calidad no produce los resultados que se le atribuyen al nivel.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> En el nivel de transición del jardín asociado, la presión de las familias por «que salgan leyendo» empujó a reemplazar el juego por fichas de trazado. La educadora observa menos lenguaje, más conflictos y ninguna mejora en los precursores lectores.
+
+**Artefacto que produces al terminar:** experiencia parvularia completa con ambiente, mediación planificada y documentación pedagógica del aprendizaje de tres niños.
 
 ## 📚 Resultados de la parte
 
@@ -85,6 +94,13 @@ flowchart TB
 - [ ] un registro de observación con evidencia de aprendizaje de al menos tres niños;
 - [ ] una propuesta de organización del espacio justificada por objetivo;
 - [ ] un plan de trabajo con familias con acciones, responsables y periodicidad.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

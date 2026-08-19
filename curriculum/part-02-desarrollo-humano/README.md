@@ -4,7 +4,7 @@
 
 🟢 **Etapa A — Fundamentos** · salida de la etapa: explicar cómo aprende una persona y qué hace la educación con ese hecho
 
-**Clases:** 12 (025–036) · **Población de referencia:** trayectoria completa: primera infancia a adultez mayor · **Conceptos con definición operacional:** 48<br>
+**Clases:** 12 (025–036) · **Población de referencia:** trayectoria completa: primera infancia a adultez mayor · **Conceptos operacionales:** 48 · **Señales observables:** 36<br>
 **Contenido central:** Desarrollo prenatal y temprano, motor, lenguaje, cognitivo, socioemocional, apego, niñez media, adolescencia, adultez, envejecimiento y diferencias individuales
 
 ## 🎯 De qué trata esta parte
@@ -14,6 +14,15 @@ El desarrollo no es una escalera de etapas que se suben en fecha fija. Es un pro
 La consecuencia práctica más importante es que la edad no es una variable menor de la planificación: es una restricción real. Una tarea de metacognición explícita que funciona en séptimo básico es inútil a los cuatro años, no porque el niño sea menos capaz, sino porque el sustrato que la tarea exige todavía se está construyendo. Del mismo modo, tratar a un adolescente con la lógica de control de la niñez media produce exactamente la reacción que se quería evitar.
 
 Esta parte también entrena una forma de prudencia. La neurociencia del desarrollo se divulga mal: se cierran ventanas críticas que no son tan críticas, se afirman períodos irrecuperables que la evidencia no sostiene y se convierte una correlación en una sentencia. Aquí se enseña qué está bien establecido —la importancia de la interacción sensible temprana, la plasticidad prolongada— y qué se ha exagerado, para que ninguna decisión educativa se apoye en una versión caricaturizada del cerebro.
+
+## 🏫 Caso de la parte
+
+Las doce clases trabajan sobre la misma realidad, para que puedas ver cómo cambia tu diagnóstico
+a medida que avanzas:
+
+> Un estudiante de 7.º básico dejó de participar, baja sus resultados y responde con agresividad a las correcciones. En el consejo aparecen cuatro explicaciones distintas —familiar, cognitiva, conductual y motivacional— y ninguna con evidencia.
+
+**Artefacto que produces al terminar:** trayectoria de desarrollo documentada con registros fechados, interpretación y decisiones por tramo.
 
 ## 📚 Resultados de la parte
 
@@ -92,6 +101,13 @@ flowchart LR
 - [ ] una misma actividad adaptada a tres edades con su justificación;
 - [ ] un protocolo escrito de derivación responsable con criterios y actores;
 - [ ] la trayectoria de desarrollo del proyecto integrador, documentada con observación.
+
+## 🧭 Práctica y evaluación de la parte
+
+- [Rúbrica maestra e instrumentos de autoevaluación](../../assessments/README.md)
+- [Casos profesionales para resolver con este marco](../../cases/README.md)
+- [Laboratorios de decisión](../../labs/README.md)
+- [Dónde se archiva la evidencia](../../evidence/README.md)
 
 ---
 

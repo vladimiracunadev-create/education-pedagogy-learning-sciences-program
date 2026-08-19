@@ -8,13 +8,13 @@ coincidiendo con lo publicado.
 
 | Métrica | Valor |
 |---|---:|
-| Versión | 1.1.0 |
+| Versión | 1.2.0 |
 | Etapas | 5 |
 | Partes | 18 |
 | Clases | 216 |
 | Clases por parte | 12 |
-| Palabras en las 216 clases | 301.694 |
-| Palabras por clase | 1302–1577 (mediana 1384) |
+| Palabras en las 216 clases | 840.621 |
+| Palabras por clase | 3765–4133 (mediana 3875) |
 | Diagramas mermaid | 234 (uno por clase y uno por parte) |
 | Conceptos con definición operacional | 864 |
 | Decisiones profesionales habilitadas | 216 (una por clase) |
